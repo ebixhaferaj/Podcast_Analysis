@@ -1,0 +1,868 @@
+﻿segment_id,start_time,end_time,start_seconds,end_seconds,duration,text
+1,"00:00:01,040","00:00:03,880",1.04,3.88,2.84,"Mehr Rente, mehr Mindestlohn, mehr Bürgergeld."
+2,"00:00:04,120","00:00:06,680",4.12,6.68,2.5599999999999996,"Die Versprechen der Linken sind nicht neu,"
+3,"00:00:06,760","00:00:09,560",6.76,9.56,2.8000000000000007,aber mit ihnen ist die Partei neu erfolgreich.
+4,"00:00:09,640","00:00:13,080",9.64,13.08,3.4399999999999995,Obwohl die Sozialkassen jetzt schon kaum mithalten können
+5,"00:00:13,160","00:00:15,120",13.16,15.12,1.959999999999999,und die Wirtschaft stagniert.
+6,"00:00:15,200","00:00:17,840",15.2,17.84,2.6400000000000006,Schadet linke Politik unserem Wohlstand?
+7,"00:00:19,360","00:00:21,680",19.36,21.68,2.3200000000000003,Das frage ich die Co-Fraktionsvorsitzende
+8,"00:00:21,760","00:00:23,880",21.76,23.88,2.1199999999999974,der Partei Die Linke im Bundestag.
+9,"00:00:23,960","00:00:27,000",23.96,27.0,3.039999999999999,Und später die Ökonomin Philippa Sigl-Glöckner
+10,"00:00:27,080","00:00:30,800",27.08,30.8,3.7200000000000024,"und den Chefredakteur von Table.Briefings, Michael Bröcker."
+11,"00:00:31,840","00:00:34,760",31.84,34.76,2.919999999999998,Guten Abend und willkommen hier im Studio.
+12,"00:00:36,280","00:00:40,280",36.28,40.28,4.0,Diese Sendung wurde vom NDR live untertitelt (14.09.2025)
+13,"00:00:46,360","00:00:48,800",46.36,48.8,2.4399999999999977,"Guten Abend, Frau Reichinnek."
+14,"00:00:48,880","00:00:52,000",48.88,52.0,3.1199999999999974,"Danke, dass Sie der Einladung gefolgt sind."
+15,"00:00:52,080","00:00:57,680",52.08,57.68,5.600000000000001,"Sie haben schon mal gesagt, Sie seien zu schnell fürs Fernsehen."
+16,"00:00:58,760","00:01:02,600",58.76,62.6,3.8400000000000034,"Was kann ich tun, damit Sie heute langsamer sprechen?"
+17,"00:01:02,840","00:01:04,400",62.84,64.4,1.5600000000000023,Ich gebe mein Bestes.
+18,"00:01:04,520","00:01:06,960",64.52,66.96,2.4399999999999977,Einfach zwischendurch Bescheid sagen.
+19,"00:01:07,880","00:01:11,520",67.88,71.52,3.6400000000000006,"Auch weil Sie so sind, hat Ihre Partei enorm zugelegt,"
+20,"00:01:12,560","00:01:17,760",72.56,77.76,5.200000000000003,sich auch heute bei den Kommunalwahlen in NRW verbessert.
+21,"00:01:18,000","00:01:21,320",78.0,81.32,3.319999999999993,"Aber wenn man sich die Umfragen genauer anschaut,"
+22,"00:01:21,400","00:01:26,960",81.4,86.96000000000001,5.560000000000002,"dann laut Infratest dimap nur drei Prozent der Menschen in NRW,"
+23,"00:01:27,040","00:01:30,880",87.03999999999999,90.88,3.8400000000000034,"dass sie Ihnen nicht zutrauen, Probleme zu lösen."
+24,"00:01:35,040","00:01:39,040",95.03999999999999,99.03999999999999,4.0,"Die Leute vor Ort trauen Ihnen nur zu 3 % zu,"
+25,"00:01:40,240","00:01:41,920",100.24000000000001,101.92,1.6799999999999926,die Probleme zu lösen.
+26,"00:01:46,520","00:01:50,400",106.52000000000001,110.4,3.8799999999999955,Bremst das die Freude über den neuen Schwung der Linken?
+27,"00:01:50,960","00:01:54,040",110.96000000000001,114.03999999999999,3.079999999999984,"Nein, das ist unsere Aufgabe, deutlich zu machen,"
+28,"00:01:54,120","00:01:56,240",114.12,116.24000000000001,2.1200000000000045,dass wir Probleme vor Ort haben.
+29,"00:01:56,320","00:01:58,600",116.32,118.6,2.280000000000001,Wir haben auch Lösungen parat.
+30,"00:01:59,800","00:02:02,680",119.8,122.68,2.8800000000000097,"Der Erfolg meiner Partei liegt nicht an mir,"
+31,"00:02:04,640","00:02:06,800",124.64,126.8,2.1599999999999966,sondern an unseren Konzepten.
+32,"00:02:07,320","00:02:11,240",127.32,131.24,3.920000000000016,"Wir reden nicht nur, sondern hören auch zu und setzen um."
+33,"00:02:11,840","00:02:14,640",131.84,134.64,2.799999999999983,Das scheint aber ja nicht zu funktionieren.
+34,"00:02:14,720","00:02:17,840",134.72,137.84,3.1200000000000045,Sie sind wahnsinnig erfolgreich in den Umfragen.
+35,"00:02:19,720","00:02:23,480",139.72,143.48,3.759999999999991,"Aber die Leute sagen, Frau Reichinnek ist sympathisch."
+36,"00:02:23,720","00:02:27,320",143.72,147.32,3.5999999999999943,"Aber wenn's um Regieren geht, nehmen wir lieber die anderen."
+37,"00:02:27,400","00:02:29,720",147.4,149.72,2.319999999999993,Wie erklären Sie sich das Misstrauen?
+38,"00:02:29,800","00:02:33,440",149.8,153.44,3.6399999999999864,Die Linke lag Ende letzten Jahres ziemlich am Boden.
+39,"00:02:37,640","00:02:40,880",157.64,160.88,3.240000000000009,Seitdem haben wir einen Aufstieg hingelegt.
+40,"00:02:42,120","00:02:46,080",162.12,166.07999999999998,3.9599999999999795,"Dieses Vertrauen zu gewinnen, zu zeigen, was wir können,"
+41,"00:02:46,160","00:02:47,640",166.16,167.64,1.4799999999999898,das dauert.
+42,"00:02:47,720","00:02:51,560",167.72,171.56,3.8400000000000034,Es ist nicht mit einem guten Wahlkampf erledigt.
+43,"00:02:51,840","00:02:56,280",171.84,176.28,4.439999999999998,"Darum ist es so wichtig, dass wir an den Haustüren sind."
+44,"00:02:58,760","00:03:03,280",178.76,183.28,4.52000000000001,"Wir helfen schon in der Opposition, dass es den Menschen besser geht."
+45,"00:03:06,160","00:03:08,280",186.16,188.28,2.1200000000000045,"Vielleicht hat es was damit zu tun,"
+46,"00:03:08,360","00:03:12,040",188.36,192.04,3.6799999999999784,dass Ihre Partei nichts Geringeres als einen Systemwechsel will.
+47,"00:03:12,120","00:03:14,000",192.12,194.0,1.8799999999999955,In einem Teil unseres Landes
+48,"00:03:14,080","00:03:16,960",194.08,196.96,2.8799999999999955,hatten wir bis vor 35 Jahren ein anderes System.
+49,"00:03:17,080","00:03:20,400",197.07999999999998,200.4,3.3200000000000216,"Und über dieses System haben Sie gerade im Stern gesagt,"
+50,"00:03:20,440","00:03:23,440",200.44,203.44,3.0,dass das in der DDR kein Sozialismus gewesen sei.
+51,"00:03:24,800","00:03:26,320",204.8,206.32,1.5199999999999818,Was war es denn dann?
+52,"00:03:27,080","00:03:29,920",207.07999999999998,209.92000000000002,2.840000000000032,Das ist die Überschrift des Artikels.
+53,"00:03:30,000","00:03:32,480",210.0,212.48,2.4799999999999898,Mein Zitat geht aber weiter.
+54,"00:03:33,480","00:03:37,000",213.48,217.0,3.5200000000000102,Aber viele lesen nicht mehr als einen Satz.
+55,"00:03:39,280","00:03:43,520",219.28,223.52,4.240000000000009,"Das war kein Sozialismus, wie ihn sich meine Partei vorstellt."
+56,"00:03:43,640","00:03:46,120",223.64,226.12,2.480000000000018,Ich will nicht dahin zurück.
+57,"00:03:47,440","00:03:50,840",227.44,230.84,3.4000000000000057,"Aber was war es, wenn es kein Sozialismus war?"
+58,"00:03:50,920","00:03:53,000",230.92000000000002,233.0,2.079999999999984,"Für uns ist ganz klar,"
+59,"00:03:53,480","00:03:57,280",233.48,237.28,3.8000000000000114,dass wir die Verteilungs- und Eigentumsfrage stellen wollen.
+60,"00:03:57,560","00:04:01,280",237.56,241.28,3.719999999999999,"Aber natürlich brauche ich auch Freiheiten, freie Wahlen."
+61,"00:04:01,440","00:04:04,240",241.44,244.24,2.8000000000000114,Ich brauche einen demokratischen Sozialismus.
+62,"00:04:04,360","00:04:08,080",244.36,248.08,3.719999999999999,"Aber so wie es jetzt hier läuft, ist es auch nicht gut."
+63,"00:04:08,760","00:04:12,040",248.76,252.04,3.280000000000001,Wir haben ein Gerechtigkeitsproblem in diesem Land.
+64,"00:04:13,520","00:04:16,440",253.52,256.44,2.9199999999999875,Sie kritisieren das Wirtschaftssystem.
+65,"00:04:17,760","00:04:21,200",257.76,261.2,3.4399999999999977,"Sie haben es selbst nicht erlebt, denn Sie sind ein Jahr"
+66,"00:04:21,280","00:04:24,720",261.28,264.72,3.4400000000000546,vor dem Mauerfall in Merseburg in Sachsen-Anhalt geboren.
+67,"00:04:24,800","00:04:28,720",264.8,268.72,3.920000000000016,Aber natürlich haben Ihre Eltern in der DDR gelebt und gearbeitet.
+68,"00:04:28,800","00:04:29,960",268.8,269.96,1.1599999999999682,"Finden Sie,"
+69,"00:04:30,040","00:04:33,240",270.04,273.24,3.1999999999999886,dass die Wirtschaftsordnung der DDR vorbildlich war?
+70,"00:04:33,320","00:04:39,040",273.32,279.04,5.720000000000027,"Einige Teile waren positiv, gerade die öffentliche Daseinsvorsorge."
+71,"00:04:40,320","00:04:43,080",280.32,283.08,2.759999999999991,Die möchte ich auch zurückhaben.
+72,"00:04:43,360","00:04:45,880",283.36,285.88,2.519999999999982,Natürlich gab es negative Aspekte.
+73,"00:04:46,760","00:04:50,200",286.76,290.2,3.4399999999999977,"Es gab die Knappheit, den Bedarf an Arbeitskräften."
+74,"00:04:51,040","00:04:54,680",291.04,294.68,3.6399999999999864,"Es war auch nicht alles so gleich, wie behauptet wird."
+75,"00:04:54,880","00:04:57,680",294.88,297.68,2.8000000000000114,"Mir geht es darum, das Problem zu benennen,"
+76,"00:04:57,760","00:04:59,240",297.76,299.24,1.4800000000000182,das wir haben.
+77,"00:04:59,360","00:05:02,040",299.36,302.04,2.680000000000007,Und das ist ein Gerechtigkeitsproblem.
+78,"00:05:02,320","00:05:05,720",302.32,305.72,3.400000000000034,Immer mehr Kinder und Jugendliche leben in Armut.
+79,"00:05:05,840","00:05:09,160",305.84,309.16,3.32000000000005,Immer mehr Rentner müssen Pfandflaschen sammeln.
+80,"00:05:09,240","00:05:12,760",309.24,312.76,3.519999999999982,Viele können sich kein gutes Essen leisten.
+81,"00:05:12,960","00:05:15,800",312.96,315.8,2.840000000000032,Aber den sozialen Markt wollen sie abschaffen?
+82,"00:05:15,880","00:05:18,680",315.88,318.68,2.8000000000000114,Da gibt's ja auch schon Arbeitnehmerrechte.
+83,"00:05:19,520","00:05:23,080",319.52,323.08,3.5600000000000023,Diese positiven Errungenschaften wurden zurückgedreht.
+84,"00:05:23,160","00:05:25,880",323.16,325.88,2.7199999999999704,Wir hatten sehr starke Gewerkschaften.
+85,"00:05:27,920","00:05:31,440",327.92,331.44,3.519999999999982,"Wir sehen doch, wie sich das zurückgedreht."
+86,"00:05:31,840","00:05:35,400",331.84,335.4,3.5600000000000023,Wir haben einen großen Niedriglohnsektor aufgebaut.
+87,"00:05:35,480","00:05:39,560",335.48,339.56,4.079999999999984,Viele Menschen können von ihrer Arbeit nicht leben.
+88,"00:05:39,840","00:05:42,680",339.84000000000003,342.68,2.839999999999975,Sie suchen sich Sozialleistungen.
+89,"00:05:43,240","00:05:46,880",343.24,346.88,3.6399999999999864,"Das kann doch nicht das sein, was wir wollen."
+90,"00:05:48,240","00:05:51,320",348.24,351.32,3.079999999999984,Der Mindestlohn ist nicht armutsfest.
+91,"00:05:53,320","00:05:56,920",353.32,356.92,3.6000000000000227,"Die SPD hat versprochen, Mindestlohn 15 Euro."
+92,"00:06:00,080","00:06:04,000",360.08,364.0,3.920000000000016,"Wir fordern, dass niemand, der arbeitet, in Armut leben muss."
+93,"00:06:05,200","00:06:09,000",365.2,369.0,3.8000000000000114,"Das ist ein Instrument, um die Mehrheit zu entlasten."
+94,"00:06:10,480","00:06:13,720",370.48,373.72,3.240000000000009,"Sie wollen nicht nur Stellschrauben verdrehen,"
+95,"00:06:13,800","00:06:15,840",373.8,375.84,2.0399999999999636,sondern ein System abschaffen.
+96,"00:06:16,360","00:06:19,520",376.36,379.52,3.159999999999968,"Jedenfalls müssen wir das glauben, wenn wir sehen,"
+97,"00:06:19,680","00:06:22,240",379.68,382.24,2.5600000000000023,was Sie in den sozialen Medien sagen.
+98,"00:06:42,120","00:06:44,880",402.12,404.88,2.759999999999991,Alle Menschen mit so einem großen Vermögen
+99,"00:06:44,960","00:06:47,280",404.96,407.28,2.319999999999993,haben das nicht selbst erarbeitet.
+100,"00:06:47,360","00:06:49,200",407.36,409.2,1.839999999999975,Sind Sie sicher?
+101,"00:06:49,960","00:06:53,040",409.96,413.04,3.080000000000041,Dreiviertel der Vermögen sind ererbt.
+102,"00:06:53,240","00:06:56,360",413.24,416.36,3.1200000000000045,Und ich möchte die Mehrheit entlasten.
+103,"00:06:57,520","00:07:01,720",417.52,421.72,4.2000000000000455,"Darum müssen die herangezogen werden, die mehr haben."
+104,"00:07:02,240","00:07:06,280",422.24,426.28,4.039999999999964,"Dann habe ich das Gefühl, alle Milliardäre ticken gleich."
+105,"00:07:07,280","00:07:10,120",427.28,430.12,2.840000000000032,Wie bekommt man denn eine Milliarde?
+106,"00:07:10,200","00:07:12,880",430.2,432.88,2.680000000000007,Das ist ja keine Eigenleistung.
+107,"00:07:15,000","00:07:17,640",435.0,437.64,2.6399999999999864,Jede Pflegekraft leistet viel.
+108,"00:07:18,400","00:07:20,840",438.4,440.84,2.4399999999999977,Aber ich muss es verteilen.
+109,"00:07:22,200","00:07:23,640",442.2,443.64,1.4399999999999977,"Es kann nicht sein,"
+110,"00:07:23,720","00:07:28,560",443.72,448.56,4.839999999999975,dass eine Familie im Mittelstand über 40 Prozent Steuern zahlt.
+111,"00:07:29,640","00:07:33,480",449.64,453.48,3.840000000000032,"Und wenn du viel mehr Vermögen hast, zahlst du weniger."
+112,"00:07:33,560","00:07:35,560",453.56,455.56,2.0,Das ist eine Unwucht.
+113,"00:07:35,880","00:07:38,760",455.88,458.76,2.8799999999999955,"Ich möchte, dass die Einkommensteuer sinkt."
+114,"00:07:39,160","00:07:42,360",459.15999999999997,462.36,3.2000000000000455,Aber die Vermögen basieren nicht auf Eigenleistung?
+115,"00:07:42,520","00:07:45,240",462.52,465.24,2.7200000000000273,"Aber es gibt doch Beispiele für Unternehmen,"
+116,"00:07:45,320","00:07:46,800",465.32,466.8,1.4800000000000182,wo das ist nicht so ist
+117,"00:07:46,920","00:07:49,480",466.92,469.48,2.5600000000000023,Nehmen wir mal die Biontech-Gründer.
+118,"00:07:49,760","00:07:52,760",469.76,472.76,3.0,Sie wurden mit öffentlichen Mitteln unterstützt.
+119,"00:07:52,920","00:07:56,240",472.92,476.24,3.319999999999993,Entsprechend können sie angemessene Steuern zahlen.
+120,"00:07:56,480","00:07:59,880",476.48,479.88,3.3999999999999773,"Die haben mit ihren Impfstoffen sehr viel Gutes gebracht,"
+121,"00:08:00,040","00:08:02,600",480.04,482.6,2.5600000000000023,auch für Menschen in Deutschland.
+122,"00:08:03,280","00:08:06,280",483.28,486.28,3.0,Die haben in der Pandemie sehr viel Geld verdient
+123,"00:08:06,360","00:08:07,920",486.36,487.92,1.5600000000000023,und sind Milliardäre.
+124,"00:08:08,120","00:08:11,120",488.12,491.12,3.0,Die haben über 370 Mio. vom Staat bekommen.
+125,"00:08:11,600","00:08:14,240",491.6,494.24,2.6399999999999864,Die waren aber schon vorher erfolgreich.
+126,"00:08:14,320","00:08:17,720",494.32,497.72,3.400000000000034,Sie haben sehr viele private Kapitalgeber.
+127,"00:08:20,520","00:08:23,440",500.52,503.44,2.920000000000016,Wo werden da die Leute ausgebeutet?
+128,"00:08:25,160","00:08:27,120",505.16,507.12,1.9599999999999795,Das Grundproblem ist:
+129,"00:08:27,560","00:08:30,960",507.56,510.96,3.3999999999999773,Wir haben in diesem Land eine Vermögensungleichheit.
+130,"00:08:32,480","00:08:34,520",512.48,514.52,2.0399999999999636,Und da müssen wir ran.
+131,"00:08:35,280","00:08:39,000",515.28,519.0,3.7200000000000273,Es war eine konkrete Frage anhand dieses Unternehmens.
+132,"00:08:39,200","00:08:44,560",519.2,524.56,5.3599999999999,Warum werden Milliardäre so verteidigt?
+133,"00:08:45,240","00:08:49,840",525.24,529.84,4.600000000000023,"Ich habe Ihnen ein Beispiel genannt von einem Unternehmen,"
+134,"00:08:52,480","00:08:56,760",532.48,536.76,4.279999999999973,das auf eine ehrliche Art und Weise zu Vermögen gekommen ist.
+135,"00:08:56,840","00:09:01,400",536.84,541.4,4.559999999999945,Aber dann können Sie doch auch die entsprechenden Steuern zahlen.
+136,"00:09:01,480","00:09:04,280",541.48,544.28,2.7999999999999545,Ich möchte eine Vermögenssteuer.
+137,"00:09:04,800","00:09:08,040",544.8,548.04,3.240000000000009,"Wenn man eine Milliarde in einem Unternehmen hat,"
+138,"00:09:08,120","00:09:11,200",548.12,551.2,3.080000000000041,kann man doch Steuern darauf zahlen?
+139,"00:09:11,640","00:09:14,800",551.64,554.8,3.159999999999968,Wir werden noch über Steuern sprechen.
+140,"00:09:16,680","00:09:20,800",556.68,560.8,4.1200000000000045,Aber warum reden Sie in diesem Ton über diese Leute?
+141,"00:09:23,000","00:09:24,760",563.0,564.76,1.759999999999991,"Es gibt doch Unternehmer,"
+142,"00:09:24,840","00:09:29,440",564.84,569.44,4.600000000000023,die nicht nur auf dem Rücken der Mitarbeiter zum Vermögen kommen.
+143,"00:09:29,520","00:09:32,920",569.52,572.92,3.3999999999999773,Sondern weil sie es ehrlich erwirtschaftet haben.
+144,"00:09:33,000","00:09:35,560",573.0,575.56,2.5599999999999454,Sie sorgen für Arbeitsplätze und Wohlstand.
+145,"00:09:35,600","00:09:39,280",575.6,579.28,3.67999999999995,Oder nehmen Sie den dm-Gründer Götz Werner.
+146,"00:09:39,840","00:09:42,000",579.84,582.0,2.159999999999968,Der zahlte seinen Leuten gute Löhne
+147,"00:09:42,080","00:09:47,120",582.08,587.12,5.039999999999964,und sprach sich für ein bedingungsloses Grundeinkommen aus.
+148,"00:09:51,400","00:09:55,120",591.4,595.12,3.7200000000000273,"Können Sie nicht auch anerkennen, dass es Unternehmer gibt,"
+149,"00:09:55,200","00:09:58,680",595.2,598.68,3.4799999999999045,die Arbeitsplätze schaffen und dem Land Wohlstand bringen?
+150,"00:09:58,880","00:10:00,880",598.88,600.88,2.0,Das habe ich nie bestritten.
+151,"00:10:01,720","00:10:03,520",601.72,603.52,1.7999999999999545,Wann haben Sie das gesagt?
+152,"00:10:03,800","00:10:07,200",603.8,607.2,3.400000000000091,"Ich hab immer das Gefühl, alle Milliardäre sind kriminell."
+153,"00:10:07,280","00:10:09,080",607.28,609.08,1.8000000000000682,Ist das nicht Populismus?
+154,"00:10:09,160","00:10:12,640",609.16,612.64,3.480000000000018,"Wenn man sieht, wie die Steuerschlupflöcher nutzen,"
+155,"00:10:12,960","00:10:15,160",612.96,615.16,2.199999999999932,muss man dann drüber reden.
+156,"00:10:15,360","00:10:19,240",615.36,619.24,3.8799999999999955,Wir führen hier eine Debatte über arme Milliardäre.
+157,"00:10:19,920","00:10:23,920",619.92,623.92,4.0,Aber auf Bürgergeldempfänger wird seit Monaten geprügelt.
+158,"00:10:26,640","00:10:29,320",626.64,629.32,2.6800000000000637,"Nein, ich habe Sie schon verstanden."
+159,"00:10:29,800","00:10:31,800",629.8,631.8,2.0,Es geht mir um Ihre Sprache.
+160,"00:10:31,880","00:10:33,480",631.88,633.48,1.6000000000000227,"Sie werfen Merz vor,"
+161,"00:10:33,560","00:10:36,880",633.56,636.88,3.32000000000005,er würde alle Bürgergeldempfänger verunglimpfen.
+162,"00:10:41,000","00:10:45,920",641.0,645.92,4.919999999999959,"Was machen Sie denn, wenn sie sagen, alle Milliardäre sind Schmarotzer."
+163,"00:10:49,160","00:10:52,040",649.16,652.04,2.8799999999999955,"Wir haben über 800.000 Menschen,"
+164,"00:10:52,240","00:10:55,040",652.24,655.04,2.7999999999999545,die nur von ihrem Vermögen leben können.
+165,"00:10:55,120","00:11:00,000",655.12,660.0,4.8799999999999955,"Es ist doch legitim zu sagen, die sollen sich gerecht"
+166,"00:11:00,080","00:11:03,920",660.08,663.92,3.839999999999918,an der Finanzierung der Gesellschaft beteiligen.
+167,"00:11:04,000","00:11:09,240",664.0,669.24,5.240000000000009,"Es werden immer mehr Mieten erhöht, die sich niemand leisten kann."
+168,"00:11:09,360","00:11:12,960",669.36,672.96,3.6000000000000227,Aber kann man nicht im Ton respektvoll bleiben?
+169,"00:11:13,040","00:11:15,600",673.04,675.6,2.560000000000059,Dafür ist es langsam zu spät.
+170,"00:11:16,160","00:11:19,440",676.16,679.44,3.2800000000000864,Diese Ungleichheiten bewegen sich nicht.
+171,"00:11:20,280","00:11:24,600",680.28,684.6,4.32000000000005,Man muss den Frust der Menschen entsprechend aufgreifen.
+172,"00:11:25,920","00:11:28,920",685.92,688.92,3.0,Mit einer Vermögenssteuer von einem Prozent
+173,"00:11:29,000","00:11:31,080",689.0,691.08,2.080000000000041,tun wir niemandem weh.
+174,"00:11:31,400","00:11:34,600",691.4,694.6,3.2000000000000455,Die haben dann immer noch mehr als genug Geld.
+175,"00:11:34,680","00:11:37,320",694.68,697.32,2.6400000000001,Ich habe für die kein Mitleid.
+176,"00:11:39,160","00:11:43,080",699.16,703.08,3.9200000000000728,Ich orientiere mich lieber an Alleinerziehenden.
+177,"00:11:46,880","00:11:49,440",706.88,709.44,2.560000000000059,Über diese Menschen rede ich.
+178,"00:11:51,080","00:11:53,920",711.08,713.92,2.839999999999918,"Natürlich muss ich das Geld holen, wo es ist."
+179,"00:11:57,200","00:11:59,800",717.2,719.8,2.599999999999909,* Applaus *
+180,"00:12:05,440","00:12:08,440",725.44,728.44,3.0,Man kann inhaltlich darüber streiten.
+181,"00:12:08,600","00:12:09,720",728.6,729.72,1.1200000000000045,"Aber zu sagen,"
+182,"00:12:09,800","00:12:13,800",729.8,733.8,4.0,"für einen respektvollen Ton ist es zu spät, ist schwierig."
+183,"00:12:14,640","00:12:17,480",734.64,737.48,2.840000000000032,"Wir müssen auch über das sprechen,"
+184,"00:12:17,840","00:12:20,680",737.84,740.68,2.839999999999918,was diese Woche passiert ist in den USA.
+185,"00:12:21,040","00:12:24,480",741.04,744.48,3.4400000000000546,In den USA ist in dieser Woche der ultra-rechte Aktivist
+186,"00:12:24,560","00:12:28,000",744.56,748.0,3.4400000000000546,und Trump-Unterstützer Charlie Kirk erschossen worden.
+187,"00:12:28,080","00:12:31,880",748.08,751.88,3.7999999999999545,"Danach hat Ihr persönlicher Referent ein ""Meme"" gepostet."
+188,"00:12:32,920","00:12:37,840",752.92,757.84,4.920000000000073,"Auf dem Foto stand ""Anyway"", also sinngemäß: Ist mir doch egal."
+189,"00:12:43,520","00:12:46,600",763.52,766.6,3.080000000000041,Er hat den Post sehr schnell gelöscht.
+190,"00:12:46,680","00:12:49,880",766.68,769.88,3.2000000000000455,"Rechtsradikale hätten es in einen Kontext gesetzt,"
+191,"00:12:49,960","00:12:51,560",769.96,771.56,1.599999999999909,den es nie gegeben habe.
+192,"00:12:51,640","00:12:53,000",771.64,773.0,1.3600000000000136,"Hat er Ihnen gesagt,"
+193,"00:12:53,080","00:12:57,880",773.08,777.88,4.7999999999999545,"in welchem Kontext er dieses ""ist mir doch egal"" gepostet hat?"
+194,"00:12:58,160","00:13:02,600",778.16,782.6,4.440000000000055,Es gab an demselben Tag auch ein Massaker an einer Schule.
+195,"00:13:03,440","00:13:07,120",783.44,787.12,3.67999999999995,"Es war eine sehr zynische Art, aber auch passend, zu sagen,"
+196,"00:13:07,200","00:13:10,200",787.2,790.2,3.0,über das Massaker geht man einfach drüber.
+197,"00:13:10,280","00:13:13,040",790.28,793.04,2.759999999999991,Charlie Kirk war nicht nur rechtskonservativ.
+198,"00:13:13,280","00:13:16,120",793.28,796.12,2.840000000000032,Er war gegen das Selbstbestimmungsrecht.
+199,"00:13:16,200","00:13:18,240",796.2,798.24,2.0399999999999636,"Er würde seine Tochter zwingen,"
+200,"00:13:18,320","00:13:22,080",798.32,802.08,3.759999999999991,nach einer Vergewaltigung ein Kind zur Welt zu bringen.
+201,"00:13:22,360","00:13:23,800",802.36,803.8,1.4399999999999409,Er ist Rassist.
+202,"00:13:24,880","00:13:28,320",804.88,808.32,3.4400000000000546,Man freut sich niemals über den Tod von irgendjemanden.
+203,"00:13:28,400","00:13:32,040",808.4,812.04,3.6399999999999864,Aber man muss auch keinen Respekt vor dieser Person haben.
+204,"00:13:32,120","00:13:36,120",812.12,816.12,4.0,Aber er hat das in Hinblick auf das Massaker an der Schule genannt.
+205,"00:13:36,200","00:13:38,960",816.2,818.96,2.759999999999991,Das ist in den USA ein riesiges Problem.
+206,"00:13:39,040","00:13:40,640",819.04,820.64,1.6000000000000227,"Kirk hat auch gesagt,"
+207,"00:13:40,720","00:13:44,480",820.72,824.48,3.759999999999991,"das müsse man in Kauf nehmen, um Waffen tragen zu dürfen."
+208,"00:13:51,400","00:13:54,320",831.4,834.32,2.9200000000000728,"Das es falsch interpretiert werden konnte,"
+209,"00:13:54,520","00:13:56,160",834.52,836.16,1.6399999999999864,haben wir besprochen.
+210,"00:13:56,240","00:14:00,600",836.24,840.6,4.360000000000014,"Gegen die Medien, die es aufgenommen haben wird jetzt vorgegangen."
+211,"00:14:02,960","00:14:05,200",842.96,845.2,2.240000000000009,"Ich bin immer wieder überrascht,"
+212,"00:14:05,280","00:14:08,840",845.28,848.84,3.560000000000059,dass dieser ultrarechte Nationalist so betrauert wird.
+213,"00:14:09,840","00:14:12,880",849.84,852.88,3.0399999999999636,Die Junge Union schickt ein Trauer-Post.
+214,"00:14:13,080","00:14:16,480",853.08,856.48,3.3999999999999773,Bei den Demokraten haben sie das nicht gemacht.
+215,"00:14:19,240","00:14:20,880",859.24,860.88,1.6399999999999864,Der wurde ermordet.
+216,"00:14:21,200","00:14:23,920",861.2,863.92,2.7199999999999136,"Ja, von einem anderen Republikaner."
+217,"00:14:24,520","00:14:27,840",864.52,867.84,3.32000000000005,"Und Sie wundern sich, dass er betrauert wird?"
+218,"00:14:33,280","00:14:35,800",873.28,875.8,2.519999999999982,Der war schon sehr problematisch.
+219,"00:14:38,840","00:14:43,240",878.84,883.24,4.399999999999977,Haben Sie die Reaktionen von Bernie Sanders wahrgenommen?
+220,"00:14:46,320","00:14:50,800",886.32,890.8,4.4799999999999045,"Der hat sehr deutlich gesagt, dass politische Gewalt nie geht."
+221,"00:14:52,400","00:14:57,360",892.4,897.36,4.960000000000036,"Aber natürlich muss man Mitleid haben, wenn jemand stirbt."
+222,"00:14:59,240","00:15:03,720",899.24,903.72,4.480000000000018,Dazu hat ein Vertreter der Linksjugend in Hannover gepostet:
+223,"00:15:06,720","00:15:13,480",906.72,913.48,6.759999999999991,"""Blutige und rechte Politik führt zu blutigen Patronen""."
+224,"00:15:13,760","00:15:17,160",913.76,917.16,3.3999999999999773,"""Mit einem gezielten Schuss in Kirks Hals wurde das Ende"
+225,"00:15:17,240","00:15:21,880",917.24,921.88,4.639999999999986,seiner rechtsradikalen und ausbeuterischen Politik besiegelt.
+226,"00:15:25,080","00:15:29,520",925.08,929.52,4.439999999999941,"International wird getrauert. Doch das ist ein fataler Fehler."""
+227,"00:15:30,680","00:15:32,960",930.68,932.96,2.2800000000000864,Der Post wurde auch gelöscht.
+228,"00:15:33,880","00:15:37,000",933.88,937.0,3.1200000000000045,Die betroffene Person ist minderjährig.
+229,"00:15:37,080","00:15:39,280",937.08,939.28,2.199999999999932,Wir sind da im Gespräch.
+230,"00:15:40,920","00:15:44,240",940.92,944.24,3.32000000000005,Die Person wird jetzt von Rechten angegangen.
+231,"00:15:44,320","00:15:46,160",944.32,946.16,1.8399999999999181,Was sagen Sie dazu?
+232,"00:15:46,680","00:15:50,080",946.68,950.08,3.400000000000091,Ich finde den Post nicht gut. Er wurde gelöscht.
+233,"00:15:50,240","00:15:52,280",950.24,952.28,2.0399999999999636,War das eine Einzelmeinung?
+234,"00:15:53,760","00:15:57,400",953.76,957.4,3.6399999999999864,Es gab noch einen Post von einer von der linken Jugend.
+235,"00:15:57,560","00:16:01,520",957.56,961.52,3.9600000000000364,Das war ein Foto von Charlie Kirk mit seiner Tochter im Arm.
+236,"00:16:02,000","00:16:04,560",962.0,964.56,2.5599999999999454,Darüber stand: Verrotte in der Hölle.
+237,"00:16:08,720","00:16:11,800",968.72,971.8,3.0799999999999272,Ist das ein gängiger Ton in der Linksjugend?
+238,"00:16:12,640","00:16:15,120",972.64,975.12,2.480000000000018,Diese Beispiele teile ich nicht.
+239,"00:16:18,200","00:16:20,760",978.2,980.76,2.5599999999999454,Ich möchte aber auch darauf hinweisen:
+240,"00:16:20,840","00:16:24,840",980.84,984.84,4.0,Diese Gewalt wird befeuert vom Rechtsextremismus in den USA.
+241,"00:16:25,520","00:16:27,680",985.52,987.68,2.159999999999968,Aber das teile ich nicht.
+242,"00:16:29,480","00:16:32,200",989.48,992.2,2.7200000000000273,Aber ich kann auch nicht für jeden Post
+243,"00:16:32,280","00:16:36,680",992.28,996.68,4.399999999999977,im Namen der Linksjugend verantwortlich gemacht werden.
+244,"00:16:36,760","00:16:40,240",996.76,1000.24,3.480000000000018,Wir gehen dann ins Gespräch und löschen die Posts.
+245,"00:16:40,320","00:16:42,760",1000.32,1002.76,2.439999999999941,Es muss Konsequenzen geben.
+246,"00:16:47,880","00:16:52,160",1007.88,1012.16,4.279999999999973,Ich muss ja nicht bei jedem Post noch eine Reaktion schicken.
+247,"00:16:52,240","00:16:55,080",1012.24,1015.08,2.840000000000032,"Ich finde das nicht gut, das habe ich gesagt."
+248,"00:16:58,280","00:17:00,800",1018.28,1020.8,2.519999999999982,"Charlie Kirk hatte sehr rechtskonservative,"
+249,"00:17:00,880","00:17:03,000",1020.88,1023.0,2.1200000000000045,teils auch rechtsradikale Ansichten.
+250,"00:17:03,120","00:17:05,560",1023.12,1025.56,2.439999999999941,Aber er hat sich damit nicht eingeigelt.
+251,"00:17:05,640","00:17:09,480",1025.64,1029.48,3.839999999999918,"Als politischer Aktivist hat er gezielt dort Debatten veranstaltet,"
+252,"00:17:09,560","00:17:12,240",1029.56,1032.24,2.6800000000000637,wo viele Menschen nicht seiner Meinung waren.
+253,"00:17:12,360","00:17:15,720",1032.36,1035.72,3.3600000000001273,"Er hat dort mit denen gestritten, vor allem an den Unis."
+254,"00:17:18,880","00:17:23,560",1038.88,1043.56,4.679999999999836,Wie oft gehen Sie zu Andersdenkenden und diskutieren mit denen?
+255,"00:17:24,080","00:17:29,240",1044.08,1049.24,5.160000000000082,"Mittlerweile, da ich bekannt bin, und auf viele nicht positiv wirke,"
+256,"00:17:30,040","00:17:33,400",1050.04,1053.4,3.3600000000001273,"ist es schwierig, an die Leute heranzukommen."
+257,"00:17:35,120","00:17:37,800",1055.12,1057.8,2.6800000000000637,Sonst mache ich das auch gerne.
+258,"00:17:38,400","00:17:40,720",1058.4,1060.72,2.3199999999999363,Ich habe gerade in Sachsen-Anhalt
+259,"00:17:40,800","00:17:44,320",1060.8,1064.32,3.519999999999982,"mit einem Mitglied der AfD gesprochen, einer Frau."
+260,"00:17:44,400","00:17:48,320",1064.4,1068.32,3.9199999999998454,Ich habe damit auch kein Problem. Ich finde das richtig.
+261,"00:17:48,400","00:17:52,560",1068.4,1072.56,4.1599999999998545,"Es gibt natürlich eine Grenze, wenn man nicht weiterkommt."
+262,"00:17:52,640","00:17:56,480",1072.64,1076.48,3.839999999999918,"Gerade, wenn rechtsextreme Positionen vertreten werden,"
+263,"00:17:56,560","00:17:58,880",1076.56,1078.88,2.3200000000001637,dann bringt das für mich nichts.
+264,"00:17:58,960","00:18:02,000",1078.96,1082.0,3.0399999999999636,Aber ich finde den Austausch wichtig.
+265,"00:18:05,760","00:18:09,160",1085.76,1089.16,3.400000000000091,Aber die Positionen von Kirk sind menschenverachtend.
+266,"00:18:13,200","00:18:18,240",1093.2,1098.24,5.039999999999964,Würden Sie beispielsweise zu Soldaten der Bundeswehr gehen?
+267,"00:18:19,160","00:18:23,480",1099.16,1103.48,4.319999999999936,"Wir haben in dieser Woche erlebt, dass Russland in Polen"
+268,"00:18:25,760","00:18:29,280",1105.76,1109.28,3.519999999999982,die Verteidigungsbereitschaft der NATO ausgetestet hat.
+269,"00:18:29,360","00:18:32,680",1109.36,1112.68,3.3200000000001637,"Es hat Drohnen in den polnischen Luftraum geschickt,"
+270,"00:18:32,760","00:18:34,920",1112.76,1114.92,2.160000000000082,die von Polen abgeschossen wurden.
+271,"00:18:37,360","00:18:39,280",1117.36,1119.28,1.9200000000000728,Sie haben im Bundestag im Juli
+272,"00:18:39,360","00:18:43,120",1119.36,1123.12,3.759999999999991,"von einer ""Militarisierung"" gesprochen und von ""Aufrüstung""."
+273,"00:18:43,200","00:18:44,760",1123.2,1124.76,1.5599999999999454,Die sei nicht in Ordnung.
+274,"00:18:45,920","00:18:48,440",1125.92,1128.44,2.519999999999982,"Glauben Sie, dass es reichen würde,"
+275,"00:18:48,520","00:18:52,920",1128.52,1132.92,4.400000000000091,sich in Moskau telefonisch über die Drohnen in Polen zu beschweren?
+276,"00:18:53,480","00:18:56,480",1133.48,1136.48,3.0,"Ich finde es richtig, dass wir Bundeswehr haben,"
+277,"00:18:56,560","00:18:58,400",1136.56,1138.4,1.8400000000001455,die verteidigungsfähig ist.
+278,"00:18:58,480","00:19:01,640",1138.48,1141.64,3.160000000000082,Dafür brauchen wir Ausrüstung und Soldaten.
+279,"00:19:03,480","00:19:07,720",1143.48,1147.72,4.240000000000009,"Das ist aber ein Unterschied zu dem, was debattiert wird."
+280,"00:19:07,840","00:19:11,520",1147.84,1151.52,3.6800000000000637,Dafür wird auch die Schuldenbremse ausgesetzt.
+281,"00:19:12,240","00:19:16,520",1152.24,1156.52,4.279999999999973,"Für anderes geht das nicht, wie für Soziales und Wohnungsbau."
+282,"00:19:16,640","00:19:20,040",1156.64,1160.04,3.3999999999998636,Die Wehrpflicht soll wieder eingeführt werden.
+283,"00:19:20,120","00:19:23,120",1160.12,1163.12,3.0,Es wurde über Kriegstüchtigkeit gesprochen.
+284,"00:19:23,200","00:19:25,920",1163.2,1165.92,2.7200000000000273,Das kann nicht die Lösung sein.
+285,"00:19:28,080","00:19:31,480",1168.08,1171.48,3.400000000000091,Ich bin keine verteidigungspolitische Sprecherin.
+286,"00:19:31,560","00:19:35,160",1171.56,1175.16,3.6000000000001364,"Aber ich war schon auf verschiedenen Messen,"
+287,"00:19:36,080","00:19:40,520",1176.08,1180.52,4.440000000000055,"wo ich mit Leuten gesprochen habt, die bei der Bundeswehr sind."
+288,"00:19:40,600","00:19:43,360",1180.6,1183.36,2.759999999999991,Ich bin gar nicht gegen die Bundeswehr.
+289,"00:19:43,440","00:19:47,000",1183.44,1187.0,3.5599999999999454,Sie soll gut ausgerüstet sein und bestehen bleiben.
+290,"00:19:47,120","00:19:49,720",1187.12,1189.72,2.6000000000001364,"Aber man sollte kritisch hinterfragen,"
+291,"00:19:49,800","00:19:52,440",1189.8,1192.44,2.6400000000001,wo das Geld hingeflossen ist.
+292,"00:19:53,480","00:19:57,040",1193.48,1197.04,3.5599999999999454,Ich habe auch eine Frage zum Kreml gestellt.
+293,"00:19:58,000","00:20:02,440",1198.0,1202.44,4.440000000000055,Wir haben einen Angriffskrieg von Putin gegen die Ukraine.
+294,"00:20:03,040","00:20:06,840",1203.04,1206.84,3.7999999999999545,"Wenn Sie auf Kiew gucken, wurde das so heftig angegriffen"
+295,"00:20:06,920","00:20:09,840",1206.92,1209.84,2.9199999999998454,wie seit Beginn des Krieges nicht.
+296,"00:20:10,000","00:20:12,880",1210.0,1212.88,2.880000000000109,Es kommen viele Menschen zu Tode.
+297,"00:20:13,960","00:20:18,240",1213.96,1218.24,4.279999999999973,"Können Sie dann immer noch sagen, wir müssen mit Putin reden,"
+298,"00:20:18,360","00:20:20,480",1218.36,1220.48,2.1200000000001182,dann hört er schon auf?
+299,"00:20:21,160","00:20:23,440",1221.16,1223.44,2.2799999999999727,Das haben wir nie gesagt.
+300,"00:20:25,400","00:20:28,600",1225.4,1228.6,3.199999999999818,"Uns ist bewusst, dass es Druck braucht,"
+301,"00:20:30,160","00:20:34,120",1230.16,1234.12,3.959999999999809,damit Putin an den Verhandlungstisch kommt.
+302,"00:20:35,760","00:20:39,680",1235.76,1239.68,3.9200000000000728,Aber dieser Druck muss auf anderem Weg aufgebaut werden.
+303,"00:20:39,760","00:20:43,560",1239.76,1243.56,3.7999999999999545,Wir müssen auch russische Deserteure aufnehmen.
+304,"00:20:55,280","00:20:59,720",1255.28,1259.72,4.440000000000055,Wir wollen auch die Oligarchen- Kaste in die Mangel nehmen.
+305,"00:20:59,800","00:21:03,760",1259.8,1263.76,3.9600000000000364,Vermögen und Immobilien einfrieren und konfiszieren.
+306,"00:21:03,880","00:21:05,920",1263.88,1265.92,2.0399999999999636,Das wurde nie gemacht.
+307,"00:21:09,240","00:21:12,680",1269.24,1272.68,3.4400000000000546,Das wird mit dem 18. Sanktionspaket gemacht.
+308,"00:21:12,760","00:21:15,840",1272.76,1275.84,3.0799999999999272,Und nichts hat Putin bisher gestoppt.
+309,"00:21:16,120","00:21:18,720",1276.12,1278.72,2.6000000000001364,Die Sanktionen müssen schärfer sein.
+310,"00:21:18,800","00:21:21,200",1278.8,1281.2,2.400000000000091,Viel zu viel wird umgangen.
+311,"00:21:22,240","00:21:26,080",1282.24,1286.08,3.839999999999918,Und wir müssen auf internationale Unterstützung zählen.
+312,"00:21:26,240","00:21:28,320",1286.24,1288.32,2.0799999999999272,Zum Beispiel mit China.
+313,"00:21:28,800","00:21:33,880",1288.8,1293.88,5.080000000000155,"Welches Interesse könnte China haben, den Krieg zu beenden?"
+314,"00:21:33,960","00:21:38,160",1293.96,1298.16,4.2000000000000455,Wir müssen China ins Boot bekommen.
+315,"00:21:38,280","00:21:42,040",1298.28,1302.04,3.759999999999991,Dann kommt auch Putin an den Verhandlungstisch.
+316,"00:21:42,480","00:21:45,120",1302.48,1305.12,2.6399999999998727,Da braucht diplomatische Bemühungen
+317,"00:21:45,240","00:21:47,280",1305.24,1307.28,2.0399999999999636,und wirtschaftlichen Druck.
+318,"00:21:47,360","00:21:49,840",1307.36,1309.84,2.480000000000018,Da reichen Waffensysteme nicht aus.
+319,"00:21:49,960","00:21:51,720",1309.96,1311.72,1.759999999999991,Wo soll das enden?
+320,"00:21:53,440","00:21:56,640",1313.44,1316.64,3.2000000000000455,Es gibt viele diplomatische Bemühungen.
+321,"00:21:58,120","00:22:00,960",1318.12,1320.96,2.8400000000001455,"Das sind doch nur Einzeltreffen,"
+322,"00:22:02,800","00:22:05,760",1322.8,1325.76,2.9600000000000364,"wo Trump gar nicht weiß, wo er hin will."
+323,"00:22:05,880","00:22:08,920",1325.88,1328.92,3.0399999999999636,Er bezieht auch Europa nicht mit ein.
+324,"00:22:12,760","00:22:16,040",1332.76,1336.04,3.2799999999999727,"Ich hab schon oft gehört, dass Sie gesagt haben,"
+325,"00:22:16,160","00:22:18,760",1336.16,1338.76,2.599999999999909,"wir liefern keine Waffen an die Ukraine,"
+326,"00:22:18,920","00:22:21,240",1338.92,1341.24,2.3199999999999363,das ist die Linie der Partei.
+327,"00:22:21,360","00:22:24,400",1341.36,1344.4,3.040000000000191,Verstecken Sie ein bisschen dahinter?
+328,"00:22:25,360","00:22:28,640",1345.36,1348.64,3.2800000000002,"Zweifeln Sie vielleicht auch persönlich,"
+329,"00:22:28,920","00:22:31,520",1348.92,1351.52,2.599999999999909,das es der richtige Weg ist?
+330,"00:22:33,760","00:22:37,040",1353.76,1357.04,3.2799999999999727,"Ich finde es richtig, dass es eine Partei gibt,"
+331,"00:22:37,160","00:22:39,520",1357.16,1359.52,2.3599999999999,die auch auf andere Wege schaut.
+332,"00:22:39,760","00:22:42,200",1359.76,1362.2,2.4400000000000546,Warum waren Sie als Fraktionsvorsitzende
+333,"00:22:42,280","00:22:46,560",1362.28,1366.56,4.279999999999973,"noch nicht in der Ukraine, um sich solidarisch zu zeigen?"
+334,"00:22:46,760","00:22:51,040",1366.76,1371.04,4.279999999999973,"Ich weiß nicht, ob uns das jetzt besser oder schlechter macht"
+335,"00:22:51,160","00:22:53,120",1371.16,1373.12,1.959999999999809,in der Kommunikation.
+336,"00:22:54,840","00:22:58,360",1374.84,1378.36,3.519999999999982,"Leute von uns sind schon in die Ukraine gereicht,"
+337,"00:22:58,480","00:23:01,360",1378.48,1381.36,2.8799999999998818,auch Dietmar Bartsch zum Beispiel.
+338,"00:23:01,600","00:23:02,880",1381.6,1382.88,1.2800000000002,"Ich weiß nicht,"
+339,"00:23:02,960","00:23:07,640",1382.96,1387.64,4.680000000000064,ob meine Reise eine ähnliche Stärkung ausdrücken würde.
+340,"00:23:08,000","00:23:11,920",1388.0,1391.92,3.9200000000000728,Aber vielleicht würden Sie das Problem besser verstehen?
+341,"00:23:12,040","00:23:15,360",1392.04,1395.36,3.3199999999999363,Natürlich rede ich mit entsprechenden Personen.
+342,"00:23:15,520","00:23:19,360",1395.52,1399.36,3.839999999999918,Darum muss ich die Reise persönlich nicht machen.
+343,"00:23:19,760","00:23:22,320",1399.76,1402.32,2.5599999999999454,"Mein Co-Vorsitzender wollte einreisen,"
+344,"00:23:22,400","00:23:24,760",1402.4,1404.76,2.3599999999999,aber es war nicht möglich.
+345,"00:23:25,080","00:23:27,720",1405.08,1407.72,2.6400000000001,Es gibt durchaus einen Dialog.
+346,"00:23:28,360","00:23:31,160",1408.36,1411.16,2.800000000000182,"Aber wir müssen wegkommen davon,"
+347,"00:23:31,600","00:23:34,840",1411.6,1414.84,3.240000000000009,dass nur Aufrüstung jetzt schon zu mir.
+348,"00:23:34,960","00:23:37,680",1414.96,1417.68,2.7200000000000273,Wir brauchen mehr Wirtschaftsverbindungen
+349,"00:23:37,760","00:23:38,800",1417.76,1418.8,1.0399999999999636,und Diplomatie.
+350,"00:23:38,920","00:23:42,680",1418.92,1422.68,3.759999999999991,Es wird sich langfristig so nicht lösen lassen.
+351,"00:23:42,800","00:23:46,200",1422.8,1426.2,3.400000000000091,Wir haben schon genug Waffen auf diesem Planeten.
+352,"00:23:46,320","00:23:48,920",1426.32,1428.92,2.6000000000001364,Wir könnten den mehrfach zerstören.
+353,"00:23:49,000","00:23:51,280",1429.0,1431.28,2.2799999999999727,Das hilft uns hier nicht.
+354,"00:23:51,680","00:23:54,240",1431.68,1434.24,2.5599999999999454,Aber Putin bewegt sich nicht.
+355,"00:23:54,880","00:23:58,800",1434.88,1438.8,3.9199999999998454,Er könnte von heute auf man diesen Krieg beenden.
+356,"00:23:59,800","00:24:02,560",1439.8,1442.56,2.759999999999991,Es gab keine ausreichenden Sanktionen
+357,"00:24:02,680","00:24:05,280",1442.68,1445.28,2.599999999999909,und diplomatische Beziehungen.
+358,"00:24:05,400","00:24:08,120",1445.4,1448.12,2.7199999999998,Es gibt immer mehr kleine Treffen.
+359,"00:24:08,200","00:24:11,400",1448.2,1451.4,3.2000000000000455,Aber das hätte man viel früher angehen müssen.
+360,"00:24:13,440","00:24:15,200",1453.44,1455.2,1.759999999999991,Fahren Sie in die Ukraine?
+361,"00:24:17,280","00:24:18,640",1457.28,1458.64,1.3600000000001273,Danke bis hierhin.
+362,"00:24:18,720","00:24:20,440",1458.72,1460.44,1.7200000000000273,"Wir holen gleich Gäste dazu,"
+363,"00:24:20,560","00:24:23,080",1460.56,1463.08,2.519999999999982,mit denen wir die Frage diskutieren wollen:
+364,"00:24:23,120","00:24:25,480",1463.12,1465.48,2.3600000000001273,Schadet linke Politik unserem Wohlstand?
+365,"00:24:25,560","00:24:29,000",1465.56,1469.0,3.4400000000000546,"Dass Milliardäre auf die Linke nicht gut zu sprechen sind,"
+366,"00:24:29,080","00:24:30,920",1469.08,1470.92,1.8400000000001455,kann man sich sofort vorstellen.
+367,"00:24:31,040","00:24:33,240",1471.04,1473.24,2.2000000000000455,Aber was sagen Mittelständler?
+368,"00:24:36,240","00:24:38,720",1476.24,1478.72,2.480000000000018,Andrea Thoma Böck führt mit ihrer Schwester
+369,"00:24:38,800","00:24:41,560",1478.8,1481.56,2.759999999999991,in dritter Generation einen Familienbetrieb:
+370,"00:24:41,960","00:24:44,720",1481.96,1484.72,2.759999999999991,Mein Großvater hat das Unternehmen gegründet.
+371,"00:24:44,800","00:24:47,560",1484.8,1487.56,2.759999999999991,Mein Vater hat es nach dem Krieg weitergeführt
+372,"00:24:47,640","00:24:50,400",1487.64,1490.4,2.759999999999991,und meine Schwester und ich es 1997 übernommen.
+373,"00:24:50,480","00:24:52,920",1490.48,1492.92,2.4400000000000546,"Wir schützen Metallteile vor Korrosion,"
+374,"00:24:53,000","00:24:57,840",1493.0,1497.84,4.839999999999918,"für unterschiedlichste Branchen, quer durch alle Industriebereiche."
+375,"00:24:57,920","00:25:01,720",1497.92,1501.72,3.7999999999999545,Die Linke will Unternehmen wie das von Thoma-Böck höher besteuern.
+376,"00:25:03,360","00:25:07,200",1503.36,1507.2,3.8400000000001455,"Diese Diskussion in einer Zeit, wo die Insolvenzen so hoch sind,"
+377,"00:25:07,320","00:25:10,200",1507.32,1510.2,2.880000000000109,wir Arbeitslose wieder bei drei Millionen haben:
+378,"00:25:10,280","00:25:13,440",1510.28,1513.44,3.160000000000082,Ich halte das für brandgefährlich und unverantwortlich.
+379,"00:25:13,560","00:25:16,360",1513.56,1516.36,2.7999999999999545,Damit schießt sich Die Linke ins eigene Knie.
+380,"00:25:16,400","00:25:19,360",1516.4,1519.36,2.959999999999809,Eine Liquiditätshemmung wird immer Sparmaßnahmen
+381,"00:25:19,440","00:25:22,960",1519.44,1522.96,3.519999999999982,"für ein Unternehmen zur Folge haben, wenn es nicht abwandert."
+382,"00:25:24,280","00:25:27,440",1524.28,1527.44,3.160000000000082,"Für Unternehmen wie ihres bedeute dies im Zweifelsfall,"
+383,"00:25:27,520","00:25:29,760",1527.52,1529.76,2.240000000000009,dass sie Mitarbeiter entlassen müssten.
+384,"00:25:29,840","00:25:32,160",1529.84,1532.16,2.3200000000001637,Thoma-Böck hat ihren Betrieb geerbt.
+385,"00:25:32,240","00:25:34,760",1532.24,1534.76,2.519999999999982,"Was sagt sie zu den Vorschlägen der Linken,"
+386,"00:25:34,840","00:25:37,600",1534.84,1537.6,2.759999999999991,die große Erbschaften stärker besteuern will?
+387,"00:25:37,680","00:25:39,280",1537.68,1539.28,1.599999999999909,Im Spitzensatz mit 60 %
+388,"00:25:39,360","00:25:42,080",1539.36,1542.08,2.7200000000000273,ab einem zu versteuernden Erbe von 3 Mio. Euro.
+389,"00:25:42,200","00:25:45,560",1542.2,1545.56,3.3599999999999,Von den Fantasien der Erbschaftssteuer halte ich nichts.
+390,"00:25:45,640","00:25:49,320",1545.64,1549.32,3.6799999999998363,"Weil das Kapital, das man erbt, ja nicht auf dem Konto liegt."
+391,"00:25:49,400","00:25:53,080",1549.4,1553.08,3.6799999999998363,"Es besteht in den Unternehmen, den Maschinen und ist gebunden."
+392,"00:25:53,120","00:25:55,000",1553.12,1555.0,1.8800000000001091,Das habe ich ja nicht liquide.
+393,"00:25:55,080","00:25:58,040",1555.08,1558.04,2.9600000000000364,"Wenn dann eine hohe Erbschaftssteuer fällig wird,"
+394,"00:25:58,120","00:26:01,200",1558.12,1561.2,3.0800000000001546,"sind viele gezwungen, das Unternehmen zu verkaufen."
+395,"00:26:01,280","00:26:05,680",1561.28,1565.68,4.400000000000091,"Die Linke sieht in zu viel Vermögen sogar eine Gefahr für die Demokratie,"
+396,"00:26:05,760","00:26:06,960",1565.76,1566.96,1.2000000000000455,Zitat:
+397,"00:26:11,040","00:26:14,200",1571.04,1574.2,3.160000000000082,Ich kann diese Neiddiskussion nicht nachvollziehen.
+398,"00:26:14,280","00:26:16,640",1574.28,1576.64,2.3600000000001273,"Wer erfolgreich ist, dem gönne ich das."
+399,"00:26:16,760","00:26:19,720",1576.76,1579.72,2.9600000000000364,"Jeden, den das dann betrifft, kann ich verstehen,"
+400,"00:26:19,800","00:26:23,280",1579.8,1583.28,3.480000000000018,wenn er dann abwandert oder sein Geld in Sicherheit bringt.
+401,"00:26:23,360","00:26:26,680",1583.36,1586.68,3.3200000000001637,Die Ideen der Linken hören bei Steuererhöhungen nicht auf.
+402,"00:26:26,760","00:26:30,080",1586.76,1590.08,3.3199999999999363,Laut Heidi Reichinnek explodiert der Reichtum von wenigen.
+403,"00:26:30,160","00:26:32,080",1590.16,1592.08,1.9199999999998454,"Und ""Wer das verhindern will,"
+404,"00:26:32,160","00:26:35,760",1592.16,1595.76,3.599999999999909,"der darf den Kapitalismus nicht stützen, er muss ihn stürzen."""
+405,"00:26:35,840","00:26:38,600",1595.84,1598.6,2.759999999999991,Sozialismus führt immer nur zu Armut und Leid.
+406,"00:26:38,680","00:26:41,920",1598.68,1601.92,3.240000000000009,"Da kann man nichts dran gut finden, tut mir leid."
+407,"00:26:42,320","00:26:46,200",1602.32,1606.2,3.880000000000109,Am Ende würde sich die Linke mit ihrer Politik selbst schaden:
+408,"00:26:46,320","00:26:48,360",1606.32,1608.36,2.0399999999999636,Das Land blutet aus und auch dann
+409,"00:26:48,440","00:26:51,760",1608.44,1611.76,3.3199999999999363,können wir unseren Sozialstaat nicht mehr finanzieren.
+410,"00:26:51,840","00:26:54,440",1611.84,1614.44,2.6000000000001364,"Wir hätten ein ärmeres Land, buchstäblich -"
+411,"00:26:54,520","00:26:56,520",1614.52,1616.52,2.0,Wohlstandsverlust ohne Ende.
+412,"00:26:56,600","00:27:00,400",1616.6,1620.4,3.800000000000182,"Dann verliert Deutschland sein Fundament, auf dem es steht."
+413,"00:27:00,480","00:27:03,560",1620.48,1623.56,3.0799999999999272,Dann wird es für die Demokratie auch schwierig.
+414,"00:27:06,800","00:27:10,520",1626.8,1630.52,3.7200000000000273,"Wir begrüßen in der Runde die Ökonomin Philippa Sigl-Glöckner,"
+415,"00:27:10,680","00:27:12,440",1630.68,1632.44,1.759999999999991,die auch SPD-Mitglied ist.
+416,"00:27:12,600","00:27:16,240",1632.6,1636.24,3.6400000000001,"Und den Chefredakteur von Table.Briefings, Michael Bröcker."
+417,"00:27:25,600","00:27:26,760",1645.6,1646.76,1.1600000000000819,"Frau Reichinnek,"
+418,"00:27:26,960","00:27:30,040",1646.96,1650.04,3.0799999999999272,verstehen Sie die Sorgen dieser Mittelständlerin?
+419,"00:27:30,400","00:27:33,200",1650.4,1653.2,2.7999999999999545,"Das kann ich sehr gut verstehen,"
+420,"00:27:34,160","00:27:37,360",1654.16,1657.36,3.199999999999818,dass sie ihr Unternehmen nicht verlieren will.
+421,"00:27:37,440","00:27:40,440",1657.44,1660.44,3.0,Das Interesse haben wir auch nicht.
+422,"00:27:43,400","00:27:44,920",1663.4,1664.92,1.5199999999999818,"Es ist nicht sinnvoll,"
+423,"00:27:45,000","00:27:48,800",1665.0,1668.8,3.7999999999999545,"dass kleinere, mittlere Unternehmen so belastet werden."
+424,"00:27:48,920","00:27:50,800",1668.92,1670.8,1.8799999999998818,Das wäre irrational.
+425,"00:27:50,920","00:27:54,040",1670.92,1674.04,3.119999999999891,Wie soll die Erbschaftssteuer ausgestaltet werden?
+426,"00:27:54,120","00:27:56,080",1674.12,1676.08,1.9600000000000364,Das machen wir nach und nach.
+427,"00:27:56,280","00:27:59,840",1676.28,1679.84,3.5599999999999454,Sie erhöhen die Körperschaftssteuer auf 25 Prozent.
+428,"00:28:00,040","00:28:02,920",1680.04,1682.92,2.880000000000109,Das würde Sie auch zu spüren bekommen.
+429,"00:28:02,960","00:28:05,880",1682.96,1685.88,2.9200000000000728,"Herr Bröcker, Sie berichten viel über Wirtschaft."
+430,"00:28:05,960","00:28:09,600",1685.96,1689.6,3.6399999999998727,Denken die ähnlich wie Frau Thoma-Böck oder ganz anders?
+431,"00:28:10,520","00:28:14,800",1690.52,1694.8,4.279999999999973,Absolut. Es geht nicht so sehr um die einzelnen Steuerformen.
+432,"00:28:17,200","00:28:20,760",1697.2,1700.76,3.5599999999999454,Für Investoren ist das Programm schreckhaft.
+433,"00:28:22,000","00:28:26,280",1702.0,1706.28,4.279999999999973,"Das Programm wird durchzogen von, sie hat Neid gesagt."
+434,"00:28:27,160","00:28:31,840",1707.16,1711.84,4.679999999999836,"Diese Leistungsanreize, die in der sozialen Marktwirtschaft,"
+435,"00:28:31,920","00:28:35,360",1711.92,1715.36,3.439999999999827,"nicht im Kapitalismus, dieses Land gemacht haben:"
+436,"00:28:35,440","00:28:38,280",1715.44,1718.28,2.839999999999918,die werden beseitigt im Programm.
+437,"00:28:40,360","00:28:43,880",1720.36,1723.88,3.520000000000209,Das ist ein Wohlstandsvernichtungsprogramm.
+438,"00:28:44,240","00:28:47,360",1724.24,1727.36,3.119999999999891,Und ein Demokratiegefährdungsprogramm.
+439,"00:28:48,920","00:28:52,760",1728.92,1732.76,3.839999999999918,Sie verändert die soziale Marktwirtschaft und gefährdet
+440,"00:28:52,840","00:28:56,680",1732.84,1736.68,3.8400000000001455,die Demokratie. Die Menschen haben dann kein Ziel mehr.
+441,"00:28:56,760","00:29:00,760",1736.76,1740.76,4.0,"Es lohnt sich dann nicht mehr, etwas zu erreichen."
+442,"00:29:03,320","00:29:07,800",1743.32,1747.8,4.480000000000018,"Nicht mehr Milliardär werden zu wollen, Fachkräfte-Zuzug,"
+443,"00:29:07,880","00:29:10,000",1747.88,1750.0,2.119999999999891,"Ideen, Innovationen ..."
+444,"00:29:13,720","00:29:17,560",1753.72,1757.56,3.839999999999918,Wir sind gerade in einem schwierigen Fahrwasser.
+445,"00:29:18,120","00:29:20,440",1758.12,1760.44,2.3200000000001637,Rationalismus und einen guten Satz
+446,"00:29:20,520","00:29:23,560",1760.52,1763.56,3.0399999999999636,über das Unternehmertum wünsche ich mir.
+447,"00:29:23,800","00:29:26,200",1763.8,1766.2,2.400000000000091,Das hab ich vorhin auch versucht.
+448,"00:29:26,960","00:29:28,440",1766.96,1768.44,1.4800000000000182,Frau Sigl-Glöckner:
+449,"00:29:29,480","00:29:33,280",1769.48,1773.28,3.7999999999999545,Die Vermögen sind in der Tat ungleich verteilt in Deutschland.
+450,"00:29:35,720","00:29:37,400",1775.72,1777.4,1.6800000000000637,Was stimmt jetzt?
+451,"00:29:38,040","00:29:40,560",1778.04,1780.56,2.519999999999982,Das ist ein bisschen schwarz-weiß.
+452,"00:29:43,400","00:29:47,040",1783.4,1787.04,3.6399999999998727,Im Film war es auch schwarz-weiß dargestellt.
+453,"00:29:47,240","00:29:50,880",1787.24,1790.88,3.6400000000001,"Es gibt noch etwas zwischen es muss alles so bleiben,"
+454,"00:29:50,960","00:29:53,440",1790.96,1793.44,2.480000000000018,wie es ist und Sozialismus.
+455,"00:29:54,960","00:29:59,400",1794.96,1799.4,4.440000000000055,"Kein privates Kapitaleigentum, so interpretiere ich das."
+456,"00:29:59,600","00:30:03,600",1799.6,1803.6,4.0,Wir haben eine große Kapitalkonzentration in Deutschland.
+457,"00:30:03,680","00:30:07,400",1803.68,1807.4,3.7200000000000273,"Am besten wird man Unternehmer und wohlhabend,"
+458,"00:30:07,760","00:30:12,400",1807.76,1812.4,4.6400000000001,dass man in eine wohlhabende Familie mit Unternehmen geboren wird.
+459,"00:30:12,480","00:30:17,200",1812.48,1817.2,4.720000000000027,Das kann auch nicht im Interesse einer Marktwirtschaft sein.
+460,"00:30:17,320","00:30:21,560",1817.32,1821.56,4.240000000000009,"So kommen nicht die klügsten, ehrgeizigsten Köpfe nach vorne,"
+461,"00:30:21,680","00:30:23,760",1821.68,1823.76,2.0799999999999272,wenn Wohlstand vererbt wird.
+462,"00:30:23,840","00:30:27,040",1823.84,1827.04,3.2000000000000455,Wir kommen gleich zur Erbschaftssteuer.
+463,"00:30:28,000","00:30:31,040",1828.0,1831.04,3.0399999999999636,Wir beginnen mit der Vermögenssteuer.
+464,"00:30:31,760","00:30:35,240",1831.76,1835.24,3.480000000000018,Nach ihren Vorstellungen sollte die ab einem Vermögen
+465,"00:30:35,320","00:30:38,680",1835.32,1838.68,3.3600000000001273,von einer Million mit 1 % belastet werden.
+466,"00:30:56,880","00:30:59,280",1856.88,1859.28,2.3999999999998636,Herr Bröcker: 1 % bei einer Million.
+467,"00:30:59,680","00:31:03,600",1859.68,1863.6,3.9199999999998454,"Ist das zu viel verlangt, ein Prozent bei einer Million."
+468,"00:31:03,800","00:31:06,720",1863.8,1866.72,2.9200000000000728,Das klingt nicht gut. Überhaupt nicht gut.
+469,"00:31:06,960","00:31:09,960",1866.96,1869.96,3.0,"Die Vermögenssteuer wurde nicht ausgesetzt,"
+470,"00:31:10,160","00:31:13,440",1870.16,1873.44,3.2799999999999727,weil Jens Spahn oder Friedrich Merz das wollte.
+471,"00:31:13,560","00:31:16,720",1873.56,1876.72,3.160000000000082,"Sondern, weil Richter ... Ungleichbehandlung."
+472,"00:31:17,440","00:31:20,280",1877.44,1880.28,2.839999999999918,Wir sind ja in einem Rechtsstaat.
+473,"00:31:20,800","00:31:26,400",1880.8,1886.4,5.600000000000136,Wir können nicht einfach ein Prozent von dem und zwei Prozent von dem ...
+474,"00:31:27,280","00:31:32,600",1887.28,1892.6,5.319999999999936,Die Vermögensbewertung muss gerecht zugehen für eine erhobene Steuer.
+475,"00:31:32,760","00:31:36,960",1892.76,1896.96,4.2000000000000455,"Wenn es juristisch ginge und es fair wäre, und die belastet,"
+476,"00:31:37,080","00:31:39,040",1897.08,1899.04,1.9600000000000364,die man belasten möchte. ...
+477,"00:31:39,120","00:31:42,400",1899.12,1902.4,3.2800000000002,Linke Wirtschaftspolitik ist immer gut gemeint.
+478,"00:31:42,480","00:31:46,200",1902.48,1906.2,3.7200000000000273,Aber eine Vermögenssteuer ist das falsche Instrument.
+479,"00:31:46,320","00:31:49,280",1906.32,1909.28,2.9600000000000364,Über die Erbschaftssteuer können wir reden.
+480,"00:31:49,360","00:31:52,800",1909.36,1912.8,3.4400000000000546,Aber die Vermögenssteuer ist zu Recht ausgesetzt.
+481,"00:31:52,880","00:31:54,920",1912.88,1914.92,2.0399999999999636,Wie macht man es fair?
+482,"00:31:55,040","00:31:59,480",1915.04,1919.48,4.440000000000055,Norwegen hat eine Vermögenssteuer von einem Prozentpunkt
+483,"00:32:00,000","00:32:02,680",1920.0,1922.68,2.6800000000000637,"die wurde erhöht von 0,8 auf eins."
+484,"00:32:04,600","00:32:08,240",1924.6,1928.24,3.6400000000001,"Haben die Milliardäre gesagt, sie wandern ab."
+485,"00:32:08,600","00:32:12,240",1928.6,1932.24,3.6400000000001,Das ist nicht passiert. Man kann es umsetzen.
+486,"00:32:14,040","00:32:18,240",1934.04,1938.24,4.2000000000000455,In Deutschland müsste man die Erbschaftssteuer flicken.
+487,"00:32:18,360","00:32:21,600",1938.36,1941.6,3.240000000000009,Bleiben Sie mal bei der Vermögenssteuer.
+488,"00:32:23,960","00:32:27,760",1943.96,1947.76,3.7999999999999545,"Wie machte man das so, dass es verfassungskonform ist?"
+489,"00:32:27,840","00:32:30,760",1947.84,1950.76,2.9200000000000728,Ich bin keine Verfassungsjuristen.
+490,"00:32:33,760","00:32:37,840",1953.76,1957.84,4.079999999999927,Damals waren Immobilienwerte auf alten Werten eingefroren.
+491,"00:32:37,920","00:32:40,400",1957.92,1960.4,2.480000000000018,Da will man vorsichtig sein.
+492,"00:32:41,600","00:32:45,600",1961.6,1965.6,4.0,"Bei einem Wohnsitz ist es schwierig, den so zu besteuern,"
+493,"00:32:45,680","00:32:48,480",1965.68,1968.48,2.7999999999999545,als wenn ich einen Betrieb habe.
+494,"00:32:50,200","00:32:55,040",1970.2,1975.04,4.839999999999918,Dafür gibt es Lösungen. Den kann man ausnehmen oder gering besteuern.
+495,"00:32:55,120","00:32:56,240",1975.12,1976.24,1.1200000000001182,Da gäbe es Wege.
+496,"00:32:57,920","00:33:00,880",1977.92,1980.88,2.9600000000000364,Das ist ökonomisch nicht effizient.
+497,"00:33:01,240","00:33:04,560",1981.24,1984.56,3.3199999999999363,Man hat sehr viel Aufwand für sehr wenig Ertrag.
+498,"00:33:04,680","00:33:08,200",1984.68,1988.2,3.519999999999982,Dann würde ich lieber andere Modelle nehmen.
+499,"00:33:11,760","00:33:16,040",1991.76,1996.04,4.279999999999973,Wenn ich oben eine teilweise Gegenfinanzierung für die breite
+500,"00:33:16,160","00:33:20,440",1996.16,2000.44,4.279999999999973,"Mitte will. Bei den Abgaben, darüber haben wir nicht geredet."
+501,"00:33:20,520","00:33:22,480",2000.52,2002.48,1.9600000000000364,Das unterstützen wir.
+502,"00:33:24,240","00:33:26,760",2004.24,2006.76,2.519999999999982,Sie haben Norwegen angesprochen.
+503,"00:33:26,840","00:33:30,080",2006.84,2010.08,3.240000000000009,"In der Schweiz liegt die Höhe zwischen 0,1 und 0,5 %."
+504,"00:33:30,240","00:33:31,960",2010.24,2011.96,1.7200000000000273,"Wie wollen Sie verhindern,"
+505,"00:33:32,120","00:33:35,520",2012.12,2015.52,3.400000000000091,dass deutsche Betriebe dann in Scharen davon laufen?
+506,"00:33:39,400","00:33:43,560",2019.4,2023.56,4.1599999999998545,"Ich weiß nicht, ob die Milliardären ist. Noch nicht."
+507,"00:33:47,040","00:33:50,080",2027.04,2030.08,3.0399999999999636,Ich würde gerne etwas gerade rücken.
+508,"00:33:51,640","00:33:56,200",2031.64,2036.2,4.559999999999945,"Ich möchte das nicht so stehen lassen, dass das so furchtbar ist."
+509,"00:33:56,280","00:34:00,560",2036.28,2040.56,4.279999999999973,"Einkommensteuer, da können wir uns vielleicht einig werden."
+510,"00:34:00,640","00:34:04,560",2040.64,2044.56,3.9199999999998454,Gerade mittlere Einkommen werden massiv belastet.
+511,"00:34:06,880","00:34:11,080",2046.88,2051.08,4.199999999999818,Alle Einkommen bis 7000 Euro brutto müssen entlastet werden.
+512,"00:34:11,160","00:34:13,480",2051.16,2053.48,2.3200000000001637,Bis weit in die Mitte rein.
+513,"00:34:13,560","00:34:16,720",2053.56,2056.72,3.1599999999998545,Darüber soll moderat belastet werden.
+514,"00:34:18,680","00:34:22,200",2058.68,2062.2,3.519999999999982,Im Bundeshaushalt wären 36 Milliarden mehr.
+515,"00:34:22,920","00:34:26,200",2062.92,2066.2,3.2799999999997453,"Wir schaffen, dass die Mehrheit mehr hat"
+516,"00:34:26,320","00:34:29,720",2066.32,2069.72,3.399999999999636,und man im Haushalt mehr investieren kann.
+517,"00:34:30,240","00:34:33,600",2070.24,2073.6,3.3600000000001273,Brächte eine Vermögensteuer so viel Geld?
+518,"00:34:33,960","00:34:39,640",2073.96,2079.64,5.679999999999836,Die bringt bei der Linken noch viel mehr.
+519,"00:34:39,760","00:34:42,760",2079.76,2082.76,3.0,Dieser über 100 Milliarden bringen.
+520,"00:34:44,440","00:34:48,520",2084.44,2088.52,4.079999999999927,"Der Steuersatz von zwölf Prozent bei über einer Milliarde,"
+521,"00:34:50,320","00:34:54,080",2090.32,2094.08,3.7599999999997635,das würde der Staat nicht durchgesetzt kriegen.
+522,"00:34:56,000","00:35:00,360",2096.0,2100.36,4.360000000000127,"Jeder, der klug genug plant, kommt aus der Steuer raus."
+523,"00:35:00,760","00:35:04,600",2100.76,2104.6,3.8399999999996908,Bei zwölf Prozent würde sich das massiv erhöhen.
+524,"00:35:05,280","00:35:09,200",2105.28,2109.2,3.919999999999618,Dann hätte man die Komplexität mit der Bewertung.
+525,"00:35:09,360","00:35:13,320",2109.36,2113.32,3.9600000000000364,Ich würde bei der alten Steuer die Löcher flicken.
+526,"00:35:13,840","00:35:19,080",2113.84,2119.08,5.239999999999782,"Frau Reichinnek nimmt die Maßnahmen, wo wir alle einig sind."
+527,"00:35:20,440","00:35:24,280",2120.44,2124.28,3.8400000000001455,"Aber die Summe der Steuererhöhungen im Programm,"
+528,"00:35:25,240","00:35:28,600",2125.24,2128.6,3.3600000000001273,"Kapitalsteuer, Gewerbesteuer, Vermögensteuer ..."
+529,"00:35:28,680","00:35:30,280",2128.68,2130.28,1.6000000000003638,Vermögensabgabe.
+530,"00:35:33,320","00:35:36,520",2133.32,2136.52,3.199999999999818,"Investoren weltweit, die daran glauben,"
+531,"00:35:37,080","00:35:41,920",2137.08,2141.92,4.8400000000001455,"dass dieses Land wieder Richtung Wachstum und Wohlstand kommt,"
+532,"00:35:45,000","00:35:48,280",2145.0,2148.28,3.2800000000002,die könnten ihr Geld wieder relokieren.
+533,"00:35:48,640","00:35:52,480",2148.64,2152.48,3.8400000000001455,Die Fachkräfte brauchen wir von der ganzen Welt.
+534,"00:35:53,840","00:35:55,120",2153.84,2155.12,1.2799999999997453,"Die wollen wissen,"
+535,"00:35:55,240","00:35:57,760",2155.24,2157.76,2.5200000000004366,was mit ihrem Geld hier gemacht wird.
+536,"00:35:57,880","00:36:00,560",2157.88,2160.56,2.6799999999998363,Sie wollen Unternehmer höher besteuern.
+537,"00:36:00,680","00:36:04,400",2160.68,2164.4,3.7200000000002547,Das ist ein Problem für einen Wirtschaftsstandort.
+538,"00:36:04,520","00:36:08,720",2164.52,2168.72,4.199999999999818,Ich möchte aber auch Investitionen in die Wirtschaft.
+539,"00:36:09,200","00:36:12,880",2169.2,2172.88,3.680000000000291,Das macht der Staat gerade. Nicht ausreichend.
+540,"00:36:13,280","00:36:16,600",2173.28,2176.6,3.319999999999709,Wir müssen sozialen Wohnungsbau schaffen.
+541,"00:36:16,920","00:36:25,400",2176.92,2185.4,8.480000000000018,Die Baubranche strauchelt.
+542,"00:36:29,040","00:36:31,680",2189.04,2191.68,2.6399999999998727,Die Auftragsbücher wären voll.
+543,"00:36:34,320","00:36:39,040",2194.32,2199.04,4.7199999999998,Die Mieten steigen immer weiter. Immer mehr Leute müssen ausziehen.
+544,"00:36:39,120","00:36:41,840",2199.12,2201.84,2.7200000000002547,Unsere Politik bedeutet Investitionen.
+545,"00:36:41,960","00:36:45,520",2201.96,2205.52,3.5599999999999454,"Es ist die Frage, was mit Schulden passiert."
+546,"00:36:45,880","00:36:50,080",2205.88,2210.08,4.199999999999818,"Ich möchte erklären, dass das, was dargestellt wurde,"
+547,"00:36:51,120","00:36:55,520",2211.12,2215.52,4.400000000000091,"nicht der Realität entspricht. Unsere Ideen würden dazu führen,"
+548,"00:36:55,640","00:36:58,680",2215.64,2218.68,3.0399999999999636,dass die Menschen konsumieren können.
+549,"00:36:59,920","00:37:04,320",2219.92,2224.32,4.400000000000091,"Nennen Sie mir ein Land mit einem Hauch von Sozialismus,"
+550,"00:37:04,840","00:37:08,200",2224.84,2228.2,3.3599999999996726,wo die mit diesen Geldern des Staates tatsächlich
+551,"00:37:08,280","00:37:11,960",2228.28,2231.96,3.6799999999998363,effizient sozialen Wohnungsbau gemacht haben.
+552,"00:37:12,040","00:37:15,240",2232.04,2235.24,3.199999999999818,Ich habe Ihnen eine Maßnahme vorgeschlagen.
+553,"00:37:15,320","00:37:18,160",2235.32,2238.16,2.8399999999996908,Jetzt kommen Sie mit Sozialismus.
+554,"00:37:20,480","00:37:25,400",2240.48,2245.4,4.920000000000073,"Sie sagen, der Staat kann Wohnungen besser bauen als Privatwirtschaft."
+555,"00:37:25,520","00:37:27,840",2245.52,2247.84,2.3200000000001637,Das habe ich nicht gesagt.
+556,"00:37:28,480","00:37:29,840",2248.48,2249.84,1.3600000000001273,Sozialer Wohnungsbau
+557,"00:37:29,920","00:37:33,640",2249.92,2253.64,3.7199999999998,funktioniert nicht von jetzt auf gleich staatlich.
+558,"00:37:33,760","00:37:36,280",2253.76,2256.28,2.519999999999982,Warum sollten die das tun ...
+559,"00:37:39,680","00:37:44,520",2259.68,2264.52,4.8400000000001455,"Das kommunaler Wohnungsbau nicht funktioniert, ist eine steile These."
+560,"00:37:44,600","00:37:46,960",2264.6,2266.96,2.3600000000001273,Das habe ich nicht gesagt.
+561,"00:37:48,680","00:37:52,440",2268.68,2272.44,3.7600000000002183,"Ich habe gesagt, jetzt bist du schwarz-weiß ..."
+562,"00:37:54,680","00:37:59,320",2274.68,2279.32,4.640000000000327,Kommunaler und privater Wohnungsbau alleine sind nicht die Lösung.
+563,"00:37:59,400","00:38:02,840",2279.4,2282.84,3.4400000000000546,Man braucht private Investitionen zwingen.
+564,"00:38:05,080","00:38:07,080",2285.08,2287.08,2.0,Rede mal mit Vonovia.
+565,"00:38:07,240","00:38:10,240",2287.24,2290.24,3.0,"Die würden ja nicht so lange planen müssen,"
+566,"00:38:10,680","00:38:11,840",2290.68,2291.84,1.1600000000003092,ein halbes Jahr.
+567,"00:38:12,080","00:38:16,440",2292.08,2296.44,4.360000000000127,"Hier ist das Gelände nicht frei, der Leerstand ist nicht frei."
+568,"00:38:16,640","00:38:18,720",2296.64,2298.72,2.0799999999999272,Es braucht mehrere Maßnahmen.
+569,"00:38:18,800","00:38:22,000",2298.8,2302.0,3.199999999999818,Wenn die Bürokratie nicht so groß wäre.
+570,"00:38:22,360","00:38:25,960",2302.36,2305.96,3.599999999999909,"Vonovia ist ein Unternehmen, denen geht es schlecht."
+571,"00:38:26,080","00:38:28,480",2306.08,2308.48,2.400000000000091,Die bauen gar nicht selber.
+572,"00:38:29,240","00:38:33,160",2309.24,2313.16,3.9200000000000728,Die treiben die Preise hoch und kaufen Wohnungen.
+573,"00:38:34,720","00:38:38,200",2314.72,2318.2,3.480000000000018,Wir machen mal eine Sendung zu Wohnungsbau.
+574,"00:38:39,680","00:38:43,840",2319.68,2323.84,4.160000000000309,Heute reden wir über die geplanten Steuererhöhungen.
+575,"00:38:44,000","00:38:47,680",2324.0,2327.68,3.6799999999998363,"In Ihrem Wahlprogramm stand auch, dass Sie eine Art öffentlich"
+576,"00:38:47,840","00:38:50,560",2327.84,2330.56,2.7199999999998,einsehbares Finanzregister einführen wollen.
+577,"00:38:50,720","00:38:53,200",2330.72,2333.2,2.480000000000018,"Darin steht, ob jemand sein Geld spart,"
+578,"00:38:53,280","00:38:57,600",2333.28,2337.6,4.319999999999709,in Aktien investiert oder er es lieber für Reisen ausgibt
+579,"00:39:01,920","00:39:04,720",2341.92,2344.72,2.799999999999727,Was geht denn das die Allgemeinheit an?
+580,"00:39:05,200","00:39:08,080",2345.2,2348.08,2.880000000000109,Wollen Sie den gläsernen Menschen beim Geld?
+581,"00:39:11,280","00:39:15,480",2351.28,2355.48,4.199999999999818,"Es geht darum, zu wissen, wo finanzielle Mittel sind."
+582,"00:39:15,720","00:39:20,120",2355.72,2360.12,4.400000000000091,Viele Superreiche kommen in diesen Strukturen nicht vor.
+583,"00:39:24,760","00:39:26,520",2364.76,2366.52,1.7599999999997635,"Mir geht es um die Frage,"
+584,"00:39:26,640","00:39:29,280",2366.64,2369.28,2.6400000000003274,wie kriegen wir gerechte Verteilungen.
+585,"00:39:29,360","00:39:31,320",2369.36,2371.32,1.9600000000000364,Warum öffentlich einsehbar?
+586,"00:39:31,400","00:39:34,760",2371.4,2374.76,3.3600000000001273,"Es geht darum, zu sehen, wo Vermögen ist."
+587,"00:39:38,040","00:39:43,360",2378.04,2383.36,5.320000000000164,"Studien zeigen, dass Durchschnitt 20 Prozent des Geldes liquide ist."
+588,"00:39:43,800","00:39:48,800",2383.8,2388.8,5.0,Warum sollte das jeder nachschauen können? Öffentlich einsehbar.
+589,"00:39:48,920","00:39:53,480",2388.92,2393.48,4.559999999999945,"Es ist teilweise öffentlich schon einsehbar, wo was liegt."
+590,"00:39:53,880","00:39:57,000",2393.88,2397.0,3.119999999999891,Das ist keine radikale linke Position.
+591,"00:39:57,400","00:40:02,240",2397.4,2402.24,4.839999999999691,Es gibt in England die Verpflichtung für ein Ultimate Owner Register.
+592,"00:40:02,600","00:40:06,160",2402.6,2406.16,3.5599999999999454,Da wird nicht jedes Auto und Kunstwerk eingetragen.
+593,"00:40:06,320","00:40:08,600",2406.32,2408.6,2.2799999999997453,Da geht es um Immobilien.
+594,"00:40:09,040","00:40:12,720",2409.04,2412.72,3.6799999999998363,Da geht es um gesellschaftliche Verantwortung.
+595,"00:40:15,640","00:40:19,800",2415.64,2419.8,4.160000000000309,Das kann man nur mit berechtigtem Interesse einfordern.
+596,"00:40:19,880","00:40:23,800",2419.88,2423.8,3.9200000000000728,Bei Zusammenschlüssen und Unternehmen ist das da.
+597,"00:40:25,000","00:40:27,920",2425.0,2427.92,2.9200000000000728,"Wenn eine Straße einem Unternehmen gehört,"
+598,"00:40:28,000","00:40:30,360",2428.0,2430.36,2.3600000000001273,kann man das im Grundbuch machen.
+599,"00:40:30,440","00:40:33,920",2430.44,2433.92,3.480000000000018,Im Programm ist das die Vorstufe von Denunziation.
+600,"00:40:34,040","00:40:35,960",2434.04,2435.96,1.9200000000000728,"Also, Entschuldigung!"
+601,"00:40:38,120","00:40:42,960",2438.12,2442.96,4.8400000000001455,Was soll noch rein? Mein Portfolio?
+602,"00:40:44,960","00:40:48,240",2444.96,2448.24,3.2799999999997453,Ich will nicht jedes Gemälde nachprüfen.
+603,"00:40:50,560","00:40:54,240",2450.56,2454.24,3.6799999999998363,Es geht um die großen Fragen. Ab welcher Höhe?
+604,"00:40:54,760","00:40:57,400",2454.76,2457.4,2.6399999999998727,Muss das Elektroauto mit rein?
+605,"00:40:59,880","00:41:03,280",2459.88,2463.28,3.400000000000091,"Das sehen Sie doch, dass das unsinnig ist."
+606,"00:41:04,280","00:41:07,040",2464.28,2467.04,2.7599999999997635,"Ein Haus soll rein, zwei Häuser?"
+607,"00:41:07,120","00:41:09,400",2467.12,2469.4,2.2800000000002,Es soll transparent sein.
+608,"00:41:09,680","00:41:13,880",2469.68,2473.88,4.200000000000273,"Dann lassen wir alles so, wie es ist. Alles soll nicht rein?"
+609,"00:41:14,080","00:41:17,360",2474.08,2477.36,3.2800000000002,Lassen Sie es doch weg. Was ist denn dann drin?
+610,"00:41:17,600","00:41:22,080",2477.6,2482.08,4.480000000000018,"Es geht um Transparenz, sie dürfen auch zwei Autos haben."
+611,"00:41:22,920","00:41:27,240",2482.92,2487.24,4.319999999999709,"Sie tun so, als würden wir den Leuten die Zahnbürste wegnehmen."
+612,"00:41:27,360","00:41:29,760",2487.36,2489.76,2.400000000000091,Es ist eine einfache Frage.
+613,"00:41:31,680","00:41:36,720",2491.68,2496.72,5.039999999999964,"Sie wollen ein Register, ob das nun schon woanders existiert oder nicht,"
+614,"00:41:36,800","00:41:39,720",2496.8,2499.72,2.919999999999618,ab welchem Vermögen werde ich eingetragen?
+615,"00:41:39,840","00:41:44,240",2499.84,2504.24,4.399999999999636,Und was muss ich eintragen? Das können wir diskutieren.
+616,"00:41:47,880","00:41:50,880",2507.88,2510.88,3.0,Wir wollen über die Ausgestaltung sprechen.
+617,"00:41:50,960","00:41:53,400",2510.96,2513.4,2.4400000000000546,Wir sind bereit für Kompromisse.
+618,"00:41:53,520","00:41:56,440",2513.52,2516.44,2.9200000000000728,So ist das mit einem Wahlprogramm.
+619,"00:41:56,880","00:42:00,080",2516.88,2520.08,3.199999999999818,Wir werden nicht die absolute Mehrheit haben.
+620,"00:42:00,200","00:42:02,800",2520.2,2522.8,2.600000000000364,"Das wird jetzt viele freuen, ich weiß."
+621,"00:42:02,920","00:42:05,400",2522.92,2525.4,2.480000000000018,Man muss Kompromisse finden.
+622,"00:42:05,640","00:42:08,440",2525.64,2528.44,2.800000000000182,"Wir wollen da eine Transparenz schaffen,"
+623,"00:42:08,560","00:42:11,080",2528.56,2531.08,2.519999999999982,ich verstehe die Problematik nicht.
+624,"00:42:11,480","00:42:16,040",2531.48,2536.04,4.559999999999945,Kompromisse schauen Sie habe das noch nicht ausgearbeitet.
+625,"00:42:17,080","00:42:21,840",2537.08,2541.84,4.760000000000218,"Doch, wir brauchen mehr Transparenz über große Vermögensbeteiligung."
+626,"00:42:21,960","00:42:25,000",2541.96,2545.0,3.0399999999999636,Da geht es nicht um das Elektroauto.
+627,"00:42:25,600","00:42:30,120",2545.6,2550.12,4.519999999999982,Wir bezeichnen nicht Leute mit 10.000 Euro als Superreiche.
+628,"00:42:30,240","00:42:34,080",2550.24,2554.08,3.8400000000001455,Vermögensteuer wird es nicht in die Regierung schaffen.
+629,"00:42:34,160","00:42:37,080",2554.16,2557.08,2.9200000000000728,Es ist nicht im Koalitionsvertrag.
+630,"00:42:38,800","00:42:43,000",2558.8,2563.0,4.199999999999818,Die Erbschaftssteuer wird bei Schwarz-Rot diskutiert.
+631,"00:42:43,080","00:42:44,800",2563.08,2564.8,1.7200000000002547,Das schlagen Sie vor:
+632,"00:43:02,000","00:43:03,280",2582.0,2583.28,1.2800000000002,Herr Bröcker:
+633,"00:43:03,440","00:43:07,240",2583.44,2587.24,3.799999999999727,"Wie ist es eigentlich möglich, dass deutsche Milliardäre"
+634,"00:43:07,400","00:43:11,240",2587.4,2591.24,3.8399999999996908,überdurchschnittlich stark von Erbschaften profitieren?
+635,"00:43:11,400","00:43:13,680",2591.4,2593.68,2.2799999999997453,Hat die Linke nicht einen Punkt?
+636,"00:43:13,840","00:43:16,840",2593.84,2596.84,3.0,Viele profitieren davon. Das ist ungerecht.
+637,"00:43:17,040","00:43:21,520",2597.04,2601.52,4.480000000000018,"Ja, wir müssen da gar nicht drüber reden. Es gibt Schlupflöcher."
+638,"00:43:21,640","00:43:24,680",2601.64,2604.68,3.0399999999999636,Wie die Vermögensverschuldungsprüfung.
+639,"00:43:24,760","00:43:26,760",2604.76,2606.76,2.0,Ein schwieriges Wort.
+640,"00:43:28,400","00:43:30,880",2608.4,2610.88,2.480000000000018,Du korrigier mich bitte ...
+641,"00:43:32,920","00:43:35,400",2612.92,2615.4,2.480000000000018,Vererbung von hohen Vermögen
+642,"00:43:39,320","00:43:43,160",2619.32,2623.16,3.8399999999996908,"führen kaum zu Steuersätzen, oder zu gar keinen."
+643,"00:43:44,000","00:43:47,600",2624.0,2627.6,3.599999999999909,"Die Liquidität, das Geld ist nicht auf dem Konto,"
+644,"00:43:47,720","00:43:50,400",2627.72,2630.4,2.680000000000291,"sondern in Immobilien, in Stiftungen."
+645,"00:43:50,480","00:43:52,640",2630.48,2632.64,2.1599999999998545,Das sind Schlupflöcher.
+646,"00:43:55,160","00:43:58,840",2635.16,2638.84,3.680000000000291,"Die wurden gebaut, die sind unnötig. Da muss man ran."
+647,"00:43:58,960","00:44:05,320",2638.96,2645.32,6.360000000000127,Da geht es um Fairness und Gerechtigkeit.
+648,"00:44:05,680","00:44:09,480",2645.68,2649.48,3.800000000000182,Trotzdem sind wahrscheinlich die Summen da nicht drin.
+649,"00:44:09,640","00:44:13,600",2649.64,2653.6,3.9600000000000364,Die 60 Prozent sind fast prohibitive Steuersätze von den Linken.
+650,"00:44:13,840","00:44:18,280",2653.84,2658.28,4.440000000000055,"Die Unternehmerin sagte im Film, sie vererbt ja kein Girokonto,"
+651,"00:44:18,800","00:44:22,720",2658.8,2662.72,3.919999999999618,"sondern eine Firma mit allem, was da drin steht und arbeitet."
+652,"00:44:22,960","00:44:24,240",2662.96,2664.24,1.2799999999997453,Das ist ganz klar.
+653,"00:44:24,400","00:44:27,840",2664.4,2667.84,3.4400000000000546,Es muss Verschonungsregeln für Unternehmen geben.
+654,"00:44:28,000","00:44:31,840",2668.0,2671.84,3.8400000000001455,"Ist es nicht richtig mit Blick auf die Wirtschaftslage,"
+655,"00:44:31,920","00:44:36,440",2671.92,2676.44,4.519999999999982,dass der Staat mit Blick nicht zu hohe Erbschaftssteuern erhebt?
+656,"00:44:36,640","00:44:39,480",2676.64,2679.48,2.8400000000001455,"Absolut, aber es gibt einen Mittelweg."
+657,"00:44:40,840","00:44:43,400",2680.84,2683.4,2.5599999999999454,Letztes Jahr gab es 45 Fälle.
+658,"00:44:44,920","00:44:47,960",2684.92,2687.96,3.0399999999999636,Über 200 Millionen wurden da vererbt.
+659,"00:44:50,520","00:44:53,600",2690.52,2693.6,3.0799999999999272,"1,5 Prozent Steuer wurde da gezahlt."
+660,"00:44:59,080","00:45:03,280",2699.08,2703.28,4.200000000000273,"10 bis 16 Prozent zahlt jemand, der einen kleinen Betrag erbt."
+661,"00:45:03,400","00:45:07,440",2703.4,2707.44,4.039999999999964,Das kann man in der Öffentlichkeit nicht vertreten.
+662,"00:45:12,720","00:45:16,520",2712.72,2716.52,3.800000000000182,"Gezahlt, wenn ihr die Liquidität habt, kann man sagen."
+663,"00:45:16,640","00:45:20,960",2716.64,2720.96,4.320000000000164,Der Staat kann auch stiller Teilhaber des Unternehmens werden.
+664,"00:45:21,040","00:45:24,640",2721.04,2724.64,3.599999999999909,Dem gehört einfach ein Teil des Unternehmens.
+665,"00:45:26,200","00:45:31,240",2726.2,2731.24,5.039999999999964,"Wenn der Staat das Unternehmen loswerden will, kann er auszahlen."
+666,"00:45:31,400","00:45:33,360",2731.4,2733.36,1.9600000000000364,60 Prozent von drei Millionen.
+667,"00:45:34,880","00:45:38,880",2734.88,2738.88,4.0,"Die Unternehmerin sagt, sie kann nicht dafür garantieren,"
+668,"00:45:39,240","00:45:41,760",2739.24,2741.76,2.5200000000004366,dass Ihr Unternehmen weitervererbt.
+669,"00:45:42,480","00:45:46,120",2742.48,2746.12,3.6399999999998727,Dann müssen das internationale Investoren aufkaufen.
+670,"00:45:47,200","00:45:48,760",2747.2,2748.76,1.5600000000004002,Was antworten Sie ihr?
+671,"00:45:49,600","00:45:53,360",2749.6,2753.36,3.7600000000002183,"Die Freibeträge, die wir festlegen, sind höher."
+672,"00:45:53,840","00:45:57,640",2753.84,2757.64,3.799999999999727,"Es gibt unterschiedliche, je nach Verwandtschaftsgrad."
+673,"00:45:57,720","00:45:59,200",2757.72,2759.2,1.4800000000000182,Die Frage ...
+674,"00:46:01,440","00:46:04,560",2761.44,2764.56,3.119999999999891,Einheitlich 200.000 steht im Programm.
+675,"00:46:07,240","00:46:12,280",2767.24,2772.28,5.040000000000418,"Wir haben ein Konzept vorgelegt, wo verschiedene Höhen drin sind."
+676,"00:46:13,840","00:46:18,960",2773.84,2778.96,5.119999999999891,"Ich kann Ihnen sagen, das ist in der Kürze des Wahlkampfes untergegangen."
+677,"00:46:19,080","00:46:22,120",2779.08,2782.12,3.0399999999999636,"Die Freibeträge sind höher, absolut."
+678,"00:46:25,000","00:46:27,200",2785.0,2787.2,2.199999999999818,"Wir haben kein Interesse daran,"
+679,"00:46:27,320","00:46:31,760",2787.32,2791.76,4.440000000000055,dass Unternehmen nicht existieren können oder aufgekauft werden.
+680,"00:46:31,880","00:46:36,640",2791.88,2796.64,4.7599999999997635,"Es gibt auch Möglichkeiten zu sagen, wir müssen darüber diskutieren,"
+681,"00:46:36,760","00:46:39,080",2796.76,2799.08,2.319999999999709,welche Höhe und was funktioniert?
+682,"00:46:39,200","00:46:43,160",2799.2,2803.16,3.9600000000000364,"Ich bin froh, dass wir über die Erbschaften reden."
+683,"00:46:47,000","00:46:49,480",2807.0,2809.48,2.480000000000018,Vor einer Weile war das kein Thema.
+684,"00:46:49,600","00:46:53,360",2809.6,2813.36,3.7600000000002183,Da ging es nur ums Bürgergeld und um Totalverweigerer.
+685,"00:46:53,480","00:46:58,080",2813.48,2818.08,4.599999999999909,"Dass auch Jens Spahn sagt, wir müssen daran, dass unterstütze ich."
+686,"00:46:58,200","00:47:00,800",2818.2,2820.8,2.600000000000364,Wir müssen diese Schlupflöcher prüfen.
+687,"00:47:00,920","00:47:07,560",2820.92,2827.56,6.639999999999873,Wie hoch wäre der Freibetrag? Nach Verwandtschaftsgrad.
+688,"00:47:07,680","00:47:10,480",2827.68,2830.48,2.800000000000182,Bis zu 500.000 für Ehepartner und Kinder.
+689,"00:47:10,600","00:47:15,200",2830.6,2835.2,4.599999999999909,"Das können wir gerne diskutieren, wie man das ausgestaltet."
+690,"00:47:16,760","00:47:20,400",2836.76,2840.4,3.6399999999998727,"Die Zahl, 60 Prozent auf 3 Millionen, bleibt."
+691,"00:47:22,160","00:47:25,920",2842.16,2845.92,3.7600000000002183,"Wenn man 30 Millionen als Unternehmenswert hat,"
+692,"00:47:28,000","00:47:30,560",2848.0,2850.56,2.5599999999999454,muss man 18 Millionen zahlen.
+693,"00:47:31,160","00:47:33,920",2851.16,2853.92,2.7600000000002183,Die kann ja trotzdem dann zu machen.
+694,"00:47:34,000","00:47:36,200",2854.0,2856.2,2.199999999999818,Wir können das anpassen.
+695,"00:47:36,640","00:47:39,320",2856.64,2859.32,2.680000000000291,Das lässt sich auch verlängern.
+696,"00:47:40,400","00:47:43,600",2860.4,2863.6,3.199999999999818,Es müssen faire Steuern gezahlt werden.
+697,"00:47:43,800","00:47:48,640",2863.8,2868.64,4.839999999999691,Kleine Erbschaften dürfen nicht viel mehr besteuert werden als große.
+698,"00:47:49,240","00:47:53,040",2869.24,2873.04,3.800000000000182,Das ist das Problem Ihrer Partei in einem Satz.
+699,"00:47:55,480","00:47:59,920",2875.48,2879.92,4.440000000000055,"Es kommt der linkspopulistische Ansatz, die größte Zahl,"
+700,"00:48:00,040","00:48:02,080",2880.04,2882.08,2.0399999999999636,der radikalste Ansatz.
+701,"00:48:04,160","00:48:07,360",2884.16,2887.36,3.200000000000273,"Soll der Unternehmer auf 30 Jahre das stunden,"
+702,"00:48:07,600","00:48:10,160",2887.6,2890.16,2.5599999999999454,wir müssen an die Schlupflöcher ran.
+703,"00:48:10,520","00:48:13,440",2890.52,2893.44,2.9200000000000728,Man kann auch an die Freibeträge rangehen.
+704,"00:48:15,480","00:48:18,400",2895.48,2898.4,2.9200000000000728,60 Prozent ist absoluter Wahnsinn.
+705,"00:48:20,600","00:48:25,520",2900.6,2905.52,4.920000000000073,"Den Standort macht man dann lieber in Österreich, Schweiz, Frankreich,"
+706,"00:48:25,640","00:48:28,600",2905.64,2908.6,2.9600000000000364,"als Investor, wir sind keine Insel."
+707,"00:48:30,720","00:48:35,760",2910.72,2915.76,5.040000000000418,80 Prozent der deutschen Unternehmen sind im internationalen Wettbewerb.
+708,"00:48:35,880","00:48:38,920",2915.88,2918.92,3.0399999999999636,"Die machen dann dicht, bei der Zahl."
+709,"00:48:40,000","00:48:43,840",2920.0,2923.84,3.8400000000001455,"Die Zahl ist nicht so absurd, wie sie erscheint."
+710,"00:48:44,360","00:48:49,040",2924.36,2929.04,4.679999999999836,"Wir haben schon heute, wenn ich erbe und nicht verwandt bin,"
+711,"00:48:49,800","00:48:53,840",2929.8,2933.84,4.039999999999964,ab 26 Millionen einen Erbschaftssteuersatz von 50 Prozent.
+712,"00:48:54,000","00:48:56,240",2934.0,2936.24,2.2399999999997817,Der kommt aber nicht zum Tragen.
+713,"00:48:56,360","00:48:58,080",2936.36,2938.08,1.7199999999998,Das ist ungerecht.
+714,"00:48:59,600","00:49:03,000",2939.6,2943.0,3.400000000000091,Wir sind weit weg von diesen Steuersätzen.
+715,"00:49:03,240","00:49:05,800",2943.24,2945.8,2.5600000000004,Die Steuersatzdiskussion ist absurd.
+716,"00:49:06,800","00:49:09,840",2946.8,2949.84,3.0399999999999636,Wir setzen die Steuersätze nicht um.
+717,"00:49:11,480","00:49:14,240",2951.48,2954.24,2.7599999999997635,Sind Sie für 50 oder 60 Prozent?
+718,"00:49:14,720","00:49:17,800",2954.72,2957.8,3.080000000000382,Bei Betriebsvermögen ist das zu hoch.
+719,"00:49:20,400","00:49:24,000",2960.4,2964.0,3.599999999999909,"Aber nur, wenn man ein Unternehmen geerbt hat, egal,"
+720,"00:49:24,120","00:49:25,600",2964.12,2965.6,1.4800000000000182,wie man damit umgeht:
+721,"00:49:25,720","00:49:29,240",2965.72,2969.24,3.519999999999982,Man sollte auch eine Kapitalrendite erwirtschaften.
+722,"00:49:29,360","00:49:32,320",2969.36,2972.32,2.9600000000000364,Wenn man ein guter Unternehmer ist.
+723,"00:49:33,240","00:49:35,640",2973.24,2975.64,2.400000000000091,Zwölf Prozent wären heikel.
+724,"00:49:37,920","00:49:39,880",2977.92,2979.88,1.9600000000000364,"Wenn ich das nicht verdiene,"
+725,"00:49:40,000","00:49:42,920",2980.0,2982.92,2.9200000000000728,vielleicht bin ich kein guter Unternehmer.
+726,"00:49:43,040","00:49:47,720",2983.04,2987.72,4.679999999999836,"Dass es einen Eigentümerwechsel gibt oder jemand anders rein kommt,"
+727,"00:49:47,840","00:49:51,400",2987.84,2991.4,3.5599999999999454,"dann geht das nicht weg, sondern jemand kommt."
+728,"00:49:51,520","00:49:54,520",2991.52,2994.52,3.0,So einfach ist Marktwirtschaft nicht.
+729,"00:49:55,120","00:49:58,280",2995.12,2998.28,3.1600000000003092,Man hat die Möglichkeit für Wettbewerb.
+730,"00:50:07,520","00:50:09,560",3007.52,3009.56,2.0399999999999636,"Man kann nicht sagen ab 1870,"
+731,"00:50:09,680","00:50:12,440",3009.68,3012.44,2.7600000000002183,"die meisten DAX-Unternehmen sind so alt,"
+732,"00:50:12,560","00:50:15,360",3012.56,3015.36,2.800000000000182,müssen bei einer Familie bleiben.
+733,"00:50:17,160","00:50:20,440",3017.16,3020.44,3.2800000000002,Ab Tag eins haut dieser Steuersatz rein.
+734,"00:50:22,360","00:50:26,080",3022.36,3026.08,3.7199999999998,Ob dieser andere Unternehmer andere Ideen hat.
+735,"00:50:29,200","00:50:32,320",3029.2,3032.32,3.1200000000003456,Dann wäre das ein prohibitiver Steuersatz.
+736,"00:50:32,480","00:50:35,280",3032.48,3035.28,2.800000000000182,Er ist zu hoch und kommt zu früh.
+737,"00:50:35,800","00:50:38,680",3035.8,3038.68,2.8799999999996544,Lass uns über private Erben reden.
+738,"00:50:39,280","00:50:42,360",3039.28,3042.36,3.0799999999999272,Das sind oft leistungslose Einkommen.
+739,"00:50:44,080","00:50:47,880",3044.08,3047.88,3.800000000000182,Da sind Sie sich einig. Das sind die Betriebsvermögen.
+740,"00:50:50,640","00:50:53,640",3050.64,3053.64,3.0,"Nimmst du die aus, das ist das Problem,"
+741,"00:50:53,720","00:50:55,760",3053.72,3055.76,2.0400000000004184,dass die ausgenommen sind.
+742,"00:50:55,880","00:50:59,720",3055.88,3059.72,3.8399999999996908,Die Steuer bevor Teilung in der Betriebsvermögen
+743,"00:51:01,880","00:51:05,640",3061.88,3065.64,3.7599999999997635,"sind die größte Steuersubvention, neun Milliarden."
+744,"00:51:07,920","00:51:11,920",3067.92,3071.92,4.0,"Man muss nicht darüber reden, dass man sie anpacken will,"
+745,"00:51:12,040","00:51:14,080",3072.04,3074.08,2.0399999999999636,wenn man sie ausnimmt.
+746,"00:51:15,000","00:51:19,560",3075.0,3079.56,4.559999999999945,Wir sind heute bei weitem nicht in der richtigen Richtung.
+747,"00:51:19,760","00:51:23,400",3079.76,3083.4,3.6399999999998727,Wie werden sich Union und SPD annähern? So ungefähr?
+748,"00:51:25,360","00:51:28,160",3085.36,3088.16,2.799999999999727,"Sie ist SPD, ich bin nicht Union."
+749,"00:51:28,360","00:51:31,560",3088.36,3091.56,3.199999999999818,Ein Mittelweg zwischen einer Verschonungsregel
+750,"00:51:31,840","00:51:34,400",3091.84,3094.4,2.5599999999999454,für die inhabergeführten Unternehmen.
+751,"00:51:34,560","00:51:36,760",3094.56,3096.76,2.200000000000273,"Die, die Sie da im Film hatten."
+752,"00:51:36,960","00:51:41,680",3096.96,3101.68,4.7199999999998,"Und das, was sie zu Recht sagt, was auch international üpblich ist,"
+753,"00:51:41,840","00:51:42,840",3101.84,3102.84,1.0,wird es gehen.
+754,"00:51:43,760","00:51:46,680",3103.76,3106.68,2.919999999999618,Die CDU hat das längst diskutiert.
+755,"00:51:47,520","00:51:51,480",3107.52,3111.48,3.9600000000000364,"Die wissen auch, dass das eine Frage der Fairness ist."
+756,"00:51:55,520","00:51:58,600",3115.52,3118.6,3.0799999999999272,Auch das Bürgergeld ist so ein Fall.
+757,"00:51:59,400","00:52:01,840",3119.4,3121.84,2.4400000000000546,"Man muss ein Signal setzen,"
+758,"00:52:02,800","00:52:06,720",3122.8,3126.72,3.919999999999618,um die große breite Mitte in den Fokus zu nehmen.
+759,"00:52:06,880","00:52:11,560",3126.88,3131.56,4.679999999999836,"Wir müssen über Gesundheit, Rente und Abgaben in Deutschland reden."
+760,"00:52:11,680","00:52:15,520",3131.68,3135.52,3.8400000000001455,Nicht immer uns an den Rändern die Köpfe einschlagen.
+761,"00:52:15,640","00:52:20,040",3135.64,3140.04,4.400000000000091,Warum hat Jens Spahn jetzt auf den Tisch gebracht?
+762,"00:52:20,120","00:52:22,960",3140.12,3142.96,2.8400000000001455,Es wurde schon einmal diskutiert.
+763,"00:52:23,040","00:52:26,160",3143.04,3146.16,3.119999999999891,"Jens Spahn war in der Arbeitsgruppe,"
+764,"00:52:27,160","00:52:30,520",3147.16,3150.52,3.3600000000001273,der das für die CDU sogar mitgemacht hat.
+765,"00:52:33,960","00:52:37,520",3153.96,3157.52,3.5599999999999454,"Die Wahrheit ist, die Union kann nicht versprechen,"
+766,"00:52:37,600","00:52:41,360",3157.6,3161.36,3.7600000000002183,dass in den nächsten vier Jahren kein einziger Mensch
+767,"00:52:41,480","00:52:44,720",3161.48,3164.72,3.2399999999997817,in Deutschland mehr Steuern zahlen muss.
+768,"00:52:48,080","00:52:52,680",3168.08,3172.68,4.599999999999909,"Es wird natürlich Gruppen geben, die höhere Steuern zahlen müssen."
+769,"00:52:52,760","00:52:55,160",3172.76,3175.16,2.399999999999636,Da muss die Union ehrlich sein.
+770,"00:52:55,240","00:52:58,720",3175.24,3178.72,3.480000000000018,Aber die große Debatte muss geführt werden.
+771,"00:52:58,920","00:53:01,160",3178.92,3181.16,2.2399999999997817,Oben wird zu wenig getan.
+772,"00:53:01,240","00:53:03,720",3181.24,3183.72,2.480000000000018,Die Mitte muss in den Fokus.
+773,"00:53:04,560","00:53:07,000",3184.56,3187.0,2.4400000000000546,Vielleicht bekommen Sie im Gegenzug
+774,"00:53:07,080","00:53:10,200",3187.08,3190.2,3.119999999999891,ein bisschen mehr Kompromiss bei der SPD.
+775,"00:53:10,320","00:53:13,560",3190.32,3193.56,3.2399999999997817,Es wird nicht zur Erbschaftsteuerreform kommen.
+776,"00:53:13,680","00:53:16,640",3193.68,3196.64,2.9600000000000364,Das halte ich für unwahrscheinlich.
+777,"00:53:17,520","00:53:21,200",3197.52,3201.2,3.6799999999998363,Weil die Erbschaftssteuer kommt den Ländern zugute.
+778,"00:53:21,320","00:53:25,320",3201.32,3205.32,4.0,Darum habe ich Sorge vor einer Mehrwertsteuererhöhung.
+779,"00:53:25,400","00:53:28,960",3205.4,3208.96,3.5599999999999454,Ein Haushaltsloch kriegt man nicht anders gestopft.
+780,"00:53:29,080","00:53:31,640",3209.08,3211.64,2.5599999999999454,Und das betrifft alle gleich.
+781,"00:53:31,720","00:53:34,440",3211.72,3214.44,2.7200000000002547,Er beschädigte aber den Konsum.
+782,"00:53:38,040","00:53:41,360",3218.04,3221.36,3.3200000000001637,Es gab so viele Deals in den letzten Jahrzehnten
+783,"00:53:41,440","00:53:43,800",3221.44,3223.8,2.3600000000001273,zwischen Bund und Ländern.
+784,"00:53:43,880","00:53:48,800",3223.88,3228.8,4.920000000000073,Das kommt den Ländern zugute und wird im Bundesrat entschieden.
+785,"00:53:50,760","00:53:53,960",3230.76,3233.96,3.199999999999818,"Es gibt im Koalition Ausschuss immer Parteien,"
+786,"00:53:54,080","00:53:55,960",3234.08,3235.96,1.8800000000001091,die miteinander verhandeln.
+787,"00:53:56,080","00:54:00,000",3236.08,3240.0,3.9200000000000728,Es kann auch einen Deal zwischen Bund und Ländern geben.
+788,"00:54:00,080","00:54:02,720",3240.08,3242.72,2.6399999999998727,Es gibt ein Altschulden-Thema.
+789,"00:54:05,320","00:54:09,440",3245.32,3249.44,4.119999999999891,Die Hälfte der NRW Kommunen sind hoffnungslos überschuldet.
+790,"00:54:10,120","00:54:14,840",3250.12,3254.84,4.720000000000255,Das ist eigentlich ein Länderthema. Politik ist am Ende auch Deals.
+791,"00:54:16,640","00:54:19,800",3256.64,3259.8,3.1600000000003092,"Gut, dass ... apropos Deals, Frau Reichinnek:"
+792,"00:54:22,440","00:54:26,840",3262.44,3266.84,4.400000000000091,Die Regierung braucht Ihre Partei für bestimmte Entscheidungen.
+793,"00:54:26,920","00:54:30,120",3266.92,3270.12,3.199999999999818,Wenn es eine Zwei-Drittel-Mehrheit geben muss.
+794,"00:54:30,240","00:54:33,720",3270.24,3273.72,3.480000000000018,Die nächste Gelegenheit ist die Wahl der Richterin
+795,"00:54:33,800","00:54:36,640",3273.8,3276.64,2.8399999999996908,für das Bundesverfassungsgericht.
+796,"00:54:40,520","00:54:44,920",3280.52,3284.92,4.400000000000091,"Es steht eine dritte Person fest, werden Sie sie wählen?"
+797,"00:54:45,080","00:54:49,200",3285.08,3289.2,4.119999999999891,Das werden wir am Montag in der Fraktion besprechen.
+798,"00:54:50,920","00:54:54,840",3290.92,3294.84,3.9200000000000728,"Es war wieder so, dass der Name schon in der Presse war."
+799,"00:54:54,920","00:54:58,280",3294.92,3298.28,3.3600000000001273,Wir werden am Montag darüber diskutieren.
+800,"00:54:59,120","00:55:02,200",3299.12,3302.2,3.0799999999999272,Dann werden wir unsere Entscheidung treffen.
+801,"00:55:02,480","00:55:06,680",3302.48,3306.68,4.199999999999818,Aber Sie persönlich als Abgeordnete mit freiem Mandat?
+802,"00:55:07,200","00:55:10,920",3307.2,3310.92,3.7200000000002547,"Ich sehe keinen Grund, warum wir den Vorschlag"
+803,"00:55:11,080","00:55:12,640",3311.08,3312.64,1.5599999999999454,nicht stützen sollten.
+804,"00:55:12,800","00:55:16,640",3312.8,3316.64,3.8399999999996908,"Aber wir hätten auch Frau Brosius-Gersdorf unterstützt,"
+805,"00:55:16,800","00:55:21,520",3316.8,3321.52,4.7199999999998,wenn sie nicht von 'ner rechten Hetzkampagne weggejagt worden wäre.
+806,"00:55:21,680","00:55:24,040",3321.68,3324.04,2.3600000000001273,* Applaus *
+807,"00:55:29,360","00:55:31,720",3329.36,3331.72,2.3599999999996726,Das ist jetzt der größte Applaus.
+808,"00:55:32,240","00:55:36,560",3332.24,3336.56,4.320000000000164,Kritischer dürfte ihre Partei Günther Spinner gegenüberstehen.
+809,"00:55:36,680","00:55:39,520",3336.68,3339.52,2.8400000000001455,Werden sie den auch unterstützen?
+810,"00:55:39,600","00:55:42,120",3339.6,3342.12,2.519999999999982,Das ist noch nicht final entschieden.
+811,"00:55:42,200","00:55:47,040",3342.2,3347.04,4.8400000000001455,"Es ist problematisch, dass die Union nicht"
+812,"00:55:47,120","00:55:51,840",3347.12,3351.84,4.720000000000255,für demokratische Mehrheiten sorgen will.
+813,"00:55:52,960","00:55:57,040",3352.96,3357.04,4.079999999999927,Wir möchten auf Fachebene einen Austausch zu dem Vorschlag.
+814,"00:55:57,160","00:56:00,480",3357.16,3360.48,3.3200000000001637,"Sie hat die Pflicht, Mehrheiten zu organisieren."
+815,"00:56:00,600","00:56:04,160",3360.6,3364.16,3.5599999999999454,Auch das entscheidet am Ende meine Fraktion.
+816,"00:56:04,240","00:56:07,520",3364.24,3367.52,3.2800000000002,"Vor der Sommerpause haben sie signalisiert,"
+817,"00:56:07,640","00:56:09,680",3367.64,3369.68,2.0399999999999636,Sie werden ihn wählen.
+818,"00:56:13,040","00:56:16,080",3373.04,3376.08,3.0399999999999636,Um auch AfD-Mehrheiten zu verhindern.
+819,"00:56:16,440","00:56:18,720",3376.44,3378.72,2.2799999999997453,Wollen Sie das jetzt nicht mehR?
+820,"00:56:18,920","00:56:23,360",3378.92,3383.36,4.440000000000055,"Wenn man möchte, dass wir einen Kandidaten unterstützen,"
+821,"00:56:23,440","00:56:27,040",3383.44,3387.04,3.599999999999909,"wäre es das mindeste, mit uns ins Gespräch zu gehen."
+822,"00:56:27,160","00:56:29,560",3387.16,3389.56,2.400000000000091,"Man sollte deutlich machen,"
+823,"00:56:30,400","00:56:34,520",3390.4,3394.52,4.119999999999891,dass man den Kandidaten nicht mit Stimmen der AfD gewählt.
+824,"00:56:34,640","00:56:37,600",3394.64,3397.6,2.9600000000000364,Das ist das mindeste für die Union.
+825,"00:56:38,320","00:56:42,280",3398.32,3402.28,3.9600000000000364,Ob wir eine Kandidatur ohne jegliche Kommunikation
+826,"00:56:42,400","00:56:46,240",3402.4,3406.24,3.8399999999996908,"unterstützen können, müssen wir noch besprechen."
+827,"00:56:46,640","00:56:47,800",3406.64,3407.8,1.1600000000003092,"Wir haben gesagt,"
+828,"00:56:47,880","00:56:52,000",3407.88,3412.0,4.119999999999891,unter diesen Umständen wird hier nichts vom zu nähren.
+829,"00:56:52,200","00:56:56,720",3412.2,3416.72,4.519999999999982,Es gibt eine hitzige Diskussion. Das entscheidet meine Fraktion.
+830,"00:56:56,880","00:57:01,080",3416.88,3421.08,4.199999999999818,"Wenn man Mehrheiten braucht, ... Sie leiten ja die Fraktion."
+831,"00:57:02,480","00:57:05,320",3422.48,3425.32,2.8400000000001455,Am Ende entscheidet es meine Fraktion.
+832,"00:57:05,400","00:57:08,040",3425.4,3428.04,2.6399999999998727,Man muss mit den Leuten reden.
+833,"00:57:10,000","00:57:14,040",3430.0,3434.04,4.039999999999964,"Man muss nicht so tun, als wenn das schon passiert."
+834,"00:57:15,160","00:57:22,040",3435.16,3442.04,6.880000000000109,"Als so zu tun, als wenn ein Unvereinbarkeitsbeschluss"
+835,"00:57:22,120","00:57:25,320",3442.12,3445.32,3.200000000000273,"überall fusioniert, ist nicht richtig."
+836,"00:57:26,600","00:57:29,640",3446.6,3449.64,3.0399999999999636,Hat Herr Spahn schon ihre Handynummer?
+837,"00:57:29,720","00:57:31,760",3449.72,3451.76,2.0400000000004184,Das verrate ich nicht.
+838,"00:57:32,080","00:57:36,160",3452.08,3456.16,4.079999999999927,Frau Sigl-Glöckner sitzt in einer Schuldenregelkommission.
+839,"00:57:37,080","00:57:39,640",3457.08,3459.64,2.5599999999999454,Das ist ja die relevantere Position.
+840,"00:57:40,000","00:57:43,640",3460.0,3463.64,3.6399999999998727,Die soll ja Anfang Januar schon Ergebnisse vorlegen.
+841,"00:57:44,280","00:57:48,680",3464.28,3468.68,4.399999999999636,Dann muss die Union auf jeden Fall mit der Linken reden.
+842,"00:57:49,080","00:57:52,120",3469.08,3472.12,3.0399999999999636,"Eine Kanditat*in kann man auch unterstützen,"
+843,"00:57:52,240","00:57:53,920",3472.24,3473.92,1.680000000000291,wenn man sie gut findet.
+844,"00:57:54,040","00:57:56,120",3474.04,3476.12,2.0799999999999272,"Wenn sie relevant finden,"
+845,"00:57:56,200","00:57:58,680",3476.2,3478.68,2.480000000000018,kann man sie einfach wählen.
+846,"00:58:00,320","00:58:03,520",3480.32,3483.52,3.199999999999818,Aber die Union hat natürlich ein Thema.
+847,"00:58:04,640","00:58:08,920",3484.64,3488.92,4.2800000000002,Sie muss auch auf anderer Ebene mit der Linken kommunizieren.
+848,"00:58:09,000","00:58:12,640",3489.0,3492.64,3.6399999999998727,Das muss nicht nur Alexander Dobrindt machen.
+849,"00:58:14,120","00:58:17,440",3494.12,3497.44,3.3200000000001637,Sollte Alexander Dobrindt oder Jens Spahn
+850,"00:58:20,040","00:58:24,880",3500.04,3504.88,4.8400000000001455,"ihre Telefonnummer haben, sollte er mit ihnen einen Kaffee zur gehen?"
+851,"00:58:25,120","00:58:28,320",3505.12,3508.32,3.200000000000273,Würden Sie das tun? Öffnen Sie sich dann mehr?
+852,"00:58:30,120","00:58:32,320",3510.12,3512.32,2.200000000000273,"Wir haben von Anfang an gesagt,"
+853,"00:58:33,240","00:58:37,920",3513.24,3517.92,4.680000000000291,dass wir mit allen demokratischen Parteien zusammenarbeiten wollen.
+854,"00:58:38,040","00:58:41,800",3518.04,3521.8,3.7600000000002183,"Sagen Sie doch einfach, ob sie mit dem Kaffee trinken."
+855,"00:58:41,920","00:58:44,600",3521.92,3524.6,2.6799999999998363,"Wenn Sie das vermitteln, gerne."
+856,"00:58:47,120","00:58:51,320",3527.12,3531.32,4.200000000000273,Gerade beim Thema Schuldenbremse haben ein großes Interesse.
+857,"00:58:51,400","00:58:54,400",3531.4,3534.4,3.0,Natürlich sind wir gesprächsbereit.
+858,"00:58:55,120","00:58:58,840",3535.12,3538.84,3.7200000000002547,"Ich habe die Nummer von Ingo Zamperoni, er ist schon sauer."
+859,"00:58:59,040","00:59:01,680",3539.04,3541.68,2.6399999999998727,"Wir sin Europameister, hab ich gehört."
+860,"00:59:02,360","00:59:03,760",3542.36,3543.76,1.400000000000091,Wir werden feiern.
+861,"00:59:03,840","00:59:07,720",3543.84,3547.72,3.8799999999996544,Und zwar den neuen Basketball-Euromeister Deutschland.
+862,"00:59:07,800","00:59:10,960",3547.8,3550.96,3.1599999999998545,Das Team ist jetzt gleichzeitig Welt- und Europameister.
+863,"00:59:11,040","00:59:16,000",3551.04,3556.0,4.960000000000036,"Die spannendsten Szenen aus dem Endspiel gegen die Türkei,"
+864,"00:59:16,080","00:59:18,160",3556.08,3558.16,2.0799999999999272,und was sonst noch wichtig war.
+865,"00:59:18,240","00:59:22,680",3558.24,3562.68,4.440000000000055,"Danke, Ingo. Ich danke für die Diskussion im Studio."
+866,"00:59:22,840","00:59:23,840",3562.84,3563.84,1.0,Wiedersehen.
+867,"00:59:47,000","00:59:50,160",3587.0,3590.16,3.1599999999998545,Copyright Untertitel: NDR 2025

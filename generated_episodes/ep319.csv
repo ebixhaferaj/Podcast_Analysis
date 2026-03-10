@@ -1,0 +1,740 @@
+﻿segment_id,start_time,end_time,start_seconds,end_seconds,duration,text
+1,"00:00:00,040","00:00:02,000",0.04,2.0,1.96,Diese Untertitel sind live produziert.
+2,"00:00:02,040","00:00:03,400",2.04,3.4,1.3599999999999999,Einen schönen guten Abend.
+3,"00:00:03,440","00:00:07,040",3.44,7.04,3.6,Willkommen zu unserer Sendung
+4,"00:00:07,120","00:00:09,720",7.12,9.72,2.6000000000000005,"und zu einem echten Krimi um Mitternacht, es geht"
+5,"00:00:09,840","00:00:12,000",9.84,12.0,2.16,"und da geht der Blick zu Anne Brorhilker,"
+6,"00:00:12,080","00:00:16,400",12.08,16.4,4.3199999999999985,um den mutmaßlich größten Steuerbetrug
+7,"00:00:16,480","00:00:20,200",16.48,20.2,3.719999999999999,"in der deutschen Geschichte, Cum-Cum und Cum-Ex geht, Stand heute,"
+8,"00:00:20,320","00:00:22,480",20.32,22.48,2.16,um 40 Milliarden.
+9,"00:00:22,560","00:00:25,840",22.56,25.84,3.280000000000001,"Sie sagt: Nein, wahrscheinlich geht es um ein Vielfaches,"
+10,"00:00:25,960","00:00:28,480",25.96,28.48,2.5199999999999996,"sie muss es wissen, denn es war Anne Brorhilker,"
+11,"00:00:28,560","00:00:29,840",28.56,29.84,1.2800000000000011,"die das aufgedeckt hat,"
+12,"00:00:29,960","00:00:33,200",29.96,33.2,3.240000000000002,"einen gigantischen Betrug auf Kosten deutscher Steuerzahler,"
+13,"00:00:33,320","00:00:38,480",33.32,38.48,5.159999999999997,"Milliarden, geklaut von Menschen, die die ganze Unerbittlichkeit"
+14,"00:00:38,560","00:00:40,760",38.56,40.76,2.1999999999999957,"des Staates schon zu spüren kriegen,"
+15,"00:00:40,840","00:00:43,120",40.84,43.12,2.279999999999994,wenn sich in ihrer eigenen Steuererklärung
+16,"00:00:43,200","00:00:46,640",43.2,46.64,3.4399999999999977,nur ein kleiner Fehler findet oder wenn sie falsch parken.
+17,"00:00:46,760","00:00:49,040",46.76,49.04,2.280000000000001,"Und genau deshalb trägt das brillante Buch,"
+18,"00:00:49,120","00:00:54,000",49.12,54.0,4.880000000000003,"das sie schon in November dazu veröffentlicht hat,"
+19,"00:00:54,080","00:00:57,200",54.08,57.2,3.1200000000000045,den passenden Titel: “Milliarden und Moral“
+20,"00:00:57,320","00:00:59,560",57.32,59.56,2.240000000000002,herzlich willkommen!
+21,"00:01:00,160","00:01:02,360",60.16,62.36,2.200000000000003,"Tja, wie war das alles möglich?"
+22,"00:01:02,440","00:01:04,800",62.44,64.8,2.3599999999999994,Und vor allem: ist das immer noch möglich?
+23,"00:01:04,880","00:01:06,640",64.88,66.64,1.7600000000000051,"Wollen wir Eva Quadbeck fragen,"
+24,"00:01:06,720","00:01:09,240",66.72,69.24,2.519999999999996,eine der besten Beobachterinnen deutscher Politik
+25,"00:01:09,320","00:01:12,360",69.32,72.36,3.0400000000000063,"denn es ist vor allem eine politische Entscheidung,"
+26,"00:01:12,440","00:01:14,400",72.44,74.4,1.960000000000008,wie aktiv wir das bekämpfen
+27,"00:01:14,480","00:01:17,160",74.48,77.16,2.6799999999999926,"und es ist vor allem eine politische Entscheidung,"
+28,"00:01:17,240","00:01:21,840",77.24,81.84,4.6000000000000085,wie viele Finanz-Lobbyisten wir rund um den deutschen Bundestag zulassen.
+29,"00:01:21,960","00:01:24,840",81.96000000000001,84.84,2.8799999999999955,Dazu nur eine Zahl:
+30,"00:01:24,920","00:01:30,320",84.92,90.32,5.3999999999999915,auf jeden Abgeordneten im Finanzausschuss kommen ungefähr
+31,"00:01:30,400","00:01:36,240",90.4,96.24000000000001,5.840000000000003,"10 Finanz-Lobbyisten, im Gegensatz dazu: die Staatsanwältin Anne,"
+32,"00:01:36,320","00:01:40,600",96.32,100.6,4.280000000000001,"deren Drucker schlappmachte, als es richtig losging, herzlich willkommen!"
+33,"00:01:41,160","00:01:44,360",101.16,104.36,3.200000000000003,Wir schauen einmal kurz rein.
+34,"00:01:45,080","00:01:48,240",105.08,108.24000000000001,3.160000000000011,Es geht um den größten Steuerraub
+35,"00:01:48,440","00:01:52,560",108.44,112.56,4.1200000000000045,entstanden der Schaden mutmaßlich 40 Milliarden.
+36,"00:01:55,360","00:01:59,360",115.36,119.36,4.0,Andere Brorhilker ermittelt über zehn Jahre lang
+37,"00:01:59,440","00:02:02,240",119.44,122.24,2.799999999999997,über dieses Betrugsnetzwerk.
+38,"00:02:06,080","00:02:09,720",126.08,129.72,3.6400000000000006,"Hunderte Fonds und Banken, sogar staatliche Landesbanken"
+39,"00:02:09,840","00:02:11,920",129.84,131.92,2.079999999999984,allesamt billig lauernden deutschen Steuerzahler.
+40,"00:02:16,560","00:02:18,560",136.56,138.56,2.0,- So Dollarzeichen in den Augen und das war alles unser Steuergeld.
+41,"00:02:19,440","00:02:22,480",139.44,142.48,3.039999999999992,ML: So funktioniert der Betrug.
+42,"00:02:23,680","00:02:27,600",143.68,147.6,3.9199999999999875,Es geht um Bildgeschäfte mit großen Aktienbörse.
+43,"00:02:27,640","00:02:30,520",147.64,150.52,2.880000000000024,Aktien werden rasend schnell zwischen Anleger
+44,"00:02:30,560","00:02:32,520",150.56,152.52,1.960000000000008,und Banken verschoben
+45,"00:02:32,560","00:02:36,320",152.56,156.32,3.759999999999991,dass mehrere Akteure denselben Steueranspruch vortäuschen.
+46,"00:02:36,360","00:02:39,520",156.36,159.52,3.1599999999999966,Behörden verlieren den Überblick.
+47,"00:02:42,120","00:02:46,400",162.12,166.4,4.280000000000001,So werden am Ende Steuern mehrfach zurückerstattet.
+48,"00:02:51,880","00:02:55,520",171.88,175.52,3.640000000000015,2013 erhält Sie ihren ersten Cum-Ex Fall.
+49,"00:03:01,760","00:03:06,240",181.76,186.24,4.480000000000018,130 Gebäude in 40 Ländern werden gleichzeitig gesucht.
+50,"00:03:14,520","00:03:16,960",194.52,196.96,2.4399999999999977,"Die Ermittler decken ein Netzwerk aus,"
+51,"00:03:17,000","00:03:20,240",197.0,200.24,3.240000000000009,dass sie noch über Jahre hinweg beschäftigen wird.
+52,"00:03:20,280","00:03:24,680",200.28,204.68,4.400000000000006,Am Ende stehen mehr als 1700 Namen auf der Liste ein besonderer Fall
+53,"00:03:24,760","00:03:28,680",204.76,208.68,3.920000000000016,die Hamburger Bank. Auch hier wurden 1 Million Beute gemacht.
+54,"00:03:28,760","00:03:32,160",208.76,212.16,3.4000000000000057,Fast hätte das Finanzamt freiwillig drauf verzichtet.
+55,"00:03:32,200","00:03:36,880",212.2,216.88,4.680000000000007,Die Frage ist wie sehr die Politik Einfluss genommen hat?
+56,"00:03:37,360","00:03:41,680",217.36,221.68,4.319999999999993,Sehr aufschlussreich sind die Tagebücher des Chefs.
+57,"00:03:46,960","00:03:51,160",226.96,231.16,4.199999999999989,"Er trifft sich mehrmals mit Olaf Scholz, Hamburgs Bürgermeister,"
+58,"00:03:51,200","00:03:52,160",231.2,232.16,0.960000000000008,später Kanzler.
+59,"00:03:52,680","00:03:56,360",232.68,236.36,3.680000000000007,"- Ein guter Bürgermeister, ein guter Minister als jemand,"
+60,"00:03:56,440","00:03:58,360",236.44,238.36,1.920000000000016,der ganz viele Gespräche führt
+61,"00:03:58,440","00:04:00,120",238.44,240.12,1.6800000000000068,"und es ist sehr plausibel,"
+62,"00:04:00,160","00:04:02,120",240.16,242.12,1.960000000000008,dass man sich nicht an jedes einzelne dieser Gespräche erinnern kann.
+63,"00:04:03,760","00:04:08,440",243.76,248.44,4.680000000000007,ML: 2021 erklärt der Gerichtshof Cum-Ex zum Steuerbetrug.
+64,"00:04:11,120","00:04:15,640",251.12,255.64,4.519999999999982,Einer der zentralen Architekten wird zu 2 × 8 Jahren Haft verurteilt.
+65,"00:04:15,680","00:04:18,880",255.68,258.88,3.1999999999999886,Im April quittiert sie den Dienst.
+66,"00:04:19,080","00:04:22,200",259.08,262.2,3.1200000000000045,Sie kehrt der Justiz den Rücken.
+67,"00:04:22,760","00:04:25,520",262.76,265.52,2.759999999999991,"Zu wenig politischer Wille, zu viele Gegner"
+68,"00:04:25,600","00:04:27,680",265.6,267.68,2.079999999999984,mit zu viel Geld.
+69,"00:04:30,640","00:04:35,160",270.64,275.15999999999997,4.519999999999982,Die Kleinen hängt man und die Großen lässt man laufen.
+70,"00:04:37,080","00:04:40,520",277.08,280.52,3.4399999999999977,"Frau Brorhilker, wenn dieser Satz also angebracht war"
+71,"00:04:40,600","00:04:42,600",280.6,282.6,2.0,dann genau in dieser Geschichte oder?
+72,"00:04:47,160","00:04:50,200",287.15999999999997,290.2,3.0400000000000205,AB: Das ist absolut zutreffend.
+73,"00:04:50,520","00:04:54,280",290.52,294.28,3.759999999999991,Weil Cum-Ex und die Ermittler bei den Schwierigkeiten sind
+74,"00:04:54,360","00:04:56,280",294.36,296.28,1.919999999999959,eigentlich sehr symptomatisch.
+75,"00:04:56,360","00:04:58,440",296.36,298.44,2.079999999999984,Sie zeigen die strukturellen Probleme dahinter.
+76,"00:04:59,280","00:05:01,960",299.28,301.96,2.680000000000007,ML: Bevor wir da gleich einsteigen und sie
+77,"00:05:02,040","00:05:04,640",302.04,304.64,2.599999999999966,versuchen zu erklären was da gelaufen ist
+78,"00:05:04,720","00:05:08,000",304.72,308.0,3.2799999999999727,würde ich gerne Eva Quadbeck Fragen
+79,"00:05:08,040","00:05:12,560",308.04,312.56,4.519999999999982,"wenn Olaf Scholz sagt, ich kann mich beim besten Willen nicht erinnern"
+80,"00:05:12,640","00:05:13,560",312.64,313.56,0.9200000000000159,glauben Sie das?
+81,"00:05:15,760","00:05:16,840",315.76,316.84,1.079999999999984,Soll
+82,"00:05:16,920","00:05:19,320",316.92,319.32,2.3999999999999773,"EQ: Ich halte das für unglaubwürdig,"
+83,"00:05:19,360","00:05:24,120",319.36,324.12,4.759999999999991,"weil der Olaf Scholz mehr kennt und ich habe ihn ja begleitet,"
+84,"00:05:24,200","00:05:26,080",324.2,326.08,1.8799999999999955,"der weiß, dass er jemand ist,"
+85,"00:05:26,120","00:05:29,760",326.12,329.76,3.6399999999999864,der in den politischen Details wirklich drin ist.
+86,"00:05:29,840","00:05:34,280",329.84,334.28,4.439999999999998,"Er konnte aus dem Stegreif auch stets erklären, was er wann"
+87,"00:05:34,360","00:05:37,920",334.36,337.92,3.5600000000000023,bei der Föderalismuskommission mit wem ausgehandelt hat.
+88,"00:05:38,000","00:05:42,280",338.0,342.28,4.279999999999973,Und wieso er das besonders schlau ausgehandelt hat.
+89,"00:05:43,280","00:05:45,920",343.28,345.92,2.640000000000043,"Das konnte er immer im Detail referieren,"
+90,"00:05:45,960","00:05:48,760",345.96,348.76,2.8000000000000114,das war auch eine Stärke von ihm.
+91,"00:05:48,800","00:05:52,360",348.8,352.36,3.5600000000000023,"Er hatte die Details parat, kannte sich aus."
+92,"00:05:52,400","00:05:55,680",352.4,355.68,3.2800000000000296,"Manchmal könnte man sagen, zu viel Mikromanagement."
+93,"00:05:55,760","00:05:59,800",355.76,359.8,4.0400000000000205,Aber deine Festplatte war wirklich gut sortiert.
+94,"00:06:01,480","00:06:04,440",361.48,364.44,2.9599999999999795,"Deshalb halte ich das für total unglaubwürdig,"
+95,"00:06:04,520","00:06:07,320",364.52,367.32,2.8000000000000114,"dass er in einer so wichtigen Angelegenheit,"
+96,"00:06:07,360","00:06:10,800",367.36,370.8,3.4399999999999977,wo es um das Steuergeld von der Hamburger Bürgerinnen
+97,"00:06:10,840","00:06:11,840",370.84,371.84,1.0,"und Bürger geht,"
+98,"00:06:11,920","00:06:14,040",371.92,374.04,2.1200000000000045,dass er das nicht mehr drauf hat.
+99,"00:06:14,120","00:06:17,320",374.12,377.32,3.1999999999999886,Und dass er sich daran gar nicht erinnern kann.
+100,"00:06:17,400","00:06:18,040",377.4,378.04,0.6400000000000432,"Vielleicht,"
+101,"00:06:18,080","00:06:22,040",378.08,382.04,3.9600000000000364,weil er das nicht so wichtig fand wie die Föderalismusreform.
+102,"00:06:22,080","00:06:26,040",382.08,386.04,3.9600000000000364,"Aber dass da eine komplette Erinnerungslücken,"
+103,"00:06:27,080","00:06:29,680",387.08,389.68,2.6000000000000227,"ein komplettes Schwarzes Loch sein soll,"
+104,"00:06:29,720","00:06:32,080",389.72,392.08,2.359999999999957,das halte ich für nicht glaubwürdig.
+105,"00:06:32,120","00:06:34,240",392.12,394.24,2.1200000000000045,"Ich denke, er hat einen politischen Fehler gemacht."
+106,"00:06:36,560","00:06:39,640",396.56,399.64,3.079999999999984,"ML: Olaf Scholz, um das juristisch zu verstehen,"
+107,"00:06:39,720","00:06:42,360",399.72,402.36,2.6399999999999864,war ein exzellenter Arbeitsrechtler
+108,"00:06:42,440","00:06:45,160",402.44,405.15999999999997,2.7199999999999704,"wenn der sagt ich kann mich nicht erinnern,"
+109,"00:06:45,200","00:06:47,640",405.2,407.64,2.4399999999999977,welchen Hintergrund könnte das haben?
+110,"00:06:47,680","00:06:49,720",407.68,409.72,2.0400000000000205,Ist das juristisch besonders clever?
+111,"00:06:51,400","00:06:56,600",411.4,416.6,5.2000000000000455,"AB: Absolut, das hört man als Staatsanwälte natürlich jeden Tag."
+112,"00:06:57,200","00:07:01,120",417.2,421.12,3.920000000000016,"Das sagen viele Täter, weil es praktisch ist,"
+113,"00:07:02,440","00:07:06,920",422.44,426.92,4.480000000000018,"weil man kaum widerlegen kann, was jemand im Kopf hat."
+114,"00:07:07,720","00:07:11,640",427.72,431.64,3.919999999999959,Deshalb ist es eine juristisch kluge Antwort.
+115,"00:07:11,920","00:07:14,440",431.92,434.44,2.519999999999982,"Geglaubt hat es ihm aber keiner,"
+116,"00:07:14,480","00:07:17,720",434.48,437.72,3.240000000000009,deswegen hat seine Rufe bei darunter gelitten.
+117,"00:07:20,760","00:07:23,160",440.76,443.16,2.400000000000034,"ML: Wenn Sie sagen, das sagen viele,"
+118,"00:07:23,200","00:07:24,680",443.2,444.68,1.4800000000000182,meinen sie ausdrücklich nicht Olaf Scholz.
+119,"00:07:24,680","00:07:28,520",444.68,448.52,3.839999999999975,"AB: Absolut, das war nur die Perspektive aus meinem Beruf."
+120,"00:07:28,520","00:07:30,800",448.52,450.8,2.2800000000000296,"Wie oft habe ich diesen Satz gehört, sehr oft."
+121,"00:07:34,600","00:07:38,520",454.6,458.52,3.919999999999959,"ML: Wie erklären Sie jemanden der noch nie davon gehört hat,"
+122,"00:07:38,600","00:07:40,000",458.6,460.0,1.3999999999999773,was es eigentlich ist?
+123,"00:07:40,080","00:07:40,920",460.08,460.92,0.8400000000000318,Wo beginnt es?
+124,"00:07:41,000","00:07:44,120",461.0,464.12,3.1200000000000045,Es geht um Aktien die jemand hält
+125,"00:07:44,880","00:07:49,200",464.88,469.2,4.319999999999993,und es gibt nicht nur Gewinne aus steigenden Kursen
+126,"00:07:53,480","00:07:57,640",473.48,477.64,4.159999999999968,"es gibt viele deutsche Unternehmen, verlässliche Anlage Objekte,"
+127,"00:07:57,720","00:08:00,440",477.72,480.44,2.7199999999999704,weil sie Dividenden zahlen.
+128,"00:08:00,560","00:08:04,040",480.56,484.04,3.480000000000018,"Das ist nicht viel, aber wenn man viele Aktien verfügt"
+129,"00:08:04,120","00:08:06,520",484.12,486.52,2.3999999999999773,ist es sehr viel Geld.
+130,"00:08:08,880","00:08:10,600",488.88,490.6,1.7200000000000273,"Es geht um die Dividenden,"
+131,"00:08:10,640","00:08:14,400",490.64,494.4,3.759999999999991,auf die auch die Kapitalsteuer fällig wird.
+132,"00:08:15,400","00:08:19,880",495.4,499.88,4.480000000000018,"Man bekommt diese Dividende, weil man BMW Aktien hält."
+133,"00:08:19,960","00:08:22,760",499.96,502.76,2.8000000000000114,Und darauf gibt es 25 % Kapitalertragssteuer
+134,"00:08:22,840","00:08:25,000",502.84,505.0,2.160000000000025,"für Sie, für sie und für mich."
+135,"00:08:25,080","00:08:26,840",505.08,506.84,1.759999999999991,Warum ich für diese Herrschaften?
+136,"00:08:29,840","00:08:32,800",509.84,512.8,2.9599999999999795,"AB: Genau, den geht es nicht um die Dividende,"
+137,"00:08:32,840","00:08:35,680",512.84,515.68,2.839999999999918,den geht es um die Steuer auf die Dividende.
+138,"00:08:35,720","00:08:38,000",515.72,518.0,2.2799999999999727,"Das ist also die Beute, der Kuchen."
+139,"00:08:38,080","00:08:41,920",518.08,521.92,3.839999999999918,Deshalb nennt man das ganze auch steuergetriebene Geschäfte.
+140,"00:08:42,000","00:08:45,200",522.0,525.2,3.2000000000000455,"Es ist überhaupt kein richtiger Handel mit Aktien,"
+141,"00:08:45,280","00:08:47,120",525.28,527.12,1.8400000000000318,so wie wir es uns vorstellen.
+142,"00:08:47,200","00:08:50,800",527.2,530.8,3.599999999999909,"Es geht nur darum, dass man steuerliche Effekte erzielt."
+143,"00:08:50,880","00:08:55,400",530.88,535.4,4.519999999999982,Man hat es also auf die Kapitalertragssteuer abgesehen.
+144,"00:08:55,760","00:08:58,720",535.76,538.72,2.9600000000000364,"Der erste Schritt ist Cum Cum,"
+145,"00:08:59,200","00:09:00,320",539.2,540.32,1.1200000000000045,"da geht es darum,"
+146,"00:09:00,400","00:09:04,720",540.4,544.72,4.32000000000005,"dass man die Kapitalertragsteuer gar nicht zahlt, wo man es müsste."
+147,"00:09:04,800","00:09:07,520",544.8,547.52,2.7200000000000273,"Schritt zwei wäre Cum-Ex, da geht es darum,"
+148,"00:09:07,560","00:09:09,800",547.56,549.8,2.240000000000009,dass man sich die erstatten lässt.
+149,"00:09:09,840","00:09:11,280",549.84,551.28,1.4399999999999409,Ich kann es auch noch mal erklären.
+150,"00:09:13,320","00:09:16,560",553.32,556.56,3.2399999999998954,ML: Ich würd einmal gerne von Anfang es verstehen.
+151,"00:09:16,640","00:09:19,520",556.64,559.52,2.8799999999999955,Es gibt jemanden der hat diese VW Aktie. Wo sitzt der?
+152,"00:09:22,560","00:09:25,880",562.56,565.88,3.32000000000005,"AB: Zwei Drittel der deutschen Aktien nimmt man an,"
+153,"00:09:25,960","00:09:30,600",565.96,570.6,4.639999999999986,"schätzt man, dass die von sogenannten Steuer Ausländern gehalten werden."
+154,"00:09:30,680","00:09:34,960",570.68,574.96,4.280000000000086,"Zum Beispiel bei US Pensionsfonds, bei Staatsfonds,"
+155,"00:09:35,040","00:09:36,520",575.04,576.52,1.4800000000000182,sie halten eine jede Menge Aktien.
+156,"00:09:39,240","00:09:43,560",579.24,583.56,4.319999999999936,"ML: Norwegischer Staatsfort, das glaube ich der reichste der Welt."
+157,"00:09:43,640","00:09:46,280",583.64,586.28,2.6399999999999864,Wenn sie sagen sie legen in Deutschland an
+158,"00:09:46,360","00:09:48,320",586.36,588.32,1.9600000000000364,dann kaufen Sie auch 100.000 Aktien.
+159,"00:09:53,400","00:09:54,160",593.4,594.16,0.7599999999999909,"AB: Richtig,"
+160,"00:09:54,240","00:09:57,960",594.24,597.96,3.7200000000000273,"deswegen sind die meisten in Deutschland notierten Aktien,"
+161,"00:09:58,040","00:09:59,560",598.04,599.56,1.5199999999999818,"gar nicht bei deutschen,"
+162,"00:09:59,640","00:10:02,320",599.64,602.32,2.6800000000000637,sondern bei sogenannten Steuer Ausländern.
+163,"00:10:02,360","00:10:04,440",602.36,604.44,2.080000000000041,"Wenn die Dividende gezahlt wird,"
+164,"00:10:04,520","00:10:07,040",604.52,607.04,2.519999999999982,dann müssen Sie die Kapitalertragssteuer
+165,"00:10:07,080","00:10:07,720",607.08,607.72,0.6399999999999864,darauf zahlen.
+166,"00:10:08,120","00:10:09,800",608.12,609.8,1.67999999999995,"ML: 25 %, eh schon günstig."
+167,"00:10:11,360","00:10:12,800",611.36,612.8,1.4399999999999409,AB: Ehe schon günstig.
+168,"00:10:12,880","00:10:15,480",612.88,615.48,2.6000000000000227,"Aber im Steuerrecht ist der viel günstig,"
+169,"00:10:15,520","00:10:17,920",615.52,617.92,2.3999999999999773,wenn man eine kompetente Beratung hat.
+170,"00:10:18,000","00:10:21,720",618.0,621.72,3.7200000000000273,"So sind sie auf die Idee gekommen, es wäre noch günstiger,"
+171,"00:10:21,800","00:10:23,600",621.8,623.6,1.8000000000000682,wenn ich sie nicht zahlen müsste.
+172,"00:10:24,160","00:10:25,520",624.16,625.52,1.3600000000000136,ML: Sehr einleuchtend.
+173,"00:10:27,200","00:10:30,640",627.2,630.64,3.439999999999941,"AB: Das wäre prima, eine Dividende, ganz ohne Steuer."
+174,"00:10:30,720","00:10:32,920",630.72,632.92,2.199999999999932,"Da sind Sie auf die Idee gekommen,"
+175,"00:10:32,960","00:10:36,160",632.96,636.16,3.199999999999932,"dass sie die Akte nur für den relevanten Stichtag,"
+176,"00:10:36,240","00:10:38,560",636.24,638.56,2.3199999999999363,"da wo die Dividende ausgezahlt wird,"
+177,"00:10:38,640","00:10:41,840",638.64,641.84,3.2000000000000455,"an diesem Stichtag verschieben wir das auf jemand,"
+178,"00:10:41,920","00:10:44,080",641.92,644.08,2.160000000000082,der von dieser Steuer befreit ist.
+179,"00:10:44,160","00:10:46,920",644.16,646.92,2.759999999999991,"In Deutschland sind das ein paar Entitäten,"
+180,"00:10:46,960","00:10:49,040",646.96,649.04,2.0799999999999272,"zum Beispiel Investmentfonds, manche Banken sind von der Steuer befreit."
+181,"00:10:53,120","00:10:57,560",653.12,657.56,4.439999999999941,ML: D. h. man verschiebt die Aktie aus dem Ausland nach Deutschland.
+182,"00:10:57,600","00:10:59,280",657.6,659.28,1.67999999999995,Nur für diesen Moment.
+183,"00:10:59,720","00:11:00,320",659.72,660.32,0.6000000000000227,"AB: Genau,"
+184,"00:11:00,400","00:11:04,280",660.4,664.28,3.8799999999999955,Sie sind jetzt zum Beispiel der norwegische Staatsverband...
+185,"00:11:04,320","00:11:05,680",664.32,665.68,1.3599999999999,"Die machen das nicht,"
+186,"00:11:05,760","00:11:10,200",665.76,670.2,4.440000000000055,da liegen nur die Aktien und da sind auch Zwischenhändler dazwischen.
+187,"00:11:10,280","00:11:14,240",670.28,674.24,3.9600000000000364,"Sie sagen, Steuern zahlen würde ich lieber weglassen,"
+188,"00:11:14,320","00:11:18,320",674.32,678.32,4.0,"dann verschieben Sie die Aktien nur für den Stichtag auf mich,"
+189,"00:11:18,360","00:11:20,880",678.36,680.88,2.519999999999982,weil ich bin steuerbefreiter Investmentfonds in Deutschland.
+190,"00:11:21,440","00:11:24,360",681.44,684.36,2.919999999999959,ML: Warum sind Sie ein steuerbefreiter Investmentfonds?
+191,"00:11:27,160","00:11:28,880",687.16,688.88,1.7200000000000273,"AB: Diese Steuerbefreiung,"
+192,"00:11:28,960","00:11:32,880",688.96,692.88,3.919999999999959,die haben irgendwann mal gute Gründe gehabt und sind für ganz
+193,"00:11:32,960","00:11:35,400",692.96,695.4,2.439999999999941,andere Konstellationen gedacht gewesen.
+194,"00:11:35,480","00:11:38,160",695.48,698.16,2.67999999999995,Die werden jetzt sozusagen zweckentfremdet
+195,"00:11:38,240","00:11:39,000",698.24,699.0,0.7599999999999909,und wie ein Baustein eingesetzt.
+196,"00:11:39,320","00:11:41,280",699.32,701.28,1.9599999999999227,ML: Was sind das für Gründe?
+197,"00:11:41,560","00:11:44,920",701.56,704.92,3.3600000000000136,"AB: Zum Beispiel, weil dahinter noch Anleger stehen,"
+198,"00:11:45,000","00:11:48,880",705.0,708.88,3.8799999999999955,dann soll nicht beide besteuert werden solche Gründe spielen
+199,"00:11:48,960","00:11:49,600",708.96,709.6,0.6399999999999864,eine Rolle.
+200,"00:11:49,680","00:11:53,080",709.68,713.08,3.400000000000091,Das hatte alles mal einen Hintergrund und einen Sinn.
+201,"00:11:53,160","00:11:54,120",713.16,714.12,0.9600000000000364,Die werden jetzt aber zweckentfremdet.
+202,"00:12:02,040","00:12:04,200",722.04,724.2,2.160000000000082,ML:ich schiebe ihn die Dividende.
+203,"00:12:04,280","00:12:07,000",724.28,727.0,2.7200000000000273,Dann schiebe ich das Ding schnell zu ihnen.
+204,"00:12:07,080","00:12:09,400",727.08,729.4,2.3199999999999363,Weil ich weiß diesen Steuer befreit.
+205,"00:12:09,440","00:12:11,600",729.44,731.6,2.159999999999968,Wir beide haben eine Verabredung.
+206,"00:12:13,360","00:12:16,720",733.36,736.72,3.3600000000000136,AB: wir haben vorher miteinander Gesprochen und auch
+207,"00:12:16,800","00:12:19,120",736.8,739.12,2.32000000000005,"einen Vertrag gemacht, ich krieg es,"
+208,"00:12:19,200","00:12:22,320",739.2,742.32,3.1200000000000045,"darf aber auf gar keinen Fall etwas damit machen,"
+209,"00:12:22,400","00:12:24,800",742.4,744.8,2.3999999999999773,sie wollen das ja wieder zurück haben.
+210,"00:12:24,880","00:12:27,800",744.88,747.8,2.919999999999959,Sie müssen das nur fürs Finanzamt vortäuschen.
+211,"00:12:27,880","00:12:31,800",747.88,751.8,3.919999999999959,"Wir haben vorher miteinander gesprochen und auch klargemacht,"
+212,"00:12:31,880","00:12:36,400",751.88,756.4,4.519999999999982,sie kriegen die Akte dann auch sofort wieder zurück und ich darf damit
+213,"00:12:36,480","00:12:38,000",756.48,758.0,1.5199999999999818,überhaupt nichts machen.
+214,"00:12:38,080","00:12:42,160",758.08,762.16,4.079999999999927,"Dann kommen die zu mir, das Finanzamt guckt drauf und man sagt,"
+215,"00:12:42,240","00:12:47,120",762.24,767.12,4.8799999999999955,"Moment, ich möchte die Steuer zurück, ich bin der Steuer befreit."
+216,"00:12:47,200","00:12:48,960",767.2,768.96,1.759999999999991,"Das Finanzamt weiß ja nicht,"
+217,"00:12:49,040","00:12:51,840",769.04,771.84,2.800000000000068,dass wir vorher miteinander gesprochen haben
+218,"00:12:51,920","00:12:55,320",771.92,775.32,3.400000000000091,"und einen Vertrag haben, die sagen das ja auch nicht."
+219,"00:12:55,360","00:12:58,560",775.36,778.56,3.199999999999932,"Und da kommen wir in den kriminellen Bereich rein,"
+220,"00:12:58,680","00:13:00,400",778.68,780.4,1.7200000000000273,dass wir das nicht sagen.
+221,"00:13:00,480","00:13:04,640",780.48,784.64,4.159999999999968,Und deswegen gibt das Finanzamt dann die Steuer sozusagen zurück.
+222,"00:13:04,720","00:13:06,840",784.72,786.84,2.1200000000000045,Und dann geht die Akte wieder zurück an Sie.
+223,"00:13:08,080","00:13:11,120",788.08,791.12,3.0399999999999636,ML: Dann machen wir beide halbe halbe.
+224,"00:13:11,120","00:13:14,240",791.12,794.24,3.1200000000000045,"AB: Genau, ich kriege ein bisschen etwas dafür,"
+225,"00:13:14,240","00:13:16,080",794.24,796.08,1.8400000000000318,dass ich dem Finanzamt gegenüber gelogen habe.
+226,"00:13:18,680","00:13:21,520",798.68,801.52,2.840000000000032,ML: Wir reden wirklich von der nackten Gier?
+227,"00:13:21,600","00:13:25,840",801.6,805.84,4.240000000000009,"Man kriegt diese Dividende, das ist eh schon schön."
+228,"00:13:26,160","00:13:27,440",806.16,807.44,1.2800000000000864,Und dann willst du noch die Funktion Prozent
+229,"00:13:30,080","00:13:33,120",810.08,813.12,3.0399999999999636,am Ende sind wir bei über 50 %.
+230,"00:13:41,320","00:13:43,040",821.32,823.04,1.7199999999999136,Die Müssener 25 % zahlen und das ist zu viel.
+231,"00:13:43,760","00:13:48,600",823.76,828.6,4.840000000000032,"AB: Das ist ihnen viel zu viel und da sind sie noch auf die Idee gekommen,"
+232,"00:13:48,680","00:13:50,960",828.68,830.96,2.2800000000000864,"wo die Aktien ja gerade im Inland sind,"
+233,"00:13:50,960","00:13:51,320",830.96,831.32,0.36000000000001364,",ML: Wie macht man das?"
+234,"00:13:51,320","00:13:55,520",831.32,835.52,4.199999999999932,"da können wir die ja dem Finanzamt endlich noch mal präsentieren,"
+235,"00:13:55,520","00:13:58,760",835.52,838.76,3.240000000000009,"die gleichen Aktien. Das ist eine super Geschichte,"
+236,"00:13:58,840","00:14:01,000",838.84,841.0,2.159999999999968,dann kriegen wir nämlich nochmals steuern.
+237,"00:14:02,560","00:14:05,280",842.56,845.28,2.7200000000000273,"AB: Deswegen sind die am Stichtag bei mir,"
+238,"00:14:05,360","00:14:08,800",845.36,848.8,3.439999999999941,"ich sag dem Finanzamt Bescheid. Und nach dem Geschäft,"
+239,"00:14:08,920","00:14:12,320",848.92,852.32,3.400000000000091,"nach dem Stichtag, wo ich die Dividende bekommen habe,"
+240,"00:14:12,400","00:14:14,320",852.4,854.32,1.9200000000000728,benutze ich die Akte noch mal.
+241,"00:14:14,400","00:14:17,520",854.4,857.52,3.1200000000000045,Und dann verschiebe ich sie jetzt jemand anderem.
+242,"00:14:17,600","00:14:20,920",857.6,860.92,3.3199999999999363,Sie sind jetzt ein Leerverkäufer und Wir haben jetzt
+243,"00:14:21,000","00:14:22,800",861.0,862.8,1.7999999999999545,mit einer anderen Person einen Vertrag gemacht.
+244,"00:14:23,360","00:14:25,320",863.36,865.32,1.9600000000000364,ML: D. h. Eva Quadbeck verkauft Aktien?
+245,"00:14:25,840","00:14:28,080",865.84,868.08,2.240000000000009,"AB: Nein, sie bekommt die Aktien."
+246,"00:14:28,160","00:14:31,640",868.16,871.64,3.480000000000018,"Vom Leerverkäufer, den Wert nicht sehen."
+247,"00:14:35,480","00:14:39,120",875.48,879.12,3.6399999999999864,"Sie sagen dann, ich bin steuerbefreiter Investmentfonds,"
+248,"00:14:39,240","00:14:40,640",879.24,880.64,1.3999999999999773,das kennen wir ja schon
+249,"00:14:40,760","00:14:44,200",880.76,884.2,3.4400000000000546,und ich hätte gerne die Steuern wieder.
+250,"00:14:44,280","00:14:46,840",884.28,886.84,2.560000000000059,Und das Finanzamt weiß gar nichts davon.
+251,"00:14:46,960","00:14:48,600",886.96,888.6,1.6399999999999864,Weder von dieser Bewegung.
+252,"00:14:48,680","00:14:50,560",888.68,890.56,1.8799999999999955,Und da kommen dann noch mal steuern.
+253,"00:14:53,120","00:14:57,280",893.12,897.28,4.159999999999968,ML: Wir reden nicht vom gleichen Aktienpaket sondern vom selben.
+254,"00:14:57,360","00:15:00,440",897.36,900.44,3.080000000000041,Es gibt einen schönen Vergleich.
+255,"00:15:00,480","00:15:03,880",900.48,903.88,3.3999999999999773,Es ist so als ob du zu Supermann gehst
+256,"00:15:04,200","00:15:07,040",904.2,907.04,2.839999999999918,die Weinflasche zurück gibst
+257,"00:15:08,240","00:15:10,160",908.24,910.16,1.919999999999959,und kopierst den Bon noch zwanzigmal
+258,"00:15:12,600","00:15:17,400",912.6,917.4,4.7999999999999545,"AB: Und das mit den 20 Mal ist gar nicht so weit hergeholt,"
+259,"00:15:17,480","00:15:20,960",917.48,920.96,3.480000000000018,"die Insider, die wir vernommen haben, die haben gesagt,"
+260,"00:15:21,080","00:15:22,840",921.08,922.84,1.759999999999991,das haben wir öfter gemacht.
+261,"00:15:22,920","00:15:26,440",922.92,926.44,3.5200000000000955,das kann man dann nämlich kreisen lassen
+262,"00:15:28,080","00:15:30,640",928.08,930.64,2.5599999999999454,"und dann ist das wie ein Flipperautomat,"
+263,"00:15:30,760","00:15:35,520",930.76,935.52,4.759999999999991,"immer wenn es ankommt, dann macht es blind und dann kommen die Steuern an."
+264,"00:15:35,600","00:15:36,720",935.6,936.72,1.1200000000000045,Und das war richtig teuer.
+265,"00:15:37,680","00:15:39,440",937.68,939.44,1.7600000000001046,ML: 40 Milliarden sagen Sie?
+266,"00:15:40,080","00:15:44,040",940.08,944.04,3.9599999999999227,AB: Die 40 Milliarden ist die Schätzung von Professor Stengel
+267,"00:15:44,160","00:15:45,480",944.16,945.48,1.32000000000005,von der Uni Mannheim.
+268,"00:15:45,520","00:15:50,000",945.52,950.0,4.480000000000018,"Er hat sehr vorsichtig geschätzt, er hat zum Beispiel zugrundegelegt,"
+269,"00:15:50,080","00:15:52,840",950.08,952.84,2.759999999999991,"dass das nicht alle Steuer Ausländer machen,"
+270,"00:15:52,960","00:15:56,840",952.96,956.84,3.8799999999999955,"sondern höchstens die Hälfte davon. Ich halte das vorsichtig,"
+271,"00:15:56,960","00:15:59,920",956.96,959.92,2.9599999999999227,"die Kronzeugen, mit denen wir gesprochen haben,"
+272,"00:16:00,000","00:16:03,520",960.0,963.52,3.519999999999982,"die waren jahrelang in dieser Branche und haben gesagt,"
+273,"00:16:03,600","00:16:08,400",963.6,968.4,4.7999999999999545,"eigentlich alle Aktien sind unterwegs am Stichtag. Das ist die pures Gold,"
+274,"00:16:08,480","00:16:10,400",968.48,970.4,1.919999999999959,da bleibt eigentlich nicht in einer Schublade liegen.
+275,"00:16:11,120","00:16:13,240",971.12,973.24,2.1200000000000045,ML: Ist das europaweit oder weltweit?
+276,"00:16:13,840","00:16:17,600",973.84,977.6,3.759999999999991,"AB: Genau, das ist weltweit. Die, die wir vernommen haben,"
+277,"00:16:17,720","00:16:18,600",977.72,978.6,0.8799999999999955,"die Kronzeugen,"
+278,"00:16:18,720","00:16:21,720",978.72,981.72,3.0,die Ware bei internationalen Investmentbanken im Ausland und haben
+279,"00:16:21,800","00:16:25,320",981.8,985.32,3.5200000000000955,"das nicht nur in Europa gemacht, sondern eben weltweit."
+280,"00:16:25,400","00:16:29,120",985.4,989.12,3.7200000000000273,"Eine hat gesagt, ich wurde extra dafür eingestellt worden."
+281,"00:16:29,200","00:16:31,240",989.2,991.24,2.0399999999999636,Für Cum-Ex wurde er eingestellt.
+282,"00:16:31,360","00:16:34,720",991.36,994.72,3.3600000000000136,"Dann hat er das Buch auf den Tisch gelegt und gesagt,"
+283,"00:16:34,800","00:16:37,920",994.8,997.92,3.1200000000000045,das kann zu soundso machen und das kannst du auch
+284,"00:16:38,040","00:16:38,960",998.04,998.96,0.9200000000000728,noch verfeinern.
+285,"00:16:39,080","00:16:42,520",999.08,1002.52,3.439999999999941,"Und er hat gesagt, dass eine Arbeitsplatzbeschreibung,"
+286,"00:16:42,600","00:16:44,400",1002.6,1004.4,1.7999999999999545,dafür wurde ich eingestellt.
+287,"00:16:44,480","00:16:46,240",1004.48,1006.24,1.759999999999991,Das ist also ein etabliertes Geschäftsmodell.
+288,"00:16:49,840","00:16:52,120",1009.84,1012.12,2.2799999999999727,ML: Da gibt es auch kein Schuldsbewusstsein.
+289,"00:16:52,120","00:16:56,160",1012.12,1016.16,4.039999999999964,"AB: Große Empörung, das zeichnet welches kriminelle auch aus,"
+290,"00:16:56,160","00:16:59,040",1016.16,1019.04,2.8799999999999955,das sagt sogar die kriminologische Forschung.
+291,"00:16:59,120","00:17:01,960",1019.12,1021.96,2.840000000000032,Dass man der einzig mit der Lupe suchen muss.
+292,"00:17:02,040","00:17:06,240",1022.04,1026.24,4.2000000000000455,Die haben da meistens ihre festen Schablonen an Ausreden im Kopf.
+293,"00:17:06,320","00:17:10,680",1026.32,1030.68,4.360000000000127,"Das ist alles erforscht, man kann sich die besten Sachen schönreden,"
+294,"00:17:10,800","00:17:11,520",1030.8,1031.52,0.7200000000000273,das macht jeder.
+295,"00:17:12,080","00:17:13,880",1032.08,1033.88,1.800000000000182,ML: Ich erlebe das jeden Abend.
+296,"00:17:16,120","00:17:17,680",1036.12,1037.68,1.5600000000001728,AB: Aber auch bei denen.
+297,"00:17:17,800","00:17:19,680",1037.8,1039.68,1.8800000000001091,"Das hat dann eben die Wirkung,"
+298,"00:17:19,800","00:17:22,440",1039.8,1042.44,2.6400000000001,"dass man ganz viele Ausreden am Start hat,"
+299,"00:17:22,520","00:17:23,040",1042.52,1043.04,0.5199999999999818,"dass das,"
+300,"00:17:23,120","00:17:26,680",1043.12,1046.68,3.560000000000173,was man macht eigentlich nichts schlimmes und eigentlich
+301,"00:17:26,800","00:17:27,680",1046.8,1047.68,0.8800000000001091,nur der Staat schuld ist.
+302,"00:17:29,120","00:17:33,600",1049.12,1053.6,4.480000000000018,"ML: Dass es auch sozusagen eine Lücke im System ist, nicht kriminell,"
+303,"00:17:33,680","00:17:36,440",1053.68,1056.44,2.759999999999991,"einfach eine Lücke. Wenn ihr die Lückelast,"
+304,"00:17:36,480","00:17:37,800",1056.48,1057.8,1.3199999999999363,dann ist das euer Problem.
+305,"00:17:38,600","00:17:42,600",1058.6,1062.6,4.0,"AB: Ja, das war eines der Nummer 1 Ausreden und ein narrativ,"
+306,"00:17:42,680","00:17:45,880",1062.68,1065.88,3.2000000000000455,"was ja auch in die Medienwelt gespielt worden ist,"
+307,"00:17:45,960","00:17:47,600",1065.96,1067.6,1.6399999999998727,auch in der Fachliteratur.
+308,"00:17:47,720","00:17:50,760",1067.72,1070.76,3.0399999999999636,Das hatte eine verheerende Wirkung gehabt.
+309,"00:17:50,880","00:17:52,760",1070.88,1072.76,1.8799999999998818,"Das hat erst mal dazu geführt,"
+310,"00:17:52,880","00:17:55,520",1072.88,1075.52,2.6399999999998727,dass das Problem massiv verharmlost wurde.
+311,"00:17:55,600","00:17:57,680",1075.6,1077.68,2.0800000000001546,"Die Gesetzeslücke, die hat man dann gefunden..."
+312,"00:17:58,920","00:18:01,880",1078.92,1081.88,2.9600000000000364,ML: Lücke ist deutlich harmloser als das böse Wort betrug.
+313,"00:18:03,560","00:18:05,920",1083.56,1085.92,2.3600000000001273,AB: Vor allem klingt es sehr clever.
+314,"00:18:06,040","00:18:09,640",1086.04,1089.64,3.6000000000001364,"Man denkt dann, es sei schlau, er hat die Lücke gefunden."
+315,"00:18:09,760","00:18:12,040",1089.76,1092.04,2.2799999999999727,Was hat der Staat da wieder falsch gemacht?
+316,"00:18:12,800","00:18:14,960",1092.8,1094.96,2.160000000000082,ML: Der schwarze Peter geht dahin zurück.
+317,"00:18:19,080","00:18:21,480",1099.08,1101.48,2.400000000000091,"AB: Stattdessen, wie war es wirklich,"
+318,"00:18:21,600","00:18:24,040",1101.6,1104.04,2.4400000000000546,"Gerichte haben später eindeutig gesagt,"
+319,"00:18:24,120","00:18:26,000",1104.12,1106.0,1.8800000000001091,"es gab nie eine Gesetzeslücke,"
+320,"00:18:26,120","00:18:28,880",1106.12,1108.88,2.7600000000002183,es war schon immer verboten.
+321,"00:18:30,080","00:18:33,320",1110.08,1113.32,3.240000000000009,"D. h., die Welt nicht über den Zaun durchgespielt,"
+322,"00:18:33,400","00:18:37,720",1113.4,1117.72,4.319999999999936,die sind übergesprungen. Das nennt man Kriminalität.
+323,"00:18:41,120","00:18:45,600",1121.12,1125.6,4.480000000000018,"Es hat die Politiker auch jahrelang in die falsche Richtung geführt,"
+324,"00:18:45,720","00:18:47,560",1125.72,1127.56,1.8399999999999181,"weil die immer versucht haben,"
+325,"00:18:47,640","00:18:50,160",1127.64,1130.16,2.519999999999982,"durch neue Gesetze das Problem zu lösen,"
+326,"00:18:50,280","00:18:53,080",1130.28,1133.08,2.7999999999999545,die haben immer am Gesetzestext rumgefummelt.
+327,"00:18:53,200","00:18:56,760",1133.2,1136.76,3.5599999999999454,"Aber wenn man mal realisiert, dass das Kriminalität ist,"
+328,"00:18:56,840","00:18:59,960",1136.84,1139.96,3.1200000000001182,dann drängt sich der Vergleich mit Diebstahl auf.
+329,"00:19:00,080","00:19:02,760",1140.08,1142.76,2.6800000000000637,"Diebstahl kann man nicht dadurch bekämpfen,"
+330,"00:19:02,880","00:19:04,880",1142.88,1144.88,2.0,indem man den Gesetzestext verändert...
+331,"00:19:05,240","00:19:06,760",1145.24,1146.76,1.5199999999999818,ML: Ladendiebstahl ist klar.
+332,"00:19:12,160","00:19:16,520",1152.16,1156.52,4.3599999999999,"AB: Ladendiebstahl ist Ladendiebstahl und jeder Ladenbesitzer weiß,"
+333,"00:19:16,600","00:19:17,720",1156.6,1157.72,1.1200000000001182,"ich fördere nicht,"
+334,"00:19:17,840","00:19:20,600",1157.84,1160.6,2.759999999999991,"dass er Diebstahlsparagraf anders formuliert wird,"
+335,"00:19:20,720","00:19:23,400",1160.72,1163.4,2.6800000000000637,ich möchte gerne Kameras installiert haben.
+336,"00:19:23,520","00:19:27,600",1163.52,1167.6,4.079999999999927,Das ist Kriminalität und das hat man jahrelang nicht realisiert.
+337,"00:19:27,760","00:19:29,400",1167.76,1169.4,1.6400000000001,Deshalb wurde die Politik in die falsche Richtung getrieben.
+338,"00:19:32,400","00:19:35,280",1172.4,1175.28,2.8799999999998818,"ML: Bevor Eva Quadbeck ins Spiel kommt,"
+339,"00:19:35,360","00:19:39,840",1175.36,1179.84,4.480000000000018,"die haben viel mit diesen Leuten zu tun, den kann man viel nachsagen,"
+340,"00:19:39,880","00:19:43,760",1179.88,1183.76,3.8799999999998818,aber nicht dass sie doof sind. Sie verstehen das ganz genau.
+341,"00:19:43,840","00:19:45,480",1183.84,1185.48,1.6400000000001,Da fehlt der politische Wille?
+342,"00:19:46,840","00:19:48,160",1186.84,1188.16,1.3200000000001637,"AB: Ich würde sagen,"
+343,"00:19:48,240","00:19:53,080",1188.24,1193.08,4.839999999999918,"wie Cum-Ex genau funktioniert und was das für Ausmaße hatte,"
+344,"00:19:57,880","00:20:01,320",1197.88,1201.32,3.439999999999827,"da gehe ich aus meinen Erkenntnissen nicht davon aus,"
+345,"00:20:01,440","00:20:03,240",1201.44,1203.24,1.7999999999999545,dass das den Menschen im BFM bewusst war.
+346,"00:20:07,480","00:20:12,000",1207.48,1212.0,4.519999999999982,"ML: Sie haben angefangen 2013, da war ihr erster Fall."
+347,"00:20:13,120","00:20:17,720",1213.12,1217.72,4.600000000000136,"Der Moment als sie kapiert haben, sie sind die Staatsanwältin in Köln,"
+348,"00:20:17,800","00:20:21,400",1217.8,1221.4,3.6000000000001364,da baut sich eine richtige Abteilung auf.
+349,"00:20:23,720","00:20:27,400",1223.72,1227.4,3.6800000000000637,Sie sind einfach sehr penibel und ordentlich ihren Dienst
+350,"00:20:27,480","00:20:28,080",1227.48,1228.08,0.599999999999909,am machen.
+351,"00:20:28,160","00:20:30,600",1228.16,1230.6,2.439999999999827,Sie sind nicht der Generalbundesanwalt
+352,"00:20:30,640","00:20:33,640",1230.64,1233.64,3.0,oder befugt von Lars Klingbeil.
+353,"00:20:37,120","00:20:41,840",1237.12,1241.84,4.720000000000027,Sie machen ihren Job auf der Ebene für die sie zuständig sind.
+354,"00:20:41,920","00:20:44,400",1241.92,1244.4,2.480000000000018,Dann merken sie etwas läuft schief.
+355,"00:20:44,440","00:20:45,960",1244.44,1245.96,1.5199999999999818,Woran haben Sie das gemerkt?
+356,"00:20:52,600","00:20:55,960",1252.6,1255.96,3.3600000000001273,"AB: Ich habe den ersten Fall auf den Tisch gekriegt,"
+357,"00:20:56,080","00:21:00,480",1256.08,1260.48,4.400000000000091,"dann hat natürlich die Behörde, die das vorher vorher bearbeitet hat,"
+358,"00:21:00,600","00:21:03,640",1260.6,1263.64,3.040000000000191,"die hatten schon eine Idee, wie die Masche lief."
+359,"00:21:03,720","00:21:06,040",1263.72,1266.04,2.3199999999999363,"Ich habe es nicht sofort verstanden,"
+360,"00:21:06,160","00:21:10,240",1266.16,1270.24,4.079999999999927,habe mich dann abends noch mal einen Küchen durchgesetzt und mir
+361,"00:21:10,320","00:21:14,440",1270.32,1274.44,4.120000000000118,"das Schritt für Schritt ausgemalt. Dann habe ich sofort gesehen,"
+362,"00:21:14,520","00:21:16,160",1274.52,1276.16,1.6400000000001,"aufgrund meiner Erfahrung,"
+363,"00:21:16,240","00:21:19,640",1276.24,1279.64,3.400000000000091,"weil ich schon so lange Steuerkriminalität bearbeite,"
+364,"00:21:19,720","00:21:22,640",1279.72,1282.64,2.9200000000000728,das ist das gleiche wie Umsatzsteuerkarussell.
+365,"00:21:22,720","00:21:26,680",1282.72,1286.68,3.9600000000000364,"Das sind waren Kreisgeschäfte, also nicht den Kreisgeschäfte,"
+366,"00:21:26,760","00:21:31,440",1286.76,1291.44,4.680000000000064,"wo der Profit auch nur daher basiert, dass einer die Steuer nicht abführt"
+367,"00:21:31,560","00:21:34,320",1291.56,1294.32,2.759999999999991,und der andere sie trotzdem erstatten lässt.
+368,"00:21:34,400","00:21:37,120",1294.4,1297.12,2.7199999999998,Im Grunde genommen ist es also das gleiche.
+369,"00:21:37,240","00:21:39,960",1297.24,1299.96,2.7200000000000273,"Wie gesagt, da verlangt einer Steuer zurück,"
+370,"00:21:40,080","00:21:42,120",1300.08,1302.12,2.0399999999999636,die er vorher nicht bezahlt hat.
+371,"00:21:42,200","00:21:46,600",1302.2,1306.6,4.399999999999864,"Da dachte ich, ach das ist ja das gleiche, was ich schon kenne."
+372,"00:21:46,720","00:21:50,200",1306.72,1310.2,3.480000000000018,"Dazu gab es auch eine feste Rechtsprechung,"
+373,"00:21:50,320","00:21:54,920",1310.32,1314.92,4.600000000000136,"deshalb dachte ich, dass wir hier wohl nicht anders sein."
+374,"00:21:57,880","00:21:59,600",1317.88,1319.6,1.7199999999998,"Was jetzt interessant war,"
+375,"00:21:59,680","00:22:03,840",1319.68,1323.84,4.1599999999998545,danach habe ich in die Onlinebibliotheken gekuckt.
+376,"00:22:06,120","00:22:09,360",1326.12,1329.36,3.240000000000009,"Die waren geflutet volle Aufsätze,"
+377,"00:22:17,720","00:22:22,160",1337.72,1342.16,4.440000000000055,"die irgendetwas fabulierten von Nein, das liegt nicht an der Steuer,"
+378,"00:22:22,280","00:22:26,160",1342.28,1346.16,3.880000000000109,das sind Markt-Ineffizienzen oder komische Wortgebilde wurden
+379,"00:22:26,280","00:22:27,000",1346.28,1347.0,0.7200000000000273,dort geschrieben.
+380,"00:22:29,480","00:22:32,760",1349.48,1352.76,3.2799999999999727,ML: Schöne Wortgelanden um zu verschleiern worum es
+381,"00:22:32,840","00:22:34,000",1352.84,1354.0,1.1600000000000819,wirklich geht.
+382,"00:22:34,000","00:22:37,400",1354.0,1357.4,3.400000000000091,"AB: sehr viele Worte, die man nicht verstanden hat,"
+383,"00:22:37,400","00:22:40,360",1357.4,1360.36,2.959999999999809,"außer dass es einem suggerierte, diese Profite,"
+384,"00:22:40,440","00:22:42,400",1360.44,1362.4,1.9600000000000364,die einmal im Jahr aus dem Himmel fallen...
+385,"00:22:43,240","00:22:47,840",1363.24,1367.84,4.599999999999909,"ML: Wenn wir Aktien halten kriegen wir vielleicht auch eine Dividende,"
+386,"00:22:47,920","00:22:50,360",1367.92,1370.36,2.439999999999827,aber sind kleine Summen um die es geht.
+387,"00:22:50,440","00:22:51,440",1370.44,1371.44,1.0,Und wir zahlen 25 %.
+388,"00:22:51,720","00:22:55,560",1371.72,1375.56,3.839999999999918,AB: Jedenfalls wurden dafür andere Gründe gefunden die mich
+389,"00:22:55,640","00:22:57,720",1375.64,1377.72,2.0799999999999272,aber alle überhaupt nicht überzeugt haben.
+390,"00:22:57,800","00:23:00,720",1377.8,1380.72,2.9200000000000728,"Ich habe mich davon nicht beeindrucken lassen,"
+391,"00:23:00,840","00:23:03,960",1380.84,1383.96,3.1200000000001182,"von den vielen Worten. Das liegt vielleicht daran,"
+392,"00:23:04,080","00:23:05,840",1384.08,1385.84,1.759999999999991,dass ich Staatsanwältin war.
+393,"00:23:05,960","00:23:09,920",1385.96,1389.92,3.9600000000000364,"Viele Worte und komische Erklärungen, die hat man ganz häufig."
+394,"00:23:10,000","00:23:13,160",1390.0,1393.16,3.160000000000082,"So ist es, daran gewöhnt man sich."
+395,"00:23:13,800","00:23:17,960",1393.8,1397.96,4.160000000000082,"Gerade, wenn man vorher schon Wirtschaftsstrafrecht gemacht hat."
+396,"00:23:18,040","00:23:19,920",1398.04,1399.92,1.8800000000001091,Da kennt man dann die Taktik.
+397,"00:23:20,040","00:23:22,640",1400.04,1402.64,2.6000000000001364,"Man muss dann gucken, wie war es wirklich."
+398,"00:23:22,760","00:23:24,760",1402.76,1404.76,2.0,"Das ist das, was wir sozusagen wirklich alle machen."
+399,"00:23:25,760","00:23:29,200",1405.76,1409.2,3.4400000000000546,"ML: Beantworten Sie doch mal die Frage, ja oder nein."
+400,"00:23:29,280","00:23:32,080",1409.28,1412.08,2.7999999999999545,Sagen Sie doch ja oder nein.
+401,"00:23:33,280","00:23:35,520",1413.28,1415.52,2.240000000000009,"AB: Jetzt kann ich mir vorstellen,"
+402,"00:23:35,640","00:23:37,360",1415.64,1417.36,1.7199999999998,das war ja meine berufliche Erfahrung...
+403,"00:23:39,520","00:23:43,280",1419.52,1423.28,3.759999999999991,"ML: Was war es für ein Fall, den sie auf den Tisch hatten?"
+404,"00:23:43,280","00:23:49,160",1423.28,1429.16,5.880000000000109,"AB: Das war schon ein Riesenfall, da ging es um sechs US Pensionsfonds."
+405,"00:23:49,160","00:23:50,720",1429.16,1430.72,1.5599999999999454,ML: Die viel in Europa anlegen?
+406,"00:23:50,880","00:23:53,600",1430.88,1433.6,2.7199999999998,AB: Die 460 Millionen vom Bundeszentralamt
+407,"00:23:53,680","00:23:54,920",1433.68,1434.92,1.240000000000009,zurückhaben wollten.
+408,"00:23:55,080","00:23:59,320",1435.08,1439.32,4.240000000000009,Das war also auch Maßstäbe für eine Schwerpunkt Staatsanwaltschaft.
+409,"00:23:59,440","00:24:01,080",1439.44,1441.08,1.6399999999998727,Das war also schon ein sehr großer Fall.
+410,"00:24:03,840","00:24:06,440",1443.84,1446.44,2.6000000000001364,ML: Was war das Volumen?
+411,"00:24:08,680","00:24:10,800",1448.68,1450.8,2.119999999999891,Muss ja dann Milliarden gewesen sein?
+412,"00:24:12,280","00:24:16,680",1452.28,1456.68,4.400000000000091,"AB: Das waren Milliarden. Wenn man überlegt, in dem Fall war es so,"
+413,"00:24:16,800","00:24:19,720",1456.8,1459.72,2.9200000000000728,dass auch Privatinvestoren angesprochen wurden.
+414,"00:24:19,840","00:24:23,200",1459.84,1463.2,3.3600000000001273,"Also die, die mal 50-100.000.000 investieren konnten."
+415,"00:24:23,320","00:24:25,880",1463.32,1465.88,2.560000000000173,"Dann hatte man 250 Millionen eingeworben,"
+416,"00:24:26,000","00:24:28,720",1466.0,1468.72,2.7200000000000273,"das reicht aber noch nicht als Startkapital,"
+417,"00:24:28,840","00:24:31,800",1468.84,1471.8,2.9600000000000364,es wurde noch mal um das vierzigfache gehebelt.
+418,"00:24:31,920","00:24:33,800",1471.92,1473.8,1.8799999999998818,Das war dann das Startkapital.
+419,"00:24:33,880","00:24:35,720",1473.88,1475.72,1.8399999999999181,Also 250 × 40.
+420,"00:24:40,680","00:24:43,600",1480.68,1483.6,2.9199999999998454,"Das war das Startkapital für diese Geschäfte,"
+421,"00:24:43,680","00:24:47,120",1483.68,1487.12,3.439999999999827,um hinterher 460 Millionen Steuererstattung generieren
+422,"00:24:47,200","00:24:48,800",1487.2,1488.8,1.599999999999909,"zu wollen. Man sieht also,"
+423,"00:24:48,880","00:24:51,800",1488.88,1491.8,2.9199999999998454,"wie viel Volumen man sozusagen einsetzen muss,"
+424,"00:24:51,920","00:24:53,360",1491.92,1493.36,1.4399999999998272,um diesen Effekt zu haben.
+425,"00:25:01,920","00:25:05,960",1501.92,1505.96,4.039999999999964,ML: Und es geht gar nicht darum diese Anleger zu demonisieren.
+426,"00:25:06,040","00:25:07,360",1506.04,1507.36,1.3199999999999363,Zahlt Euro Steuern.
+427,"00:25:14,520","00:25:17,240",1514.52,1517.24,2.7200000000000273,"AB: Man muss dazu sagen, dass die Anleger,"
+428,"00:25:17,360","00:25:18,840",1517.36,1518.84,1.4800000000000182,"die da invisiert hatten,"
+429,"00:25:18,960","00:25:22,320",1518.96,1522.32,3.3599999999999,"die habe nicht direkt in Cum-Ex Geschäfte investiert,"
+430,"00:25:22,480","00:25:24,360",1522.48,1524.36,1.8799999999998818,den wurde das auch sehr falsch erklärt.
+431,"00:25:24,840","00:25:29,080",1524.84,1529.08,4.240000000000009,ML: Sie bekommen eine Rendite versprechen und dann geht man rein.
+432,"00:25:29,160","00:25:31,720",1529.16,1531.72,2.5599999999999454,Der arme amerikanische Banker weiß davon auch nichts.
+433,"00:25:32,240","00:25:34,680",1532.24,1534.68,2.4400000000000546,"AB: nein, das waren nur leere Hüllen,"
+434,"00:25:34,800","00:25:38,480",1534.8,1538.48,3.6800000000000637,"die wurden erst ein paar Tage vorher gegründet, teilweise."
+435,"00:25:38,600","00:25:41,080",1538.6,1541.08,2.480000000000018,"Da gab es dann einen, der das verwaltet,"
+436,"00:25:41,200","00:25:42,480",1541.2,1542.48,1.2799999999999727,und das war es schon.
+437,"00:25:42,600","00:25:46,840",1542.6,1546.84,4.240000000000009,Die kann man auch ein paar Tage vorher aufmachen und sofort danach
+438,"00:25:47,000","00:25:50,280",1547.0,1550.28,3.2799999999999727,wieder zu machen und so war das auch.
+439,"00:25:51,160","00:25:53,720",1551.16,1553.72,2.5599999999999454,"Das war zum Beispiel eine Auffälligkeit,"
+440,"00:25:53,840","00:25:56,120",1553.84,1556.12,2.2799999999999727,die für uns Strafverfolgungsbehörden so eine rote Flagge ist.
+441,"00:25:56,480","00:25:59,720",1556.48,1559.72,3.240000000000009,ML: Gut dass sie es gemacht haben.
+442,"00:26:02,840","00:26:06,280",1562.84,1566.28,3.4400000000000546,Eva Quadbeck wenn man das so hört wie sehr beschädigt
+443,"00:26:06,360","00:26:07,560",1566.36,1567.56,1.2000000000000455,dass die Körperlichkeit und Politik?
+444,"00:26:08,560","00:26:11,480",1568.56,1571.48,2.9200000000000728,"Ich meine, wie stellst du dich hin und sagst,"
+445,"00:26:11,600","00:26:15,200",1571.6,1575.2,3.6000000000001364,Sie nannten es einmal waren besten Politik.
+446,"00:26:15,320","00:26:18,480",1575.32,1578.48,3.160000000000082,"Bärbel Bas und Lars Klingbeil auf einer Baustelle,"
+447,"00:26:18,600","00:26:22,080",1578.6,1582.08,3.480000000000018,beim Versuch Schwarzarbeit zu bekämpfen.
+448,"00:26:23,400","00:26:27,560",1583.4,1587.56,4.1599999999998545,"Eigentlich war es ein Fototermin und eigentlich sollte es sagen,"
+449,"00:26:27,680","00:26:29,960",1587.68,1589.96,2.2799999999999727,"Freunde, das hat auf."
+450,"00:26:30,840","00:26:35,640",1590.84,1595.64,4.800000000000182,"Du gehst dazu recht dran, sagst, wir gehen jetzt an Sozialbetrug ran usw."
+451,"00:26:35,760","00:26:37,200",1595.76,1597.2,1.4400000000000546,Auf der anderen Seite aber das.
+452,"00:26:37,960","00:26:40,080",1597.96,1600.08,2.119999999999891,EQ: Die Großen lässt man laufen.
+453,"00:26:40,160","00:26:41,400",1600.16,1601.4,1.240000000000009,Das hat zwei Ebenen.
+454,"00:26:41,480","00:26:46,000",1601.48,1606.0,4.519999999999982,"Die eigene Ebene ist, dass Politik nicht genug informiert ist über das"
+455,"00:26:46,080","00:26:48,360",1606.08,1608.36,2.2799999999999727,was in der Finanzwirtschaft abgeht.
+456,"00:26:48,440","00:26:51,920",1608.44,1611.92,3.480000000000018,"Dieses komplexe System, dafür gibt es nicht Gutmenschen"
+457,"00:26:52,000","00:26:54,520",1612.0,1614.52,2.519999999999982,die sich damit befassen.
+458,"00:26:55,360","00:26:58,920",1615.36,1618.92,3.560000000000173,Das hätte sie vielleicht auch abgeheftet
+459,"00:27:00,400","00:27:05,680",1620.4,1625.68,5.279999999999973,"oder sich gedacht Gesetzeslücke, da können wir nicht viel machen."
+460,"00:27:06,920","00:27:10,080",1626.92,1630.08,3.1599999999998545,"Bis zu ihrem Buch war ich auch davon ausgegangen,"
+461,"00:27:10,160","00:27:12,600",1630.16,1632.6,2.439999999999827,dass es mindestens in den nuller Jahren
+462,"00:27:12,680","00:27:16,280",1632.68,1636.28,3.599999999999909,eine Gesetzeslücke gab. Das haben alle gesagt.
+463,"00:27:16,360","00:27:17,560",1636.36,1637.56,1.2000000000000455,Da kann irgend wann die ersten Urteile und dann wurde Claus
+464,"00:27:20,160","00:27:21,800",1640.16,1641.8,1.6399999999998727,ist Betrug.
+465,"00:27:21,880","00:27:24,120",1641.88,1644.12,2.2399999999997817,Ich als Journalistin
+466,"00:27:24,240","00:27:27,720",1644.24,1647.72,3.480000000000018,die sich mitsamt Thema punktuell befasst
+467,"00:27:32,680","00:27:34,920",1652.68,1654.92,2.240000000000009,"ich war davon ausgegangen, dass es"
+468,"00:27:35,000","00:27:36,120",1655.0,1656.12,1.1199999999998909,Gesetzeslücke ist.
+469,"00:27:36,200","00:27:40,080",1656.2,1660.08,3.8799999999998818,Da wäre es wichtig wenn Ministerien Experten haben
+470,"00:27:40,160","00:27:44,560",1660.16,1664.56,4.399999999999864,und sich nicht von der Finanzlobby einfließen lassen.
+471,"00:27:44,840","00:27:49,600",1664.84,1669.6,4.759999999999991,Das war ein ziemlich erfolgreicher Feldzug der Finanzlobby
+472,"00:27:53,680","00:27:58,640",1673.68,1678.64,4.960000000000036,"dass alle davon ausgegangen sind, dass es Gesetzeslücke gibt."
+473,"00:27:59,680","00:28:04,840",1679.68,1684.84,5.1599999999998545,"Die zweite Ebene ist, war die Politik bei Cum-Ex Fehler gemacht?"
+474,"00:28:04,920","00:28:08,800",1684.92,1688.8,3.8799999999998818,Wir sind bei Olaf Scholz und der Warburg Bank
+475,"00:28:08,880","00:28:12,080",1688.88,1692.08,3.199999999999818,war sicherlich auf der einen Seite
+476,"00:28:14,600","00:28:18,040",1694.6,1698.04,3.4400000000000546,"ein gewisses Unwissen darüber da gewesen sein könnte,"
+477,"00:28:18,120","00:28:21,160",1698.12,1701.16,3.040000000000191,"aber die Bank, es war schon klar"
+478,"00:28:23,440","00:28:26,600",1703.44,1706.6,3.1599999999998545,dass diese Bank 57 Million Euro zurückzahlen muss
+479,"00:28:26,680","00:28:29,680",1706.68,1709.68,3.0,an den Hamburger Finanzsenator.
+480,"00:28:32,040","00:28:36,360",1712.04,1716.36,4.319999999999936,ML: Da kam noch mal fast die identische Summe dazu.
+481,"00:28:36,960","00:28:40,520",1716.96,1720.52,3.5599999999999454,Und da reden wir fast von 100 Millionen.
+482,"00:28:44,880","00:28:46,520",1724.88,1726.52,1.6399999999998727,"Das auffällige daran ist,"
+483,"00:28:46,680","00:28:49,720",1726.68,1729.72,3.0399999999999636,"Hamburg gehört zu den ganz wenigen Bundesländern,"
+484,"00:28:49,840","00:28:53,640",1729.84,1733.64,3.800000000000182,"die Erdmann aktiv darauf verzichtet haben, das einzufordern."
+485,"00:28:53,800","00:28:56,840",1733.8,1736.84,3.0399999999999636,Warum kann ein Hamburger Senat oder ein Hamburger
+486,"00:28:56,960","00:28:58,160",1736.96,1738.16,1.2000000000000455,"Bürgermeister sagen,"
+487,"00:28:58,280","00:29:00,560",1738.28,1740.56,2.2799999999999727,"das steht uns zwar zu, das wollen wir aber trotzdem nicht."
+488,"00:29:03,600","00:29:07,120",1743.6,1747.12,3.519999999999982,EQ: Eine gute Erklärung habe ich nicht.
+489,"00:29:09,120","00:29:12,720",1749.12,1752.72,3.6000000000001364,"Ich habe mir überlegt, was wäre gewesen,"
+490,"00:29:13,400","00:29:17,240",1753.4,1757.24,3.839999999999918,wenn es ein CDU Finanzminister gewesen wäre.
+491,"00:29:18,000","00:29:21,840",1758.0,1761.84,3.839999999999918,Ich kann mir nicht erklären dass Vertreter einer Partei
+492,"00:29:21,920","00:29:24,720",1761.92,1764.72,2.7999999999999545,die Erbschaftsteuer fordert.
+493,"00:29:26,200","00:29:28,440",1766.2,1768.44,2.240000000000009,ML: Die sich inszeniert als die Vertretung des kleinen Mannes...
+494,"00:29:31,840","00:29:34,000",1771.84,1774.0,2.160000000000082,EQ: Nachlässig ist.
+495,"00:29:34,120","00:29:37,800",1774.12,1777.8,3.6800000000000637,Keiner von beiden ist juristisch etwas nachgewiesen worden
+496,"00:29:37,920","00:29:41,400",1777.92,1781.4,3.480000000000018,dass sie einen Fehler gemacht haben der justiziabel ist
+497,"00:29:41,520","00:29:44,080",1781.52,1784.08,2.5599999999999454,und geahndet werden kann.
+498,"00:29:45,880","00:29:48,720",1785.88,1788.72,2.839999999999918,Es gab eine berühmte Razzia in der Hamburger
+499,"00:29:48,880","00:29:50,120",1788.88,1790.12,1.2399999999997817,Finanzbehörde gegeben
+500,"00:29:50,200","00:29:52,560",1790.2,1792.56,2.3599999999999,aus der keine Anklage erfolgt ist.
+501,"00:29:52,640","00:29:55,160",1792.64,1795.16,2.519999999999982,Das muss man dazu sagen.
+502,"00:29:56,040","00:29:59,960",1796.04,1799.96,3.9200000000000728,Aber ein politischer Fehler war es mindestens
+503,"00:30:00,040","00:30:03,560",1800.04,1803.56,3.519999999999982,und das ist durch ihre Ermittlung herausgekommen
+504,"00:30:03,640","00:30:08,160",1803.64,1808.16,4.519999999999982,"und die Tagebücher, dass es diesen Kontakt gegeben hat."
+505,"00:30:26,280","00:30:29,120",1826.28,1829.12,2.839999999999918,"Die großen Fragezeichen, Die auch die Bürger"
+506,"00:30:29,200","00:30:32,000",1829.2,1832.0,2.7999999999999545,haben wie kann es sein dass Scholz diese Gedächtnislücken hat
+507,"00:30:34,000","00:30:38,160",1834.0,1838.16,4.160000000000082,"ML: Und auch an uns die Frage, ich weiß nicht wie es Ihnen geht,"
+508,"00:30:38,320","00:30:41,120",1838.32,1841.12,2.7999999999999545,"wie berichtet über vieles und alles mögliche,"
+509,"00:30:41,280","00:30:43,920",1841.28,1843.92,2.6400000000001,wieso geht Ihr da nicht noch mal hinterher?
+510,"00:30:44,000","00:30:48,640",1844.0,1848.64,4.6400000000001,Das mehrfach gemacht und auch Olaf Scholz hat hier mal eine interessante
+511,"00:30:48,800","00:30:50,040",1848.8,1850.04,1.240000000000009,Befragungen gewonnen.
+512,"00:30:50,200","00:30:54,000",1850.2,1854.0,3.7999999999999545,"Ich glaube das war der Fabio, der wirklich gut im Stoff war."
+513,"00:30:54,120","00:30:57,520",1854.12,1857.52,3.400000000000091,Hat aber alles an sich abwählen lassen.
+514,"00:30:57,880","00:31:02,040",1857.88,1862.04,4.1599999999998545,Der kriminelle Teil ist ja nicht bei Olaf Scholz und er ist auch
+515,"00:31:02,160","00:31:06,320",1862.16,1866.32,4.1599999999998545,sicherlich kein korrupter Mensch und Peter Jens als auch bestimmt
+516,"00:31:06,440","00:31:08,240",1866.44,1868.24,1.7999999999999545,kein korrupter Bürgermeister.
+517,"00:31:08,360","00:31:11,360",1868.36,1871.36,3.0,"Der Fehler ist woanders passiert. Die Frage ist,"
+518,"00:31:11,480","00:31:14,120",1871.48,1874.12,2.6399999999998727,wieso möchte man dieses Geld nicht zurück?
+519,"00:31:14,240","00:31:17,560",1874.24,1877.56,3.3199999999999363,Hat man sozusagen erfolgreich von Seiten Warburg Bank
+520,"00:31:17,720","00:31:21,960",1877.72,1881.96,4.240000000000009,"das narrativ verbreitet, wenn ihr das jetzt macht, dann war es das,"
+521,"00:31:22,080","00:31:25,760",1882.08,1885.76,3.6800000000000637,dann kommen wir in eine Schieflage und wir gehen mit unter?
+522,"00:31:25,920","00:31:27,240",1885.92,1887.24,1.3199999999999363,"Und wenn man versteht,"
+523,"00:31:27,360","00:31:30,120",1887.36,1890.12,2.759999999999991,welche Rolle diese Bank hier in dieser Stadt
+524,"00:31:30,240","00:31:33,760",1890.24,1893.76,3.519999999999982,"für die Wirtschaft spielt, dann kann ich mir vorstellen,"
+525,"00:31:33,880","00:31:34,560",1893.88,1894.56,0.6799999999998363,dass man damals sorgt.
+526,"00:31:35,320","00:31:38,480",1895.32,1898.48,3.160000000000082,AB: Auf jeden Fall ist das genauso gesagt worden.
+527,"00:31:38,560","00:31:39,680",1898.56,1899.68,1.1200000000001182,Es ist öffentlich.
+528,"00:31:39,800","00:31:43,080",1899.8,1903.08,3.2799999999999727,"Das wäre aber trotzdem kein legitimes Motiv gewesen,"
+529,"00:31:43,200","00:31:45,840",1903.2,1905.84,2.6399999999998727,wir können auch nicht beim Finanzamt sagen
+530,"00:31:45,920","00:31:49,560",1905.92,1909.56,3.6399999999998727,"eigentlich Einkommensteuer zahlen, aber das Geld ist weg."
+531,"00:31:49,640","00:31:53,320",1909.64,1913.32,3.6799999999998363,Das gilt auch für ein Unternehmen oder eine Bank.
+532,"00:31:53,440","00:31:56,680",1913.44,1916.68,3.240000000000009,Wenn das das Motiv gewesen wäre wäre das auch nicht in Ordnung.
+533,"00:31:58,280","00:32:01,120",1918.28,1921.12,2.839999999999918,"ML: Interessanterweise oder ironischerweise,"
+534,"00:32:01,240","00:32:02,480",1921.24,1922.48,1.240000000000009,das Geld wurde später bezahlt.
+535,"00:32:03,960","00:32:07,360",1923.96,1927.36,3.3999999999998636,EQ: Eine andere Summe wurde bezahlt.
+536,"00:32:08,160","00:32:11,560",1928.16,1931.56,3.3999999999998636,AB: Es wurde strafrechtlich verfolgt
+537,"00:32:14,560","00:32:17,120",1934.56,1937.12,2.5599999999999454,nachdem das Urteil gesprochen wurde
+538,"00:32:27,360","00:32:30,480",1947.36,1950.48,3.1200000000001182,"ML: D. h., der Druck kam aus Berlin auf Hamburg?"
+539,"00:32:30,560","00:32:31,960",1950.56,1951.96,1.400000000000091,War Herr Schäuble damals Finanzminister?
+540,"00:32:32,840","00:32:35,360",1952.84,1955.36,2.519999999999982,"AB: Sie sollten Steuerbescheide machen,"
+541,"00:32:35,440","00:32:37,960",1955.44,1957.96,2.519999999999982,dass das nicht verjährt.
+542,"00:32:38,840","00:32:41,880",1958.84,1961.88,3.040000000000191,2016 haben sie drauf verzichtet
+543,"00:32:46,520","00:32:50,640",1966.52,1970.64,4.120000000000118,und sind davon ausgegangen dass es verjährt ist.
+544,"00:32:55,720","00:32:59,640",1975.72,1979.64,3.9200000000000728,"Dass der Finanzverwalter Hamburg eingefallen,"
+545,"00:33:00,640","00:33:03,080",1980.64,1983.08,2.439999999999827,man hat den Stempel mit der Aussetzung
+546,"00:33:03,160","00:33:05,720",1983.16,1985.72,2.5599999999999454,der Vollziehung gefunden.
+547,"00:33:05,840","00:33:09,400",1985.84,1989.4,3.560000000000173,"Dass es ganz üblich, wenn man ein Bescheid machen möchte"
+548,"00:33:09,520","00:33:12,480",1989.52,1992.48,2.9600000000000364,aber man vollstreckt ihn nicht.
+549,"00:33:12,760","00:33:16,800",1992.76,1996.8,4.039999999999964,Sie müssen noch nicht zahlen wenn ich den Stempel drauf mache.
+550,"00:33:16,880","00:33:19,120",1996.88,1999.12,2.2399999999997817,Das ist ganz üblich.
+551,"00:33:19,600","00:33:22,800",1999.6,2002.8,3.2000000000000455,2016 wäre das die Lösung gewesen.
+552,"00:33:24,040","00:33:28,400",2004.04,2008.4,4.360000000000127,"Sie hätten sagen können, die Staatsanwaltschaft ermittelt noch"
+553,"00:33:28,480","00:33:32,720",2008.48,2012.72,4.240000000000009,dann machen wir etwa den Bescheid und dann ist das Geld nicht weg.
+554,"00:33:32,840","00:33:35,680",2012.84,2015.68,2.8400000000001455,Dann muss die Warburg Bank noch nicht zahlen.
+555,"00:33:35,760","00:33:38,280",2015.76,2018.28,2.519999999999982,Haben sie nicht gemacht.
+556,"00:33:41,320","00:33:44,760",2021.32,2024.76,3.4400000000000546,"Da würde ich es bewerten, ein Fehler."
+557,"00:33:47,240","00:33:50,760",2027.24,2030.76,3.519999999999982,Später hat sich die Bewertung geändert.
+558,"00:33:50,960","00:33:53,080",2030.96,2033.08,2.119999999999891,"2017, wie gesagt,"
+559,"00:33:54,000","00:33:57,280",2034.0,2037.28,3.2799999999999727,haben Sie den Stempel drauf gemacht
+560,"00:34:05,280","00:34:06,880",2045.28,2046.88,1.6000000000001364,"und erst scharf gestellt,"
+561,"00:34:07,000","00:34:08,520",2047.0,2048.52,1.5199999999999818,nachdem das strafrechtliche Urteil ergangen ist.
+562,"00:34:08,520","00:34:10,880",2048.52,2050.88,2.3600000000001273,ML: Und die haben dann bezahlt?
+563,"00:34:11,440","00:34:16,840",2051.44,2056.84,5.400000000000091,"AB: Dann haben sie bezahlt, sind noch mal in ein Verfahren eingegangen"
+564,"00:34:16,960","00:34:19,440",2056.96,2059.44,2.480000000000018,"und die ganzen Befürchtungen, die vorher"
+565,"00:34:19,560","00:34:21,560",2059.56,2061.56,2.0,ins Unermessliche gewachsen sind
+566,"00:34:21,680","00:34:26,120",2061.68,2066.12,4.440000000000055,dass sich diese Verwaltung nicht traut solche Sachen zu vollstrecken.
+567,"00:34:26,240","00:34:27,880",2066.24,2067.88,1.6400000000003274,Haben sich alle in Luft aufgelöst.
+568,"00:34:27,880","00:34:32,280",2067.88,2072.28,4.400000000000091,ML: Und die Bank gibt es immer noch.
+569,"00:34:32,280","00:34:34,360",2072.28,2074.36,2.0799999999999272,AB:Die Bank gibt es immer noch.
+570,"00:34:36,640","00:34:39,440",2076.64,2079.44,2.800000000000182,"ML: D. h., die Angst vor dem Kollaps der Bank, das war kaum berechtigt."
+571,"00:34:40,120","00:34:42,040",2080.12,2082.04,1.9200000000000728,EQ: Das war gut vorgegaukelt.
+572,"00:34:43,400","00:34:46,960",2083.4,2086.96,3.5599999999999454,Scholz kann sich sowieso nicht erinnern.
+573,"00:34:59,040","00:35:01,280",2099.04,2101.28,2.2400000000002365,"Wenn es da eine Einflüsterung gab,"
+574,"00:35:01,400","00:35:03,680",2101.4,2103.68,2.2799999999997453,dann hat die ebenso gut funktioniert.
+575,"00:35:03,720","00:35:05,240",2103.72,2105.24,1.5199999999999818,Da sind wir bei dem Thema
+576,"00:35:05,320","00:35:09,040",2105.32,2109.04,3.7199999999998,auf der politischen Seite dass es nicht genug wissen gibt.
+577,"00:35:09,120","00:35:12,680",2109.12,2112.68,3.5599999999999454,Dass die Bank das nicht schuld sein muss.
+578,"00:35:15,560","00:35:18,480",2115.56,2118.48,2.9200000000000728,"Interessant war, während der ganzen Amtszeit,"
+579,"00:35:18,560","00:35:22,200",2118.56,2122.2,3.6399999999998727,wurde ich aufgefordert dann nachzuschauen.
+580,"00:35:29,840","00:35:31,960",2129.84,2131.96,2.119999999999891,"Wir haben irgendwann aufgegeben,"
+581,"00:35:32,040","00:35:35,880",2132.04,2135.88,3.8400000000001455,weil Scholz es eben so komplett an sie abprallen lassen hat.
+582,"00:35:35,960","00:35:38,960",2135.96,2138.96,3.0,"Man hat die Fragen lieber auf Themen verwendet,"
+583,"00:35:39,040","00:35:43,360",2139.04,2143.36,4.320000000000164,wo man wusste man kriegt zumindest inhaltlich etwas.
+584,"00:35:44,800","00:35:47,400",2144.8,2147.4,2.599999999999909,"ML: Sie beschreiben irgendwo eine Szene,"
+585,"00:35:47,520","00:35:48,880",2147.52,2148.88,1.3600000000001273,vielleicht bei der Pressekonferenz...
+586,"00:35:49,960","00:35:53,200",2149.96,2153.2,3.2399999999997817,"EQ: das war die Vorstellung des Koalitionsvertrag,"
+587,"00:35:53,280","00:35:56,440",2153.28,2156.44,3.1599999999998545,der war noch nicht unterschrieben.
+588,"00:35:57,520","00:35:59,920",2157.52,2159.92,2.400000000000091,Sie haben stolz das Papier präsentiert
+589,"00:36:00,040","00:36:03,120",2160.04,2163.12,3.0799999999999272,und ein niederländischer Kolega das Wort bekommen
+590,"00:36:03,240","00:36:06,720",2163.24,2166.72,3.480000000000018,Er hat gefragt warum er nicht die Wahrheit gesagt hätte
+591,"00:36:06,880","00:36:09,160",2166.88,2169.16,2.2799999999997453,oder das Geld zurückgefordert hätte?
+592,"00:36:09,240","00:36:12,200",2169.24,2172.2,2.9600000000000364,Scholz hat anstatt zu antworten
+593,"00:36:12,320","00:36:15,880",2172.32,2175.88,3.5599999999999454,einfach aus dem Koalitionsvertrag erzählt
+594,"00:36:16,680","00:36:18,560",2176.68,2178.56,1.8800000000001091,was man wach zum Thema innere Sicherheit.
+595,"00:36:18,840","00:36:21,200",2178.84,2181.2,2.3599999999996726,"ML: D. h., er hat gar nicht drauf geantwortet?"
+596,"00:36:23,720","00:36:28,760",2183.72,2188.76,5.040000000000418,"EQ: Er hat irgendwas geantwortet, was ihm gerade gefallen hat."
+597,"00:36:29,560","00:36:33,000",2189.56,2193.0,3.4400000000000546,Mit der Taktik ist er gut durchgekommen.
+598,"00:36:33,080","00:36:37,400",2193.08,2197.4,4.320000000000164,Sie haben gesagt es macht keinen Sinn ihn zu fragen.
+599,"00:36:37,680","00:36:41,720",2197.68,2201.72,4.039999999999964,"Man kann vorführen, dass er sich albern verhält"
+600,"00:36:43,280","00:36:45,800",2203.28,2205.8,2.519999999999982,was habe ich davon wenn ich das vorführen?
+601,"00:36:52,040","00:36:54,480",2212.04,2214.48,2.4400000000000546,"ML: Haben Sie eine Erklärung der vier,"
+602,"00:36:54,560","00:36:57,200",2214.56,2217.2,2.6399999999998727,"wenn es um richtig richtig viel Geld geht,"
+603,"00:36:57,360","00:36:59,800",2217.36,2219.8,2.4400000000000546,ich rede jetzt über das ganze Konstrukt.
+604,"00:36:59,960","00:37:01,680",2219.96,2221.68,1.7199999999998,"Dann hat die Öffentlichkeit,"
+605,"00:37:01,800","00:37:05,000",2221.8,2225.0,3.199999999999818,Wählerinnen und Wähler so einen komischen Hang dazu
+606,"00:37:05,120","00:37:08,600",2225.12,2228.6,3.480000000000018,"zu sagen, lass mal, dass es jetzt nicht weiter wichtig."
+607,"00:37:08,720","00:37:11,480",2228.72,2231.48,2.7600000000002183,"Aber wenn es um kleinere Dinge geht, dann geht es richtig zur Sache."
+608,"00:37:12,160","00:37:16,280",2232.16,2236.28,4.120000000000346,"EQ: Je unkonkreter die Dinge sind, je komplexer und unkonkreter"
+609,"00:37:16,400","00:37:21,160",2236.4,2241.16,4.7599999999997635,desto schwieriger ist es in der öffentlichen Kommunikation.
+610,"00:37:23,480","00:37:27,120",2243.48,2247.12,3.6399999999998727,Cum-Ex ist eines der komplexesten Dinge die man sich vorstellen kann.
+611,"00:37:34,400","00:37:37,960",2254.4,2257.96,3.5599999999999454,ML: Ich habe es eben das erste Mal wirklich verstanden.
+612,"00:37:38,080","00:37:42,520",2258.08,2262.52,4.440000000000055,"So kompliziert ist es gar nicht und die eigentliche Nachricht ist ja,"
+613,"00:37:42,640","00:37:44,600",2262.64,2264.6,1.9600000000000364,da werden im gigantischen Stil einfach Steuergelder geklaut.
+614,"00:37:46,320","00:37:50,120",2266.32,2270.12,3.799999999999727,"EQ: Es ist keine Steuergestaltung auch keine Hinterziehung,"
+615,"00:37:50,240","00:37:51,920",2270.24,2271.92,1.680000000000291,"es ist Diebstahl, es ist Raub."
+616,"00:37:56,160","00:38:00,680",2276.16,2280.68,4.519999999999982,"ML: Wenn wir abschließen, ich könnte Ihnen stundenlang zuhören..."
+617,"00:38:00,880","00:38:03,920",2280.88,2283.92,3.0399999999999636,"Wenn man abschließend fragt, wie war das möglich,"
+618,"00:38:04,040","00:38:07,600",2284.04,2287.6,3.5599999999999454,dann haben wir jetzt die Antwort ein bisschen verstanden.
+619,"00:38:07,760","00:38:10,280",2287.76,2290.28,2.519999999999982,"Die Frage ist, ist es immer noch möglich."
+620,"00:38:10,400","00:38:12,200",2290.4,2292.2,1.7999999999997272,AB: Ja ist es.
+621,"00:38:14,280","00:38:14,880",2294.28,2294.88,0.599999999999909,"Zum einen,"
+622,"00:38:15,040","00:38:18,840",2295.04,2298.84,3.800000000000182,"habe ich natürlich Erkenntnisse aus dem Mittelungsverfahren,"
+623,"00:38:19,000","00:38:21,640",2299.0,2301.64,2.6399999999998727,die ich leider nicht öffentlich sagen kann.
+624,"00:38:21,760","00:38:25,040",2301.76,2305.04,3.2799999999997453,Ich bin natürlich noch ans Dienstgeheimnis gebunden.
+625,"00:38:25,160","00:38:28,640",2305.16,2308.64,3.480000000000018,"Was aber bekannt ist, die Politiker gehen ja davon aus,"
+626,"00:38:28,760","00:38:34,080",2308.76,2314.08,5.319999999999709,"die waren auf dieser Idee verfangen, wir müssen die Gesetze ändern."
+627,"00:38:34,560","00:38:37,520",2314.56,2317.52,2.9600000000000364,"Das hat leider nicht geklappt, weil ein Cum-Ex"
+628,"00:38:37,640","00:38:39,920",2317.64,2319.92,2.2800000000002,Fall aus 2016 ist öffentlich bekannt
+629,"00:38:40,080","00:38:42,880",2320.08,2322.88,2.800000000000182,und das war auch vor dem Finanzgericht.
+630,"00:38:43,000","00:38:45,680",2323.0,2325.68,2.6799999999998363,"Das sollte eigentlich nicht mehr vorkommen,"
+631,"00:38:45,800","00:38:47,680",2325.8,2327.68,1.8799999999996544,wenn sich jeder an die Gesetze gehalten hätte.
+632,"00:38:47,960","00:38:50,760",2327.96,2330.76,2.800000000000182,ML: Da geht es um wie viel?
+633,"00:38:58,160","00:39:00,280",2338.16,2340.28,2.1200000000003456,"AB: Das war gar nicht so groß, ich glaube 60 Millionen."
+634,"00:39:00,680","00:39:03,640",2340.68,2343.64,2.9600000000000364,"ML: Also wenn ich das jetzt mal so übersetzte,"
+635,"00:39:03,760","00:39:05,400",2343.76,2345.4,1.6399999999998727,wie viele Kindergarten können wir davon restaurieren?
+636,"00:39:05,400","00:39:08,520",2345.4,2348.52,3.119999999999891,"AB: Im Cum-Ex Universum eher ein kleiner Fall,"
+637,"00:39:08,520","00:39:11,000",2348.52,2351.0,2.480000000000018,was verglichen zu anderen Fällen natürlich ein großer.
+638,"00:39:11,800","00:39:14,400",2351.8,2354.4,2.599999999999909,"ML: Sie gehen davon aus, dass es immer noch läuft?"
+639,"00:39:21,800","00:39:26,680",2361.8,2366.68,4.879999999999654,"AB: Aber was man sich auch klarmachen muss, dass was Kriminalität triggert,"
+640,"00:39:26,800","00:39:31,160",2366.8,2371.16,4.359999999999673,wenn die eine Sache schwach ist und die andere stark.
+641,"00:39:33,760","00:39:38,520",2373.76,2378.52,4.7599999999997635,"Die Verwaltung ist für mich schwach, wegen strukturellen Schwierigkeiten,"
+642,"00:39:38,640","00:39:40,080",2378.64,2380.08,1.4400000000000546,zu wenig Personal oder so etwas...
+643,"00:39:40,560","00:39:41,680",2380.56,2381.68,1.1199999999998909,ML: Kein Drucker.
+644,"00:39:44,320","00:39:46,960",2384.32,2386.96,2.6399999999998727,"AB: Es sind viele strukturelle Probleme,"
+645,"00:39:47,080","00:39:50,200",2387.08,2390.2,3.119999999999891,die sich vor allem bei den großen Fällen auswirken.
+646,"00:39:50,360","00:39:53,200",2390.36,2393.2,2.8399999999996908,Da ist zum Beispiel nicht so viel zu erwarten.
+647,"00:39:53,360","00:39:57,600",2393.36,2397.6,4.239999999999782,Da ist dann das Entdeckungsrisiko gering aber der Tatreiz ist hoch.
+648,"00:39:57,840","00:40:01,200",2397.84,2401.2,3.3599999999996726,"Das ist immer eine sehr ungünstige Kombination. Allein,"
+649,"00:40:01,360","00:40:03,400",2401.36,2403.4,2.0399999999999636,"weil sich das nicht geändert hat,"
+650,"00:40:03,560","00:40:06,000",2403.56,2406.0,2.4400000000000546,die Behörden sind immer noch nicht besser ausgestattet.
+651,"00:40:06,480","00:40:07,600",2406.48,2407.6,1.1199999999998909,ML: Das bräuchte man.
+652,"00:40:09,680","00:40:13,720",2409.68,2413.72,4.039999999999964,"AB: Absolut, deshalb brauchen wir eine zentrale Bundesbehörde,"
+653,"00:40:13,880","00:40:17,520",2413.88,2417.52,3.6399999999998727,"sind sonst ganz viele Behörden potenziell dafür zuständig,"
+654,"00:40:17,680","00:40:20,000",2417.68,2420.0,2.3200000000001637,die gar kein Wissensmanagement haben.
+655,"00:40:20,120","00:40:22,920",2420.12,2422.92,2.800000000000182,"Selbst wenn sich in Köln wissen gebildet hat,"
+656,"00:40:23,040","00:40:26,000",2423.04,2426.0,2.9600000000000364,dann weiß das der Rest der Republik noch nicht.
+657,"00:40:26,120","00:40:29,280",2426.12,2429.28,3.1600000000003092,"Das wäre natürlich viel einfacher zu organisieren,"
+658,"00:40:29,400","00:40:31,680",2429.4,2431.68,2.2799999999997453,wenn man eine zentrale Stelle hätte.
+659,"00:40:31,800","00:40:35,880",2431.8,2435.88,4.079999999999927,"Und bei diesen Monsterbeträgen macht das natürlich deshalb Sinn,"
+660,"00:40:36,000","00:40:38,120",2436.0,2438.12,2.119999999999891,weil es besonders große Fälle sind
+661,"00:40:38,320","00:40:41,560",2438.32,2441.56,3.2399999999997817,und weil es international organisierte Qualität ist.
+662,"00:40:41,680","00:40:41,920",2441.68,2441.92,0.24000000000023647,"D. h.,"
+663,"00:40:42,080","00:40:46,560",2442.08,2446.56,4.480000000000018,die Akteure und die Beweismittel sitzen im wesentlichen im Ausland.
+664,"00:40:46,760","00:40:50,280",2446.76,2450.28,3.519999999999982,Die Behörden sind aber Ländersache und sollten eigentlich
+665,"00:40:50,440","00:40:53,280",2450.44,2453.28,2.8400000000001455,Lokalkriminalität vor ihrer Haustür bekämpfen.
+666,"00:40:53,440","00:40:57,560",2453.44,2457.56,4.119999999999891,"D. h., es ist überhaupt nicht für lokale Behörden."
+667,"00:41:01,680","00:41:04,000",2461.68,2464.0,2.3200000000001637,"Deshalb würde es total Sinn machen,"
+668,"00:41:04,160","00:41:08,040",2464.16,2468.04,3.880000000000109,wenn man für diese große internationale Steuerhinterziehung es
+669,"00:41:08,200","00:41:09,080",2468.2,2469.08,0.8800000000001091,auf Bundesebene zu setzen.
+670,"00:41:09,960","00:41:12,600",2469.96,2472.6,2.6399999999998727,ML: D. h. Lars Klingbeil müsste sowas etablieren?
+671,"00:41:13,200","00:41:16,120",2473.2,2476.12,2.9200000000000728,AB: Geldwäsche und Steuerhinterziehung hängen
+672,"00:41:16,240","00:41:20,120",2476.24,2480.12,3.880000000000109,"sowieso total eng zusammen. Man weiß es am Anfang noch nicht,"
+673,"00:41:20,240","00:41:23,160",2480.24,2483.16,2.9200000000000728,"ist es das eine, das andere oder ist es beides."
+674,"00:41:23,320","00:41:27,360",2483.32,2487.36,4.039999999999964,"Gerade vor dem Hintergrund, dass es auch uns nicht gelungen ist,"
+675,"00:41:27,520","00:41:29,840",2487.52,2489.84,2.3200000000001637,"dieses Wissensmanagement herzustellen,"
+676,"00:41:30,000","00:41:33,160",2490.0,2493.16,3.1599999999998545,auch nicht bei den ganzen Erkenntnissen von Cum-Ex.
+677,"00:41:33,320","00:41:35,160",2493.32,2495.16,1.8399999999996908,Da wäre es viel besser zu organisieren auf der Bundesebene.
+678,"00:41:35,800","00:41:39,160",2495.8,2499.16,3.3599999999996726,"EQ: es gibt im Koalitionsvertrag ein Hinweis darauf,"
+679,"00:41:39,280","00:41:40,920",2499.28,2500.92,1.6399999999998727,dass die Geschäfte laufen.
+680,"00:41:41,000","00:41:44,840",2501.0,2504.84,3.8400000000001455,Welche drin man möchte prüfen was man gegen solche Geschäfte
+681,"00:41:44,960","00:41:45,960",2504.96,2505.96,1.0,unternehmen kann.
+682,"00:41:46,080","00:41:48,080",2506.08,2508.08,2.0,Dass ein sicheres Indiz dass es doch noch gibt.
+683,"00:41:48,080","00:41:57,600",2508.08,2517.6,9.519999999999982,"ML: Das Eingeständnis, dass es das noch gibt..."
+684,"00:41:57,600","00:42:01,000",2517.6,2521.0,3.400000000000091,EQ:Sein Auftrag heißt auch wir sind ziemlich ratlos.
+685,"00:42:01,120","00:42:05,440",2521.12,2525.44,4.320000000000164,Man möchte mehr Forschung für das Thema Steuern machen.
+686,"00:42:05,520","00:42:09,160",2525.52,2529.16,3.6399999999998727,Das zeigt wie wenig Ahnung die Region hat.
+687,"00:42:11,520","00:42:13,720",2531.52,2533.72,2.199999999999818,"Die Regierung hat selbst erkannt,"
+688,"00:42:13,840","00:42:17,320",2533.84,2537.32,3.480000000000018,dass der Einfluss ein Problem darstellt.
+689,"00:42:21,120","00:42:22,600",2541.12,2542.6,1.4800000000000182,"ML: Frage an Sie beide,"
+690,"00:42:22,760","00:42:26,600",2542.76,2546.6,3.8399999999996908,müssten wir zuständige Politiker dafür verantwortlich machen?
+691,"00:42:26,800","00:42:29,600",2546.8,2549.6,2.799999999999727,AB: Fachminister sind ja Chefs der Verwaltung.
+692,"00:42:29,760","00:42:33,960",2549.76,2553.96,4.199999999999818,"Das wird immer vergessen. Wenn in der Verwaltung Fehler passieren,"
+693,"00:42:34,080","00:42:37,800",2554.08,2557.8,3.7200000000002547,"auch solche massiven, dann ist jemand verantwortlich dafür,"
+694,"00:42:38,040","00:42:39,600",2558.04,2559.6,1.5599999999999454,dass wäre der Fachminister.
+695,"00:42:39,760","00:42:43,680",2559.76,2563.68,3.919999999999618,"Insbesondere, wenn man darüber informiert wird."
+696,"00:42:45,520","00:42:49,280",2565.52,2569.28,3.7600000000002183,"Oft reagieren dann Fachpolitiker so, dass Sie sagen, nein,"
+697,"00:42:49,440","00:42:51,480",2569.44,2571.48,2.0399999999999636,ich habe keine Anweisung gegeben.
+698,"00:42:51,640","00:42:52,800",2571.64,2572.8,1.1600000000003092,"Das ist ja auch das,"
+699,"00:42:52,960","00:42:55,280",2572.96,2575.28,2.3200000000001637,wo man in der ganzen Debatte danach gesucht hat.
+700,"00:42:56,320","00:42:57,840",2576.32,2577.84,1.5199999999999818,ML: Die Smoking Gun.
+701,"00:43:04,520","00:43:09,080",2584.52,2589.08,4.559999999999945,"AB: Was wir aber völlig vergessen haben, dass es die Frage zu stellen,"
+702,"00:43:09,240","00:43:11,680",2589.24,2591.68,2.4400000000000546,warum haben Sie denn nicht eingegriffen?
+703,"00:43:11,880","00:43:14,640",2591.88,2594.64,2.7599999999997635,Es ist ein fachlicher Fehler.
+704,"00:43:16,960","00:43:20,600",2596.96,2600.6,3.6399999999998727,Und das ist dann das Jahr danach auch noch mal passiert.
+705,"00:43:20,760","00:43:24,800",2600.76,2604.8,4.039999999999964,Während laufenden Verhandlungen hat man versucht noch einen Deal
+706,"00:43:24,960","00:43:27,560",2604.96,2607.56,2.599999999999909,mit dem Richter zu machen.
+707,"00:43:31,880","00:43:36,800",2611.88,2616.8,4.920000000000073,"D. h., über eine längere Zeit sind wirklich Fehler passiert."
+708,"00:43:38,320","00:43:42,600",2618.32,2622.6,4.279999999999745,Und normalerweise ist dann dafür jemand verantwortlich und das ist
+709,"00:43:42,760","00:43:44,560",2622.76,2624.56,1.7999999999997272,der Fachminister.
+710,"00:43:44,720","00:43:48,040",2624.72,2628.04,3.3200000000001637,"Ich will das jetzt nicht an seiner Person festmachen,"
+711,"00:43:48,200","00:43:50,480",2628.2,2630.48,2.2800000000002,das gleiche ist in Stuttgart passiert.
+712,"00:43:50,640","00:43:54,160",2630.64,2634.16,3.519999999999982,"Da wurde die Landesbank angeklagt worden,"
+713,"00:43:54,320","00:43:55,480",2634.32,2635.48,1.1599999999998545,"da kam dann raus,"
+714,"00:43:55,640","00:43:59,920",2635.64,2639.92,4.2800000000002,es war nur ein einziger Staatsanwalt dafür zuständig.
+715,"00:44:01,960","00:44:05,040",2641.96,2645.04,3.0799999999999272,"Der hat dann auch noch mal mehrfach gewechselt,"
+716,"00:44:05,200","00:44:07,840",2645.2,2647.84,2.6400000000003274,danach gab es auch Fragen aus dem Parlament
+717,"00:44:08,000","00:44:12,160",2648.0,2652.16,4.1599999999998545,"und darauf wurde nur geantwortet, wir haben uns nicht eingemischt."
+718,"00:44:12,280","00:44:16,760",2652.28,2656.76,4.480000000000018,"Das ist wieder diese Standardaussage, wir haben uns nicht eingemischt."
+719,"00:44:16,880","00:44:18,480",2656.88,2658.48,1.599999999999909,Das ist aber erforderlich.
+720,"00:44:18,640","00:44:21,040",2658.64,2661.04,2.400000000000091,Fachminister sind Chefs der Verwaltung.
+721,"00:44:21,160","00:44:23,640",2661.16,2663.64,2.480000000000018,Das haben wir vergessen.
+722,"00:44:26,200","00:44:29,720",2666.2,2669.72,3.519999999999982,"Wenn wir das wieder mehr ins Bewusstsein heben würden,"
+723,"00:44:29,880","00:44:34,520",2669.88,2674.52,4.639999999999873,dann müssten sich solche Fachminister auch solche Fragen gefallen lassen.
+724,"00:44:34,640","00:44:37,720",2674.64,2677.72,3.0799999999999272,Was haben Sie denn dagegen getan?
+725,"00:44:37,880","00:44:41,600",2677.88,2681.6,3.7199999999998,Sie haben das doch zwölf Jahre beobachtet.
+726,"00:44:44,800","00:44:49,120",2684.8,2689.12,4.319999999999709,"Das sind Fragen, die hier müssen wir öfter stellen."
+727,"00:44:49,120","00:44:50,360",2689.12,2690.36,1.2400000000002365,ML: Gutes Schlusswort.
+728,"00:44:56,880","00:45:00,320",2696.88,2700.32,3.4400000000000546,"EQ: Da geht es um das Thema Verantwortungsübernahme,"
+729,"00:45:00,440","00:45:01,800",2700.44,2701.8,1.3600000000001273,was sehr unbeliebt ist.
+730,"00:45:01,960","00:45:06,160",2701.96,2706.16,4.199999999999818,Sie versuchen einfach irgendwie politisch durchzukommen und kommen
+731,"00:45:06,320","00:45:09,280",2706.32,2709.28,2.9600000000000364,auch oft fachfremd in die Ämter.
+732,"00:45:09,480","00:45:11,920",2709.48,2711.92,2.4400000000000546,"Wir haben jetzt einen Finanzminister,"
+733,"00:45:12,080","00:45:14,720",2712.08,2714.72,2.6399999999998727,der kennt sich gut in der Außenpolitik aus.
+734,"00:45:14,840","00:45:17,080",2714.84,2717.08,2.2399999999997817,Das Finanzministerium muss er sich aber noch mal neu erschließen.
+735,"00:45:23,440","00:45:27,160",2723.44,2727.16,3.7199999999998,ML: Irgendwie stellen Sie die ganze Zeit die Systemfrage.
+736,"00:45:27,240","00:45:29,200",2727.24,2729.2,1.9600000000000364,Es war spannend.
+737,"00:45:30,840","00:45:35,480",2730.84,2735.48,4.639999999999873,"Viele Antworten und noch mehr Fragen, vielleicht sollte das fortsetzen."
+738,"00:45:35,600","00:45:40,280",2735.6,2740.28,4.680000000000291,"Jetzt die Kollegen vom ""heute journal up:date""."
+739,"00:45:40,320","00:45:44,600",2740.32,2744.6,4.279999999999745,"Wir sind morgen wieder da, bis dahin, tschüss."

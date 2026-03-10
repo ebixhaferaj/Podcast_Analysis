@@ -1,0 +1,831 @@
+﻿segment_id,start_time,end_time,start_seconds,end_seconds,duration,text
+1,"00:00:01,320","00:00:03,040",1.32,3.04,1.72,Deutschland macht zu.
+2,"00:00:03,120","00:00:06,640",3.12,6.64,3.5199999999999996,"Der Kanzlerkandidat der Union, Friedrich Merz, forderte"
+3,"00:00:06,720","00:00:10,840",6.72,10.84,4.12,dauerhafte Grenzkontrollen und einen Einreisestopp für Migranten.
+4,"00:00:10,880","00:00:15,120",10.88,15.12,4.239999999999998,Wird das so fürchterliche Taten wie die in Aschaffenburg verhindern?
+5,"00:00:15,200","00:00:17,960",15.2,17.96,2.7600000000000016,"Wie wird Deutschland wieder sicher, Herr Wüst?"
+6,"00:00:18,040","00:00:22,040",18.04,22.04,4.0,"Fragen wir den Ministerpräsidenten von NRW, Hendrik Wüst (CDU),"
+7,"00:00:22,960","00:00:27,960",22.96,27.96,5.0,"die Journalistin Vanessa Vu (ZEIT), den SPD-Oberbürgermeister von Fürth,"
+8,"00:00:29,080","00:00:33,520",29.08,33.52,4.440000000000005,Thomas Jung und den Juristen und SZ-Redakteur Ronen Steinke.
+9,"00:00:34,720","00:00:38,480",34.72,38.48,3.759999999999998,Guten Abend allen zu Hause und willkommen unserem Publikum.
+10,"00:00:38,720","00:00:42,720",38.72,42.72,4.0,Diese Sendung wurde vom NDR live untertitelt (26.01.2025)
+11,"00:00:50,000","00:00:53,080",50.0,53.08,3.0799999999999983,"Ich freue mich, dass Sie da sind, Herr Wüst."
+12,"00:00:53,160","00:00:56,640",53.16,56.64,3.480000000000004,"Bevor wir die Forderungen von Friedrich Merz diskutieren,"
+13,"00:00:56,840","00:00:59,160",56.84,59.16,2.319999999999993,möchte ich auf den Wahlkampf schauen.
+14,"00:00:59,720","00:01:03,240",59.72,63.24,3.520000000000003,Nach der Messerattacke von Aschaffenburg zeigte sich
+15,"00:01:03,320","00:01:06,800",63.32,66.8,3.479999999999997,der Kanzlerkandidat der Union erstaunlich scharf.
+16,"00:01:12,120","00:01:14,120",72.12,74.12,2.0,Das Maß ist endgültig voll.
+17,"00:01:15,880","00:01:18,120",75.88,78.12,2.240000000000009,Wir stehen vorm Scherbenhaufen
+18,"00:01:21,880","00:01:25,920",81.88,85.92,4.040000000000006,einer seit zehn Jahren fehlgeleiteten Flüchtlingspolitik.
+19,"00:01:26,880","00:01:30,480",86.88,90.48,3.6000000000000085,"Mir ist gleichgültig, wer den Weg politisch mitgeht."
+20,"00:01:30,760","00:01:33,320",90.76,93.32,2.559999999999988,Ich sage nur: Ich gehe keinen anderen.
+21,"00:01:36,120","00:01:38,680",96.12,98.68,2.5600000000000023,"""Wir stehen vor dem Scherbenhaufen"
+22,"00:01:38,760","00:01:42,440",98.75999999999999,102.44,3.680000000000007,"einer seit zehn Jahren fehlgeleiteten Flüchtlingspolitik."""
+23,"00:01:42,520","00:01:44,760",102.52000000000001,104.75999999999999,2.2399999999999807,Würden Sie es auch so formulieren?
+24,"00:01:45,000","00:01:47,360",105.0,107.36,2.3599999999999994,Es ist jedenfalls richtig.
+25,"00:01:47,640","00:01:51,240",107.64,111.24000000000001,3.6000000000000085,Seit vielen Jahren operieren wir an unseren Grenzen.
+26,"00:01:51,520","00:01:55,400",111.52000000000001,115.4,3.8799999999999955,"Vielfach sind wir überfordert, in den Kommunen, in den Ländern."
+27,"00:01:56,040","00:01:59,520",116.03999999999999,119.52000000000001,3.480000000000018,Sie haben nachher einen Oberbürgermeister zu Gast.
+28,"00:01:59,600","00:02:02,520",119.6,122.52,2.9200000000000017,Der wird das aus seiner Stadt beschreiben.
+29,"00:02:02,600","00:02:05,320",122.6,125.32,2.719999999999999,Das können alle so beschreiben.
+30,"00:02:05,440","00:02:08,640",125.44,128.64,3.1999999999999886,Die Themen der Sicherheit kommen dazu.
+31,"00:02:08,720","00:02:11,320",128.72,131.32,2.5999999999999943,"Es ist nicht falsch zu sagen,"
+32,"00:02:11,640","00:02:14,840",131.64,134.84,3.200000000000017,dass es falsche Richtung gelaufen ist.
+33,"00:02:14,920","00:02:18,600",134.92,138.6,3.680000000000007,Es ist eine Abrechnung mit der Politik Angela Merkels.
+34,"00:02:20,560","00:02:23,800",140.56,143.8,3.240000000000009,Sie haben sie eingeladen zum Neujahrsempfang in NRW.
+35,"00:02:23,880","00:02:27,320",143.88,147.32,3.4399999999999977,Das bislang Merkels einziger Wahlkampftermin für die CDU.
+36,"00:02:27,400","00:02:30,080",147.4,150.07999999999998,2.6799999999999784,Welches Zeichen wollten Sie damit setzen?
+37,"00:02:31,120","00:02:34,040",151.12,154.04,2.9199999999999875,"Es ist gut, dass wir als Volkspartei, CDU,"
+38,"00:02:34,120","00:02:36,240",154.12,156.24,2.1200000000000045,breit aufgestellt sind.
+39,"00:02:37,720","00:02:41,320",157.72,161.32,3.5999999999999943,"Nach ihrer langen Kanzlerzeit kann man feststellen,"
+40,"00:02:41,440","00:02:45,360",161.44,165.36,3.920000000000016,dass sie uns erfolgreich durch Krisen geführt hat.
+41,"00:02:45,440","00:02:48,160",165.44,168.16,2.719999999999999,Aber sie hat uns auch Themen übrig gelassen.
+42,"00:02:48,320","00:02:51,720",168.32,171.72,3.4000000000000057,"""Scherbenhaufen einer fehlgeleiteten Flüchtlingspolitik"" -"
+43,"00:02:51,800","00:02:54,280",171.8,174.28,2.4799999999999898,sprechen Sie mit Angela Merkel darüber?
+44,"00:02:56,280","00:02:59,720",176.28,179.72,3.4399999999999977,Merkel hat ein EU-Türkei-Abkommen gemacht.
+45,"00:02:59,800","00:03:02,840",179.8,182.84,3.039999999999992,Das hat die Zuzugsahlen um 90 % untergebracht.
+46,"00:03:02,920","00:03:06,320",182.92,186.32,3.4000000000000057,"Hätten wir das in den letzten Jahren auch gemacht,"
+47,"00:03:06,400","00:03:10,120",186.4,190.12,3.719999999999999,vielleicht hätten wir dann deutlich weniger Probleme.
+48,"00:03:10,200","00:03:13,680",190.2,193.68,3.480000000000018,Man kann nicht alles einfach dahin buchen.
+49,"00:03:13,840","00:03:18,200",193.84,198.2,4.359999999999985,"Und nicht sagen, in den letzten Jahren ist alles gut gelaufen."
+50,"00:03:18,280","00:03:20,160",198.28,200.16,1.8799999999999955,Das Gegenteil ist der Fall.
+51,"00:03:20,240","00:03:23,400",200.24,203.4,3.1599999999999966,Es ist nichts Vergleichbares gelaufen
+52,"00:03:23,600","00:03:25,720",203.6,205.72,2.1200000000000045,wie das EU-Türkei-Abkommen.
+53,"00:03:26,480","00:03:29,680",206.48,209.68,3.200000000000017,Wir haben parteiübergreifend Debatten geführt.
+54,"00:03:30,360","00:03:33,440",210.36,213.44,3.079999999999984,Ich habe um eine Allianz der Mitte geworben.
+55,"00:03:33,520","00:03:36,520",213.52,216.52,3.0,Mit der Ampel war nichts zu machen.
+56,"00:03:37,240","00:03:41,000",217.24,221.0,3.759999999999991,Die Probleme stammen nicht aus den letzten drei Jahren.
+57,"00:03:41,080","00:03:43,920",221.07999999999998,223.92000000000002,2.840000000000032,Sie sind noch schlimmer geworden.
+58,"00:03:44,040","00:03:46,720",224.04,226.72,2.680000000000007,Sprechen Sie mit Merkel darüber?
+59,"00:03:48,920","00:03:50,640",228.92000000000002,230.64,1.7199999999999704,Was sagt sie dann?
+60,"00:03:51,480","00:03:53,560",231.48,233.56,2.0800000000000125,"Sagt sie, dass stimmt?"
+61,"00:03:56,040","00:03:58,920",236.04,238.92000000000002,2.880000000000024,"Nein, sie beschreibt, was man gemacht hat."
+62,"00:03:59,040","00:04:02,040",239.04,242.04,3.0,Und was man heute noch machen könnte.
+63,"00:04:02,120","00:04:05,000",242.12,245.0,2.8799999999999955,"Steht sie hinter den Forderungen,"
+64,"00:04:05,400","00:04:08,680",245.4,248.68,3.280000000000001,über die wir nachher noch detailliert sprechen?
+65,"00:04:08,760","00:04:11,320",248.76,251.32,2.5600000000000023,Das müssen Sie selber fragen.
+66,"00:04:11,680","00:04:14,680",251.68,254.68,3.0,Darüber haben sie nicht gesprochen?
+67,"00:04:16,160","00:04:19,640",256.16,259.64,3.4799999999999613,Das war zu nicht bekannt zu dem Zeitpunkt.
+68,"00:04:21,000","00:04:24,200",261.0,264.2,3.1999999999999886,Sie fordern strengere Regeln für die Migration.
+69,"00:04:24,280","00:04:26,560",264.28,266.56,2.2800000000000296,Das tun sie schon länger.
+70,"00:04:27,680","00:04:31,160",267.68,271.16,3.480000000000018,Wir schauen auf den ARD-Deutschland Trend.
+71,"00:04:31,280","00:04:34,760",271.28,274.76,3.480000000000018,Demnach traut Ihnen nur jeder Vierte Wähler
+72,"00:04:36,280","00:04:40,400",276.28,280.4,4.1200000000000045,"auf dem Gebiet Migration zu, eine Lösung zu finden."
+73,"00:04:40,480","00:04:44,280",280.48,284.28,3.7999999999999545,Sind Sie deshalb jetzt deutlich unfreundlicher?
+74,"00:04:47,880","00:04:51,680",287.88,291.68,3.8000000000000114,Das hat nichts mit freundlich oder unfreundlich zu tun.
+75,"00:04:51,760","00:04:55,040",291.76,295.04,3.2800000000000296,"Die Menschen erwarten, dass wir Probleme lösen."
+76,"00:04:55,120","00:04:58,600",295.12,298.6,3.480000000000018,Und Probleme für die Zukunft klein halten.
+77,"00:04:58,720","00:05:02,920",298.72,302.92,4.199999999999989,"Wenn wir auf die Migrationspolitik der letzten Jahre schauen,"
+78,"00:05:03,040","00:05:05,440",303.04,305.44,2.3999999999999773,dann sehen wir da Probleme.
+79,"00:05:05,720","00:05:09,120",305.72,309.12,3.3999999999999773,Wir müssen illegale Migration beenden.
+80,"00:05:09,680","00:05:12,800",309.68,312.8,3.1200000000000045,Für einen deutschen Christdemokraten ist klar:
+81,"00:05:12,880","00:05:15,680",312.88,315.68,2.8000000000000114,"Wir wollen auch künftig Menschen helfen,"
+82,"00:05:15,760","00:05:18,360",315.76,318.36,2.6000000000000227,die vor Krieg und Vertreibung fliehen.
+83,"00:05:18,480","00:05:21,080",318.48,321.08,2.599999999999966,Aber man muss das auch können.
+84,"00:05:21,240","00:05:24,760",321.24,324.76,3.519999999999982,Man muss auch klar sein in der Situation.
+85,"00:05:25,080","00:05:27,840",325.08,327.84,2.759999999999991,Man kann nicht überall innere Sicherheit
+86,"00:05:27,920","00:05:30,000",327.92,330.0,2.079999999999984,und Migration trennen.
+87,"00:05:30,320","00:05:33,440",330.32,333.44,3.1200000000000045,Jetzt muss sich dringend etwas ändern.
+88,"00:05:34,160","00:05:38,480",334.15999999999997,338.48,4.32000000000005,Nach dem schlimmen Mord an einem kleinen Jungen in Aschaffenburg
+89,"00:05:38,800","00:05:42,080",338.8,342.08,3.2799999999999727,"war der Kanzler im Grunde nicht bereit,"
+90,"00:05:42,800","00:05:45,440",342.8,345.44,2.6399999999999864,eine politische Debatte zu führen.
+91,"00:05:45,560","00:05:49,880",345.56,349.88,4.319999999999993,"Er sagt, die Probleme müssen woanders verwaltet werden."
+92,"00:05:51,360","00:05:54,200",351.36,354.2,2.839999999999975,Diese Antwort ist nicht ausreichend.
+93,"00:05:54,280","00:05:56,440",354.28,356.44,2.160000000000025,Wir müssen Antworten anbieten.
+94,"00:05:56,600","00:05:59,960",356.6,359.96,3.359999999999957,Antworten anbieten ist fast ein bisschen lustig.
+95,"00:06:00,040","00:06:02,640",360.04,362.64,2.599999999999966,Auch Sie wollen keine Debatte führen.
+96,"00:06:02,720","00:06:05,240",362.72,365.24,2.519999999999982,"Sie stellen Forderungen auf,"
+97,"00:06:05,600","00:06:09,040",365.6,369.04,3.4399999999999977,über die gar nicht gesprochen werden soll.
+98,"00:06:09,200","00:06:12,880",369.2,372.88,3.680000000000007,Bei diesem Thema sind keine Kompromisse mehr möglich.
+99,"00:06:13,000","00:06:16,120",373.0,376.12,3.1200000000000045,Das ist ein Zitat von Friedrich Merz.
+100,"00:06:16,440","00:06:19,320",376.44,379.32,2.8799999999999955,Das hat er vor drei Tagen gesagt.
+101,"00:06:20,480","00:06:23,560",380.48,383.56,3.079999999999984,Der CDU-Generalsekretär fügte hinzu:
+102,"00:06:23,760","00:06:27,840",383.76,387.84,4.079999999999984,Alle Forderungen müssten zu 100 Prozent durchgezogen werden.
+103,"00:06:28,480","00:06:30,360",388.48,390.36,1.8799999999999955,Darf ich das ernst nehmen?
+104,"00:06:30,440","00:06:34,720",390.44,394.72,4.28000000000003,"Er sagt, ansonsten würde man lieber in die Opposition gehen."
+105,"00:06:37,640","00:06:40,440",397.64,400.44,2.8000000000000114,Ich halte das für wichtige Forderungen.
+106,"00:06:40,520","00:06:44,240",400.52,404.24,3.7200000000000273,Deshalb stellen wir sie kurz vor der Wahl in den Raum.
+107,"00:06:44,320","00:06:47,320",404.32,407.32,3.0,Die Menschen können dann darüber abstimmen.
+108,"00:06:47,400","00:06:50,240",407.4,410.24,2.840000000000032,"Es ist gut, wenn man vor der Wahl"
+109,"00:06:50,520","00:06:54,000",410.52,414.0,3.480000000000018,eine klare inhaltliche Positionierung hat.
+110,"00:06:54,440","00:06:58,480",414.44,418.48,4.0400000000000205,"Zu einem Thema hat, dass die Menschen an Nummer 1 setzen."
+111,"00:06:58,560","00:07:01,320",418.56,421.32,2.759999999999991,Die Menschen brauchen Antworten.
+112,"00:07:01,400","00:07:04,520",421.4,424.52,3.1200000000000045,"Und wir sagen, dass sind unsere Antworten."
+113,"00:07:05,280","00:07:08,400",425.28,428.4,3.1200000000000045,"Warum sollten wir 30 Tage vor der Wahl sagen,"
+114,"00:07:08,520","00:07:10,920",428.52,430.92,2.400000000000034,das ist uns nicht so ernst?
+115,"00:07:11,280","00:07:16,960",431.28,436.96,5.680000000000007,Nach derzeitigem Stand der Umfragen werden Sie nicht alleine regieren.
+116,"00:07:17,880","00:07:21,600",437.88,441.6,3.7200000000000273,"Sie müssen Koalitionen schmieden, Kompromisse machen."
+117,"00:07:21,680","00:07:24,640",441.68,444.64,2.9599999999999795,Nehmen Sie da nicht den Mund etwas zu voll.
+118,"00:07:24,760","00:07:27,880",444.76,447.88,3.1200000000000045,"Und riskieren, Wähler zu enttäuschen."
+119,"00:07:27,960","00:07:31,080",447.96,451.08,3.1200000000000045,"Wenn Sie sagen, wir ziehen das durch."
+120,"00:07:33,240","00:07:36,640",453.24,456.64,3.3999999999999773,Vielleicht muss man an anderer Stelle nachlassen.
+121,"00:07:36,760","00:07:39,880",456.76,459.88,3.1200000000000045,An anderer Stelle Kompromisse machen.
+122,"00:07:40,440","00:07:44,800",460.44,464.8,4.360000000000014,"Natürlich bedeutet Demokratie, dass man Kompromisse macht."
+123,"00:07:44,880","00:07:48,280",464.88,468.28,3.3999999999999773,"Aber von dem, was wir sagen, muss viel passieren,"
+124,"00:07:48,360","00:07:50,720",468.36,470.72,2.3600000000000136,damit es auch besser wird.
+125,"00:07:51,160","00:07:54,360",471.15999999999997,474.36,3.2000000000000455,Über Kompromisse möchte ich mit Ihnen reden.
+126,"00:07:54,440","00:07:56,960",474.44,476.96,2.519999999999982,Ich habe ein Zitat von Friedrich Merz.
+127,"00:07:57,360","00:07:59,600",477.36,479.6,2.240000000000009,Mit der Union will er kommende Woche
+128,"00:07:59,680","00:08:02,120",479.68,482.12,2.4399999999999977,die Forderung zur Abstimmung bringen.
+129,"00:08:02,400","00:08:05,840",482.4,485.84,3.4399999999999977,"Zu der Frage, wie Sie eine Mehrheit bekommen sollen,"
+130,"00:08:05,960","00:08:07,960",485.96,487.96,2.0,hat Merz vor zwei Tagen gesagt:
+131,"00:08:20,480","00:08:23,440",500.48,503.44,2.9599999999999795,"Ist es egal, ob die AfD mit stimmt?"
+132,"00:08:23,960","00:08:27,280",503.96,507.28,3.319999999999993,Zwischen Union und AfD gibt es keine Verabredung.
+133,"00:08:27,360","00:08:29,920",507.36,509.92,2.5600000000000023,Das hat Merz mehrfach gesagt.
+134,"00:08:30,680","00:08:34,240",510.68,514.24,3.5600000000000023,Er sagt das in jedem öffentlichen Auftritt.
+135,"00:08:34,320","00:08:38,280",514.32,518.28,3.9599999999999227,Er hat sogar sein persönliches Schicksal damit verbunden.
+136,"00:08:38,360","00:08:41,800",518.36,521.8,3.439999999999941,Es wird keine Zusammenarbeit mit der AfD geben.
+137,"00:08:41,880","00:08:45,160",521.88,525.16,3.2799999999999727,"Aber er nimmt in Kauf, dass die mitstimmen?"
+138,"00:08:45,240","00:08:48,520",525.24,528.52,3.2799999999999727,Wir werben um eine Mehrheit in der Mitte.
+139,"00:08:48,600","00:08:51,520",528.6,531.52,2.919999999999959,"Der Bundeskanzler, sein Koalitionspartner,"
+140,"00:08:51,640","00:08:54,840",531.64,534.84,3.2000000000000455,die geben nach Aschaffenburg keine Antwort.
+141,"00:08:54,920","00:08:58,440",534.92,538.44,3.5200000000000955,Das haben sie auch nach Solingen nicht getan.
+142,"00:08:58,520","00:09:01,400",538.52,541.4,2.8799999999999955,Ich habe gemeinsam mit den Grünen Anträge
+143,"00:09:01,480","00:09:04,040",541.48,544.04,2.5599999999999454,in den Bundesrat eingebracht.
+144,"00:09:04,720","00:09:08,640",544.72,548.64,3.919999999999959,Politik muss Antworten geben auf die Sorgen der Menschen.
+145,"00:09:08,720","00:09:11,880",548.72,551.88,3.159999999999968,Die Ampel war dazu nicht in der Lage.
+146,"00:09:12,440","00:09:15,880",552.44,555.88,3.439999999999941,Ich werbe seit Jahren um eine Allianz der Mitte.
+147,"00:09:17,080","00:09:19,280",557.08,559.28,2.199999999999932,"Ich bin fest davon überzeugt,"
+148,"00:09:19,400","00:09:22,800",559.4,562.8,3.3999999999999773,"mit Blick auf Frankreich, auf die Niederlande."
+149,"00:09:22,880","00:09:26,480",562.88,566.48,3.6000000000000227,Da gab es große Niederlagen der politischen Mitte.
+150,"00:09:27,120","00:09:30,240",567.12,570.24,3.1200000000000045,"Man war nicht in der Lage, Antworten zu geben."
+151,"00:09:30,320","00:09:32,520",570.32,572.52,2.199999999999932,Auf die großen Probleme.
+152,"00:09:34,960","00:09:39,120",574.96,579.12,4.159999999999968,"SPD und Grüne sind herzlich eingeladen, da mitzustimmen."
+153,"00:09:40,440","00:09:44,560",580.44,584.56,4.119999999999891,"Aber wenn die nicht einverstanden sind mit den Forderungen,"
+154,"00:09:44,680","00:09:47,960",584.68,587.96,3.2800000000000864,bei denen Sie keine Kompromisse machen wollen.
+155,"00:09:48,040","00:09:51,440",588.04,591.44,3.400000000000091,Dann sind Sie auf den Stimmen der AfD angewiesen.
+156,"00:09:51,520","00:09:55,920",591.52,595.92,4.399999999999977,"Und Merz sagt, es sei ihm egal, ob die mitmachen oder nicht."
+157,"00:09:56,480","00:09:58,760",596.48,598.76,2.2799999999999727,Wir gucken auf den 13. November.
+158,"00:10:01,520","00:10:03,120",601.52,603.12,1.6000000000000227,"Wir sollten vereinbaren,"
+159,"00:10:03,200","00:10:06,480",603.2,606.48,3.2799999999999727,"mit Ihnen, den Sozialdemokraten, und Ihnen, den Grünen:"
+160,"00:10:06,560","00:10:09,960",606.56,609.96,3.400000000000091,"Dass wir nur Entscheidungen auf die Tagesordnung setzen,"
+161,"00:10:10,040","00:10:13,880",610.04,613.88,3.840000000000032,über die wir uns mit der SPD und den Grünen geeinigt haben.
+162,"00:10:14,920","00:10:18,640",614.92,618.64,3.7200000000000273,Damit bei Abstimmungen nicht auch nur ein Mal
+163,"00:10:24,040","00:10:28,960",624.04,628.96,4.920000000000073,eine zufällige oder herbeigeführte Mehrheit mit denen zustande kommt.
+164,"00:10:36,120","00:10:38,880",636.12,638.88,2.759999999999991,Mit denen sind die von der AfD gemeint.
+165,"00:10:38,960","00:10:41,320",638.96,641.32,2.3600000000000136,Das gilt jetzt nicht mehr?
+166,"00:10:41,640","00:10:45,560",641.64,645.56,3.919999999999959,Es gibt keine Mehrheit zwischen CDU und der AfD.
+167,"00:10:45,960","00:10:49,800",645.96,649.8,3.839999999999918,"Das BSW hat signalisiert, dass sie mitstimmen."
+168,"00:10:50,240","00:10:53,720",650.24,653.72,3.480000000000018,"Die FDP auch, die AfD findet die Forderungen super."
+169,"00:10:53,840","00:10:56,520",653.84,656.52,2.67999999999995,"Sie sagen, die seien von Ihnen geklaut."
+170,"00:10:56,640","00:10:59,120",656.64,659.12,2.480000000000018,Die würden das unterstützen.
+171,"00:10:59,880","00:11:03,280",659.88,663.28,3.3999999999999773,"Sie hätten eine Mehrheit, wenn die AfD mitstimmt."
+172,"00:11:03,360","00:11:05,840",663.36,665.84,2.480000000000018,Wir lassen es nicht darauf ankommen.
+173,"00:11:05,960","00:11:08,640",665.96,668.64,2.67999999999995,Wir wollen nicht deren Stimmen.
+174,"00:11:09,080","00:11:12,760",669.08,672.76,3.67999999999995,Wir wollen die Stimmen aus der politischen Mitte.
+175,"00:11:12,840","00:11:16,000",672.84,676.0,3.159999999999968,"Aber wenn Merz sagt, es sei ihm egal,"
+176,"00:11:16,080","00:11:19,320",676.08,679.32,3.240000000000009,"wenn er die Stimme nicht aus der Mitte bekommt,"
+177,"00:11:19,400","00:11:22,040",679.4,682.04,2.6399999999999864,dann soll die AfD mitstimmen.
+178,"00:11:22,760","00:11:26,320",682.76,686.32,3.560000000000059,Sie nennen diese Partei konsequent die Nazi-Partei.
+179,"00:11:26,720","00:11:31,360",686.72,691.36,4.639999999999986,"Ich verstehe, Sie werden nicht mit denen zusammenarbeiten."
+180,"00:11:31,680","00:11:35,160",691.68,695.16,3.480000000000018,Das nehme ich Ihnen und Friedrich Merz ab.
+181,"00:11:35,400","00:11:37,320",695.4,697.32,1.9200000000000728,"Aber Sie nehmen nicht in Kauf,"
+182,"00:11:37,400","00:11:39,920",697.4,699.92,2.519999999999982,dass Sie auf die Stimmen angewiesen sind?
+183,"00:11:40,000","00:11:43,760",700.0,703.76,3.759999999999991,"Das würde bedeuten, dass die größte Opposition"
+184,"00:11:43,840","00:11:48,080",703.84,708.08,4.240000000000009,"keine Anträge einbringen kann, wenn die AfD nicht vorher sagt:"
+185,"00:11:48,160","00:11:49,600",708.16,709.6,1.4400000000000546,"""Wir stimmen nicht zu."""
+186,"00:11:49,720","00:11:52,200",709.72,712.2,2.480000000000018,Das kann doch so nicht sein.
+187,"00:11:53,040","00:11:57,240",713.04,717.24,4.2000000000000455,Viele Menschen sind aufgewühlt und erwarten Antworten.
+188,"00:11:57,320","00:12:01,080",717.32,721.08,3.759999999999991,"Der Rest der Bundesregierung, auch der Kanzler, sagen,"
+189,"00:12:01,200","00:12:04,400",721.2,724.4,3.199999999999932,von Ihnen kommen keine politischen Änderungen.
+190,"00:12:04,480","00:12:07,160",724.48,727.16,2.67999999999995,Das müssten Behörden in Ländern ändern.
+191,"00:12:07,280","00:12:09,640",727.28,729.64,2.3600000000000136,Ist die Politik dann still?
+192,"00:12:09,760","00:12:12,800",729.76,732.8,3.0399999999999636,Das darf doch jetzt auch nicht sein.
+193,"00:12:14,640","00:12:19,000",734.64,739.0,4.360000000000014,"Dann stimmt nicht mehr, was Herr Merz im November gesagt hat?"
+194,"00:12:19,320","00:12:24,040",739.32,744.04,4.719999999999914,Das war mit Blick auf die Phase der Minderheitsregierung richtig.
+195,"00:12:24,160","00:12:27,200",744.16,747.2,3.0400000000000773,Man muss Realität richtig gestalten.
+196,"00:12:28,000","00:12:32,760",748.0,752.76,4.759999999999991,Aber es gibt doch jetzt keine Mehrheit mit der AfD zusammen.
+197,"00:12:33,960","00:12:38,160",753.96,758.16,4.199999999999932,"Deshalb bin ich total dabei, Friedrich Merz ist glaubwürdig,"
+198,"00:12:38,240","00:12:40,800",758.24,760.8,2.5599999999999454,es wird oft infrage gestellt.
+199,"00:12:41,800","00:12:44,000",761.8,764.0,2.2000000000000455,Es ist nicht in Ordnung.
+200,"00:12:45,160","00:12:47,880",765.16,767.88,2.7200000000000273,Das sind kleine politische Scharmützel.
+201,"00:12:50,440","00:12:54,040",770.44,774.04,3.599999999999909,Rot und grün sind nicht sprechfähig bei dem Thema.
+202,"00:12:54,120","00:12:57,600",774.12,777.6,3.480000000000018,Aber die CDU hält nicht den Schnabel bei dem Thema.
+203,"00:12:57,720","00:13:00,760",777.72,780.76,3.0399999999999636,"Wir machen Vorschläge, von denen wir glauben,"
+204,"00:13:00,840","00:13:04,240",780.84,784.24,3.3999999999999773,dass sie Deutschland wieder sicherer machen.
+205,"00:13:04,320","00:13:07,520",784.32,787.52,3.199999999999932,SPD und Grüne glauben Ihnen das nicht.
+206,"00:13:07,640","00:13:10,720",787.64,790.72,3.080000000000041,"Hören wir, was der Kanzler heute gesagt hat."
+207,"00:13:15,040","00:13:17,000",795.04,797.0,1.9600000000000364,"Muss man sich Sorgen machen,"
+208,"00:13:17,080","00:13:20,680",797.08,800.68,3.599999999999909,dass Merz nach der Wahl mit der AfD zusammen arbeitet?
+209,"00:13:21,280","00:13:24,920",801.28,804.92,3.6399999999999864,Diese Frage kann ich nicht mehr beantworten.
+210,"00:13:25,440","00:13:29,200",805.44,809.2,3.759999999999991,"Ich habe in vielen Interviews gesagt, dass ich glaube,"
+211,"00:13:29,320","00:13:31,840",809.32,811.84,2.519999999999982,dass ich mich auf ihn verlassen kann.
+212,"00:13:31,920","00:13:34,720",811.92,814.72,2.800000000000068,Das kann ich jetzt nicht mehr sagen.
+213,"00:13:34,800","00:13:38,720",814.8,818.72,3.9200000000000728,"In der Debatte werden viele Dinge vorgeschlagen,"
+214,"00:13:39,280","00:13:42,960",819.28,822.96,3.6800000000000637,die gegen das Grundgesetz und europäische Verträge verstoßen.
+215,"00:13:43,360","00:13:45,000",823.36,825.0,1.6399999999999864,Ich glaube:
+216,"00:13:45,080","00:13:48,920",825.08,828.92,3.839999999999918,Helmut Kohl wäre nicht zufrieden mit dem Parteivorsitzenden.
+217,"00:13:49,000","00:13:52,120",829.0,832.12,3.1200000000000045,Macht er sich diese Sorgen zu recht?
+218,"00:13:52,240","00:13:55,360",832.24,835.36,3.1200000000000045,"Nein, das ist dem Wahlkampfdruck geschuldet."
+219,"00:13:55,440","00:13:57,320",835.44,837.32,1.8799999999999955,Er weiß das besser.
+220,"00:13:58,440","00:14:01,720",838.44,841.72,3.2799999999999727,Auch aus Gesprächen mit Friedrich Merz.
+221,"00:14:02,440","00:14:07,680",842.44,847.68,5.239999999999895,"Das ist eine blanke Not, eine Debatte hochzuziehen."
+222,"00:14:09,280","00:14:12,160",849.28,852.16,2.8799999999999955,"Miner Partei faktisch das Recht zu nehmen,"
+223,"00:14:12,280","00:14:14,240",852.28,854.24,1.9600000000000364,Vorschläge zu machen.
+224,"00:14:17,280","00:14:21,000",857.28,861.0,3.7200000000000273,Das dürfen wir in dieser Situation nicht machen.
+225,"00:14:24,280","00:14:28,080",864.28,868.08,3.800000000000068,Die Anträge liegen in der Fraktion von SPD und Grünen.
+226,"00:14:28,160","00:14:31,200",868.16,871.2,3.0400000000000773,Die können jetzt darüber nachdenken.
+227,"00:14:31,760","00:14:34,960",871.76,874.96,3.2000000000000455,Wir haben die Anträge nicht der AfD geschickt.
+228,"00:14:35,040","00:14:37,040",875.04,877.04,2.0,Nur an SPD und Grüne.
+229,"00:14:39,760","00:14:43,920",879.76,883.92,4.159999999999968,"Könnte aber sein, dass sie ein Verwirrspiel machen."
+230,"00:14:44,000","00:14:47,920",884.0,887.92,3.919999999999959,Sie haben sie vorher in Richtung Kompromisse geöffnet.
+231,"00:14:48,000","00:14:50,040",888.0,890.04,2.0399999999999636,Wären Sie kompromissbereit?
+232,"00:14:50,480","00:14:53,480",890.48,893.48,3.0,Wenn Sie jetzt mit Grünen und SPD sprechen?
+233,"00:14:56,720","00:14:59,440",896.72,899.44,2.7200000000000273,Das ist der Kern einer Debatte.
+234,"00:14:59,720","00:15:03,680",899.72,903.68,3.9599999999999227,"Man bringt etwas ein, die anderen reden darüber."
+235,"00:15:04,160","00:15:08,400",904.16,908.4,4.240000000000009,Wir haben mehr als zwei Dutzend Anträge eingebracht.
+236,"00:15:09,160","00:15:12,080",909.16,912.08,2.9200000000000728,"Wenn die Reaktionen so ist, lass uns reden."
+237,"00:15:12,160","00:15:14,080",912.16,914.08,1.9200000000000728,Dann reden wir auch.
+238,"00:15:15,600","00:15:18,400",915.6,918.4,2.7999999999999545,Im Parlamentarismus gibt es immer Debatte.
+239,"00:15:18,680","00:15:22,960",918.68,922.96,4.280000000000086,Dann würden Sie nicht von mancher Forderung zurücktreten?
+240,"00:15:27,760","00:15:30,440",927.76,930.44,2.6800000000000637,Der Kern muss erhalten bleiben.
+241,"00:15:30,800","00:15:33,880",930.8,933.88,3.080000000000041,Die irreguläre Migration muss enden.
+242,"00:15:34,800","00:15:38,280",934.8,938.28,3.480000000000018,Daran darf im Kern nicht gerüttelt werden.
+243,"00:15:39,680","00:15:43,960",939.68,943.96,4.280000000000086,Das hat die Landesregierung nach Solingen auch vorgeschlagen.
+244,"00:15:44,040","00:15:47,040",944.04,947.04,3.0,"Es wäre ein anderes Signal gewesen,"
+245,"00:15:47,720","00:15:52,640",947.72,952.64,4.919999999999959,"wenn Sie Grün und Rot vorgeschlagen hätten, zusammenzuarbeiten."
+246,"00:15:54,520","00:15:56,840",954.52,956.84,2.32000000000005,Noch vor der Bundestagswahl.
+247,"00:15:59,440","00:16:02,920",959.44,962.92,3.4799999999999045,Stattdessen sagte Merz: keine Kompromisse.
+248,"00:16:05,720","00:16:08,280",965.72,968.28,2.5599999999999454,Das wäre naheliegend gewesen.
+249,"00:16:09,560","00:16:12,440",969.56,972.44,2.880000000000109,Ich habe die Koalitionen gesucht.
+250,"00:16:12,640","00:16:14,760",972.64,974.76,2.1200000000000045,Auch im diskreten Raum.
+251,"00:16:16,840","00:16:19,920",976.84,979.92,3.0799999999999272,"Mir wurde signalisiert, es gehe was."
+252,"00:16:21,000","00:16:24,560",981.0,984.56,3.5599999999999454,"Dann hieß es, in der Koalition geht nichts."
+253,"00:16:26,320","00:16:30,600",986.32,990.6,4.279999999999973,"Ich habe Respekt davor, wenn man an den Themen arbeiten muss."
+254,"00:16:30,680","00:16:33,800",990.68,993.8,3.1200000000000045,Aber irgendwann muss auch entschieden werden.
+255,"00:16:33,880","00:16:36,520",993.88,996.52,2.6399999999999864,Aber es wird nicht entschieden.
+256,"00:16:36,600","00:16:40,440",996.6,1000.44,3.840000000000032,Rot und Grün können sich anscheinend nicht mehr bewegen.
+257,"00:16:40,520","00:16:44,240",1000.52,1004.24,3.7200000000000273,Vielleicht sind sie auch zu schwach in Umfragen.
+258,"00:16:44,320","00:16:47,720",1004.32,1007.72,3.3999999999999773,"Wunderbar, wenn sie sich bewegen könnten."
+259,"00:16:47,880","00:16:52,840",1007.88,1012.84,4.960000000000036,"Es wäre schön, die Punkte noch vor der Wahl beschließen zu können."
+260,"00:16:52,960","00:16:55,840",1012.96,1015.84,2.8799999999999955,Aber über Jahre führen wir diese Debatten.
+261,"00:16:55,960","00:16:58,360",1015.96,1018.36,2.3999999999999773,Und da ist nichts passiert.
+262,"00:16:59,640","00:17:03,520",1019.64,1023.52,3.8799999999999955,Wir sind in einem Monat vor der Bundestagswahl.
+263,"00:17:04,240","00:17:07,720",1024.24,1027.72,3.480000000000018,"Das ist unsere Position, das beschreiben wir."
+264,"00:17:07,800","00:17:10,800",1027.8,1030.8,3.0,Das muss man im Detail beschreiben.
+265,"00:17:12,640","00:17:16,560",1032.64,1036.56,3.9199999999998454,"Wenn die anderen signalisieren, darüber reden zu wollen,"
+266,"00:17:16,640","00:17:18,320",1036.64,1038.32,1.6799999999998363,dann würden wir das auch.
+267,"00:17:18,400","00:17:20,840",1038.4,1040.84,2.439999999999827,Wir wollen das durchsetzen.
+268,"00:17:23,320","00:17:27,600",1043.32,1047.6,4.279999999999973,Würden Sie auch über einzelne Punkte abstimmen lassen?
+269,"00:17:27,760","00:17:30,680",1047.76,1050.68,2.9200000000000728,Das ist im Bundestag sowieso Usus.
+270,"00:17:31,080","00:17:34,400",1051.08,1054.4,3.3200000000001637,Dann müssen die anderen Farbe bekennen.
+271,"00:17:36,280","00:17:39,720",1056.28,1059.72,3.4400000000000546,"Ich bin gespannt, ob sie dazu bereit sind."
+272,"00:17:41,760","00:17:45,680",1061.76,1065.68,3.9200000000000728,Die Gewalt in Aschaffenburg hat den Wahlkampf verändert.
+273,"00:17:45,760","00:17:48,480",1065.76,1068.48,2.7200000000000273,Auch das Land hat es verändert.
+274,"00:17:49,840","00:17:53,840",1069.84,1073.84,4.0,"In den letzten Monaten habe immer wieder gesehen,"
+275,"00:17:54,000","00:17:57,360",1074.0,1077.36,3.3599999999999,dass die Politik danach mit gleichem Muster reagiert hat.
+276,"00:18:02,200","00:18:03,800",1082.2,1083.8,1.599999999999909,"Mannheim, 31. Mai 2024."
+277,"00:18:05,960","00:18:07,200",1085.96,1087.2,1.240000000000009,"Ein Afghane, 25,"
+278,"00:18:07,320","00:18:11,040",1087.32,1091.04,3.7200000000000273,greift den islamkritischen Aktivisten Michael Stürzenberger an
+279,"00:18:11,800","00:18:13,640",1091.8,1093.64,1.8400000000001455,und tötet einen Polizisten.
+280,"00:18:13,760","00:18:15,680",1093.76,1095.68,1.9200000000000728,Die Reaktionen der Politik:
+281,"00:18:16,480","00:18:19,760",1096.48,1099.76,3.2799999999999727,"Das ist entscheidend, auch für mögliche Nachahmer,"
+282,"00:18:19,920","00:18:22,560",1099.92,1102.56,2.6399999999998727,dass wir das nicht akzeptieren als Staat.
+283,"00:18:22,640","00:18:24,680",1102.64,1104.68,2.0399999999999636,Terror sagen wir den Kampf an.
+284,"00:18:24,840","00:18:28,240",1104.84,1108.24,3.400000000000091,Darauf müssen wir gemeinsam hart und klar reagieren.
+285,"00:18:28,440","00:18:30,720",1108.44,1110.72,2.2799999999999727,"Solingen, 23. August 2024."
+286,"00:18:32,680","00:18:34,080",1112.68,1114.08,1.3999999999998636,"Ein Syrer, 26,"
+287,"00:18:34,240","00:18:38,360",1114.24,1118.36,4.119999999999891,greift auf einem Stadtfest Personen mit einem Messer an.
+288,"00:18:38,520","00:18:41,160",1118.52,1121.16,2.6400000000001,Es gibt drei Tote und acht Verletzte.
+289,"00:18:41,280","00:18:45,160",1121.28,1125.16,3.880000000000109,Der Täter war den Behörden als islamistischer Gefährder bekannt
+290,"00:18:45,280","00:18:48,160",1125.28,1128.16,2.880000000000109,und hätte abgeschoben werden sollen.
+291,"00:18:48,320","00:18:52,760",1128.32,1132.76,4.440000000000055,"Deshalb will ich im Hinblick auf den Täter klar sagen,"
+292,"00:18:55,160","00:18:58,840",1135.16,1138.84,3.6799999999998363,dass ich wütend bin und zornig auf diese Tat.
+293,"00:18:59,440","00:19:02,360",1139.44,1142.36,2.9199999999998454,Sie muss schnell und hart bestraft werden.
+294,"00:19:02,520","00:19:06,680",1142.52,1146.68,4.160000000000082,Diese Terrorherausforderung richtet sich an die Bundesrepublik
+295,"00:19:06,800","00:19:11,680",1146.8,1151.68,4.880000000000109,"und alle freien Gesellschaften, die vom Terror attackiert werden."
+296,"00:19:15,000","00:19:19,440",1155.0,1159.44,4.440000000000055,Die Bundesregierung verschärft Asylgesetze und Waffenrecht.
+297,"00:19:19,720","00:19:22,280",1159.72,1162.28,2.5599999999999454,"Magdeburg, 20. Dezember 2024."
+298,"00:19:23,640","00:19:25,880",1163.64,1165.88,2.240000000000009,"Ein Mann, 50, aus Saudi-Arabien"
+299,"00:19:26,040","00:19:29,000",1166.04,1169.0,2.9600000000000364,rast mit einem Auto auf einen Weihnachtsmarkt.
+300,"00:19:29,120","00:19:32,880",1169.12,1172.88,3.7600000000002183,Er tötet sechs Personen und verletzt rund 300 weitere.
+301,"00:19:33,040","00:19:37,520",1173.04,1177.52,4.480000000000018,Er war Sicherheitsbehörden bekannt und in psychiatrischer Behandlung.
+302,"00:19:37,680","00:19:39,840",1177.68,1179.84,2.1599999999998545,Was für eine furchtbare Tat.
+303,"00:19:40,000","00:19:43,240",1180.0,1183.24,3.240000000000009,Eine Zäsur in der Geschichte unseres Landes.
+304,"00:19:43,600","00:19:46,280",1183.6,1186.28,2.6800000000000637,"Aschaffenburg, 22.Januar 2025."
+305,"00:19:48,080","00:19:52,440",1188.08,1192.44,4.360000000000127,"Ein Afghane, 28, greift im Park eine Kindergartengruppe an."
+306,"00:19:53,080","00:19:56,840",1193.08,1196.84,3.759999999999991,"Dabei tötet er zwei Menschen, verletzt drei weitere."
+307,"00:19:57,040","00:20:01,760",1197.04,1201.76,4.720000000000027,Unter den Toten ist ein Zweijähriger mit marokkanischer Herkunft.
+308,"00:20:02,000","00:20:06,320",1202.0,1206.32,4.319999999999936,Der Angreifer war ausreisepflichtig und in psychiatrischer Behandlung.
+309,"00:20:06,480","00:20:10,640",1206.48,1210.64,4.160000000000082,Zum Zeitpunkt des Angriffs hätte er in Haft sein sollen.
+310,"00:20:12,200","00:20:14,200",1212.2,1214.2,2.0,Kann so nicht weitergehen.
+311,"00:20:14,360","00:20:18,320",1214.36,1218.32,3.9600000000000364,"Wir müssen alles tun, dass sich solche Dinge nicht wiederholen."
+312,"00:20:18,440","00:20:23,240",1218.44,1223.24,4.7999999999999545,"Es reicht! Es reicht, es reicht! Null Toleranz und null Kompromiss."
+313,"00:20:24,560","00:20:27,720",1224.56,1227.72,3.160000000000082,Darüber werden wir weitersprechen:
+314,"00:20:29,080","00:20:32,560",1229.08,1232.56,3.480000000000018,"Mit Vanessa Vu, Journalistin bei der ""Zeit""."
+315,"00:20:32,960","00:20:37,080",1232.96,1237.08,4.119999999999891,"Mit dem Juristen und leitenden Redakteur der SZ, Ronen Steinke."
+316,"00:20:37,280","00:20:41,320",1237.28,1241.32,4.039999999999964,"Und mit dem Oberbürgermeister von Fürth, Thomas Jung."
+317,"00:20:52,840","00:20:56,880",1252.84,1256.88,4.040000000000191,"Herr Jung, Fürth liegt in Franken, wie Aschaffenburg."
+318,"00:20:57,120","00:21:01,000",1257.12,1261.0,3.880000000000109,Was waren Ihre ersten Gedanken nach dieser Gewalttat?
+319,"00:21:01,320","00:21:03,840",1261.32,1263.84,2.519999999999982,Natürlich blankes Entsetzen.
+320,"00:21:04,640","00:21:07,920",1264.64,1267.92,3.2799999999999727,Ich bin Opa einer vierjährigen Enkelin.
+321,"00:21:09,400","00:21:13,320",1269.4,1273.32,3.9199999999998454,Der erste Gedanke war: Wie kann man ein Kind umbringen?
+322,"00:21:13,800","00:21:17,400",1273.8,1277.4,3.6000000000001364,Dass so etwas in Deutschland in einem Park passiert.
+323,"00:21:17,520","00:21:19,400",1277.52,1279.4,1.8800000000001091,Das ist entsetzlich.
+324,"00:21:22,400","00:21:27,680",1282.4,1287.68,5.279999999999973,"Frau Vu, Sie setzten sich beruflich viel mit Migration auseinander."
+325,"00:21:30,600","00:21:33,800",1290.6,1293.8,3.2000000000000455,Die Taten ähneln sich. Auch die Täter.
+326,"00:21:38,640","00:21:41,720",1298.64,1301.72,3.0799999999999272,Ich finde das wahnsinnig bestürzend.
+327,"00:21:42,960","00:21:46,120",1302.96,1306.12,3.1599999999998545,"Wir müssen schauen, wer die Opfer sind."
+328,"00:21:49,760","00:21:53,920",1309.76,1313.92,4.160000000000082,"Wir haben Menschen in Not, psychiatrisch auffällig."
+329,"00:21:56,200","00:21:59,320",1316.2,1319.32,3.119999999999891,Man hat wohl ihre Gefahr falsch eingeschätzt.
+330,"00:21:59,400","00:22:01,400",1319.4,1321.4,2.0,Man hat ihnen nicht geholfen.
+331,"00:22:01,480","00:22:03,680",1321.48,1323.68,2.2000000000000455,Das ist sehr bestürzend.
+332,"00:22:06,520","00:22:10,280",1326.52,1330.28,3.759999999999991,Ich frage mich auch: Warum sind es immer junge Männer?
+333,"00:22:10,360","00:22:12,760",1330.36,1332.76,2.400000000000091,Was passiert da eigentlich?
+334,"00:22:12,920","00:22:15,680",1332.92,1335.68,2.759999999999991,Das ist das verbindende Merkmal.
+335,"00:22:15,760","00:22:17,560",1335.76,1337.56,1.7999999999999545,Nicht die Herkunft.
+336,"00:22:18,960","00:22:22,640",1338.96,1342.64,3.6800000000000637,Dann müssen andere Dinge eine Rolle spielen.
+337,"00:22:23,120","00:22:27,040",1343.12,1347.04,3.9200000000000728,Das verzweifelte junge Männer zur Waffe greifen.
+338,"00:22:27,400","00:22:30,640",1347.4,1350.64,3.240000000000009,"Wir hören aus den Asylbewerber- Heimen,"
+339,"00:22:30,840","00:22:35,560",1350.84,1355.56,4.720000000000027,dass es Probleme mit jungen Männern mit psychischen Problemen gibt.
+340,"00:22:35,640","00:22:39,560",1355.64,1359.56,3.9199999999998454,Sie sind die Tochter vietnamesischer Einwanderer.
+341,"00:22:43,000","00:22:47,840",1363.0,1367.84,4.839999999999918,Ihre Familie hat die ersten Jahre in einem Asylbewerberheim verbracht.
+342,"00:22:47,920","00:22:51,480",1367.92,1371.48,3.5599999999999454,Das war in Ihren ersten sechs Lebensjahren.
+343,"00:22:52,680","00:22:56,800",1372.68,1376.8,4.119999999999891,"Ist es tatsächlich häufig so und ein großes Problem,"
+344,"00:22:58,320","00:23:02,760",1378.32,1382.76,4.440000000000055,dass Männer mit Gewalterfahrungen häufig psychisch instabil sind?
+345,"00:23:11,680","00:23:16,160",1391.68,1396.16,4.480000000000018,"Wenn man in einer angespannten Situation ist, ohne Geld,"
+346,"00:23:16,600","00:23:21,560",1396.6,1401.56,4.960000000000036,"ohne Perspektive, eingepfercht in Heimen, dass verstärkt Spannungen."
+347,"00:23:26,600","00:23:30,800",1406.6,1410.8,4.2000000000000455,Belastete Menschen können dann noch Probleme dazu bekommen.
+348,"00:23:30,880","00:23:34,800",1410.88,1414.8,3.9199999999998454,"Vor allem, wenn sie nötige Hilfe nicht bekommen."
+349,"00:23:35,880","00:23:40,880",1415.88,1420.88,5.0,Nur wenige belastete Flüchtlinge bekommen psychologische Hilfe.
+350,"00:23:42,720","00:23:47,000",1422.72,1427.0,4.279999999999973,"Wenn die Zusammensetzung der geflüchteten anders ist,"
+351,"00:23:49,760","00:23:54,280",1429.76,1434.28,4.519999999999982,"wenn es nicht vor allem Frauen sind wie aus der Ukraine,"
+352,"00:23:58,480","00:24:02,600",1438.48,1442.6,4.119999999999891,"dann kann man etwas tun, Eskalationen zu vermeiden."
+353,"00:24:08,960","00:24:13,360",1448.96,1453.36,4.399999999999864,Die Frauen der Ukraine haben ihre Männer an der Front gelassen.
+354,"00:24:13,440","00:24:16,480",1453.44,1456.48,3.0399999999999636,Warum kommen hier vor allem Männer?
+355,"00:24:18,320","00:24:21,760",1458.32,1461.76,3.4400000000000546,"Das sind Männer, die nichts zu tun haben."
+356,"00:24:22,640","00:24:27,720",1462.64,1467.72,5.079999999999927,Kriminalstatistiken laufen parallel zur Statistik über Arbeitslosigkeit.
+357,"00:24:27,800","00:24:31,800",1467.8,1471.8,4.0,"Wer nichts zu tun hat, kommt auf die schiefe Bahn."
+358,"00:24:33,840","00:24:37,720",1473.84,1477.72,3.880000000000109,"Er beginnt zu trinken, dann beginnen die Probleme."
+359,"00:24:40,680","00:24:44,960",1480.68,1484.96,4.279999999999973,"Wenn Leute Sinn im Leben sehen, dann gibt es weniger Probleme."
+360,"00:24:45,040","00:24:48,760",1485.04,1488.76,3.7200000000000273,Die Leute kommen nach Deutschland mit Träumen.
+361,"00:24:48,840","00:24:52,240",1488.84,1492.24,3.400000000000091,Sie möchten sich ein besseres Leben aufbauen.
+362,"00:24:52,320","00:24:55,680",1492.32,1495.68,3.3600000000001273,"Sie möchten einen guten Beitrag leisten,"
+363,"00:24:56,280","00:25:00,080",1496.28,1500.08,3.7999999999999545,aus ihrem Leben eine Erfolgsgeschichte machen.
+364,"00:25:01,240","00:25:06,480",1501.24,1506.48,5.240000000000009,Aber in den ersten Monaten dürfen sie kein eigenes Geld verdienen.
+365,"00:25:06,560","00:25:10,760",1506.56,1510.76,4.2000000000000455,"Selbst wenn sie etwas können, was hier nachgefragt wird."
+366,"00:25:10,840","00:25:14,560",1510.84,1514.56,3.7200000000000273,"Die sitzen rum, habe nichts Richtiges zu tun."
+367,"00:25:18,760","00:25:21,840",1518.76,1521.84,3.0799999999999272,Natürlich belastet uns das als Gesellschaft.
+368,"00:25:21,920","00:25:24,560",1521.92,1524.56,2.6399999999998727,Aber müsste das wirklich sein?
+369,"00:25:25,840","00:25:29,200",1525.84,1529.2,3.3600000000001273,Können sie nicht rausgehen und arbeiten?
+370,"00:25:29,760","00:25:32,960",1529.76,1532.96,3.2000000000000455,Es gibt zu spät eine Arbeitserlaubnis.
+371,"00:25:36,360","00:25:40,960",1536.36,1540.96,4.600000000000136,"All das ist richtig, es ist aber nicht das komplette Bild."
+372,"00:25:41,080","00:25:43,720",1541.08,1543.72,2.6400000000001,Unsere Asylrechtslogik besagt:
+373,"00:25:45,760","00:25:50,680",1545.76,1550.68,4.920000000000073,"Schickt den kräftigsten Sohn los, der holt dann die Familie nach."
+374,"00:25:55,160","00:25:59,320",1555.16,1559.32,4.1599999999998545,Man darf den Täter nicht so schnell zum Opfer machen.
+375,"00:25:59,400","00:26:03,120",1559.4,1563.12,3.7199999999998,"Die meisten, die kommen, haben keine Probleme."
+376,"00:26:03,400","00:26:07,680",1563.4,1567.68,4.279999999999973,Auch die meisten jungen Männer machen keine Probleme.
+377,"00:26:10,960","00:26:13,600",1570.96,1573.6,2.6399999999998727,Aber sie haben psychosoziale Probleme.
+378,"00:26:13,680","00:26:15,320",1573.68,1575.32,1.6399999999998727,Hilft man ihnen?
+379,"00:26:18,560","00:26:22,120",1578.56,1582.12,3.5599999999999454,Wir kommen an das Ende unserer Kapazitäten.
+380,"00:26:22,560","00:26:25,640",1582.56,1585.64,3.0800000000001546,Finden Sie eine psychologische Betreuung
+381,"00:26:25,760","00:26:28,320",1585.76,1588.32,2.5599999999999454,für einen deutschen Teenager.
+382,"00:26:28,400","00:26:30,440",1588.4,1590.44,2.0399999999999636,Auch der hat Probleme.
+383,"00:26:34,440","00:26:38,440",1594.44,1598.44,4.0,Da haben Sie auch in NRW in Großstädten Probleme.
+384,"00:26:40,960","00:26:44,320",1600.96,1604.32,3.3599999999999,Wenn Sie vom Staat Dinge abverlangen ...
+385,"00:26:45,600","00:26:49,280",1605.6,1609.28,3.6800000000000637,Wir kümmern uns um straffällig gewordene junge Leute.
+386,"00:26:49,360","00:26:51,880",1609.36,1611.88,2.520000000000209,Das Projekt heißt Periscope.
+387,"00:26:52,800","00:26:55,640",1612.8,1615.64,2.8400000000001455,Aber wir haben Kapazitätsgrenzen.
+388,"00:26:59,600","00:27:02,520",1619.6,1622.52,2.9200000000000728,Daran kann man nicht vorbei reden.
+389,"00:27:04,560","00:27:08,640",1624.56,1628.64,4.080000000000155,Das kann man mit einer überschaubaren Zahl machen.
+390,"00:27:11,960","00:27:16,200",1631.96,1636.2,4.240000000000009,"Wir haben einen Arbeitsmarkt, der Fachkräfte erfordert."
+391,"00:27:16,280","00:27:20,360",1636.28,1640.36,4.079999999999927,"Auch manche Arbeitskraft, die keine Fachkraft ist."
+392,"00:27:21,120","00:27:25,880",1641.12,1645.88,4.760000000000218,"Aber viele kommen zu uns, die auf unseren Arbeitsmarkt nicht passen."
+393,"00:27:25,960","00:27:28,840",1645.96,1648.84,2.8799999999998818,Aber viele wären sehr willkommen.
+394,"00:27:31,280","00:27:35,000",1651.28,1655.0,3.7200000000000273,Es gibt einen jungen Mann in Fürth aus Benin.
+395,"00:27:35,480","00:27:40,360",1655.48,1660.36,4.879999999999882,Der hat sich eine Ausbildungsstelle bei dem Malermeister beschafft.
+396,"00:27:40,440","00:27:44,640",1660.44,1664.64,4.2000000000000455,"Der junge Mann war begeistert, aus der Unterkunft zu kommen."
+397,"00:27:44,720","00:27:47,920",1664.72,1667.92,3.2000000000000455,"Dann kann die Ausländerbehörde und sagte,"
+398,"00:27:48,000","00:27:51,120",1668.0,1671.12,3.119999999999891,den Arbeitsvertrag könne man zerreißen.
+399,"00:27:51,200","00:27:53,920",1671.2,1673.92,2.7200000000000273,Er sei jetzt ausreisepflichtig.
+400,"00:27:55,160","00:27:58,160",1675.16,1678.16,3.0,"Der wartet seit drei Jahren darauf,"
+401,"00:27:59,440","00:28:02,720",1679.44,1682.72,3.2799999999999727,dass die Botschaft ihm Unterlagen gibt.
+402,"00:28:04,440","00:28:07,920",1684.44,1687.92,3.480000000000018,Er hätte in der Zeit ausgebildet werden können.
+403,"00:28:08,000","00:28:11,000",1688.0,1691.0,3.0,Er hätte eine Erfolgsgeschichte sein können.
+404,"00:28:13,520","00:28:16,040",1693.52,1696.04,2.519999999999982,Aber er darf nicht arbeiten.
+405,"00:28:16,840","00:28:20,240",1696.84,1700.24,3.400000000000091,Als nächstes kommt er jetzt wohl in Haft.
+406,"00:28:22,040","00:28:26,080",1702.04,1706.08,4.039999999999964,Als Ausreisepflichtiger kommt er jetzt vielleicht in Haft.
+407,"00:28:26,200","00:28:27,880",1706.2,1707.88,1.6800000000000637,Ist das sinnvoll?
+408,"00:28:27,960","00:28:30,160",1707.96,1710.16,2.2000000000000455,Kennen Sie solche Fälle?
+409,"00:28:31,120","00:28:33,640",1711.12,1713.64,2.520000000000209,Leider gibt es solche Fälle.
+410,"00:28:35,040","00:28:38,760",1715.04,1718.76,3.7200000000000273,"Wir schaffen es nicht danach zu gehen, wer uns hilft."
+411,"00:28:38,840","00:28:41,720",1718.84,1721.72,2.880000000000109,Dem würden wir gerne Zuwendung geben.
+412,"00:28:43,680","00:28:46,320",1723.68,1726.32,2.6399999999998727,"Aber wir müssen auch zulassen,"
+413,"00:28:48,000","00:28:52,240",1728.0,1732.24,4.240000000000009,"dass Menschen, die uns ausnutzen, straffällig werden."
+414,"00:28:56,720","00:28:58,640",1736.72,1738.64,1.9200000000000728,Die laufen noch frei rum.
+415,"00:29:03,240","00:29:06,240",1743.24,1746.24,3.0,Auch das ist Teil unserer Realität.
+416,"00:29:11,680","00:29:16,320",1751.68,1756.32,4.639999999999873,"Es gibt jetzt die Forderung der Union, über die wir reden."
+417,"00:29:17,320","00:29:21,000",1757.32,1761.0,3.6800000000000637,"Wir beginnen mit der Forderung des Kanzlerkandidaten,"
+418,"00:29:21,080","00:29:23,160",1761.08,1763.16,2.0800000000001546,zu den Kontrollen an den Grenzen.
+419,"00:29:25,800","00:29:30,280",1765.8,1770.28,4.480000000000018,Ich werde im Fall meiner Wahl am ersten Tag meiner Amtszeit
+420,"00:29:33,640","00:29:38,240",1773.64,1778.24,4.599999999999909,"das Bundesinnenministerium im Wege der Richtlinienkompetenz anweisen,"
+421,"00:29:40,440","00:29:46,840",1780.44,1786.84,6.399999999999864,die deutschen Staatsgrenzen zu allen Nachbarn dauerhaft zu kontrollieren
+422,"00:29:47,920","00:29:53,280",1787.92,1793.28,5.3599999999999,und alle Versuche der illegalen Einreise zurückzuweisen.
+423,"00:29:54,800","00:29:58,520",1794.8,1798.52,3.7200000000000273,"Herr Wüst, Kontrollen und Zurückweisungen gibt es bereits."
+424,"00:29:59,040","00:30:01,760",1799.04,1801.76,2.7200000000000273,Die letzten Zahlen habe ich nachgeschaut.
+425,"00:30:02,400","00:30:05,160",1802.4,1805.16,2.759999999999991,41 Prozent weniger unerlaubte Reisen
+426,"00:30:05,240","00:30:07,720",1805.24,1807.72,2.480000000000018,wurden im letzten Jahr registriert.
+427,"00:30:09,240","00:30:12,640",1809.24,1812.64,3.400000000000091,Jetzt wollen Sie alle nicht mehr reinlassen.
+428,"00:30:14,440","00:30:17,080",1814.44,1817.08,2.6399999999998727,"Auch nicht die, die Asyl beantragen."
+429,"00:30:17,720","00:30:21,200",1817.72,1821.2,3.480000000000018,Bis jetzt musste man Asyl-Bewerber reinlassen.
+430,"00:30:24,000","00:30:27,120",1824.0,1827.12,3.119999999999891,Wollen Sie das Asyl-Grundrecht aushöhlen?
+431,"00:30:29,120","00:30:33,840",1829.12,1833.84,4.720000000000027,"Manche Juristen sagen, das müsste der Staat schon lange machen."
+432,"00:30:39,320","00:30:42,000",1839.32,1842.0,2.6800000000000637,Manche Juristen behaupten das Gegenteil.
+433,"00:30:42,760","00:30:45,840",1842.76,1845.84,3.0799999999999272,Der ehemalige Präsident des Verfassungsgerichts
+434,"00:30:46,640","00:30:49,200",1846.64,1849.2,2.5599999999999454,und viele andere renommierte Leute.
+435,"00:30:50,240","00:30:54,400",1850.24,1854.4,4.160000000000082,"Jeder, der zu uns kommt, war schon in einem sicheren EU-Land."
+436,"00:31:00,920","00:31:02,840",1860.92,1862.84,1.9199999999998454,"Das Allerbeste wäre,"
+437,"00:31:03,560","00:31:06,560",1863.56,1866.56,3.0,wenn alle europäischen Systeme funktionieren.
+438,"00:31:08,280","00:31:10,800",1868.28,1870.8,2.519999999999982,"Die Leute kommen, werden registriert."
+439,"00:31:12,160","00:31:15,720",1872.16,1875.72,3.5599999999999454,"Eine halbe Million, 700.000, sind im vergangenen Jahr"
+440,"00:31:15,800","00:31:19,720",1875.8,1879.72,3.9200000000000728,irgendwo in Europa aufgetaucht und waren nicht registriert.
+441,"00:31:19,800","00:31:21,320",1879.8,1881.32,1.5199999999999818,Schon beim Reinkommen
+442,"00:31:21,400","00:31:24,120",1881.4,1884.12,2.7199999999998,funktionieren europäische Regeln nicht.
+443,"00:31:25,200","00:31:29,080",1885.2,1889.08,3.8799999999998818,"Verfahren müssen da stattfinden, wo jemand registriert wurde."
+444,"00:31:30,040","00:31:35,120",1890.04,1895.12,5.079999999999927,"Wenn wir von Kriminalität sprechen, Aschaffenburg, Solingen."
+445,"00:31:36,240","00:31:37,560",1896.24,1897.56,1.3199999999999363,"Das sind Menschen,"
+446,"00:31:37,640","00:31:41,480",1897.64,1901.48,3.839999999999918,die in Deutschland das Verfahren nicht hätten abwarten durften.
+447,"00:31:41,560","00:31:44,080",1901.56,1904.08,2.519999999999982,Die müssten in ein anderes Land zurück.
+448,"00:31:44,160","00:31:46,160",1904.16,1906.16,2.0,Auch das funktioniert nicht.
+449,"00:31:46,760","00:31:49,360",1906.76,1909.36,2.599999999999909,Dürfen wir auch dysfunktional sein?
+450,"00:31:51,480","00:31:55,800",1911.48,1915.8,4.319999999999936,Das ist die Grundlage für die eben genannten klugen Juristen zu sagen:
+451,"00:31:55,880","00:31:59,800",1915.88,1919.8,3.9199999999998454,"Wenn die rechtlichen Regelungen in Europa nicht funktionieren,"
+452,"00:31:59,880","00:32:01,880",1919.88,1921.88,2.0,dann gilt deutsches Recht.
+453,"00:32:02,240","00:32:05,080",1922.24,1925.08,2.839999999999918,"Dann muss man zurückweisen, das sagen die."
+454,"00:32:08,080","00:32:10,120",1928.08,1930.12,2.0399999999999636,"Zumindest sagen die meisten,"
+455,"00:32:10,200","00:32:13,520",1930.2,1933.52,3.3199999999999363,"es könnte schwierig werden, das Europarecht."
+456,"00:32:18,080","00:32:20,120",1938.08,1940.12,2.0399999999999636,Der entscheidende Punkt ist:
+457,"00:32:20,200","00:32:23,240",1940.2,1943.24,3.0399999999999636,"Viele unserer Nachbarländer sind in der Falle,"
+458,"00:32:24,480","00:32:27,920",1944.48,1947.92,3.4400000000000546,"sie sagen, an manchen Dingen kann man nichts ändern."
+459,"00:32:28,240","00:32:30,480",1948.24,1950.48,2.240000000000009,Denn Europa versperrt es uns.
+460,"00:32:31,240","00:32:33,920",1951.24,1953.92,2.6800000000000637,"Ich glaube, dass Europa die Lösung ist."
+461,"00:32:34,000","00:32:36,360",1954.0,1956.36,2.3599999999999,Für alle diese großen Probleme.
+462,"00:32:38,600","00:32:42,280",1958.6,1962.28,3.6800000000000637,Und aus dem Migrationsthema etwas Vernünftiges zu machen.
+463,"00:32:42,480","00:32:46,240",1962.48,1966.24,3.759999999999991,Auch solche Dinge wie die Sache mit dem jungen Mann aus Benin
+464,"00:32:46,320","00:32:49,320",1966.32,1969.32,3.0,"entspannter zu lösen, da bin ich schnell dabei."
+465,"00:32:51,640","00:32:53,040",1971.64,1973.04,1.3999999999998636,Aber was passiert?
+466,"00:32:53,920","00:32:56,520",1973.92,1976.52,2.599999999999909,"Wir sagen, das geht europarechtlich nicht."
+467,"00:32:56,600","00:32:59,200",1976.6,1979.2,2.6000000000001364,Und dann kommen sofort die Populisten.
+468,"00:32:59,720","00:33:02,120",1979.72,1982.12,2.3999999999998636,Und die attackieren dann Europa.
+469,"00:33:05,720","00:33:07,720",1985.72,1987.72,2.0,Und ich möchte nicht dahin.
+470,"00:33:08,400","00:33:11,520",1988.4,1991.52,3.119999999999891,Wir müssen unsere Dinge wieder in Ordnung bringen.
+471,"00:33:11,600","00:33:12,840",1991.6,1992.84,1.240000000000009,Beim Reinkommen.
+472,"00:33:14,720","00:33:18,120",1994.72,1998.12,3.3999999999998636,"Jeder in meiner Partei würde sagen, das Beste wäre,"
+473,"00:33:18,360","00:33:20,760",1998.36,2000.76,2.400000000000091,die Außengrenzen wären geschützt.
+474,"00:33:21,200","00:33:24,400",2001.2,2004.4,3.2000000000000455,Keiner will dauerhaft Grenzschutz an den Grenzen.
+475,"00:33:26,160","00:33:28,720",2006.16,2008.72,2.5599999999999454,Aber was ist die Alternative?
+476,"00:33:31,680","00:33:33,840",2011.68,2013.84,2.1599999999998545,Friedrich Merz hat das gefordert.
+477,"00:33:33,920","00:33:36,640",2013.92,2016.64,2.7200000000000273,"Ist das der Anfang vom Ende von Europa,"
+478,"00:33:36,800","00:33:39,280",2016.8,2019.28,2.480000000000018,wenn jedes Land ein bisschen zumacht?
+479,"00:33:43,200","00:33:44,560",2023.2,2024.56,1.3599999999999,Eins vorweg.
+480,"00:33:46,360","00:33:47,840",2026.36,2027.84,1.4800000000000182,Es klingt oft so:
+481,"00:33:50,800","00:33:54,760",2030.8,2034.76,3.9600000000000364,"""Die Paragrafen aus Brüssel, wir sind ein souveräner Staat."""
+482,"00:33:55,240","00:33:58,360",2035.24,2038.36,3.119999999999891,Warum hat Merkel die Grenze nicht zugemacht?
+483,"00:33:59,080","00:34:01,440",2039.08,2041.44,2.3600000000001273,Sie hatte nicht Angst vor Urteilen.
+484,"00:34:02,040","00:34:04,640",2042.04,2044.64,2.6000000000001364,"Sie hat gesagt, das geht praktisch nicht."
+485,"00:34:05,040","00:34:07,600",2045.04,2047.6,2.5599999999999454,Deutschland hat 4000 Kilometer Grenze.
+486,"00:34:08,760","00:34:11,880",2048.76,2051.88,3.119999999999891,"Da muss man sehr, sehr viele Beamte abstellen."
+487,"00:34:14,520","00:34:16,080",2054.52,2056.08,1.5599999999999454,Man kann das nicht.
+488,"00:34:16,160","00:34:18,840",2056.16,2058.84,2.680000000000291,Es kommen Menschen über die grüne Grenze.
+489,"00:34:22,040","00:34:24,880",2062.04,2064.88,2.8400000000001455,Wenn man eine große Ankündigung macht ...
+490,"00:34:25,160","00:34:27,280",2065.16,2067.28,2.1200000000003456,"Friedrich Merz verspricht das,"
+491,"00:34:27,360","00:34:31,320",2067.36,2071.32,3.9600000000000364,"und dann stellt man fest, es kommen immer noch Menschen rein."
+492,"00:34:32,200","00:34:35,600",2072.2,2075.6,3.400000000000091,"Merkel war weitsichtig, das Risiko nicht einzugehen."
+493,"00:34:35,840","00:34:37,720",2075.84,2077.72,1.8799999999996544,Ich erkläre es juristisch.
+494,"00:34:38,760","00:34:42,560",2078.76,2082.56,3.799999999999727,"Die Theorie ist, um uns herum haben wir lauter Rechtsstaaten,"
+495,"00:34:42,640","00:34:44,440",2082.64,2084.44,1.800000000000182,und da kann man abschieben.
+496,"00:34:44,520","00:34:47,040",2084.52,2087.04,2.519999999999982,"Die Praxis ist aber, so ist das nicht."
+497,"00:34:48,680","00:34:50,640",2088.68,2090.64,1.9600000000000364,"In Bulgarien gibt es Fälle,"
+498,"00:34:51,080","00:34:54,160",2091.08,2094.16,3.0799999999999272,da wurden Flüchtlinge in Gefängnissen gefoltert.
+499,"00:34:54,240","00:34:57,960",2094.24,2097.96,3.7200000000002547,In Italien wurden Familien in die Obdachlosigkeit gestoßen.
+500,"00:34:58,240","00:35:02,800",2098.24,2102.8,4.5600000000004,"Wenn ein Flüchtlinge ankommt und nicht nach Bulgarien will,"
+501,"00:35:04,080","00:35:07,920",2104.08,2107.92,3.8400000000001455,"ist nicht gesagt, dass die Diskussion nicht geführt wird."
+502,"00:35:10,280","00:35:12,520",2110.28,2112.52,2.2399999999997817,Nur das verlangt Europa-Recht.
+503,"00:35:14,640","00:35:17,640",2114.64,2117.64,3.0,Das soll nicht Monate oder Jahre dauern.
+504,"00:35:18,880","00:35:21,920",2118.88,2121.92,3.0399999999999636,Aber die Diskussion muss man führen.
+505,"00:35:23,680","00:35:26,480",2123.68,2126.48,2.800000000000182,"Wenn Friedrich Merz sagt: ""keine Diskussion"","
+506,"00:35:26,560","00:35:28,440",2126.56,2128.44,1.8800000000001091,das geht ganz klar nicht.
+507,"00:35:28,800","00:35:31,560",2128.8,2131.56,2.7599999999997635,Und das sagen alle europäischen Juristen.
+508,"00:35:31,840","00:35:33,800",2131.84,2133.8,1.9600000000000364,Und die europäischen Rechte.
+509,"00:35:34,400","00:35:38,360",2134.4,2138.36,3.9600000000000364,"Stimmen Sie zu, dass Europarecht über deutschem Recht steht?"
+510,"00:35:41,520","00:35:43,960",2141.52,2143.96,2.4400000000000546,Man muss nach Skandinavien schauen.
+511,"00:35:44,200","00:35:47,360",2144.2,2147.36,3.1600000000003092,"Dänemark, Schweden, tolle europäische Länder."
+512,"00:35:48,160","00:35:50,520",2148.16,2150.52,2.3600000000001273,Da haben wir eine andere Haltung.
+513,"00:35:50,840","00:35:53,320",2150.84,2153.32,2.480000000000018,Auch auf Seiten der Sozialdemokratie.
+514,"00:35:53,560","00:35:56,480",2153.56,2156.48,2.9200000000000728,Dänemark ist im europäischen Asyl nicht dabei.
+515,"00:35:56,560","00:35:57,960",2156.56,2157.96,1.400000000000091,Schweden ist dabei.
+516,"00:35:58,200","00:36:00,560",2158.2,2160.56,2.3600000000001273,Die kommen zu ganz anderen Zahlen.
+517,"00:36:01,240","00:36:04,000",2161.24,2164.0,2.7600000000002183,"Europa insgesamt als Rechtsstaat,"
+518,"00:36:04,680","00:36:08,520",2164.68,2168.52,3.8400000000001455,man kann die Situation nicht einfach so belassen.
+519,"00:36:11,520","00:36:14,400",2171.52,2174.4,2.880000000000109,"Ich bin froh, dass die jetzige Regierung"
+520,"00:36:14,760","00:36:16,960",2174.76,2176.96,2.199999999999818,schon Schritte unternommen hat.
+521,"00:36:18,000","00:36:19,880",2178.0,2179.88,1.8800000000001091,Die Zahlen verändern sich.
+522,"00:36:21,040","00:36:25,400",2181.04,2185.4,4.360000000000127,Ich bin kein Fan der Verherrlichung der Politik von Angela Merkel.
+523,"00:36:25,880","00:36:27,800",2185.88,2187.8,1.9200000000000728,Es war nicht alles toll.
+524,"00:36:29,560","00:36:32,240",2189.56,2192.24,2.6799999999998363,Manches war in der Not nachvollziehbar.
+525,"00:36:32,320","00:36:35,120",2192.32,2195.12,2.799999999999727,"Aber es war nicht richtig, alles zu öffnen."
+526,"00:36:35,960","00:36:39,520",2195.96,2199.52,3.5599999999999454,"Das sind Zahlen, was Abschiebungen angeht ..."
+527,"00:36:41,360","00:36:43,520",2201.36,2203.52,2.1599999999998545,Jetzt gibt es meines Erachtens
+528,"00:36:43,600","00:36:46,640",2203.6,2206.64,3.0399999999999636,ein Umdenken in der gesamten deutschen Politik.
+529,"00:36:46,880","00:36:49,440",2206.88,2209.44,2.5599999999999454,Und das halte ich für sehr wichtig.
+530,"00:36:49,800","00:36:52,280",2209.8,2212.28,2.480000000000018,"Und Familiennachzug, Obdachlosigkeit:"
+531,"00:36:52,640","00:36:55,480",2212.64,2215.48,2.8400000000001455,Da brauchen Sie nur nach Fürth gehen.
+532,"00:36:55,840","00:36:58,440",2215.84,2218.44,2.599999999999909,Wir haben ein neues Obdachlosenheim.
+533,"00:36:59,560","00:37:01,520",2219.56,2221.52,1.9600000000000364,Das kostete 10 Millionen.
+534,"00:37:01,960","00:37:04,360",2221.96,2224.36,2.400000000000091,Es war geplant für zehn Jahre.
+535,"00:37:06,400","00:37:08,920",2226.4,2228.92,2.519999999999982,"Meine Sozialamtsleiterin meldet mir,"
+536,"00:37:09,000","00:37:12,400",2229.0,2232.4,3.400000000000091,jeden Monat kommt ein Familiennachzug nach Fürth.
+537,"00:37:13,040","00:37:15,240",2233.04,2235.24,2.199999999999818,Klingt erst mal nicht schlimm.
+538,"00:37:16,600","00:37:18,840",2236.6,2238.84,2.2400000000002365,Jetzt ist ein Mann in einer WG.
+539,"00:37:19,400","00:37:23,600",2239.4,2243.6,4.199999999999818,"Der darf jetzt ohne Einkommen, ohne Nachweis der Wohnung,"
+540,"00:37:25,440","00:37:27,560",2245.44,2247.56,2.119999999999891,seine Familie nachziehen lassen.
+541,"00:37:28,000","00:37:30,760",2248.0,2250.76,2.7600000000002183,Im Regelfall sind das sieben bis zehn Leute.
+542,"00:37:30,840","00:37:33,040",2250.84,2253.04,2.199999999999818,Für die hat er keine Wohnung.
+543,"00:37:33,280","00:37:36,320",2253.28,2256.32,3.0399999999999636,Und die landen direkt in der Obdachlosigkeit.
+544,"00:37:38,600","00:37:40,400",2258.6,2260.4,1.800000000000182,Mir tun die Kinder leid.
+545,"00:37:41,040","00:37:43,160",2261.04,2263.16,2.119999999999891,Das System ist unerträglich.
+546,"00:37:43,800","00:37:46,120",2263.8,2266.12,2.319999999999709,Da meine ich den Familiennachzug.
+547,"00:37:46,880","00:37:50,240",2266.88,2270.24,3.3599999999996726,"Mein Ministerium hat gesagt, das ist Europarecht."
+548,"00:37:50,960","00:37:54,440",2270.96,2274.44,3.480000000000018,Dann ist an dieser Stelle auch Europarecht schlecht.
+549,"00:37:57,960","00:38:01,520",2277.96,2281.52,3.5599999999999454,Wir dürfen Menschen nicht in die Obdachlosigkeit holen.
+550,"00:38:01,840","00:38:06,000",2281.84,2286.0,4.1599999999998545,"Frau Vu, verstehen Sie, dass Verantwortliche wie Herr Jung sagen:"
+551,"00:38:06,080","00:38:07,840",2286.08,2287.84,1.7600000000002183,"Es geht nicht mehr anders,"
+552,"00:38:07,920","00:38:12,080",2287.92,2292.08,4.1599999999998545,als möglichst wenige Menschen zusätzlich ins Land zu lassen?
+553,"00:38:13,760","00:38:15,800",2293.76,2295.8,2.0399999999999636,Ich verstehe das Argument.
+554,"00:38:16,920","00:38:19,440",2296.92,2299.44,2.519999999999982,Wir haben Kapazitätsgrenzen erreicht.
+555,"00:38:20,240","00:38:23,760",2300.24,2303.76,3.5200000000004366,"Man muss auf lokaler Ebene gucken, was man machen kann."
+556,"00:38:23,840","00:38:27,360",2303.84,2307.36,3.519999999999982,"Aber wenn man in der psychosozialen Betreuung schaut,"
+557,"00:38:27,720","00:38:30,080",2307.72,2310.08,2.3600000000001273,dafür sind keine Kapazitäten da?
+558,"00:38:30,160","00:38:31,760",2310.16,2311.76,1.6000000000003638,Da sind dann keine da.
+559,"00:38:31,840","00:38:35,320",2311.84,2315.32,3.480000000000018,Bei der Kontrolle sind plötzlich Kapazitäten dar.
+560,"00:38:36,200","00:38:38,400",2316.2,2318.4,2.200000000000273,Das kostet sehr viel Geld.
+561,"00:38:42,880","00:38:46,440",2322.88,2326.44,3.5599999999999454,"Politisch ist entschieden, dass es gewissen Menschen"
+562,"00:38:46,680","00:38:49,040",2326.68,2329.04,2.3600000000001273,hier im Land sehr schlecht geht.
+563,"00:38:49,120","00:38:51,560",2329.12,2331.56,2.4400000000000546,Dass sie schwer in Arbeit kommen.
+564,"00:38:52,520","00:38:55,600",2332.52,2335.6,3.0799999999999272,Statt punktuell an den Problemen anzusetzen:
+565,"00:38:56,720","00:39:00,960",2336.72,2340.96,4.2400000000002365,Die Straftäter waren bekannte psychisch erkrankte Menschen.
+566,"00:39:02,480","00:39:04,800",2342.48,2344.8,2.3200000000001637,Die waren eine Gefahr für andere.
+567,"00:39:05,400","00:39:08,600",2345.4,2348.6,3.199999999999818,Natürlich gilt das nicht für psychisch Kranken.
+568,"00:39:09,920","00:39:13,280",2349.92,2353.28,3.3600000000001273,Aber man kann hier punktuell ansetzen und etwas tun.
+569,"00:39:13,360","00:39:17,560",2353.36,2357.56,4.199999999999818,Stattdessen sprechen wir von Grenzkontrollen in ganz Deutschland.
+570,"00:39:17,720","00:39:21,760",2357.72,2361.76,4.040000000000418,"Hunderttausende werden abgewiesen, die selber vor Gewalt flohen."
+571,"00:39:23,240","00:39:26,800",2363.24,2366.8,3.5600000000004,"Die wenigsten kommen, um den Sozialstaat auszunutzen."
+572,"00:39:27,800","00:39:30,680",2367.8,2370.68,2.8799999999996544,Das geht am eigentlichen Problem vorbei.
+573,"00:39:31,080","00:39:34,240",2371.08,2374.24,3.1599999999998545,Das verstört mich am meisten an der Debatte.
+574,"00:39:35,760","00:39:38,400",2375.76,2378.4,2.6399999999998727,"Was haben die Menschen, die Asyl suchen,"
+575,"00:39:38,480","00:39:40,720",2378.48,2380.72,2.2399999999997817,mit diesem Messerstecher zu tun?
+576,"00:39:41,040","00:39:44,880",2381.04,2384.88,3.8400000000001455,Wir sollten jetzt nicht über das ganze Phänomen sprechen.
+577,"00:39:48,680","00:39:51,240",2388.68,2391.24,2.5599999999999454,Aber was hätte diese Taten verhindert?
+578,"00:39:52,960","00:39:55,840",2392.96,2395.84,2.880000000000109,Wir kommen zur nächsten Forderung der Union.
+579,"00:39:55,920","00:39:59,080",2395.92,2399.08,3.1599999999998545,Eine schnellere und effektivere Abschiebung.
+580,"00:39:59,840","00:40:01,680",2399.84,2401.68,1.8399999999996908,Mehr Abschiebungen.
+581,"00:40:02,400","00:40:05,240",2402.4,2405.24,2.8399999999996908,Sowohl in Solingen als auch in Aschaffenburg
+582,"00:40:05,320","00:40:08,520",2405.32,2408.52,3.199999999999818,waren die beiden mutmaßlichen Täter ausreisepflichtig.
+583,"00:40:08,600","00:40:11,320",2408.6,2411.32,2.7200000000002547,Die Behörden hatten sie nicht auf dem Schirm.
+584,"00:40:11,400","00:40:13,960",2411.4,2413.96,2.5599999999999454,Womöglich die Gefahr nicht erkannt.
+585,"00:40:15,480","00:40:18,520",2415.48,2418.52,3.0399999999999636,"Wir gucken uns an, was die Union sich vorstellt."
+586,"00:40:19,400","00:40:20,800",2419.4,2420.8,1.400000000000091,Carsten Linnemann.
+587,"00:40:23,800","00:40:28,040",2423.8,2428.04,4.239999999999782,"Der sagt uns, welche Straftaten zur Abschiebung führen sollten."
+588,"00:40:30,680","00:40:34,560",2430.68,2434.56,3.880000000000109,"Wenn jemand hier verurteilt wird, etwa zu einer Freiheitsstrafe,"
+589,"00:40:34,640","00:40:37,880",2434.64,2437.88,3.2400000000002365,"selbst wenn sie auf Bewährung ist, dann ist der raus."
+590,"00:40:37,960","00:40:40,200",2437.96,2440.2,2.2399999999997817,Dann hat der sein Gastrecht verwirkt.
+591,"00:40:40,280","00:40:44,440",2440.28,2444.44,4.1599999999998545,"Und auch bei kleinen Straftaten, Schwarzfahren, Diebstähle, kleinere:"
+592,"00:40:44,520","00:40:47,520",2444.52,2447.52,3.0,"Das sind alles Delikte, das sind alles Straftaten."
+593,"00:40:47,600","00:40:51,720",2447.6,2451.72,4.119999999999891,"Nach einem Warnschuss, den es für die Verhältnismäßigkeit braucht,"
+594,"00:40:51,800","00:40:55,720",2451.8,2455.72,3.919999999999618,"finde ich, muss derjenige beim zweiten Mal sein Land verlassen."
+595,"00:40:55,800","00:40:58,040",2455.8,2458.04,2.2399999999997817,Das wäre in diesem Fall Deutschland.
+596,"00:41:00,760","00:41:03,880",2460.76,2463.88,3.119999999999891,"Herr Wüst, wir wollen das besser verstehen:"
+597,"00:41:05,400","00:41:08,840",2465.4,2468.84,3.4400000000000546,Welche Straftat würde eine Abschiebung rechtfertigen?
+598,"00:41:10,040","00:41:12,960",2470.04,2472.96,2.9200000000000728,"Ich finde, zwei Straftaten ist nicht nichts."
+599,"00:41:13,520","00:41:15,760",2473.52,2475.76,2.2400000000002365,"Schwarzfahren, Kleinstdelikte?"
+600,"00:41:16,920","00:41:19,000",2476.92,2479.0,2.0799999999999272,Straftaten sind Straftaten.
+601,"00:41:20,080","00:41:23,240",2480.08,2483.24,3.1599999999998545,Man muss die Verhältnismäßigkeit prüfen.
+602,"00:41:25,800","00:41:28,720",2485.8,2488.72,2.919999999999618,"Die Frage ist, wohin schickt man ihn zurück."
+603,"00:41:28,960","00:41:31,560",2488.96,2491.56,2.599999999999909,"In ein Land, wo er nicht sicher ist."
+604,"00:41:32,480","00:41:36,080",2492.48,2496.08,3.599999999999909,Der Staat muss sich an seinen Regeln messen lassen.
+605,"00:41:36,280","00:41:38,760",2496.28,2498.76,2.480000000000018,Dazu gehört auch Verhältnismäßigkeit.
+606,"00:41:39,320","00:41:43,840",2499.32,2503.84,4.519999999999982,Als Länder und Kommunen bekommen wir kluge Ratschläge aus Berlin.
+607,"00:41:45,440","00:41:48,120",2505.44,2508.12,2.6799999999998363,"Ihr hättet den auf dem Schirm haben müssen,"
+608,"00:41:48,200","00:41:50,440",2508.2,2510.44,2.2400000000002365,ihr hättet den abschieben müssen.
+609,"00:41:50,520","00:41:52,920",2510.52,2512.92,2.400000000000091,Aber die Realität ist noch anders.
+610,"00:41:53,200","00:41:55,960",2513.2,2515.96,2.7600000000002183,Die Verfahren sind sehr kompliziert.
+611,"00:41:58,400","00:42:01,280",2518.4,2521.28,2.880000000000109,Das alles grenzt nahezu an Unmöglichkeit.
+612,"00:42:02,320","00:42:05,600",2522.32,2525.6,3.2799999999997453,Das ist alles für viel kleinere Fallzahlen gemacht.
+613,"00:42:05,840","00:42:08,920",2525.84,2528.92,3.0799999999999272,Im Moment geht es um schwere Delikte.
+614,"00:42:09,440","00:42:11,960",2529.44,2531.96,2.519999999999982,"Wenn ich Ihnen und Herrn Lindemann folge,"
+615,"00:42:12,040","00:42:15,320",2532.04,2535.32,3.2800000000002,dann geht es demnächst auch um kleinere Delikte.
+616,"00:42:19,160","00:42:20,920",2539.16,2540.92,1.7600000000002183,Ich gebe Ihnen Recht.
+617,"00:42:23,120","00:42:25,040",2543.12,2545.04,1.9200000000000728,Es kommen zu viele Leute.
+618,"00:42:25,240","00:42:28,440",2545.24,2548.44,3.200000000000273,Es braucht eine bessere Verteilung in Europa.
+619,"00:42:30,440","00:42:33,360",2550.44,2553.36,2.9200000000000728,Braucht es mehr Druck auf Länder wie Ungarn?
+620,"00:42:33,840","00:42:36,320",2553.84,2556.32,2.480000000000018,"Ja, europäischen Druck, Sanktionen."
+621,"00:42:36,840","00:42:39,920",2556.84,2559.92,3.0799999999999272,Aber sollen wir unsere Wut über diese Missstände
+622,"00:42:40,000","00:42:42,440",2560.0,2562.44,2.4400000000000546,"abreagieren an einzelnen Personen,"
+623,"00:42:42,520","00:42:45,520",2562.52,2565.52,3.0,ankommenden Ausländern von Krieg und Elend?
+624,"00:42:49,240","00:42:52,000",2569.24,2572.0,2.7600000000002183,Ich halte das für die falsche Reaktion.
+625,"00:42:53,360","00:42:56,840",2573.36,2576.84,3.480000000000018,Niemand reagiert seine Wut an einzelnen Menschen ab.
+626,"00:42:57,280","00:43:01,600",2577.28,2581.6,4.319999999999709,"Wie kommen wir in Europa dazu, dass alle sich an die Regeln halten?"
+627,"00:43:04,640","00:43:07,640",2584.64,2587.64,3.0,"Je länger man zurückschaut, dann sieht man,"
+628,"00:43:07,720","00:43:11,200",2587.72,2591.2,3.480000000000018,"ja, wir waren auch nicht bereit, Quoten anzunehmen."
+629,"00:43:15,560","00:43:19,120",2595.56,2599.12,3.5599999999999454,"Je genauer man reinschaut, umso mehr Belege findet man"
+630,"00:43:19,200","00:43:22,040",2599.2,2602.04,2.8400000000001455,für die eine und auch für die andere These.
+631,"00:43:22,120","00:43:24,800",2602.12,2604.8,2.680000000000291,Wir sind in Europa keine Musterknaben.
+632,"00:43:28,800","00:43:33,080",2608.8,2613.08,4.279999999999745,"Das Beste wäre, wir würden alle nach europäischen Regeln spielen."
+633,"00:43:33,160","00:43:34,960",2613.16,2614.96,1.800000000000182,"Aber so lange wir zulassen,"
+634,"00:43:35,040","00:43:37,760",2615.04,2617.76,2.7200000000002547,"dass andere sich nicht an die Regeln halten,"
+635,"00:43:37,840","00:43:40,200",2617.84,2620.2,2.3599999999996726,dann werden wir nicht dahin kommen.
+636,"00:43:40,280","00:43:43,760",2620.28,2623.76,3.480000000000018,"Und dann debattieren wir darüber, wie wir dahin kommen,"
+637,"00:43:43,840","00:43:46,200",2623.84,2626.2,2.3599999999996726,dass weniger Menschen reinkommen.
+638,"00:43:46,720","00:43:49,560",2626.72,2629.56,2.8400000000001455,"Eine Antwort wäre, sie zurückzuweisen."
+639,"00:43:50,040","00:43:53,000",2630.04,2633.0,2.9600000000000364,"Eine andere Antwort wäre, sie abzuschieben."
+640,"00:43:55,280","00:43:56,800",2635.28,2636.8,1.5199999999999818,Gilt das für alle?
+641,"00:43:58,440","00:44:00,800",2638.44,2640.8,2.3600000000001273,Oder wer zweimal schwarzfährt?
+642,"00:44:04,080","00:44:07,560",2644.08,2647.56,3.480000000000018,"Wer das Land verlassen muss, muss das Land verlassen."
+643,"00:44:07,840","00:44:10,040",2647.84,2650.04,2.199999999999818,Gilt das auch für Asylbewerber?
+644,"00:44:11,280","00:44:15,120",2651.28,2655.12,3.8399999999996908,"Was spricht dagegen zu verlangen, sich ans Recht zu halten?"
+645,"00:44:15,320","00:44:17,000",2655.32,2657.0,1.6799999999998363,Herr Oberbürgermeister?
+646,"00:44:18,840","00:44:22,640",2658.84,2662.64,3.799999999999727,Der Verhältnismäßigkeitsgrundsatz muss gelten.
+647,"00:44:25,480","00:44:28,200",2665.48,2668.2,2.7199999999998,Es ist für mich das falsche Beispiel.
+648,"00:44:30,480","00:44:33,360",2670.48,2673.36,2.880000000000109,Ein anderes Beispiel ist sieben Jahre her.
+649,"00:44:34,080","00:44:38,360",2674.08,2678.36,4.2800000000002,Eigentlich hatten wir ein wunderbares Zusammenleben.
+650,"00:44:42,200","00:44:45,800",2682.2,2685.8,3.600000000000364,Trotz hoher Migrationshintergrund tolle Geschichten.
+651,"00:44:47,280","00:44:50,680",2687.28,2690.68,3.399999999999636,Vor sieben Jahren gab es eine brutale Vergewaltigung.
+652,"00:44:50,760","00:44:54,240",2690.76,2694.24,3.4799999999995634,"Ein junger türkischer Mitbürger, ausreisepflichtig."
+653,"00:44:56,960","00:45:00,440",2696.96,2700.44,3.480000000000018,Der vor dem Konsulat eine Unterschrift nicht leisten.
+654,"00:45:00,760","00:45:03,200",2700.76,2703.2,2.4399999999996,Die Sanktion war: Arbeitsverbot.
+655,"00:45:04,560","00:45:05,920",2704.56,2705.92,1.3600000000001273,Das ist lächerlich.
+656,"00:45:06,360","00:45:08,800",2706.36,2708.8,2.4400000000000546,Der Staat macht sich lächerlich.
+657,"00:45:10,320","00:45:13,640",2710.32,2713.64,3.319999999999709,"Ich wurde angegriffen, ich sei ein Rassist."
+658,"00:45:16,160","00:45:18,360",2716.16,2718.36,2.200000000000273,Nicht alle sind Menschen ...
+659,"00:45:21,480","00:45:24,720",2721.48,2724.72,3.2399999999997817,"Wir reden über die Täter, wie schlimm die sind."
+660,"00:45:27,760","00:45:30,800",2727.76,2730.8,3.0399999999999636,Der Vergewaltiger wurde in Fürth geboren.
+661,"00:45:35,560","00:45:37,920",2735.56,2737.92,2.3600000000001273,Er hatte einen türkischen Pass.
+662,"00:45:42,000","00:45:45,480",2742.0,2745.48,3.480000000000018,Man darf das nicht zählen als zugewanderte Kriminalität.
+663,"00:45:50,000","00:45:54,360",2750.0,2754.36,4.360000000000127,"Wie beurteilen Sie, wenn es für kleinere Delikte gelten soll?"
+664,"00:46:00,200","00:46:04,520",2760.2,2764.52,4.320000000000164,"Ich finde die Debatten angesichts dessen, was los ist, kleinlich."
+665,"00:46:07,680","00:46:12,720",2767.68,2772.72,5.039999999999964,In Deutschland brauchen wir Menschen angesichts des Arbeitskräftemangels.
+666,"00:46:15,120","00:46:17,480",2775.12,2777.48,2.3600000000001273,Menschen müssen zu uns kommen.
+667,"00:46:18,120","00:46:20,840",2778.12,2780.84,2.7200000000002547,Aber wir sprechen über kleinste Delikte.
+668,"00:46:21,600","00:46:24,520",2781.6,2784.52,2.9200000000000728,Wir müssten über die größeren Versagen sprechen.
+669,"00:46:24,600","00:46:27,120",2784.6,2787.12,2.519999999999982,"Warum hat es die Ampel nicht geschafft,"
+670,"00:46:27,200","00:46:30,040",2787.2,2790.04,2.8400000000001455,400.000 Leute pro Jahr ins Land zu bringen?
+671,"00:46:30,120","00:46:33,400",2790.12,2793.4,3.2800000000002,Damit wir unser Arbeitskräfte-Niveau halten.
+672,"00:46:36,560","00:46:38,720",2796.56,2798.72,2.1599999999998545,Wir schaffen so vieles nicht.
+673,"00:46:38,920","00:46:42,160",2798.92,2802.16,3.2399999999997817,Das müsste die Fragen in der Migrationspolitik sein.
+674,"00:46:42,240","00:46:45,200",2802.24,2805.2,2.9600000000000364,Stattdessen sprechen wir über Schwarzfahrten.
+675,"00:46:45,280","00:46:47,520",2805.28,2807.52,2.2399999999997817,"Davon, dass das Boot voll sei."
+676,"00:46:54,920","00:46:57,640",2814.92,2817.64,2.7199999999998,Der Großteil der Menschen bringt sich ein.
+677,"00:46:59,160","00:47:02,520",2819.16,2822.52,3.3600000000001273,Mich sprechen viele Migrantenfamilien an.
+678,"00:47:04,480","00:47:06,960",2824.48,2826.96,2.480000000000018,Auch nach dem Fall in Aschaffenburg.
+679,"00:47:07,480","00:47:10,320",2827.48,2830.32,2.8400000000001455,Da wird eine drastische Sprache gesprochen.
+680,"00:47:10,400","00:47:13,120",2830.4,2833.12,2.7199999999998,Eine hochgebildete Mutter fragt mich:
+681,"00:47:13,480","00:47:15,640",2833.48,2835.64,2.1599999999998545,Was ist das für ein Staat?
+682,"00:47:17,160","00:47:19,320",2837.16,2839.32,2.1600000000003092,So einer gehört hingerichtet.
+683,"00:47:20,120","00:47:22,200",2840.12,2842.2,2.0799999999999272,Meine Meinung ist das nicht.
+684,"00:47:22,840","00:47:26,320",2842.84,2846.32,3.480000000000018,Auch in Migranten-Kreisen ist die Empörung riesengroß.
+685,"00:47:28,440","00:47:31,280",2848.44,2851.28,2.8400000000001455,Das ist kein abgehobenes Politik-Thema.
+686,"00:47:32,400","00:47:35,320",2852.4,2855.32,2.9200000000000728,Ich bekomme jeden Tag viele Mails.
+687,"00:47:39,160","00:47:44,000",2859.16,2864.0,4.8400000000001455,"Gerade Migranten, die gut integriert sind, fordern auch vom Staat:"
+688,"00:47:49,960","00:47:52,440",2869.96,2872.44,2.480000000000018,Du musst da anders mit umgehen.
+689,"00:47:54,800","00:47:58,600",2874.8,2878.6,3.799999999999727,"Wir haben andere Gesetze, etwa bei Vergewaltigung."
+690,"00:48:01,320","00:48:05,960",2881.32,2885.96,4.639999999999873,"Es gibt Gesetze, viele Menschen bleiben trotz der Regeln da."
+691,"00:48:10,120","00:48:13,680",2890.12,2893.68,3.5599999999999454,"Es geht darum, wie man mit Kriminellen umgeht."
+692,"00:48:17,560","00:48:21,200",2897.56,2901.2,3.6399999999998727,Die Union will auch neue Haftanstalten bauen
+693,"00:48:26,040","00:48:29,080",2906.04,2909.08,3.0399999999999636,"für Menschen, die ausreisepflichtig sind."
+694,"00:48:33,360","00:48:37,080",2913.36,2917.08,3.7199999999998,Die Zahlen liegen bei 40.000 Ausreisepflichtigen.
+695,"00:48:38,560","00:48:41,200",2918.56,2921.2,2.6399999999998727,Wir haben nur 780 Plätze für die.
+696,"00:48:44,240","00:48:46,440",2924.24,2926.44,2.200000000000273,Wie stellen Sie sich das vor?
+697,"00:48:46,680","00:48:49,320",2926.68,2929.32,2.6400000000003274,Wollen Sie überall Haftanstalten bauen?
+698,"00:48:49,400","00:48:52,160",2929.4,2932.16,2.7599999999997635,Damit die Menschen inhaftiert werden?
+699,"00:48:56,960","00:48:59,680",2936.96,2939.68,2.7199999999998,Die Menschen müssen das Land verlassen.
+700,"00:48:59,760","00:49:02,440",2939.76,2942.44,2.6799999999998363,"Sie haben kein Recht mehr, hier zu sein."
+701,"00:49:02,520","00:49:06,000",2942.52,2946.0,3.480000000000018,Sie sind durch alle rechtlichen Instanzen gegangen.
+702,"00:49:07,640","00:49:11,520",2947.64,2951.52,3.880000000000109,"Es wurde geprüft, es gab ein Ergebnis, dagegen wurde geklagt."
+703,"00:49:12,160","00:49:13,720",2952.16,2953.72,1.5599999999999454,Das ist in Ordnung.
+704,"00:49:15,760","00:49:17,160",2955.76,2957.16,1.3999999999996362,Das dauert lange.
+705,"00:49:17,840","00:49:22,040",2957.84,2962.04,4.199999999999818,"Dann gibt es die Formulierung ""vollziehbar ausreisepflichtig""."
+706,"00:49:26,880","00:49:31,040",2966.88,2971.04,4.1599999999998545,"Wenn man das Land verlassen muss, muss man das Land verlassen."
+707,"00:49:33,040","00:49:36,400",2973.04,2976.4,3.3600000000001273,Dafür braucht man keine Abschieben-Haftanstalten.
+708,"00:49:37,800","00:49:41,640",2977.8,2981.64,3.8399999999996908,Unsere erste Haftanstalt ist fast nie voll gewesen.
+709,"00:49:43,320","00:49:46,240",2983.32,2986.24,2.919999999999618,Das ist das Ergebnis nach Solingen gewesen.
+710,"00:49:46,320","00:49:49,280",2986.32,2989.28,2.9600000000000364,"Wir dachten, wir brauchen mehr Kapazitäten."
+711,"00:49:54,040","00:49:56,080",2994.04,2996.08,2.0399999999999636,"Wir fordern im Bundestag,"
+712,"00:49:56,320","00:49:59,360",2996.32,2999.36,3.0399999999999636,dass der Bund auch selbst Kapazitäten schafft.
+713,"00:50:00,560","00:50:04,240",3000.56,3004.24,3.6799999999998363,Eine solche Zahl wird nicht in Haftanstalten landen.
+714,"00:50:08,760","00:50:11,240",3008.76,3011.24,2.4799999999995634,Wer soll denn da drin sitzen?
+715,"00:50:12,240","00:50:14,440",3012.24,3014.44,2.200000000000273,"Was machen Sie mit den Leuten,"
+716,"00:50:14,520","00:50:17,920",3014.52,3017.92,3.400000000000091,deren Heimatländer die Menschen nicht zurücknehmen?
+717,"00:50:20,200","00:50:22,800",3020.2,3022.8,2.600000000000364,Die sind dann nicht ausreisepflichtig.
+718,"00:50:27,000","00:50:29,920",3027.0,3029.92,2.9200000000000728,"Es gibt Forderungen, das steht da so drin."
+719,"00:50:31,920","00:50:34,720",3031.92,3034.72,2.799999999999727,"Wenn das Land einen nicht zurücknimmt,"
+720,"00:50:35,040","00:50:38,160",3035.04,3038.16,3.119999999999891,kann man den Menschen nicht in Haft nehmen.
+721,"00:50:38,440","00:50:41,120",3038.44,3041.12,2.6799999999998363,Das wäre auch nicht verhältnismäßig.
+722,"00:50:41,760","00:50:44,760",3041.76,3044.76,3.0,Aber die Leute müssen das Land verlassen.
+723,"00:50:47,520","00:50:48,720",3047.52,3048.72,1.199999999999818,Das Prinzip ist:
+724,"00:50:48,800","00:50:52,560",3048.8,3052.56,3.7599999999997635,"Drei Türen sind zu, eine ist offen, du kannst nach Hause."
+725,"00:50:56,240","00:51:00,600",3056.24,3060.6,4.360000000000127,"Wenn man keine Papiere kriegt, hat der Mensch ein Problem."
+726,"00:51:04,720","00:51:08,800",3064.72,3068.8,4.080000000000382,Sie picken sich ein kompliziertes Problem heraus.
+727,"00:51:11,720","00:51:15,800",3071.72,3075.8,4.080000000000382,"Wer nicht zurückgehen kann, kann nicht dauerhaft in Haft kommen."
+728,"00:51:17,240","00:51:21,480",3077.24,3081.48,4.2400000000002365,"Aber oft sind Menschen nicht da, wenn Abschiebung stattfinden soll."
+729,"00:51:25,440","00:51:29,240",3085.44,3089.24,3.799999999999727,"Fragen Sie die Menschen, die in Ausländerämtern arbeiten."
+730,"00:51:30,200","00:51:33,760",3090.2,3093.76,3.5600000000004,"Da wird dann gefragt, was in diesem Staat los ist."
+731,"00:51:41,040","00:51:42,600",3101.04,3102.6,1.5599999999999454,"Das Problem zu lösen,"
+732,"00:51:42,680","00:51:46,280",3102.68,3106.28,3.600000000000364,"indem man sagt, dass man das Land verlassen muss,"
+733,"00:51:46,640","00:51:49,520",3106.64,3109.52,2.880000000000109,nach einer schriftlichen Aufforderung ...
+734,"00:51:54,760","00:51:56,800",3114.76,3116.8,2.0399999999999636,Gilt das auch für Familien?
+735,"00:51:57,640","00:52:00,160",3117.64,3120.16,2.519999999999982,Niemand wird Kinder inhaftieren.
+736,"00:52:02,480","00:52:05,680",3122.48,3125.68,3.199999999999818,"Aber unbefristet, wie darf man das verstehen?"
+737,"00:52:08,720","00:52:11,240",3128.72,3131.24,2.519999999999982,"Man muss nicht einen Tag da drin sein,"
+738,"00:52:11,320","00:52:14,600",3131.32,3134.6,3.2799999999997453,"wenn man in das Land geht, in das man gehen muss."
+739,"00:52:17,840","00:52:20,560",3137.84,3140.56,2.7199999999998,Die Formulierungen sind verstörend.
+740,"00:52:22,600","00:52:26,440",3142.6,3146.44,3.8400000000001455,Vietnam hat uns damals nicht wieder aufgenommen.
+741,"00:52:29,280","00:52:31,120",3149.28,3151.12,1.8399999999996908,Es hat sich verzögert.
+742,"00:52:31,720","00:52:34,880",3151.72,3154.88,3.1600000000003092,Dann wurde das Ausländerrecht reformiert.
+743,"00:52:36,480","00:52:40,160",3156.48,3160.16,3.6799999999998363,Wir hätten als Familie wohl in diese Haft gehen müssen.
+744,"00:52:40,680","00:52:43,680",3160.68,3163.68,3.0,"Wenn wir über Schwerstkriminelle sprechen,"
+745,"00:52:44,560","00:52:46,720",3164.56,3166.72,2.1599999999998545,können wir darüber sprechen.
+746,"00:52:52,320","00:52:54,360",3172.32,3174.36,2.0399999999999636,Wir sind extrem flexibel.
+747,"00:52:55,720","00:52:59,120",3175.72,3179.12,3.400000000000091,In den Debatten heißt es: Kinder jetzt doch nicht.
+748,"00:53:00,360","00:53:03,080",3180.36,3183.08,2.7199999999998,Wir sollten diese Box nicht öffnen.
+749,"00:53:07,000","00:53:10,560",3187.0,3190.56,3.5599999999999454,Menschen in knastähnliche Einrichtungen zu stecken.
+750,"00:53:11,800","00:53:14,920",3191.8,3194.92,3.119999999999891,Aber keinen wirklichen Rahmen fest zu stecken.
+751,"00:53:15,520","00:53:17,520",3195.52,3197.52,2.0,Was ist denn die Alternative?
+752,"00:53:17,800","00:53:19,680",3197.8,3199.68,1.8799999999996544,Das Recht zu ignorieren?
+753,"00:53:21,480","00:53:25,680",3201.48,3205.68,4.199999999999818,"Wenn das Gericht dreimal feststellt, er muss ausreisen,"
+754,"00:53:28,800","00:53:32,240",3208.8,3212.24,3.4399999999996,"und wir tun nichts, das kann nicht die Lösung sein."
+755,"00:53:34,040","00:53:36,800",3214.04,3216.8,2.7600000000002183,"Da gibt es politische Entwicklungen,"
+756,"00:53:37,960","00:53:42,360",3217.96,3222.36,4.400000000000091,"die jenseits der Mitte stattfinden, das kann keiner wollen."
+757,"00:53:45,280","00:53:47,360",3225.28,3227.36,2.0799999999999272,Wir müssen die Mitte stärken.
+758,"00:53:47,440","00:53:50,360",3227.44,3230.36,2.9200000000000728,Dann muss das Recht auch für alle gelten.
+759,"00:53:51,600","00:53:55,320",3231.6,3235.32,3.7200000000002547,Dann muss die Ausreisepflicht auch durchgesetzt werden.
+760,"00:53:57,360","00:54:01,120",3237.36,3241.12,3.7599999999997635,Dann ist die Ausreisepflicht irgendwann auch Quatsch.
+761,"00:54:03,120","00:54:06,240",3243.12,3246.24,3.119999999999891,Die Ausreisepflicht fällt ja nicht vom Himmel.
+762,"00:54:06,520","00:54:09,120",3246.52,3249.12,2.599999999999909,"Es gibt den Fall einer Äthiopierin,"
+763,"00:54:10,800","00:54:14,400",3250.8,3254.4,3.599999999999909,die lange in einer Küche eines Altenheims arbeitet.
+764,"00:54:16,680","00:54:19,120",3256.68,3259.12,2.4400000000000546,Sie ist jetzt ausreisepflichtig.
+765,"00:54:19,920","00:54:23,160",3259.92,3263.16,3.2399999999997817,Auch Äthiopien ist schwierig mit den Unterlagen.
+766,"00:54:24,280","00:54:26,880",3264.28,3266.88,2.599999999999909,"Und sie hat Angst, in Haft zu müssen."
+767,"00:54:27,960","00:54:30,080",3267.96,3270.08,2.119999999999891,Ist das eine sinnvolle Idee?
+768,"00:54:31,360","00:54:34,000",3271.36,3274.0,2.6399999999998727,Viele Menschen sind doch hier willkommen.
+769,"00:54:34,080","00:54:35,920",3274.08,3275.92,1.8400000000001455,Da sollten wir entspannen.
+770,"00:54:36,000","00:54:38,720",3276.0,3278.72,2.7199999999998,Viele Betriebe brauchen diese Menschen.
+771,"00:54:41,200","00:54:46,080",3281.2,3286.08,4.880000000000109,"Die Caritas fragt Sie, Herr Wüst, vergessen Sie das C in der Partei?"
+772,"00:54:49,200","00:54:50,960",3289.2,3290.96,1.7600000000002183,"Nein, das tun wir nicht."
+773,"00:54:54,440","00:54:56,800",3294.44,3296.8,2.3600000000001273,Jeden Monat kommen Menschen.
+774,"00:55:06,040","00:55:10,400",3306.04,3310.4,4.360000000000127,Jeden Tag kommen in NRW knapp 100 Menschen.
+775,"00:55:11,880","00:55:15,480",3311.88,3315.48,3.599999999999909,Etwas weniger als die Hälfte aus der Ukraine.
+776,"00:55:18,080","00:55:21,800",3318.08,3321.8,3.7200000000002547,Etwas mehr als die Hälfte aus aller Herren Länder.
+777,"00:55:23,000","00:55:26,640",3323.0,3326.64,3.6399999999998727,"Solange das nicht aufhört, haben wir Kapazitätsprobleme."
+778,"00:55:26,720","00:55:28,480",3326.72,3328.48,1.7600000000002183,Druck an allen Stellen.
+779,"00:55:29,160","00:55:32,240",3329.16,3332.24,3.0799999999999272,Unsere Systeme funktionieren nicht mehr.
+780,"00:55:34,520","00:55:38,040",3334.52,3338.04,3.519999999999982,Dann ist jemand lange vollziehbar ausreisepflichtig.
+781,"00:55:38,120","00:55:39,640",3338.12,3339.64,1.5199999999999818,In ein Nachbarland.
+782,"00:55:40,720","00:55:42,600",3340.72,3342.6,1.8800000000001091,Und dann wird er kriminell.
+783,"00:55:42,680","00:55:45,160",3342.68,3345.16,2.480000000000018,Dann verliert der Staat an Akzeptanz.
+784,"00:55:46,840","00:55:49,000",3346.84,3349.0,2.1599999999998545,"Wir dürfen nicht belohnen,"
+785,"00:55:51,560","00:55:54,520",3351.56,3354.52,2.9600000000000364,"wenn er belohnt, dass man Regeln übertritt."
+786,"00:55:58,440","00:56:01,440",3358.44,3361.44,3.0,Das klingt nach dem Argument der Neunziger.
+787,"00:56:01,840","00:56:04,840",3361.84,3364.84,3.0,Ausländer nehmen uns die Arbeitsplätze weg.
+788,"00:56:06,320","00:56:09,000",3366.32,3369.0,2.6799999999998363,Das ist jetzt eine andere Realität.
+789,"00:56:11,760","00:56:16,320",3371.76,3376.32,4.559999999999945,"Wenn man herkommt, sollte man das Geld selbst verdienen können."
+790,"00:56:19,160","00:56:23,080",3379.16,3383.08,3.9200000000000728,Aber die Menschen werden nicht in den Arbeitsmarkt gelassen.
+791,"00:56:24,880","00:56:28,080",3384.88,3388.08,3.199999999999818,Wenn die europäischen Außengrenzen gesichert werden
+792,"00:56:28,160","00:56:30,680",3388.16,3390.68,2.519999999999982,und wenn der Zustand statisch ist ...
+793,"00:56:30,760","00:56:32,560",3390.76,3392.56,1.7999999999997272,Dann wäre ich dabei.
+794,"00:56:35,320","00:56:38,200",3395.32,3398.2,2.8799999999996544,Aber dann haben wieder einen Pull-Effekt.
+795,"00:56:39,360","00:56:43,920",3399.36,3403.92,4.559999999999945,"Das ist eigentlich nicht mein Thema, so über Menschen zu reden."
+796,"00:56:45,880","00:56:50,200",3405.88,3410.2,4.319999999999709,"Die Menschen gehen dahin, wo schon viele sind, die sie kennen."
+797,"00:56:50,840","00:56:53,760",3410.84,3413.76,2.9200000000000728,"In Länder, wo das Verfahren lang ist."
+798,"00:56:55,320","00:56:59,720",3415.32,3419.72,4.399999999999636,"Und wo man seinen Weg machen kann, Geld zu verdienen."
+799,"00:57:03,160","00:57:07,120",3423.16,3427.12,3.9600000000000364,"Mit den rechtlichen Dingen kombiniert, führt es dazu,"
+800,"00:57:08,920","00:57:12,360",3428.92,3432.36,3.4400000000000546,dass viele junge Menschen nach Deutschland kommen.
+801,"00:57:13,400","00:57:17,480",3433.4,3437.48,4.079999999999927,70 Prozent der Kapazitäten in der EU haben wir genommen.
+802,"00:57:22,480","00:57:24,480",3442.48,3444.48,2.0,Weil diese Effekte da sind.
+803,"00:57:24,720","00:57:26,720",3444.72,3446.72,2.0,Deshalb funktioniert es so.
+804,"00:57:31,120","00:57:35,480",3451.12,3455.48,4.360000000000127,"Die Menschen in Arbeit, das versteht ein normaler Bürger nicht."
+805,"00:57:36,640","00:57:38,320",3456.64,3458.32,1.680000000000291,Dass die gehen müssen.
+806,"00:57:38,840","00:57:40,680",3458.84,3460.68,1.8399999999996908,Das gehört zur Wahrheit.
+807,"00:57:41,840","00:57:43,600",3461.84,3463.6,1.7599999999997635,Es gibt tolle Geschichten.
+808,"00:57:44,440","00:57:47,480",3464.44,3467.48,3.0399999999999636,"Große Politik muss schaffen, die zu halten,"
+809,"00:57:48,360","00:57:51,000",3468.36,3471.0,2.6399999999998727,die sich integrieren und arbeiten.
+810,"00:57:51,680","00:57:55,240",3471.68,3475.24,3.5599999999999454,"Und die, die kriminell sind, muss man loswerden."
+811,"00:58:01,080","00:58:04,360",3481.08,3484.36,3.2800000000002,Sie setzen auf Ordnung und restriktive Politik.
+812,"00:58:05,840","00:58:08,000",3485.84,3488.0,2.1599999999998545,Meine letzte Frage wäre:
+813,"00:58:11,480","00:58:16,040",3491.48,3496.04,4.559999999999945,"Wenn Sie ehrlich mit ihren Koalitionspartner den Grünen sind,"
+814,"00:58:16,920","00:58:20,120",3496.92,3500.12,3.199999999999818,werden Sie das im Bund nicht durchsetzen können.
+815,"00:58:26,680","00:58:29,480",3506.68,3509.48,2.800000000000182,Was ist die Antwort der Grünen im Bund?
+816,"00:58:29,960","00:58:33,960",3509.96,3513.96,4.0,Bei uns haben sich die Grünen der Realität gestellt.
+817,"00:58:35,400","00:58:38,000",3515.4,3518.0,2.599999999999909,Davor habe ich den größten Respekt.
+818,"00:58:43,320","00:58:46,000",3523.32,3526.0,2.6799999999998363,Was ist die Antwort der Grünen im Bund?
+819,"00:58:46,240","00:58:47,480",3526.24,3527.48,1.2400000000002365,Ich höre keine.
+820,"00:58:50,680","00:58:53,120",3530.68,3533.12,2.4400000000000546,Schwarz-Grün ist noch nicht passe?
+821,"00:58:54,200","00:58:57,880",3534.2,3537.88,3.680000000000291,"Wir sagen, was wichtig ist, jeder muss sich dazu verhalten."
+822,"00:58:58,760","00:59:01,120",3538.76,3541.12,2.3599999999996726,Keine Antwort ist eine Antwort.
+823,"00:59:04,520","00:59:05,840",3544.52,3545.84,1.3200000000001637,Was habt ihr vor?
+824,"00:59:07,720","00:59:10,920",3547.72,3550.92,3.200000000000273,Wir schauen auf den Parteitag der Grünen
+825,"00:59:12,400","00:59:14,800",3552.4,3554.8,2.400000000000091,und fragen Kanzlerkandidat Habeck:
+826,"00:59:15,040","00:59:19,640",3555.04,3559.64,4.599999999999909,"Kommt die Partei von Hendrik Wüst noch als Koalitionspartner infrage,"
+827,"00:59:19,760","00:59:23,800",3559.76,3563.8,4.039999999999964,nachdem die Union scharfe Anträge zur Migration einbringen will?
+828,"00:59:24,160","00:59:26,560",3564.16,3566.56,2.400000000000091,"Danke, Ingo, danke, in die Runde."
+829,"00:59:26,640","00:59:29,320",3566.64,3569.32,2.680000000000291,Ich freue mich auf den nächsten Sonntag.
+830,"00:59:30,440","00:59:32,520",3570.44,3572.52,2.0799999999999272,Copyright Untertitel: NDR 2025

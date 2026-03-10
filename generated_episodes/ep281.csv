@@ -1,0 +1,666 @@
+﻿segment_id,start_time,end_time,start_seconds,end_seconds,duration,text
+1,"00:00:00,720","00:00:01,360",0.72,1.36,0.6400000000000001,Diese Untertitel sind live produziert.
+2,"00:00:02,160","00:00:06,600",2.16,6.6,4.4399999999999995,Willkommen zu unserer Sendung mit zwei der besten ihres Fachs:
+3,"00:00:06,680","00:00:09,120",6.68,9.12,2.4399999999999995,"der eine, Ibrahim Naber, Kriegsreporter,"
+4,"00:00:09,200","00:00:13,320",9.2,13.32,4.120000000000001,"der andere, Florian Flade, Investigativreporter."
+5,"00:00:13,400","00:00:16,360",13.4,16.36,2.959999999999999,"""Das Unheil kündigt sich in dieser bitterkalten Oktobernacht"
+6,"00:00:16,440","00:00:21,600",16.44,21.6,5.16,"mit einem Rauschen an, es klingt, als rase ein Auto auf uns zu."""
+7,"00:00:21,680","00:00:24,680",21.68,24.68,3.0,"Als der Kriegsreporter Ibrahim Naber, der heute unser Gast ist,"
+8,"00:00:24,760","00:00:27,800",24.76,27.8,3.039999999999999,"diese Sätze schreibt, hat er gerade einen Drohnenangriff überlebt."
+9,"00:00:27,880","00:00:31,880",27.88,31.88,4.0,"Ein Soldat, Konstantin, stirbt, ein anderer, Ihor, verliert ein Bein,"
+10,"00:00:31,960","00:00:35,880",31.96,35.88,3.9200000000000017,"ein Kollege, Ivan, wird schwer an beiden Beiden getroffen."
+11,"00:00:35,960","00:00:39,280",35.96,39.28,3.3200000000000003,"Es ist dieser Moment, über den Ibrahim Naber sagt:"
+12,"00:00:39,320","00:00:44,080",39.32,44.08,4.759999999999998,"""Wir waren nicht darauf vorbereitet, es kam wie aus dem Nichts"""
+13,"00:01:05,480","00:01:07,440",65.48,67.44,1.9599999999999937,"Über diesen Angriff und über die Frage,"
+14,"00:01:07,560","00:01:10,200",67.56,70.2,2.6400000000000006,"wie sehr sich Krieg verändert hat, wollen wir heute sprechen,"
+15,"00:01:10,400","00:01:15,720",70.4,75.72,5.319999999999993,denn all das wird auch Konsequenzen für uns haben - herzlich willkommen.
+16,"00:01:15,840","00:01:18,000",75.84,78.0,2.1599999999999966,"Und es gibt neben dem heißen Krieg,"
+17,"00:01:18,040","00:01:20,440",78.03999999999999,80.44,2.4000000000000057,"über den Ibrahim Naber seit Jahren berichtet,"
+18,"00:01:20,480","00:01:23,640",80.48,83.64,3.1599999999999966,"auch einen kalten, der längst läuft, und über den Florian Flade"
+19,"00:01:23,880","00:01:26,880",83.88,86.88,3.0,immer wieder faszinierende Reportagen schreibt
+20,"00:01:27,040","00:01:30,440",87.03999999999999,90.44,3.4000000000000057,"und über den er in langen, featureartigen,"
+21,"00:01:30,720","00:01:32,600",90.72,92.6,1.8799999999999955,sehr hörenswerten Podcasts berichtet.
+22,"00:01:32,880","00:01:34,840",92.88,94.84,1.960000000000008,"Und dabei geht es vor allem um den Teil der Erde,"
+23,"00:01:35,000","00:01:36,560",95.0,96.56,1.5600000000000023,"unter dem man sich auch in Zeiten,"
+24,"00:01:36,640","00:01:39,400",96.64,99.4,2.760000000000005,"in denen Satelliten wie übergroße Augen alles sehen können,"
+25,"00:01:39,520","00:01:42,840",99.52000000000001,102.84,3.319999999999993,"in denen es kaum noch möglich ist, sich an Land unbeobachtet zu bewegen,"
+26,"00:01:42,880","00:01:44,240",102.88,104.24000000000001,1.3600000000000136,noch verstecken kann:
+27,"00:01:44,560","00:01:46,720",104.56,106.72,2.1599999999999966,"Nämlich im Meer, unter Wasser."
+28,"00:01:46,880","00:01:49,880",106.88,109.88,3.0,"""Russland"", sagt er, ""hat in den vergangenen Jahren angefangen,"
+29,"00:01:49,960","00:01:52,160",109.96000000000001,112.16,2.1999999999999886,"die Weltmeere systematisch zu vermessen."""
+30,"00:01:52,240","00:01:54,760",112.24000000000001,114.75999999999999,2.519999999999982,Wie funktioniert das? Was bringt das?
+31,"00:01:54,880","00:01:58,200",114.88,118.2,3.3200000000000074,"Und welche Rolle spielt dabei das Wrack der gesunkenen ""Estonia""?"
+32,"00:01:58,280","00:02:01,120",118.28,121.12,2.8400000000000034,"Darüber wollen wir reden, herzlich willkommen."
+33,"00:02:04,160","00:02:08,480",124.16,128.48,4.319999999999993,"Erst mal, schön dass wir uns sehen."
+34,"00:02:08,520","00:02:11,240",128.52,131.24,2.719999999999999,"Gesund und einigermaßen unversehrt, zumindest physisch."
+35,"00:02:11,280","00:02:15,240",131.28,135.24,3.960000000000008,"Ibrahim, ihr wart mit einer mobilen Feuereinheit unterwegs,"
+36,"00:02:15,280","00:02:16,640",135.28,136.64,1.3599999999999852,was ist das?
+37,"00:02:19,640","00:02:24,840",139.64,144.84,5.200000000000017,"IN: Die Ukraine hat das große Problem,"
+38,"00:02:24,840","00:02:30,400",144.84,150.4,5.560000000000002,"dass Russland bis zu 800 Langstreckendrohnen einsetzt,"
+39,"00:02:30,440","00:02:33,600",150.44,153.6,3.1599999999999966,"um Städte wie Kiew, und im Westen von der Ukraine, zu treffen."
+40,"00:02:40,000","00:02:46,600",160.0,166.6,6.599999999999994,ML: Das was wir gerade sehen?
+41,"00:02:46,600","00:02:49,200",166.6,169.2,2.5999999999999943,"IN: Richtig, das war die Feuereinheit,"
+42,"00:02:49,240","00:02:51,560",169.24,171.56,2.319999999999993,die wir begleitet haben.
+43,"00:02:51,600","00:02:55,760",171.6,175.76,4.159999999999997,"Zu einem Militärlastwagen, wo ein Maschinengewehr justiert ist"
+44,"00:02:55,800","00:02:59,040",175.8,179.04,3.2399999999999807,"und man versucht damit die Drohnen abzuschießen,"
+45,"00:02:59,080","00:03:01,560",179.07999999999998,181.56,2.480000000000018,das findet man überall in der Ukraine.
+46,"00:03:01,600","00:03:04,280",181.6,184.28,2.680000000000007,Damit wollen sie die langen Streckendrohnen abfangen.
+47,"00:03:04,280","00:03:06,840",184.28,186.84,2.5600000000000023,"ML: Und warum sind diese Einheiten,"
+48,"00:03:06,880","00:03:10,680",186.88,190.68,3.8000000000000114,"da sehen wir es, so wichtig für die Ukraine?"
+49,"00:03:10,680","00:03:13,440",190.68,193.44,2.759999999999991,IN: Weil Russland
+50,"00:03:13,480","00:03:17,880",193.48,197.88,4.400000000000006,"an einem Punkt ist, wo sie mit dieser Masse an Langstreckendrohnen"
+51,"00:03:17,880","00:03:20,960",197.88,200.96,3.0800000000000125,"kombiniert mit ballistischen Raketen versucht,"
+52,"00:03:21,000","00:03:26,520",201.0,206.52,5.52000000000001,die Ukraine in den Blackout zum Bomben.
+53,"00:03:26,560","00:03:31,000",206.56,211.0,4.439999999999998,"Ein paar Stunden gibt es Strom in Kiew, dann ist es wieder dunkel."
+54,"00:03:31,040","00:03:33,280",211.04,213.28,2.240000000000009,"Wir sehen hier einen Einschlag,"
+55,"00:03:33,320","00:03:35,000",213.32,215.0,1.6800000000000068,wo die Zone mitten in der Stadt einschlägt.
+56,"00:03:39,280","00:03:41,560",219.28,221.56,2.280000000000001,Das ist Alltag für die Menschen.
+57,"00:03:41,600","00:03:44,320",221.6,224.32,2.719999999999999,Ich habe so einen Anschlag selber erlebt.
+58,"00:03:44,360","00:03:48,640",224.36,228.64,4.279999999999973,"Manche Menschen reagieren schon gar nicht mehr, sie laufen weiter,"
+59,"00:03:48,680","00:03:51,480",228.68,231.48,2.799999999999983,weil das Alltag ist.
+60,"00:03:51,480","00:03:56,160",231.48,236.16,4.680000000000007,"ML: Da kommt so ein Ding runter, in dieser rasenden Geschwindigkeit."
+61,"00:03:56,160","00:03:59,200",236.16,239.2,3.039999999999992,"Da sehen wir, wie eins abgefangen wird."
+62,"00:03:59,200","00:04:03,360",239.2,243.36,4.160000000000025,"IN: Ja, unter anderem von Abfang- Drohnen."
+63,"00:04:03,360","00:04:05,320",243.36,245.32,1.9599999999999795,ML: Wie schnell fliegen die?
+64,"00:04:05,320","00:04:07,320",245.32,247.32,2.0,Wie schnell geht sowas?
+65,"00:04:07,320","00:04:12,160",247.32,252.16,4.840000000000003,"IN: Bei uns, die Drohne die uns angegriffen hat,"
+66,"00:04:12,160","00:04:15,240",252.16,255.24,3.0800000000000125,fliegt bis zu 100 km/h. Die haben schon eine Wucht.
+67,"00:04:15,240","00:04:18,640",255.24,258.64,3.3999999999999773,ML: Und da ist richtig Sprengstoff drauf.
+68,"00:04:18,760","00:04:21,640",258.76,261.64,2.8799999999999955,Wenn man die Wucht dieser Explosionen sieht.
+69,"00:04:21,640","00:04:23,960",261.64,263.96,2.319999999999993,Wie groß ist das?
+70,"00:04:23,960","00:04:26,320",263.96,266.32,2.3600000000000136,IN: Dutzende Kilogramm Sprengladung.
+71,"00:04:26,360","00:04:29,960",266.36,269.96,3.599999999999966,"Man sieht hier die Größe von denen, dreieinhalb Meter."
+72,"00:04:29,960","00:04:32,040",269.96,272.04,2.080000000000041,Das sind mehrere Kilogramm Sprengladung.
+73,"00:04:32,040","00:04:36,400",272.04,276.4,4.359999999999957,"ML: Selenskyj hat in dieser Woche gesagt,"
+74,"00:04:36,440","00:04:40,960",276.44,280.96,4.519999999999982,in einer Woche setzt Russland fast 1200 Kampftruppen ein.
+75,"00:04:40,960","00:04:47,240",280.96,287.24,6.28000000000003,Mehr als 1300 gelenkte Fliegerbomben.
+76,"00:04:47,320","00:04:50,280",287.32,290.28,2.9599999999999795,Das ist die neue Realität?
+77,"00:04:50,280","00:04:56,680",290.28,296.68,6.400000000000034,IN: Das ist die Dimension.
+78,"00:04:56,680","00:05:00,440",296.68,300.44,3.759999999999991,Geleitsbomben haben wir gar nicht erwähnt.
+79,"00:05:00,480","00:05:04,320",300.48,304.32,3.839999999999975,"Das sind 500 kg schwere Bomben,"
+80,"00:05:04,360","00:05:08,680",304.36,308.68,4.319999999999993,die von Kampfjets abgeworfen werden.
+81,"00:05:08,720","00:05:11,360",308.72,311.36,2.6399999999999864,"ML: Das sind keine dummen Bomben, diesen klug."
+82,"00:05:11,360","00:05:15,800",311.36,315.8,4.439999999999998,"IN: Damit machen die ganze Gebiete platt. Die gibt es modifiziert,"
+83,"00:05:15,800","00:05:21,640",315.8,321.64,5.839999999999975,dass die sehr genau treffen.
+84,"00:05:24,600","00:05:27,200",324.6,327.2,2.599999999999966,"ML: Florian Fade, der sich mit Spionage"
+85,"00:05:27,240","00:05:31,520",327.24,331.52,4.279999999999973,unter anderem beschäftigt.
+86,"00:05:31,560","00:05:35,160",331.56,335.15999999999997,3.599999999999966,"Drohnen haben den Charakter von Krieg für immer verändert, warum?"
+87,"00:05:35,160","00:05:40,040",335.15999999999997,340.04,4.880000000000052,FF: Einerseits weil das Gefechtsfeld durch Drohnen gläserner wird.
+88,"00:05:40,040","00:05:43,160",340.04,343.15999999999997,3.1199999999999477,Man sieht mehr und kann mehr aufklären dadurch.
+89,"00:05:43,200","00:05:46,560",343.2,346.56,3.3600000000000136,Andererseits auch wird es unberechenbarer.
+90,"00:05:46,640","00:05:50,120",346.64,350.12,3.480000000000018,Es wird durch Menschen aber auch durch KI gesteuert.
+91,"00:05:50,160","00:05:54,560",350.15999999999997,354.56,4.400000000000034,"Man kann Jagd auf Menschen in einer anderen Form machen,"
+92,"00:05:54,600","00:05:57,200",354.6,357.2,2.599999999999966,wie bei Marschflugkörpern oder Raketen.
+93,"00:05:57,280","00:05:59,400",357.28,359.4,2.1200000000000045,Für Menschen unberechenbar.
+94,"00:05:59,440","00:06:04,680",359.44,364.68,5.240000000000009,"Die Situation in der Ukraine zeigt,"
+95,"00:06:04,720","00:06:07,720",364.72,367.72,3.0,"es ist eine Evolution in diesem treuen Bereich,"
+96,"00:06:07,760","00:06:10,120",367.76,370.12,2.3600000000000136,die keiner für möglich gehalten hat.
+97,"00:06:10,200","00:06:14,200",370.2,374.2,4.0,Was heute gilt Geld in wenigen Monaten vielleicht nicht mehr.
+98,"00:06:14,240","00:06:15,520",374.24,375.52,1.2799999999999727,Es ist improvisiert.
+99,"00:06:15,560","00:06:17,600",375.56,377.6,2.0400000000000205,Sich dagegen zu wehren wird schwieriger.
+100,"00:06:17,600","00:06:24,360",377.6,384.36,6.759999999999991,"Und man muss sich natürlich die Frage stellen,"
+101,"00:06:24,360","00:06:28,480",384.36,388.48,4.1200000000000045,"wenn das der Krieg der Zukunft ist, wie sind wir aufgestellt?"
+102,"00:06:28,520","00:06:31,200",388.52,391.2,2.680000000000007,Ist die NATO aufgestellt?
+103,"00:06:31,240","00:06:35,400",391.24,395.4,4.159999999999968,Haben wir uns die letzten Jahre
+104,"00:06:35,440","00:06:37,720",395.44,397.72,2.2800000000000296,genug von den Lehren der Ukraine angeeignet?
+105,"00:06:37,720","00:06:39,680",397.72,399.68,1.9599999999999795,"ML: Was dann zur Frage führt,"
+106,"00:06:39,760","00:06:42,800",399.76,402.8,3.0400000000000205,wie müssen wir uns für die Zukunft aufstellen?
+107,"00:06:42,800","00:06:46,320",402.8,406.32,3.519999999999982,Was man heute kauft an Waffensystemen
+108,"00:06:46,360","00:06:49,680",406.36,409.68,3.319999999999993,und für relevant hält
+109,"00:06:49,720","00:06:53,680",409.72,413.68,3.9599999999999795,ist in zwei Jahren vielleicht nicht mehr der Fall.
+110,"00:06:53,680","00:06:57,880",413.68,417.88,4.199999999999989,"FF: Und wir sehen in der Ukraine, Ibrahim hat das live erlebt."
+111,"00:06:57,880","00:07:05,160",417.88,425.16,7.28000000000003,"Das ist etwas, was Deutschland vernachlässigt hat."
+112,"00:07:07,160","00:07:11,160",427.16,431.16,4.0,Das ist dieser Krieg im elektromagnetischen Feld.
+113,"00:07:11,200","00:07:14,880",431.2,434.88,3.680000000000007,"Das klingt nicht so toll, wie wenn man Panzer bestellt,"
+114,"00:07:14,920","00:07:23,040",434.92,443.04,8.120000000000005,"aber diese Fähigkeit, Signale aufzufangen, was fliegt auf mich zu?"
+115,"00:07:23,080","00:07:31,720",443.08,451.72,8.640000000000043,"Wie kann ich meine eigenen Signale beschützen, dass es hoch relevant."
+116,"00:07:32,160","00:07:40,640",452.15999999999997,460.64,8.480000000000018,"Da besteht dringend nachholdarf. Man sieht, wie viel da gejamt wird."
+117,"00:07:42,000","00:07:44,880",462.0,464.88,2.8799999999999955,FF: Da gibt es dringenden Nachholbedarf.
+118,"00:07:44,880","00:07:48,520",464.88,468.52,3.6399999999999864,ML: Lass uns daher gleich intensiver darüber sprechen.
+119,"00:07:48,600","00:07:51,320",468.6,471.32,2.7199999999999704,Ihr seid dort mit der Einheit unterwegs -
+120,"00:07:51,320","00:07:52,800",471.32,472.8,1.4800000000000182,wie viele gibt es davon ungefähr?
+121,"00:07:52,800","00:07:56,920",472.8,476.92,4.1200000000000045,"IN: Hunderte in der Ukraine, von Kiew bis in die Frontgebiete."
+122,"00:07:56,960","00:08:00,960",476.96,480.96,4.0,Wir waren eben im Frontgebiet ziemlich nah dran.
+123,"00:08:00,960","00:08:06,280",480.96,486.28,5.319999999999993,"Dort sind wir gelandet, etwa 30 km von der Kontaktlinie entfernt."
+124,"00:08:06,280","00:08:14,240",486.28,494.24,7.960000000000036,ML: Wer war da dabei?
+125,"00:08:14,240","00:08:18,000",494.24,498.0,3.759999999999991,"IN: Der Kameramann Victor, 23, der Producer Ivan und ich,"
+126,"00:08:18,040","00:08:20,040",498.04,500.04,2.0,wir waren ein dreiköpfiges Reporterteam.
+127,"00:08:20,040","00:08:33,200",500.04,513.2,13.160000000000025,ML: Da haben wir euch.
+128,"00:08:33,200","00:08:38,360",513.2,518.36,5.159999999999968,"IN: Und eben die drei Soldaten Constantin, Igor und Olegski."
+129,"00:08:38,400","00:08:39,200",518.4,519.2,0.8000000000000682,Wir waren auf einem offenen Feld unterwegs
+130,"00:08:39,200","00:08:40,000",519.2,520.0,0.7999999999999545,"ML: Konstantin, der Name"
+131,"00:08:42,800","00:08:45,680",522.8,525.68,2.8799999999999955,um die russischen Drohnen abzufangen.
+132,"00:08:45,680","00:08:48,240",525.68,528.24,2.560000000000059,"ML: Konstantin, der Name ist gefallen, ein junger Mann."
+133,"00:08:48,240","00:08:52,440",528.24,532.44,4.2000000000000455,IN: 48.
+134,"00:08:52,440","00:08:57,760",532.44,537.76,5.319999999999936,ML: Vater von Kindern. Der vorher etwas ganz anderes gemacht hat.
+135,"00:08:57,760","00:09:05,960",537.76,545.96,8.200000000000045,IN: Der hat bei der Eisenbahn gearbeitet.
+136,"00:09:05,960","00:09:09,680",545.96,549.68,3.7199999999999136,"Er hat zu mir gesagt, er hatte nie vor Soldat zu werden."
+137,"00:09:09,840","00:09:12,360",549.84,552.36,2.519999999999982,Sein Vater war Berufsoffizier.
+138,"00:09:12,640","00:09:20,400",552.64,560.4,7.759999999999991,Dann kam die Invasion und er ist 2021 beigetreten der Armee.
+139,"00:09:21,560","00:09:25,880",561.56,565.88,4.32000000000005,"Erst mal nur in der Flugarmee im Einsatz, er ist Profi."
+140,"00:09:25,880","00:09:29,200",565.88,569.2,3.32000000000005,ML: Sie führen am Ende dieser Nacht ein Gespräch
+141,"00:09:29,200","00:09:33,480",569.2,573.48,4.279999999999973,"und es sieht alles danach aus, als wäre es ganz normales Geschäft."
+142,"00:09:33,520","00:09:38,240",573.52,578.24,4.720000000000027,Das sagt er 10 Minuten vor dem Geschehen in die Kamera:
+143,"00:09:41,280","00:09:48,760",581.28,588.76,7.480000000000018,- Mein Name ist Konstantin und ich bin 48 Jahre alt.
+144,"00:09:49,320","00:09:52,480",589.32,592.48,3.159999999999968,Unsere Aufgabe ist es feindliche Ziele am Himmel
+145,"00:09:52,720","00:09:57,880",592.72,597.88,5.159999999999968,zu erkennen und zu zerstören.
+146,"00:09:57,920","00:10:01,440",597.92,601.44,3.5200000000000955,Verschiedene Drohen.
+147,"00:10:01,520","00:10:06,440",601.52,606.44,4.920000000000073,Aufklärungsdrohnen und Angriffsdrohnen.
+148,"00:10:06,480","00:10:10,160",606.48,610.16,3.67999999999995,"Es war eine ganz normale Nacht,"
+149,"00:10:10,200","00:10:16,840",610.2,616.84,6.639999999999986,nächtliche Gelände-Aufklärung wie immer.
+150,"00:10:17,760","00:10:24,400",617.76,624.4,6.639999999999986,- Und es gab ein unbekanntes Flugobjekt?
+151,"00:10:25,680","00:10:32,720",625.68,632.72,7.040000000000077,- Das war eine freundliche ukrainische Drohne.
+152,"00:10:34,080","00:10:38,120",634.08,638.12,4.039999999999964,"ML: Der letzte Satz, es war eine freundliche Ukrainer Drohne."
+153,"00:10:38,200","00:10:39,880",638.2,639.88,1.67999999999995,Das war es offenbar nicht.
+154,"00:10:39,920","00:10:42,880",639.92,642.88,2.9600000000000364,War das eine falsche Einschätzung?
+155,"00:10:42,880","00:10:52,040",642.88,652.04,9.159999999999968,IN: Wir haben das Interview mit ihm etwa gegen 21.15 geführt.
+156,"00:10:52,040","00:10:55,320",652.04,655.32,3.2800000000000864,"20-30 Minuten der Forst Aufregung aufgebrochen,"
+157,"00:10:55,360","00:10:58,400",655.36,658.4,3.0399999999999636,weil ein unbekanntes Flugobjekt über uns war.
+158,"00:10:58,440","00:11:00,520",658.44,660.52,2.0799999999999272,"Da habe ich Ivan gefragt,"
+159,"00:11:00,560","00:11:03,960",660.56,663.96,3.400000000000091,ob wir uns zu einer Baumreihe zurückziehen sollen.
+160,"00:11:04,040","00:11:10,520",664.04,670.52,6.480000000000018,Die wussten aber auch nicht was da ist.
+161,"00:11:10,720","00:11:13,920",670.72,673.92,3.199999999999932,"Wenig später haben sie die Information erhalten,"
+162,"00:11:13,960","00:11:19,480",673.96,679.48,5.519999999999982,dass eine andere Feuereinheit die Drohne abgeschossen hätte.
+163,"00:11:19,560","00:11:22,960",679.56,682.96,3.400000000000091,"Die andere Drohne, die war eine freundliche Drohne."
+164,"00:11:23,000","00:11:26,520",683.0,686.52,3.519999999999982,Auf die hat er sich jetzt bezogen.
+165,"00:11:26,600","00:11:30,400",686.6,690.4,3.7999999999999545,"Wir hatten schon Momente, wo etwas über uns geflogen ist,"
+166,"00:11:30,440","00:11:33,960",690.44,693.96,3.519999999999982,was wir nicht einordnen konnten.
+167,"00:11:33,960","00:11:37,280",693.96,697.28,3.3199999999999363,"ML: Was ist das für ein Gefühl, wenn man weiß,"
+168,"00:11:37,280","00:11:39,760",697.28,699.76,2.480000000000018,"da ist etwas da oben, die sehen dich."
+169,"00:11:39,800","00:11:42,400",699.8,702.4,2.6000000000000227,"Es gibt ja auch kaum 1 m², denn nicht mehr beobachtet wird."
+170,"00:11:42,400","00:11:45,240",702.4,705.24,2.840000000000032,"IN: Das stimmt,"
+171,"00:11:45,320","00:11:50,640",705.32,710.64,5.319999999999936,es gibt einer Todeszone die immer größer wird.
+172,"00:11:50,640","00:11:54,200",710.64,714.2,3.560000000000059,Das ist auch die größte Veränderung für uns Reporter.
+173,"00:11:54,280","00:12:01,160",714.28,721.16,6.8799999999999955,Die Todeszone beträgt mittlerweile 20-24 km.
+174,"00:12:01,240","00:12:05,600",721.24,725.6,4.360000000000014,In diesem Bereich gibt es Hunderte bis Tausende Kamikaze-Drohnen.
+175,"00:12:05,720","00:12:07,280",725.72,727.28,1.5599999999999454,"Handtellergroß,"
+176,"00:12:07,360","00:12:11,640",727.36,731.64,4.279999999999973,"die stürzen sich auf jeden Panzer, auf jeden einzelnen Soldaten,"
+177,"00:12:11,720","00:12:13,600",731.72,733.6,1.8799999999999955,"auf alles, was sich bewegt."
+178,"00:12:13,640","00:12:21,520",733.64,741.52,7.8799999999999955,"Erdlöcher, ein bisschen Sichtschutz, das hilft als einziges."
+179,"00:12:23,880","00:12:30,160",743.88,750.16,6.279999999999973,Wir waren in der erweiterten Todeszonen.
+180,"00:12:30,200","00:12:33,840",750.2,753.84,3.6399999999999864,Mit denen hochwertige Ziele ins Visier genommen werden.
+181,"00:12:33,880","00:12:38,760",753.88,758.76,4.8799999999999955,Russland attackiert systematisch dieser Feuer einhalten.
+182,"00:12:38,760","00:12:42,800",758.76,762.8,4.039999999999964,"ML: Bevor wir das gleiche sehen, Sie sagen,"
+183,"00:12:42,800","00:12:50,160",762.8,770.16,7.360000000000014,"es ist das Geräusch, was wir nicht kannten - warum?"
+184,"00:12:50,160","00:12:53,360",770.16,773.36,3.2000000000000455,"IN: Ich habe in den vergangenen Monaten im Mai,"
+185,"00:12:53,440","00:12:59,080",773.44,779.08,5.639999999999986,"da war ich in der Sendung,"
+186,"00:13:02,520","00:13:05,960",782.52,785.96,3.4400000000000546,hatten wir 48 Stunden Erdloch verbracht.
+187,"00:13:06,000","00:13:08,680",786.0,788.68,2.67999999999995,Das war in der unmittelbaren Todeszone.
+188,"00:13:08,720","00:13:11,560",788.72,791.56,2.839999999999918,Dort sind die kleinen Drohnen.
+189,"00:13:11,640","00:13:18,960",791.64,798.96,7.32000000000005,"Das Suchen, dass triggert mich auch in Deutschland."
+190,"00:13:23,480","00:13:26,920",803.48,806.92,3.439999999999941,"Es gibt Ärzte, die Stellen einer Drohnenphobia fest."
+191,"00:13:27,000","00:13:32,000",807.0,812.0,5.0,"Aber das war nicht das Geräusch, dass wir gehört haben."
+192,"00:13:32,080","00:13:35,200",812.08,815.2,3.1200000000000045,Das hat Konstantin wohl auch nicht als Gefahr identifiziert.
+193,"00:13:35,200","00:13:37,920",815.2,817.92,2.7199999999999136,"ML: Da sehen wir das, er steht da gerade."
+194,"00:13:37,960","00:13:43,800",817.96,823.8,5.839999999999918,Wie Ihnen nahe steht ihr da zusammen?
+195,"00:13:43,800","00:13:47,720",823.8,827.72,3.9200000000000728,"IN: In dieser Situation waren wir kurz nach dem Interview,"
+196,"00:13:47,760","00:13:50,120",827.76,830.12,2.3600000000000136,da standen wir 5 m neben Konstantin.
+197,"00:13:50,160","00:13:52,720",830.16,832.72,2.560000000000059,"Ein anderer Soldat,"
+198,"00:13:52,760","00:13:54,600",832.76,834.6,1.8400000000000318,der saß auf dem Wagen.
+199,"00:13:54,640","00:13:59,120",834.64,839.12,4.480000000000018,Der dritte Soldat stand auf der anderen Seite etwas weiter entfernt.
+200,"00:13:59,200","00:14:00,440",839.2,840.44,1.240000000000009,Er hatte in dieser Situation Glück.
+201,"00:14:00,440","00:14:04,600",840.44,844.6,4.159999999999968,ML: Also reiner Zufall. Wen es trifft und wenn es nicht trifft.
+202,"00:14:04,640","00:14:59,920",844.64,899.92,55.27999999999997,Und dann passiert das:
+203,"00:14:59,920","00:15:03,880",899.92,903.88,3.9600000000000364,"ML: Wann haben Sie wirklich verstanden, was da passiert ist?"
+204,"00:15:03,960","00:15:06,960",903.96,906.96,3.0,Was das Ausmaß ist.
+205,"00:15:06,960","00:15:11,080",906.96,911.08,4.1200000000000045,IN: Im ersten Moment habe ich nichts mehr verstanden.
+206,"00:15:11,080","00:15:15,360",911.08,915.36,4.279999999999973,"Es schlägt ein, ich weiß, ich werde durch die Gegend geschleudert"
+207,"00:15:15,440","00:15:20,520",915.44,920.52,5.079999999999927,und ich lande irgendwo.
+208,"00:15:20,600","00:15:24,320",920.6,924.32,3.7200000000000273,"Das erste, was ich gemacht habe, ich habe ein Mann Kopf,"
+209,"00:15:24,360","00:15:27,320",924.36,927.32,2.9600000000000364,"meine Oberschenkel und meine Arme gegriffen,"
+210,"00:15:27,400","00:15:29,720",927.4,929.72,2.32000000000005,"um zu sehen, ob noch alles dran ist."
+211,"00:15:29,760","00:15:31,880",929.76,931.88,2.1200000000000045,"Ich habe mich gefragt, ist das wirklich passiert."
+212,"00:15:31,880","00:15:37,960",931.88,937.96,6.080000000000041,ML: Man sieht die atemberaubende Geschwindigkeit.
+213,"00:15:37,960","00:15:39,680",937.96,939.68,1.7199999999999136,"IN: Das ist ein Gerücht,"
+214,"00:15:39,680","00:15:43,040",939.68,943.04,3.3600000000000136,da kann man nur innerhalb von 5 Sekunden reagieren.
+215,"00:15:43,080","00:15:44,480",943.08,944.48,1.3999999999999773,Dann habe ich die Schreie gehört.
+216,"00:15:44,480","00:15:48,840",944.48,948.84,4.360000000000014,"ML: Geflucht wird auf Englisch, wie wir gehört haben."
+217,"00:15:48,840","00:15:52,240",948.84,952.24,3.3999999999999773,"IN: Ich habe Victor gehört, den Kameramann,"
+218,"00:15:52,240","00:15:55,280",952.24,955.28,3.0399999999999636,er hat nach rechts geschaut in diesem Moment
+219,"00:15:55,320","00:15:59,000",955.32,959.0,3.67999999999995,und sieht den Mann am Boden liegen.
+220,"00:15:59,040","00:16:02,600",959.04,962.6,3.560000000000059,"Er dachte zuerst, das bin ich, es war aber Konstantin,"
+221,"00:16:02,640","00:16:04,720",962.64,964.72,2.080000000000041,der neben dem Fahrzeug liegt.
+222,"00:16:04,760","00:16:07,680",964.76,967.68,2.919999999999959,"Mein erster Reflex war, wir müssen hier weg."
+223,"00:16:07,720","00:16:10,880",967.72,970.88,3.159999999999968,Es kann eine zweite Drohne noch mal einschlagen.
+224,"00:16:10,960","00:16:14,480",970.96,974.48,3.519999999999982,Wir sind über das Feld langsam gerannt.
+225,"00:16:14,560","00:16:18,040",974.56,978.04,3.480000000000018,"Das war der Blick, den ich hatte."
+226,"00:16:18,080","00:16:21,200",978.08,981.2,3.1200000000000045,Ich sehe das Fahrzeug in Flammen stehen.
+227,"00:16:21,280","00:16:24,800",981.28,984.8,3.519999999999982,Ivan konnte nicht mehr gehen.
+228,"00:16:24,840","00:16:27,480",984.84,987.48,2.6399999999999864,"Den haben wir in die Baumreihe gebracht,"
+229,"00:16:27,520","00:16:32,840",987.52,992.84,5.32000000000005,weil er verletzt war.
+230,"00:16:32,840","00:16:37,640",992.84,997.64,4.7999999999999545,"ML: Und versucht, ihn irgendwie am Leben zu erhalten."
+231,"00:16:37,640","00:16:41,120",997.64,1001.12,3.480000000000018,Man spürt diese unschön verstellbare Existenzangst.
+232,"00:16:41,200","00:16:44,600",1001.2,1004.6,3.3999999999999773,"Wenn man darum bettelt und bittet, ihn wachzuhalten."
+233,"00:16:44,680","00:16:45,920",1004.68,1005.92,1.240000000000009,Schauen Sie mal:
+234,"00:17:12,240","00:17:18,480",1032.24,1038.48,6.240000000000009,ML: Wie habt ihr diese Blutung gestoppt?
+235,"00:17:18,560","00:17:21,840",1038.56,1041.84,3.2799999999999727,"2023 waren wir in der Ukraine mehrfach unterwegs,"
+236,"00:17:21,880","00:17:24,040",1041.88,1044.04,2.1599999999998545,da bekommt man diese Gummibänder.
+237,"00:17:24,080","00:17:26,480",1044.08,1046.48,2.400000000000091,"Wie man es anwendet,"
+238,"00:17:26,520","00:17:31,600",1046.52,1051.6,5.079999999999927,"das ist alles surreal,"
+239,"00:17:31,680","00:17:35,840",1051.68,1055.84,4.1599999999998545,"aber das ist das, was euch das Leben gerettet hat."
+240,"00:17:35,840","00:17:38,440",1055.84,1058.44,2.6000000000001364,IN: Diese Bänder haben wir immer dabei.
+241,"00:17:38,480","00:17:41,440",1058.48,1061.44,2.9600000000000364,"Die müssen auch immer griffbereit sein,"
+242,"00:17:41,440","00:17:45,440",1061.44,1065.44,4.0,wenn die Blutung immer so stark ist dann zählen die Sekunden.
+243,"00:17:45,520","00:17:49,320",1065.52,1069.32,3.7999999999999545,Wir haben dann zwei von diesen Bändern an sein linkes Bein
+244,"00:17:49,360","00:17:51,520",1069.36,1071.52,2.160000000000082,sehr stark ungebunden.
+245,"00:17:51,560","00:17:55,360",1071.56,1075.36,3.7999999999999545,"Das Ding ist, ich wusste in der 1. Minute überhaupt nicht,"
+246,"00:17:55,440","00:17:57,720",1075.44,1077.72,2.2799999999999727,was da gerade bei ihm passiert ist.
+247,"00:17:57,760","00:17:59,120",1077.76,1079.12,1.3599999999999,Im linken Bein hatte
+248,"00:17:59,160","00:18:03,240",1079.16,1083.24,4.079999999999927,er einen Einschlag
+249,"00:18:03,320","00:18:07,080",1083.32,1087.08,3.759999999999991,"und ein größeres Loch, das hat stark geblutet."
+250,"00:18:07,120","00:18:13,640",1087.12,1093.64,6.520000000000209,"Wusste nicht, wann Hilfe kommt und wie stark die Blutung ist."
+251,"00:18:13,640","00:18:17,160",1093.64,1097.16,3.519999999999982,"ML: Wir haben uns nach dem ersten Auftritt,"
+252,"00:18:17,160","00:18:20,360",1097.16,1100.36,3.199999999999818,nach dem zweiten Auftritt noch lange unterhalten.
+253,"00:18:20,560","00:18:28,080",1100.56,1108.08,7.519999999999982,"Dann geht der junge Reporter daraus und man sagt, pass auf dich auf."
+254,"00:18:28,160","00:18:30,120",1108.16,1110.12,1.959999999999809,"Man hat das Gefühl,"
+255,"00:18:30,200","00:18:33,200",1110.2,1113.2,3.0,"er versteht das auf einer theoretischen Ebene,"
+256,"00:18:33,240","00:18:37,800",1113.24,1117.8,4.559999999999945,"aber geht nicht davon aus, dass es ihn am Ende wirklich erwischt."
+257,"00:18:37,880","00:18:41,640",1117.88,1121.64,3.759999999999991,Kann man sie sich darauf am Ende vorbereiten?
+258,"00:18:41,640","00:18:45,480",1121.64,1125.48,3.839999999999918,IN: Auf diese Situation kann man sich nicht vorbereiten.
+259,"00:18:45,480","00:18:49,800",1125.48,1129.8,4.319999999999936,"Ich weiß natürlich, weil ich diesen Drohnenkrieg nahe mitbekommen,"
+260,"00:18:49,880","00:18:51,760",1129.88,1131.76,1.8799999999998818,was jederzeit passieren kann.
+261,"00:18:51,800","00:18:55,160",1131.8,1135.16,3.3600000000001273,"In dieser Situation, man kann damit nicht umgehen."
+262,"00:18:55,200","00:18:58,000",1135.2,1138.0,2.7999999999999545,Das passiert so plötzlich.
+263,"00:18:58,080","00:19:01,720",1138.08,1141.72,3.6400000000001,"Im ersten Moment fällt eine Sicherheit,"
+264,"00:19:01,760","00:19:04,160",1141.76,1144.16,2.400000000000091,"die man sich aufgebaut hat, zusammen."
+265,"00:19:04,200","00:19:09,960",1144.2,1149.96,5.759999999999991,"Am Ende bin ich Gott froh,"
+266,"00:19:13,280","00:19:17,280",1153.28,1157.28,4.0,"dass meinen Team, dass dann nichts Schlimmeres passiert ist."
+267,"00:19:17,320","00:19:25,280",1157.32,1165.28,7.960000000000036,Ivan wurde vor ein paar Tagen aus dem Krankenhaus entlassen.
+268,"00:19:26,880","00:19:33,520",1166.88,1173.52,6.639999999999873,"ML: Wenn man diese Splitter auch sieht,"
+269,"00:19:38,760","00:19:43,320",1178.76,1183.32,4.559999999999945,"diese unfassbaren Metallsplitter, nur um Menschen kaputt zu machen,"
+270,"00:19:43,400","00:19:44,880",1183.4,1184.88,1.4800000000000182,dass es die Idee davon.
+271,"00:19:44,920","00:19:48,560",1184.92,1188.56,3.6399999999998727,"Die geht man damit um, was man das danach im Kopf hat?"
+272,"00:19:48,560","00:19:52,520",1188.56,1192.52,3.9600000000000364,IN: Erst einmal journalistisch. Das war mein erster Reflex.
+273,"00:19:52,520","00:19:57,840",1192.52,1197.84,5.319999999999936,Nach dem Angriff wollte ich journalistisch gut umgehen.
+274,"00:19:57,840","00:20:00,440",1197.84,1200.44,2.6000000000001364,ML: Man schreibt sich das von der Seele.
+275,"00:20:00,440","00:20:02,840",1200.44,1202.84,2.3999999999998636,"IN: Genau, ich habe aufgeschrieben"
+276,"00:20:02,920","00:20:06,280",1202.92,1206.28,3.3599999999999,und wollte bei Ivan im Krankenhaus sein.
+277,"00:20:06,280","00:20:10,160",1206.28,1210.16,3.880000000000109,"Wir haben versucht dem Igor, der saß auf dem Wagen,"
+278,"00:20:10,200","00:20:14,200",1210.2,1214.2,4.0,dessen Bein musste amputiert werden.
+279,"00:20:14,240","00:20:16,920",1214.24,1216.92,2.6800000000000637,"Am Anfang habe ich das nicht verstanden,"
+280,"00:20:17,000","00:20:20,120",1217.0,1220.12,3.119999999999891,"das war ein Feldlazarett, wo erst mal nur Not versorgt wird."
+281,"00:20:20,120","00:20:25,880",1220.12,1225.88,5.760000000000218,ML: Das ist die Situation:
+282,"00:20:25,880","00:20:29,720",1225.88,1229.72,3.839999999999918,"IN: Ich hab das es nicht verstanden, dass er das ist."
+283,"00:20:29,760","00:20:33,520",1229.76,1233.52,3.759999999999991,"Wir haben sofort gesehen, dass das Bein so zerstört ist,"
+284,"00:20:33,600","00:20:35,840",1233.6,1235.84,2.240000000000009,dass man nichts mehr retten konnte.
+285,"00:20:35,920","00:20:42,840",1235.92,1242.84,6.919999999999845,Wir unterstützen ihn mit einer Spendenaktion.
+286,"00:20:45,520","00:20:48,400",1245.52,1248.4,2.880000000000109,"ML: Sie sagen,"
+287,"00:20:48,480","00:20:52,080",1248.48,1252.08,3.599999999999909,"es gibt hier insbesondere auch in Deutschland die Idee,"
+288,"00:20:52,120","00:20:55,200",1252.12,1255.2,3.0800000000001546,"der Charakter des Krieges verändert sich nicht,"
+289,"00:20:55,240","00:20:57,560",1255.24,1257.56,2.3199999999999363,der Frontverlauf ändert sich nicht.
+290,"00:20:57,600","00:21:00,520",1257.6,1260.52,2.9200000000000728,"Da stehen sich zwei gegenüber,"
+291,"00:21:00,600","00:21:04,000",1260.6,1264.0,3.400000000000091,"sehr bewegt sich ein bisschen nach rechts und links,"
+292,"00:21:04,080","00:21:06,440",1264.08,1266.44,2.3600000000001273,aber ist ein eingefrorener Zustand.
+293,"00:21:06,480","00:21:09,720",1266.48,1269.72,3.240000000000009,"Sie sagen, das stimmt so nicht, warum?"
+294,"00:21:09,720","00:21:14,120",1269.72,1274.12,4.399999999999864,"IN: Zum einen, weil ganz konkret jeden Monat ukrainisches Gebiet"
+295,"00:21:14,120","00:21:16,960",1274.12,1276.96,2.8400000000001455,verloren geht.
+296,"00:21:17,040","00:21:20,880",1277.04,1280.88,3.8400000000001455,Nur um das mal einzuordnen:
+297,"00:21:20,960","00:21:28,000",1280.96,1288.0,7.039999999999964,"Pro Monat erobert die russische Armee die Fläche von München,"
+298,"00:21:28,080","00:21:32,080",1288.08,1292.08,4.0,"Das sind Gebiete,"
+299,"00:21:32,160","00:21:35,440",1292.16,1295.44,3.2799999999999727,wo Menschen leben. Und ihre Häuser verlieren.
+300,"00:21:35,520","00:21:38,640",1295.52,1298.64,3.1200000000001182,Die Todeszone erweitert sich.
+301,"00:21:38,680","00:21:43,360",1298.68,1303.36,4.679999999999836,Die Städte dahinter rücken immer näher
+302,"00:21:43,440","00:21:46,840",1303.44,1306.84,3.3999999999998636,durch das vorrücken der Russen.
+303,"00:21:46,880","00:21:50,160",1306.88,1310.16,3.2799999999999727,"Großstädte im Osten, die hervor unerreichbar waren,"
+304,"00:21:50,240","00:21:53,280",1310.24,1313.28,3.0399999999999636,durch das vorrücken der russischen Armee
+305,"00:21:53,360","00:21:56,440",1313.36,1316.44,3.0800000000001546,und der Reichweite der Drohnen -
+306,"00:21:56,480","00:22:00,320",1316.48,1320.32,3.839999999999918,in jeder Sekunde könnte ein Zivilist angegriffen werden.
+307,"00:22:00,320","00:22:10,440",1320.32,1330.44,10.120000000000118,"ML: Du bist physisch noch nicht da, aber die Waffen schon mal?"
+308,"00:22:10,440","00:22:13,360",1330.44,1333.36,2.9199999999998454,IN: In manchen Städten wie Cherson im Süden
+309,"00:22:13,400","00:22:17,800",1333.4,1337.8,4.399999999999864,wird ganz gezielt Jagd gemacht auf einzelne Fahrzeuge und Menschen.
+310,"00:22:17,880","00:22:20,680",1337.88,1340.68,2.7999999999999545,Das ist eben durch das Vorrücken der Russen
+311,"00:22:20,760","00:22:22,760",1340.76,1342.76,2.0,nochmals verschärft worden.
+312,"00:22:22,760","00:22:25,920",1342.76,1345.92,3.160000000000082,ML: Und was macht das mit der Psyche der Leute?
+313,"00:22:26,000","00:22:28,520",1346.0,1348.52,2.519999999999982,Wie müde sind die von alledem?
+314,"00:22:28,520","00:22:31,360",1348.52,1351.36,2.839999999999918,IN: Innerhalb der ukrainischen Armee
+315,"00:22:31,440","00:22:34,480",1351.44,1354.48,3.0399999999999636,nehme ich eine große Erschöpfung war.
+316,"00:22:34,480","00:22:36,840",1354.48,1356.84,2.3599999999999,"Das kann man sich nicht vorstellen,"
+317,"00:22:36,920","00:22:40,920",1356.92,1360.92,4.0,manche Soldaten hatten seit zwei Jahren keine Rotation mehr.
+318,"00:22:40,920","00:22:42,840",1360.92,1362.84,1.9199999999998454,ML: Weil sie so wenige sind?
+319,"00:22:42,920","00:22:45,760",1362.92,1365.76,2.839999999999918,Wie ist dieses Verhältnis?
+320,"00:22:45,760","00:22:51,000",1365.76,1371.0,5.240000000000009,"IN: Es gibt ukrainische Offiziere, die haben uns vergangenen Sommer,"
+321,"00:22:51,000","00:22:54,720",1371.0,1374.72,3.7200000000000273,in einem Verhältnis von eins zu sieben oder eins zu fünf
+322,"00:22:54,800","00:22:57,720",1374.8,1377.72,2.9200000000000728,aus ukrainischer Sicht gesprochen.
+323,"00:22:57,800","00:23:00,960",1377.8,1380.96,3.160000000000082,"Das geht soweit,"
+324,"00:23:01,000","00:23:04,800",1381.0,1384.8,3.7999999999999545,dass die Ukraine jetzt auch im Ausland rekrutiert.
+325,"00:23:04,880","00:23:08,280",1384.88,1388.28,3.3999999999998636,"Bei unserem Trip mit Kolumbianer hatten wir gedreht,"
+326,"00:23:08,360","00:23:13,800",1388.36,1393.8,5.440000000000055,bis zu 2000 Kolumbianer
+327,"00:23:14,520","00:23:18,080",1394.52,1398.08,3.5599999999999454,haben einen Vertrag bei der ukrainischen Armee
+328,"00:23:18,160","00:23:19,640",1398.16,1399.64,1.4800000000000182,als Söldner unterschrieben.
+329,"00:23:19,640","00:23:23,040",1399.64,1403.04,3.3999999999998636,ML: Warum machen sie das?
+330,"00:23:23,040","00:23:25,800",1403.04,1405.8,2.759999999999991,"IN: Mit denen, denen ich gesprochen habe,"
+331,"00:23:25,800","00:23:28,920",1405.8,1408.92,3.1200000000001182,die wollen eine Feier kämpfen
+332,"00:23:29,000","00:23:31,800",1409.0,1411.8,2.7999999999999545,und sich damit ein besseres Leben aufbauen.
+333,"00:23:31,880","00:23:34,760",1411.88,1414.76,2.8799999999998818,Das kriegerische und das Militär mögen manche.
+334,"00:23:34,760","00:23:41,320",1414.76,1421.32,6.559999999999945,ML: Was verdienen die?
+335,"00:23:41,320","00:23:43,880",1421.32,1423.88,2.560000000000173,"IN: Etwa 3000 Euro, Frontsoldaten, pro Monat sind das."
+336,"00:23:43,880","00:23:51,240",1423.88,1431.24,7.3599999999999,"ML: Dafür riskierst du dein Leben, jeden Tag?"
+337,"00:23:51,240","00:23:55,680",1431.24,1435.68,4.440000000000055,"Wahnsinn, wie lange ist das noch durchzuhalten?"
+338,"00:23:55,680","00:23:58,880",1435.68,1438.88,3.2000000000000455,"IN: Ich glaube,"
+339,"00:23:58,880","00:24:02,000",1438.88,1442.0,3.119999999999891,es gibt einen harten Kern einen Soldaten
+340,"00:24:02,080","00:24:06,280",1442.08,1446.28,4.2000000000000455,"innerhalb der ukrainischen Armee, die bis zum Ende kämpfen wird."
+341,"00:24:06,360","00:24:08,920",1446.36,1448.92,2.560000000000173,"Egal, was das Ende bedeutet."
+342,"00:24:09,040","00:24:12,760",1449.04,1452.76,3.7200000000000273,Dieses Gerüst hält die Frontlinie noch relativ stabil.
+343,"00:24:12,760","00:24:15,360",1452.76,1455.36,2.599999999999909,"ML: Also notfalls auch als Partisanen,"
+344,"00:24:15,400","00:24:17,440",1455.4,1457.44,2.0399999999999636,die machen weiter.
+345,"00:24:17,440","00:24:21,320",1457.44,1461.32,3.8799999999998818,"IN: Alles. Das ist auch ein Grund,"
+346,"00:24:21,320","00:24:24,320",1461.32,1464.32,3.0,dass die ukrainische Armee gerade stark macht.
+347,"00:24:24,400","00:24:28,320",1464.4,1468.32,3.9199999999998454,Es gibt Probleme bei der Mobilisierung und der Rekrutierung.
+348,"00:24:28,360","00:24:33,720",1468.36,1473.72,5.360000000000127,Es geht ein Motivationsproblem.
+349,"00:24:33,800","00:24:38,280",1473.8,1478.28,4.480000000000018,"Es gibt auch eine große Anzahl an Fällen, von Flucht."
+350,"00:24:38,320","00:24:41,320",1478.32,1481.32,3.0,Die unerlaubt ihren Frontplatz verlassen.
+351,"00:24:41,400","00:24:43,320",1481.4,1483.32,1.9199999999998454,Das ist aber auch menschlich.
+352,"00:24:43,360","00:24:45,320",1483.36,1485.32,1.9600000000000364,"Ich war in einem Feldlazarett,"
+353,"00:24:45,400","00:24:48,560",1485.4,1488.56,3.1599999999998545,wenige Tage vor diesem Angriff auf uns.
+354,"00:24:48,640","00:24:53,840",1488.64,1493.84,5.199999999999818,20 km von der Front entfernt.
+355,"00:24:53,920","00:24:55,560",1493.92,1495.56,1.6399999999998727,"Sind Soldaten angekommen,"
+356,"00:24:55,640","00:24:59,040",1495.64,1499.04,3.3999999999998636,"die hatten teilweise keine Hand, keinen Fuß mehr."
+357,"00:24:59,120","00:25:02,840",1499.12,1502.84,3.7200000000000273,über Wochen Kunden die teilweise nicht evakuiert werden.
+358,"00:25:02,920","00:25:06,240",1502.92,1506.24,3.3199999999999363,Weil die Drohnen eine Evakuierung unmöglich machen.
+359,"00:25:06,320","00:25:10,600",1506.32,1510.6,4.279999999999973,Das ist die Realität für viele.
+360,"00:25:10,600","00:25:15,600",1510.6,1515.6,5.0,ML: Und was weiß man über diese besetzten Gebiete?
+361,"00:25:15,600","00:25:19,400",1515.6,1519.4,3.800000000000182,"Über das, was passiert, wenn die Russen da sind?"
+362,"00:25:19,400","00:25:24,320",1519.4,1524.32,4.919999999999845,"IN: Auch gerad wieder auf die Armee bezogen,"
+363,"00:25:24,320","00:25:28,120",1524.32,1528.12,3.7999999999999545,"in den besetzten Gebieten werden viele Männer rekrutiert,"
+364,"00:25:28,200","00:25:30,800",1528.2,1530.8,2.599999999999909,die auf russischer Seite kämpfen müssen.
+365,"00:25:30,880","00:25:37,800",1530.88,1537.8,6.919999999999845,Das ist auch eine ganz neue Realität für die.
+366,"00:25:38,760","00:25:42,280",1538.76,1542.28,3.519999999999982,"Auch in Cherson,"
+367,"00:25:42,360","00:25:44,560",1542.36,1544.56,2.2000000000000455,die stehen sich da 2 km entfernt.
+368,"00:25:44,640","00:25:48,760",1544.64,1548.76,4.119999999999891,Da trennt die eine von der anderen Seite nur der Blick hinüber.
+369,"00:25:48,840","00:25:50,360",1548.84,1550.36,1.5199999999999818,"Das ist die Realität,"
+370,"00:25:50,480","00:25:57,120",1550.48,1557.12,6.639999999999873,"die wissen nicht, ob das heute oder morgen anders aussieht."
+371,"00:25:57,120","00:26:03,920",1557.12,1563.92,6.800000000000182,"ML: Und wenn Sie sagen, um auf das Thema von Florian Flade zu kommen,"
+372,"00:26:03,920","00:26:12,320",1563.92,1572.32,8.399999999999864,"sind wir auch vorbereitet im Kopf, auf das, was da womöglich droht?"
+373,"00:26:13,640","00:26:17,520",1573.64,1577.52,3.8799999999998818,"IN: Ich sehe, dass im Verteidigungsministerium"
+374,"00:26:17,640","00:26:19,520",1577.64,1579.52,1.8799999999998818,"viele Menschen gibt,"
+375,"00:26:19,600","00:26:23,240",1579.6,1583.24,3.6400000000001,"die sich Gedanken machen, wie sie die Truppe aufstellen."
+376,"00:26:23,320","00:26:25,560",1583.32,1585.56,2.240000000000009,"Wir sind aber weit davon entfernt,"
+377,"00:26:25,640","00:26:28,720",1585.64,1588.72,3.0799999999999272,dass wir kriegstüchtig oder Abwehr bereit sind.
+378,"00:26:28,800","00:26:31,760",1588.8,1591.76,2.9600000000000364,Stand jetzt sind wir nicht verteidigungsbereit.
+379,"00:26:31,840","00:26:34,600",1591.84,1594.6,2.759999999999991,"Wir können uns nicht wären,"
+380,"00:26:34,680","00:26:38,160",1594.68,1598.16,3.480000000000018,wenn hunderte russische Langstreckendrohnen Richtung
+381,"00:26:38,240","00:26:39,400",1598.24,1599.4,1.1600000000000819,Westeuropa fliegen.
+382,"00:26:39,480","00:26:41,800",1599.48,1601.8,2.3199999999999363,"Auch die Vorzeigebrigade in Litauen,"
+383,"00:26:41,880","00:26:49,440",1601.88,1609.44,7.559999999999945,hätte auf einem modernen Gefechtsfeld aktuell keine Chance.
+384,"00:26:49,520","00:26:52,240",1609.52,1612.24,2.7200000000000273,"Die ist noch im Aufbau,"
+385,"00:26:52,280","00:26:54,960",1612.28,1614.96,2.6800000000000637,aber es fehlt an moderner Drohnentechnik.
+386,"00:26:55,040","00:26:58,840",1615.04,1618.84,3.7999999999999545,"Selbst nicht, dass man keine Kampfpanzer mehr kaufen darf,"
+387,"00:26:58,920","00:27:01,080",1618.92,1621.08,2.1599999999998545,auch die habe noch eine Bedeutung.
+388,"00:27:01,160","00:27:04,440",1621.16,1624.44,3.2799999999999727,Aber unser Fokus ist falsch gesetzt.
+389,"00:27:04,440","00:27:10,560",1624.44,1630.56,6.119999999999891,Das ist auch was Florian Flade angesprochen hat.
+390,"00:27:10,560","00:27:13,240",1630.56,1633.24,2.6800000000000637,"Elektronische Kampfführung,"
+391,"00:27:13,320","00:27:16,960",1633.32,1636.96,3.6400000000001,da hat Russland viel hinzu gelernt.
+392,"00:27:17,040","00:27:22,200",1637.04,1642.2,5.160000000000082,Auch der Einsatz von Glasfaserdrohen.
+393,"00:27:22,240","00:27:25,040",1642.24,1645.04,2.7999999999999545,"Da sind die Russen wirklich an einem Punkt,"
+394,"00:27:25,120","00:27:27,320",1645.12,1647.32,2.2000000000000455,"wo wir aufholen müssen, sehr schnell."
+395,"00:27:27,320","00:27:32,800",1647.32,1652.8,5.480000000000018,"ML: Sie sagen, auch Roboter kommen zum Einsatz?"
+396,"00:27:32,800","00:27:34,960",1652.8,1654.96,2.160000000000082,"IN: Diese Todeszone führt dazu,"
+397,"00:27:34,960","00:27:42,280",1654.96,1662.28,7.319999999999936,dass viele Aufgaben nicht mehr durch Menschen übernommen werden kann.
+398,"00:27:42,360","00:27:45,160",1662.36,1665.16,2.800000000000182,"Und wenn, ist die Gefahr unglaublich groß."
+399,"00:27:45,240","00:27:48,800",1665.24,1668.8,3.5599999999999454,"Deswegen gibt es Roboter, Bodendrohnen."
+400,"00:27:48,880","00:27:56,400",1668.88,1676.4,7.519999999999982,"Die transportieren Logistik, Wasser, aber auch verwunderte."
+401,"00:27:56,480","00:28:03,160",1676.48,1683.16,6.680000000000064,"Es gibt Fälle, wo Verwundeten nicht mehr transportiert werden können,"
+402,"00:28:03,400","00:28:07,440",1683.4,1687.44,4.039999999999964,dann werden diese Fahrzeuge an gefahren.
+403,"00:28:07,520","00:28:14,960",1687.52,1694.96,7.440000000000055,Aber auch diese werden von Kamikaze-Drohnen erwischt.
+404,"00:28:15,080","00:28:19,800",1695.08,1699.8,4.720000000000027,"Hier sehen wir einen bewaffneten Roboter,"
+405,"00:28:19,840","00:28:24,320",1699.84,1704.32,4.480000000000018,"die dritte Sturmbrigade der ukrainischen Armee,"
+406,"00:28:24,360","00:28:28,720",1704.36,1708.72,4.360000000000127,die haben einen Angriff kürzlich durchgeführt nur mit dem Einsatz
+407,"00:28:28,800","00:28:31,600",1708.8,1711.6,2.7999999999999545,"von Boden und Luftdrohnen, keine Menschen."
+408,"00:28:31,640","00:28:34,160",1711.64,1714.16,2.519999999999982,Sie haben russische Soldaten zum ergeben gezwungen.
+409,"00:28:34,160","00:28:36,840",1714.16,1716.84,2.6799999999998363,"ML: Ich glaube, das haben wir auch hier."
+410,"00:28:36,880","00:28:41,720",1716.88,1721.72,4.839999999999918,"Das können wir zuspielen, das ist wirklich beeindruckend."
+411,"00:28:41,720","00:28:44,920",1721.72,1724.92,3.2000000000000455,"IN: Da haben Sie eine Bodendrohne ein gesetzt,"
+412,"00:28:44,920","00:28:47,800",1724.92,1727.8,2.8799999999998818,"und hier sieht man die russischen Soldaten,"
+413,"00:28:47,840","00:28:50,840",1727.84,1730.84,3.0,"die ein Schild hochhalten, das sagt, wir wollen uns ergeben."
+414,"00:28:50,840","00:28:57,240",1730.84,1737.24,6.400000000000091,ML: Da ist kein ukrainischer Soldat im Einsatz.
+415,"00:28:57,240","00:29:01,160",1737.24,1741.16,3.9200000000000728,"IN: Und sie haben sich ergeben, dass muss man dazu sagen,"
+416,"00:29:01,160","00:29:04,760",1741.16,1744.76,3.599999999999909,"dass es kein Flächenphänomen, aber das ist die Zukunft."
+417,"00:29:04,840","00:29:07,880",1744.84,1747.88,3.040000000000191,"Nur um das noch mal einzuordnen,"
+418,"00:29:07,960","00:29:12,040",1747.96,1752.04,4.079999999999927,die ukrainische Armee plant bis zu 15.000 dieser Bodendrohnen
+419,"00:29:12,080","00:29:13,640",1752.08,1753.64,1.5600000000001728,an die Front zu bringen.
+420,"00:29:13,680","00:29:16,360",1753.68,1756.36,2.6799999999998363,"Das ist eine Dimension, die was hergibt."
+421,"00:29:16,360","00:29:19,680",1756.36,1759.68,3.3200000000001637,"ML: Kommen wir direkt zu Florian Flade, der sagt,"
+422,"00:29:19,760","00:29:22,600",1759.76,1762.6,2.839999999999918,"es gibt im Grunde keinen Ort auf der Welt,"
+423,"00:29:22,600","00:29:27,400",1762.6,1767.4,4.800000000000182,"wo man sich unbeobachtet belegen kann, außer die Weltmeere."
+424,"00:29:27,480","00:29:30,320",1767.48,1770.32,2.839999999999918,"Wir wissen mehr über den Mond, als die Meere."
+425,"00:29:30,440","00:29:34,360",1770.44,1774.36,3.9199999999998454,"Das hilft jemandem wie Putin, warum?"
+426,"00:29:34,360","00:29:37,480",1774.36,1777.48,3.1200000000001182,"FF: Weil das eine militärische Dimension ist,"
+427,"00:29:37,480","00:29:39,360",1777.48,1779.36,1.8799999999998818,"unter Wasser ist ein Bereich,"
+428,"00:29:39,400","00:29:42,360",1779.4,1782.36,2.959999999999809,der militärisch strategisch sehr wichtig ist.
+429,"00:29:42,400","00:29:44,360",1782.4,1784.36,1.959999999999809,"Viel wichtiger, als die meisten erwarten."
+430,"00:29:44,360","00:29:51,160",1784.36,1791.16,6.800000000000182,"ML: Können Sie erklären, warum?"
+431,"00:29:51,160","00:29:53,160",1791.16,1793.16,2.0,"FF: Einmal ist es der Punkt,"
+432,"00:29:53,240","00:29:55,760",1793.24,1795.76,2.519999999999982,"ich kann mich vor Spionagesatelliten,"
+433,"00:29:55,840","00:30:00,600",1795.84,1800.6,4.759999999999991,vor Drohnen und Flugzeugen nicht mehr verstecken.
+434,"00:30:00,640","00:30:04,720",1800.64,1804.72,4.079999999999927,"Wenn ich etwas verstecken möchte, mache ich das unter Wasser."
+435,"00:30:04,760","00:30:09,760",1804.76,1809.76,5.0,"Alles was da passiert, wenn man das Wasser ablassen würde aus dem Ozean,"
+436,"00:30:09,840","00:30:12,840",1809.84,1812.84,3.0,"sieht man eine Welt, die besteht aus Geweben,"
+437,"00:30:12,920","00:30:16,360",1812.92,1816.36,3.439999999999827,"wenn ich da navigieren kann, militärisch,"
+438,"00:30:16,440","00:30:22,680",1816.44,1822.68,6.240000000000009,ist das ein entscheidender Vorteil.
+439,"00:30:24,440","00:30:32,080",1824.44,1832.08,7.639999999999873,Wenn ich navigieren kann ohne auf Satellitennavigation
+440,"00:30:35,440","00:30:38,520",1835.44,1838.52,3.0799999999999272,"mich verlassen zu müssen, i st das ein Vorteil."
+441,"00:30:38,640","00:30:42,320",1838.64,1842.32,3.6799999999998363,Natürlich gab es das auch schon Frühjahr im kalten Krieg.
+442,"00:30:42,440","00:30:46,280",1842.44,1846.28,3.839999999999918,Auch da spielen unbekannte Systeme immer wieder eine Rolle.
+443,"00:30:46,360","00:30:49,320",1846.36,1849.32,2.9600000000000364,Russland hat diesen Bereich für sich entdeckt.
+444,"00:30:49,440","00:30:50,600",1849.44,1850.6,1.1599999999998545,Es ist eine Prestigesache für die Russen.
+445,"00:30:50,600","00:30:55,520",1850.6,1855.52,4.920000000000073,"ML: Sie sagen, die sind stolz darauf."
+446,"00:30:55,600","00:31:01,040",1855.6,1861.04,5.440000000000055,"Die haben eine Einheit, die ist direkt im Verteidigungsministerium."
+447,"00:31:01,040","00:31:07,680",1861.04,1867.68,6.6400000000001,FF: Die Einheit heißt Hauptverwaltung Tiefseeforschung.
+448,"00:31:07,680","00:31:15,080",1867.68,1875.08,7.399999999999864,"Diese Spezialeinheit, da sind Wissenschaftler dabei."
+449,"00:31:15,760","00:31:18,040",1875.76,1878.04,2.2799999999999727,"Deren Aufgabe ist es,"
+450,"00:31:18,120","00:31:21,840",1878.12,1881.84,3.7200000000000273,"die Ozeane zu vermessen, Unterwasserkarten zu erstellen."
+451,"00:31:21,920","00:31:23,280",1881.92,1883.28,1.3599999999999,"Systeme zu entwickeln,"
+452,"00:31:23,360","00:31:26,360",1883.36,1886.36,3.0,die dort agieren können.
+453,"00:31:26,440","00:31:28,120",1886.44,1888.12,1.6799999999998363,"Unter Wasserdrohnen,"
+454,"00:31:28,200","00:31:31,320",1888.2,1891.32,3.119999999999891,die unsere Infrastruktur ausspionieren sollen.
+455,"00:31:31,440","00:31:34,880",1891.44,1894.88,3.4400000000000546,Pipelines und andere Dinge.
+456,"00:31:34,960","00:31:40,760",1894.96,1900.76,5.7999999999999545,"Die auch damit beauftragt ist,"
+457,"00:31:40,840","00:31:46,360",1900.84,1906.36,5.519999999999982,die russischen Infrastrukturen zu schützen.
+458,"00:31:46,440","00:31:49,240",1906.44,1909.24,2.7999999999999545,"U-Boote, die atomaren U-Boote."
+459,"00:31:49,360","00:31:52,920",1909.36,1912.92,3.560000000000173,"Die Russen waren U-Boote, die andere U-Boote absetzen."
+460,"00:31:53,480","00:31:58,200",1913.48,1918.2,4.720000000000027,"Die sind dazu in der Lage, Dinge zu tun, die die NATO nicht mehr macht."
+461,"00:31:58,200","00:32:00,240",1918.2,1920.24,2.0399999999999636,"ML: Beispielsweise, Sie sagen,"
+462,"00:32:00,320","00:32:02,600",1920.32,1922.6,2.2799999999999727,"die machen Dinge, und riskieren Kopf und Kragen."
+463,"00:32:02,600","00:32:09,720",1922.6,1929.72,7.120000000000118,"FF: Die werden auch höher bezahlt, die Herrschaften, die dort arbeiten."
+464,"00:32:09,720","00:32:12,760",1929.72,1932.76,3.0399999999999636,"Die sind viel zu jung um diesen Rang zu haben,"
+465,"00:32:12,840","00:32:15,160",1932.84,1935.16,2.3200000000001637,"aber da werden Gelder bezahlt, weil es riskant ist."
+466,"00:32:15,120","00:32:23,840",1935.12,1943.84,8.720000000000027,ML: Beispielsweise?
+467,"00:32:23,840","00:32:29,080",1943.84,1949.08,5.240000000000009,"FF: Es geht darum,"
+468,"00:32:29,640","00:32:32,680",1949.64,1952.68,3.0399999999999636,die Dinge in diesen Tiefen zu erforschen
+469,"00:32:32,800","00:32:35,640",1952.8,1955.64,2.8400000000001455,"und gleichzeitig dort unten zu navigieren,"
+470,"00:32:35,720","00:32:40,120",1955.72,1960.12,4.399999999999864,es ist das navigieren rein nach Karte.
+471,"00:32:40,200","00:32:44,920",1960.2,1964.92,4.720000000000027,"Ich fahre durch Canyons, rein nach Karte, das ist hochgefährlich."
+472,"00:32:45,000","00:32:48,520",1965.0,1968.52,3.519999999999982,"Es gab schon mehrere Unfälle, auch in dieser Einheit."
+473,"00:32:48,640","00:32:52,880",1968.64,1972.88,4.240000000000009,Da spielen auch nukleare Komponenten eine Rolle.
+474,"00:32:52,880","00:32:56,240",1972.88,1976.24,3.3599999999999,ML: Ich denke gerade an die Kursk.
+475,"00:32:56,240","00:32:59,200",1976.24,1979.2,2.9600000000000364,in diesem.
+476,"00:32:59,280","00:33:01,920",1979.28,1981.92,2.6400000000001,Wo ist das?
+477,"00:33:01,920","00:33:07,160",1981.92,1987.16,5.240000000000009,FF: Dort ist die russische Nordmeerflotte stationiert.
+478,"00:33:07,160","00:33:11,920",1987.16,1991.92,4.759999999999991,Das ist das Revier der russischen Atom U-Boote.
+479,"00:33:12,000","00:33:15,160",1992.0,1995.16,3.160000000000082,Strategisch sehr wichtig.
+480,"00:33:15,240","00:33:23,040",1995.24,2003.04,7.7999999999999545,Deswegen schützt Russland das auf besondere Art und Weise.
+481,"00:33:24,680","00:33:27,880",2004.68,2007.88,3.2000000000000455,Diese Einheit sollte dem Westen Sorge bereiten.
+482,"00:33:27,960","00:33:31,480",2007.96,2011.48,3.519999999999982,Irgendwann werden sie in der Lage
+483,"00:33:31,560","00:33:35,680",2011.56,2015.68,4.120000000000118,sein dort zu navigieren ohne auf Satelliten angewiesen zu sein.
+484,"00:33:35,760","00:33:38,560",2015.76,2018.56,2.7999999999999545,Das Aufspüren ist außerdem auch unglaublich schwer.
+485,"00:33:38,560","00:33:41,560",2018.56,2021.56,3.0,ML: Ich war vor Jahren in Murmansk unterwegs
+486,"00:33:41,640","00:33:44,000",2021.64,2024.0,2.3599999999999,und kenne die Stadt ein bisschen.
+487,"00:33:44,000","00:33:51,440",2024.0,2031.44,7.440000000000055,"Wenn man auf das Meer rausgeht, hat man viele Fjorde,"
+488,"00:33:52,120","00:33:58,440",2032.12,2038.44,6.320000000000164,und das sieht man die Urboote teilweise
+489,"00:33:58,520","00:34:01,440",2038.52,2041.44,2.9200000000000728,"aus dem Wasser kommen, teilweise am verroten."
+490,"00:34:01,520","00:34:03,840",2041.52,2043.84,2.3199999999999363,"Ich höre von norwegischen Fischern,"
+491,"00:34:03,920","00:34:09,520",2043.92,2049.52,5.599999999999909,"so viele russische Boote wie im Moment, hatten die noch nie."
+492,"00:34:09,520","00:34:15,480",2049.52,2055.48,5.960000000000036,"FF: Es ist so, dass Russland die Arktis zunehmend erschließt."
+493,"00:34:15,480","00:34:18,280",2055.48,2058.28,2.800000000000182,Sie wird geostrategisch immer wichtiger.
+494,"00:34:18,360","00:34:22,800",2058.36,2062.8,4.440000000000055,Einerseits weil durch den Klimawandel Eis schmilzt.
+495,"00:34:22,880","00:34:25,280",2062.88,2065.28,2.400000000000091,"Für Russland auch eine Bedrohung,"
+496,"00:34:25,440","00:34:31,960",2065.44,2071.96,6.519999999999982,fremder Protokollen einfacher hinkommen.
+497,"00:34:41,120","00:34:44,440",2081.12,2084.44,3.3200000000001637,"Wir haben aus diesem Eurocent touristischen Blick,"
+498,"00:34:44,520","00:34:46,360",2084.52,2086.36,1.8400000000001455,Europa in der Mittee...
+499,"00:34:46,440","00:34:49,160",2086.44,2089.16,2.7199999999998,Man muss sich den Globus mal um drehenden.
+500,"00:34:49,160","00:34:55,240",2089.16,2095.24,6.079999999999927,ML: So wie wir das hier gemacht haben und von oben drauf schauen.
+501,"00:34:55,240","00:34:59,760",2095.24,2099.76,4.520000000000437,FF: Mann ist schnell in verschiedenen Teilen der Welt.
+502,"00:34:59,760","00:35:03,680",2099.76,2103.68,3.919999999999618,"Da werden als höher, sowjetischer Militäreinlagen erneuert."
+503,"00:35:03,760","00:35:07,040",2103.76,2107.04,3.2799999999997453,Da werden Soldaten stationiert.
+504,"00:35:07,120","00:35:09,880",2107.12,2109.88,2.7600000000002183,"Ein Bereich ist dieser Unterwasserbereich,"
+505,"00:35:09,960","00:35:11,280",2109.96,2111.28,1.3200000000001637,der hochrelevant ist.
+506,"00:35:11,400","00:35:18,080",2111.4,2118.08,6.679999999999836,Das haben wir in einer großen Recherche...
+507,"00:35:18,840","00:35:24,080",2118.84,2124.08,5.239999999999782,ML: Russian Secret.
+508,"00:35:25,720","00:35:29,480",2125.72,2129.48,3.7600000000002183,"FF: Wir haben das Projekt so genannt,"
+509,"00:35:29,560","00:35:33,240",2129.56,2133.24,3.6799999999998363,wir hatten internationale Partner dabei.
+510,"00:35:33,360","00:35:36,480",2133.36,2136.48,3.119999999999891,"Ausgehend von einem verfahrenen Deutschland,"
+511,"00:35:36,560","00:35:38,560",2136.56,2138.56,2.0,"gegen den wurden wir ermittelt,"
+512,"00:35:38,640","00:35:45,480",2138.64,2145.48,6.8400000000001455,er soll dabei geholfen haben Technologie zu beschaffen.
+513,"00:35:45,560","00:35:48,960",2145.56,2148.96,3.400000000000091,"Maritine Technologie, Technologie die man im Wasser einsetzen kann."
+514,"00:35:48,960","00:36:01,480",2148.96,2161.48,12.519999999999982,ML: Was weiß man über den?
+515,"00:36:01,480","00:36:04,280",2161.48,2164.28,2.800000000000182,"FF: Das ist jemand, der kam nach deutschland,"
+516,"00:36:04,360","00:36:08,640",2164.36,2168.64,4.279999999999745,war dann erst mal Handballtrainer und der wurde kürzlich in Frankfurt
+517,"00:36:08,720","00:36:12,920",2168.72,2172.92,4.200000000000273,"verurteilt, für das was er gemacht hat."
+518,"00:36:12,920","00:36:17,240",2172.92,2177.24,4.319999999999709,"ML: Darf ich mal fragen, wenn ihr euch auf so eine Fährte setzt,"
+519,"00:36:17,240","00:36:20,160",2177.24,2180.16,2.9200000000000728,wie bekommt ihr das mit?
+520,"00:36:20,280","00:36:26,840",2180.28,2186.84,6.559999999999945,Da ist also in Frankfurt ein Prozess und steht irgendwo geschrieben.
+521,"00:36:26,840","00:36:29,800",2186.84,2189.8,2.9600000000000364,"FF: Der Fall war nicht sehr prominent,"
+522,"00:36:29,800","00:36:32,080",2189.8,2192.08,2.2799999999997453,es gab nicht viel Berichte darüber.
+523,"00:36:32,160","00:36:35,800",2192.16,2195.8,3.6400000000003274,Doch wir konnten in die Anklageschrift Stück schauen.
+524,"00:36:35,880","00:36:41,800",2195.88,2201.8,5.920000000000073,"Das ist sehr interessant, was sie herausgefunden haben."
+525,"00:36:41,880","00:36:44,400",2201.88,2204.4,2.519999999999982,Da geht es um ein Beschaffungsnetzwerk
+526,"00:36:44,480","00:36:46,280",2204.48,2206.28,1.800000000000182,des russischen Militärs.
+527,"00:36:46,360","00:36:49,200",2206.36,2209.2,2.8399999999996908,Erst mutmaßlich ein Teil davon.
+528,"00:36:49,320","00:36:54,960",2209.32,2214.96,5.639999999999873,"Was wir gesehen haben ist,"
+529,"00:36:55,080","00:37:01,600",2215.08,2221.6,6.519999999999982,"in Zypern wurde einer Firma gegründet,"
+530,"00:37:05,040","00:37:08,000",2225.04,2228.0,2.9600000000000364,"man glaubt, dass es eine Tarnfirma war."
+531,"00:37:08,080","00:37:12,240",2228.08,2232.24,4.1599999999998545,Und diese haben Technologie und Schiffe auf der ganzen Welt gekauft.
+532,"00:37:12,360","00:37:17,240",2232.36,2237.24,4.879999999999654,Warum kauft
+533,"00:37:18,040","00:37:20,400",2238.04,2240.4,2.3600000000001273,Russland diese Technologie?
+534,"00:37:20,480","00:37:24,320",2240.48,2244.32,3.8400000000001455,Warum kauft das russische Militär ausrangierte Schiffe?
+535,"00:37:24,440","00:37:29,840",2244.44,2249.84,5.400000000000091,"Schiffe, mit denen man vermessen kann und Kabel verlegen kann."
+536,"00:37:29,960","00:37:34,160",2249.96,2254.16,4.199999999999818,"Auch zwei Schiffe, die vorher in Deutschland waren."
+537,"00:37:34,240","00:37:39,440",2254.24,2259.44,5.200000000000273,"Viele der Produkte,"
+538,"00:37:39,800","00:37:43,440",2259.8,2263.44,3.6399999999998727,"die gekauft wurden, da war der Endabnehmer nicht klar."
+539,"00:37:43,560","00:37:46,000",2263.56,2266.0,2.4400000000000546,"Wir konnten dann,"
+540,"00:37:46,080","00:37:48,960",2266.08,2268.96,2.880000000000109,"das haben Kolleginnen und Kollegen gemacht,"
+541,"00:37:49,000","00:37:51,560",2269.0,2271.56,2.5599999999999454,wir haben den Weg der Schiffe verfolgt.
+542,"00:37:51,640","00:37:54,480",2271.64,2274.48,2.8400000000001455,Wo die landen und wo die sich bewegt haben.
+543,"00:37:54,480","00:37:57,600",2274.48,2277.6,3.119999999999891,ML: Lass uns da einmal reinschauen:
+544,"00:37:57,680","00:38:01,920",2277.68,2281.92,4.2400000000002365,- Die Gegend am Nordpol hat für Russland einzigartige Vorteile.
+545,"00:38:01,920","00:38:04,400",2281.92,2284.4,2.480000000000018,Das erkennt man bei dem Blick von oben.
+546,"00:38:04,520","00:38:07,760",2284.52,2287.76,3.2400000000002365,Von hier kann Russlandpaketen und Schiffe starten.
+547,"00:38:07,840","00:38:14,680",2287.84,2294.68,6.839999999999691,Nach Deutschland und USA sind die Wege kurz.
+548,"00:38:19,360","00:38:22,920",2299.36,2302.92,3.5599999999999454,Unsere GPS Daten zeigen:
+549,"00:38:23,000","00:38:26,520",2303.0,2306.52,3.519999999999982,von diesen Raketenstützpunkten kreuzt die Aquarius.
+550,"00:38:26,600","00:38:29,920",2306.6,2309.92,3.3200000000001637,Nicht nur sie.
+551,"00:38:30,000","00:38:33,880",2310.0,2313.88,3.880000000000109,"In den Daten fehlenden wir ein zweites Schiff, die Aurelia."
+552,"00:38:33,960","00:38:39,280",2313.96,2319.28,5.320000000000164,Auch sie ist Deutsch.
+553,"00:38:39,640","00:38:44,240",2319.64,2324.24,4.599999999999909,Sie senden ab und zu Funksignale.
+554,"00:38:44,320","00:38:49,560",2324.32,2329.56,5.239999999999782,"So können wir nachvollziehen, wo sie nach gefahren sind."
+555,"00:38:49,640","00:38:53,160",2329.64,2333.16,3.519999999999982,Die Aurelia fährt 2020 bei Murmansk in Sperrgebiete
+556,"00:38:53,240","00:38:59,040",2333.24,2339.04,5.800000000000182,wo russische U-Boote liegen.
+557,"00:39:02,520","00:39:06,120",2342.52,2346.12,3.599999999999909,Hier hält sie sich mehrere Wochen auf.
+558,"00:39:06,240","00:39:11,880",2346.24,2351.88,5.640000000000327,Festgehalten auf einem Satellitenbild.
+559,"00:39:11,960","00:39:15,680",2351.96,2355.68,3.7199999999998,"Die Aquarius steuerte auch eine fast unbewohnte Insel an,"
+560,"00:39:15,760","00:39:18,160",2355.76,2358.16,2.399999999999636,wo nukleare Waffen getestet werden.
+561,"00:39:18,240","00:39:21,240",2358.24,2361.24,3.0,Aurelia fährt immer wieder dieselbe Strecke.
+562,"00:39:21,320","00:39:24,160",2361.32,2364.16,2.8399999999996908,"Vielleicht sind nicht die Häfen die Mission,"
+563,"00:39:24,240","00:39:30,240",2364.24,2370.24,6.0,sondern die Strecke dazwischen?
+564,"00:39:32,800","00:39:36,240",2372.8,2376.24,3.4399999999996,"ML: Vielleicht sind gar nicht die Häfen die Mission,"
+565,"00:39:36,320","00:39:39,240",2376.32,2379.24,2.919999999999618,sondern die Strecke dazwischen.
+566,"00:39:39,240","00:39:43,800",2379.24,2383.8,4.5600000000004,"FF: Wir gehen davon aus, dass tun auch westliche Geheimdienste,"
+567,"00:39:43,800","00:39:47,400",2383.8,2387.4,3.599999999999909,dass Russland da oben etwas aufgebaut hat unter Wasser.
+568,"00:39:47,520","00:39:49,800",2387.52,2389.8,2.2800000000002,Ein geheimes Verteidigungsprogramm.
+569,"00:39:49,880","00:39:54,200",2389.88,2394.2,4.319999999999709,Die Russen nennen dazu ihre Bastion.
+570,"00:39:54,320","00:39:57,720",2394.32,2397.72,3.399999999999636,Das ist das wir ihrer U-Boote.
+571,"00:39:57,800","00:40:03,280",2397.8,2403.28,5.480000000000018,"Deswegen haben sie dort etwas aufgebaut, ein System unter Wasser."
+572,"00:40:03,320","00:40:08,440",2403.32,2408.44,5.119999999999891,"Mit Sensoren, Kabeln, die können Daten verarbeiten."
+573,"00:40:08,560","00:40:12,640",2408.56,2412.64,4.079999999999927,Und kann sich das vorstellen wie eine Unterwasser Alarmanlage.
+574,"00:40:12,760","00:40:15,920",2412.76,2415.92,3.1599999999998545,"Ein System, ein Schutzsystem."
+575,"00:40:16,000","00:40:18,720",2416.0,2418.72,2.7199999999998,"Die Recherche hat gezeigt,"
+576,"00:40:18,840","00:40:23,360",2418.84,2423.36,4.519999999999982,dass Russland von Putin mit westlicher Technologie
+577,"00:40:23,480","00:40:30,360",2423.48,2430.36,6.880000000000109,"die Waffen schützt, mit denen es uns bedroht."
+578,"00:40:35,920","00:40:38,960",2435.92,2438.96,3.0399999999999636,"ML: Und Sie sagen es geht soweit,"
+579,"00:40:39,040","00:40:45,400",2439.04,2445.4,6.360000000000127,"dass man sozusagen schiffsspezifisch sagen kann,"
+580,"00:40:45,480","00:40:47,720",2445.48,2447.72,2.2399999999997817,"dass ist die Waffe, für das Schiff."
+581,"00:40:47,720","00:40:50,960",2447.72,2450.96,3.2400000000002365,"FF: In dieser Unterwasserwelt muss man verstehen,"
+582,"00:40:51,040","00:40:54,080",2451.04,2454.08,3.0399999999999636,"dass es hoch relevant ist, etwas aufzuspüren."
+583,"00:40:54,080","00:40:56,760",2454.08,2456.76,2.680000000000291,"Wie macht man das, ich muss hören."
+584,"00:40:56,840","00:41:00,960",2456.84,2460.96,4.119999999999891,Jedes Schiff hat durch die Schiffsschraube einen individuellen
+585,"00:41:01,040","00:41:03,880",2461.04,2463.88,2.8400000000001455,Sound.
+586,"00:41:03,960","00:41:07,240",2463.96,2467.24,3.2799999999997453,Man nennt das eine hydroakustische Signatur.
+587,"00:41:07,320","00:41:09,920",2467.32,2469.92,2.599999999999909,Mag das aufzuzeichnen ist total wichtig
+588,"00:41:10,000","00:41:12,080",2470.0,2472.08,2.0799999999999272,und wird seit dem kalten Krieg gemacht so findet man U-Boote.
+589,"00:41:12,080","00:41:15,480",2472.08,2475.48,3.400000000000091,"ML: Und man weiß genau,"
+590,"00:41:15,560","00:41:18,680",2475.56,2478.68,3.119999999999891,"es kommt nicht ein U-Boot, es kommt das U-Boot."
+591,"00:41:18,680","00:41:23,120",2478.68,2483.12,4.440000000000055,FF: Das machen viele Länder. Die NATO auch in Bezug auf Russland.
+592,"00:41:23,120","00:41:26,680",2483.12,2486.68,3.5599999999999454,Man muss immer wieder diesen neuen Sound beschaffen.
+593,"00:41:26,800","00:41:30,240",2486.8,2490.24,3.4399999999996,Das kann man mit Mikrofonen versteckt er mehr machen.
+594,"00:41:30,320","00:41:35,720",2490.32,2495.72,5.399999999999636,Auch dafür ist diese Spezialeinheit von Russland zuständig.
+595,"00:41:35,840","00:41:38,760",2495.84,2498.76,2.9200000000000728,Für den Sound von westlichen Booten.
+596,"00:41:38,760","00:41:41,360",2498.76,2501.36,2.599999999999909,ML: Welche Rolle spielt dann
+597,"00:41:41,440","00:41:44,120",2501.44,2504.12,2.6799999999998363,das Wrack der Estonia in diesem Beispiel?
+598,"00:41:44,120","00:41:47,040",2504.12,2507.04,2.9200000000000728,"FF: Wir haben im Zuge der Recherche gehört,"
+599,"00:41:47,120","00:41:51,200",2507.12,2511.2,4.079999999999927,"dass es innerhalb der NATO Geheimdienst Erkenntnisse ergibt,"
+600,"00:41:51,200","00:41:53,360",2511.2,2513.36,2.1600000000003092,dass Russland das fragt der Estonia.
+601,"00:41:53,360","00:41:57,200",2513.36,2517.2,3.8399999999996908,ML: Über 800 Tote.
+602,"00:41:57,200","00:42:01,000",2517.2,2521.0,3.800000000000182,FF: Das Schlimmste Schiffsunglück in der Nachkriegszeit.
+603,"00:42:01,000","00:42:04,880",2521.0,2524.88,3.880000000000109,"800 Tote, die meisten Leichen sind noch auf dem Meeresboden."
+604,"00:42:05,000","00:42:09,560",2525.0,2529.56,4.559999999999945,Man darf dort nicht hin tauchen.
+605,"00:42:09,560","00:42:12,840",2529.56,2532.84,3.2800000000002,ML: Um die Totenruhe nicht zu stören.
+606,"00:42:12,840","00:42:16,040",2532.84,2536.04,3.199999999999818,"FF: Es gibt sogar ein Gesetz,"
+607,"00:42:16,040","00:42:19,480",2536.04,2539.48,3.4400000000000546,"was verabschiedet wurde, um die Estonia zu schützen."
+608,"00:42:19,600","00:42:23,240",2539.6,2543.24,3.6399999999998727,"In der NATO gibt es Erkenntnisse,"
+609,"00:42:23,320","00:42:25,360",2543.32,2545.36,2.0399999999999636,dass Russland und diese Einheit
+610,"00:42:25,480","00:42:28,160",2545.48,2548.16,2.6799999999998363,das Wrack der Estonia benutzt für Übungen.
+611,"00:42:28,280","00:42:30,280",2548.28,2550.28,2.0,"Und dass man die Vermutung hat,"
+612,"00:42:30,400","00:42:33,080",2550.4,2553.08,2.6799999999998363,"dass Russland dort ihre Technik versteckt,"
+613,"00:42:33,200","00:42:35,400",2553.2,2555.4,2.200000000000273,um den Zaun von NATO Schiffen aufzuspüren.
+614,"00:42:35,400","00:42:40,040",2555.4,2560.04,4.639999999999873,ML: Man muss das irgendwo befestigen.
+615,"00:42:40,040","00:42:42,840",2560.04,2562.84,2.800000000000182,FF: Da kommt nicht so oft Besuch vorbei.
+616,"00:42:42,840","00:42:44,720",2562.84,2564.72,1.8799999999996544,Man kann das leichter an einem Schiffswrack beschäftigen.
+617,"00:42:44,720","00:42:47,960",2564.72,2567.96,3.2400000000002365,ML: Und man darf nicht zu viele Skrupel haben.
+618,"00:42:48,080","00:42:52,120",2568.08,2572.12,4.039999999999964,"Interessant in diesem Zusammenhang, ein bisschen oldschool,"
+619,"00:42:52,120","00:42:57,200",2572.12,2577.2,5.079999999999927,ein bisschen retro.
+620,"00:42:57,320","00:43:00,200",2577.32,2580.2,2.8799999999996544,Die Russen haben nie aufgehört
+621,"00:43:00,280","00:43:04,320",2580.28,2584.32,4.039999999999964,die Menschen zu korrumpiert und zu kaufen.
+622,"00:43:04,440","00:43:06,840",2584.44,2586.84,2.400000000000091,Welche Rolle spielt Spionage
+623,"00:43:06,920","00:43:10,000",2586.92,2590.0,3.0799999999999272,im Sinne von Mensch zu Mensch in diesem System?
+624,"00:43:10,000","00:43:11,240",2590.0,2591.24,1.2399999999997817,FF: Das ist immer noch wahnsinnig relevant.
+625,"00:43:12,280","00:43:17,520",2592.28,2597.52,5.239999999999782,FF: Das ist immer noch wahnsinnig relevant.
+626,"00:43:17,520","00:43:19,640",2597.52,2599.64,2.119999999999891,Für die russischen Geheimdienste
+627,"00:43:19,720","00:43:25,440",2599.72,2605.44,5.720000000000255,immer noch einer der wichtigsten Bereiche.
+628,"00:43:25,560","00:43:26,800",2605.56,2606.8,1.2400000000002365,"Wenn es darum geht,"
+629,"00:43:26,880","00:43:31,400",2606.88,2611.4,4.519999999999982,"Informationen zu bekommen hochrelevante an bestimmten Stellen,"
+630,"00:43:31,520","00:43:34,640",2611.52,2614.64,3.119999999999891,"dann ist das wichtig, einen Mensch teilzuhaben."
+631,"00:43:34,720","00:43:37,080",2614.72,2617.08,2.3600000000001273,In anzuwerben oder mit eigenen Spionen.
+632,"00:43:38,280","00:43:41,280",2618.28,2621.28,3.0,"ML: In dem Zusammenhang,"
+633,"00:43:41,440","00:43:43,960",2621.44,2623.96,2.519999999999982,"wir können das noch mal kurz anreisen,"
+634,"00:43:44,040","00:43:45,560",2624.04,2625.56,1.5199999999999818,"bei anderer Gelegenheit,"
+635,"00:43:45,680","00:43:49,920",2625.68,2629.92,4.2400000000002365,"würde ich das gerne noch fortsetzen,"
+636,"00:43:50,000","00:43:53,400",2630.0,2633.4,3.400000000000091,"ein Ehepaar namens Anschlag, welche Rolle spielen die?"
+637,"00:43:53,400","00:43:55,040",2633.4,2635.04,1.6399999999998727,FF: Das Ehepaar Anschlag
+638,"00:43:55,160","00:43:58,480",2635.16,2638.48,3.3200000000001637,wurde im Oktober 2011 festgenommen in Deutschland.
+639,"00:43:58,480","00:44:01,480",2638.48,2641.48,3.0,Die lebten seit den neunziger Jahren
+640,"00:44:01,560","00:44:04,680",2641.56,2644.68,3.119999999999891,in Deutschland als österreichische Staatsbürger.
+641,"00:44:04,760","00:44:08,280",2644.76,2648.28,3.519999999999982,Angeblich aufgewachsen und geboren in Südamerika.
+642,"00:44:08,400","00:44:15,000",2648.4,2655.0,6.599999999999909,Anwalt Offiziere des russischen Auslands Geheimdienstes.
+643,"00:44:15,080","00:44:18,320",2655.08,2658.32,3.2400000000002365,Sie lebten das Leben eines ganz normalen Menschen.
+644,"00:44:18,400","00:44:22,160",2658.4,2662.16,3.7599999999997635,Die haben 20 Jahre lang gegen die NATO und EU spioniert.
+645,"00:44:22,160","00:44:29,320",2662.16,2669.32,7.160000000000309,ML: Das ist immer noch wichtig. Diese Art von Spionage.
+646,"00:44:29,320","00:44:32,200",2669.32,2672.2,2.8799999999996544,"FF: Diese Spione, man nennt sie illegale,"
+647,"00:44:32,200","00:44:37,320",2672.2,2677.32,5.120000000000346,die gelten in Russland als absolute Elite.
+648,"00:44:37,440","00:44:39,920",2677.44,2679.92,2.480000000000018,Die führen eine harmlos wirkendes Leben
+649,"00:44:40,040","00:44:42,960",2680.04,2682.96,2.9200000000000728,ohne eine Verbindung zu Russland.
+650,"00:44:42,960","00:44:47,240",2682.96,2687.24,4.279999999999745,ML: Schon in den neunzigern solche Bücher über den KGB gelesen.
+651,"00:44:47,240","00:44:49,400",2687.24,2689.4,2.1600000000003092,"Das ist immer noch aktuell,"
+652,"00:44:49,520","00:44:53,520",2689.52,2693.52,4.0,das erklärt auch warum sich Putin so sehr für diese Leute einsetzt.
+653,"00:44:53,520","00:44:57,320",2693.52,2697.32,3.800000000000182,FF: Wladimir Putin hat eine Faszination dafür.
+654,"00:44:57,400","00:45:01,000",2697.4,2701.0,3.599999999999909,In Russland wird diese Form der Spionage glorifiziert.
+655,"00:45:01,000","00:45:04,280",2701.0,2704.28,3.2800000000002,Putin nennt diese Menschen Wunderkinder.
+656,"00:45:04,400","00:45:07,880",2704.4,2707.88,3.480000000000018,"Menschen von ganz besonderem Charakter, sagt er."
+657,"00:45:08,040","00:45:11,680",2708.04,2711.68,3.6399999999998727,Die werden speziell ausgewählt.
+658,"00:45:11,760","00:45:14,680",2711.76,2714.68,2.919999999999618,Jahrelang in einer Gesellschaft einzudringen.
+659,"00:45:14,760","00:45:18,800",2714.76,2718.8,4.039999999999964,Und Informationen zu beschaffen für das Heimatland.
+660,"00:45:18,800","00:45:20,920",2718.8,2720.92,2.119999999999891,"ML: Also, es würde mich freuen,"
+661,"00:45:21,000","00:45:23,800",2721.0,2723.8,2.800000000000182,dass bei anderer Gelegenheit fortzusetzen.
+662,"00:45:23,800","00:45:25,960",2723.8,2725.96,2.1599999999998545,"Ich danke herzlich und freue mich,"
+663,"00:45:26,080","00:45:31,680",2726.08,2731.68,5.599999999999909,dass wir uns gesund wieder gesehen haben.
+664,"00:45:31,760","00:45:35,520",2731.76,2735.52,3.7599999999997635,"Jetzt die Kollegen vom ""heute journal up:date""."
+665,"00:45:35,600","00:45:38,680",2735.6,2738.68,3.0799999999999272,"Wir sehen uns morgen wieder, Tschüss."

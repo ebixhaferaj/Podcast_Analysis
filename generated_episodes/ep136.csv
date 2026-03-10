@@ -1,0 +1,958 @@
+﻿segment_id,start_time,end_time,start_seconds,end_seconds,duration,text
+1,"00:00:00,040","00:00:01,000",0.04,1.0,0.96,Diese Untertitel sind live produziert.
+2,"00:00:01,040","00:00:05,680",1.04,5.68,4.64,"Willkommen zu unserer Sendung in der wir heute ein weiteres Mal,"
+3,"00:00:05,760","00:00:07,800",5.76,7.8,2.04,"und aus aktuellem Anlass,"
+4,"00:00:07,880","00:00:10,280",7.88,10.28,2.3999999999999995,über die Situation im Nahen Osten sprechen wollen.
+5,"00:00:10,360","00:00:13,600",10.36,13.6,3.24,"Offenbar während einer Routine-Patrouille in Rafah,"
+6,"00:00:13,640","00:00:17,320",13.64,17.32,3.6799999999999997,"im Süden von Gaza, stießen israelische Soldaten in einem Haus"
+7,"00:00:17,400","00:00:20,040",17.4,20.04,2.6400000000000006,auf drei bewaffnete Hamas-Terroristen.
+8,"00:00:20,120","00:00:22,960",20.12,22.96,2.84,"Dabei wurden alle drei getötet, darunter,"
+9,"00:00:23,040","00:00:26,360",23.04,26.36,3.3200000000000003,"und das haben DNA-Tests mittlerweile bestätigt,"
+10,"00:00:26,440","00:00:30,320",26.44,30.32,3.879999999999999,"auch der berüchtigte Hamas-Chef Jihia Sinwar,"
+11,"00:00:30,400","00:00:33,440",30.4,33.44,3.039999999999999,der als Drahtzieher des Terrors vom 7. Oktober gilt.
+12,"00:00:33,480","00:00:37,120",33.48,37.12,3.6400000000000006,Sie war erst vor einigen Wochen in Israel
+13,"00:00:37,200","00:00:39,520",37.2,39.52,2.3200000000000003,für eine längere Recherchereise und sagt:
+14,"00:00:39,560","00:00:43,400",39.56,43.4,3.8399999999999963,"""Ich hab den Alltag in den großen Städten auf den ersten Blick"
+15,"00:00:43,480","00:00:45,600",43.48,45.6,2.1200000000000045,"so lebendig wie eh und je erlebt,"
+16,"00:00:45,680","00:00:48,440",45.68,48.44,2.759999999999998,aber unter einer sehr dünnen Oberfläche
+17,"00:00:48,520","00:00:50,960",48.52,50.96,2.4399999999999977,"spürt man eine enorme Anspannung."""
+18,"00:00:51,040","00:00:52,600",51.04,52.6,1.5600000000000023,"Es sind viele Dinge,"
+19,"00:00:52,640","00:00:54,960",52.64,54.96,2.3200000000000003,"die sich gerade in der Region entscheiden,"
+20,"00:00:55,040","00:00:59,400",55.04,59.4,4.359999999999999,"""und der Krieg in Gaza und Libanon ist eng verbunden mit dem,"
+21,"00:00:59,480","00:01:00,960",59.48,60.96,1.480000000000004,"was in der Ukraine passiert."""
+22,"00:01:01,000","00:01:03,400",61.0,63.4,2.3999999999999986,"Das sagt eine sehr intime Osteuropa-Kennerin,"
+23,"00:01:03,480","00:01:06,960",63.48,66.96,3.479999999999997,"herzlich willkommen, Sabine Adler (SA)."
+24,"00:01:07,040","00:01:10,520",67.04,70.52,3.4799999999999898,"Und auch dieser Mann ist gerade zurück aus der Region,"
+25,"00:01:10,600","00:01:13,320",70.6,73.32,2.719999999999999,"einer der bekanntesten Kriegsreporter des Landes,"
+26,"00:01:13,360","00:01:16,680",73.36,76.68,3.3200000000000074,der gerade Stellungen und Tunnel der Hisbollah
+27,"00:01:16,720","00:01:19,480",76.72,79.48,2.760000000000005,"an der Grenze zu Israel gesehen hat,"
+28,"00:01:19,560","00:01:24,480",79.56,84.48,4.920000000000002,"aufwändig ausgebaut, mit Essen für viele Monate, schweren Waffen,"
+29,"00:01:24,560","00:01:29,520",84.56,89.52,4.959999999999994,"getarnt unter ganz normalen, harmlos wirkenden Häusern,"
+30,"00:01:29,600","00:01:32,960",89.6,92.96000000000001,3.3600000000000136,"und der gerade am eigenen Leib zu spüren bekommen hat,"
+31,"00:01:33,040","00:01:35,080",93.03999999999999,95.08,2.0400000000000063,wie unkalkulierbar die Lage ist.
+32,"00:01:35,160","00:01:40,000",95.16,100.0,4.840000000000003,Wurde kürzlich in Beirut von libanesischen Geheimdienstlern
+33,"00:01:40,120","00:01:44,400",100.12,104.4,4.280000000000001,aus dem Hotelzimmer geholt und mit verbundenen Augen
+34,"00:01:44,480","00:01:48,680",104.47999999999999,108.68,4.200000000000017,und in Handschellen an einen unbekannten Ort gebracht.
+35,"00:01:48,760","00:01:52,480",108.75999999999999,112.47999999999999,3.719999999999999,"""Ich kam mir vor wie einem schlechten Film"", sagte er,"
+36,"00:01:52,520","00:01:54,160",112.52000000000001,114.16,1.6399999999999864,"und er beschreibt, wie schwierig es geworden ist,"
+37,"00:01:54,240","00:01:56,120",114.24000000000001,116.12,1.8799999999999955,"im Donbass genauso wie in Gaza, unabhängig zu berichten,"
+38,"00:01:56,200","00:01:59,280",116.2,119.28,3.0799999999999983,"beide Seiten zu beleuchten, unauffällig die Arbeit zu machen."
+39,"00:01:59,360","00:02:03,720",119.36,123.72,4.359999999999999,"""Dank moderner Technologie"", sagt er, ""wissen die immer alle ganz genau,"
+40,"00:02:03,800","00:02:07,320",123.8,127.32,3.519999999999996,"wo wir Reporter sind, und das ist gefährlich."""
+41,"00:02:07,360","00:02:09,600",127.36,129.6,2.239999999999995,"Herzlich willkommen, Paul Ronzheimer (PR)."
+42,"00:02:09,680","00:02:13,840",129.68,133.84,4.159999999999997,"Was bedeutet das alles für das große Bild,"
+43,"00:02:13,880","00:02:16,000",133.88,136.0,2.1200000000000045,"wollen wir u.a. diesen Mann fragen,"
+44,"00:02:16,040","00:02:18,760",136.04,138.76,2.719999999999999,"der sich seit vielen Jahren mit Geopolitik beschäftig,"
+45,"00:02:18,840","00:02:22,320",138.84,142.32,3.4799999999999898,"der kürzlich ein interessantes Buch zu dem Thema veröffentlich hat,"
+46,"00:02:22,400","00:02:24,760",142.4,144.76,2.359999999999985,"""Demokratie und Krieg"", in dem er beschreibt,"
+47,"00:02:24,840","00:02:27,200",144.84,147.2,2.359999999999985,"wie unglaublich stark beide Kriege,"
+48,"00:02:27,280","00:02:29,560",147.28,149.56,2.280000000000001,"der in der Ukraine und der in Nahost,"
+49,"00:02:29,640","00:02:32,560",149.64,152.56,2.920000000000016,tief in unsere Gesellschaft hineinwirken.
+50,"00:02:32,640","00:02:33,760",152.64,153.76,1.1200000000000045,"""Und das"", sagt er,"
+51,"00:02:33,840","00:02:36,920",153.84,156.92000000000002,3.0800000000000125,"""verlangt Antworten, die gerade Deutschland nicht gibt."""
+52,"00:02:37,000","00:02:39,480",157.0,159.48,2.4799999999999898,"Herzlich willkommen, Norbert Röttgen (NR)."
+53,"00:02:39,560","00:02:41,360",159.56,161.36,1.8000000000000114,"Sieht er das genauso,"
+54,"00:02:41,440","00:02:45,280",161.44,165.28,3.8400000000000034,"wollen wir den Chefredakteur des Nahost-Magazins ""zenith"" fragen."
+55,"00:02:45,360","00:02:47,760",165.36,167.76,2.3999999999999773,"Was kann er uns sagen über diese Situation,"
+56,"00:02:47,840","00:02:51,240",167.84,171.24,3.4000000000000057,die gerade ein bisschen so wirkt
+57,"00:02:51,280","00:02:55,080",171.28,175.07999999999998,3.799999999999983,wie die trügerische Ruhe vor dem nächsten großen Sturm.
+58,"00:02:55,200","00:02:57,200",175.2,177.2,2.0,Zwei Wochen sind mittlerweile vergangen
+59,"00:02:57,280","00:02:59,520",177.28,179.52,2.240000000000009,seit den iranischen Raketen auf Israel.
+60,"00:02:59,600","00:03:01,960",179.6,181.96,2.3600000000000136,Wie wird die Reaktion ausfallen?
+61,"00:03:02,000","00:03:06,360",182.0,186.36,4.360000000000014,"Wie schaut der andere mächtige Spieler in der Region,"
+62,"00:03:06,440","00:03:08,760",186.44,188.76,2.319999999999993,"Saudi-Arabien, auf den Konflikt?"
+63,"00:03:08,800","00:03:13,960",188.8,193.96,5.159999999999997,Warum ist Assad in Syrien so verdächtig still?
+64,"00:03:14,040","00:03:17,480",194.04,197.48,3.4399999999999977,"Viele Fragen an Daniel Gerlach (DG), herzlich willkommen."
+65,"00:03:22,800","00:03:26,800",202.8,206.8,4.0,"Spannende Runde, guten Abend."
+66,"00:03:26,800","00:03:32,320",206.8,212.32,5.519999999999982,"Die erste Frage an Paul Ronzheimer,"
+67,"00:03:32,320","00:03:36,560",212.32,216.56,4.240000000000009,"jene Nachricht des Tages, die Tötung von Sinwar."
+68,"00:03:36,560","00:03:43,680",216.56,223.68,7.1200000000000045,Was können Sie uns über die Hintergründe sagen?
+69,"00:03:45,880","00:03:52,440",225.88,232.44,6.560000000000002,"PR: Als ich aus israelischen Kreisen höre,"
+70,"00:03:52,480","00:03:56,520",232.48,236.52,4.0400000000000205,"ist es so gewesen, dass es schon gestern einen Panzerangriff"
+71,"00:03:56,560","00:03:59,040",236.56,239.04,2.4799999999999898,"auf das Haus gab,"
+72,"00:03:59,040","00:04:05,680",239.04,245.68,6.640000000000015,"an der Grenze zu Ägypten, wo man ihn vermutet hat,"
+73,"00:04:05,720","00:04:11,720",245.72,251.72,6.0,"wo es Kritik aber gab, dass Israel angegriffen hat."
+74,"00:04:11,720","00:04:19,720",251.72,259.72,8.000000000000028,"Dann sind heute Soldaten hinein und haben den Mann entdeckt,"
+75,"00:04:19,920","00:04:24,960",259.92,264.96,5.039999999999964,"er ist der, der für das Massaker am 7. Oktober verantwortlich ist."
+76,"00:04:25,000","00:04:30,360",265.0,270.36,5.360000000000014,Er hat es geplant und ausführen lassen.
+77,"00:04:30,400","00:04:34,480",270.4,274.48,4.080000000000041,"Für Israel ist heute ein guter Tag, das höre ich aus Israel."
+78,"00:04:34,520","00:04:40,680",274.52,280.68,6.160000000000025,"Ich habe im Umfeld der Regierung mit vielen gesprochen,"
+79,"00:04:40,720","00:04:44,280",280.72,284.28,3.5599999999999454,"die jetzt hoffen, dass es jetzt eine Möglichkeit gibt,"
+80,"00:04:44,320","00:04:46,280",284.32,286.28,1.9599999999999795,die Geiseln freizubekommen.
+81,"00:04:46,320","00:04:50,840",286.32,290.84000000000003,4.520000000000039,"Gleich nachdem klar war, dass er tot ist,"
+82,"00:04:50,880","00:04:55,520",290.88,295.52,4.639999999999986,"gab es Bemühungen und die Hoffnung, dass man die Geiseln frei bekommt,"
+83,"00:04:55,520","00:05:01,080",295.52,301.08,5.560000000000002,"aber auch Angst, dass die Geiseln erschossen werden."
+84,"00:05:01,120","00:05:08,280",301.12,308.28,7.159999999999968,"Wie lief das ab, war es eine Routine -Patrouille?"
+85,"00:05:08,880","00:05:12,000",308.88,312.0,3.1200000000000045,"Ich habe gehört, dass es bereits am Tag vorher"
+86,"00:05:12,040","00:05:15,280",312.04,315.28,3.2399999999999523,einen Angriff gegeben haben soll.
+87,"00:05:15,320","00:05:19,640",315.32,319.64,4.319999999999993,"Wir wissen, dass die Israelis dort führende Köpfe vermutet haben."
+88,"00:05:19,640","00:05:23,440",319.64,323.44,3.8000000000000114,Sie haben dort immer wieder Patrouillen durchgeführt.
+89,"00:05:23,480","00:05:26,120",323.48,326.12,2.6399999999999864,"Was verwunderlich ist, ist,"
+90,"00:05:26,160","00:05:30,840",326.16,330.84,4.67999999999995,dass er an der Oberfläche war.
+91,"00:05:30,840","00:05:36,240",330.84,336.24,5.400000000000034,Man hatte ihn in einem Tunnelsystem vermutet.
+92,"00:05:36,280","00:05:39,640",336.28,339.64,3.3600000000000136,Aber kann jemand ein Jahr lang nur in Tunneln sein?
+93,"00:05:39,680","00:05:42,760",339.68,342.76,3.079999999999984,Offensichtlich nicht.
+94,"00:05:42,760","00:05:46,400",342.76,346.4,3.6399999999999864,"Das hat wohl dazu geführt, dass er heute getötet wurde."
+95,"00:05:46,440","00:05:50,600",346.44,350.6,4.160000000000025,"Herr Gerlach,"
+96,"00:05:50,640","00:05:56,480",350.64,356.48,5.840000000000032,"einer der gesuchstesten Terroristen der Welt,"
+97,"00:05:56,520","00:06:00,880",356.52,360.88,4.360000000000014,"auch weil er keine Skrupel hat, auch seine eigenen Leute zu opfern."
+98,"00:06:00,920","00:06:04,240",360.92,364.24,3.319999999999993,Wer war dieser Mann?
+99,"00:06:04,280","00:06:09,360",364.28,369.36,5.080000000000041,"DG: Wenn man sich die israelischen Medien anschaut,"
+100,"00:06:09,400","00:06:14,680",369.4,374.68,5.28000000000003,da geistert diese Figur seit Monaten über die Fernsehschirme.
+101,"00:06:14,680","00:06:19,560",374.68,379.56,4.8799999999999955,"Es werden Dokumentationen und fiktionale Serien über ihn gedreht,"
+102,"00:06:19,600","00:06:24,160",379.6,384.16,4.560000000000002,"er war für die Israelis eine Inkarnation des Bösen,"
+103,"00:06:24,200","00:06:27,320",384.2,387.32,3.1200000000000045,"weil er nicht nur rücksichtslos und brutal war,"
+104,"00:06:27,360","00:06:30,040",387.36,390.04,2.680000000000007,sondern auch hoch intelligent.
+105,"00:06:30,080","00:06:34,320",390.08,394.32,4.240000000000009,"Weil er Hebräisch konnte,"
+106,"00:06:34,360","00:06:39,680",394.36,399.68,5.319999999999993,"weil er seine Autobiografie als Roman niedergeschrieben hat,"
+107,"00:06:39,680","00:06:47,600",399.68,407.6,7.920000000000016,"wo er auch seine Version des bewaffneten Kampfes schildert,"
+108,"00:06:49,680","00:06:55,840",409.68,415.84000000000003,6.160000000000025,denen als einzigen Weg für politische Veränderungen sieht.
+109,"00:06:55,880","00:07:02,560",415.88,422.56,6.680000000000007,"Das Bild was wir hier sehen, verwechselt,"
+110,"00:07:03,720","00:07:06,520",423.72,426.52,2.7999999999999545,das wird in Israel jetzt eine ganze Weile
+111,"00:07:06,560","00:07:11,360",426.56,431.36,4.800000000000011,als Siegesbild bezeichnet werden.
+112,"00:07:11,400","00:07:14,360",431.4,434.36,2.9600000000000364,"Das gibt Benjamin Netanjahu die Möglichkeit,"
+113,"00:07:14,400","00:07:20,360",434.4,440.36,5.960000000000036,den Krieg in Gaza zu beenden.
+114,"00:07:27,280","00:07:29,240",447.28,449.24,1.9600000000000364,Es gibt auch andere Bilder
+115,"00:07:29,280","00:07:32,400",449.28,452.4,3.1200000000000045,"etwa nach dem Sechstagekrieg vor der Klagemauer,"
+116,"00:07:32,440","00:07:36,520",452.44,456.52,4.079999999999984,"damals war das Siegesbild dieses Krieges,"
+117,"00:07:36,520","00:07:43,440",456.52,463.44,6.920000000000016,das jetzt ist das Siegesbild dieses Krieges.
+118,"00:07:47,400","00:07:50,520",467.4,470.52,3.1200000000000045,"Man konnte bisher nicht zu dem Ergebnis kommen,"
+119,"00:07:50,560","00:07:55,800",470.56,475.8,5.240000000000009,"den Anführer zu finden und den zur Strecke zu bringen,"
+120,"00:07:55,840","00:07:59,320",475.84000000000003,479.32,3.4799999999999613,"es wurden sogar Vergleiche gezogen zu Adolf Eichmann,"
+121,"00:07:59,360","00:08:01,640",479.36,481.64,2.2799999999999727,"ob man ihm den Prozess machen soll,"
+122,"00:08:01,680","00:08:08,400",481.68,488.4,6.71999999999997,"der sei eine zu große Gefahr, er müsse vor Gericht."
+123,"00:08:08,440","00:08:11,800",488.44,491.8,3.3600000000000136,"Ich weiß nicht, warum er dann an der Oberfläche war,"
+124,"00:08:11,840","00:08:15,240",491.84,495.24,3.400000000000034,"er war anscheinend in Kampfmontur,"
+125,"00:08:15,280","00:08:17,280",495.28,497.28,2.0,"vielleicht selbst damit zu tun,"
+126,"00:08:17,320","00:08:21,480",497.32,501.48,4.160000000000025,dass ein solcher Anführer sich seine Leute noch mal zeigen muss.
+127,"00:08:21,520","00:08:23,760",501.52,503.76,2.240000000000009,"Es gab nämlich schon Diskussionen,"
+128,"00:08:23,800","00:08:30,240",503.8,510.24,6.439999999999998,dass er schon längst tot sein könnte.
+129,"00:08:35,360","00:08:42,280",515.36,522.28,6.919999999999959,Wie kam Israel so schnell an Zahnarztbilder und DNA?
+130,"00:08:42,320","00:08:49,160",522.32,529.16,6.839999999999918,"PR: Er war über 20 Jahre lang im Gefängnis,"
+131,"00:08:51,800","00:08:55,520",531.8,535.52,3.7200000000000273,er war dort Geschichten zufolge sogar an Krebs erkrankt
+132,"00:08:55,560","00:08:59,400",535.56,539.4,3.840000000000032,und wurde von Israel behandelt.
+133,"00:08:59,440","00:09:06,160",539.44,546.16,6.719999999999914,Das zeigt auch den Unterschied zwischen Israel und der Hamas.
+134,"00:09:06,200","00:09:10,040",546.2,550.04,3.839999999999918,"Durch diese ganzen Daten war heute aber sehr schnell klar,"
+135,"00:09:10,080","00:09:12,040",550.08,552.04,1.9599999999999227,"dass er das ist,"
+136,"00:09:12,080","00:09:17,040",552.08,557.04,4.959999999999923,es wurde noch schnelle Abgleiche gemacht.
+137,"00:09:17,080","00:09:23,400",557.08,563.4,6.319999999999936,"Die Geiseln hast du eben angesprochen, aber ich glaube,"
+138,"00:09:25,840","00:09:30,000",565.84,570.0,4.159999999999968,der Krieg geht nur zu hemmende Fällen die Geiseln frei sind.
+139,"00:09:30,040","00:09:36,240",570.04,576.24,6.2000000000000455,Das sagt auch Netanjahu.
+140,"00:09:39,320","00:09:41,560",579.32,581.56,2.2399999999998954,"Auch die Frage an Norbert Röttgen,"
+141,"00:09:41,600","00:09:46,880",581.6,586.88,5.279999999999973,"wenn wir über Politik und Regierungen sprechen,"
+142,"00:09:46,920","00:09:50,400",586.92,590.4,3.480000000000018,"es gibt US-Beamte, die das als Wendepunkt bezeichnen,"
+143,"00:09:50,440","00:09:56,400",590.44,596.4,5.959999999999923,was meinen Sie?
+144,"00:10:00,960","00:10:03,560",600.96,603.56,2.599999999999909,"NR: Man muss beim Krieg unterscheiden,"
+145,"00:10:03,600","00:10:06,120",603.6,606.12,2.519999999999982,dass es unterschiedliche Fronten gibt.
+146,"00:10:06,120","00:10:08,760",606.12,608.76,2.6399999999999864,"Hier gibt es jetzt um den Gazastreifen,"
+147,"00:10:08,800","00:10:12,240",608.8,612.24,3.4400000000000546,nicht um den Libanon oder den Iran.
+148,"00:10:12,240","00:10:18,360",612.24,618.36,6.1200000000000045,Das hier ist jetzt ein Teil des stattfindenden Krieges.
+149,"00:10:18,400","00:10:22,200",618.4,622.2,3.800000000000068,"Man kann sagen, dass mit der Tötung von Sinwar"
+150,"00:10:22,240","00:10:26,480",622.24,626.48,4.240000000000009,Israel eines der drei Kriegsziele erreicht hat.
+151,"00:10:26,520","00:10:30,600",626.52,630.6,4.080000000000041,"Und zwar die Ausschaltung der Verantwortlichen,"
+152,"00:10:30,640","00:10:34,400",630.64,634.4,3.759999999999991,das zweite ist die Befreiung der Geiseln
+153,"00:10:34,440","00:10:41,440",634.44,641.44,7.0,und das dritte ist die Zerschlagung der Hamas.
+154,"00:10:41,520","00:10:43,520",641.52,643.52,2.0,"Nun besteht die Möglichkeit,"
+155,"00:10:43,560","00:10:46,440",643.56,646.44,2.880000000000109,"dass wenn das erste Kriegsziel erreicht ist,"
+156,"00:10:46,480","00:10:52,320",646.48,652.32,5.840000000000032,das zweite greifbarer wird.
+157,"00:10:52,360","00:10:56,480",652.36,656.48,4.1200000000000045,"Die Hamas zu sprechen ist auch schon stark vorangeschritten,"
+158,"00:10:56,560","00:11:03,080",656.56,663.08,6.5200000000000955,"ich habe allerdings erhebliche Zweifel,"
+159,"00:11:05,040","00:11:09,160",665.04,669.16,4.1200000000000045,"ob die Hamas überhaupt bereit ist, das Faustpfand der Geiseln"
+160,"00:11:09,200","00:11:11,160",669.2,671.16,1.9599999999999227,aus der Hand zu geben.
+161,"00:11:11,200","00:11:14,240",671.2,674.24,3.0399999999999636,"PR: Es gibt offensichtlich bereits Bemühungen,"
+162,"00:11:14,280","00:11:20,240",674.28,680.24,5.960000000000036,"in Doha gibt es Bemühungen,"
+163,"00:11:22,160","00:11:28,160",682.16,688.16,6.0,wie der Diplomatie zu starten.
+164,"00:11:28,200","00:11:31,600",688.2,691.6,3.3999999999999773,"Sinwar hat das behindert, er lebt jetzt nicht mehr,"
+165,"00:11:31,640","00:11:36,360",691.64,696.36,4.720000000000027,"die Frage ist, wer entscheidet jetzt?"
+166,"00:11:36,400","00:11:42,360",696.4,702.36,5.960000000000036,Wie wird sein Vakuum gefüllt?
+167,"00:11:42,720","00:11:46,440",702.72,706.44,3.7200000000000273,"SA: Solche Strukturen werden normalerweise nach besetzt,"
+168,"00:11:46,480","00:11:51,840",706.48,711.84,5.360000000000014,"zu ruhigen Zeiten,"
+169,"00:11:51,880","00:11:56,280",711.88,716.28,4.399999999999977,"aber ob das nach einem Jahr Krieg bei der Hamas der Fall sein wird,"
+170,"00:11:56,360","00:11:58,440",716.36,718.44,2.080000000000041,das ist die große Frage.
+171,"00:11:58,480","00:12:02,520",718.48,722.52,4.039999999999964,Mich bewegt noch etwas anderes:
+172,"00:12:02,560","00:12:07,200",722.56,727.2,4.6400000000001,wie wird Netanjahu reagieren?
+173,"00:12:07,280","00:12:13,240",727.28,733.24,5.960000000000036,"Mehrere Kriegsziele sind erreicht,"
+174,"00:12:13,280","00:12:16,040",733.28,736.04,2.759999999999991,"wann erklärt er die Hamas für so schwach,"
+175,"00:12:16,080","00:12:22,040",736.08,742.04,5.959999999999923,dass man damit umgehen kann?
+176,"00:12:22,640","00:12:25,520",742.64,745.52,2.8799999999999955,Ab wann kann eine Nachkriegslösung kommen?
+177,"00:12:25,560","00:12:29,200",745.56,749.2,3.6400000000001,"Da frage ich mich, spielt Netanjahu auf Zeit,"
+178,"00:12:29,240","00:12:32,440",749.24,752.44,3.2000000000000455,"denn die Fragen, die nach dem Krieg kommen,"
+179,"00:12:32,480","00:12:38,440",752.48,758.44,5.960000000000036,die müssen beantwortet werden.
+180,"00:12:39,240","00:12:44,680",759.24,764.68,5.439999999999941,Etwa dass die Vorbereitung auf den Angriff der Hamas
+181,"00:12:44,760","00:12:51,360",764.76,771.36,6.600000000000023,viel zu lange unbemerkt ablaufen konnte.
+182,"00:12:52,480","00:13:00,400",772.48,780.4,7.919999999999959,"Da waren lange Vorbereitungen, Manöver, probierte Aktionen,"
+183,"00:13:01,520","00:13:07,560",781.52,787.56,6.039999999999964,"das abseilen mit Gleitschirmen,"
+184,"00:13:07,640","00:13:09,720",787.64,789.72,2.080000000000041,"der Überfall auf Schwachpunkte,"
+185,"00:13:09,760","00:13:14,640",789.76,794.64,4.8799999999999955,"da hatte die israelische Bevölkerung ein berechtigtes Interesse,"
+186,"00:13:14,680","00:13:19,480",794.68,799.48,4.800000000000068,"zu erfahren, wie das überhaupt geschehen konnte."
+187,"00:13:19,560","00:13:26,720",799.56,806.72,7.160000000000082,Es gibt einen Ausschnitt von Benjamin Netanjahu.
+188,"00:13:28,400","00:13:31,280",808.4,811.28,2.8799999999999955,"Derjenige, der das schrecklichste Massaker"
+189,"00:13:31,320","00:13:33,600",811.32,813.6,2.2799999999999727,"seit dem Holocaust geübt hat,"
+190,"00:13:33,640","00:13:40,080",813.64,820.08,6.440000000000055,"die er so viele Israelis getötet hat,"
+191,"00:13:41,080","00:13:44,800",821.08,824.8,3.7199999999999136,"wurde heute von unseren Helden auf den Israelis getötet,"
+192,"00:13:44,840","00:13:46,800",824.84,826.8,1.9599999999999227,wie wir es versprochen haben.
+193,"00:13:46,840","00:13:51,000",826.84,831.0,4.159999999999968,Aber die vor uns liegende Aufgabe ist noch nicht abgeschlossen.
+194,"00:13:51,040","00:13:56,400",831.04,836.4,5.360000000000014,Ist das der entscheidende Satz?
+195,"00:13:56,440","00:14:00,480",836.44,840.48,4.039999999999964,"DG: Ich glaube nicht, dass Netanjahu"
+196,"00:14:00,520","00:14:07,600",840.52,847.6,7.080000000000041,seine Strategie von den Geiseln abhängig macht.
+197,"00:14:11,320","00:14:19,560",851.32,859.56,8.239999999999895,Sonst hätte es wahrscheinlich einen Verhandlungs-Erfolg gegeben.
+198,"00:14:19,880","00:14:23,640",859.88,863.64,3.759999999999991,"Er hat einen andere Strategie gewählt,"
+199,"00:14:23,720","00:14:27,960",863.72,867.96,4.240000000000009,"maximale militärische Härte,"
+200,"00:14:28,000","00:14:35,160",868.0,875.16,7.159999999999968,man kann nicht mit maximaler militärischer Härte
+201,"00:14:37,880","00:14:43,880",877.88,883.88,6.0,Verhandlungserfolge erzielen.
+202,"00:14:46,160","00:14:50,280",886.16,890.28,4.1200000000000045,"Es bleibt abzuwarten, was Netanjahu und seine engen vertrauten"
+203,"00:14:50,320","00:14:56,120",890.32,896.12,5.7999999999999545,der Öffentlichkeit vorenthalten.
+204,"00:14:56,200","00:14:58,920",896.2,898.92,2.7199999999999136,"Wir haben jetzt eine andere Situation,"
+205,"00:14:58,960","00:15:06,320",898.96,906.32,7.360000000000014,wir haben heute über den Tod von Sinwar diskutiert.
+206,"00:15:07,360","00:15:09,320",907.36,909.32,1.9600000000000364,Was wir jetzt auch haben
+207,"00:15:09,400","00:15:16,160",909.4,916.16,6.759999999999991,"ist eine mutmaßliche Entvölkerung des Gazastreifens,"
+208,"00:15:16,240","00:15:22,160",916.24,922.16,5.919999999999959,der Norden des Gazastreifens wird in den Süden bewegt.
+209,"00:15:22,200","00:15:28,760",922.2,928.76,6.559999999999945,"Es gibt alarmierende Meldungen über die humanitäre Situation dort,"
+210,"00:15:28,800","00:15:34,320",928.8,934.32,5.5200000000000955,dass sogar die zurückhaltenden Amerikaner die Geduld verlieren.
+211,"00:15:34,400","00:15:37,880",934.4,937.88,3.480000000000018,Die Äußerungen aus Washington sind alarmierend.
+212,"00:15:37,920","00:15:43,880",937.92,943.88,5.960000000000036,"Wenn es so sein sollte,"
+213,"00:15:48,760","00:15:56,320",948.76,956.32,7.560000000000059,"man bietet Netanjahu mit diesem Bild die Möglichkeit,"
+214,"00:15:57,120","00:15:59,960",957.12,959.96,2.840000000000032,den Krieg gesichtswahrend zu beenden.
+215,"00:16:00,000","00:16:06,480",960.0,966.48,6.480000000000018,"Ich bin aber nicht überzeugt, dass er das tun wird."
+216,"00:16:06,520","00:16:13,080",966.52,973.08,6.560000000000059,"PR: Mit all den Dingen, was in Gaza passiert,"
+217,"00:16:13,160","00:16:21,080",973.16,981.08,7.920000000000073,"da war mein Gefühl, dass die Konzentration auf Sinwar liegt."
+218,"00:16:21,400","00:16:23,360",981.4,983.36,1.9600000000000364,"Dass Netanjahu das braucht,"
+219,"00:16:23,440","00:16:30,960",983.44,990.96,7.519999999999982,um überhaupt in eine Diskussion über Frieden gehen zu können.
+220,"00:16:31,000","00:16:35,160",991.0,995.16,4.159999999999968,"Und jetzt versuchen die USA und andere auf Israel einzuwirken,"
+221,"00:16:35,200","00:16:38,000",995.2,998.0,2.7999999999999545,"auch über Doha, dass man einen Deal findet."
+222,"00:16:38,080","00:16:40,880",998.08,1000.88,2.7999999999999545,Ich hoffe das sich viel heute verändert hat.
+223,"00:16:46,640","00:16:51,160",1006.64,1011.16,4.519999999999982,"DG: ich glaube es nicht, aber ich hoffe du hast Recht."
+224,"00:16:59,920","00:17:03,840",1019.92,1023.84,3.9200000000000728,"PR: Netanjahu hat gesagt, wir müssen die Terroristen finden"
+225,"00:17:03,880","00:17:05,840",1023.88,1025.84,1.9599999999999227,und Sinwar töten.
+226,"00:17:05,880","00:17:08,760",1025.88,1028.76,2.8799999999998818,Das hat er immer wieder gesagt.
+227,"00:17:08,800","00:17:15,040",1028.8,1035.04,6.240000000000009,"Wir haben die Diskussionen erlebt,"
+228,"00:17:20,720","00:17:23,680",1040.72,1043.68,2.9600000000000364,"jetzt erleben wir, dass Sinwar genau dort war"
+229,"00:17:23,760","00:17:28,280",1043.76,1048.28,4.519999999999982,"wo es die Diskussionen immer gab die Armee dorthin darf, Rafah."
+230,"00:17:28,360","00:17:32,080",1048.36,1052.08,3.7200000000000273,"Sinwar wollte Israel vernichten, im Sinne eines Angriffs,"
+231,"00:17:32,160","00:17:36,040",1052.16,1056.04,3.8799999999998818,"der noch viel größer werden sollte,"
+232,"00:17:36,120","00:17:40,880",1056.12,1060.88,4.760000000000218,"Iran und Hisbollah sollten eigentlich mitmachen,"
+233,"00:17:40,920","00:17:44,760",1060.92,1064.76,3.839999999999918,"der sollte eigentlich weiter ins Land gehen,"
+234,"00:17:44,800","00:17:49,440",1064.8,1069.44,4.6400000000001,Israel hat immer um die Existenz gekämpft.
+235,"00:17:49,480","00:17:57,040",1069.48,1077.04,7.559999999999945,Diese Dramatik geht in den Debatten manchmal verloren.
+236,"00:18:00,640","00:18:04,760",1080.64,1084.76,4.119999999999891,"SA: Was man auch nicht vergessen darf,"
+237,"00:18:04,800","00:18:09,040",1084.8,1089.04,4.240000000000009,es gibt längst eine Verschränkung
+238,"00:18:09,120","00:18:13,680",1089.12,1093.68,4.560000000000173,der beiden Kriege.
+239,"00:18:13,720","00:18:16,680",1093.72,1096.68,2.9600000000000364,"Man könnte jetzt beide Kriege herunterfahren,"
+240,"00:18:16,760","00:18:20,920",1096.76,1100.92,4.160000000000082,"aber ist es möglich,"
+241,"00:18:21,000","00:18:26,920",1101.0,1106.92,5.920000000000073,"bedenkt man, was jetzt im Libanon los ist?"
+242,"00:18:27,000","00:18:34,200",1107.0,1114.2,7.2000000000000455,Oder ist die Eigendynamik dort schon viel zu groß?
+243,"00:18:34,320","00:18:42,760",1114.32,1122.76,8.440000000000055,Kann der eine Schauplatz befriedet werden und der andere eskaliert?
+244,"00:18:44,840","00:18:52,280",1124.84,1132.28,7.440000000000055,"PR: Wir kennen die Berichte nicht, was von der Hisbollah Seite"
+245,"00:18:52,360","00:18:56,280",1132.36,1136.28,3.9200000000000728,"passiert, das sollte eigentlich einen koordinierten Angriff"
+246,"00:18:56,360","00:19:02,280",1136.36,1142.28,5.920000000000073,stattfinden.
+247,"00:19:02,800","00:19:06,640",1142.8,1146.64,3.8400000000001455,"NR: Das wollte die Hisbollah nicht unter Iran auch nicht,"
+248,"00:19:06,720","00:19:11,400",1146.72,1151.4,4.680000000000064,das hat gerade den Flächenbrand damals verhindert.
+249,"00:19:11,440","00:19:15,880",1151.44,1155.88,4.440000000000055,"Ich glaube, dass Netanjahu so lange Sinwar am Leben war"
+250,"00:19:15,960","00:19:20,920",1155.96,1160.92,4.960000000000036,für eine politische Lösung die Hände gebunden waren.
+251,"00:19:21,000","00:19:24,480",1161.0,1164.48,3.480000000000018,"Das ist jetzt geändert,"
+252,"00:19:24,520","00:19:31,360",1164.52,1171.36,6.839999999999918,der Druck auf Netanjahu wird jetzt auch steigen.
+253,"00:19:31,400","00:19:36,200",1171.4,1176.2,4.7999999999999545,"PR: Er wird aber auch warten, was bei den US Wahlen passiert."
+254,"00:19:36,240","00:19:44,640",1176.24,1184.64,8.400000000000091,Er wird hoffen das Donald Trump gewinnt und ihn weiter unterstützt.
+255,"00:19:45,280","00:19:50,000",1185.28,1190.0,4.720000000000027,"NR: Ich halte eine starke Änderung der Lage für unwahrscheinlich,"
+256,"00:19:50,080","00:19:55,000",1190.08,1195.0,4.920000000000073,dafür sind die Spannungen mit dem Iran noch zu groß.
+257,"00:19:55,040","00:20:00,400",1195.04,1200.4,5.360000000000127,"Es macht Sinn, dass in Gase herunterzufahren,"
+258,"00:20:00,480","00:20:07,880",1200.48,1207.88,7.400000000000091,weil zwei andere wichtigere Fronten noch offen sind.
+259,"00:20:08,000","00:20:11,920",1208.0,1211.92,3.9200000000000728,Das sind die Huthis und Syrier noch gar nicht eingerechnet.
+260,"00:20:12,000","00:20:17,040",1212.0,1217.04,5.039999999999964,Wir wissen es nicht.
+261,"00:20:17,120","00:20:23,320",1217.12,1223.32,6.2000000000000455,"DG: Wenn ich das sagen darf, Paul,"
+262,"00:20:24,040","00:20:26,560",1224.04,1226.56,2.519999999999982,"du kannst sagen, Netanjahu hat recht,"
+263,"00:20:26,640","00:20:29,360",1226.64,1229.36,2.7199999999998,"und seine Erfolge haben ihm recht gegeben,"
+264,"00:20:29,440","00:20:32,960",1229.44,1232.96,3.519999999999982,um welchen Preis?
+265,"00:20:33,040","00:20:38,200",1233.04,1238.2,5.160000000000082,"Wie viele 1000 Tote, wie viel Zerstörung das gekostet?"
+266,"00:20:38,240","00:20:43,240",1238.24,1243.24,5.0,Diese Frage stellen sich auch Menschen in Israel.
+267,"00:20:43,280","00:20:45,720",1243.28,1245.72,2.4400000000000546,"Es stellt auch niemand in Zweifel,"
+268,"00:20:45,800","00:20:51,400",1245.8,1251.4,5.600000000000136,dass Sinwar...
+269,"00:20:51,480","00:20:57,400",1251.48,1257.4,5.920000000000073,"Um kurz einzugreifen,"
+270,"00:20:57,720","00:21:01,320",1257.72,1261.32,3.599999999999909,"auf diesen Bildern sehen wir immer dieselben Straßen,"
+271,"00:21:01,400","00:21:05,800",1261.4,1265.8,4.399999999999864,früher und heute.
+272,"00:21:05,880","00:21:11,800",1265.88,1271.8,5.919999999999845,Das ist Gaza.
+273,"00:21:18,960","00:21:22,840",1278.96,1282.84,3.8799999999998818,"DG: Um meine Sicherheitsinteressen durchzusetzen,"
+274,"00:21:22,920","00:21:27,120",1282.92,1287.12,4.199999999999818,"bin ich nicht nur befähigt, sondern auch berechtigt,"
+275,"00:21:27,200","00:21:30,840",1287.2,1290.84,3.6399999999998727,"im Menschen umzubringen, ihre Behausungen zu zerstören,"
+276,"00:21:30,920","00:21:36,840",1290.92,1296.84,5.919999999999845,nach dieser Logik kann man nicht international arbeiten.
+277,"00:21:36,920","00:21:41,800",1296.92,1301.8,4.879999999999882,"Das wird aber eingekreist, wenn man es im Nachhinein rechtfertigt."
+278,"00:21:41,880","00:21:46,360",1301.88,1306.36,4.479999999999791,"PR: Wenn wir das diskutieren,"
+279,"00:21:46,440","00:21:51,800",1306.44,1311.8,5.3599999999999,"was hätte Deutschland getan, wenn wir das erlebt hätten?"
+280,"00:21:51,880","00:21:58,520",1311.88,1318.52,6.639999999999873,"Wenn über Verhältnismäßigkeit sprechen, das sollten wir auch tun,"
+281,"00:21:58,560","00:22:01,960",1318.56,1321.96,3.400000000000091,ich habe erst kürzlich
+282,"00:22:02,040","00:22:09,120",1322.04,1329.12,7.079999999999927,"mit dem israelischen Außenminister gesprochen,"
+283,"00:22:10,960","00:22:17,400",1330.96,1337.4,6.440000000000055,was wäre denn die Alternative gewesen?
+284,"00:22:17,480","00:22:22,200",1337.48,1342.2,4.720000000000027,"Hätte man sagen sollen, wir gehen da nicht rein, wir finden Sinwar nicht?"
+285,"00:22:22,280","00:22:27,240",1342.28,1347.24,4.960000000000036,"Den Mann, der dieses Land vernichten wollte?"
+286,"00:22:27,320","00:22:33,040",1347.32,1353.04,5.720000000000027,"Der hätte ja nicht aufgehört,"
+287,"00:22:33,120","00:22:41,040",1353.12,1361.04,7.920000000000073,nur weil Netanjahu nicht in den Gazastreifen marschiert ist.
+288,"00:22:49,040","00:22:52,840",1369.04,1372.84,3.7999999999999545,Dann hätte der Plan einer gemeinsamen Invasion in Israel
+289,"00:22:52,920","00:23:00,280",1372.92,1380.28,7.3599999999999,mit Hisbollah und Iran noch umgesetzt werden können.
+290,"00:23:00,920","00:23:09,320",1380.92,1389.32,8.399999999999864,"DG: das vorher die Politik von Netanjahu, da Geld hinein zu geben."
+291,"00:23:11,920","00:23:15,240",1391.92,1395.24,3.3199999999999363,"SA: Das war ein ganz großes Täuschungsmanöver,"
+292,"00:23:15,320","00:23:18,240",1395.32,1398.24,2.9200000000000728,"vorzugaukeln, wir sind am Wohl unserer Leute"
+293,"00:23:18,320","00:23:20,480",1398.32,1400.48,2.160000000000082,im Gazastreifen interessiert.
+294,"00:23:20,560","00:23:25,520",1400.56,1405.52,4.960000000000036,Die israelische Regierung hat sich an der Nase herum führen lassen.
+295,"00:23:25,520","00:23:28,440",1405.52,1408.44,2.9200000000000728,"PR: Aber trotzdem gehört zur Wahrheit dazu,"
+296,"00:23:28,480","00:23:32,000",1408.48,1412.0,3.519999999999982,"dass wir Schulen und Krankenhäuser finanziert haben,"
+297,"00:23:32,000","00:23:34,760",1412.0,1414.76,2.759999999999991,wodurch jetzt Terroristen versteckt haben.
+298,"00:23:34,800","00:23:39,320",1414.8,1419.32,4.519999999999982,"DG: Ich glaube nicht, dass sie sich an der Nase herum führen lassen."
+299,"00:23:39,320","00:23:43,400",1419.32,1423.4,4.080000000000155,"Es ging darum, das Thema auszusetzen."
+300,"00:23:43,400","00:23:46,440",1423.4,1426.44,3.0399999999999636,"Wenn es Hamas gibt, gibt es immer Grund genug,"
+301,"00:23:46,480","00:23:49,800",1426.48,1429.8,3.3199999999999363,dieses Thema anzugehen.
+302,"00:23:49,840","00:23:55,080",1429.84,1435.08,5.240000000000009,"Was den Angriffsplan von Hisbollah betrifft,"
+303,"00:23:55,080","00:23:58,800",1435.08,1438.8,3.7200000000000273,"sehr interessant, auch das Timing der Berichterstattung."
+304,"00:23:58,800","00:24:05,200",1438.8,1445.2,6.400000000000091,Möglicherweise gab es auch den Plan.
+305,"00:24:09,520","00:24:14,920",1449.52,1454.92,5.400000000000091,"Mein Zweifel an diesem Bericht ist,"
+306,"00:24:14,960","00:24:20,920",1454.96,1460.92,5.960000000000036,....
+307,"00:24:21,600","00:24:23,840",1461.6,1463.84,2.240000000000009,"SA: Es geht um diesen Geheimplan,"
+308,"00:24:23,920","00:24:30,920",1463.92,1470.92,7.0,dass die Hisbollah und Hamas gemeinsame Sache machen.
+309,"00:24:30,960","00:24:38,120",1470.96,1478.12,7.1599999999998545,DG: Es gab angeblich konkrete Überfallspläne.
+310,"00:24:42,000","00:24:45,640",1482.0,1485.64,3.6400000000001,Die Pläne und Szenarien wurden ganz bestimmt entworfen.
+311,"00:24:45,680","00:24:52,800",1485.68,1492.8,7.119999999999891,"Die Entdeckung dieses Plans wurde kommuniziert,"
+312,"00:24:53,400","00:24:58,320",1493.4,1498.32,4.919999999999845,PR: Du kannst das nicht bestreiten.
+313,"00:24:58,360","00:25:05,040",1498.36,1505.04,6.680000000000064,"Es geht nicht um die Frage, wann wird was veröffentlicht."
+314,"00:25:05,080","00:25:10,240",1505.08,1510.24,5.160000000000082,"DG: Israel hat in den letzten Monaten demonstriert,"
+315,"00:25:10,240","00:25:13,240",1510.24,1513.24,3.0,"dass man genauestens über die Angriffspläne,"
+316,"00:25:13,240","00:25:16,040",1513.24,1516.04,2.7999999999999545,"über die inneren Kommunikationsstrukturen,"
+317,"00:25:16,040","00:25:21,960",1516.04,1521.96,5.920000000000073,über die militärische Aufstellung der Hisbollah informiert ist.
+318,"00:25:22,000","00:25:28,600",1522.0,1528.6,6.599999999999909,"Vor diesem Hintergrund ist es etwas widersprüchlich,"
+319,"00:25:28,640","00:25:32,400",1528.64,1532.4,3.759999999999991,dass man zufällig bei dem Start einer Bodenoffensive
+320,"00:25:32,440","00:25:35,280",1532.44,1535.28,2.839999999999918,"auf Pläne stößt, nachdem man beweisen kann,"
+321,"00:25:35,280","00:25:39,240",1535.28,1539.24,3.9600000000000364,diesmal hat das und das gemacht.
+322,"00:25:39,240","00:25:45,120",1539.24,1545.12,5.879999999999882,PR: Ich zweifle nicht an den Kollegen der New York Times.
+323,"00:25:45,120","00:25:49,080",1545.12,1549.08,3.9600000000000364,"Wir wissen außerdem, was die Hisbollah denkt, was sie sagt."
+324,"00:25:49,080","00:25:53,160",1549.08,1553.16,4.080000000000155,"Ich war vor zwei Wochen noch im Libanon, bei einer Beerdigung"
+325,"00:25:53,200","00:25:56,240",1553.2,1556.24,3.0399999999999636,von Hisbollah Kommandeuren.
+326,"00:25:56,280","00:26:03,960",1556.28,1563.96,7.680000000000064,Dort haben sie den Hass auf Israel freien Lauf gelassen.
+327,"00:26:08,160","00:26:10,120",1568.16,1570.12,1.959999999999809,Den Hass setzen die um
+328,"00:26:10,160","00:26:15,280",1570.16,1575.28,5.119999999999891,seit zwei Jahren mit Raketenangriffen auf Israel.
+329,"00:26:15,280","00:26:18,600",1575.28,1578.6,3.3199999999999363,"Sie können die Kollegen noch einmal zeigen,"
+330,"00:26:18,600","00:26:21,600",1578.6,1581.6,3.0,wie das dort aussieht.
+331,"00:26:21,640","00:26:27,640",1581.64,1587.64,6.0,Es sieht erst mal harmlos aus.
+332,"00:26:27,760","00:26:33,920",1587.76,1593.92,6.160000000000082,Sie sind dort unterwegs mit der israelischen Armee.
+333,"00:26:33,960","00:26:37,720",1593.96,1597.72,3.759999999999991,"PR: Die einzige Möglichkeit an die Frontlinie zu kommen,"
+334,"00:26:37,760","00:26:39,720",1597.76,1599.72,1.9600000000000364,ist mit Soldaten.
+335,"00:26:39,760","00:26:46,160",1599.76,1606.16,6.400000000000091,"Man ist darauf angewiesen, wo sie hingehen."
+336,"00:26:46,200","00:26:49,160",1606.2,1609.16,2.9600000000000364,"Wir sind hier in dem Schacht, in dem Keller,"
+337,"00:26:49,200","00:26:51,160",1609.2,1611.16,1.9600000000000364,in dem Tunnel unterwegs.
+338,"00:26:51,200","00:26:53,880",1611.2,1613.88,2.6800000000000637,"Mich hat die Professionalität gewundert,"
+339,"00:26:53,920","00:26:58,280",1613.92,1618.28,4.3599999999999,wie es aufgebaut ist.
+340,"00:26:58,320","00:27:00,880",1618.32,1620.88,2.560000000000173,"Man sieht eine Küche, ein Waffenlager,"
+341,"00:27:00,920","00:27:06,400",1620.92,1626.4,5.480000000000018,wo sie geschlafen haben.
+342,"00:27:06,400","00:27:09,600",1626.4,1629.6,3.199999999999818,"Es ist etwas, so sagt es die israelische Armee,"
+343,"00:27:09,640","00:27:13,440",1629.64,1633.44,3.7999999999999545,"ein typischer Ort, wo sich die Hisbollah vorbereitet hat,"
+344,"00:27:13,520","00:27:19,440",1633.52,1639.44,5.920000000000073,auf einen möglichen Angriff.
+345,"00:27:21,600","00:27:24,560",1641.6,1644.56,2.9600000000000364,"Man muss immer wieder sagen,"
+346,"00:27:24,600","00:27:27,840",1644.6,1647.84,3.240000000000009,wenn wir völlig zu Recht die dramatischen Zahlen
+347,"00:27:27,880","00:27:30,440",1647.88,1650.44,2.5599999999999454,"und Angriffe auf Zivilisten ansprechen,"
+348,"00:27:30,480","00:27:32,560",1650.48,1652.56,2.0799999999999272,"zu dieser Wahrheit gehört auch,"
+349,"00:27:32,600","00:27:36,760",1652.6,1656.76,4.160000000000082,dass sich die Zivilisten in diesen zivilen Gebäuden verstecken.
+350,"00:27:36,800","00:27:40,680",1656.8,1660.68,3.880000000000109,"In Krankenhäusern, in Schulen, überall, wo sie sein können."
+351,"00:27:40,720","00:27:44,040",1660.72,1664.04,3.3199999999999363,"Das macht es für die israelische Armee schwierig,"
+352,"00:27:44,040","00:27:46,040",1664.04,1666.04,2.0,diesen Krieg zu führen.
+353,"00:27:46,080","00:27:53,080",1666.08,1673.08,7.0,"Sie sagten gerade, das muss man so klar sagen."
+354,"00:27:54,560","00:27:58,680",1674.56,1678.68,4.120000000000118,Ich war Teil der israelischen Armee.
+355,"00:27:58,720","00:28:02,080",1678.72,1682.08,3.3599999999999,"Sie zeigen Ihnen das, was sie Ihnen zeigen wollen."
+356,"00:28:02,120","00:28:04,080",1682.12,1684.08,1.9600000000000364,"An sie alle drei die Frage,"
+357,"00:28:04,120","00:28:07,080",1684.12,1687.08,2.9600000000000364,"wie schwer ist es, die Wahrheit zu finden?"
+358,"00:28:07,120","00:28:13,120",1687.12,1693.12,6.0,"Sowohl in der Ukraine, als auch in Russland, im Donbass."
+359,"00:28:13,160","00:28:17,000",1693.16,1697.0,3.839999999999918,Was ist die Wahrheit im Gaza?
+360,"00:28:17,040","00:28:21,480",1697.04,1701.48,4.440000000000055,"Wer war zuletzt in Gaza und konnte unabhängig zeigen, was dort ist?"
+361,"00:28:21,520","00:28:26,200",1701.52,1706.2,4.680000000000064,Es ist Teil eines Spiels?
+362,"00:28:26,240","00:28:28,720",1706.24,1708.72,2.480000000000018,"PR: Es ist ein Unding,"
+363,"00:28:28,760","00:28:33,040",1708.76,1713.04,4.279999999999973,dass internationale Journalisten nicht nach Gaza gelassen werden.
+364,"00:28:33,080","00:28:35,200",1713.08,1715.2,2.1200000000001182,"Die Regierung erlaubt es nicht,"
+365,"00:28:35,240","00:28:39,040",1715.24,1719.04,3.7999999999999545,dass wir dort unabhängig recherchieren können.
+366,"00:28:39,080","00:28:41,040",1719.08,1721.04,1.9600000000000364,"Es ist beispiellos,"
+367,"00:28:41,080","00:28:43,040",1721.08,1723.04,1.9600000000000364,dass solch ein großer Krieg
+368,"00:28:43,080","00:28:46,040",1723.08,1726.04,2.9600000000000364,ohne internationale Journalisten stattfindet.
+369,"00:28:46,080","00:28:54,200",1726.08,1734.2,8.120000000000118,"SA: Von einer Demokratie, die Berichterstattung behindert wird."
+370,"00:28:54,920","00:29:00,920",1734.92,1740.92,6.0,Ich würde gerne zur Ukraine etwas sagen.
+371,"00:29:00,960","00:29:08,160",1740.96,1748.16,7.2000000000000455,"Wir hatten jetzt gerade den Fall von einer ukrainischen Journalistin,"
+372,"00:29:08,200","00:29:15,360",1748.2,1755.36,7.1599999999998545,die aus dem besetzten Gebieten berichten wollte.
+373,"00:29:15,640","00:29:18,080",1755.64,1758.08,2.439999999999827,"Man könnte anschaulich darstellen,"
+374,"00:29:18,120","00:29:25,080",1758.12,1765.08,6.960000000000036,"was es eigentlich heißt, russische Besetzung."
+375,"00:29:27,560","00:29:31,360",1767.56,1771.36,3.7999999999999545,"Was heißt es für die Menschen, für die Meinungsfreiheit,"
+376,"00:29:31,400","00:29:34,080",1771.4,1774.08,2.6799999999998363,für das Überleben.
+377,"00:29:34,120","00:29:38,760",1774.12,1778.76,4.6400000000001,Diese Frau wollte dorthin und sie ist sofort gefangen genommen worden.
+378,"00:29:38,800","00:29:41,320",1778.8,1781.32,2.519999999999982,Sie hat den zweiten Versuch gestartet.
+379,"00:29:41,360","00:29:45,880",1781.36,1785.88,4.520000000000209,Sie hat es im März 2022 einmal versucht.
+380,"00:29:45,920","00:29:49,400",1785.92,1789.4,3.480000000000018,"Das war unmittelbar nach der Invasion,"
+381,"00:29:49,440","00:29:52,280",1789.44,1792.28,2.839999999999918,als Mariupol umkämpft war.
+382,"00:29:52,320","00:29:56,680",1792.32,1796.68,4.360000000000127,Die ist festgenommen worden und in ein Straflager gebracht worden.
+383,"00:29:56,720","00:30:02,680",1796.72,1802.68,5.960000000000036,Dann freigelassen worden.
+384,"00:30:02,960","00:30:08,160",1802.96,1808.16,5.2000000000000455,Im vorigen Jahr hat sie auch einen Versuch unternommen
+385,"00:30:08,160","00:30:12,600",1808.16,1812.6,4.439999999999827,und es jetzt in einem russischen Gefängnis gestorben.
+386,"00:30:12,640","00:30:17,920",1812.64,1817.92,5.279999999999973,"Diese Frau wollte noch nicht mal über die Front berichten,"
+387,"00:30:17,960","00:30:20,640",1817.96,1820.64,2.6800000000000637,sondern sie wollte berichten
+388,"00:30:20,720","00:30:23,640",1820.72,1823.64,2.9200000000000728,über das zivile Leben in besetzten Gebieten.
+389,"00:30:23,720","00:30:27,360",1823.72,1827.36,3.6399999999998727,Das war unmöglich.
+390,"00:30:27,400","00:30:33,000",1827.4,1833.0,5.599999999999909,Wie erleben Sie das?
+391,"00:30:33,080","00:30:36,800",1833.08,1836.8,3.7200000000000273,Ihr ganzes Magazin beschäftigt sich mit dem Nahen Osten.
+392,"00:30:36,880","00:30:42,800",1836.88,1842.8,5.919999999999845,Wie schwer fällt Ihnen das?
+393,"00:30:43,920","00:30:46,800",1843.92,1846.8,2.8799999999998818,DG: Ich mach keine Frontberichterstattung.
+394,"00:30:46,840","00:30:52,840",1846.84,1852.84,6.0,Ich mache keine Kriegsberichterstattung.
+395,"00:30:52,880","00:30:54,840",1852.88,1854.84,1.959999999999809,"Wir schauen,"
+396,"00:30:54,880","00:30:59,320",1854.88,1859.32,4.439999999999827,dass wir Beiträge von Menschen aus den jeweiligen Ländern bekommen.
+397,"00:30:59,360","00:31:01,440",1859.36,1861.44,2.0800000000001546,Das ist manchmal sehr schwierig.
+398,"00:31:01,480","00:31:03,680",1861.48,1863.68,2.2000000000000455,"Wir wollen Empathie, wir wollen,"
+399,"00:31:03,680","00:31:06,240",1863.68,1866.24,2.5599999999999454,"dass die Menschen dort verwurzelt sind,"
+400,"00:31:06,280","00:31:08,680",1866.28,1868.68,2.400000000000091,"sie Ahnung haben, was dort passiert."
+401,"00:31:08,720","00:31:15,720",1868.72,1875.72,7.0,"Wir wollen aber auch, dass sie unparteiisch sind und glaubwürdig."
+402,"00:31:15,760","00:31:18,640",1875.76,1878.64,2.880000000000109,Wir konkurrieren nicht mit der Bild-Zeitung
+403,"00:31:18,680","00:31:24,920",1878.68,1884.92,6.240000000000009,"oder tagesaktuellen Medien, die immer Nachrichten raushauen müssen,"
+404,"00:31:24,960","00:31:26,920",1884.96,1886.92,1.9600000000000364,"aber wir haben es geschafft,"
+405,"00:31:26,960","00:31:30,440",1886.96,1890.44,3.480000000000018,"ein Netzwerk von Autorinnen und Autoren aufzustellen,"
+406,"00:31:30,520","00:31:33,880",1890.52,1893.88,3.3600000000001273,um ansprechende Informationen zu kommen.
+407,"00:31:33,920","00:31:38,400",1893.92,1898.4,4.480000000000018,"SA: Wichtig ist, wenn wir solche Quellen benutzen, das tun wir auch,"
+408,"00:31:38,440","00:31:41,000",1898.44,1901.0,2.5599999999999454,aber wir müssen sie auch schützen.
+409,"00:31:41,040","00:31:44,040",1901.04,1904.04,3.0,Für uns ist das so.
+410,"00:31:44,080","00:31:46,840",1904.08,1906.84,2.759999999999991,"Paul, du bist drin, du fährst wieder raus."
+411,"00:31:46,880","00:31:52,920",1906.88,1912.92,6.039999999999964,Die Menschen bleiben aber dort.
+412,"00:31:54,040","00:32:01,400",1914.04,1921.4,7.360000000000127,"Dieser Punkt muss einen verantwortungsbewusst werden lassen,"
+413,"00:32:01,440","00:32:06,160",1921.44,1926.16,4.720000000000027,diese Menschen müssen dort auskommen weiterleben.
+414,"00:32:06,200","00:32:11,600",1926.2,1931.6,5.399999999999864,Wenn ich hier dieses Bild sehen im Libanon.
+415,"00:32:11,680","00:32:17,600",1931.68,1937.6,5.919999999999845,"Sie waren dort,"
+416,"00:32:20,880","00:32:25,240",1940.88,1945.24,4.3599999999999,wo diese bunkerbrechenden Raketen eingeschlagen sind.
+417,"00:32:25,280","00:32:28,120",1945.28,1948.12,2.839999999999918,PR: Kurz davor war ich genau in diesem Viertel
+418,"00:32:28,160","00:32:32,720",1948.16,1952.72,4.559999999999945,bei der Hisbollah Beerdigung.
+419,"00:32:32,800","00:32:35,720",1952.8,1955.72,2.9200000000000728,Ich habe auch mit den Terroristen gesprochen.
+420,"00:32:35,800","00:32:38,120",1955.8,1958.12,2.3199999999999363,"Es ging zu dem Zeitpunkt auch darum,"
+421,"00:32:38,200","00:32:42,720",1958.2,1962.72,4.519999999999982,dass Kommandeure eliminiert worden sein.
+422,"00:32:42,800","00:32:46,880",1962.8,1966.88,4.080000000000155,"Wir sind dann dort weg und ungefähr eine halbe Stunde später,"
+423,"00:32:46,920","00:32:49,880",1966.92,1969.88,2.9600000000000364,"ich war wieder im Hotel im Zentrum der Stadt,"
+424,"00:32:49,920","00:32:52,120",1969.92,1972.12,2.199999999999818,hörte ich dann diese Detonationen
+425,"00:32:52,200","00:32:59,000",1972.2,1979.0,6.7999999999999545,und die Wände wackelten bis in das Zentrum.
+426,"00:33:01,920","00:33:09,040",1981.92,1989.04,7.119999999999891,"Das war der Moment, wo Nasrallah getötet wurde."
+427,"00:33:11,920","00:33:14,680",1991.92,1994.68,2.759999999999991,"Man kann nicht mehr unterm Radar bleiben,"
+428,"00:33:14,760","00:33:16,840",1994.76,1996.84,2.0799999999999272,das macht die Arbeit schwierig.
+429,"00:33:16,880","00:33:21,000",1996.88,2001.0,4.119999999999891,"Die wissen immer, wo sie sind."
+430,"00:33:21,080","00:33:23,320",2001.08,2003.32,2.240000000000009,"PR: Das hängt mit sozialen Medien,"
+431,"00:33:23,400","00:33:29,800",2003.4,2009.8,6.399999999999864,das hängt mit Live Schalten zusammen.
+432,"00:33:36,200","00:33:39,280",2016.2,2019.28,3.0799999999999272,Ich hatte an dem Abend verschiedene Live Schalten
+433,"00:33:39,320","00:33:45,280",2019.32,2025.28,5.960000000000036,mit verschiedenen Ländern.
+434,"00:33:46,360","00:33:49,080",2026.36,2029.08,2.7200000000000273,"Ich hatte auch eine Schalte nach Israel,"
+435,"00:33:49,120","00:33:52,480",2029.12,2032.48,3.3600000000001273,das war dann am Ende ein Fehler.
+436,"00:33:52,560","00:33:55,000",2032.56,2035.0,2.4400000000000546,"Ich helfe, wenn ich angerufen werde."
+437,"00:33:55,040","00:33:57,920",2035.04,2037.92,2.880000000000109,Ich stehe erst einmal für Pressefreiheit.
+438,"00:33:58,000","00:34:00,600",2038.0,2040.6,2.599999999999909,"Am nächsten Morgen passiert,"
+439,"00:34:00,640","00:34:04,400",2040.64,2044.4,3.759999999999991,"ich bekomme auf mein Handy ein Anruf von einer Kollegin,"
+440,"00:34:04,480","00:34:06,800",2044.48,2046.8,2.3199999999999363,"dass die Hisbollah unser Foto teilt,"
+441,"00:34:06,840","00:34:11,320",2046.84,2051.32,4.480000000000246,"das Foto, auf das wir bei dieser Beerdigung waren."
+442,"00:34:11,400","00:34:15,280",2051.4,2055.28,3.880000000000109,"Ich gehe danach zu meinem Kameramann,"
+443,"00:34:15,320","00:34:20,040",2055.32,2060.04,4.7199999999998,einem Hotel in Beirut.
+444,"00:34:20,080","00:34:23,520",2060.08,2063.52,3.4400000000000546,Unsere Producer kam noch dazu.
+445,"00:34:23,560","00:34:30,360",2063.56,2070.36,6.800000000000182,"Er macht dann noch ein Scherz, gleich kommt die Polizei."
+446,"00:34:30,400","00:34:36,880",2070.4,2076.88,6.480000000000018,5 Minuten später klopft es an der Tür.
+447,"00:34:37,840","00:34:42,880",2077.84,2082.88,5.039999999999964,Dann kamen fünf Geheimdienstleute in unser Zimmer.
+448,"00:34:42,960","00:34:47,080",2082.96,2087.08,4.119999999999891,"Wir konnten dann noch eine Nachricht absetzen, Polizei ist hier."
+449,"00:34:47,160","00:34:50,840",2087.16,2090.84,3.680000000000291,Sie haben all unsere Sache mitgenommen.
+450,"00:34:50,920","00:34:54,400",2090.92,2094.4,3.480000000000018,"Ich dachte am Anfang,"
+451,"00:34:54,480","00:35:02,480",2094.48,2102.48,8.0,wir werden befragt und dann schieben sie uns ab aus dem Land.
+452,"00:35:04,760","00:35:09,400",2104.76,2109.4,4.639999999999873,"Wir kamen dann in irgendein Auto und ich wusste nicht, wo es hingehen."
+453,"00:35:09,480","00:35:13,280",2109.48,2113.28,3.800000000000182,"Wir kamen seine Geheimdienststelle, wo wir verhört wurden."
+454,"00:35:13,320","00:35:18,360",2113.32,2118.36,5.039999999999964,"Ohne Gewalt, es war ein normales Gespräch."
+455,"00:35:18,400","00:35:21,760",2118.4,2121.76,3.3600000000001273,"Sie kannten viele Dinge von mir, auch persönliche."
+456,"00:35:21,800","00:35:24,120",2121.8,2124.12,2.319999999999709,Das fand ich erstaunlich.
+457,"00:35:24,160","00:35:27,200",2124.16,2127.2,3.0399999999999636,Es ging 2 Stunden und plötzlich kamen sie
+458,"00:35:27,280","00:35:29,480",2127.28,2129.48,2.199999999999818,mit Handschellen und Augenbinden.
+459,"00:35:29,520","00:35:32,160",2129.52,2132.16,2.6399999999998727,"Ich hab gefragt, wohin geht's."
+460,"00:35:32,240","00:35:38,240",2132.24,2138.24,6.0,Sie haben uns das nicht gesagt.
+461,"00:35:38,440","00:35:42,800",2138.44,2142.8,4.360000000000127,"Das war der Moment, wo ich Angst hatte."
+462,"00:35:42,840","00:35:46,360",2142.84,2146.36,3.519999999999982,"Ich dachte, was passiert jetzt."
+463,"00:35:46,440","00:35:48,920",2146.44,2148.92,2.480000000000018,Werden wir an die Hisbollah übergeben.
+464,"00:35:48,960","00:35:53,240",2148.96,2153.24,4.279999999999745,Es ging dann weiter.
+465,"00:35:53,320","00:36:00,240",2153.32,2160.24,6.919999999999618,"Wir waren bei Militär, die uns befragt haben."
+466,"00:36:01,040","00:36:07,880",2161.04,2167.88,6.8400000000001455,"Als er dann bei Militär waren, da wusste ich,"
+467,"00:36:07,960","00:36:14,080",2167.96,2174.08,6.119999999999891,"das wird eine Zeit dauern, mit Augenbinden und Handschellen,"
+468,"00:36:14,160","00:36:17,880",2174.16,2177.88,3.7200000000002547,"aber wir kommen hier heraus, wir sind bei der Regierung."
+469,"00:36:17,920","00:36:21,960",2177.92,2181.96,4.039999999999964,"Die Gefängniswärter dort waren alle freundlich, keine Gewalt."
+470,"00:36:22,000","00:36:24,280",2182.0,2184.28,2.2800000000002,"Es ist aber der Moment, man merkt,"
+471,"00:36:24,360","00:36:30,360",2184.36,2190.36,6.0,als Journalist ist man dem ausgesetzt.
+472,"00:36:30,440","00:36:34,840",2190.44,2194.84,4.400000000000091,"Ich kenne das aus Russland oder aus dem Separatistengebiet damals,"
+473,"00:36:34,920","00:36:42,360",2194.92,2202.36,7.440000000000055,als ich das letzte Mal aus dem Osten berichtet habe.
+474,"00:36:45,360","00:36:49,080",2205.36,2209.08,3.7199999999998,Da haben mich Separatisten gejagt.
+475,"00:36:49,160","00:36:51,880",2209.16,2211.88,2.7200000000002547,"Ich kenne das auch aus Afghanistan,"
+476,"00:36:51,960","00:36:54,600",2211.96,2214.6,2.6399999999998727,wo Taliban mit unserer Berichterstattung
+477,"00:36:54,680","00:36:59,200",2214.68,2219.2,4.519999999999982,nicht zufrieden waren.
+478,"00:36:59,280","00:37:03,800",2219.28,2223.8,4.519999999999982,"DG: Wenn man sich anschaut,"
+479,"00:37:03,880","00:37:07,160",2223.88,2227.16,3.2799999999997453,"wie viele Journalisten in Gaza erschossen wurden,"
+480,"00:37:07,200","00:37:13,280",2227.2,2233.28,6.080000000000382,"gezielt getötet wurden, ich möchte das nicht relativieren."
+481,"00:37:13,360","00:37:18,640",2233.36,2238.64,5.279999999999745,"Aber da sind Menschen vor Ort, da wir gesagt,"
+482,"00:37:18,720","00:37:23,040",2238.72,2243.04,4.320000000000164,"die waren zusammen mit der Hamas wie wollen Sie das anders machen,"
+483,"00:37:23,120","00:37:27,320",2243.12,2247.32,4.200000000000273,wenn sie aus Gaza berichten?
+484,"00:37:27,360","00:37:31,440",2247.36,2251.44,4.079999999999927,"Da wird einem Journalisten, der sich mit der Hamas abspricht,"
+485,"00:37:31,520","00:37:35,640",2251.52,2255.64,4.119999999999891,der wird von einem Scharfschützen in den Kopf geschossen
+486,"00:37:35,920","00:37:40,200",2255.92,2260.2,4.279999999999745,"und dann heißt es, es war ein Hamas Terrorist."
+487,"00:37:40,520","00:37:46,160",2260.52,2266.16,5.639999999999873,"Ich finde es überhaupt erstaunlich,"
+488,"00:37:46,200","00:37:49,800",2266.2,2269.8,3.600000000000364,dass manche Menschen noch diese Arbeit in Gaza machen.
+489,"00:37:49,880","00:37:53,480",2269.88,2273.48,3.599999999999909,"Dass keine internationalen Berichterstatter dort sind,"
+490,"00:37:53,560","00:37:59,680",2273.56,2279.68,6.119999999999891,"hat auch damit zu tun, dass sie nicht möchten,"
+491,"00:37:59,720","00:38:02,000",2279.72,2282.0,2.2800000000002,"zu sehen, was dort passiert."
+492,"00:38:02,080","00:38:04,760",2282.08,2284.76,2.680000000000291,"Es hat natürlich aus Sicherheitsgründen,"
+493,"00:38:04,800","00:38:07,160",2284.8,2287.16,2.3599999999996726,aber nicht nur das.
+494,"00:38:07,160","00:38:09,960",2287.16,2289.96,2.800000000000182,"Und da sind wir jetzt bei Norbert Röttgen,"
+495,"00:38:10,040","00:38:13,920",2290.04,2293.92,3.880000000000109,"die Suche nach der Wahrheit, das erlebe ich hier auch oft,"
+496,"00:38:13,920","00:38:16,000",2293.92,2296.0,2.0799999999999272,"man sagt eine Zahl,"
+497,"00:38:16,080","00:38:19,800",2296.08,2299.8,3.7200000000002547,"etwa 40.000 Tote in Gaza,"
+498,"00:38:19,840","00:38:23,920",2299.84,2303.92,4.079999999999927,"man fragt was ist die Situation im Libanon,"
+499,"00:38:24,000","00:38:29,920",2304.0,2309.92,5.920000000000073,ist das verhältnismäßig?
+500,"00:38:34,480","00:38:40,800",2314.48,2320.8,6.320000000000164,"Dann hat man immer sofort jemanden,"
+501,"00:38:41,000","00:38:43,600",2321.0,2323.6,2.599999999999909,"der sagt, die Zahl kommt von der Hamas,"
+502,"00:38:43,680","00:38:46,760",2323.68,2326.76,3.080000000000382,wie belastbar ist die eigentlich?
+503,"00:38:46,840","00:38:52,600",2326.84,2332.6,5.7599999999997635,"Ich habe viel mitbekommen, die Amerikaner werden nervös,"
+504,"00:38:52,680","00:39:00,440",2332.68,2340.44,7.760000000000218,"die Hilfslieferungen sollen um 50 % reduziert worden sein,"
+505,"00:39:02,400","00:39:08,400",2342.4,2348.4,6.0,was nach meinem Verständnis
+506,"00:39:11,400","00:39:16,600",2351.4,2356.6,5.199999999999818,zu einer humanitären Katastrophe führen muss.
+507,"00:39:16,680","00:39:23,680",2356.68,2363.68,7.0,"Wie weit unterstützen wir das als Deutschland,"
+508,"00:39:23,960","00:39:31,840",2363.96,2371.84,7.880000000000109,"machen wir uns mitschuldig, wenn wir weiter Waffen liefern?"
+509,"00:39:38,080","00:39:41,240",2378.08,2381.24,3.1599999999998545,Hat der Chef der jüdischen Allgemeinen kürzlich
+510,"00:39:41,320","00:39:43,960",2381.32,2383.96,2.6399999999998727,"ein stilles Waffenembargo genannt,"
+511,"00:39:44,040","00:39:49,840",2384.04,2389.84,5.800000000000182,da hat Friedrich Merz sich so geäußert:
+512,"00:39:49,920","00:39:53,760",2389.92,2393.76,3.8400000000001455,"Ich kann es Ihnen nicht ersparen, darauf hinzuweisen,"
+513,"00:39:53,840","00:39:59,560",2393.84,2399.56,5.7199999999998,dass bei uns eine größere Zahl von Unternehmen
+514,"00:39:59,640","00:40:07,880",2399.64,2407.88,8.240000000000236,"sich zu Wort gemeldet haben mit schriftlichen Unterlagen darüber,"
+515,"00:40:07,960","00:40:10,680",2407.96,2410.68,2.7199999999998,"dass Genehmigungen beantragt worden sind,"
+516,"00:40:10,760","00:40:14,560",2410.76,2414.56,3.799999999999727,und seit Monaten von der Bundesregierung nicht bearbeitet
+517,"00:40:14,640","00:40:16,560",2414.64,2416.56,1.9200000000000728,werden.
+518,"00:40:16,640","00:40:20,240",2416.64,2420.24,3.599999999999909,Was ist das anderes als die faktische Verweigerung von
+519,"00:40:20,320","00:40:26,200",2420.32,2426.2,5.879999999999654,Exportgenehmigungen?
+520,"00:40:26,360","00:40:29,280",2426.36,2429.28,2.9200000000000728,"Herr Mützenich, sie dürfen erwidern."
+521,"00:40:29,360","00:40:34,840",2429.36,2434.84,5.480000000000018,"Sind Sie einverstanden, wenn Olaf Scholz antwortet?"
+522,"00:40:34,920","00:40:38,520",2434.92,2438.52,3.599999999999909,"Wir haben nicht entschieden keine Waffen zu liefern,"
+523,"00:40:38,600","00:40:42,320",2438.6,2442.32,3.7200000000002547,wir haben Waffen geliefert und wir werden Waffen liefern.
+524,"00:40:42,400","00:40:48,040",2442.4,2448.04,5.639999999999873,Das ist die Haltung der Bundesregierung.
+525,"00:40:48,120","00:40:51,800",2448.12,2451.8,3.680000000000291,"Wir haben Entscheidungen in der Regierung getroffen,"
+526,"00:40:51,840","00:40:56,240",2451.84,2456.24,4.399999999999636,"die sicherstellen, dass es demnächst weitere Lieferungen geben wird."
+527,"00:40:56,320","00:41:00,320",2456.32,2460.32,4.0,"Dann werden Sie sehen, dass das sich ein falscher Vorhalt war."
+528,"00:41:00,400","00:41:04,560",2460.4,2464.56,4.1599999999998545,Ein ziemlich spektakulärer Vorgang finde ich.
+529,"00:41:04,640","00:41:10,680",2464.64,2470.68,6.039999999999964,Warum macht Friedrich Merz das so zum Thema?
+530,"00:41:10,760","00:41:13,760",2470.76,2473.76,3.0,NR: Sie haben jetzt ja ganz viel angesprochen.
+531,"00:41:13,840","00:41:18,360",2473.84,2478.36,4.519999999999982,Die Kaskade.
+532,"00:41:18,440","00:41:20,920",2478.44,2480.92,2.480000000000018,"Das erste, das haben sie angesprochen,"
+533,"00:41:21,000","00:41:26,920",2481.0,2486.92,5.920000000000073,"dass es deutlich geworden,"
+534,"00:41:27,480","00:41:30,680",2487.48,2490.68,3.199999999999818,"der Satz, im ""Krieg stirbt die Wahrheit zuerst""."
+535,"00:41:30,720","00:41:33,640",2490.72,2493.64,2.9200000000000728,Das ist auch hier wieder festzustellen.
+536,"00:41:33,720","00:41:40,080",2493.72,2500.08,6.360000000000127,"Trotz risikobereit im Einsatz erfahren wir etwas,"
+537,"00:41:40,160","00:41:42,040",2500.16,2502.04,1.8800000000001091,aber in wichtigen Bereichen
+538,"00:41:42,160","00:41:46,240",2502.16,2506.24,4.079999999999927,haben wir eine ungesicherte Tatsachengrundlage.
+539,"00:41:46,360","00:41:52,320",2506.36,2512.32,5.960000000000036,Dazu zählt die humanitäre Lage.
+540,"00:41:53,080","00:41:55,080",2513.08,2515.08,2.0,"Das muss man einkalkulieren,"
+541,"00:41:55,160","00:41:59,240",2515.16,2519.24,4.079999999999927,dass doch ein wichtiger Punkt von Unsicherheit.
+542,"00:41:59,320","00:42:05,040",2519.32,2525.04,5.7199999999998,"Was auch dahinter steht ist aus meiner Sicht,"
+543,"00:42:05,120","00:42:08,920",2525.12,2528.92,3.800000000000182,"was den Gaza Krieg und auch den im Libanon so auszeichnet,"
+544,"00:42:09,000","00:42:14,960",2529.0,2534.96,5.960000000000036,"das ist ein tragisches Dilemma,"
+545,"00:42:16,840","00:42:22,240",2536.84,2542.24,5.399999999999636,"dass durch den brutalen Angriff auf Israel ausgelöst worden ist,"
+546,"00:42:22,320","00:42:26,120",2542.32,2546.12,3.799999999999727,"das hat dazu geführt, dass Israel sich verteidigen musste,"
+547,"00:42:26,240","00:42:30,040",2546.24,2550.04,3.800000000000182,"auch unbestritten das Recht dazu hat, das ist klar."
+548,"00:42:30,120","00:42:33,840",2550.12,2553.84,3.7200000000002547,Das steht immer vor der Klammer.
+549,"00:42:33,920","00:42:39,840",2553.92,2559.84,5.920000000000073,"Genau, das ist klar."
+550,"00:42:40,160","00:42:44,560",2560.16,2564.56,4.400000000000091,"Aber durch die Brutalität dieses Angriffs, durch die Inszenierung,"
+551,"00:42:44,640","00:42:48,000",2564.64,2568.0,3.3600000000001273,"durch die mediale Verbreitung,"
+552,"00:42:48,080","00:42:51,880",2568.08,2571.88,3.800000000000182,"ist Israels etwas gezwungen worden,"
+553,"00:42:51,960","00:42:57,800",2571.96,2577.8,5.8400000000001455,was Israel niemals tun wollte.
+554,"00:42:57,880","00:43:02,160",2577.88,2582.16,4.279999999999745,"Israel wollte niemals noch mal in den Gazastreifen hinein,"
+555,"00:43:02,240","00:43:06,280",2582.24,2586.28,4.040000000000418,"da waren Sie schon mal genauso wie im Libanon,"
+556,"00:43:06,360","00:43:11,400",2586.36,2591.4,5.039999999999964,sie sind nach negativen Erfahrungen aus beiden wieder heraus.
+557,"00:43:11,520","00:43:17,280",2591.52,2597.28,5.760000000000218,"Die schlechteste Erfahrung ist die Tragik,"
+558,"00:43:17,360","00:43:23,840",2597.36,2603.84,6.480000000000018,die mit dieser Erfahrung verbunden ist.
+559,"00:43:29,560","00:43:32,520",2609.56,2612.52,2.9600000000000364,Dass die Hamas sich strategisch
+560,"00:43:32,640","00:43:35,160",2612.64,2615.16,2.519999999999982,hinter zivilen Strukturen versteckt.
+561,"00:43:35,200","00:43:40,160",2615.2,2620.16,4.960000000000036,Dass sie Zivilisten als Schutzschilde benutzt.
+562,"00:43:40,240","00:43:44,040",2620.24,2624.04,3.800000000000182,So kommt Israel automatisch in ein moralisches Dilemma.
+563,"00:43:44,120","00:43:47,880",2624.12,2627.88,3.7600000000002183,"Entweder verzichten sie auf die Verteidigung,"
+564,"00:43:48,000","00:43:51,720",2628.0,2631.72,3.7199999999998,"um nicht Gefahr zu laufen, Zivilisten zu töten,"
+565,"00:43:51,840","00:43:57,240",2631.84,2637.24,5.399999999999636,"oder sich zu verteidigen,"
+566,"00:43:57,360","00:44:01,320",2637.36,2641.32,3.9600000000000364,"und zu wissen, dass der Tod von Zivilisten unvermeidlich ist."
+567,"00:44:01,400","00:44:07,320",2641.4,2647.32,5.920000000000073,"Meine Einschätzung ist,"
+568,"00:44:10,440","00:44:13,400",2650.44,2653.4,2.9600000000000364,dass das mit der Kern des teuflischen Plans
+569,"00:44:13,440","00:44:15,400",2653.44,2655.4,1.9600000000000364,"von Sinwar und Hamas ist,"
+570,"00:44:15,480","00:44:20,120",2655.48,2660.12,4.639999999999873,genau das herbeizuführen.
+571,"00:44:20,200","00:44:24,520",2660.2,2664.52,4.320000000000164,"Jetzt geschieht aber auch etwas,"
+572,"00:44:24,600","00:44:31,720",2664.6,2671.72,7.119999999999891,"was die langfristige Sicherheit Israels bedroht,"
+573,"00:44:34,520","00:44:38,080",2674.52,2678.08,3.5599999999999454,"ein großer Hass, nicht nur bei der Hamas,"
+574,"00:44:38,160","00:44:43,520",2678.16,2683.52,5.360000000000127,in der gesamten arabischen Welt.
+575,"00:44:43,600","00:44:47,080",2683.6,2687.08,3.480000000000018,"Dadurch dass sich Israel so verteidigen muss,"
+576,"00:44:47,200","00:44:52,560",2687.2,2692.56,5.360000000000127,untergräbt es seine eigene langfristige Sicherheit.
+577,"00:44:52,640","00:44:56,680",2692.64,2696.68,4.039999999999964,"Das ist eine tragische Falle, in die Israel hineingekommen ist."
+578,"00:44:56,760","00:45:02,680",2696.76,2702.68,5.919999999999618,Was heißt das für uns?
+579,"00:45:15,320","00:45:23,840",2715.32,2723.84,8.519999999999982,Das ist etwas das kann nur Israel und seine Bevölkerung entscheiden.
+580,"00:45:26,080","00:45:34,240",2726.08,2734.24,8.159999999999854,"Wie geht man mit den Angriffen von den ganzen Gruppierungen um,"
+581,"00:45:34,400","00:45:36,960",2734.4,2736.96,2.5599999999999454,wenn von diesen die Sicherheit Israels
+582,"00:45:37,040","00:45:41,320",2737.04,2741.32,4.2800000000002,nie dagewesen angegriffen wird.
+583,"00:45:41,440","00:45:44,200",2741.44,2744.2,2.7599999999997635,Israel ist in der gefährlichsten Situation
+584,"00:45:44,280","00:45:47,920",2744.28,2747.92,3.6399999999998727,seit der Gründung des Staates.
+585,"00:45:48,000","00:45:50,720",2748.0,2750.72,2.7199999999998,"Wegen der Verantwortung oder der Schuld,"
+586,"00:45:50,800","00:45:55,680",2750.8,2755.68,4.879999999999654,"der deutschen Schuld des Holocausts, die wir haben,"
+587,"00:45:55,760","00:46:00,840",2755.76,2760.84,5.079999999999927,daraus erwächst eine Verantwortung
+588,"00:46:00,920","00:46:08,280",2760.92,2768.28,7.360000000000127,für Israel und die Existenz des Staates einzustehen.
+589,"00:46:10,560","00:46:13,480",2770.56,2773.48,2.9200000000000728,In dieser Bedrohung der Existenz des Staates
+590,"00:46:13,560","00:46:18,760",2773.56,2778.76,5.200000000000273,müssen wir dem Land beistehen.
+591,"00:46:18,840","00:46:22,920",2778.84,2782.92,4.079999999999927,"Die Kritik der CDU war,"
+592,"00:46:23,040","00:46:28,800",2783.04,2788.8,5.760000000000218,dass die Bundesregierung dieser Verpflichtung nicht nachkommt.
+593,"00:46:28,920","00:46:33,200",2788.92,2793.2,4.279999999999745,"Ich glaube der Vorwurf stimmt, ich glaube es gab eine Verzögerung,"
+594,"00:46:33,320","00:46:38,280",2793.32,2798.28,4.960000000000036,"dass es Uneinigkeit in der Regierung gab,"
+595,"00:46:38,400","00:46:43,920",2798.4,2803.92,5.519999999999982,"das ist der Beweis dafür,"
+596,"00:46:44,040","00:46:47,720",2804.04,2807.72,3.6799999999998363,dass nach der Intervention von Friedrich Merz
+597,"00:46:47,840","00:46:50,960",2807.84,2810.96,3.119999999999891,noch vor der Debatte dieser Woche
+598,"00:46:51,080","00:46:54,880",2811.08,2814.88,3.800000000000182,die Genehmigungen erteilt wurden.
+599,"00:46:54,960","00:46:57,880",2814.96,2817.88,2.9200000000000728,"Ich glaube es gab Diskussionen,"
+600,"00:46:57,960","00:47:03,880",2817.96,2823.88,5.920000000000073,was geliefert wird.
+601,"00:47:04,280","00:47:08,760",2824.28,2828.76,4.480000000000018,"SA: Das spricht aber doch auch von einem Vertrauensverlust,"
+602,"00:47:08,880","00:47:14,520",2828.88,2834.52,5.639999999999873,einem Misstrauen gegenüber Israel in der Bundesregierung.
+603,"00:47:14,600","00:47:19,240",2834.6,2839.24,4.639999999999873,Das hat natürlich auch etwas mit den Opferzahlen zu tun.
+604,"00:47:19,360","00:47:26,640",2839.36,2846.64,7.279999999999745,"Das hat etwas damit zu tun, wie Krieg geführt wird."
+605,"00:47:26,800","00:47:29,280",2846.8,2849.28,2.480000000000018,"Was wir noch gar nicht berührt haben,"
+606,"00:47:29,360","00:47:32,160",2849.36,2852.16,2.799999999999727,das ist welcher Krieg parallel stattfindet:
+607,"00:47:32,240","00:47:36,240",2852.24,2856.24,4.0,ein unglaublicher Informationskrieg.
+608,"00:47:36,320","00:47:40,280",2856.32,2860.28,3.9600000000000364,"Der wird von den arabischen Staaten geführt,"
+609,"00:47:40,360","00:47:47,400",2860.36,2867.4,7.039999999999964,"auch von Russland, auch in der westlichen Welt."
+610,"00:47:47,840","00:47:53,240",2867.84,2873.24,5.399999999999636,"Diese Art von Kriegsführung, das ist ganz wichtige,"
+611,"00:47:53,360","00:47:58,480",2873.36,2878.48,5.119999999999891,und die gab es in den anderen Kriegen Israels bisher nicht.
+612,"00:47:58,560","00:48:04,640",2878.56,2884.64,6.079999999999927,"Was ich bemerkenswert fand, ich war im Westjordanland,"
+613,"00:48:04,760","00:48:08,000",2884.76,2888.0,3.2399999999997817,"da habe ich erfahren, dass die Palästinenser dort,"
+614,"00:48:08,080","00:48:13,400",2888.08,2893.4,5.320000000000164,"über die redet er,"
+615,"00:48:13,520","00:48:19,640",2893.52,2899.64,6.119999999999891,"dass die bestreiten, dass es dieses Massaker überhaupt gab."
+616,"00:48:19,720","00:48:24,040",2899.72,2904.04,4.320000000000164,"Von den älteren Palästinensern im Westjordanland gibt es Personen,"
+617,"00:48:24,120","00:48:28,400",2904.12,2908.4,4.2800000000002,"die es als Aufgabe betrachten,"
+618,"00:48:28,480","00:48:31,680",2908.48,2911.68,3.199999999999818,"ihren jungen beizubringen,"
+619,"00:48:31,760","00:48:37,000",2911.76,2917.0,5.239999999999782,dass das Massaker stattgefunden hat.
+620,"00:48:37,080","00:48:40,080",2917.08,2920.08,3.0,"Da habe ich geglaubt, dass es ein Zeichen ist,"
+621,"00:48:40,160","00:48:45,320",2920.16,2925.32,5.160000000000309,dass Zusammenarbeit noch möglich ist.
+622,"00:48:45,400","00:48:49,160",2925.4,2929.16,3.7599999999997635,"DG: Wie in unseren Bundestagsreden immer betont wird,"
+623,"00:48:49,280","00:48:52,880",2929.28,2932.88,3.599999999999909,"alles hat am 7. Oktober begonnen,"
+624,"00:48:53,000","00:48:59,720",2933.0,2939.72,6.7199999999998,"der 7. Oktober ist der Beginn allen Übels,"
+625,"00:49:05,000","00:49:08,720",2945.0,2948.72,3.7199999999998,im Nahen Osten wird der aber häufig nur als eine Etappe
+626,"00:49:08,800","00:49:13,280",2948.8,2953.28,4.480000000000018,in dieser lange ungelösten Palästina -Frage gesehen.
+627,"00:49:13,360","00:49:15,240",2953.36,2955.24,1.8799999999996544,"Ich finde es hochinteressant,"
+628,"00:49:15,360","00:49:19,880",2955.36,2959.88,4.519999999999982,wie sich die arabischen Staaten zurückhalten.
+629,"00:49:20,000","00:49:22,280",2960.0,2962.28,2.2800000000002,"Hier haben auch ein Interesse daran,"
+630,"00:49:22,400","00:49:26,920",2962.4,2966.92,4.519999999999982,dass Hamas und Hisbollah zerschlagen werden.
+631,"00:49:27,040","00:49:32,720",2967.04,2972.72,5.679999999999836,Die sind aber auch erschrocken über das harte Vorgehen Israels.
+632,"00:49:32,800","00:49:37,480",2972.8,2977.48,4.679999999999836,"NR: Die Regierungen wollen den Erfolg Israels,"
+633,"00:49:37,560","00:49:44,200",2977.56,2984.2,6.639999999999873,aber die arabischen Gesellschaften nicht.
+634,"00:49:47,680","00:49:49,920",2987.68,2989.92,2.2400000000002365,"DG: Ich konsumiere viele arabischen Medien,"
+635,"00:49:50,040","00:49:53,520",2990.04,2993.52,3.480000000000018,das schlägt sich in der Berichterstattung auch nieder.
+636,"00:49:53,600","00:50:00,240",2993.6,3000.24,6.639999999999873,SA: Ich rede vor allem über Social Media.
+637,"00:50:07,840","00:50:11,440",3007.84,3011.44,3.599999999999909,"DG: Mein Eindruck ist,"
+638,"00:50:11,560","00:50:13,440",3011.56,3013.44,1.8800000000001091,dass die arabische Welt
+639,"00:50:13,560","00:50:16,520",3013.56,3016.52,2.9600000000000364,"sehr nuanciert über den Sachverhalt berichtet,"
+640,"00:50:16,640","00:50:19,400",3016.64,3019.4,2.7600000000002183,weil es auch ein eigenes Dilemma ist.
+641,"00:50:19,480","00:50:24,320",3019.48,3024.32,4.8400000000001455,"NR: Das ist nicht ein Ereignis in einer langen Kette,"
+642,"00:50:24,440","00:50:28,920",3024.44,3028.92,4.480000000000018,das ist im Grunde eine Zeitenwende des Nahen Ostens.
+643,"00:50:29,040","00:50:32,000",3029.04,3032.0,2.9600000000000364,"Es gibt viele herausragende Ereignisse,"
+644,"00:50:32,080","00:50:35,840",3032.08,3035.84,3.7600000000002183,aber an Brutalität nicht zu überbieten.
+645,"00:50:35,960","00:50:42,520",3035.96,3042.52,6.559999999999945,Das hat den Krieg zurückgebracht und war gezielt.
+646,"00:50:42,600","00:50:50,840",3042.6,3050.84,8.240000000000236,PR: So viele wurden seit dem Zweiten Weltkrieg nicht mehr getötet.
+647,"00:50:55,040","00:50:59,560",3055.04,3059.56,4.519999999999982,"DG: Ich wollte den Punkt machen, betrachtet man das als ein Ereignis"
+648,"00:50:59,680","00:51:02,720",3059.68,3062.72,3.0399999999999636,"in einer langen Kette von Leid und Zerstörung,"
+649,"00:51:02,800","00:51:08,520",3062.8,3068.52,5.7199999999998,"die der Naher Osten erlebt hat, das kann man anders sehen..."
+650,"00:51:08,640","00:51:12,440",3068.64,3072.44,3.800000000000182,"NR: Wie man eine solche Brutalität sieht,"
+651,"00:51:12,520","00:51:15,680",3072.52,3075.68,3.1599999999998545,"das ist nicht zur Diskussion,"
+652,"00:51:15,800","00:51:23,160",3075.8,3083.16,7.359999999999673,"das finde ich nicht in Ordnung, dass ein klarer Fall."
+653,"00:51:25,240","00:51:28,400",3085.24,3088.4,3.1600000000003092,"DG: wir müssen aber die Perspektive verstehen,"
+654,"00:51:28,520","00:51:31,440",3088.52,3091.44,2.9200000000000728,"die Akteure in ihrem Handeln verstehen wollen,"
+655,"00:51:31,560","00:51:34,840",3091.56,3094.84,3.2800000000002,dann müssen wir uns in ihr Handeln hineinversetzen.
+656,"00:51:34,960","00:51:41,000",3094.96,3101.0,6.039999999999964,"Für einen Palästinenser in Gaza,"
+657,"00:51:41,400","00:51:44,720",3101.4,3104.72,3.319999999999709,"der im Alter von 40 Jahren zehn Kriege erlebt hat,"
+658,"00:51:44,840","00:51:50,840",3104.84,3110.84,6.0,ist das ein Ereignis von vielen.
+659,"00:51:51,600","00:51:58,920",3111.6,3118.92,7.320000000000164,"Deshalb ziehen Leute in Zweifel, dass das Massaker stattgefunden hat."
+660,"00:51:59,040","00:52:06,120",3119.04,3126.12,7.079999999999927,"Die Propaganda sagt, es sei eine Inszenierung..."
+661,"00:52:06,600","00:52:08,920",3126.6,3128.92,2.3200000000001637,"Da stecken die Amerikaner dahinter,"
+662,"00:52:09,080","00:52:13,840",3129.08,3133.84,4.760000000000218,das haben die Israelis selbst inszeniert...
+663,"00:52:13,960","00:52:17,720",3133.96,3137.72,3.7599999999997635,"DG: Wenn man auf die Frage des moralischen Dilemmas kommt,"
+664,"00:52:17,840","00:52:24,080",3137.84,3144.08,6.239999999999782,"natürlich war das ein beispielloser Schock,"
+665,"00:52:24,200","00:52:26,080",3144.2,3146.08,1.8800000000001091,"aber ich habe auch das Gefühl,"
+666,"00:52:26,160","00:52:29,480",3146.16,3149.48,3.3200000000001637,dass aus der Perspektive der israelischen Regierung
+667,"00:52:29,560","00:52:32,760",3149.56,3152.76,3.200000000000273,es sich nicht um ein moralisches Dilemma handelt.
+668,"00:52:32,840","00:52:38,760",3152.84,3158.76,5.920000000000073,"Es war klar, wie man reagiert,"
+669,"00:52:38,880","00:52:42,800",3158.88,3162.8,3.9200000000000728,"wenn man die Bevölkerung von Gaza für verantwortlich hält,"
+670,"00:52:42,880","00:52:45,280",3162.88,3165.28,2.400000000000091,nicht die Hamas allein.
+671,"00:52:51,680","00:52:53,720",3171.68,3173.72,2.0399999999999636,"wenn Sie das in Abrede stellen,"
+672,"00:52:53,840","00:52:58,480",3173.84,3178.48,4.639999999999873,dann haben Sie das alles nicht verstanden.
+673,"00:52:58,600","00:53:03,520",3178.6,3183.52,4.920000000000073,"Dass die Bevölkerung von Gaza verantwortlich ist,"
+674,"00:53:03,640","00:53:07,400",3183.64,3187.4,3.7600000000002183,"das erklärt,"
+675,"00:53:07,520","00:53:09,480",3187.52,3189.48,1.9600000000000364,warum sich so viele Zivilisten
+676,"00:53:09,600","00:53:16,280",3189.6,3196.28,6.680000000000291,dem Angriff der Hamas angeschlossen haben.
+677,"00:53:17,960","00:53:20,480",3197.96,3200.48,2.519999999999982,Ein aus allen Teilen der Gesellschaft
+678,"00:53:20,600","00:53:24,160",3200.6,3204.16,3.5599999999999454,"wurde immer klargemacht, Gaza ist dafür verantwortlich,"
+679,"00:53:24,240","00:53:28,920",3204.24,3208.92,4.680000000000291,dass sind nicht einzelne Personen.
+680,"00:53:28,920","00:53:32,080",3208.92,3212.08,3.1599999999998545,NR: Das muss ich ganz ausdrücklich bestreiten.
+681,"00:53:32,080","00:53:35,240",3212.08,3215.24,3.1599999999998545,Das ist niemals gesagt worden.
+682,"00:53:35,320","00:53:40,320",3215.32,3220.32,5.0,Ziele des Krieges habe ich eben genannt.
+683,"00:53:40,400","00:53:43,920",3220.4,3223.92,3.519999999999982,Ich habe bestimmt Kritiken an der Regierung Netanjahu.
+684,"00:53:44,000","00:53:46,360",3224.0,3226.36,2.3600000000001273,"Es ist aber immer gesagt wurden,"
+685,"00:53:46,440","00:53:49,960",3226.44,3229.96,3.519999999999982,"der Gegner ist der, der uns eingegriffen hat,"
+686,"00:53:50,040","00:53:55,600",3230.04,3235.6,5.559999999999945,und dass es die Hamas als Terrororganisation.
+687,"00:53:55,640","00:54:00,840",3235.64,3240.84,5.200000000000273,Es vor allem die Führung der Hamas.
+688,"00:54:00,960","00:54:08,240",3240.96,3248.24,7.279999999999745,"Deswegen ist das Ziel, die Hamas oder zu schwächen,"
+689,"00:54:10,520","00:54:15,560",3250.52,3255.56,5.039999999999964,dass sie keine Bedrohung mehr ist.
+690,"00:54:15,640","00:54:20,760",3255.64,3260.76,5.120000000000346,Es war niemals von der Bevölkerung die Rede.
+691,"00:54:20,800","00:54:22,760",3260.8,3262.76,1.9600000000000364,"Ich finde außerdem,"
+692,"00:54:22,840","00:54:26,040",3262.84,3266.04,3.199999999999818,"dass die israelische Bevölkerung nicht empfindet,"
+693,"00:54:26,120","00:54:32,440",3266.12,3272.44,6.320000000000164,dass sie dieses moralische Dilemma hat.
+694,"00:54:32,520","00:54:36,720",3272.52,3276.72,4.199999999999818,"Warum bei Israel völlig klar, wie gehen nicht mehr in Gaza rein."
+695,"00:54:36,760","00:54:40,120",3276.76,3280.12,3.3599999999996726,"Genau deswegen, weil man nicht unterscheiden kann,"
+696,"00:54:40,200","00:54:43,160",3280.2,3283.16,2.9600000000000364,ist es ein Terrorist oder ist es ein Zivilist.
+697,"00:54:43,240","00:54:45,840",3283.24,3285.84,2.600000000000364,Das für die Armee in ein Dilemma hinein.
+698,"00:54:45,880","00:54:49,360",3285.88,3289.36,3.480000000000018,"Dieses Dilemma ist es,"
+699,"00:54:49,440","00:54:53,480",3289.44,3293.48,4.039999999999964,was das Verhältnis zwischen Israel und den islamischen Staaten
+700,"00:54:53,560","00:54:56,040",3293.56,3296.04,2.480000000000018,zerstört hat.
+701,"00:54:56,120","00:55:02,120",3296.12,3302.12,6.0,In dieser Tragik steckt Israel.
+702,"00:55:02,760","00:55:06,240",3302.76,3306.24,3.4799999999995634,"PR: Aber natürlich, da gebe ich dir recht,"
+703,"00:55:06,320","00:55:13,720",3306.32,3313.72,7.399999999999636,"gibt es in der deutschen Öffentlichkeit die Meinung,"
+704,"00:55:13,800","00:55:16,600",3313.8,3316.6,2.799999999999727,"inwieweit Terroristen, die in Gaza leben,"
+705,"00:55:16,640","00:55:20,160",3316.64,3320.16,3.519999999999982,mit der Hamas verbandelt sind.
+706,"00:55:20,240","00:55:23,760",3320.24,3323.76,3.5200000000004366,"Wenn die sich Umfrageergebnisse anschauen,"
+707,"00:55:23,800","00:55:26,240",3323.8,3326.24,2.4399999999996,"wie viel unterstützen die Hamas,"
+708,"00:55:26,320","00:55:29,640",3326.32,3329.64,3.319999999999709,da würde die Hamas auch im Westjordanland gewinnen.
+709,"00:55:29,720","00:55:37,200",3329.72,3337.2,7.480000000000018,Die Unterstützung ist gewaltig und sie ist gestiegen.
+710,"00:55:37,720","00:55:41,760",3337.72,3341.76,4.040000000000418,"Es gibt sehr viele Fälle, wo, das haben wir bei den Geiseln,"
+711,"00:55:41,840","00:55:47,080",3341.84,3347.08,5.239999999999782,"die sehr häufig vergessen werden,"
+712,"00:55:47,160","00:55:51,320",3347.16,3351.32,4.160000000000309,dass diese Geiseln plötzlich in zivilen Häusern bei Zivilisten
+713,"00:55:51,360","00:55:54,760",3351.36,3354.76,3.400000000000091,"in Gaza aufgetaucht sind. Natürlich kann man sagen,"
+714,"00:55:54,840","00:56:01,960",3354.84,3361.96,7.119999999999891,"dass eine hängt mit dem anderen nicht zusammen,"
+715,"00:56:05,840","00:56:11,320",3365.84,3371.32,5.480000000000018,"und sagen, dass diese böse Hamas, das sind so ein paar,"
+716,"00:56:11,400","00:56:14,520",3371.4,3374.52,3.119999999999891,"aber man muss verstehen, was ein Krieg bedeutet,"
+717,"00:56:14,600","00:56:17,360",3374.6,3377.36,2.7600000000002183,"auch gegen eine Ideologie,"
+718,"00:56:17,440","00:56:24,720",3377.44,3384.72,7.279999999999745,die getragen wird von einer großen Mehrheit der Bevölkerung dort.
+719,"00:56:24,800","00:56:29,160",3384.8,3389.16,4.359999999999673,"Bekämpfen eine solche Ideologie, in dem man dann dort so reingeht?"
+720,"00:56:29,240","00:56:33,400",3389.24,3393.4,4.160000000000309,"Hätte sagen können,"
+721,"00:56:33,480","00:56:41,000",3393.48,3401.0,7.519999999999982,dass uns erst Frauen und Kinder in Sicherheit bringen.
+722,"00:56:41,280","00:56:48,800",3401.28,3408.8,7.519999999999982,"Das, was wir vorhin gehört haben, von Friedrich Merz,"
+723,"00:56:53,000","00:56:57,400",3413.0,3417.4,4.400000000000091,"dieses Unbehagen, was auch in der Regierung merkt."
+724,"00:56:57,480","00:57:01,000",3417.48,3421.0,3.519999999999982,"Offensichtlich gibt es eine Diskrepanz, zwischen dem,"
+725,"00:57:01,040","00:57:05,240",3421.04,3425.24,4.199999999999818,was man im Fernsehen oder in Sonntagsreden sagt.
+726,"00:57:05,320","00:57:11,800",3425.32,3431.8,6.480000000000018,NR: Da muss man das aber artikulieren.
+727,"00:57:17,120","00:57:20,560",3437.12,3440.56,3.4400000000000546,Diesem Widerspruch war Friedrich Merz auf der Spur.
+728,"00:57:20,680","00:57:25,680",3440.68,3445.68,5.0,"Warum kommt dann raus,"
+729,"00:57:25,720","00:57:31,840",3445.72,3451.84,6.120000000000346,"dass man Waffen nur dann liefert,"
+730,"00:57:31,920","00:57:38,040",3451.92,3458.04,6.119999999999891,wenn sie sich im Bild des Völkerrechts bewegen.
+731,"00:57:38,120","00:57:43,800",3458.12,3463.8,5.680000000000291,"Warum macht man das, wenn man nicht offensichtlich das Gefühl hat,"
+732,"00:57:43,880","00:57:46,480",3463.88,3466.48,2.599999999999909,"dass Waffen für Dinge eingesetzt werden,"
+733,"00:57:46,560","00:57:52,480",3466.56,3472.48,5.920000000000073,die nicht richtig sind.
+734,"00:57:57,040","00:57:59,560",3477.04,3479.56,2.519999999999982,SA: dass es eine Misstrauenserklärung
+735,"00:57:59,640","00:58:05,760",3479.64,3485.76,6.120000000000346,gegen die israelische Regierung.
+736,"00:58:13,480","00:58:16,880",3493.48,3496.88,3.400000000000091,"Da wird die Bundesregierung aber auch angriffbar,"
+737,"00:58:16,920","00:58:20,000",3496.92,3500.0,3.0799999999999272,"nicht zu artikulieren, was hält uns da zurück."
+738,"00:58:20,080","00:58:23,760",3500.08,3503.76,3.680000000000291,Das Gefühl haben viele Menschen.
+739,"00:58:23,840","00:58:27,160",3503.84,3507.16,3.319999999999709,"Wir denken, dass es unverhältnismäßig,"
+740,"00:58:27,240","00:58:30,080",3507.24,3510.08,2.8400000000001455,"wir sehen 40.000 Tote, die wir Hamas nennen."
+741,"00:58:30,160","00:58:32,800",3510.16,3512.8,2.6400000000003274,Es ist ein unvorstellbares Blutvergießen.
+742,"00:58:32,920","00:58:38,800",3512.92,3518.8,5.880000000000109,Auf allen Seiten grauenvoll.
+743,"00:58:42,320","00:58:48,000",3522.32,3528.0,5.679999999999836,"SA: Auf der anderen Seite wissen wir von den Balkankriegen,"
+744,"00:58:48,080","00:58:50,480",3528.08,3530.48,2.400000000000091,dass zwischen dieser Kriegsjahre
+745,"00:58:50,600","00:58:54,240",3530.6,3534.24,3.6399999999998727,die Opferzahl noch immer politische Zahlen waren.
+746,"00:58:54,320","00:58:59,520",3534.32,3539.52,5.199999999999818,Sie wurden sehr hochgerechnet.
+747,"00:58:59,560","00:59:04,520",3539.56,3544.52,4.960000000000036,"Als man sie angeschaut hat, wie viele sind es tatsächlich,"
+748,"00:59:04,600","00:59:11,120",3544.6,3551.12,6.519999999999982,"hat man gesehen, es waren doch weniger."
+749,"00:59:11,240","00:59:15,840",3551.24,3555.84,4.600000000000364,Aber was Netanjahu
+750,"00:59:15,920","00:59:20,320",3555.92,3560.32,4.400000000000091,"sich vorwerfen lassen muss,"
+751,"00:59:20,400","00:59:23,920",3560.4,3563.92,3.519999999999982,dass er ganz am Anfang mit keiner positiven Botschaft
+752,"00:59:24,000","00:59:26,480",3564.0,3566.48,2.480000000000018,für die Menschen im Gaza gekommen ist.
+753,"00:59:26,520","00:59:29,480",3566.52,3569.48,2.9600000000000364,"Die hätte lauten können,"
+754,"00:59:29,560","00:59:33,320",3569.56,3573.32,3.7600000000002183,ihr seid Geiseln eines Terrorregimes und wir befreien euch.
+755,"00:59:33,400","00:59:37,600",3573.4,3577.6,4.199999999999818,Das wäre ganz am Anfang glaubwürdig gewesen.
+756,"00:59:37,680","00:59:39,600",3577.68,3579.6,1.9200000000000728,"DG: Ich finde es erstaunlich,"
+757,"00:59:39,680","00:59:43,600",3579.68,3583.6,3.9200000000000728,"dass wir ein Jahr nach dem Ausbruch des Krieges diskutieren,"
+758,"00:59:43,680","00:59:46,320",3583.68,3586.32,2.6400000000003274,ob da irgendwas nicht stimmen.
+759,"00:59:46,400","00:59:50,600",3586.4,3590.6,4.199999999999818,SA: Ein bisschen deutlicher sind wir schon.
+760,"00:59:50,680","00:59:55,840",3590.68,3595.84,5.160000000000309,DG: Es liegt doch auf der Hand.
+761,"00:59:55,960","01:00:02,800",3595.96,3602.8,6.8400000000001455,Ein israelischer Armeesprecher bestätigt ...
+762,"01:00:04,160","01:00:11,440",3604.16,3611.44,7.2800000000002,"SA: Herr Gerlach, dass jeder dieser Runde schon gesagt."
+763,"01:00:11,520","01:00:15,840",3611.52,3615.84,4.320000000000164,"DG: Die am gesagt, die Zahlen können nach unten korrigiert werden,"
+764,"01:00:15,920","01:00:17,840",3615.92,3617.84,1.9200000000000728,sie werden politisch genutzt.
+765,"01:00:17,920","01:00:20,560",3617.92,3620.56,2.6399999999998727,"Das halte ich eher für unwahrscheinlich,"
+766,"01:00:20,640","01:00:27,040",3620.64,3627.04,6.400000000000091,sie werden eher nach oben korrigiert.
+767,"01:00:35,600","01:00:38,920",3635.6,3638.92,3.3200000000001637,"Natürlich wird sich niemand hinstellen und sagen,"
+768,"01:00:39,000","01:00:41,520",3639.0,3641.52,2.519999999999982,es sind nur soundsoviel gestorben.
+769,"01:00:41,600","01:00:45,920",3641.6,3645.92,4.320000000000164,"PR: Es aber eine wichtige Zahl, zu sagen, wie viel gestorben sind."
+770,"01:00:46,000","01:00:48,680",3646.0,3648.68,2.6799999999998363,Es wird immer von 40.000 gesprochen.
+771,"01:00:48,760","01:00:50,800",3648.76,3650.8,2.0399999999999636,"Es wird nicht davon gesprochen,"
+772,"01:00:50,880","01:00:53,800",3650.88,3653.8,2.9200000000000728,wie viele davon tatsächlich Terroristen sind.
+773,"01:00:53,880","01:00:58,920",3653.88,3658.92,5.039999999999964,Diese Zahl ist entscheidend.
+774,"01:00:59,040","01:01:01,600",3659.04,3661.6,2.5599999999999454,"DG: Ich bezweifle, dass es möglich ist,"
+775,"01:01:01,720","01:01:05,200",3661.72,3665.2,3.480000000000018,zu dieser Zeit der Zeit zu kommen.
+776,"01:01:05,280","01:01:09,320",3665.28,3669.32,4.039999999999964,"Zu fragen, wie hätte Israel diesen Krieg anders führen können,"
+777,"01:01:09,400","01:01:11,320",3669.4,3671.32,1.9200000000000728,"dass es nicht, was ich sage."
+778,"01:01:11,400","01:01:13,720",3671.4,3673.72,2.319999999999709,"Ich sage nicht,"
+779,"01:01:13,840","01:01:19,520",3673.84,3679.52,5.679999999999836,dass ein anderes Land diesen Krieg anders geführt hätte.
+780,"01:01:19,600","01:01:21,880",3679.6,3681.88,2.2800000000002,"Es war nur von Anfang an klar,"
+781,"01:01:21,960","01:01:29,800",3681.96,3689.8,7.8400000000001455,dass diese Katastrophe nach dem 7. Oktober eintreffen wird.
+782,"01:01:31,720","01:01:34,840",3691.72,3694.84,3.1200000000003456,"Die Regierung ist nicht darauf aufgerichtet,"
+783,"01:01:34,920","01:01:40,840",3694.92,3700.84,5.920000000000073,zivile Opfer zu schützen.
+784,"01:01:41,640","01:01:44,760",3701.64,3704.76,3.1200000000003456,"Ein Sprecher letztens gesagt, wenn das so wäre,"
+785,"01:01:44,840","01:01:50,480",3704.84,3710.48,5.639999999999873,dann gäbe es kein Gaza.
+786,"01:01:50,560","01:01:53,840",3710.56,3713.84,3.2800000000002,"Dann habe ich ihm gesagt, es gibt kein Gaza mehr,"
+787,"01:01:53,920","01:01:57,640",3713.92,3717.64,3.7199999999998,genau das ist passiert.
+788,"01:01:57,720","01:02:02,160",3717.72,3722.16,4.440000000000055,"Ich verstehe, dass es moralische Dilemmata bei der Bevölkerung gibt,"
+789,"01:02:02,240","01:02:05,200",3722.24,3725.2,2.9600000000000364,"ich verstehe auch,"
+790,"01:02:05,280","01:02:12,520",3725.28,3732.52,7.239999999999782,"dass man als Armee auf eine Art und Weise vorgeht,"
+791,"01:02:14,760","01:02:17,560",3734.76,3737.56,2.799999999999727,"wo man immer zivile Infrastruktur trifft,"
+792,"01:02:17,640","01:02:23,600",3737.64,3743.6,5.960000000000036,wenn man militärische Infrastruktur zielt.
+793,"01:02:23,680","01:02:31,200",3743.68,3751.2,7.519999999999982,"Rachen, Vergeltung und Abstreckung und die Behauptung,"
+794,"01:02:33,800","01:02:39,000",3753.8,3759.0,5.199999999999818,dass die Bewohner mit verantwortlich sind.
+795,"01:02:39,120","01:02:41,400",3759.12,3761.4,2.2800000000002,"Ich habe das Verständnis,"
+796,"01:02:41,480","01:02:44,680",3761.48,3764.68,3.199999999999818,"dass die Bevölkerung versucht alles dafür zu tun,"
+797,"01:02:44,760","01:02:58,840",3764.76,3778.84,14.079999999999927,dass das Verhalten des Staates und der Armee positiv aufgenommen wird.
+798,"01:02:58,840","01:03:04,440",3778.84,3784.44,5.599999999999909,"Die haben ein Ei geschworen, ihr Land zu verteidigen."
+799,"01:03:04,520","01:03:08,400",3784.52,3788.4,3.880000000000109,Die Kriegsrhetorik aus dem komfortablen Hamburg oder Berlin
+800,"01:03:08,480","01:03:11,480",3788.48,3791.48,3.0,finde ich aber nicht in Ordnung.
+801,"01:03:11,560","01:03:18,880",3791.56,3798.88,7.320000000000164,"Man hätte frühzeitig sehen können, wohin das führt."
+802,"01:03:23,400","01:03:27,440",3803.4,3807.44,4.039999999999964,"Während die Diskussion häufiger geführt, ich will nur sagen,"
+803,"01:03:27,520","01:03:31,840",3807.52,3811.84,4.320000000000164,"es gibt auch juristische Bedenken, habe ich das falsch verstanden?"
+804,"01:03:31,920","01:03:37,880",3811.92,3817.88,5.960000000000036,Man will eine Bestätigung der israelischen Regierung.
+805,"01:03:37,960","01:03:43,000",3817.96,3823.0,5.039999999999964,"NR: Ich finde erstens,"
+806,"01:03:43,080","01:03:46,560",3823.08,3826.56,3.480000000000018,"dass sich hier die Frage in diesem Dilemma stellt,"
+807,"01:03:46,640","01:03:49,680",3826.64,3829.68,3.0399999999999636,das beschreitet auch kein Mensch.
+808,"01:03:49,800","01:03:53,360",3829.8,3833.36,3.5599999999999454,"Friedrich Merz hat übrigens am allermeisten kritisiert,"
+809,"01:03:53,440","01:03:56,840",3833.44,3836.84,3.400000000000091,dass die Regierung dazu nichts sagt.
+810,"01:03:56,960","01:04:01,760",3836.96,3841.76,4.800000000000182,Das finde ich richtig und das ist auch kritikwürdig.
+811,"01:04:01,840","01:04:08,720",3841.84,3848.72,6.879999999999654,"Darüber gar nicht zu sprechen, aber unter sich uneinig zu sein,"
+812,"01:04:08,800","01:04:12,880",3848.8,3852.88,4.079999999999927,das nicht transparent zu machen ist ein Fehler.
+813,"01:04:13,000","01:04:20,080",3853.0,3860.08,7.079999999999927,"Das zweite ist, wir haben da Bedenken, sagt man,"
+814,"01:04:20,880","01:04:26,720",3860.88,3866.72,5.839999999999691,"jetzt muss ich aber sagen, was ist das für eine Politik,"
+815,"01:04:26,800","01:04:30,400",3866.8,3870.4,3.599999999999909,"dass man Israel unterschreiben lässt,"
+816,"01:04:30,480","01:04:32,960",3870.48,3872.96,2.480000000000018,wir verhalten uns Völkerrechtsreform.
+817,"01:04:33,040","01:04:38,680",3873.04,3878.68,5.639999999999873,"Was denken die denn, was Israel unterschreiben sollte."
+818,"01:04:38,760","01:04:41,200",3878.76,3881.2,2.4399999999996,"Haben die Angst vor Dingen,"
+819,"01:04:41,280","01:04:45,480",3881.28,3885.48,4.199999999999818,"die schon in den Niederlanden passiert sind,"
+820,"01:04:45,560","01:04:51,480",3885.56,3891.48,5.920000000000073,dass es Anklagen gibt.
+821,"01:04:53,640","01:04:56,160",3893.64,3896.16,2.519999999999982,"NR: Dann sagt das Verwaltungsgericht,"
+822,"01:04:56,240","01:04:59,440",3896.24,3899.44,3.200000000000273,"ihr seid frei von jeder Schuld,"
+823,"01:04:59,520","01:05:03,480",3899.52,3903.48,3.9600000000000364,"weil die habt ihr das Land, was die Waffen bekommen hat,"
+824,"01:05:03,600","01:05:09,680",3903.6,3909.68,6.079999999999927,"das hat euch attestiert, dass es Völkerrechtsreform ist."
+825,"01:05:09,760","01:05:16,280",3909.76,3916.28,6.519999999999982,Das ist gerichtlich vollkommen wertlos.
+826,"01:05:16,520","01:05:22,280",3916.52,3922.28,5.760000000000218,PR: Das Ding ist doch die mangelnde Transparenz.
+827,"01:05:22,360","01:05:28,920",3922.36,3928.92,6.559999999999945,"Wie kann es sein, dass die Bild das aufdeckt,"
+828,"01:05:29,000","01:05:33,240",3929.0,3933.24,4.239999999999782,und darüber nicht öffentlich diskutiert wird.
+829,"01:05:33,360","01:05:37,200",3933.36,3937.2,3.8399999999996908,Darüber muss man öffentlich diskutieren können.
+830,"01:05:37,280","01:05:41,800",3937.28,3941.8,4.519999999999982,NR: Man muss zumindest innerhalb des Parlamentes darüber sprechen.
+831,"01:05:41,880","01:05:45,480",3941.88,3945.48,3.599999999999909,Das hat doch Merz wörtlich gesagt.
+832,"01:05:45,560","01:05:48,560",3945.56,3948.56,3.0,Er hat es überhaupt nicht in Abrede gestellt.
+833,"01:05:48,640","01:05:50,560",3948.64,3950.56,1.9200000000000728,Das wäre auch dumm.
+834,"01:05:50,640","01:05:54,320",3950.64,3954.32,3.680000000000291,Aber genau diesem Punkt hat er kritisiert.
+835,"01:05:54,400","01:05:59,920",3954.4,3959.92,5.519999999999982,In Netzminuten würde ich gerne noch einen Blick nach vorne werfen.
+836,"01:06:00,000","01:06:05,560",3960.0,3965.56,5.559999999999945,"Die Frage, die ich aufgeworfen habe,"
+837,"01:06:05,640","01:06:10,840",3965.64,3970.84,5.200000000000273,ist das die traurige und brüchige Ruhe vor dem ganz großen Sturm?
+838,"01:06:10,920","01:06:16,840",3970.92,3976.84,5.920000000000073,"Wie groß ihre Sorge,"
+839,"01:06:17,280","01:06:24,320",3977.28,3984.32,7.039999999999964,dass es tatsächlich zu dem Flächenbrand kommt.
+840,"01:06:28,680","01:06:33,600",3988.68,3993.6,4.920000000000073,"Was bedeutet das auch mit Blick auf die Ukrain,"
+841,"01:06:33,720","01:06:38,080",3993.72,3998.08,4.360000000000127,"wenn man weiß, dass Drohnen von Iran nach Russland geschickt werden."
+842,"01:06:38,200","01:06:40,400",3998.2,4000.4,2.200000000000273,"Wenn Israel dort richtig reingeht,"
+843,"01:06:40,520","01:06:44,480",4000.52,4004.48,3.9600000000000364,"fühlen sich die Russen dann verpflichtet,"
+844,"01:06:44,560","01:06:51,400",4004.56,4011.4,6.8400000000001455,dort auch einzuschreiten? Was passiert dann?
+845,"01:06:53,200","01:06:57,160",4013.2,4017.16,3.9600000000000364,"SA: Das Ding ist, dass die Streitkräfte verbündet haben,"
+846,"01:06:57,280","01:07:00,160",4017.28,4020.16,2.8799999999996544,die mehr als nur Lippenbekenntnisse abgeben.
+847,"01:07:00,240","01:07:04,800",4020.24,4024.8,4.5600000000004,"Russland ist so angewiesen auf die iranischen Drohnen und Raketen,"
+848,"01:07:04,880","01:07:10,120",4024.88,4030.12,5.239999999999782,die es benutzt in der Ukrainer.
+849,"01:07:10,240","01:07:16,760",4030.24,4036.76,6.520000000000437,Die haben sich nun auch Nordkorea an die Seite geholt.
+850,"01:07:16,840","01:07:23,640",4036.84,4043.64,6.799999999999727,Angeblich haben sie auch Arbeitskräfte und Soldaten geholt.
+851,"01:07:23,720","01:07:28,320",4043.72,4048.32,4.600000000000364,"Das was ein amerikanischer Präsident als Schurkenregime bezeichnet hat,"
+852,"01:07:28,400","01:07:31,400",4048.4,4051.4,3.0,die kommen jetzt zusammen und verbünden sich.
+853,"01:07:31,520","01:07:37,880",4051.52,4057.88,6.360000000000127,"Die Angst war in Israel schon seit langer Zeit zu spüren,"
+854,"01:07:38,000","01:07:43,040",4058.0,4063.04,5.039999999999964,als der Ukraine-Krieg losging und noch kein Gaza Krieg
+855,"01:07:43,160","01:07:49,040",4063.16,4069.04,5.880000000000109,und noch kein 7. Oktober war.
+856,"01:07:53,560","01:07:58,440",4073.56,4078.44,4.880000000000109,"Da wollte man Russland nicht verärgern, weil man wusste,"
+857,"01:07:58,560","01:08:02,280",4078.56,4082.28,3.7200000000002547,"wenn wir als Israelis die Waffen an die Ukraine liefern,"
+858,"01:08:02,360","01:08:05,840",4082.36,4085.84,3.480000000000018,"wenn wir viele Flüchtlinge aufnehmen aus der Ukraine,"
+859,"01:08:05,960","01:08:08,520",4085.96,4088.52,2.5599999999999454,dann verderben wir uns es mit Russland.
+860,"01:08:08,600","01:08:16,240",4088.6,4096.24,7.639999999999873,Die haben einen großen Einfluss auf die arabische Union.
+861,"01:08:17,920","01:08:23,040",4097.92,4103.04,5.119999999999891,"Diehaben auch eine große Community, die Russisch spricht."
+862,"01:08:23,160","01:08:28,520",4103.16,4108.52,5.360000000000582,Da tun sich verhängnisvolle Allianzen zusammen.
+863,"01:08:28,600","01:08:34,200",4108.6,4114.2,5.599999999999454,"Man möchte nicht dran denken, was dann passiert."
+864,"01:08:34,320","01:08:37,160",4114.32,4117.16,2.8400000000001455,DG: Da gibt es ein Zusammenhang
+865,"01:08:37,240","01:08:41,160",4117.24,4121.16,3.9200000000000728,zwischen dem Krieg in Gaza und im Krieg in der Ukraine.
+866,"01:08:41,240","01:08:46,840",4121.24,4126.84,5.600000000000364,"Man war heilfroh,"
+867,"01:08:46,920","01:08:52,560",4126.92,4132.56,5.640000000000327,dass die Israelis auf die westliche Linie eingesprungen sind.
+868,"01:08:52,560","01:08:54,760",4132.56,4134.76,2.199999999999818,Der war deutlich ambivalenter.
+869,"01:08:54,760","01:08:54,880",4134.76,4134.88,0.11999999999989086,dass die Israelis auf die westliche Linie eingesprungen sind.
+870,"01:08:56,320","01:09:01,360",4136.32,4141.36,5.039999999999964,"Der hat versucht, eine kluge Mittelposition zu finden."
+871,"01:09:01,480","01:09:05,600",4141.48,4145.6,4.1200000000008,"Mit der Ausrüstung, die die Israelis haben,"
+872,"01:09:05,680","01:09:09,160",4145.68,4149.16,3.4799999999995634,"da ist man in Berlin froh,"
+873,"01:09:09,280","01:09:15,920",4149.28,4155.92,6.640000000000327,dass sie auf der westlichen Seite stehen.
+874,"01:09:20,160","01:09:24,520",4160.16,4164.52,4.360000000000582,"Sie haben in die Ukraine geliefert, wie viel genau weiß keiner."
+875,"01:09:24,640","01:09:27,000",4164.64,4167.0,2.3599999999996726,"Es gibt einen starken Zusammenhang,"
+876,"01:09:27,120","01:09:32,040",4167.12,4172.04,4.920000000000073,"das macht uns klar,"
+877,"01:09:32,160","01:09:38,720",4172.16,4178.72,6.5600000000004,"Israel ist kein Unterstützungsempfänger,"
+878,"01:09:40,560","01:09:43,080",4180.56,4183.08,2.519999999999527,sondern eine gewaltige technologische
+879,"01:09:43,160","01:09:47,560",4183.16,4187.56,4.400000000000546,und militärische Macht.
+880,"01:09:47,680","01:09:51,680",4187.68,4191.68,4.0,Aus Interessengründen wollen viele mit denen zusammenarbeiten
+881,"01:09:51,800","01:09:57,480",4191.8,4197.48,5.6799999999993815,und brauchen diese Allianz.
+882,"01:09:57,560","01:10:01,800",4197.56,4201.8,4.239999999999782,"Wenn die Israelis es mit der Staatsraison auch mit uns so meinen,"
+883,"01:10:01,920","01:10:07,400",4201.92,4207.4,5.479999999999563,dann haben wir Glück gehabt.
+884,"01:10:07,520","01:10:13,640",4207.52,4213.64,6.119999999999891,"PR: die Frage ist hier, ob andere das auch so sehen wie Deutschland."
+885,"01:10:13,720","01:10:18,600",4213.72,4218.6,4.880000000000109,"SA: Es gibt noch eine andere Parallele,"
+886,"01:10:18,680","01:10:24,360",4218.68,4224.36,5.6799999999993815,"so wie man mit der Ukraine eigentlich den Westen meint,"
+887,"01:10:24,480","01:10:31,080",4224.48,4231.08,6.600000000000364,so meinen die Gegner Israels eigentlich die USA.
+888,"01:10:31,200","01:10:38,760",4231.2,4238.76,7.5600000000004,"Diese Stellvertreter-Rolle, die finde ich sehr ähnlich."
+889,"01:10:39,800","01:10:46,720",4239.8,4246.72,6.920000000000073,"Herr Röttgen, sie waren nicht einverstanden?"
+890,"01:10:53,720","01:10:55,880",4253.72,4255.88,2.1599999999998545,"NR: Sie haben Israel kritisiert,"
+891,"01:10:56,000","01:11:03,840",4256.0,4263.84,7.8400000000001455,dass sie sich aus dem Konflikt in der Ukraine heraushalten.
+892,"01:11:05,000","01:11:07,000",4265.0,4267.0,2.0,Weil Russland in Syrien
+893,"01:11:07,120","01:11:11,960",4267.12,4271.96,4.8400000000001455,"eine für Israel positive einflussreiche Situation hat,"
+894,"01:11:12,080","01:11:17,640",4272.08,4277.64,5.5600000000004,"deshalb hatten sie eine Motivation, sich mit Russland gut zu halten."
+895,"01:11:17,760","01:11:21,040",4277.76,4281.04,3.2799999999997453,Und deshalb haben sie sich im Vergleich zum Westen
+896,"01:11:21,160","01:11:27,040",4281.16,4287.04,5.880000000000109,auch sehr bedeckt gehalten.
+897,"01:11:27,520","01:11:32,720",4287.52,4292.72,5.199999999999818,"Sie verwiesen auf die Geschichte, Staatsräson, der ganze Hintergrund,"
+898,"01:11:32,840","01:11:39,960",4292.84,4299.96,7.119999999999891,"aber gibt es auch einen aktuellen heutigen Grund,"
+899,"01:11:42,000","01:11:47,360",4302.0,4307.36,5.359999999999673,"warum es wichtig ist, mit Waffen zu unterstützen?"
+900,"01:11:47,480","01:11:52,360",4307.48,4312.36,4.880000000000109,"Weil sehr klar ist, wenn dieses Land in echte Bedrängnis kommt,"
+901,"01:11:52,480","01:11:57,240",4312.48,4317.24,4.760000000000218,"wer geht in dieses Vakuum hinein, Russland?"
+902,"01:11:57,320","01:12:03,440",4317.32,4323.44,6.119999999999891,Wie wichtig ist die Stabilität des Landes für uns heute?
+903,"01:12:03,560","01:12:09,160",4323.56,4329.16,5.599999999999454,NR: Israel ist die einzige Demokratie in der Region.
+904,"01:12:09,280","01:12:14,640",4329.28,4334.64,5.360000000000582,"Wenn Israel fällt, wird das Chaos umso größer sein."
+905,"01:12:14,800","01:12:18,760",4334.8,4338.76,3.9600000000000364,"Es würde vor allem Russland sein, dass dann versucht,"
+906,"01:12:18,880","01:12:22,320",4338.88,4342.32,3.4399999999996,"ein solches Chaos auszunutzen,"
+907,"01:12:22,440","01:12:27,360",4342.44,4347.36,4.920000000000073,"auch China wäre dabei,"
+908,"01:12:27,480","01:12:31,400",4347.48,4351.4,3.9200000000000728,"die arabischen Staaten ganz voran würden sich bedroht fühlen,"
+909,"01:12:31,560","01:12:37,400",4351.56,4357.4,5.839999999999236,vor allem Saudi-Arabien.
+910,"01:12:38,080","01:12:41,480",4358.08,4361.48,3.399999999999636,"Wenn ein Land interessante Stabilität Israels hat,"
+911,"01:12:41,560","01:12:43,480",4361.56,4363.48,1.9199999999991633,dann Saudi-Arabien.
+912,"01:12:43,560","01:12:49,200",4363.56,4369.2,5.639999999999418,Schon allein wegen der Feindschaft zum Iran.
+913,"01:12:49,320","01:12:55,880",4369.32,4375.88,6.5600000000004,Es würde ein Flächenbrand gefährlichste Art ausbrechen.
+914,"01:12:56,000","01:12:58,800",4376.0,4378.8,2.800000000000182,"Wir sind nur durch das Mittelmeer getrennt,"
+915,"01:12:58,920","01:13:01,920",4378.92,4381.92,3.0,es würde auch für uns gefährlich.
+916,"01:13:02,040","01:13:09,400",4382.04,4389.4,7.359999999999673,Ein tödliches Chaos mit geopolitischen Auswirkungen.
+917,"01:13:12,920","01:13:15,560",4392.92,4395.56,2.6400000000003274,DG: Saudi-Arabien kann eigentlich
+918,"01:13:15,640","01:13:19,200",4395.64,4399.2,3.5599999999994907,ein großer Gewinn eine Situation sein.
+919,"01:13:19,280","01:13:22,600",4399.28,4402.6,3.3200000000006185,Auf der einen Seite haben sie ein großes Interesse
+920,"01:13:22,680","01:13:25,880",4402.68,4405.88,3.199999999999818,an der militärischen Niederlage der Hisbollah.
+921,"01:13:26,000","01:13:30,320",4406.0,4410.32,4.319999999999709,Gehört zum Erzfeind Iran.
+922,"01:13:30,480","01:13:33,720",4410.48,4413.72,3.240000000000691,"Mit dem hat man sich arrangiert,"
+923,"01:13:33,840","01:13:40,120",4413.84,4420.12,6.279999999999745,"man versucht ins Geschäft zu kommen,"
+924,"01:13:43,920","01:13:45,920",4423.92,4425.92,2.0,"weil man nicht will,"
+925,"01:13:46,040","01:13:49,520",4426.04,4429.52,3.480000000000473,dass eine Auseinandersetzung zwischen Israel und Iran
+926,"01:13:49,640","01:13:51,520",4429.64,4431.52,1.8800000000001091,zulasten Saudi-Arabiens geht.
+927,"01:13:51,640","01:13:54,120",4431.64,4434.12,2.4799999999995634,Denn es könnte auch Vertreter Angriffe
+928,"01:13:54,240","01:13:57,520",4434.24,4437.52,3.280000000000655,auf arabische Ölfelder geben.
+929,"01:13:57,600","01:14:03,920",4437.6,4443.92,6.319999999999709,"Was im Westen nicht verstanden wird,"
+930,"01:14:04,280","01:14:06,280",4444.28,4446.28,2.0,"man glaubt immer,"
+931,"01:14:06,400","01:14:14,200",4446.4,4454.2,7.800000000000182,die Saudis wollten mit Israel die Beziehungen normalisieren.
+932,"01:14:14,320","01:14:20,680",4454.32,4460.68,6.360000000000582,"Saudi-Arabien hat ein Interesse an einem militärischen Sieg Israels,"
+933,"01:14:20,800","01:14:26,000",4460.8,4466.0,5.199999999999818,aber auch eine Schwächung Israels auf politischer Ebene.
+934,"01:14:26,120","01:14:34,000",4466.12,4474.0,7.880000000000109,Eine palästinensische Lösung ist für den Kronprinzen wichtig.
+935,"01:14:35,000","01:14:39,040",4475.0,4479.04,4.039999999999964,"Eine palästinensische Lösung ist der nächste Schritt für ihn,"
+936,"01:14:39,160","01:14:41,040",4479.16,4481.04,1.8800000000001091,den Nahen Osten zu gestalten.
+937,"01:14:41,160","01:14:46,160",4481.16,4486.16,5.0,Dafür muss Israel
+938,"01:14:46,480","01:14:53,200",4486.48,4493.2,6.720000000000255,in eine kompromissbereite Situation gezwungen werden.
+939,"01:14:53,320","01:14:56,360",4493.32,4496.36,3.0399999999999636,"Die Verhandlungen haben wir sehr genau gesehen,"
+940,"01:14:56,480","01:15:02,400",4496.48,4502.4,5.920000000000073,"zwischen USA und Saudi-Arabien,"
+941,"01:15:02,720","01:15:04,720",4502.72,4504.72,2.0,ich war zweimal in Riad
+942,"01:15:04,840","01:15:09,120",4504.84,4509.12,4.279999999999745,und habe mit hohen Vertretern der saudischen Regierung gesprochen.
+943,"01:15:09,240","01:15:15,120",4509.24,4515.12,5.880000000000109,"Die mangelnde Kritik,"
+944,"01:15:15,400","01:15:19,680",4515.4,4519.68,4.280000000000655,dass die Saudis öffentlich keine Kritik
+945,"01:15:19,800","01:15:27,200",4519.8,4527.2,7.399999999999636,"auf das Verhältnis von Deutschland und Israel äußern,"
+946,"01:15:28,240","01:15:31,280",4528.24,4531.28,3.0399999999999636,eine saudische Strategie ohne doppelten Boden
+947,"01:15:31,400","01:15:33,360",4531.4,4533.36,1.9600000000000364,ist aber keine saudische Strategie.
+948,"01:15:33,400","01:15:36,920",4533.4,4536.92,3.5200000000004366,"Sie sind aber immer wieder fähig, ihre Strategie anzupassen."
+949,"01:15:36,960","01:15:39,720",4536.96,4539.72,2.7600000000002183,"Noch eine kurze Antwort, Paul Ronzheimer,"
+950,"01:15:39,760","01:15:43,200",4539.76,4543.2,3.4399999999996,"was hören Sie, gibt es bald einen israelischen Gegenschlag?"
+951,"01:15:43,240","01:15:45,920",4543.24,4545.92,2.680000000000291,PR: Mit dem heutigen Tag hat sich alles verändert
+952,"01:15:45,960","01:15:47,680",4545.96,4547.68,1.7200000000002547,"höre ich aus meinen Quellen,"
+953,"01:15:47,720","01:15:50,520",4547.72,4550.52,2.800000000000182,auch über den Gegenschlag wird diskutiert.
+954,"01:15:50,560","01:15:54,640",4550.56,4554.64,4.079999999999927,"Es wird auch mehr über politische Lösungen gesprochen,"
+955,"01:15:54,680","01:15:59,560",4554.68,4559.56,4.880000000000109,"vielleicht, hoffentlich ist der heutige Tag ein Wendepunkt."
+956,"01:16:01,200","01:16:04,800",4561.2,4564.8,3.600000000000364,"Ein optimistisches Schlusswort, ich bedanke mich."
+957,"01:16:04,840","01:16:09,640",4564.84,4569.64,4.800000000000182,"Wir sind am Dienstag wieder da, Tschüss."

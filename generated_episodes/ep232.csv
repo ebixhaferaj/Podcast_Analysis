@@ -1,0 +1,877 @@
+﻿segment_id,start_time,end_time,start_seconds,end_seconds,duration,text
+1,"00:00:00,040","00:00:02,040",0.04,2.04,2.0,Diese Untertitel sind live produziert.
+2,"00:00:02,080","00:00:06,720",2.08,6.72,4.64,Einen schönen guten Abend.
+3,"00:00:06,800","00:00:08,800",6.8,8.8,2.000000000000001,"Freut ich sehr, dass Sie dabei sind"
+4,"00:00:08,920","00:00:10,920",8.92,10.92,2.0,und Willkommen zu unserer Sendung.
+5,"00:00:11,040","00:00:13,640",11.04,13.64,2.6000000000000014,Tag fünf des Krieges zwischen Israel und dem Iran
+6,"00:00:13,720","00:00:15,560",13.72,15.56,1.8399999999999999,"und die Frage, wie es weitergeht."
+7,"00:00:15,640","00:00:18,800",15.64,18.8,3.16,"Das sind die Bilder, die uns aus Tel Aviv erreichen,"
+8,"00:00:18,840","00:00:22,600",18.84,22.6,3.7600000000000016,ähnliche Bilder gibt es auch aus Teheran
+9,"00:00:22,680","00:00:26,000",22.68,26.0,3.3200000000000003,"und wir wollen eine Frau, die den Iran so gut kennt"
+10,"00:00:26,080","00:00:30,440",26.08,30.44,4.360000000000003,wie kaum jemand sonst in Deutschland auf der wissenschaftlichen Ebene.
+11,"00:00:30,560","00:00:31,920",30.56,31.92,1.360000000000003,"Wir wollen sie fragen,"
+12,"00:00:32,040","00:00:34,440",32.04,34.44,2.3999999999999986,"was bedeutet es für die Iran-Atomfrage,"
+13,"00:00:34,560","00:00:38,360",34.56,38.36,3.799999999999997,dass wir uns jetzt offenbar auf einer völlig neuen Ebene befinden?
+14,"00:00:38,480","00:00:41,880",38.48,41.88,3.4000000000000057,Herzlich willkommen Azadeh Zamirirad.
+15,"00:00:41,960","00:00:45,040",41.96,45.04,3.0799999999999983,Und die gleiche Frage auch an einen der versiertesten
+16,"00:00:45,120","00:00:47,400",45.12,47.4,2.280000000000001,"Außenpolitiker der Kanzlerpartei, der CDU."
+17,"00:00:47,480","00:00:49,080",47.48,49.08,1.6000000000000014,"Was kann daraus erwachsen,"
+18,"00:00:49,200","00:00:52,640",49.2,52.64,3.4399999999999977,"wenn Netanyahu so lange nicht zurückweichen wird,"
+19,"00:00:52,760","00:00:54,760",52.76,54.76,2.0,bis er sein Ziel erreicht hat.
+20,"00:00:54,920","00:00:59,160",54.92,59.16,4.239999999999995,Nämlich die endgültige Beseitigung der iranischen Atomwaffenfähigkeit?
+21,"00:00:59,280","00:01:01,560",59.28,61.56,2.280000000000001,"Herzlich willkommen, Norbert Röttgen."
+22,"00:01:01,640","00:01:05,920",61.64,65.92,4.280000000000001,"Er gilt als einer der intimsten Nahostkenner des Landes,"
+23,"00:01:06,000","00:01:09,800",66.0,69.8,3.799999999999997,"der Chefredakteur des Nahost-Magazins ""Zenith"", der sagt,"
+24,"00:01:09,880","00:01:12,560",69.88,72.56,2.680000000000007,"""Interessant ist zu sehen,"
+25,"00:01:12,680","00:01:15,400",72.68,75.4,2.719999999999999,wen Netanyahu angegriffen hat und wen nicht.
+26,"00:01:15,480","00:01:20,600",75.48,80.6,5.11999999999999,"Nämlich die Revolutionsgarde, aber nicht die reguläre Armee."""
+27,"00:01:20,680","00:01:21,640",80.68,81.64,0.9599999999999937,Warum nicht?
+28,"00:01:21,720","00:01:26,800",81.72,86.8,5.079999999999998,"Fragen an Daniel Gerlach, herzlich willkommen."
+29,"00:01:26,840","00:01:29,800",86.84,89.8,2.9599999999999937,Und noch ein interessanter Gedanke von Daniel Gerlach:
+30,"00:01:29,880","00:01:33,280",89.88,93.28,3.4000000000000057,"""Ironischerweise passiert das jetzt gerade in einer Zeit,"
+31,"00:01:33,360","00:01:36,760",93.36,96.75999999999999,3.3999999999999915,in der die iranische Seite eigentlich versucht hat zu deeskalieren.
+32,"00:01:36,880","00:01:39,640",96.88,99.64,2.760000000000005,"Und zwar aus nackter Angst um die eigene Existenz."""
+33,"00:01:39,720","00:01:43,920",99.72,103.92,4.200000000000003,"Das sieht dieser Mann deutlich anders,"
+34,"00:01:44,000","00:01:46,960",104.0,106.96000000000001,2.960000000000008,der streitbare Chefredakteur der Jüdischen Allgemeinen:
+35,"00:01:47,000","00:01:49,960",107.0,109.96000000000001,2.960000000000008,"""Im Westen und leider auch in Deutschland wird Israel"
+36,"00:01:50,040","00:01:52,880",110.03999999999999,112.88,2.8400000000000034,"wieder als Aggressor betrachtet, der Unruhestifter,"
+37,"00:01:52,960","00:01:55,520",112.96000000000001,115.52000000000001,2.5600000000000023,der Störenfried im Nahen Osten.
+38,"00:01:55,640","00:01:59,320",115.64,119.32,3.6799999999999926,"Tatsächlich aber erledigt Netanyahu gerade die Drecksarbeit,"
+39,"00:01:59,400","00:02:01,640",119.4,121.64,2.239999999999995,"auch die Drecksarbeit für den Westen."""
+40,"00:02:01,720","00:02:08,600",121.72,128.6,6.8799999999999955,"Herzlich willkommen, Philipp Peymann Engel."
+41,"00:02:08,720","00:02:15,640",128.72,135.64,6.9199999999999875,Gleich zu Beginn aber sind wir verbunden mit Elmar Theveßen
+42,"00:02:15,720","00:02:17,360",135.72,137.36,1.6400000000000148,auf dem G7-Gipfel in Kanada.
+43,"00:02:28,280","00:02:30,840",148.28,150.84,2.5600000000000023,ET: Guten Abend.
+44,"00:02:30,840","00:02:34,080",150.84,154.07999999999998,3.2399999999999807,"Hallo lieber Markus, Hallo in die Runde."
+45,"00:02:34,080","00:02:36,520",154.07999999999998,156.52,2.440000000000026,"- Wie sehr hat die Abreise von Trump,"
+46,"00:02:36,600","00:02:39,400",156.6,159.4,2.8000000000000114,den G-7-Gipfel überrascht?
+47,"00:02:39,400","00:02:42,480",159.4,162.48,3.079999999999984,"ET: Es hat alle hier überreicht,"
+48,"00:02:42,480","00:02:48,040",162.48,168.04,5.560000000000002,aber ich glaube alle können nachvollziehen warum.
+49,"00:02:48,120","00:02:52,480",168.12,172.48,4.359999999999985,Weil Donald Trump offenbar noch einen letzten Versuch
+50,"00:02:52,520","00:02:54,880",172.52,174.88,2.359999999999985,"unternehmen will, ob man nicht doch"
+51,"00:02:54,880","00:03:02,400",174.88,182.4,7.52000000000001,zu einer Verhandlungslösung mit dem Iran kommen kann.
+52,"00:03:02,920","00:03:08,200",182.92,188.2,5.280000000000001,Er hat sich mit dem Flieger auf dem Weg nach Washington
+53,"00:03:08,240","00:03:12,160",188.24,192.16,3.9199999999999875,sehr nicht geäußert.
+54,"00:03:12,160","00:03:18,520",192.16,198.52,6.360000000000014,"Es gingen eben nicht um Waffenruhe,"
+55,"00:03:19,000","00:03:26,440",199.0,206.44,7.439999999999998,"er möchte ein es echtes Ende, dass der Iran aufgibt."
+56,"00:03:28,360","00:03:31,440",208.36,211.44,3.079999999999984,ML: Es gibt so Sätze die da wirklich herausragen.
+57,"00:03:31,480","00:03:33,120",211.48,213.12,1.6400000000000148,"Der Satz vor der Abreise,"
+58,"00:03:33,160","00:03:36,520",213.16,216.52,3.3600000000000136,jeder sollte Teheran verlassen klingt beunruhigend.
+59,"00:03:38,440","00:03:41,560",218.44,221.56,3.1200000000000045,ET: Er hat noch einiges dazu gefügt auf Social Media.
+60,"00:03:41,560","00:03:43,480",221.56,223.48,1.9199999999999875,"Er hat gepostet, dass man genau wisse,"
+61,"00:03:43,520","00:03:45,880",223.52,225.88,2.359999999999985,wo der oberste geistliche Anführer sich aufhält.
+62,"00:03:45,920","00:03:47,520",225.92000000000002,227.52,1.5999999999999943,"Dass er aber da sicher sei,"
+63,"00:03:47,560","00:03:50,080",227.56,230.07999999999998,2.519999999999982,weil die Amerikaner ihn nicht töten wollten.
+64,"00:03:50,080","00:03:55,160",230.07999999999998,235.16,5.0800000000000125,"Aber wenn Iran weitermacht, Zivilisten angreift,"
+65,"00:03:55,200","00:03:56,880",235.2,236.88,1.6800000000000068,"US-Bürger angreifen würde,"
+66,"00:03:56,920","00:04:03,360",236.92000000000002,243.36,6.439999999999998,würde die USA entsprechend reagieren.
+67,"00:04:15,280","00:04:18,200",255.28,258.2,2.9199999999999875,"ML: was hört ihr dort, der Revolutionsführer war ein Ziel,"
+68,"00:04:18,240","00:04:21,720",258.24,261.72,3.480000000000018,"wurde doch nur verschont, was ist daran an diesem Gerücht."
+69,"00:04:22,560","00:04:26,400",262.56,266.4,3.839999999999975,ET: Es wurde aus verschiedenen Quellen des weißen Haus bestätigt.
+70,"00:04:26,440","00:04:28,800",266.44,268.8,2.3600000000000136,Es war so am vergangenen Wochenende.
+71,"00:04:28,840","00:04:32,960",268.84,272.96,4.1200000000000045,Israel hatte die Gelegenheit den Revolutionsführer ins Visier
+72,"00:04:32,960","00:04:39,120",272.96,279.12,6.160000000000025,"zu nehmen, aber sie kamen zu dem Entschluss,"
+73,"00:04:39,120","00:04:43,400",279.12,283.4,4.279999999999973,"ich glaube, was wir jetzt erwarten,"
+74,"00:04:43,400","00:04:47,600",283.4,287.6,4.2000000000000455,"wenn die Drohungen nicht fruchten,"
+75,"00:04:47,640","00:04:52,160",287.64,292.15999999999997,4.519999999999982,dass dann die USA tatsächlich bereit sind mit gezielten Schlägen
+76,"00:04:52,200","00:04:57,440",292.2,297.44,5.240000000000009,das iranische Atomwaffenprogramm komplett zu zerstören.
+77,"00:04:57,440","00:05:06,880",297.44,306.88,9.439999999999998,"ML: es heißt, worauf warten die Amerikaner jetzt?"
+78,"00:05:06,880","00:05:09,440",306.88,309.44,2.5600000000000023,ET: Er wird wahrscheinlich eine Art Ultimatum
+79,"00:05:09,480","00:05:12,560",309.48,312.56,3.079999999999984,in den nächsten Stunden oder Tagen formulieren.
+80,"00:05:12,600","00:05:17,040",312.6,317.04,4.439999999999998,"Er macht sehr klar um was es geht, dass die allerletzte Chance sei."
+81,"00:05:17,080","00:05:28,880",317.08,328.88,11.800000000000011,Die USA würde sich darauf vorbereiten mit entsprechenden Bombe.
+82,"00:05:28,920","00:05:35,240",328.92,335.24,6.319999999999993,Insbesondere die iranische Urananlagerung anzugreifen.
+83,"00:05:35,280","00:05:38,280",335.28,338.28,3.0,Nach amerikanischen Einschätzungen
+84,"00:05:38,320","00:05:41,640",338.32,341.64,3.319999999999993,"würde nicht eine dieser bomben reichen,"
+85,"00:05:41,680","00:05:44,680",341.68,344.68,3.0,man brauche eine ganze Reihe davon.
+86,"00:05:44,720","00:05:47,320",344.72,347.32,2.599999999999966,"Sie müssten die Einrichtung angreifen,"
+87,"00:05:47,360","00:05:51,600",347.36,351.6,4.240000000000009,um das Programm komplett zu vernichten.
+88,"00:05:51,640","00:05:59,600",351.64,359.6,7.960000000000036,"Donald Trump kommt damit einer Forderung von Netanjahu nach,"
+89,"00:05:59,760","00:06:03,280",359.76,363.28,3.519999999999982,erscheint nach außen hin zu versuchen alles
+90,"00:06:03,320","00:06:07,640",363.32,367.64,4.319999999999993,als unvermeidlich darzustellen.
+91,"00:06:07,680","00:06:11,960",367.68,371.96,4.279999999999973,"Es ist für ihn deshalb wichtig, weil er im Wahlkampf gesagt hat,"
+92,"00:06:12,000","00:06:16,240",372.0,376.24,4.240000000000009,er möchte nicht dass Amerika in weitere Kriege Ringsprung wird.
+93,"00:06:16,240","00:06:19,080",376.24,379.08,2.839999999999975,"Im Gegenteil, man müsse das alles beenden."
+94,"00:06:19,160","00:06:22,680",379.16,382.68,3.519999999999982,Jetzt ist er selbst dabei Amerika in einen Krieg hineinzubringen.
+95,"00:06:23,040","00:06:26,200",383.04,386.2,3.159999999999968,"Und deshalb hatte heute vom Weißen Haus veröffentlichen lassen,"
+96,"00:06:26,240","00:06:29,280",386.24,389.28,3.0399999999999636,"wie auf der im Wahlkampf gesagt hat, über 40 Mal,"
+97,"00:06:29,320","00:06:31,840",389.32,391.84,2.519999999999982,dass Iran keine Atomwaffen haben darf.
+98,"00:06:31,880","00:06:35,080",391.88,395.08,3.1999999999999886,Das ist sein Versuch eine Basis mitzunehmen
+99,"00:06:35,120","00:06:37,680",395.12,397.68,2.5600000000000023,für einen möglichen Militärschlag.
+100,"00:06:37,680","00:06:42,000",397.68,402.0,4.319999999999993,"ML: aus dem was du gerade gesagt hast Elmar, ergeben sich viele"
+101,"00:06:42,000","00:06:46,920",402.0,406.92,4.920000000000016,Fragen.
+102,"00:06:54,160","00:06:57,640",414.15999999999997,417.64,3.480000000000018,"Lass uns bei der letzten Anfangen, ein total interessanter Punkt. Die"
+103,"00:06:57,640","00:07:04,160",417.64,424.16,6.520000000000039,Debatte in Amerika ist tief gespalten.
+104,"00:07:08,400","00:07:11,600",428.4,431.6,3.2000000000000455,"Er riskiert jetzt in meinem Empfinden das erste Mal, dass er von"
+105,"00:07:11,600","00:07:15,120",431.6,435.12,3.519999999999982,"einer Anhängerschaft hört, das hatten wir anders besprochen."
+106,"00:07:18,280","00:07:24,880",438.28,444.88,6.600000000000023,ET: Da hat sich Tucker Carlsen an die Spitze der Bewegung gesetzt.
+107,"00:07:24,920","00:07:28,600",444.92,448.6,3.680000000000007,"Er hat gesagt, wenn er tatsächlich militärisch eingreift,"
+108,"00:07:28,640","00:07:31,800",448.64,451.8,3.160000000000025,sei das das Ende seiner Präsidentschaft.
+109,"00:07:31,840","00:07:35,600",451.84,455.6,3.7600000000000477,Da geht ein tiefer Riss durch die Anhängerschaft.
+110,"00:07:35,640","00:07:40,440",455.64,460.44,4.800000000000011,"Weil ein großer Teil der Meinung ist, das ist nicht unser Krieg,"
+111,"00:07:40,480","00:07:44,000",460.48,464.0,3.519999999999982,das müssen Israel und der Iran unter sich ausfechten.
+112,"00:07:44,040","00:07:48,880",464.04,468.88,4.839999999999975,Oder kommen Sie auf einen Punkt.
+113,"00:07:48,960","00:07:51,760",468.96,471.76,2.8000000000000114,"Wenn Donald Trump den Angriff befiehlt,"
+114,"00:07:51,760","00:07:54,400",471.76,474.4,2.6399999999999864,es wäre zunächst ein begrenzter Angriff.
+115,"00:07:54,440","00:08:00,360",474.44,480.36,5.920000000000016,"Aber selbst wenn er das täte,"
+116,"00:08:03,120","00:08:10,840",483.12,490.84,7.71999999999997,riskiert er die Unterstützung eines Urteils seiner Basis.
+117,"00:08:21,920","00:08:25,400",501.92,505.4,3.4799999999999613,"- ML warum ist Trumps Anhängerschaft so dagegen, ist dass diese Kriegs"
+118,"00:08:25,440","00:08:32,880",505.44,512.88,7.439999999999998,"Abscheu, dass man die Jungs nach Hause holen möchte."
+119,"00:08:35,760","00:08:38,320",515.76,518.32,2.560000000000059,"Dass man nicht bei anderen Kriegen mitwirken will, die ein nichts"
+120,"00:08:38,320","00:08:41,520",518.32,521.52,3.199999999999932,"ET: Entscheidend ist, wenn man durch das Land fährt, angehen?"
+121,"00:08:43,320","00:08:48,200",523.32,528.2,4.8799999999999955,"sieht man schon, warum der Spruch"
+122,"00:08:48,240","00:08:52,760",528.24,532.76,4.519999999999982,"""Mke America great again"" so wirkt."
+123,"00:08:52,800","00:08:56,400",532.8,536.4,3.6000000000000227,"Andere profitieren von Amerikas Reichtum und Stärke,"
+124,"00:08:56,440","00:09:02,040",536.44,542.04,5.599999999999909,viel mehr als sie selbst.
+125,"00:09:02,480","00:09:09,320",542.48,549.32,6.840000000000032,"Diese Krieger im Ausland, die hat Donald Trump hochstilisiert."
+126,"00:09:09,360","00:09:11,840",549.36,551.84,2.480000000000018,Das haben ihm viele Fehler abgekauft.
+127,"00:09:11,880","00:09:16,720",551.88,556.72,4.840000000000032,Es ist eine Zwickmühle.
+128,"00:09:16,800","00:09:22,920",556.8,562.92,6.1200000000000045,"Donald Trump wird deshalb militärisch angreifen,"
+129,"00:09:22,960","00:09:25,560",562.96,565.56,2.599999999999909,weil Netanjahu und das Regime in Teheran
+130,"00:09:25,600","00:09:32,360",565.6,572.36,6.759999999999991,im gerade keine andere Möglichkeit lassen.
+131,"00:09:39,400","00:09:42,720",579.4,582.72,3.32000000000005,ML: vielleicht können wir einmal die Bilder aus Teheran einspielen.
+132,"00:09:42,760","00:09:44,880",582.76,584.88,2.1200000000000045,"Wenn man diese langen Autoschlangen sieht,"
+133,"00:09:44,920","00:09:48,320",584.92,588.32,3.400000000000091,"bedeutet es, dass die Menschen dort begreifen,"
+134,"00:09:48,360","00:09:50,840",588.36,590.84,2.480000000000018,dass es auf so etwas hinausläuft?
+135,"00:09:50,880","00:09:52,800",590.88,592.8,1.919999999999959,"Es ist wirklich beeindruckend,"
+136,"00:09:52,840","00:09:56,160",592.84,596.16,3.3199999999999363,zu sehen wie die Leute Teheran in Scharen verlassen.
+137,"00:09:57,440","00:10:01,840",597.44,601.84,4.399999999999977,AZ: die Leute haben eigentlich schon vor ein paar Tagen angefangen
+138,"00:10:01,880","00:10:05,120",601.88,605.12,3.240000000000009,die Flucht zu ergreifen.
+139,"00:10:05,120","00:10:08,640",605.12,608.64,3.519999999999982,"Es leben über 10 Millionen Menschen vor Ort,"
+140,"00:10:08,680","00:10:14,560",608.68,614.56,5.8799999999999955,sie können nicht alle fliehen.
+141,"00:10:14,600","00:10:18,920",614.6,618.92,4.319999999999936,"Sie versuchen das Weite zu suchen,"
+142,"00:10:18,920","00:10:26,120",618.92,626.12,7.2000000000000455,weil auch zivile Ziele ins Visier genommen worden sind.
+143,"00:10:26,280","00:10:33,760",626.28,633.76,7.480000000000018,Das könnte massive Auswirkungen auf die iranische Republik haben.
+144,"00:10:33,760","00:10:39,560",633.76,639.56,5.7999999999999545,"ML: das Land das so viel Öl exportiert, hat eine Energiekrise."
+145,"00:10:39,560","00:10:42,080",639.56,642.08,2.5200000000000955,AZ: Ganz genau.
+146,"00:10:42,120","00:10:44,960",642.12,644.96,2.840000000000032,Es hat sehr viel mit Missmanagement zu tun.
+147,"00:10:45,000","00:10:46,640",645.0,646.64,1.6399999999999864,Und mit Korruption.
+148,"00:10:46,680","00:10:52,480",646.68,652.48,5.800000000000068,Die Nachfrage kann nicht bedient werden.
+149,"00:10:52,520","00:10:56,080",652.52,656.08,3.560000000000059,"Jetzt haben sie das Gasfeld angegriffen,"
+150,"00:10:56,120","00:10:59,080",656.12,659.08,2.9600000000000364,was essenziell ist für Irans Stromversorgung.
+151,"00:10:59,120","00:11:03,280",659.12,663.28,4.159999999999968,Die Situation könnte sich somit noch erheblicher verschlimmern.
+152,"00:11:03,320","00:11:05,960",663.32,665.96,2.6399999999999864,"Teile der iranischen Zivilgesellschaft,"
+153,"00:11:06,000","00:11:11,960",666.0,671.96,5.960000000000036,da kamen verschiedene Aufrufe.
+154,"00:11:14,720","00:11:18,760",674.72,678.76,4.039999999999964,"ML: man muss davon ausgehen, dass das noch lange nicht die ganze"
+155,"00:11:18,800","00:11:22,520",678.8,682.52,3.7200000000000273,Wahrheit ist. Iran hat ja kein Interesse daran diese Bilder
+156,"00:11:22,520","00:11:23,880",682.52,683.88,1.3600000000000136,öffentlich zu machen.
+157,"00:11:25,880","00:11:28,120",685.88,688.12,2.240000000000009,"AZ: Das wird teilweise unterdrückt,"
+158,"00:11:28,160","00:11:31,280",688.16,691.28,3.1200000000000045,"dass man diese Bilder veröffentlichen darf,"
+159,"00:11:31,320","00:11:33,960",691.32,693.96,2.6399999999999864,"Menschen sind auch verhaftet worden,"
+160,"00:11:34,000","00:11:37,880",694.0,697.88,3.8799999999999955,wir haben den Aufruf von Teilen der Gesellschaft.
+161,"00:11:37,960","00:11:43,200",697.96,703.2,5.240000000000009,"Sie wollen ein Ende des Krieges,"
+162,"00:11:43,240","00:11:48,760",703.24,708.76,5.519999999999982,"dass ist nicht unser Krieg,"
+163,"00:11:48,800","00:11:55,640",708.8,715.64,6.840000000000032,"zunächst auch eine Bestätigung, Verstärkung dessen,"
+164,"00:11:55,680","00:12:00,880",715.68,720.88,5.2000000000000455,dass es um eine territoriale Integrität geht.
+165,"00:12:00,920","00:12:05,280",720.92,725.28,4.360000000000014,"Die Kapazität, die in dem Land für Widerstand und Neuaufbau steht,"
+166,"00:12:05,320","00:12:11,720",725.32,731.72,6.399999999999977,dass die nicht untergraben wird durch einen längeren Krieg.
+167,"00:12:11,720","00:12:23,400",731.72,743.4,11.67999999999995,"ML: bevor wir gleich zu Daniel Gerlach kommen, noch einmal Elmar,"
+168,"00:12:23,400","00:12:26,240",743.4,746.24,2.840000000000032,"man versucht von amerikanischer Seite aus, dass narrativ"
+169,"00:12:26,280","00:12:29,520",746.28,749.52,3.240000000000009,"aufrechtzuerhalten, man habe damit nichts zu tun."
+170,"00:12:29,560","00:12:33,000",749.56,753.0,3.4400000000000546,"Dass es Israel ganz alleine, wie glaubwürdig ist das?"
+171,"00:12:39,080","00:12:43,800",759.08,763.8,4.719999999999914,"ET: Das ist nicht mehr glaubwürdig, weil eine Situation entstanden ist,"
+172,"00:12:43,880","00:12:47,800",763.88,767.8,3.919999999999959,bei der der Präsident mit hoher Parteilichkeit handeln muss.
+173,"00:12:47,840","00:12:52,080",767.84,772.08,4.240000000000009,"Das hat damit zu tun, dass Israel Ziele angreift,"
+174,"00:12:52,120","00:12:55,920",772.12,775.92,3.7999999999999545,die jetzt im Iran den Willen auslösen noch massiver
+175,"00:12:56,040","00:12:58,720",776.04,778.72,2.6800000000000637,dagegen zu schlagen.
+176,"00:12:58,760","00:13:03,040",778.76,783.04,4.279999999999973,Möglicherweise auch das ist eine Sorge hier.
+177,"00:13:03,080","00:13:09,680",783.08,789.68,6.599999999999909,"Dass der Iran biochemische, auch radioaktive Waffen anreichert."
+178,"00:13:09,720","00:13:16,600",789.72,796.6,6.8799999999999955,Sie haben auch eine Anreicherung von Uran zu 60 %.
+179,"00:13:16,640","00:13:20,640",796.64,800.64,4.0,Aber auch andere von den genannten Massenvernichtungsmittel
+180,"00:13:20,680","00:13:24,240",800.68,804.24,3.560000000000059,könnten eingesetzt werden.
+181,"00:13:24,280","00:13:30,520",804.28,810.52,6.240000000000009,"Schmutzige Bombe ist das Szenario,"
+182,"00:13:31,560","00:13:35,840",811.56,815.84,4.280000000000086,es auch vor dem Hafen in Haifa zu platzieren.
+183,"00:13:35,880","00:13:41,440",815.88,821.44,5.560000000000059,"Gleichzeitig ist es so, dass Benjamin Netanjahu,"
+184,"00:13:41,480","00:13:45,440",821.48,825.44,3.9600000000000364,"weil Ziele angegriffen worden sind, mit dem Gedanken spielt,"
+185,"00:13:45,520","00:13:48,400",825.52,828.4,2.8799999999999955,den Regimewechsel herbeiführen zu wollen.
+186,"00:13:48,440","00:13:51,240",828.44,831.24,2.7999999999999545,Den Revolutionsführer in Angriff zu nehmen.
+187,"00:13:51,280","00:13:54,760",831.28,834.76,3.480000000000018,"Wir hören aus dem Umfeld,"
+188,"00:13:54,800","00:13:59,840",834.8,839.84,5.040000000000077,"der Präsident ist zu dem Entschluss gekommen,"
+189,"00:13:59,880","00:14:03,640",839.88,843.64,3.759999999999991,dass man ganz gezielt gegen die Atomwaffenfabrik
+190,"00:14:03,720","00:14:05,600",843.72,845.6,1.8799999999999955,der Urananreicherung vorgeht.
+191,"00:14:05,640","00:14:12,160",845.64,852.16,6.519999999999982,"Dass man ganz gezielt die Kontrolle wiedergewinnen könnte,"
+192,"00:14:12,240","00:14:19,040",852.24,859.04,6.7999999999999545,aber man muss sich dem Risiko bewusst sein.
+193,"00:14:29,440","00:14:32,760",869.44,872.76,3.3199999999999363,"ML: immer wenn man wissen will, was hinter den Kulissen läuft,"
+194,"00:14:38,040","00:14:40,720",878.04,880.72,2.6800000000000637,"Wir haben uns privat darüber ausgetauscht,"
+195,"00:14:40,760","00:14:41,720",880.76,881.72,0.9600000000000364,da passiert was.
+196,"00:14:41,760","00:14:45,520",881.76,885.52,3.759999999999991,"Aus aktuellem Anlass noch mal die Frage, was passiert da"
+197,"00:14:45,560","00:14:49,360",885.56,889.36,3.800000000000068,gerade? Auch mit Blick auf die Amerikaner.
+198,"00:14:49,360","00:14:52,840",889.36,892.84,3.480000000000018,DG: ich glaube dass die israelische und die amerikanische Regierung
+199,"00:14:52,840","00:14:59,840",892.84,899.84,7.0,unterschiedliche Vorstellung haben. Die israelische Führung
+200,"00:14:59,840","00:15:03,360",899.84,903.36,3.519999999999982,versucht gerade eine Situation zu schaffen damit die Amerikaner
+201,"00:15:03,400","00:15:07,720",903.4,907.72,4.32000000000005,Gesichts waren Eingreifen.
+202,"00:15:07,760","00:15:13,880",907.76,913.88,6.1200000000000045,"Netanjahu versteht dieses Chaos,"
+203,"00:15:16,920","00:15:25,320",916.92,925.32,8.400000000000091,weiß dass sie nicht in der Lage sind auf dieses Chaos zu reagieren.
+204,"00:15:31,400","00:15:34,840",931.4,934.84,3.4400000000000546,"Es bleibt Trump nichts anderes als im Nachhinein versuchen, es so zu"
+205,"00:15:34,840","00:15:38,040",934.84,938.04,3.199999999999932,erklären als wäre Teile seiner großen Strategie.
+206,"00:15:38,120","00:15:42,720",938.12,942.72,4.600000000000023,Das weiß Netanjahu zu nutzen.
+207,"00:15:42,760","00:15:45,440",942.76,945.44,2.6800000000000637,"Sie haben gerade gefragt, warum evakuieren die Leute."
+208,"00:15:50,200","00:15:56,320",950.2,956.32,6.1200000000000045,ML: und was ziehen Sie zusammen?
+209,"00:16:04,360","00:16:07,960",964.36,967.96,3.6000000000000227,"Der israelische Verteilungsminister hat getwittert, dass die Menschen in"
+210,"00:16:08,000","00:16:15,400",968.0,975.4,7.399999999999977,"Teheran dafür bezahlen. Trump hat gesagt evakuiert,"
+211,"00:16:17,120","00:16:21,320",977.12,981.32,4.2000000000000455,"auf die Nachfrage warum er das gesagt hatte, sagte er hätte es"
+212,"00:16:21,360","00:16:26,480",981.36,986.48,5.1200000000000045,einfach so gesagt.
+213,"00:16:33,600","00:16:36,960",993.6,996.96,3.3600000000000136,"Die Menschen Teheran haben zwei Referenzen, dass eine Gaza, und der"
+214,"00:16:37,000","00:16:43,160",997.0,1003.16,6.159999999999968,Golfkrieg in den achtziger Jahren
+215,"00:16:50,440","00:16:53,760",1010.44,1013.76,3.3199999999999363,"Die Menschen haben über Jahre erlebt, wie der Irak die vollkommene"
+216,"00:16:53,760","00:17:00,200",1013.76,1020.2,6.440000000000055,"Lufthoheit hatte, und niemand sich zur Wehr setzen konnten."
+217,"00:17:00,240","00:17:07,240",1020.24,1027.24,7.0,Und da verlassen die Menschen ihre Stadtviertel.
+218,"00:17:07,320","00:17:10,560",1027.32,1030.56,3.240000000000009,Das sind nicht nur militärische Strukturen die angegriffen werden
+219,"00:17:10,600","00:17:15,120",1030.6,1035.12,4.519999999999982,kann man auch zivile Infrastruktur.
+220,"00:17:15,160","00:17:19,720",1035.16,1039.72,4.559999999999945,"Oder zivile Infrastruktur, bei dem militärischen Personal in Einsatz"
+221,"00:17:19,760","00:17:24,720",1039.76,1044.72,4.960000000000036,kommt.
+222,"00:17:29,080","00:17:33,000",1049.08,1053.0,3.9200000000000728,"Die wurden in zivilen Gebieten, und jetzt fragt sich jeder, der wurden"
+223,"00:17:33,040","00:17:36,560",1053.04,1056.56,3.519999999999982,"in meiner Nähe, gibt es da ein militärisches Ziel das ich nicht"
+224,"00:17:36,600","00:17:37,000",1056.6,1057.0,0.40000000000009095,kenne? Und das ist die Angst.
+225,"00:17:37,880","00:17:43,600",1057.88,1063.6,5.7199999999998,"ML: Philip Heitmann Engel einmal gefragt, warum gerade jetzt?"
+226,"00:17:43,600","00:17:48,160",1063.6,1068.16,4.560000000000173,"- Warum gerade nicht jetzt, ich verfolge die Situation seit über 15"
+227,"00:17:48,160","00:17:49,080",1068.16,1069.08,0.9199999999998454,Jahren.
+228,"00:17:50,160","00:17:56,960",1070.16,1076.96,6.7999999999999545,"ML: Deswegen die Frage, warum gerade jetzt?"
+229,"00:17:58,400","00:18:01,800",1078.4,1081.8,3.3999999999998636,"-Das gehört zum Standardrepertoire der israelischen Regierung, immer"
+230,"00:18:01,840","00:18:09,160",1081.84,1089.16,7.320000000000164,wieder zu sagen alle Optionen liegen auf dem Tisch.
+231,"00:18:15,280","00:18:19,680",1095.28,1099.68,4.400000000000091,"Es gibt immer wieder die Ansage, wir haben genau im Blick, was ihr"
+232,"00:18:19,720","00:18:22,280",1099.72,1102.28,2.5599999999999454,treibt.
+233,"00:18:22,320","00:18:26,400",1102.32,1106.4,4.080000000000155,Bisher hatte jede Regierung Israels diesen Schritt gescheut. Auch aus
+234,"00:18:26,440","00:18:32,040",1106.44,1112.04,5.599999999999909,guten Gründen. Jetzt war es unausweichlich.
+235,"00:18:32,080","00:18:40,160",1112.08,1120.16,8.080000000000155,Ich bin auch stark irritiert über die Richtung der Diskussion.
+236,"00:18:40,560","00:18:43,640",1120.56,1123.64,3.0800000000001546,"Dass wir ausschließlich darüber sprechen, was die israelische"
+237,"00:18:43,720","00:18:49,720",1123.72,1129.72,6.0,"Regierung in Teheran anrichten würde,"
+238,"00:18:49,760","00:18:53,440",1129.76,1133.44,3.6800000000000637,"man kann es nicht oft genug sagen, Iran ist das Regime das den"
+239,"00:18:53,480","00:18:57,480",1133.48,1137.48,4.0,Weltfrieden gefährdet.
+240,"00:18:57,560","00:19:01,880",1137.56,1141.88,4.320000000000164,"Es ist die politische Kraft im Nahen Osten die sagt, wir werden Israel"
+241,"00:19:01,920","00:19:06,880",1141.92,1146.88,4.960000000000036,ausgleichen.
+242,"00:19:12,520","00:19:15,920",1152.52,1155.92,3.400000000000091,"Das ist keine persische iranische Folklore, das sind keine Märchen,"
+243,"00:19:15,960","00:19:23,640",1155.96,1163.64,7.680000000000064,ich darf das sagen ich bin Kind einer iranischen Mutter.
+244,"00:19:25,600","00:19:29,680",1165.6,1169.68,4.080000000000155,Die Führung im Iran sind mit verantwortlich für einen der größten
+245,"00:19:29,760","00:19:33,320",1169.76,1173.32,3.5599999999999454,Massaker an Juden.
+246,"00:19:33,360","00:19:38,320",1173.36,1178.32,4.960000000000036,Am 7. Oktober.
+247,"00:19:55,040","00:19:58,440",1195.04,1198.44,3.400000000000091,"Das war eine versuchte ethnische Säuberung, weil 80.000 israelische"
+248,"00:19:58,480","00:20:01,560",1198.48,1201.56,3.0799999999999272,"Bevölkerung, nicht mehr in ihren Häusern leben konnten."
+249,"00:20:02,840","00:20:09,240",1202.84,1209.24,6.400000000000091,"ML: die Situation im Norden Israels,..."
+250,"00:20:12,400","00:20:16,000",1212.4,1216.0,3.599999999999909,"- Ich will sagen, die Regierung aus USA und Israel sind nicht naiv, sie"
+251,"00:20:16,040","00:20:20,240",1216.04,1220.24,4.2000000000000455,"wissen was sie tun. Dass die Kosten enorm sind, dass sie noch höher"
+252,"00:20:20,320","00:20:21,760",1220.32,1221.76,1.4400000000000546,werden können.
+253,"00:20:21,800","00:20:26,360",1221.8,1226.36,4.559999999999945,"Aber der Schritt ist unausweichlich, es darf kein Iran mit Atombomben"
+254,"00:20:26,400","00:20:30,800",1226.4,1230.8,4.399999999999864,geben.
+255,"00:20:30,800","00:20:34,240",1230.8,1234.24,3.4400000000000546,"Das Risiko ist die Auslöschung des jüdischen Staates, aber auch eine"
+256,"00:20:34,280","00:20:40,280",1234.28,1240.28,6.0,Gefahr für den gesamten Westen.
+257,"00:20:41,680","00:20:44,760",1241.68,1244.76,3.0799999999999272,"Die Reaktion in Saudi-Arabien, sind verlogen."
+258,"00:20:48,760","00:20:53,240",1248.76,1253.24,4.480000000000018,"ML: Deswegen sitzen Sie auch hier, um das deutlich zu sagen."
+259,"00:20:53,240","00:21:05,480",1253.24,1265.48,12.240000000000009,-Die israelische Armee handelt im Interesse der westlichen Welt.
+260,"00:21:05,480","00:21:09,640",1265.48,1269.64,4.160000000000082,"Netanjahu, die man kritisieren kann, hat gesagt wir führen keinen Krieg"
+261,"00:21:09,680","00:21:13,120",1269.68,1273.12,3.439999999999827,gegen das iranische Volk. Ausschließlich militärische Ziele
+262,"00:21:13,160","00:21:17,280",1273.16,1277.28,4.119999999999891,werden in Visier genommen.
+263,"00:21:17,320","00:21:25,000",1277.32,1285.0,7.680000000000064,"Diese Anlagen, sind essenziell für das iranische Regime."
+264,"00:21:25,040","00:21:29,320",1285.04,1289.32,4.279999999999973,"Es gibt keine zivile Opfer, im Gegensatz zu vielen israelischen"
+265,"00:21:29,360","00:21:30,360",1289.36,1290.36,1.0,Städten.
+266,"00:21:32,640","00:21:37,360",1292.64,1297.36,4.7199999999998,"ML: Es gibt keine zivilen Opfer, woher wissen Sie das?"
+267,"00:21:37,400","00:21:40,960",1297.4,1300.96,3.5599999999999454,"Sie schließen aus, dass es im Iran Opfer gibt?"
+268,"00:21:40,960","00:21:44,440",1300.96,1304.44,3.480000000000018,- Es gibt keine gegenteiligen Aussagen gegenüber den israelischen
+269,"00:21:44,480","00:21:47,080",1304.48,1307.08,2.599999999999909,Zahlen des iranischen Regimes.
+270,"00:21:54,480","00:21:56,840",1314.48,1316.84,2.3599999999999,"ML: Das könnte ich Ihnen jetzt sagen,"
+271,"00:21:56,920","00:21:59,840",1316.92,1319.84,2.9199999999998454,"wenn du so schwach bist und so erwischt wird,"
+272,"00:21:59,920","00:22:04,640",1319.92,1324.64,4.720000000000027,"und kein Interesse daran zu haben, wie viele Tote du verursacht hast,"
+273,"00:22:04,640","00:22:08,080",1324.64,1328.08,3.439999999999827,"- Wo sind die Beweise, dass es zivile Opfer gibt. Das ist ein"
+274,"00:22:08,120","00:22:10,080",1328.12,1330.08,1.9600000000000364,"wissenschaftliches Problem,"
+275,"00:22:10,080","00:22:17,520",1330.08,1337.52,7.440000000000055,"wo sie die Leichen in Israel, wo sind die Leichen im Iran."
+276,"00:22:17,600","00:22:21,200",1337.6,1341.2,3.6000000000001364,"Es liegt im Interesse des Regimes, wir haben hohe Opfer, das hat aber"
+277,"00:22:21,240","00:22:22,920",1341.24,1342.92,1.6800000000000637,bisher nicht stattgefunden.
+278,"00:22:26,360","00:22:27,880",1346.36,1347.88,1.5200000000002092,ML: Wie schauen Sie darauf?
+279,"00:22:27,920","00:22:32,280",1347.92,1352.28,4.3599999999999,"AZ: Zunächst einmal, hat der Staat von zivilen Opfern gesprochen."
+280,"00:22:32,320","00:22:40,080",1352.32,1360.08,7.759999999999991,"Auch von Frauen und Kindern, die ums Leben gekommen sind."
+281,"00:22:41,080","00:22:44,120",1361.08,1364.12,3.0399999999999636,PE: Die Familie der ermordeten Atomwirtschaft lag.
+282,"00:22:45,920","00:22:48,480",1365.92,1368.48,2.5599999999999454,"AZ: Unabhängig davon, von den zivilen Opfern,"
+283,"00:22:48,520","00:22:51,520",1368.52,1371.52,3.0,"die es gibt, vermutlich auch noch geben wird."
+284,"00:22:51,600","00:22:56,640",1371.6,1376.64,5.040000000000191,"Zu der Frage, ob es unausweichlich war."
+285,"00:22:56,640","00:22:59,640",1376.64,1379.64,3.0,"ML: Warum jetzt? Ich hab diese Frage ganz bewusst gestellt,"
+286,"00:22:59,640","00:23:06,320",1379.64,1386.32,6.679999999999836,mitdiskutieren hier seit 15 Jahren darüber.
+287,"00:23:06,360","00:23:09,480",1386.36,1389.48,3.1200000000001182,"Viele haben gesagt, das ist das Dilemma der Geschichte, es war"
+288,"00:23:09,520","00:23:15,480",1389.52,1395.48,5.960000000000036,"irgendwie klar, dass es dazu kommen werde."
+289,"00:23:15,520","00:23:20,160",1395.52,1400.16,4.6400000000001,Weil die Führung in Teheran nicht auf dieses Atom Programm verzichten
+290,"00:23:20,200","00:23:22,200",1400.2,1402.2,2.0,wollte.
+291,"00:23:22,240","00:23:24,520",1402.24,1404.52,2.2799999999999727,"Aber im Moment war die Lage, anders"
+292,"00:23:33,120","00:23:39,920",1413.12,1419.92,6.800000000000182,PE: Da muss man fundamental widersprechen.
+293,"00:23:45,880","00:23:49,160",1425.88,1429.16,3.2799999999999727,"Den Gedanken noch zu Ende, es gab den Bericht der Internationalen"
+294,"00:23:49,240","00:23:53,960",1429.24,1433.96,4.720000000000027,"Energiebehörde, wie der Iran in den letzten Jahren systematisch gelogen"
+295,"00:23:54,040","00:23:55,800",1434.04,1435.8,1.759999999999991,"hatte, das muss man lesen,"
+296,"00:23:58,280","00:24:00,800",1438.28,1440.8,2.519999999999982,ML: Will gar nicht widersprechen.
+297,"00:24:00,840","00:24:03,880",1440.84,1443.88,3.040000000000191,Man muss sauber zitieren.
+298,"00:24:03,920","00:24:08,080",1443.92,1448.08,4.1599999999998545,"Man muss auf Deeskalation sitzen setzen,"
+299,"00:24:08,120","00:24:15,520",1448.12,1455.52,7.400000000000091,ich würde gerne noch mal Ihr Argument zu Ende hören.
+300,"00:24:17,440","00:24:20,800",1457.44,1460.8,3.3599999999999,"AZ: Nicht einmal Benjamin mit Netanjahu behauptet,"
+301,"00:24:20,840","00:24:26,240",1460.84,1466.24,5.400000000000091,dass der Iran innerhalb kürzester Zeit Atomwaffen hätte bauen können.
+302,"00:24:26,320","00:24:31,680",1466.32,1471.68,5.360000000000127,"Er spricht von einem Jahr, wenigen Monaten."
+303,"00:24:31,720","00:24:35,680",1471.72,1475.68,3.9600000000000364,"Wenn man über eine unumkehrbare Schwelle überschritten ist,"
+304,"00:24:35,720","00:24:39,480",1475.72,1479.48,3.759999999999991,"gäbe es nicht genug Zeit, diplomatische Lösung zu finden."
+305,"00:24:39,520","00:24:43,360",1479.52,1483.36,3.839999999999918,Das ist eine spezifische israelische Lesart der Situation.
+306,"00:24:43,400","00:24:48,880",1483.4,1488.88,5.480000000000018,"Da muss man klar sagen,"
+307,"00:24:52,000","00:24:57,920",1492.0,1497.92,5.920000000000073,"es wurde darauf hingewiesen,"
+308,"00:24:58,000","00:25:01,040",1498.0,1501.04,3.0399999999999636,"dass sie nicht davon ausgehen,"
+309,"00:25:01,080","00:25:06,440",1501.08,1506.44,5.360000000000127,dass es derzeit ein strukturiertes Waffenprogramm gibt.
+310,"00:25:06,480","00:25:09,560",1506.48,1509.56,3.0799999999999272,"Was daran nichts ändert, ist, die Einschätzung"
+311,"00:25:09,600","00:25:11,640",1509.6,1511.64,2.040000000000191,der kritischen un umkehrbare.
+312,"00:25:14,320","00:25:19,920",1514.32,1519.92,5.600000000000136,Der bisher amerikanischen Geheimdienste.
+313,"00:25:19,960","00:25:24,880",1519.96,1524.88,4.920000000000073,"Fast jeder Staat teilt die Sicht,"
+314,"00:25:24,960","00:25:31,400",1524.96,1531.4,6.440000000000055,"dass der Iranvom Bau von Atomwaffen abgehalten werden muss,"
+315,"00:25:31,440","00:25:38,280",1531.44,1538.28,6.839999999999918,"aufgrund der desaströsen Folgen, die es mit sich bringen kann."
+316,"00:25:38,320","00:25:42,720",1538.32,1542.72,4.400000000000091,"Aber dass sie auch die Berechtigung hat, den Iran davon abzuhalten,"
+317,"00:25:42,800","00:25:48,000",1542.8,1548.0,5.2000000000000455,unter konkreten Bedingungen.
+318,"00:25:48,040","00:25:53,200",1548.04,1553.2,5.160000000000082,"Es muss im Rahmen der UN-Charta geschehen,"
+319,"00:25:53,280","00:25:56,800",1553.28,1556.8,3.519999999999982,"alle weiteren Möglichkeiten sollten ausgeschöpft sein,"
+320,"00:25:56,840","00:26:00,160",1556.84,1560.16,3.3200000000001637,das kann man hier klar verneinen.
+321,"00:26:00,240","00:26:05,360",1560.24,1565.36,5.119999999999891,"Es gab Gespräche zwischen Washington und Teheran,"
+322,"00:26:05,440","00:26:10,920",1565.44,1570.92,5.480000000000018,"wenn sie nicht auf Debatten und Diskussionen eingehen wollten,"
+323,"00:26:10,960","00:26:15,440",1570.96,1575.44,4.480000000000018,hätten sie die Chance gehabt mittels Sabotage das Atomwaffenprogramm
+324,"00:26:15,480","00:26:17,960",1575.48,1577.96,2.480000000000018,zu verzögern.
+325,"00:26:18,000","00:26:24,840",1578.0,1584.84,6.839999999999918,So wie sie das schon häufig gemacht haben.
+326,"00:26:32,160","00:26:34,600",1592.16,1594.6,2.439999999999827,"2009, 2012,2021."
+327,"00:26:34,640","00:26:41,920",1594.64,1601.92,7.279999999999973,"Es hat Möglichkeiten gegeben, unterhalb der kriegerischen Schwelle"
+328,"00:26:42,000","00:26:42,920",1602.0,1602.92,0.9200000000000728,zu bleiben.
+329,"00:26:43,000","00:26:46,280",1603.0,1606.28,3.2799999999999727,Wenn wir tatsächlich an einer kritischen Schwelle
+330,"00:26:46,320","00:26:47,480",1606.32,1607.48,1.1600000000000819,"gestanden hätten,"
+331,"00:26:47,520","00:26:50,240",1607.52,1610.24,2.7200000000000273,"unter diesem Kontext,"
+332,"00:26:50,320","00:26:53,360",1610.32,1613.36,3.0399999999999636,"halte ich es für fragwürdig davon zu sprechen,"
+333,"00:26:53,440","00:26:55,120",1613.44,1615.12,1.6799999999998363,dass das unumkehrbar war.
+334,"00:26:55,160","00:26:58,840",1615.16,1618.84,3.6799999999998363,"Es ist nicht internationaler Konsens. Wir wissen nicht,"
+335,"00:26:58,880","00:27:07,240",1618.88,1627.24,8.3599999999999,"ob es das Gegenteil bewirken wird, eine schnelle atomare Aufrüstung."
+336,"00:27:07,240","00:27:08,280",1627.24,1628.28,1.0399999999999636,ML:
+337,"00:27:08,280","00:27:12,000",1628.28,1632.0,3.7200000000000273,"eine letzte Frage an Elmar, welcher Deal schwebt Donald Trump vor?"
+338,"00:27:19,880","00:27:23,360",1639.88,1643.36,3.479999999999791,"ET: das Idealbild für Donald Trump wäre ein Atomabkommen mit dem Iran,"
+339,"00:27:23,440","00:27:24,520",1643.44,1644.52,1.0799999999999272,aber auch mit Russland.
+340,"00:27:24,560","00:27:26,280",1644.56,1646.28,1.7200000000000273,"Ein großes neues Atomabkommen,"
+341,"00:27:26,320","00:27:29,000",1646.32,1649.0,2.6800000000000637,für das er vielleicht ein Friedensnobelpreis bekommen.
+342,"00:27:29,040","00:27:30,600",1649.04,1650.6,1.5599999999999454,Ich glaube der Zug ist verpasst.
+343,"00:27:30,640","00:27:37,480",1650.64,1657.48,6.839999999999918,Wir werden in den nächsten Tagen eher eine große Eskalation erleben.
+344,"00:27:37,480","00:27:40,000",1657.48,1660.0,2.519999999999982,"ML: also Elmar danke, für diese Ausk"
+345,"00:27:40,000","00:27:40,680",1660.0,1660.68,0.6800000000000637,unft. Wir sehen uns sicherlich in den nächsten Tagen.
+346,"00:27:40,680","00:27:45,720",1660.68,1665.72,5.039999999999964,ET: Dankeschön.
+347,"00:27:52,640","00:27:59,520",1672.64,1679.52,6.879999999999882,Wir haben gerade Philip Peyman Engel gehört.
+348,"00:28:01,160","00:28:05,840",1681.16,1685.84,4.679999999999836,"Herr Gerlach, sagen Sie mir warum."
+349,"00:28:05,840","00:28:09,480",1685.84,1689.48,3.6400000000001,"DG: Herr Engel hat sich an allen möglichen Dingen abgearbeitet, die"
+350,"00:28:09,480","00:28:15,240",1689.48,1695.24,5.759999999999991,ich gar nicht gesagt hatte.
+351,"00:28:23,400","00:28:26,560",1703.4,1706.56,3.1599999999998545,Die Unausweichlichkeit dieses Krieges kann ich nicht begründen.
+352,"00:28:26,640","00:28:31,640",1706.64,1711.64,5.0,Ich kenne diese Informationen nicht.
+353,"00:28:31,720","00:28:35,040",1711.72,1715.04,3.3199999999999363,"Es gibt Dinge die passieren, dass eines eine taktisch operationelle"
+354,"00:28:35,080","00:28:41,800",1715.08,1721.8,6.720000000000027,"Ebene, dass anderes eine außenpolitische."
+355,"00:28:42,000","00:28:45,880",1722.0,1725.88,3.880000000000109,"Die Vorbereitung des Angriffs, weil er nicht durch einfache Kampfjets"
+356,"00:28:45,920","00:28:47,160",1725.92,1727.16,1.240000000000009,los schicken getan.
+357,"00:28:47,200","00:28:54,200",1727.2,1734.2,7.0,Es war eine militärische Planung die stattfand.
+358,"00:28:55,720","00:28:59,320",1735.72,1739.32,3.599999999999909,Das ist ja auch mit nachrichtendienstlichen Einheiten
+359,"00:28:59,440","00:29:04,560",1739.44,1744.56,5.119999999999891,"geschehen, vor Ort."
+360,"00:29:16,320","00:29:19,800",1756.32,1759.8,3.480000000000018,"Die Komplexität dieses Angriffes, erlaubt nicht das man es einfach so"
+361,"00:29:19,840","00:29:24,240",1759.84,1764.24,4.400000000000091,"macht, da muss es schon so stehen, dass man diese Entscheidung treffen"
+362,"00:29:24,280","00:29:28,360",1764.28,1768.36,4.079999999999927,"kann, bereit zu sein. Das ganze wurde Jahre vorbereitet. Dass der"
+363,"00:29:28,400","00:29:31,720",1768.4,1771.72,3.3199999999999363,zentrale Punkt.
+364,"00:29:31,760","00:29:40,320",1771.76,1780.32,8.559999999999945,"Der andere Grund ist, dass man ein Überraschungsmoment nutzen wollte."
+365,"00:29:48,840","00:29:52,520",1788.84,1792.52,3.6800000000000637,"Die Gespräche sollten fortgesetzt werden, deswegen ging man davon aus"
+366,"00:29:52,560","00:29:55,400",1792.56,1795.4,2.8400000000001455,"dass angriff stattfindet,"
+367,"00:29:55,440","00:29:58,560",1795.44,1798.56,3.119999999999891,würde er nach den Gesprächen passieren.
+368,"00:29:58,600","00:30:04,920",1798.6,1804.92,6.320000000000164,Es gibt noch eine andere Dimension.
+369,"00:30:08,200","00:30:15,400",1808.2,1815.4,7.2000000000000455,"Der Bericht der Energiebehörde, war alarmierend."
+370,"00:30:22,040","00:30:24,880",1822.04,1824.88,2.8400000000001455,"Es gab unerklärlich viel, behandeltes Uran an bestimmten"
+371,"00:30:24,920","00:30:32,200",1824.92,1832.2,7.279999999999973,"Orten, über das Iran keine Auskunft gegeben hatte."
+372,"00:30:37,040","00:30:40,920",1837.04,1840.92,3.880000000000109,"Das war für die völkerrechtliche Rechtfertigung des Angriffs, ein"
+373,"00:30:41,000","00:30:45,960",1841.0,1845.96,4.960000000000036,entscheidender Punkt.
+374,"00:30:46,000","00:30:49,720",1846.0,1849.72,3.7200000000000273,"Das war etwas was Netanjahu nutzen konnte, um die Reihen im Westen"
+375,"00:30:49,760","00:30:55,320",1849.76,1855.32,5.559999999999945,hinter sich zu schließen.
+376,"00:31:00,960","00:31:04,520",1860.96,1864.52,3.5599999999999454,"Hintergrund ist der unentschuldbar Grund im Gaza, die Regierung wieder"
+377,"00:31:04,560","00:31:07,040",1864.56,1867.04,2.480000000000018,hinter sich zu versammeln. Das hat 15.
+378,"00:31:07,120","00:31:12,840",1867.12,1872.84,5.720000000000027,Das hat er vorausberechnet.
+379,"00:31:13,440","00:31:21,480",1873.44,1881.48,8.039999999999964,"Die Krise seiner Koalition, lässt es auch opportun erscheinen."
+380,"00:31:27,480","00:31:30,920",1887.48,1890.92,3.4400000000000546,"Ich denke aber auch, dass er von seinem psychologischen Profil soweit"
+381,"00:31:31,040","00:31:34,480",1891.04,1894.48,3.4400000000000546,"ist, dass er glaubt er ist der Erlöser seines Landes."
+382,"00:31:34,520","00:31:41,040",1894.52,1901.04,6.519999999999982,"Dass er in der Lage ist, die Macht Israels im Nahen Osten herzustellen."
+383,"00:31:41,120","00:31:45,720",1901.12,1905.72,4.600000000000136,"Die Haltung die der Iran eingenommen hatte, hatte als Schwäche benutzt."
+384,"00:31:45,800","00:31:48,600",1905.8,1908.6,2.7999999999999545,Nicht als Verhandlungsangebot.
+385,"00:31:48,640","00:31:51,880",1908.64,1911.88,3.240000000000009,Darauf sind die Iraner hereingefallen.
+386,"00:32:05,080","00:32:05,600",1925.08,1925.6,0.5199999999999818,PE: ich hab schon ein paar Mal tief durchgeatmet. Es fällt mir schwer
+387,"00:32:05,600","00:32:09,240",1925.6,1929.24,3.6400000000001,ML: Erlöserfantasien bei Benjamin Netanjahu.
+388,"00:32:09,240","00:32:14,720",1929.24,1934.72,5.480000000000018,ruhig zu bleiben.
+389,"00:32:14,720","00:32:18,720",1934.72,1938.72,4.0,"- Versuchen Sie doch ruhig zu bleiben, tut mir leid dass ich in"
+390,"00:32:18,840","00:32:23,840",1938.84,1943.84,5.0,das zumuten muss.
+391,"00:32:32,360","00:32:36,560",1952.36,1956.56,4.2000000000000455,"PE: ich finde es unerträglich, wie Israel diese Existenzsicherung nicht"
+392,"00:32:36,600","00:32:38,800",1956.6,1958.8,2.2000000000000455,durchführen darf.
+393,"00:32:38,880","00:32:46,160",1958.88,1966.16,7.279999999999973,"Dieses befremdliche Geraune, wer profitiert davon."
+394,"00:32:50,240","00:32:54,680",1970.24,1974.68,4.440000000000055,Diese Dämonisierung der israelischen Regierung.
+395,"00:32:54,760","00:33:00,840",1974.76,1980.84,6.079999999999927,Hatte sich nicht leicht gemacht.
+396,"00:33:05,040","00:33:08,560",1985.04,1988.56,3.519999999999982,"Israel macht sich das nicht leicht, Israel eskaliert nicht, Israel"
+397,"00:33:08,600","00:33:14,600",1988.6,1994.6,6.0,agiert Israel muss sich wehren.
+398,"00:33:16,480","00:33:20,640",1996.48,2000.64,4.160000000000082,"Die Pistole die Jerusalem auf die Brust gesetzt wird, kann sich Israel"
+399,"00:33:20,800","00:33:25,600",2000.8,2005.6,4.7999999999999545,nicht leisten.
+400,"00:33:32,680","00:33:36,000",2012.68,2016.0,3.3199999999999363,"Wenn es eine Erkenntnis in der jüdischen Geschichte gibt, wenn ein"
+401,"00:33:36,040","00:33:40,520",2016.04,2020.52,4.480000000000018,"diktatorisches Regime sagt, wir werden euch auslöschen,"
+402,"00:33:40,560","00:33:46,840",2020.56,2026.84,6.279999999999973,dann ist hoch dass es soweit kommt.
+403,"00:33:49,200","00:33:53,200",2029.2,2033.2,4.0,"Es wird immer gesagt, die Völkerrechtler sprechen mit einer"
+404,"00:33:53,240","00:33:55,800",2033.24,2035.8,2.5599999999999454,"Stimme,"
+405,"00:33:55,840","00:34:04,200",2035.84,2044.2,8.360000000000127,es gibt aber auch viele die sagen das ist völkerrechtlich gedeckt.
+406,"00:34:10,360","00:34:13,840",2050.36,2053.84,3.480000000000018,Denn Teheran hat spätestens am 7. Oktober Denn Teheran hat spätestens
+407,"00:34:13,920","00:34:17,400",2053.92,2057.4,3.480000000000018,am 07.10.2023 Israel dem Krieg erklärt.
+408,"00:34:17,440","00:34:23,680",2057.44,2063.68,6.239999999999782,"Es erlaubt Israel, sich zu wehren."
+409,"00:34:32,160","00:34:35,880",2072.16,2075.88,3.7200000000002547,"Was ganz sicherlich nicht gedeckt ist, ist der Beschuss Irans auf aus"
+410,"00:34:35,920","00:34:37,800",2075.92,2077.8,1.8800000000001091,schließlich zivile Ziele.
+411,"00:34:43,520","00:34:45,680",2083.52,2085.68,2.1599999999998545,ML: Um Ihre Empörung verstehen...
+412,"00:34:45,760","00:34:48,720",2085.76,2088.72,2.9599999999995816,"PE: Einmal intellektuell noch die Erklärung,"
+413,"00:34:48,760","00:34:55,120",2088.76,2095.12,6.359999999999673,dass es die Antwort auf einen Satz.
+414,"00:34:59,520","00:35:04,240",2099.52,2104.24,4.7199999999998,"sie finden nur Gründe dafür, dass Israel demonisiert wird."
+415,"00:35:04,240","00:35:07,520",2104.24,2107.52,3.2800000000002,"DG: Ich weiß nicht mit wem sie gerade gesprochen haben, was ich"
+416,"00:35:07,520","00:35:12,040",2107.52,2112.04,4.519999999999982,gesagt habe haben sie offensichtlich nicht gehört. Was für Gründe ich
+417,"00:35:12,080","00:35:12,920",2112.08,2112.92,0.8400000000001455,"anführen,"
+418,"00:35:13,640","00:35:16,400",2113.64,2116.4,2.7600000000002183,PE: Innenpolitische Gründe um abzulenken von Gaza.
+419,"00:35:16,480","00:35:23,000",2116.48,2123.0,6.519999999999982,Ich habe gerade dazu Stellung genommen.
+420,"00:35:27,800","00:35:33,960",2127.8,2133.96,6.1599999999998545,"NR: Vielleicht zu Unumkehrbarkeit,"
+421,"00:35:34,040","00:35:38,240",2134.04,2138.24,4.199999999999818,Dass die verschiedenen Dimensionen unterschieden werden.
+422,"00:35:38,320","00:35:45,000",2138.32,2145.0,6.679999999999836,Zunächst ist Iran technisch unangreifbar
+423,"00:35:45,440","00:35:47,840",2145.44,2147.84,2.400000000000091,in der Lage eine Atombombe zu haben.
+424,"00:35:47,920","00:35:50,440",2147.92,2150.44,2.519999999999982,"Da weiß keiner, wann ist der Zeitpunkt."
+425,"00:35:50,560","00:35:53,640",2150.56,2153.64,3.0799999999999272,"Jeder weiß, es ist nur noch eine Frage der Zeit."
+426,"00:35:53,680","00:35:59,120",2153.68,2159.12,5.440000000000055,Dass Iran das schafft.
+427,"00:35:59,160","00:36:03,680",2159.16,2163.68,4.519999999999982,"60 % Anreicherungen, in hunderten von Kilogramm."
+428,"00:36:03,720","00:36:10,080",2163.72,2170.08,6.360000000000127,"90-prozentige Anreicherung, es nur eine Frage der Zeit."
+429,"00:36:10,200","00:36:17,040",2170.2,2177.04,6.8400000000001455,"Für Israel wiederum ist es eine große Frage,"
+430,"00:36:17,920","00:36:19,440",2177.92,2179.44,1.5199999999999818,"muss ich jetzt warten,"
+431,"00:36:19,520","00:36:22,520",2179.52,2182.52,3.0,"bis der Zeitpunkt der Unumkehrbarkeit da ist,"
+432,"00:36:22,600","00:36:26,200",2182.6,2186.2,3.599999999999909,"dann habe ich zwar Klarheit, aber dann ist es zu spät."
+433,"00:36:26,200","00:36:30,320",2186.2,2190.32,4.120000000000346,"ML: es ist zwar völkerrechtlich angemessen gehandelt, aber diese"
+434,"00:36:30,320","00:36:31,560",2190.32,2191.56,1.2399999999997817,Atomwaffe wäre da.
+435,"00:36:34,600","00:36:37,920",2194.6,2197.92,3.3200000000001637,NR: Aber die Atomwaffe ist auch da.
+436,"00:36:38,000","00:36:42,280",2198.0,2202.28,4.2800000000002,Die völkerrechtliche Klarheit ist in diesen Zeiten viel stärker.
+437,"00:36:42,320","00:36:43,680",2202.32,2203.68,1.3599999999996726,Das ist das Problem.
+438,"00:36:43,720","00:36:46,280",2203.72,2206.28,2.5600000000004,"Dann kommt auch noch die 2. Dimension,"
+439,"00:36:46,320","00:36:48,560",2206.32,2208.56,2.2399999999997817,die politische Dimension.
+440,"00:36:48,640","00:36:51,760",2208.64,2211.76,3.1200000000003456,Ich beschäftige mich permanent mit diesem Thema.
+441,"00:36:51,840","00:36:53,960",2211.84,2213.96,2.119999999999891,"Ich habe keinen Zweifel daran,"
+442,"00:36:54,040","00:36:57,640",2214.04,2217.64,3.599999999999909,dass das iranische Regime unumkehrbar entschlossen ist
+443,"00:36:57,720","00:37:02,680",2217.72,2222.68,4.960000000000036,Atommacht zu werden.
+444,"00:37:02,760","00:37:07,960",2222.76,2227.96,5.199999999999818,AZ: Amerikanische Geheimdienste bezweifeln das.
+445,"00:37:08,000","00:37:15,200",2228.0,2235.2,7.199999999999818,"NR: Das ist nicht so eine Autorität, dass man sagen kann,..."
+446,"00:37:15,200","00:37:16,240",2235.2,2236.24,1.0399999999999636,DG:
+447,"00:37:16,240","00:37:19,040",2236.24,2239.04,2.800000000000182,worauf berufen sie sich bei ihrer Analyse?
+448,"00:37:21,800","00:37:25,600",2241.8,2245.6,3.799999999999727,"NR: Aus 10-jähriger Beschäftigung,"
+449,"00:37:25,680","00:37:31,760",2245.68,2251.76,6.080000000000382,"Gesprächen mit verschiedenen iranischen Außenministern, Experten,"
+450,"00:37:31,840","00:37:35,560",2251.84,2255.56,3.7199999999998,und aus der Analyse des Gesamtverhaltens
+451,"00:37:35,640","00:37:41,640",2255.64,2261.64,6.0,"des iranischen Regimes, dass auch Ausdruck gefunden"
+452,"00:37:41,720","00:37:45,960",2261.72,2265.96,4.2400000000002365,hat im Dokument der internationalen Atombehörde.
+453,"00:37:46,040","00:37:51,800",2266.04,2271.8,5.760000000000218,"Die klar festgestellt haben,"
+454,"00:37:56,120","00:37:59,640",2276.12,2279.64,3.519999999999982,eine eindeutige Völkerrechts nuklearen
+455,"00:37:59,680","00:38:07,440",2279.68,2287.44,7.760000000000218,"Nichtverbreitungsvertrages, das haben Sie schon verletzt."
+456,"00:38:12,480","00:38:20,120",2292.48,2300.12,7.639999999999873,"Sie haben ihre völkerrechtlichen Versprechen gebrochen,"
+457,"00:38:20,160","00:38:23,160",2300.16,2303.16,3.0,und wollen das Regime an der Nase rum führen.
+458,"00:38:23,240","00:38:27,640",2303.24,2307.64,4.400000000000091,"Wenn man sich das ganze mal anschaut,"
+459,"00:38:27,680","00:38:31,440",2307.68,2311.44,3.7600000000002183,"aus meiner Sicht ist das nicht die Atomwaffe einzusetzen,"
+460,"00:38:31,520","00:38:33,720",2311.52,2313.72,2.199999999999818,"alle Atommächte,"
+461,"00:38:33,760","00:38:36,440",2313.76,2316.44,2.6799999999998363,"die wollen die Waffe nicht einsetzen, sie"
+462,"00:38:36,520","00:38:40,680",2316.52,2320.68,4.1599999999998545,wollen sie aber haben.
+463,"00:38:40,760","00:38:48,360",2320.76,2328.36,7.599999999999909,"Stellen Sie sich vor, UKRAINE wäre Atommacht geblieben."
+464,"00:38:51,000","00:38:55,280",2331.0,2335.28,4.2800000000002,Aber auch globale terroristische Aktivität wäre unter dem Schutz
+465,"00:38:55,360","00:38:58,000",2335.36,2338.0,2.6399999999998727,Atommacht zu sein.
+466,"00:38:58,080","00:39:02,520",2338.08,2342.52,4.440000000000055,"Es würde regional für Israel sowieso, aber auch global"
+467,"00:39:02,600","00:39:05,680",2342.6,2345.68,3.0799999999999272,die Sicherheitslage grundlegend verändern.
+468,"00:39:05,720","00:39:11,520",2345.72,2351.52,5.800000000000182,Diese Macht strebt den Iran an.
+469,"00:39:11,600","00:39:15,480",2351.6,2355.48,3.880000000000109,"Wenn das so ist, wenn die Fähigkeit"
+470,"00:39:15,520","00:39:23,200",2355.52,2363.2,7.679999999999836,"die Atombombe zu haben, nur noch eine Frage der Zeit ist,"
+471,"00:39:23,280","00:39:29,280",2363.28,2369.28,6.0,"dann ist die Aktion deshalb gekommen,"
+472,"00:39:29,400","00:39:34,400",2369.4,2374.4,5.0,"weil ganz viele einzelne Faktoren sich so verändert hatten,"
+473,"00:39:34,480","00:39:38,320",2374.48,2378.32,3.8400000000001455,"dass das was Israel schon lange vorhat,"
+474,"00:39:38,400","00:39:42,600",2378.4,2382.6,4.199999999999818,"nämlich diesen Weg der Zerstörung zu gehen,"
+475,"00:39:42,680","00:39:48,120",2382.68,2388.12,5.440000000000055,"nun realisieren konnte,"
+476,"00:39:50,560","00:39:55,760",2390.56,2395.76,5.200000000000273,"einer der Faktoren ist jedoch,"
+477,"00:39:55,800","00:39:59,240",2395.8,2399.24,3.4399999999996,"dass diesmal eine amerikanischer Präsident da ist,"
+478,"00:39:59,280","00:40:02,960",2399.28,2402.96,3.6799999999998363,"der sich durchsetzen will, und sagt das macht er nicht."
+479,"00:40:03,000","00:40:05,560",2403.0,2405.56,2.5599999999999454,Im Gegensatz zu seinen Vorgängern.
+480,"00:40:05,560","00:40:10,160",2405.56,2410.16,4.599999999999909,"ML: in der grundlegenden Analyse, stimmen Sie mit Azadeh Zamirirad"
+481,"00:40:10,160","00:40:15,080",2410.16,2415.08,4.920000000000073,ein.
+482,"00:40:22,600","00:40:26,160",2422.6,2426.16,3.5599999999999454,"Sie sagten gerade, stellen wir uns dieses Szenario vor. Dann könnte man"
+483,"00:40:26,200","00:40:34,120",2426.2,2434.12,7.920000000000073,diese Hisbollah zum Beispiel unter atomaren Schirm setzen.
+484,"00:40:35,240","00:40:38,640",2435.24,2438.64,3.400000000000091,"Dann würden die anderen Kräfte im Nahen Osten sagen, das machen wir"
+485,"00:40:38,680","00:40:44,400",2438.68,2444.4,5.720000000000255,"auch, das macht die Welt zu einem besseren Ort."
+486,"00:40:44,440","00:40:48,920",2444.44,2448.92,4.480000000000018,"Und sie sagen es ist nicht bewiesen, dass Iran eine Atommacht werden"
+487,"00:40:48,960","00:40:49,960",2448.96,2449.96,1.0,will?
+488,"00:40:51,120","00:40:53,680",2451.12,2453.68,2.5599999999999454,AZ: Ich würde das ganze noch mal präzisieren wollen.
+489,"00:40:53,800","00:40:56,960",2453.8,2456.96,3.1599999999998545,"Wo gibt es Spekulation, wo gibt's technische Einschätzungen."
+490,"00:40:57,080","00:40:59,120",2457.08,2459.12,2.0399999999999636,"Was wir wissen, erwiesenermaßen,"
+491,"00:40:59,160","00:41:04,840",2459.16,2464.84,5.680000000000291,"was noch mal bestätigt worden ist, dass der Iran zwischen 1998-2003"
+492,"00:41:04,920","00:41:11,080",2464.92,2471.08,6.1599999999998545,ein strukturiertes nukleares Waffenprogramm hatte.
+493,"00:41:11,080","00:41:18,880",2471.08,2478.88,7.800000000000182,"ML: 2003, ist lange her."
+494,"00:41:18,880","00:41:20,880",2478.88,2480.88,2.0,AZ: Jetzt wird es kompliziert.
+495,"00:41:20,960","00:41:26,360",2480.96,2486.36,5.400000000000091,"Ein strukturiertes waffenrelevantes Programm,"
+496,"00:41:26,440","00:41:30,160",2486.44,2490.16,3.7199999999998,"d. h. nicht dass es entscheidend ist zum Bau von Waffen,"
+497,"00:41:30,240","00:41:33,120",2490.24,2493.12,2.880000000000109,aber das legen Sie sich nicht einfach so zu.
+498,"00:41:33,160","00:41:34,920",2493.16,2494.92,1.7600000000002183,"Wir sehen jetzt nach 2015,"
+499,"00:41:35,000","00:41:38,040",2495.0,2498.04,3.0399999999999636,"es gibt ein unternationales Atomwaffenabkommen,"
+500,"00:41:38,120","00:41:44,440",2498.12,2504.44,6.320000000000164,"wir hatten internationale Einigkeit,"
+501,"00:41:46,760","00:41:52,240",2506.76,2512.24,5.479999999999563,"Deutschland, Russland, Frankreich, Italien, die USA"
+502,"00:41:52,320","00:42:00,080",2512.32,2520.08,7.7599999999997635,"als wichtige Akteure, die sich auf einen Abkommen einigen."
+503,"00:42:00,360","00:42:06,600",2520.36,2526.6,6.239999999999782,"ML: noch mal wichtig, dass ist 2015."
+504,"00:42:06,680","00:42:10,560",2526.68,2530.56,3.880000000000109,"Ich lese immer wieder den Satz, das was wir 2015 hatten, war das Beste"
+505,"00:42:10,600","00:42:12,280",2530.6,2532.28,1.680000000000291,was wir bisher hatten.
+506,"00:42:15,200","00:42:19,080",2535.2,2539.08,3.880000000000109,AZ: da gibt es natürlich unterschiedliche Einschätzung zu.
+507,"00:42:19,160","00:42:25,520",2539.16,2545.52,6.360000000000127,"2018 ziehen sich die Trump Administration zurück,"
+508,"00:42:25,600","00:42:28,320",2545.6,2548.32,2.7200000000002547,"und der Iran hat klargestellt,"
+509,"00:42:28,400","00:42:32,200",2548.4,2552.2,3.799999999999727,sie halten sich nicht mehr an die Vereinbarungen.
+510,"00:42:32,280","00:42:36,200",2552.28,2556.2,3.919999999999618,"Was wir seitdem erlebt haben ist eine massive Anreicherung,"
+511,"00:42:36,280","00:42:38,200",2556.28,2558.2,1.919999999999618,auf 60 % angereichert.
+512,"00:42:38,280","00:42:43,280",2558.28,2563.28,5.0,Es nur noch ein kleiner Sprung auf die 90 %.
+513,"00:42:43,360","00:42:45,160",2563.36,2565.16,1.7999999999997272,Der Iran experimentiert mit verschiedenen Metallen.
+514,"00:42:45,160","00:42:47,040",2565.16,2567.04,1.8800000000001091,ML: Tausende drehen sich da.
+515,"00:42:51,720","00:42:58,360",2571.72,2578.36,6.640000000000327,AZ: Vielmehr Zentrifugen als erlaubt sind.
+516,"00:42:58,440","00:43:00,480",2578.44,2580.48,2.0399999999999636,Das sind alles Verstöße gegen das Abkommen.
+517,"00:43:00,480","00:43:03,360",2580.48,2583.36,2.880000000000109,"ML: hat angekündigt, eine dritte Anlage aufzubauen."
+518,"00:43:14,360","00:43:18,160",2594.36,2598.16,3.799999999999727,AZ: Iran hat mittlerweile mehr als 8000 Kilo
+519,"00:43:18,200","00:43:20,560",2598.2,2600.56,2.3600000000001273,Urantexter Floridas angereichert.
+520,"00:43:20,640","00:43:25,680",2600.64,2605.68,5.039999999999964,Hier geschieht ganz offensichtlich eine Dringlichkeitsbehandlung.
+521,"00:43:25,760","00:43:28,520",2605.76,2608.52,2.7599999999997635,"Wir wissen ohne Zweifel,"
+522,"00:43:28,640","00:43:35,040",2608.64,2615.04,6.400000000000091,dass der Iran ein nuklearer Schwellenstadt bleiben möchte.
+523,"00:43:35,080","00:43:37,360",2615.08,2617.36,2.2800000000002,"Ein Staat, dass die Kapazität hat,"
+524,"00:43:37,440","00:43:41,320",2617.44,2621.32,3.880000000000109,innerhalb kurzer Zeit bei Bedarf Atomwaffen zu produzieren.
+525,"00:43:41,400","00:43:43,160",2621.4,2623.16,1.7599999999997635,Die technischen Kapazitäten
+526,"00:43:43,240","00:43:48,240",2623.24,2628.24,5.0,sind bereits da.
+527,"00:43:48,480","00:43:56,280",2628.48,2636.28,7.800000000000182,"Das bis dahin noch dauert, ist das was häufig untergeht."
+528,"00:43:59,760","00:44:05,840",2639.76,2645.84,6.079999999999927,"Bis zum Bau der tatsächlichen Bomben, fehlt noch viel."
+529,"00:44:05,920","00:44:09,560",2645.92,2649.56,3.6399999999998727,"Waffendesigns, Tests von entsprechenden Sprengkörpern,"
+530,"00:44:09,640","00:44:13,400",2649.64,2653.4,3.7600000000002183,"da gibt es unterschiedliche Schätzungen,"
+531,"00:44:13,480","00:44:15,760",2653.48,2655.76,2.2800000000002,wie lange das dauern würde.
+532,"00:44:15,840","00:44:20,800",2655.84,2660.8,4.960000000000036,"Netanjahu spricht von einem Jahr, bis paar Monaten."
+533,"00:44:20,880","00:44:26,440",2660.88,2666.44,5.559999999999945,"Hieran ist ein nuklearer Schwellen statt,"
+534,"00:44:26,480","00:44:29,880",2666.48,2669.88,3.400000000000091,"d. h. das Wissen dass sich Iran angeeignet hat,"
+535,"00:44:30,000","00:44:35,200",2670.0,2675.2,5.199999999999818,kann sie nicht respektlos behalten behandeln.
+536,"00:44:35,280","00:44:41,960",2675.28,2681.96,6.679999999999836,"Wir sagen, es gibt keine Anzeichen dafür,"
+537,"00:44:42,600","00:44:46,600",2682.6,2686.6,4.0,in die tatsächlich taktische Bewaffnung zu gehen.
+538,"00:44:46,680","00:44:52,280",2686.68,2692.28,5.600000000000364,Das wurde auch bestätigt.
+539,"00:45:00,960","00:45:04,920",2700.96,2704.92,3.9600000000000364,"ML: es ist gut, dass man so sauber zu erklären. Eine Sache zu ergänzen,"
+540,"00:45:05,000","00:45:06,520",2705.0,2706.52,1.5199999999999818,408 408 kg ungefähr.
+541,"00:45:06,840","00:45:12,560",2706.84,2712.56,5.7199999999998,AZ: Auf 60 % angereichert.
+542,"00:45:23,240","00:45:27,120",2723.24,2727.12,3.880000000000109,"- Wichtig zu verstehen, sie brauchen das nur für zivile Nutzung, dafür"
+543,"00:45:27,160","00:45:32,640",2727.16,2732.64,5.480000000000018,"bräuchte man nur vier,"
+544,"00:45:33,360","00:45:40,760",2733.36,2740.76,7.400000000000091,"zweiter Punkt, Hiroshima Bombe hatte damals 64 Kilo."
+545,"00:45:51,080","00:45:52,920",2751.08,2752.92,1.8400000000001455,AZ: Den Punkt wollte ich noch machen.
+546,"00:45:53,000","00:45:54,920",2753.0,2754.92,1.9200000000000728,"Wenn wir präzise bleiben wollen,"
+547,"00:45:55,000","00:46:02,240",2755.0,2762.24,7.239999999999782,ist es notwendig es auseinander zu differenzieren.
+548,"00:46:02,560","00:46:06,280",2762.56,2766.28,3.7200000000002547,"Es ist vollkommen inakzeptabel, was der Iran durchführt."
+549,"00:46:06,400","00:46:07,880",2766.4,2767.88,1.4800000000000182,Es ist Anlass zur Sorge.
+550,"00:46:07,960","00:46:13,520",2767.96,2773.52,5.559999999999945,Es muss anders behandelt werden.
+551,"00:46:13,600","00:46:19,400",2773.6,2779.4,5.800000000000182,"Es führt zu Konsens, dass man das ändern muss."
+552,"00:46:19,480","00:46:21,920",2779.48,2781.92,2.4400000000000546,"Die Frage ist, war das der Moment,"
+553,"00:46:22,000","00:46:28,480",2782.0,2788.48,6.480000000000018,"waren das die richtigen Mittel, das effektiv zu tun?"
+554,"00:46:28,480","00:46:29,520",2788.48,2789.52,1.0399999999999636,ML:
+555,"00:46:29,520","00:46:33,120",2789.52,2793.12,3.599999999999909,Sie dürfen sofort Herr Gerlach. Heute kommt Friedrich Merz um die
+556,"00:46:33,200","00:46:34,800",2793.2,2794.8,1.6000000000003638,"Ecke, sagte Drecksarbeit."
+557,"00:46:34,840","00:46:36,520",2794.84,2796.52,1.6799999999998363,Dass der Kontext:
+558,"00:46:37,600","00:46:41,480",2797.6,2801.48,3.880000000000109,"- Das ist die Drecksarbeit, die Israel macht, für uns alle."
+559,"00:46:41,560","00:46:44,280",2801.56,2804.28,2.7200000000002547,Wir sind von diesem Regime auch betroffen.
+560,"00:46:44,360","00:46:48,680",2804.36,2808.68,4.319999999999709,Dieses Mullahregime hat Tod und Zerstörung über die Welt gebracht.
+561,"00:46:48,760","00:46:50,520",2808.76,2810.52,1.7599999999997635,"Ich kann nur sagen,"
+562,"00:46:50,600","00:46:57,440",2810.6,2817.44,6.8400000000001455,"größten Respekt davor, dass die israelische Armee den Mut dazu hat,"
+563,"00:46:57,520","00:47:00,360",2817.52,2820.36,2.8400000000001455,"das zu machen,"
+564,"00:47:00,480","00:47:08,920",2820.48,2828.92,8.440000000000055,wir hätten sonst Monate und Jahre diesen Terror des Regimes gesehen.
+565,"00:47:11,480","00:47:12,480",2831.48,2832.48,1.0,ML:
+566,"00:47:12,520","00:47:15,360",2832.52,2835.36,2.8400000000001455,"größten Respekt, so sagte er es. Was antworten Sie?"
+567,"00:47:16,680","00:47:20,600",2836.68,2840.6,3.9200000000000728,"DG: Gar nichts, da wird das was ich vorhin beschrieben hat."
+568,"00:47:20,680","00:47:21,600",2840.68,2841.6,0.9200000000000728,Da
+569,"00:47:21,680","00:47:22,200",2841.68,2842.2,0.5199999999999818,"Dss der Effekt, den ich versucht darzulegen."
+570,"00:47:27,120","00:47:30,600",2847.12,2850.6,3.480000000000018,"Ich habe bisher keine abweichende Position davon gehört, ich habe aber"
+571,"00:47:30,720","00:47:36,560",2850.72,2856.56,5.8400000000001455,andere wesentlich kritischere
+572,"00:47:39,080","00:47:39,960",2859.08,2859.96,0.8800000000001091,"Botschaften, zum Beispiel von Macron Gehört."
+573,"00:47:39,960","00:47:49,560",2859.96,2869.56,9.599999999999909,ML: Wie erklären Sie sich das?
+574,"00:47:49,560","00:47:57,760",2869.56,2877.76,8.200000000000273,"Merz hat es so beschrieben, es gibt eine Interessenskonvergenz."
+575,"00:48:00,080","00:48:03,880",2880.08,2883.88,3.800000000000182,"Es ist im Interesse in der globalen Auseinandersatzung, dass das Regime"
+576,"00:48:04,000","00:48:09,480",2884.0,2889.48,5.480000000000018,in Iran geschwächt wird.
+577,"00:48:09,880","00:48:13,200",2889.88,2893.2,3.319999999999709,"Man weiß nicht, ob das Regime gestützt werden kann, da gibt es"
+578,"00:48:13,280","00:48:19,320",2893.28,2899.32,6.039999999999964,unterschiedliche Einschätzungen.
+579,"00:48:21,320","00:48:24,440",2901.32,2904.44,3.119999999999891,"Ich glaube es ist wichtig zu verstehen, dass die iranische"
+580,"00:48:24,480","00:48:30,840",2904.48,2910.84,6.360000000000127,Haltung sich ein wenig geändert hat.
+581,"00:48:32,320","00:48:36,840",2912.32,2916.84,4.519999999999982,"In der Erfahrung mit Israel, in Erfahrung des Zusammenbruchs eigener"
+582,"00:48:36,880","00:48:41,840",2916.88,2921.84,4.960000000000036,Stützen.
+583,"00:48:44,920","00:48:48,480",2924.92,2928.48,3.5599999999999454,"Ich glaube Iran hat versucht, mit dem Thema Schwellenstaat, mit dem"
+584,"00:48:48,560","00:48:54,360",2928.56,2934.36,5.800000000000182,"Thema Anreicherung von Uran,"
+585,"00:48:56,160","00:49:02,520",2936.16,2942.52,6.360000000000127,ein strategisches Element zu nutzen.
+586,"00:49:15,280","00:49:18,880",2955.28,2958.88,3.599999999999909,"Man ist davon ausgegangen, dass man allein durch die Drohung in der Lage"
+587,"00:49:18,960","00:49:20,840",2958.96,2960.84,1.8800000000001091,"ist, Uran weiter einzureichen,"
+588,"00:49:20,960","00:49:26,280",2960.96,2966.28,5.320000000000164,eine Fahndungsebene mit den Amerikanern zu erreichen.
+589,"00:49:26,360","00:49:33,280",2966.36,2973.28,6.920000000000073,Dass man den atomaren Status anders bewertet.
+590,"00:49:39,600","00:49:43,120",2979.6,2983.12,3.519999999999982,"Das selbst ein Staat wie Russland Krieg führen kann, ohne dass Atom"
+591,"00:49:43,200","00:49:48,880",2983.2,2988.88,5.680000000000291,Waffen zum Einsatz kommen.
+592,"00:50:04,560","00:50:08,000",3004.56,3008.0,3.4400000000000546,"In dem Moment in dem einige dieser Säulen wegbrechen, gibt es einige"
+593,"00:50:08,080","00:50:12,520",3008.08,3012.52,4.440000000000055,"die sagen, Nuklearbewaffnung ist das einzige was uns gegen einen Angriff"
+594,"00:50:12,600","00:50:17,520",3012.6,3017.52,4.920000000000073,schützt.
+595,"00:50:22,120","00:50:25,400",3022.12,3025.4,3.2800000000002,"Es bringt den Iranern nichts, denn selbst wenn sie eine Atomwaffe"
+596,"00:50:25,480","00:50:33,040",3025.48,3033.04,7.559999999999945,"hätten, hätten sie nicht die Systeme um sie einzusetzen."
+597,"00:50:35,120","00:50:39,120",3035.12,3039.12,4.0,"Ich glaube dass das iranische Regime beraten, ein gravierender Fehler ist"
+598,"00:50:39,160","00:50:44,320",3039.16,3044.32,5.160000000000309,Ihnen unterlaufen.
+599,"00:50:44,440","00:50:48,480",3044.44,3048.48,4.039999999999964,"Ich kann ich in diese Köpfe reinschauen, aber ich bin oft in"
+600,"00:50:48,520","00:50:53,520",3048.52,3053.52,5.0,Teheran gewesen.
+601,"00:50:57,720","00:51:01,760",3057.72,3061.76,4.040000000000418,"Ich hatte den Eindruck, sie glauben die Signale die sie senden kommen"
+602,"00:51:01,760","00:51:02,320",3061.76,3062.32,0.5599999999999454,"Sie überlegen sich Botschaften, Schritte,"
+603,"00:51:02,320","00:51:07,080",3062.32,3067.08,4.7599999999997635,an.
+604,"00:51:07,080","00:51:23,800",3067.08,3083.8,16.720000000000255,"in Washington, in Moskau wird verstanden."
+605,"00:51:23,800","00:51:26,920",3083.8,3086.92,3.119999999999891,"Man befindet sich in einer eigenen Welt der Kommunikation, und"
+606,"00:51:27,000","00:51:30,080",3087.0,3090.08,3.0799999999999272,unterschätzt dass die anderen Weltmächte nicht bereit sind auf
+607,"00:51:30,160","00:51:32,680",3090.16,3092.68,2.519999999999982,derselben Ebene mit Ihnen zu spielen.
+608,"00:51:32,760","00:51:35,840",3092.76,3095.84,3.0799999999999272,"Man dachte wenn man dieses Atomprogramm so weit aufbaut, kommen"
+609,"00:51:35,920","00:51:42,720",3095.92,3102.72,6.799999999999727,die Amerikaner und wollen Gespräche führen.
+610,"00:51:59,160","00:52:01,000",3119.16,3121.0,1.8400000000001455,"Glaube diese Kosten für diese Regime,"
+611,"00:52:01,040","00:52:04,440",3121.04,3124.44,3.400000000000091,"eine Atommacht zu werden sind so hoch, dass man sich's eher zum Ziel"
+612,"00:52:04,520","00:52:07,600",3124.52,3127.6,3.0799999999999272,selber macht als einen Angriff selbst zu verhindern.
+613,"00:52:08,120","00:52:10,400",3128.12,3130.4,2.2800000000002,"ML: Hat Herr Engel recht, wenn er sagt,"
+614,"00:52:10,520","00:52:13,480",3130.52,3133.48,2.9600000000000364,jetzt sitzen wir hier und moralisieren wieder.
+615,"00:52:13,560","00:52:19,960",3133.56,3139.96,6.400000000000091,"Israel wird als Störenfried bezeichnet,"
+616,"00:52:20,080","00:52:22,160",3140.08,3142.16,2.0799999999999272,"aber es ist in Wahrheit der Iran,"
+617,"00:52:22,200","00:52:25,120",3142.2,3145.12,2.9200000000000728,der Israel von der Landkarte ausradieren möchte.
+618,"00:52:25,160","00:52:30,120",3145.16,3150.12,4.960000000000036,Nervt Sie das?
+619,"00:52:30,600","00:52:34,040",3150.6,3154.04,3.4400000000000546,"PE: das nervt. Aber das ist nicht das Problem, wir sind als deutsche"
+620,"00:52:34,080","00:52:39,440",3154.08,3159.44,5.360000000000127,"sehr stark darin zu gedenken, nie wieder Antisemitismus."
+621,"00:52:39,480","00:52:47,560",3159.48,3167.56,8.079999999999927,Ich ich will das eine nicht gegen das andere nicht ausspielen.
+622,"00:52:57,080","00:53:00,600",3177.08,3180.6,3.519999999999982,"Aber wir sind auf politischer und medialer Ebene, stark dabei, es gibt"
+623,"00:53:00,640","00:53:04,400",3180.64,3184.4,3.7600000000002183,"diese Stoßrichtung, sie tut wird aber ich muss sie sagen."
+624,"00:53:04,480","00:53:11,320",3184.48,3191.32,6.8400000000001455,"Wir sind stark dabei, Jerusalem zu belehren."
+625,"00:53:12,080","00:53:16,480",3192.08,3196.48,4.400000000000091,"Gründe zu belehren, warum der israelische Staat sich nicht wehren"
+626,"00:53:16,560","00:53:21,480",3196.56,3201.48,4.920000000000073,darf.
+627,"00:53:28,880","00:53:32,280",3208.88,3212.28,3.400000000000091,Ich halte das für eine Fehlleistung. Der Platz in der Analyse meiner
+628,"00:53:32,360","00:53:36,400",3212.36,3216.4,4.039999999999964,"journalistischen Kollegen, der muss an der Seite Israels sein."
+629,"00:53:36,480","00:53:38,760",3216.48,3218.76,2.2800000000002,Es sind viele Sachen komplex.
+630,"00:53:38,840","00:53:45,160",3218.84,3225.16,6.319999999999709,Aber dieses Thema ist nicht komplex.
+631,"00:53:53,960","00:53:57,920",3233.96,3237.92,3.9600000000000364,"Das iranische Regime ist das böse, das weiß auch Israel, die Regierung"
+632,"00:53:58,000","00:53:59,240",3238.0,3239.24,1.2399999999997817,und die Bevölkerung
+633,"00:54:03,200","00:54:07,000",3243.2,3247.0,3.800000000000182,"ML: Die Kollegen die sagen, das soll keine Schelte sein,"
+634,"00:54:07,080","00:54:09,320",3247.08,3249.32,2.2400000000002365,"die argumentieren, das Völkerrecht."
+635,"00:54:09,400","00:54:15,200",3249.4,3255.2,5.799999999999727,"Völkerrechtler sind wichtig,"
+636,"00:54:20,920","00:54:26,160",3260.92,3266.16,5.239999999999782,"allein der Umstand, dass sie über Nuklearwaffen verfügen,"
+637,"00:54:26,240","00:54:29,480",3266.24,3269.48,3.2400000000002365,rechtfertigt kein Angriffspunkt sie stellen gerade
+638,"00:54:29,560","00:54:34,560",3269.56,3274.56,5.0,so den klassischen Fall eines verbotenen Präventivschlages dar.
+639,"00:54:34,560","00:54:38,160",3274.56,3278.16,3.599999999999909,"PE: bisschen polemisch, die Israelis sollen in Schönheit sterben, damit"
+640,"00:54:38,160","00:54:41,200",3278.16,3281.2,3.0399999999999636,wir als Deutsche wieder dem Holocaust gedenken können.
+641,"00:54:41,800","00:54:48,120",3281.8,3288.12,6.319999999999709,"ML: Kai Ambos zum Beispiel sagt,..."
+642,"00:54:49,120","00:54:56,360",3289.12,3296.36,7.2400000000002365,PE: Die Völkerrechtler sprechen mit einer Stimme.
+643,"00:54:57,320","00:55:00,920",3297.32,3300.92,3.599999999999909,"PE: die einen sagen so, die anderen so irgendwie haben beide recht. Das"
+644,"00:55:01,000","00:55:02,840",3301.0,3302.84,1.8400000000001455,ist auch im Völkerrecht so.
+645,"00:55:04,440","00:55:06,400",3304.44,3306.4,1.9600000000000364,ML: Was dahinter steht ist was anderes.
+646,"00:55:06,480","00:55:10,480",3306.48,3310.48,4.0,"Die Frage, wo kommen wir hin, das erleben wir gerade weltweit,"
+647,"00:55:10,600","00:55:15,280",3310.6,3315.28,4.680000000000291,wenn man sich das Recht des stärkeren nimmt.
+648,"00:55:15,360","00:55:20,240",3315.36,3320.24,4.879999999999654,"Das ist die Frage und Sorge, die dahinter steckt."
+649,"00:55:20,240","00:55:23,720",3320.24,3323.72,3.480000000000018,"PE: nicht das Recht des stärkeren, was ich sagen möchte, dass diese"
+650,"00:55:23,720","00:55:26,320",3323.72,3326.32,2.600000000000364,Frage nicht abschließend beantwortet ist.
+651,"00:55:26,360","00:55:33,120",3326.36,3333.12,6.7599999999997635,Es geht ein Riss durch die Völkerrechtler.
+652,"00:55:40,600","00:55:43,880",3340.6,3343.88,3.2800000000002,"Ein Politiker zur CDU sagte, Iran hatte längst den Krieg erklärt,"
+653,"00:55:43,960","00:55:51,360",3343.96,3351.36,7.400000000000091,deswegen ist es legitim dass Israel Angriffe fliegt.
+654,"00:56:05,280","00:56:09,160",3365.28,3369.16,3.8799999999996544,"Nur so als Gedanke wenn er nicht völkerrechtlich richtig ist, der"
+655,"00:56:09,240","00:56:13,360",3369.24,3373.36,4.120000000000346,"atomar bewaffnete I ran kann dadurch unantastbar werden, das dürfen wir"
+656,"00:56:13,440","00:56:14,600",3373.44,3374.6,1.1599999999998545,nicht riskieren.
+657,"00:56:18,320","00:56:23,880",3378.32,3383.88,5.559999999999945,ML: Hat er einen Punkt.
+658,"00:56:29,680","00:56:34,880",3389.68,3394.88,5.200000000000273,"Wir moralisieren,"
+659,"00:56:35,680","00:56:42,480",3395.68,3402.48,6.800000000000182,"NR: die letzten zehn Jahre, das Atomabkommen wurde genannt. Das"
+660,"00:56:42,560","00:56:46,000",3402.56,3406.0,3.4400000000000546,"war ein Resultat der europäischen Staaten,"
+661,"00:56:52,760","00:56:56,560",3412.76,3416.56,3.799999999999727,NR: Unsere Nahostpolitik war eigentlich ein Totalausfall.
+662,"00:56:56,640","00:57:00,160",3416.64,3420.16,3.519999999999982,Wir sind viel zu wenig präsent.
+663,"00:57:00,240","00:57:04,640",3420.24,3424.64,4.400000000000091,"Immer wenn irgend was ist, haben wir eine völkerrechtliche Meinung,"
+664,"00:57:04,720","00:57:06,640",3424.72,3426.64,1.9200000000000728,"aber wir sind kein Akteur,"
+665,"00:57:06,680","00:57:10,360",3426.68,3430.36,3.680000000000291,obwohl wir in unseren Interessen so massiv berührt sind.
+666,"00:57:10,440","00:57:14,760",3430.44,3434.76,4.320000000000164,Auch was speziell die Iran Politik angeht.
+667,"00:57:14,840","00:57:19,920",3434.84,3439.92,5.079999999999927,"Das sichtbare verzögern auf die Protestbewegung der Frauen,"
+668,"00:57:20,000","00:57:22,720",3440.0,3442.72,2.7199999999998,"durch die damalige deutsche Außenminister,"
+669,"00:57:22,800","00:57:25,200",3442.8,3445.2,2.399999999999636,hat damals eigentlich alles gesagt.
+670,"00:57:25,280","00:57:30,520",3445.28,3450.52,5.239999999999782,Das passt ihnen nicht in den Kram.
+671,"00:57:30,640","00:57:37,040",3450.64,3457.04,6.400000000000091,Einer deutschen und europäischen Ostpolitik.
+672,"00:57:37,120","00:57:40,360",3457.12,3460.36,3.2400000000002365,Die sich von einer sehr klugen iranischen Führung
+673,"00:57:40,440","00:57:46,760",3460.44,3466.76,6.320000000000164,an der Nase hat herumführen lassen.
+674,"00:57:49,440","00:57:52,160",3469.44,3472.16,2.7199999999998,"Es wird mit den Verhandlungen schwierig,"
+675,"00:57:52,240","00:57:56,360",3472.24,3476.36,4.120000000000346,wenn man sich nicht einigen kann.
+676,"00:57:56,360","00:58:05,920",3476.36,3485.92,9.559999999999945,"ML: was wären denn die konkrete Antwort gewesen, was wir tun sollen?"
+677,"00:58:05,920","00:58:10,600",3485.92,3490.6,4.679999999999836,"NR: Dass Deutschland sich alle Mühe gibt,"
+678,"00:58:10,720","00:58:14,760",3490.72,3494.76,4.040000000000418,dass wir nicht mehr der größte Handelspartner des Irans sind.
+679,"00:58:14,840","00:58:19,960",3494.84,3499.96,5.119999999999891,"Das wird Druck gemacht hätten,"
+680,"00:58:20,040","00:58:23,280",3500.04,3503.28,3.2400000000002365,und die iranischen Guarde als Terror Organisation
+681,"00:58:23,360","00:58:25,200",3503.36,3505.2,1.8399999999996908,auf die Liste gesetzt hätten.
+682,"00:58:25,320","00:58:32,880",3505.32,3512.88,7.559999999999945,"Dass wir das Thema nicht aufgeben, sondern dranbleiben."
+683,"00:58:33,920","00:58:38,360",3513.92,3518.36,4.440000000000055,Der Iran ist wahrscheinlich der Spitzenreiter von Exekutionen.
+684,"00:58:38,440","00:58:40,040",3518.44,3520.04,1.599999999999909,"Wir reden darüber nicht,"
+685,"00:58:40,120","00:58:46,240",3520.12,3526.24,6.119999999999891,weil wir das Atomabkommen wollen.
+686,"00:58:49,200","00:58:51,840",3529.2,3531.84,2.6400000000003274,Darum wurde jahrelang leise getreten.
+687,"00:58:51,920","00:58:56,920",3531.92,3536.92,5.0,"Die Atombombe muss man verhindern, dass er mir auch mitgeteilt,"
+688,"00:58:57,000","00:59:02,840",3537.0,3542.84,5.8400000000001455,"und da gibt es nur einen Weg, das verhandeln."
+689,"00:59:02,960","00:59:04,880",3542.96,3544.88,1.9200000000000728,"Es gibt also nicht den 2. Weg,"
+690,"00:59:04,960","00:59:08,000",3544.96,3548.0,3.0399999999999636,der jetzt die Politik und das Militär bestimmt.
+691,"00:59:08,120","00:59:13,200",3548.12,3553.2,5.079999999999927,Der hat große Schwierigkeiten.
+692,"00:59:13,320","00:59:16,720",3553.32,3556.72,3.399999999999636,"Wenn man sagt, wir werden mit euch verhandeln,"
+693,"00:59:16,800","00:59:23,760",3556.8,3563.76,6.960000000000036,"und ergeben euch allezeit, hat die Regierung auf Zeit gespielt."
+694,"00:59:23,840","00:59:31,400",3563.84,3571.4,7.559999999999945,Die Europäer haben das Spiel auf Zeit immer mitgespielt.
+695,"00:59:47,280","00:59:48,280",3587.28,3588.28,1.0,ML:
+696,"00:59:48,360","00:59:51,440",3588.36,3591.44,3.0799999999999272,es ist ein Spiel? Ich war vor ein paar Wochen selber in Syrien
+697,"00:59:51,480","00:59:56,080",3591.48,3596.08,4.599999999999909,"unterwegs, und wenn man gesagt hatte gegen Assad Sanktionen müssen wir"
+698,"00:59:56,200","00:59:57,080",3596.2,3597.08,0.8800000000001091,machen.
+699,"00:59:57,160","01:00:01,880",3597.16,3601.88,4.720000000000255,"Den Satz sich oft hörte, bitte keine Sanktion, das betrifft unser eigenes"
+700,"01:00:01,960","01:00:06,880",3601.96,3606.88,4.920000000000073,Leben.
+701,"01:00:15,880","01:00:19,160",3615.88,3619.16,3.2799999999997453,"Beides immer die Zwickmühle, der deutschen Politik, dass man dann"
+702,"01:00:19,240","01:00:23,280",3619.24,3623.28,4.040000000000418,"nicht das Regime trifft, sondern die Zivilbevölkerung, was ist die"
+703,"01:00:23,360","01:00:24,400",3623.36,3624.4,1.0399999999999636,Situation gerade?
+704,"01:00:26,400","01:00:29,200",3626.4,3629.2,2.799999999999727,AZ: Vielleicht noch mal um ein paar Dinge
+705,"01:00:29,280","01:00:31,320",3629.28,3631.32,2.0399999999999636,in ein anderes Licht zu rücken.
+706,"01:00:31,400","01:00:34,480",3631.4,3634.48,3.0799999999999272,Deutschland ist nicht der größte Handelspartner des Irans.
+707,"01:00:34,480","01:00:35,360",3634.48,3635.36,0.8800000000001091,ML: unser Hebel ist also gar nicht so groß?
+708,"01:00:35,360","01:00:39,360",3635.36,3639.36,4.0,Es ist China.
+709,"01:00:39,360","01:00:42,960",3639.36,3642.96,3.599999999999909,AZ: In der EU ist Deutschland der größte Handelspartner.
+710,"01:00:43,080","01:00:47,520",3643.08,3647.52,4.440000000000055,"Das ist ungefähr das Handelsvolumen, dass wir mit Estland haben."
+711,"01:00:47,640","01:00:51,640",3647.64,3651.64,4.0,"Ich möchte das noch mal erwähnen, weil der Eindruck entsteht,"
+712,"01:00:51,760","01:00:54,000",3651.76,3654.0,2.2399999999997817,dass ein wesentlicher Handelspartner wären.
+713,"01:00:54,000","01:00:54,680",3654.0,3654.68,0.6799999999998363,ML: der Hebel ist also kleiner als unterstellt.
+714,"01:00:54,680","01:01:00,680",3654.68,3660.68,6.0,Das sind wir nicht.
+715,"01:01:00,680","01:01:04,240",3660.68,3664.24,3.5599999999999454,AZ: Faktisch haben wir keinen Hebel.
+716,"01:01:04,360","01:01:07,600",3664.36,3667.6,3.2399999999997817,"Die Frage, ob wir Revolutionsgarten auf die Terror"
+717,"01:01:07,680","01:01:09,400",3667.68,3669.4,1.7200000000002547,Liste hätten setzen sollen.
+718,"01:01:09,520","01:01:12,000",3669.52,3672.0,2.480000000000018,Wir sind schon auf der Liste.
+719,"01:01:12,080","01:01:18,160",3672.08,3678.16,6.079999999999927,"Das betrifft Reisebeschränkungen,"
+720,"01:01:19,480","01:01:26,080",3679.48,3686.08,6.599999999999909,"Strafverfahren, Unterstützung von Revolutionsgardeaktivisten,"
+721,"01:01:26,160","01:01:32,120",3686.16,3692.12,5.960000000000036,für mich sieht das hilflos aus.
+722,"01:01:32,240","01:01:33,760",3692.24,3693.76,1.5200000000004366,"Wir müssen schauen,"
+723,"01:01:33,840","01:01:42,000",3693.84,3702.0,8.159999999999854,inwiefern man den iranischen Staat schwächen statt stärken kann.
+724,"01:01:42,080","01:01:45,680",3702.08,3705.68,3.599999999999909,"Da gibt es sehr wohl Dinge, die wir hätten tun können."
+725,"01:01:45,800","01:01:52,680",3705.8,3712.68,6.879999999999654,"Da gehört zum einen Finanzkanäle zu eröffnen,"
+726,"01:01:53,120","01:01:57,000",3713.12,3717.0,3.880000000000109,wie es der iranischen Diaspora ermöglichen ihren
+727,"01:01:57,080","01:02:01,640",3717.08,3721.64,4.559999999999945,eigenen Angehörigen im Iran Geld zu überweisen.
+728,"01:02:01,760","01:02:08,720",3721.76,3728.72,6.959999999999582,"Geld, das während den Protesten gebraucht wurde."
+729,"01:02:08,800","01:02:13,960",3728.8,3733.96,5.1599999999998545,"Das ist ein schwieriges Unterfangen,"
+730,"01:02:14,040","01:02:18,760",3734.04,3738.76,4.720000000000255,"aber eines, für was wir uns nicht stark gemacht haben."
+731,"01:02:18,880","01:02:23,280",3738.88,3743.28,4.400000000000091,"Ich werde keine Bank finden in Europa,"
+732,"01:02:23,360","01:02:30,000",3743.36,3750.0,6.639999999999873,die das erlaubt ohne sekundär Sanktionen.
+733,"01:02:30,320","01:02:32,880",3750.32,3752.88,2.5599999999999454,Es gibt unterschiedliche Ausprägungen
+734,"01:02:32,960","01:02:34,520",3752.96,3754.52,1.5599999999999454,und Dimensionskonvention.
+735,"01:02:34,600","01:02:38,560",3754.6,3758.56,3.9600000000000364,Zielgerichtete Sanktionen
+736,"01:02:38,640","01:02:41,560",3758.64,3761.56,2.9200000000000728,im Zusammenhang mit Menschenrechtsverletzung
+737,"01:02:41,680","01:02:46,880",3761.68,3766.88,5.200000000000273,halte ich für absolut notwendig.
+738,"01:02:46,960","01:02:50,160",3766.96,3770.16,3.199999999999818,"Das ist ein Zeichen dafür,"
+739,"01:02:50,240","01:02:52,800",3770.24,3772.8,2.5600000000004,dass sie Menschenrechtsverletzung
+740,"01:02:52,920","01:02:59,800",3772.92,3779.8,6.880000000000109,im Iran nicht einfach so hingenommen werden.
+741,"01:03:00,120","01:03:07,440",3780.12,3787.44,7.320000000000164,Spätestens auf sektoralen Ebene wird das problematisch.
+742,"01:03:07,560","01:03:10,520",3787.56,3790.52,2.9600000000000364,"Die Kommunikationsbranche, der Energiesektor,"
+743,"01:03:10,600","01:03:16,640",3790.6,3796.64,6.039999999999964,"der ganze Bereich in der Automobilindustrie,"
+744,"01:03:16,720","01:03:20,360",3796.72,3800.36,3.6400000000003274,"vor allen der Finanz und Bankenbereich, der dazu führt,"
+745,"01:03:20,480","01:03:23,960",3800.48,3803.96,3.480000000000018,dass Finanztransaktionen gar nicht stattfinden können.
+746,"01:03:24,040","01:03:31,360",3804.04,3811.36,7.320000000000164,Selbst der Warenverkehr in den Iran wird behindert.
+747,"01:03:32,640","01:03:36,360",3812.64,3816.36,3.7200000000002547,"Um dringend benötigte Dinge in den Iran zu exportieren,"
+748,"01:03:36,440","01:03:38,760",3816.44,3818.76,2.3200000000001637,"finde ich kein Transportunternehmen,"
+749,"01:03:38,840","01:03:41,160",3818.84,3821.16,2.319999999999709,"ich finde kein Versicherungsunternehmen,"
+750,"01:03:41,280","01:03:44,240",3821.28,3824.24,2.9599999999995816,"was den Transport und die Ware versichert, das sind"
+751,"01:03:44,360","01:03:47,120",3824.36,3827.12,2.7599999999997635,die wahren Probleme der Bevölkerung.
+752,"01:03:47,240","01:03:49,120",3827.24,3829.12,1.8800000000001091,"Um das aber zusammenzufassen,"
+753,"01:03:49,240","01:03:53,520",3829.24,3833.52,4.2800000000002,ich glaube das sektorale Sanktion verheerende Folgen haben werden.
+754,"01:03:53,600","01:03:58,200",3833.6,3838.2,4.599999999999909,"Wir müssen verstärkt gucken,"
+755,"01:03:58,320","01:04:03,800",3838.32,3843.8,5.480000000000018,wie können wir die Bevölkerung direkt unterstützen.
+756,"01:04:03,920","01:04:06,880",3843.92,3846.88,2.9600000000000364,Zum Beispiel zur Massenbereitstellung von VPN.
+757,"01:04:07,000","01:04:10,760",3847.0,3850.76,3.7600000000002183,ML: Um der Zensur zu entgehen.
+758,"01:04:10,840","01:04:16,800",3850.84,3856.8,5.960000000000036,"Das ist das, was wir brauchen."
+759,"01:04:24,200","01:04:27,240",3864.2,3867.24,3.0399999999999636,"ML: das eine gute Formel, das was ich meinte der Satz der am"
+760,"01:04:27,360","01:04:31,760",3867.36,3871.76,4.400000000000091,"häufigsten kam, wir kriegen nicht die Medikamente für unsere Kinder."
+761,"01:04:31,840","01:04:34,920",3871.84,3874.92,3.0799999999999272,"Es ist nicht einfach, ein Regime empfindlich zu treffen."
+762,"01:04:37,640","01:04:38,960",3877.64,3878.96,1.3200000000001637,DG: Es ist hochinteressant.
+763,"01:04:39,080","01:04:40,640",3879.08,3880.64,1.5599999999999454,Ich stimme Ihnen völlig zu.
+764,"01:04:40,760","01:04:44,240",3880.76,3884.24,3.4799999999995634,Es ist eine Katastrophe gewesen in den letzten Jahren.
+765,"01:04:44,360","01:04:52,200",3884.36,3892.2,7.839999999999691,"Auch in den letzten Jahren, was den Krieg in Gaza betrifft."
+766,"01:04:58,360","01:05:01,640",3898.36,3901.64,3.2799999999997453,"DG: wenn Sie sagen, man hätte den Druck auf das iranische Regime"
+767,"01:05:01,800","01:05:05,800",3901.8,3905.8,4.0,"erhöhen müssen, ist die Frage welches finale Ziel verfolgt man"
+768,"01:05:05,920","01:05:09,280",3905.92,3909.28,3.3600000000001273,damit.
+769,"01:05:09,360","01:05:13,440",3909.36,3913.44,4.079999999999927,"Wie viel Kollateralschäden ist man bereits zu begehen, um welches Ziel"
+770,"01:05:13,560","01:05:20,120",3913.56,3920.12,6.559999999999945,zu erreichen. Darauf gab es keine klare Antwort.
+771,"01:05:20,240","01:05:27,200",3920.24,3927.2,6.960000000000036,"Was wir gerade hören, ist das Ziel, ein Regime zu ersetzen."
+772,"01:05:27,280","01:05:32,360",3927.28,3932.36,5.079999999999927,"Es zu schwächen,"
+773,"01:05:41,600","01:05:44,960",3941.6,3944.96,3.3600000000001273,"wir haben in der Vergangenheit gesehen, dass das iranische Regime,"
+774,"01:05:45,040","01:05:52,480",3945.04,3952.48,7.440000000000055,mit einer Armee oder einer paramilitärischen Einheit.
+775,"01:05:53,000","01:06:00,640",3953.0,3960.64,7.639999999999873,"Demonstration, und jeden Umsturzversuch im Zaum halten."
+776,"01:06:05,640","01:06:08,920",3965.64,3968.92,3.2800000000002,"Also die Hoffnung, dass Regime in eine Schwachposition zu pumpen,"
+777,"01:06:09,000","01:06:11,520",3969.0,3971.52,2.519999999999982,müssen sich nur noch die Leute erheben.
+778,"01:06:11,600","01:06:18,240",3971.6,3978.24,6.639999999999873,Ich glaube nicht dass es dazu kommen wird.
+779,"01:06:19,760","01:06:23,320",3979.76,3983.32,3.5599999999999454,"Viele Iraner lehnen diesen Angriff ab, und denken vielleicht ergibt"
+780,"01:06:23,440","01:06:29,120",3983.44,3989.12,5.679999999999836,sich eine Situation heraus.
+781,"01:06:39,720","01:06:43,120",3999.72,4003.12,3.400000000000091,"Wir hatten 1991 den Golfkrieg, als die Amerikaner mit militärischen"
+782,"01:06:43,200","01:06:49,760",4003.2,4009.76,6.5600000000004,Mitteln das irakische Regime zu Bomben.
+783,"01:06:59,440","01:07:02,480",4019.44,4022.48,3.0399999999999636,"Danach haben wir Sadam Hussein, die Aufstandsbewegung wurden"
+784,"01:07:02,600","01:07:07,160",4022.6,4027.16,4.559999999999945,"niedergeschlagen, und ein Teil der Bevölkerung wurde niedergeschlagen."
+785,"01:07:07,280","01:07:15,600",4027.28,4035.6,8.319999999999709,"Ein Punkt möchte noch nennen, es gibt Leute die wollen Recht haben."
+786,"01:07:22,240","01:07:24,520",4042.24,4044.52,2.2800000000002,"Es gibt LEute Die wollen analytisch diese Sache begreifen,"
+787,"01:07:24,520","01:07:33,640",4044.52,4053.64,9.11999999999989,"Das bedeutet auch, dass man nicht immer kohärent ist."
+788,"01:07:33,640","01:07:37,880",4053.64,4057.88,4.2400000000002365,"ich denke man muss anerkennen, dass das Regime in Teheran auch Angebote"
+789,"01:07:38,000","01:07:42,880",4058.0,4062.88,4.880000000000109,gemacht hat.
+790,"01:07:46,200","01:07:49,760",4066.2,4069.76,3.5600000000004,"Die man besser studieren kann, auf die man eingehen kann, auch wenn man"
+791,"01:07:49,840","01:07:55,000",4069.84,4075.0,5.1599999999998545,nicht vollkommen darauf vertraut dass sie ernst gemeint sind.
+792,"01:07:55,080","01:07:58,640",4075.08,4078.64,3.5599999999999454,"Man muss um gewaltsame Eskalation zu verhindern, mit manchen Akteuren"
+793,"01:07:58,760","01:08:04,320",4078.76,4084.32,5.559999999999945,eben ins Geschäft kommen.
+794,"01:08:14,760","01:08:23,520",4094.76,4103.52,8.760000000000218,"Es haben andere davor schon gemacht, dass sie mit Staaten in der Region,"
+795,"01:08:23,840","01:08:27,160",4103.84,4107.16,3.319999999999709,angefangen an einer regionalen Sicherheitsordnung für sich selbst
+796,"01:08:27,240","01:08:31,360",4107.24,4111.36,4.119999999999891,"zu sorgen, nur für sich selbst nicht für die Interessen anderer."
+797,"01:08:31,440","01:08:36,080",4111.44,4116.08,4.640000000000327,"Man hätte diese Wege auch schon auskundschaften können,"
+798,"01:08:36,160","01:08:43,280",4116.16,4123.28,7.119999999999891,"wo man Druck ausübt, wo man Arrangements trifft."
+799,"01:08:44,040","01:08:47,640",4124.04,4127.64,3.600000000000364,Denn die Alternative der militärischen Eskalation sollte man
+800,"01:08:47,800","01:08:49,760",4127.8,4129.76,1.9600000000000364,immer in Erwägung ziehen.
+801,"01:08:49,840","01:08:54,360",4129.84,4134.36,4.519999999999527,"Ich verstehe das die israelische Seite sagt, wir verlassen uns darauf"
+802,"01:08:54,440","01:08:59,360",4134.44,4139.36,4.920000000000073,nicht.
+803,"01:09:17,560","01:09:21,520",4157.56,4161.52,3.9600000000000364,"Europa und die USA verhandeln darüber, wie viele Menschenleben"
+804,"01:09:21,600","01:09:23,000",4161.6,4163.0,1.3999999999996362,"angemessen sind,"
+805,"01:09:23,080","01:09:25,840",4163.08,4165.84,2.7600000000002183,um ein politisches Ziel zu erreichen. In dieser sie dazu
+806,"01:09:25,920","01:09:29,240",4165.92,4169.24,3.319999999999709,"befinden wir uns, und das halte ich für gefährlich."
+807,"01:09:29,440","01:09:34,800",4169.44,4174.8,5.360000000000582,"Darin werden sich andere ein Beispiel nehmen,"
+808,"01:09:34,920","01:09:38,400",4174.92,4178.4,3.4799999999995634,das wird sich in den nächsten 20 Jahren eventuell verändern.
+809,"01:09:39,840","01:09:47,360",4179.84,4187.36,7.519999999999527,NR: Es geht nicht um irgendwelche politischen Ziele.
+810,"01:09:47,680","01:09:50,920",4187.68,4190.92,3.2399999999997817,"Dass es Zielkonflikte gibt, das ist völlig klar."
+811,"01:09:51,040","01:09:53,720",4191.04,4193.72,2.680000000000291,Darum sind unsere Möglichkeiten begrenzt.
+812,"01:09:53,840","01:09:57,840",4193.84,4197.84,4.0,Darum bleiben ökonomische Hebel da.
+813,"01:09:57,920","01:10:01,680",4197.92,4201.68,3.7600000000002183,"Natürlich ist es ein Instrument,"
+814,"01:10:01,800","01:10:04,680",4201.8,4204.68,2.880000000000109,was auch rechtliche Sanktion zu befolgen hat.
+815,"01:10:04,800","01:10:08,440",4204.8,4208.44,3.639999999999418,"Es gibt ein Zielkonflikt, das will ich nicht bestreiten."
+816,"01:10:08,520","01:10:12,560",4208.52,4212.56,4.039999999999964,Aber die Rolle des Irans muss man auch realistisch beschreiben.
+817,"01:10:12,840","01:10:16,680",4212.84,4216.68,3.8400000000001455,"Weil sie sagen, sie machen Angebote zu Sicherheitskooperation."
+818,"01:10:16,800","01:10:20,200",4216.8,4220.2,3.399999999999636,"Der Iran hat während er mit uns verhandelt hat,"
+819,"01:10:20,320","01:10:27,600",4220.32,4227.6,7.280000000000655,ein Terrornetz in der gesamten Regierung etabliert.
+820,"01:10:33,600","01:10:37,600",4233.6,4237.6,4.0,"Die Hisbollah wären nicht in Libanon ohne Iran,"
+821,"01:10:37,680","01:10:44,760",4237.68,4244.76,7.079999999999927,die Huthi Sphären nicht im Jemen ohne den Iran.
+822,"01:10:46,840","01:10:53,760",4246.84,4253.76,6.920000000000073,"Ein regionales bewusstgesteuertes Terrornetzwerk,"
+823,"01:10:53,880","01:10:57,440",4253.88,4257.44,3.5599999999994907,"nicht um irgendeinen Sicherheit Kooperation zu machen,"
+824,"01:10:57,560","01:11:00,040",4257.56,4260.04,2.4799999999995634,sondern zur Destabilisierung der Region
+825,"01:11:00,200","01:11:03,680",4260.2,4263.68,3.480000000000473,und einer eigenen dominanten Stellung in der Regierung
+826,"01:11:03,880","01:11:08,600",4263.88,4268.6,4.720000000000255,zu entstanden.
+827,"01:11:08,720","01:11:12,640",4268.72,4272.64,3.9200000000000728,Der Iran ist ein sehr bedeutender Waffen und Drohnenausrüster
+828,"01:11:12,760","01:11:17,840",4272.76,4277.84,5.079999999999927,in seinem Krieg gegen die Ukraine.
+829,"01:11:17,960","01:11:20,440",4277.96,4280.44,2.4799999999995634,"Und die Atomwaffen,"
+830,"01:11:20,520","01:11:24,600",4280.52,4284.6,4.079999999999927,"auch wenn es nur der Schwellenstatus aus,"
+831,"01:11:24,720","01:11:28,080",4284.72,4288.08,3.3599999999996726,"der Welt mitzuteilen, wie kann es jederzeit machen,"
+832,"01:11:28,240","01:11:32,520",4288.24,4292.52,4.280000000000655,"das hätte diese Position, nochmals erweitert."
+833,"01:11:32,640","01:11:37,520",4292.64,4297.52,4.880000000000109,Deshalb ist es aus meiner Sicht eine Friedensfrage.
+834,"01:11:37,640","01:11:40,480",4297.64,4300.48,2.839999999999236,"Darum stellt sich die Frage der Legitimität,"
+835,"01:11:40,600","01:11:46,560",4300.6,4306.56,5.960000000000036,wenn so viel auf dem Spiel steht.
+836,"01:11:46,640","01:11:51,280",4306.64,4311.28,4.639999999999418,Risiko ist immer das Produkt aus
+837,"01:11:51,400","01:11:59,200",4311.4,4319.2,7.800000000000182,dem möglichen Schaden und der Eintritts wahrscheinlichkeit.
+838,"01:12:05,360","01:12:09,200",4325.36,4329.2,3.8400000000001455,Der Schaden wäre enorm und die Eintrittswahrscheinlichkeit
+839,"01:12:09,280","01:12:14,280",4329.28,4334.28,5.0,ist enorm hoch.
+840,"01:12:24,440","01:12:28,960",4344.44,4348.96,4.520000000000437,"PE: ich gebe Ihnen recht, es braucht bei der Analyse mehr Mut zur"
+841,"01:12:29,040","01:12:33,960",4349.04,4353.96,4.920000000000073,Toleranz.
+842,"01:12:35,760","01:12:39,080",4355.76,4359.08,3.319999999999709,"Bitte haben Sie gerade gesagt, es gäbe Zeichen der Entspannung vom"
+843,"01:12:39,200","01:12:46,360",4359.2,4366.36,7.1599999999998545,"iranischen Regime, die kann ich nicht wahrnehmen."
+844,"01:12:47,760","01:12:51,640",4367.76,4371.64,3.880000000000109,Sie habe sich hoch gerüstet sie haben die Hisbollah hochgerüstet.
+845,"01:12:56,080","01:13:03,520",4376.08,4383.52,7.440000000000509,ML: Diese Diskussion haben wir schon häufig geführt.
+846,"01:13:03,840","01:13:11,240",4383.84,4391.24,7.399999999999636,"Es ist auch klar geworden, was Herr Gerlach meint."
+847,"01:13:12,480","01:13:16,680",4392.48,4396.68,4.200000000000728,"Wenn Israel in der Lage ist, gezielt eine Person auszuschalten,"
+848,"01:13:16,800","01:13:22,920",4396.8,4402.92,6.119999999999891,warum geht das dann nicht in Gaza?
+849,"01:13:23,800","01:13:28,120",4403.8,4408.12,4.319999999999709,"PE: es ist eine komplett andere Situation, es war nie ein großes"
+850,"01:13:28,200","01:13:28,680",4408.2,4408.68,0.48000000000047294,"Thema auf,"
+851,"01:13:28,800","01:13:35,600",4408.8,4415.6,6.800000000000182,"ML: Einfach nur antworten, nicht ablenken."
+852,"01:13:39,920","01:13:43,120",4419.92,4423.12,3.199999999999818,"- ich antworte, Gazastreifen, dass dann asynchrone Krieg der da"
+853,"01:13:43,200","01:13:49,520",4423.2,4429.52,6.3200000000006185,stattfindet. Da ist ein Häuserkampf.
+854,"01:13:59,640","01:14:03,160",4439.64,4443.16,3.519999999999527,"Dieses Leid ist furchtbar, es muss sofort aufhören, aber die Quote von"
+855,"01:14:03,280","01:14:07,000",4443.28,4447.0,3.7200000000002547,Terroristen die geführt werden und die von Zivilisten getötet werden
+856,"01:14:08,720","01:14:12,160",4448.72,4452.16,3.4399999999996,DG: Das ist völliger Unsinn.
+857,"01:14:12,240","01:14:16,080",4452.24,4456.08,3.8400000000001455,Ich möchte die Sendung mit die mit dieser Aussage beenden.
+858,"01:14:16,200","01:14:17,480",4456.2,4457.48,1.2799999999997453,Das wissen sie auch.
+859,"01:14:17,600","01:14:23,080",4457.6,4463.08,5.479999999999563,Das ist völliger Unsinn.
+860,"01:14:36,040","01:14:37,880",4476.04,4477.88,1.8400000000001455,"- was sich in ihrer Analyse vermisse,"
+861,"01:14:37,960","01:14:41,200",4477.96,4481.2,3.2399999999997817,"sie kritisieren die israelische Regierung, ich adressierte sowohl"
+862,"01:14:41,280","01:14:42,240",4481.28,4482.24,0.9600000000000364,die israelische Regierung als auch die HAmas. Der Krieg wäre sofort
+863,"01:14:42,240","01:14:44,680",4482.24,4484.68,2.4400000000005093,"DG: Auch das ist vermutlich Unsinn, weil es dem widerspricht,"
+864,"01:14:44,680","01:14:47,920",4484.68,4487.92,3.2399999999997817,vorbei wenn wenn die Hamas die Waffen nieder leiden würde.
+865,"01:14:49,480","01:14:53,000",4489.48,4493.0,3.5200000000004366,was die israelische Regierung immer wieder gepackt hat.
+866,"01:14:53,120","01:14:55,800",4493.12,4495.8,2.680000000000291,ML: Vielleicht sollten wir die Diskussion
+867,"01:14:55,840","01:14:58,040",4495.84,4498.04,2.199999999999818,an anderer Gelegenheit fortsetzen.
+868,"01:14:58,080","01:15:00,760",4498.08,4500.76,2.680000000000291,Diese These würde ich zumindest anzweifeln.
+869,"01:15:00,800","01:15:05,440",4500.8,4505.44,4.639999999999418,"Ich habe noch nie an keiner Stelle die Aussage gehört,"
+870,"01:15:05,560","01:15:09,560",4505.56,4509.56,4.0,"dass wenn die Geiseln frei sind, der Krieg vorbei ist."
+871,"01:15:09,600","01:15:13,040",4509.6,4513.04,3.4399999999996,PE: Das ist dokumentiert. Wir machen den Faktencheck.
+872,"01:15:13,080","01:15:15,680",4513.08,4515.68,2.600000000000364,ML: Netanjahu spricht vom absoluten Sieg.
+873,"01:15:15,720","01:15:19,800",4515.72,4519.8,4.079999999999927,PE: Es gibt kein Leben in Frieden für die Israelis und die Leute in Gaza.
+874,"01:15:19,840","01:15:21,040",4519.84,4521.04,1.199999999999818,ML: Schwieriges Thema.
+875,"01:15:21,080","01:15:23,840",4521.08,4523.84,2.7600000000002183,"Es ist klar geworden, es gibt keine einfache Antwort."
+876,"01:15:23,880","01:15:26,640",4523.88,4526.64,2.7600000000002183,"Jetzt die Kollegen vom ""heute journal up:date""."

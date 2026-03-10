@@ -1,0 +1,989 @@
+﻿segment_id,start_time,end_time,start_seconds,end_seconds,duration,text
+1,"00:00:00,040","00:00:01,000",0.04,1.0,0.96,Diese Untertitel sind live produziert.
+2,"00:00:01,040","00:00:04,680",1.04,4.68,3.6399999999999997,"Willkommen zu unserer Sendung, in der wir gleich zu Beginn"
+3,"00:00:04,760","00:00:09,440",4.76,9.44,4.68,"einen Mann begrüßen, der sicher nicht im Verdacht steht,"
+4,"00:00:09,520","00:00:14,640",9.52,14.64,5.120000000000001,"immer recht haben zu wollen, der aber leider oft recht hat."
+5,"00:00:14,680","00:00:19,840",14.68,19.84,5.16,"So auch, als er mitten im deutschen Sommer, ich glaube, es war im Juli,"
+6,"00:00:19,880","00:00:22,640",19.88,22.64,2.7600000000000016,schon die Bildungsmisere dieses deutschen Winters vorhersagte:
+7,"00:00:22,720","00:00:26,040",22.72,26.04,3.3200000000000003,"""In unseren Grundschulen gelingt es immer weniger Kindern,"
+8,"00:00:26,120","00:00:30,360",26.12,30.36,4.239999999999998,"flüssig lesen zu lernen"", sagte er damals"
+9,"00:00:30,440","00:00:33,440",30.44,33.44,2.9999999999999964,und auch in Mathe schafft mittlerweile eine Drittel der Schüler
+10,"00:00:33,520","00:00:35,440",33.52,35.44,1.9199999999999946,nicht einmal mehr das Minimum.
+11,"00:00:35,520","00:00:36,960",35.52,36.96,1.4399999999999977,"Und es ist interessant,"
+12,"00:00:37,000","00:00:39,880",37.0,39.88,2.8800000000000026,wenn ein renommierter Bildungswissenschaftler wie er sagt:
+13,"00:00:39,960","00:00:43,360",39.96,43.36,3.3999999999999986,"""Das hat neben vielen anderen Dingen schon auch damit zu tun,"
+14,"00:00:43,400","00:00:46,120",43.4,46.12,2.719999999999999,"dass wir eine Schülerschaft haben,"
+15,"00:00:46,160","00:00:49,760",46.16,49.76,3.6000000000000014,"die nicht mehr ohne Weiteres bereit ist, sich so anzustrengen,"
+16,"00:00:49,840","00:00:52,880",49.84,52.88,3.039999999999999,"wie es vielleicht noch vor 20 Jahren der Fall war""."
+17,"00:00:52,960","00:00:58,200",52.96,58.2,5.240000000000002,Herzlich willkommen Olaf Köller!
+18,"00:00:59,080","00:01:00,680",59.08,60.68,1.6000000000000014,Wie nimmt sie das wahr?
+19,"00:01:00,720","00:01:02,720",60.72,62.72,2.0,"Wollen wir diese Frau fragen,"
+20,"00:01:02,760","00:01:06,320",62.76,66.32,3.559999999999995,"Schulleiterin an der Waldschule Hatten in Niedersachsen,"
+21,"00:01:06,360","00:01:08,760",66.36,68.76,2.4000000000000057,"der ein viel besprochener Bestseller gelang,"
+22,"00:01:08,800","00:01:12,040",68.8,72.03999999999999,3.239999999999995,als sie in nie da gewesener Deutlichkeit
+23,"00:01:12,160","00:01:16,600",72.16,76.6,4.439999999999998,"über den ""verstörenden Alltag im Klassen-Chat"" schrieb."
+24,"00:01:16,680","00:01:19,640",76.68,79.64,2.9599999999999937,"""Da passt etwas nicht mehr"", sagt sie, ""zwischen dem,"
+25,"00:01:19,680","00:01:23,680",79.68,83.68,4.0,"was die Gesellschaft als Vorbereitung von jungen Leuten erwartet,"
+26,"00:01:23,760","00:01:26,120",83.76,86.12,2.3599999999999994,"und dem, was wir bieten""."
+27,"00:01:26,160","00:01:30,280",86.16,90.28,4.1200000000000045,"Was? Fragen an Silke Müller, herzlich willkommen!"
+28,"00:01:30,760","00:01:32,840",90.76,92.84,2.0799999999999983,"Wenn man Silke Müller genau zuhört,"
+29,"00:01:32,920","00:01:36,280",92.92,96.28,3.3599999999999994,dann taucht ein stets wiederkehrendes Thema auf:
+30,"00:01:36,360","00:01:38,280",96.36,98.28,1.9200000000000017,die Zunahme von Gewalt an deutschen Schulen.
+31,"00:01:38,360","00:01:40,240",98.36,100.24000000000001,1.8800000000000097,Wie erlebt dieser Mann das?
+32,"00:01:40,320","00:01:42,120",100.32,102.12,1.8000000000000114,Schulleiter an der Otto-Wels-Grundschule
+33,"00:01:42,200","00:01:49,160",102.2,109.16,6.959999999999994,"in Berlin-Kreuzberg, der sagt: ""Das Gewaltpotential ist absolut da."""
+34,"00:01:49,240","00:01:50,880",109.24000000000001,110.88,1.6399999999999864,Es ist aber noch mehr:
+35,"00:01:50,960","00:01:52,080",110.96000000000001,112.08,1.1199999999999903,"""Wir haben"", sagt er,"
+36,"00:01:52,160","00:01:56,240",112.16,116.24000000000001,4.0800000000000125,"""Kinder aus Familien, da gibt es im ganzen Haushalt kein einziges Buch."
+37,"00:01:56,320","00:01:59,200",116.32,119.2,2.8800000000000097,"Und die Hälfte aller Kinder ist heute nicht mehr in der Lage,"
+38,"00:01:59,280","00:02:03,440",119.28,123.44,4.159999999999997,"sich selbst die Sportklamotten richtig anzuziehen."""
+39,"00:02:03,520","00:02:05,960",123.52,125.96,2.4399999999999977,"Und dann die Sprache: ""95 Prozent meiner Schüler"", sagt er,"
+40,"00:02:06,040","00:02:07,920",126.04,127.92,1.8799999999999955,"""sprechen mit mindestens einem Elternteil"
+41,"00:02:08,000","00:02:10,600",128.0,130.6,2.5999999999999943,eine andere Sprache als Deutsch.
+42,"00:02:10,680","00:02:13,920",130.68,133.92,3.2399999999999807,"Und genauso sind 95 Prozent Kinder von Eltern,"
+43,"00:02:14,000","00:02:17,320",134.0,137.32,3.319999999999993,die Bürgergeld oder Wohngeld beziehen.
+44,"00:02:17,360","00:02:19,720",137.36,139.72,2.359999999999985,"All das hat Auswirkungen."""
+45,"00:02:19,800","00:02:24,320",139.8,144.32,4.519999999999982,"Welche? Fragen an Steffen Sibler, herzlich willkommen!"
+46,"00:02:24,400","00:02:26,760",144.4,146.76,2.359999999999985,Und wie schaut er auf dieses System?
+47,"00:02:26,800","00:02:29,360",146.8,149.36,2.5600000000000023,Einer der bekanntesten Gymnasiallehrer des Landes
+48,"00:02:29,400","00:02:34,760",149.4,154.76,5.359999999999985,"mit eigenem Podcast, der in seinem neuen Buch provokant fragt:"
+49,"00:02:34,840","00:02:37,040",154.84,157.04,2.1999999999999886,"""Warum eigentlich noch lernen?"""
+50,"00:02:37,120","00:02:40,720",157.12,160.72,3.5999999999999943,Dazu muss man wissen: Er hat kürzlich als erste Lehrkraft überhaupt
+51,"00:02:40,800","00:02:43,000",160.8,163.0,2.1999999999999886,eine reguläre Klassenarbeit
+52,"00:02:43,080","00:02:46,920",163.07999999999998,166.92000000000002,3.840000000000032,mithilfe von künstlicher Intelligenz schreiben lassen.
+53,"00:02:47,000","00:02:51,200",167.0,171.2,4.199999999999989,"Was, wollen wir ihn fragen, macht der Einsatz von digitaler Intelligenz"
+54,"00:02:51,240","00:02:54,720",171.24,174.72,3.4799999999999898,"mit der analogen Intelligenz, die vor dem Rechner sitzt?"
+55,"00:02:54,800","00:02:56,800",174.8,176.8,2.0,Herzlich willkommen Bob Blume!
+56,"00:03:01,360","00:03:04,680",181.36,184.68,3.319999999999993,Schön dass sie alle da sind.
+57,"00:03:04,720","00:03:10,480",184.72,190.48,5.759999999999991,"Die erste Frage Herr Köller,"
+58,"00:03:10,520","00:03:12,480",190.52,192.48,1.9599999999999795,"wo steht Deutschland,"
+59,"00:03:12,520","00:03:16,720",192.52,196.72,4.199999999999989,"wenn man auf das Schulsystem guckt,"
+60,"00:03:16,760","00:03:19,520",196.76,199.52,2.7600000000000193,"der Pisa Schock war immer wieder ein Thema,"
+61,"00:03:19,560","00:03:25,520",199.56,205.52,5.960000000000008,wo stehen wir?
+62,"00:03:27,120","00:03:29,760",207.12,209.76,2.6399999999999864,"OK: Wir stehen da wo wir 2000 standen,"
+63,"00:03:29,800","00:03:32,840",209.8,212.84,3.039999999999992,"als der Pisa Schock kam,"
+64,"00:03:32,880","00:03:40,840",212.88,220.84,7.960000000000008,versteht es sogar schlechter um das deutsche Bildungssystem.
+65,"00:03:43,320","00:03:45,520",223.32,225.52,2.200000000000017,Drei von zehn Schüler können nicht lesen.
+66,"00:03:45,840","00:03:48,360",225.84,228.36,2.5200000000000102,Die können nicht lesen?
+67,"00:03:48,360","00:03:54,080",228.36,234.07999999999998,5.71999999999997,Sie können nicht den Sinn eines Textes verstehen.
+68,"00:03:54,080","00:03:58,160",234.07999999999998,238.16,4.0800000000000125,Fechten eine Überschrift und einen einfachen Text.
+69,"00:03:58,200","00:04:04,040",238.2,244.04,5.840000000000003,"Denen fehlt es an Leseflüssigkeit,"
+70,"00:04:04,040","00:04:08,400",244.04,248.4,4.360000000000014,"man ein Wort nicht erkennen kann,"
+71,"00:04:08,440","00:04:11,800",248.44,251.8,3.3600000000000136,dann kann man auch ein Text nicht verstehen können.
+72,"00:04:11,800","00:04:15,040",251.8,255.04,3.2399999999999807,Auch als 15-jähriger haben ein Rechenverständnis
+73,"00:04:15,080","00:04:17,360",255.08,257.36,2.280000000000001,das nicht über die Grundschule vorausgeht.
+74,"00:04:18,720","00:04:20,680",258.72,260.68,1.9599999999999795,Wir reden über 15-jährige?
+75,"00:04:20,720","00:04:24,840",260.72,264.84,4.119999999999948,Die in einem Hochindustrieland wie Deutschland nicht zu lesen
+76,"00:04:24,840","00:04:28,760",264.84,268.76,3.920000000000016,und schreiben und rechnen können
+77,"00:04:28,800","00:04:30,800",268.8,270.8,2.0,"die im Alltag dann,"
+78,"00:04:30,800","00:04:33,600",270.8,273.6,2.8000000000000114,den hohen Anforderungen nicht mithalten können?
+79,"00:04:33,600","00:04:39,240",273.6,279.24,5.639999999999986,"OK: Ja, wären das vor 20 Jahren,"
+80,"00:04:39,240","00:04:42,880",279.24,282.88,3.6399999999999864,"dann wir ähnliche Größenordnungen bei den Jugendlichen,"
+81,"00:04:42,880","00:04:49,200",282.88,289.2,6.319999999999993,Die nicht Rechnen und lesen können.
+82,"00:04:49,280","00:04:53,360",289.28,293.36,4.080000000000041,"Lernförderung bekommen, bis in die Kita rein."
+83,"00:04:53,400","00:04:55,880",293.4,295.88,2.480000000000018,Wir wurden Anfang von klein auf.
+84,"00:04:55,880","00:04:58,640",295.88,298.64,2.759999999999991,Sprachförderung.
+85,"00:04:58,680","00:05:02,520",298.68,302.52,3.839999999999975,Der an einer Aufbruchsstimmung.
+86,"00:05:02,520","00:05:08,520",302.52,308.52,6.0,"Es ist uns gelungen,"
+87,"00:05:10,680","00:05:14,480",310.68,314.48,3.8000000000000114,"dass es die Kurve hinter mir, Die Probleme zu reduzieren."
+88,"00:05:14,480","00:05:21,360",314.48,321.36,6.8799999999999955,Wir haben die Risikogruppen davon zwölf Jahren halbiert.
+89,"00:05:21,400","00:05:24,120",321.4,324.12,2.7200000000000273,Wir wussten aber auch schon 2012
+90,"00:05:24,160","00:05:30,960",324.16,330.96,6.7999999999999545,dass sich die Schülerschaft verändern wird.
+91,"00:05:34,160","00:05:37,840",334.15999999999997,337.84000000000003,3.6800000000000637,Mehr Schüler aus bildungsfernen Schichten.
+92,"00:05:37,880","00:05:45,160",337.88,345.15999999999997,7.279999999999973,"Häufig wird nicht die deutsche Sprache gesprochen,"
+93,"00:05:46,120","00:05:48,840",346.12,348.84000000000003,2.7200000000000273,"wir wussten, wir müssen mehr tun,"
+94,"00:05:48,880","00:05:56,240",348.88,356.24,7.360000000000014,"wir müssen mehr fördern, mehr Bildung in die Kitas,"
+95,"00:05:57,120","00:05:59,560",357.12,359.56,2.4399999999999977,werden die Quittungen mit Pisa 2022 .
+96,"00:06:00,880","00:06:06,880",360.88,366.88,6.0,Recht interessant.
+97,"00:06:14,200","00:06:15,960",374.2,375.96,1.759999999999991,warum steht das dann 2015 regelrecht ab?
+98,"00:06:17,640","00:06:21,720",377.64,381.72,4.080000000000041,OK: Wir haben natürlich eine Veränderung in der Schülerschaft.
+99,"00:06:21,760","00:06:25,000",381.76,385.0,3.240000000000009,"Die Anteile der Schüler, die aus Familien kommen,"
+100,"00:06:25,040","00:06:27,520",385.04,387.52,2.4799999999999613,die sie nur wenig unterstützen kommen.
+101,"00:06:27,560","00:06:30,400",387.56,390.4,2.839999999999975,"Das sind Familie mit Zuwendungsgeschichte,"
+102,"00:06:30,440","00:06:32,400",390.44,392.4,1.9599999999999795,mit Armutsrisiko.
+103,"00:06:32,440","00:06:34,400",392.44,394.4,1.9599999999999795,Diese Gruppen nehmen zu.
+104,"00:06:34,440","00:06:38,160",394.44,398.15999999999997,3.7199999999999704,"Wir haben weiterhin auch die Gruppe der Schülerinnen,"
+105,"00:06:38,200","00:06:40,880",398.2,400.88,2.680000000000007,die einen pädagogischen Bedarf an.
+106,"00:06:40,920","00:06:44,560",400.92,404.56,3.6399999999999864,"Die sprach verzögert sind, die Lerneinschränkung haben."
+107,"00:06:44,600","00:06:46,960",404.6,406.96,2.359999999999957,Die im emotionalen Bereich Bedürfnisse haben.
+108,"00:06:49,120","00:06:51,440",409.12,411.44,2.319999999999993,"Da tauchen Situationen auf,"
+109,"00:06:51,480","00:06:57,240",411.48,417.24,5.759999999999991,die nicht mit der alten vergleichbar sind.
+110,"00:06:57,240","00:07:02,480",417.24,422.48,5.240000000000009,"OK: Wir haben, eine Veränderung in der Anspruchsniveau setzen."
+111,"00:07:02,480","00:07:08,480",422.48,428.48,6.0,Dass wir die Schülerinnen und Schüler
+112,"00:07:08,520","00:07:14,000",428.52,434.0,5.480000000000018,mit den didaktischen Vorgehensweisen aus den 2000er nicht mehr reichen.
+113,"00:07:14,040","00:07:19,160",434.04,439.16,5.1200000000000045,"Der haben Lehrer an den Schulen,"
+114,"00:07:19,240","00:07:22,920",439.24,442.92,3.680000000000007,"die auf die Schülerschaft heute, weniger eingestellt sind."
+115,"00:07:23,880","00:07:26,000",443.88,446.0,2.1200000000000045,Was heißt das nicht eingestellt?
+116,"00:07:26,040","00:07:30,160",446.04,450.16,4.1200000000000045,Können Sie das konkretisieren?
+117,"00:07:30,160","00:07:34,200",450.16,454.2,4.039999999999964,"OK: Wenn man Schülerinnen und Schüler motivieren will,"
+118,"00:07:34,200","00:07:42,240",454.2,462.24,8.04000000000002,"dann macht man das am besten bedingen, die aus ihrer Welt kommen,"
+119,"00:07:42,280","00:07:45,240",462.28,465.24,2.9600000000000364,"mit Kontexten, aus ihrer Welt,"
+120,"00:07:45,280","00:07:50,520",465.28,470.52,5.240000000000009,die man in stärker an die Klassenräume bringt.
+121,"00:07:50,560","00:07:56,120",470.56,476.12,5.560000000000002,"Netflix, es gibt viele Kontexte, wo man zuerst für Englisch lernen kann."
+122,"00:07:56,160","00:08:03,320",476.15999999999997,483.32,7.160000000000025,"Wenn man sich den Mathematikunterricht anschaut,"
+123,"00:08:08,120","00:08:12,520",488.12,492.52,4.399999999999977,"dann sind das Konzepte, die haben vor 20 probiert, heute nicht mehr."
+124,"00:08:19,720","00:08:22,800",499.72,502.8,3.079999999999984,"Der Wahrheit muss ich erst mal die Ehre geben,"
+125,"00:08:22,800","00:08:23,720",502.8,503.72,0.9200000000000159,so richtig motiviert war ich damals auch nicht.
+126,"00:08:23,720","00:08:26,120",503.72,506.12,2.3999999999999773,OK: Es konnte noch schlimmer kommen.
+127,"00:08:26,120","00:08:28,000",506.12,508.0,1.8799999999999955,Das zeigen die Zahlen.
+128,"00:08:29,640","00:08:33,720",509.64,513.72,4.080000000000041,"Der Anspruch war, dass diejenigen die vorne stehen"
+129,"00:08:33,760","00:08:38,200",513.76,518.2,4.440000000000055,Entertainer sein müssen.
+130,"00:08:38,200","00:08:39,160",518.2,519.16,0.9599999999999227,"Sie müssen einen anderen Zugang wählen,"
+131,"00:08:39,200","00:08:39,360",519.2,519.36,0.15999999999996817,oder was ist das Thema?
+132,"00:08:42,440","00:08:44,760",522.44,524.76,2.3199999999999363,"OK: wir argumentieren gerne,"
+133,"00:08:44,800","00:08:49,360",524.8,529.36,4.560000000000059,man muss Unterricht aus den Augen der Schülerinnen und Schüler sehen.
+134,"00:08:49,400","00:08:52,320",529.4,532.32,2.9200000000000728,"Man hat die Schülerinnen und Schüler gefragt,"
+135,"00:08:52,360","00:08:58,320",532.36,538.32,5.960000000000036,was machte da eigentlich?
+136,"00:08:58,680","00:09:02,960",538.68,542.96,4.280000000000086,"Sie sagen uns auch,"
+137,"00:09:03,000","00:09:05,440",543.0,545.44,2.4400000000000546,"90 % der Aufgaben,"
+138,"00:09:05,480","00:09:09,280",545.48,549.28,3.7999999999999545,"die sie bearbeiten, haben nichts mit ihrer Realität zu tun."
+139,"00:09:09,320","00:09:13,760",549.32,553.76,4.439999999999941,"Das einzige, worüber sie nicht klagen, ist die Disziplin."
+140,"00:09:13,800","00:09:18,840",553.8,558.84,5.040000000000077,Darüber werden wir heute sicherlich auch sprechen.
+141,"00:09:18,880","00:09:25,880",558.88,565.88,7.0,Wir haben ähnliche Zahlen aus anderen Fächern.
+142,"00:09:27,080","00:09:30,880",567.08,570.88,3.7999999999999545,"Dass man den Unterrichts an die Lebensrealität angleicht,"
+143,"00:09:30,920","00:09:32,360",570.92,572.36,1.4400000000000546,das scheint schwer zu sein.
+144,"00:09:32,360","00:09:32,920",572.36,572.92,0.5599999999999454,Verstehe ich.
+145,"00:09:32,920","00:09:35,800",572.92,575.8,2.8799999999999955,"Man muss es aus den Augen der Kinder machen,"
+146,"00:09:35,840","00:09:40,120",575.84,580.12,4.279999999999973,aber nicht aus den Augen der Lehrkräfte.
+147,"00:09:40,120","00:09:42,120",580.12,582.12,2.0,Ich mach jetzt die Runde mal ganz bewusst auf.
+148,"00:09:42,120","00:09:45,440",582.12,585.44,3.32000000000005,"Wenn ich jetzt durch die Augen der Kinder schaue,"
+149,"00:09:45,480","00:09:51,440",585.48,591.44,5.960000000000036,wie lange sitzen sie vor Apps wie TikTok?
+150,"00:09:51,440","00:09:54,240",591.44,594.24,2.7999999999999545,"SM: Es gibt eine Studie, die spricht davon,"
+151,"00:09:54,240","00:09:59,400",594.24,599.4,5.159999999999968,dass 71 Stunden online verbracht werden.
+152,"00:09:59,440","00:10:02,560",599.44,602.56,3.119999999999891,"D. h., dass wir einen völlig anderen Anspruch haben."
+153,"00:10:02,600","00:10:08,560",602.6,608.56,5.959999999999923,12 Stunden am Tag?
+154,"00:10:09,200","00:10:17,200",609.2,617.2,8.0,"Genau, wir trennen immer noch analog und digital voneinander."
+155,"00:10:17,440","00:10:19,440",617.44,619.44,2.0,Das Founktioert nicht.
+156,"00:10:19,480","00:10:21,440",619.48,621.44,1.9600000000000364,Schule ist eine Blase.
+157,"00:10:21,720","00:10:27,720",621.72,627.72,6.0,Halten Sie das für möglich?
+158,"00:10:28,680","00:10:35,960",628.68,635.96,7.280000000000086,"OK: Ich schau mal hier in die Runde, wie lange sind wir online?"
+159,"00:10:36,000","00:10:39,160",636.0,639.16,3.159999999999968,"SM: Es bildet die Realität nicht mehr ab,"
+160,"00:10:39,240","00:10:43,240",639.24,643.24,4.0,wir reagieren da nicht drauf.
+161,"00:10:43,280","00:10:46,520",643.28,646.52,3.240000000000009,Die Lehrkräfte haben kein Werkzeug in den Händen.
+162,"00:10:46,560","00:10:49,320",646.56,649.32,2.7600000000001046,"Die Lehramtsausbildung, damit geht es los,"
+163,"00:10:49,360","00:10:52,360",649.36,652.36,3.0,sie reagierten nicht auf die veränderte Jugend und Kindheit.
+164,"00:10:57,280","00:10:59,720",657.28,659.72,2.4400000000000546,BB: Ich würde gerne einen Satz dazu sagen.
+165,"00:10:59,760","00:11:03,040",659.76,663.04,3.2799999999999727,"Natürlich ist es so, das wir ein Nutzungsverhalten haben,"
+166,"00:11:03,040","00:11:09,080",663.04,669.08,6.040000000000077,was durchaus problematisch ist.
+167,"00:11:10,520","00:11:16,440",670.52,676.44,5.920000000000073,Jugendliche sprechen deutlich besser auf Englisch.
+168,"00:11:16,440","00:11:18,760",676.44,678.76,2.3199999999999363,Das wurde nach Corona festgestellt.
+169,"00:11:18,800","00:11:21,920",678.8,681.92,3.1200000000000045,Sie waren Unterricht teilweise gelangweilt.
+170,"00:11:21,960","00:11:25,240",681.96,685.24,3.2799999999999727,Es gibt auch ein unglaubliches Lernpotenzial.
+171,"00:11:25,240","00:11:27,600",685.24,687.6,2.3600000000000136,Dass wir wenig heben.
+172,"00:11:32,240","00:11:34,920",692.24,694.92,2.67999999999995,"BB: Dafür plädiere ich auch gerne dafür,"
+173,"00:11:34,920","00:11:39,360",694.92,699.36,4.440000000000055,dass Lehrkräfte aus meiner Sicht zwei Wochen auf TikTok müssen.
+174,"00:11:39,400","00:11:45,280",699.4,705.28,5.8799999999999955,"Sie können das danach wieder löschen, das ist nicht das Problem."
+175,"00:11:45,320","00:11:50,360",705.32,710.36,5.039999999999964,"Die Sache ist, wenn man die Lebenswelten der Schülerinnen"
+176,"00:11:50,400","00:11:53,480",710.4,713.48,3.080000000000041,"und Schüler verstehen möchte, muss man merken,"
+177,"00:11:53,520","00:12:00,640",713.52,720.64,7.1200000000000045,wie einen der ungeheuere Algorithmus reinzieht.
+178,"00:12:01,880","00:12:04,600",721.88,724.6,2.7200000000000273,"Man merkt aber auch nach 1 Stunde schon,"
+179,"00:12:04,640","00:12:08,920",724.64,728.92,4.279999999999973,"das einem Inhalte geboten werden, die durchaus unterhaltsam sein."
+180,"00:12:08,960","00:12:16,320",728.96,736.32,7.360000000000014,Wenn man genug Zeit hat sich damit zu beschäftigen.
+181,"00:12:19,720","00:12:21,680",739.72,741.68,1.9599999999999227,"Da kommt die Crux,"
+182,"00:12:21,720","00:12:25,760",741.72,745.76,4.039999999999964,dass in den letzten Jahren Lehrkräfte bei der Digitalisierung
+183,"00:12:25,800","00:12:32,480",745.8,752.48,6.680000000000064,immer eine Schaufel drauf bekommen haben.
+184,"00:12:37,120","00:12:41,000",757.12,761.0,3.8799999999999955,In einem solchen Spannungsfeld sind es für Lehrkräfte eine
+185,"00:12:41,040","00:12:43,000",761.04,763.0,1.9600000000000364,Überforderung.
+186,"00:12:43,040","00:12:45,520",763.04,765.52,2.480000000000018,"Da halten sie sich lieber an dem fest,"
+187,"00:12:45,560","00:12:46,040",765.56,766.04,0.4800000000000182,was sie vorher auch gemacht haben.
+188,"00:12:46,040","00:12:48,960",766.04,768.96,2.9200000000000728,Kinder ja auch.
+189,"00:12:49,000","00:12:52,120",769.0,772.12,3.1200000000000045,Die betrifft es auch.
+190,"00:12:52,120","00:12:55,280",772.12,775.28,3.159999999999968,"Wie nehmen Sie das war, dass es die Grundschule."
+191,"00:12:55,320","00:12:59,720",775.32,779.72,4.399999999999977,"Die Frage, die Schnittstelle ist, Unterricht im TikTok Algorithmus,"
+192,"00:12:59,800","00:13:01,760",779.8,781.76,1.9600000000000364,das geht ja schlecht.
+193,"00:13:01,800","00:13:06,520",781.8,786.52,4.720000000000027,"Schule muss ja auch ein bisschen anstrengend und mühsam sein,"
+194,"00:13:06,560","00:13:09,720",786.56,789.72,3.160000000000082,"sonst ist die Frage der Disziplin,"
+195,"00:13:09,760","00:13:13,080",789.76,793.08,3.32000000000005,"konzentrieren, sich länger konzentrieren zu können,"
+196,"00:13:13,160","00:13:15,760",793.16,795.76,2.6000000000000227,das lernt man ja sonst gar nicht.
+197,"00:13:20,360","00:13:23,360",800.36,803.36,3.0,"SS: sich durch zwischendurch den Unterricht,"
+198,"00:13:23,400","00:13:26,120",803.4,806.12,2.7200000000000273,stelle ich mir auch nicht vor.
+199,"00:13:26,160","00:13:30,000",806.16,810.0,3.840000000000032,"Aber wir haben ein Potenzial, das nicht ganz ausschöpfen."
+200,"00:13:30,040","00:13:34,400",810.04,814.4,4.360000000000014,"Wir stellen immer wieder fest,"
+201,"00:13:34,400","00:13:38,800",814.4,818.8,4.399999999999977,"wenn es auch um Konflikte geht, die im digitalen Raum stattfinden,"
+202,"00:13:38,840","00:13:41,360",818.84,821.36,2.519999999999982,"dass es Nachrichten gibt,"
+203,"00:13:41,400","00:13:47,480",821.4,827.48,6.080000000000041,"die um 1:00 Uhr nachts, 2:00 Uhr nachts versandt wurden."
+204,"00:13:47,560","00:13:51,280",827.56,831.28,3.7200000000000273,Von Kindern bis zur sechsten Klasse in Berlin.
+205,"00:13:51,320","00:13:57,880",831.32,837.88,6.559999999999945,Sie sind zwischen zwölf und 13 Jahren.
+206,"00:13:58,360","00:14:00,880",838.36,840.88,2.519999999999982,"Es war in einer Menge und einer Masse,"
+207,"00:14:00,960","00:14:02,760",840.96,842.76,1.7999999999999545,die unvorstellbar war.
+208,"00:14:02,760","00:14:05,560",842.76,845.56,2.7999999999999545,Nachts?
+209,"00:14:05,600","00:14:09,760",845.6,849.76,4.159999999999968,"D. h. das, dass man einstellt, dass es nachts versandt wird?"
+210,"00:14:09,760","00:14:13,720",849.76,853.72,3.9600000000000364,"BB: Ich gehe davon aus,"
+211,"00:14:13,760","00:14:16,920",853.76,856.92,3.159999999999968,dass sie noch unter der Bettdecke kommunizieren.
+212,"00:14:16,960","00:14:20,520",856.96,860.52,3.5599999999999454,Häufig leider auch im negativen Sinne.
+213,"00:14:20,600","00:14:22,800",860.6,862.8,2.199999999999932,"Es ist so, dass die Benutzung"
+214,"00:14:22,880","00:14:26,280",862.88,866.28,3.3999999999999773,von privaten Handys im Unterricht nicht erlaubt ist.
+215,"00:14:26,320","00:14:29,600",866.32,869.6,3.2799999999999727,Sie dürfen die Handys aber bei sich tragen.
+216,"00:14:29,640","00:14:35,840",869.64,875.84,6.2000000000000455,"Wenn sie dann auf Toilette gehen, schalten Sie das Handy gerne mal an."
+217,"00:14:35,880","00:14:42,120",875.88,882.12,6.240000000000009,Wir setzen natürlich Tabletts ein.
+218,"00:14:43,000","00:14:46,160",883.0,886.16,3.159999999999968,"Das ist ein Prozess, der braucht für die Schule,"
+219,"00:14:46,200","00:14:48,480",886.2,888.48,2.2799999999999727,das einzusetzen.
+220,"00:14:48,520","00:14:52,880",888.52,892.88,4.360000000000014,Die Schüler springen auch sehr gut darauf an.
+221,"00:14:52,920","00:14:57,720",892.92,897.72,4.800000000000068,Das ist auch ein top Thema der Eltern.
+222,"00:14:57,760","00:15:01,040",897.76,901.04,3.2799999999999727,"Die Eltern fragen sich auch, wie schaffen wir das,"
+223,"00:15:01,080","00:15:03,960",901.08,903.96,2.8799999999999955,den Kindern Regeln zu setzen?
+224,"00:15:04,000","00:15:08,680",904.0,908.68,4.67999999999995,Können Sie uns dabei helfen die Kinder dazu bewegen
+225,"00:15:08,680","00:15:12,360",908.68,912.36,3.6800000000000637,die Geräte weniger zu nutzen?
+226,"00:15:12,360","00:15:14,960",912.36,914.96,2.6000000000000227,SM: Es geht auch um das Thema Leistung.
+227,"00:15:14,960","00:15:20,920",914.96,920.92,5.959999999999923,Das ist extrem wichtig.
+228,"00:15:24,680","00:15:28,880",924.68,928.88,4.2000000000000455,"diese Leistung müssen wir abfordern, dass wir nur funktionieren,"
+229,"00:15:28,920","00:15:30,880",928.92,930.88,1.9600000000000364,wenn wir die Kinder erreichen
+230,"00:15:30,920","00:15:38,000",930.92,938.0,7.080000000000041,und wir sie motivieren zum lernen und arbeiten.
+231,"00:15:38,440","00:15:44,600",938.44,944.6,6.159999999999968,"Das ist beobachtbar auf dem Land, dass das oft nicht Funktionrt."
+232,"00:15:44,640","00:15:49,280",944.64,949.28,4.639999999999986,Das Lehrkräfte die Lebensrealität der Kinder gar nicht im Fokus haben.
+233,"00:15:49,320","00:15:51,840",949.32,951.84,2.519999999999982,Die online stattfindet.
+234,"00:15:55,320","00:15:57,280",955.32,957.28,1.9599999999999227,Ich habe nur eine Frage.
+235,"00:15:57,320","00:15:59,280",957.32,959.28,1.9599999999999227,"Mein Eindruck,"
+236,"00:15:59,360","00:16:04,200",959.36,964.2,4.840000000000032,"vielleicht klinge ich altmodisch,"
+237,"00:16:04,240","00:16:08,960",964.24,968.96,4.720000000000027,"ist nicht, dass Kinder weniger fleißig sind als Frühjahr."
+238,"00:16:09,000","00:16:16,440",969.0,976.44,7.440000000000055,"Mein Eindruck ist, dass sie wahnsinnig viel leisten."
+239,"00:16:18,600","00:16:22,920",978.6,982.92,4.319999999999936,"SM: Sie bekommen keine Möglichkeiten Leistung und Fleiß zu zeigen,"
+240,"00:16:23,000","00:16:24,920",983.0,984.92,1.919999999999959,sie sind gehemmt.
+241,"00:16:25,000","00:16:28,480",985.0,988.48,3.480000000000018,"Wenn man den ganzen Tag vor den Bildschritten sitzen,"
+242,"00:16:28,520","00:16:32,800",988.52,992.8,4.279999999999973,"dann konsumieren sie und sind fleißig, man bekommt keine Anreize,"
+243,"00:16:32,840","00:16:35,280",992.84,995.28,2.439999999999941,"wenn man ihnen kluge Aufgaben stellt,"
+244,"00:16:35,320","00:16:37,800",995.32,997.8,2.4799999999999045,dass sie diesen Fleiß bringen können..
+245,"00:16:37,840","00:16:41,720",997.84,1001.72,3.8799999999999955,"Die Kinder sind in dieser Haltung,"
+246,"00:16:41,760","00:16:44,480",1001.76,1004.48,2.7200000000000273,"wir unterschätzen das total,"
+247,"00:16:44,520","00:16:47,360",1004.52,1007.36,2.840000000000032,dass wir sie bewegen zu Fleiß und Leistung.
+248,"00:16:51,240","00:16:55,040",1011.24,1015.04,3.7999999999999545,SS: ich denke dass Schülerinnen und Schüler nach wie vor
+249,"00:16:55,080","00:16:57,040",1015.08,1017.04,1.9599999999999227,"fleißig sein können,"
+250,"00:16:57,080","00:17:03,120",1017.08,1023.12,6.039999999999964,"es geht auch darum, was sie in der Zeit verpassen."
+251,"00:17:03,160","00:17:06,200",1023.16,1026.2,3.0400000000000773,"Sie waren zum Beispiel noch nie in einem Zoo,"
+252,"00:17:06,240","00:17:08,480",1026.24,1028.48,2.240000000000009,"noch nie auf dem Fernsehturm,"
+253,"00:17:08,520","00:17:11,200",1028.52,1031.2,2.6800000000000637,sie können sich gar nicht vorstellen was
+254,"00:17:11,240","00:17:18,200",1031.24,1038.2,6.960000000000036,sie da sehen könnten in der Vogelperspektive.
+255,"00:17:19,080","00:17:23,240",1039.08,1043.24,4.160000000000082,"Was sie verpassen würden, wenn sie solche Lebenserfahrung nicht machen."
+256,"00:17:23,240","00:17:28,440",1043.24,1048.44,5.2000000000000455,Das verstehe ich.
+257,"00:17:28,440","00:17:33,720",1048.44,1053.72,5.279999999999973,"Dass man Kinder inspirieren muss, ihre Fantasie in Gang bringen muss."
+258,"00:17:33,800","00:17:36,680",1053.8,1056.68,2.880000000000109,"Der Satz, Mama oder Papa ich bin langweilig,"
+259,"00:17:36,720","00:17:41,040",1056.72,1061.04,4.319999999999936,den habe ich immer als große Chance begriffen.
+260,"00:17:41,080","00:17:44,320",1061.08,1064.32,3.240000000000009,"Das einen Problem der Kinder,"
+261,"00:17:44,360","00:17:49,920",1064.36,1069.92,5.560000000000173,"oder der Gesellschaft,"
+262,"00:17:49,960","00:17:53,840",1069.96,1073.84,3.8799999999998818,sie entsprechend zu füttern und aus ihnen großartige Menschen zu machen.
+263,"00:17:56,680","00:17:59,640",1076.68,1079.64,2.9600000000000364,BB: Ich würde gerne drei Dinge zusammenbringen.
+264,"00:17:59,680","00:18:02,040",1079.68,1082.04,2.3599999999999,Anstrengung Motivation und Leistung.
+265,"00:18:02,080","00:18:08,760",1082.08,1088.76,6.680000000000064,"Viele die nicht mehr in der Schule sind,"
+266,"00:18:08,840","00:18:16,000",1088.84,1096.0,7.160000000000082,und sich fragen warum das nicht einfach gemacht
+267,"00:18:16,960","00:18:20,840",1096.96,1100.84,3.8799999999998818,"wird wie Früher erkennen, dass das schulische System"
+268,"00:18:20,880","00:18:24,400",1100.88,1104.4,3.519999999999982,"nicht darauf ausgelegt, dass Motivation zu erzeugen."
+269,"00:18:24,440","00:18:29,920",1104.44,1109.92,5.480000000000018,"Aus Autonomie, aus Kontrolle, und soziale Eingebundenheit."
+270,"00:18:29,960","00:18:33,440",1109.96,1113.44,3.480000000000018,"Aus der Entscheidungsfähigkeit darüber etwas zu tun,"
+271,"00:18:33,480","00:18:35,800",1113.48,1115.8,2.3199999999999363,was mir am Herzen liegt.
+272,"00:18:35,840","00:18:39,240",1115.84,1119.24,3.400000000000091,Über diese Motivation strenge ich mich dann auch an.
+273,"00:18:39,320","00:18:44,480",1119.32,1124.48,5.160000000000082,"Weil ich jetzt wissen möchte, und weiter gehen will."
+274,"00:18:44,520","00:18:48,000",1124.52,1128.0,3.480000000000018,"Ein Beispiel, in der Theater AG, die Geschäftsleiter,"
+275,"00:18:48,040","00:18:54,000",1128.04,1134.0,5.960000000000036,haben wir Shakespeare gemacht.
+276,"00:18:54,440","00:18:58,120",1134.44,1138.12,3.6799999999998363,"Wir wollten beim zweiten Mal was moderneres machen,"
+277,"00:18:58,160","00:19:02,040",1138.16,1142.04,3.8799999999998818,die haben gesagt nein wir möchten das noch mal machen.
+278,"00:19:02,080","00:19:08,040",1142.08,1148.04,5.960000000000036,Da haben Sie sich angestrengt.
+279,"00:19:10,120","00:19:14,760",1150.12,1154.76,4.6400000000001,"Interpretationsansätze geführt, weil es sie so sehr begeistert hat."
+280,"00:19:14,800","00:19:18,160",1154.8,1158.16,3.3600000000001273,"Das ist absolut richtig,"
+281,"00:19:18,200","00:19:25,680",1158.2,1165.68,7.480000000000018,"dass wir schulisch dahin kommen müssen und zu fragen,"
+282,"00:19:26,160","00:19:29,960",1166.16,1169.96,3.7999999999999545,wie können wir diese Anstrengung auf einer Art und Weise
+283,"00:19:30,000","00:19:34,080",1170.0,1174.08,4.079999999999927,"zu den Kindern bringt, dass sie der Lust drauf haben."
+284,"00:19:34,160","00:19:37,320",1174.16,1177.32,3.1599999999998545,"Leistungsliste, darum müssen Mitarbeiter testen."
+285,"00:19:37,400","00:19:42,000",1177.4,1182.0,4.599999999999909,Das ist genau der falsche Weg.
+286,"00:19:42,040","00:19:51,160",1182.04,1191.16,9.120000000000118,"Wir müssen uns eigentlich fragen, wie schaffen Räume zu schaffen,"
+287,"00:19:51,200","00:19:54,360",1191.2,1194.36,3.1599999999998545,wo Kinder und Jugendliche in gemeinsamer Arbeit
+288,"00:19:54,400","00:19:58,760",1194.4,1198.76,4.3599999999999,die Welt entdecken.
+289,"00:19:58,760","00:20:02,960",1198.76,1202.96,4.2000000000000455,"SM: Ich glaube dabei fehlt ein Punkt, die Personen lehrkraft."
+290,"00:20:02,960","00:20:06,360",1202.96,1206.36,3.3999999999998636,"Man kann Kindern mit den langweiligen Themen kommen,"
+291,"00:20:06,400","00:20:11,000",1206.4,1211.0,4.599999999999909,wenn die Person vorne begeistert.
+292,"00:20:11,040","00:20:17,640",1211.04,1217.64,6.600000000000136,"Ich stimme dem komplett zu, ich glaube,"
+293,"00:20:18,160","00:20:23,560",1218.16,1223.56,5.399999999999864,"dass Schule auf Motivation ausgelegt ist,"
+294,"00:20:23,600","00:20:26,840",1223.6,1226.84,3.240000000000009,aber nicht auf die Fertigkeit im Normalbetrieb.
+295,"00:20:26,880","00:20:30,440",1226.88,1230.44,3.5599999999999454,"Sie müssen über diesen Punkt,"
+296,"00:20:30,480","00:20:37,480",1230.48,1237.48,7.0,wo Kinder und Bildung in unserem System steht.
+297,"00:20:39,400","00:20:42,480",1239.4,1242.48,3.0799999999999272,"Eine Studie sagt,"
+298,"00:20:42,520","00:20:48,200",1242.52,1248.2,5.680000000000064,ein Fünftel der Kinder leidet unter psychologischen Auffälligkeiten.
+299,"00:20:48,240","00:20:52,840",1248.24,1252.84,4.599999999999909,21 % der Kinder sind einsam.
+300,"00:20:52,920","00:21:00,400",1252.92,1260.4,7.480000000000018,21 % der Kinder haben eine geminderte Lebensqualität.
+301,"00:21:03,080","00:21:10,560",1263.08,1270.56,7.480000000000018,Ein Fünftel erfahren Abwertungen durch Social Media.
+302,"00:21:11,560","00:21:17,280",1271.56,1277.28,5.720000000000027,"Zwölf bis 19-jährige Kinder haben 58 % Fake News gesehen,"
+303,"00:21:17,360","00:21:20,280",1277.36,1280.28,2.9200000000000728,"42 % radikalisierte politische Ansichten,"
+304,"00:21:20,320","00:21:23,320",1280.32,1283.32,3.0,"40 % Verschwörungstheorien,"
+305,"00:21:23,400","00:21:28,960",1283.4,1288.96,5.559999999999945,"19 % Hassbotschaften,"
+306,"00:21:29,040","00:21:35,520",1289.04,1295.52,6.480000000000018,30 % haben sexuelle Belästigung erlebt.
+307,"00:21:35,560","00:21:41,000",1295.56,1301.0,5.440000000000055,"Eine andere Studie sagt,"
+308,"00:21:41,080","00:21:45,000",1301.08,1305.0,3.9200000000000728,Kinder in der achten Klasse können zum Großteil nur wischen
+309,"00:21:45,040","00:21:47,680",1305.04,1307.68,2.6400000000001,auf Tablets.
+310,"00:21:47,720","00:21:51,160",1307.72,1311.16,3.4400000000000546,"Dann wird mir schlecht, ich frage mich, wie reagieren wir darauf?"
+311,"00:21:51,560","00:21:56,960",1311.56,1316.96,5.400000000000091,"Herr Köller, was sagt der Psychologe?"
+312,"00:21:56,960","00:22:03,520",1316.96,1323.52,6.559999999999945,OK: Das haben wir auch diskutiert nach der Pisa Studie.
+313,"00:22:03,520","00:22:06,320",1323.52,1326.32,2.7999999999999545,"Die damalige Bildungsministerin hat gesagt,"
+314,"00:22:06,400","00:22:11,200",1326.4,1331.2,4.7999999999999545,wir müssen ganz Tag in den Schulen etablieren.
+315,"00:22:11,240","00:22:16,120",1331.24,1336.12,4.879999999999882,"Wir haben ganz viele Familien, die ihre Kinder nicht schützen können,"
+316,"00:22:16,200","00:22:22,120",1336.2,1342.12,5.919999999999845,"vor Pornographie, vor Gewalt."
+317,"00:22:22,160","00:22:29,040",1342.16,1349.04,6.879999999999882,"Man hat mit der Etablierung des ganztags versucht,"
+318,"00:22:29,120","00:22:36,320",1349.12,1356.32,7.2000000000000455,die Schule mehr als Ort der Erziehung aufzubauen.
+319,"00:22:36,480","00:22:40,200",1356.48,1360.2,3.7200000000000273,"Um erforderten Eltern den Erziehungsauftrag abzunehmen,"
+320,"00:22:40,240","00:22:42,200",1360.24,1362.2,1.9600000000000364,und sie da zu unterstützen.
+321,"00:22:42,240","00:22:46,240",1362.24,1366.24,4.0,"Dass sich heute wieder bei den Zahlen, die sie genannt haben."
+322,"00:22:46,320","00:22:49,920",1366.32,1369.92,3.6000000000001364,"Ich glaube der Ruf stärker werden,"
+323,"00:22:49,960","00:22:58,000",1369.96,1378.0,8.039999999999964,im Unterricht muss die Schule bilden und im ganztags erziehen.
+324,"00:22:59,720","00:23:03,360",1379.72,1383.36,3.6399999999998727,"Ich stimme ihn teilweise Zug Herr Blume, es ist schön,"
+325,"00:23:03,440","00:23:06,320",1383.44,1386.32,2.8799999999998818,"wenn die Kinder intrinsische motiviert sind,"
+326,"00:23:06,360","00:23:09,320",1386.36,1389.32,2.9600000000000364,"wenn man sich die Theorie der Schule anschaut,"
+327,"00:23:09,360","00:23:14,040",1389.36,1394.04,4.680000000000064,"dann ist Schule auch dafür da, Dinge zu machen, die keinen Spaß machen."
+328,"00:23:14,120","00:23:18,400",1394.12,1398.4,4.2800000000002,Das ist verloren gegangen.
+329,"00:23:18,440","00:23:25,840",1398.44,1405.84,7.399999999999864,"Das haben sie eben auch gesagt, Western von gestern,"
+330,"00:23:26,680","00:23:30,560",1406.68,1410.56,3.8799999999998818,"Schule ist, das ist ein gesamtgesellschaftliches Phänomen,"
+331,"00:23:30,600","00:23:36,640",1410.6,1416.64,6.040000000000191,"alles was wir nicht mögen, machen wir nicht mehr."
+332,"00:23:36,720","00:23:41,120",1416.72,1421.12,4.399999999999864,"Werden Anstrengungen nicht mehr honoriert wird, dann ist das etwas,"
+333,"00:23:41,200","00:23:45,320",1421.2,1425.32,4.119999999999891,was auch in der Schule beobachten.
+334,"00:23:45,440","00:23:48,600",1425.44,1428.6,3.1599999999998545,"Dann werden die Ansprüche auch niedriger gesetzt,"
+335,"00:23:48,640","00:23:51,200",1428.64,1431.2,2.5599999999999454,"das schlimme, was ich dabei finde ist,"
+336,"00:23:51,240","00:23:54,920",1431.24,1434.92,3.6800000000000637,"gerade in den Brennpunkt Schulen,"
+337,"00:23:54,960","00:23:59,120",1434.96,1439.12,4.1599999999998545,"dass die Lehrerinnen und Lehrer den Schülern so wenig zutrauen,"
+338,"00:23:59,160","00:24:02,360",1439.16,1442.36,3.199999999999818,es gibt große Probleme in der Unterschätzung der
+339,"00:24:02,400","00:24:04,120",1442.4,1444.12,1.7199999999998,Leistungsfähigkeit.
+340,"00:24:04,120","00:24:07,920",1444.12,1447.92,3.800000000000182,"Sie trauen ihnen nichts zu, die muten ihnen auch nicht zu."
+341,"00:24:07,920","00:24:10,920",1447.92,1450.92,3.0,OK: Wir trauen Ihnen nichts zu Minor nichts zu.
+342,"00:24:10,960","00:24:12,960",1450.96,1452.96,2.0,"Die Latte ist so niedrig,"
+343,"00:24:12,960","00:24:18,320",1452.96,1458.32,5.3599999999999,dass man da gar nicht runter durchlaufen kann.
+344,"00:24:18,360","00:24:21,400",1458.36,1461.4,3.040000000000191,"Wir haben gesamtgesellschaftlich ein Phänomen,"
+345,"00:24:21,440","00:24:23,920",1461.44,1463.92,2.480000000000018,"dass Schülerinnen und Schüler erleben,"
+346,"00:24:23,960","00:24:31,800",1463.96,1471.8,7.839999999999918,"dass sie mit weniger durchkommen, wenn ich heute überlege,"
+347,"00:24:34,400","00:24:40,920",1474.4,1480.92,6.519999999999982,"wenn man die Gymnasiasten von 2009 betrachten, von vor 15 Jahren,"
+348,"00:24:41,000","00:24:45,800",1481.0,1485.8,4.7999999999999545,dann hatten die einen Leistung Vorsprung von vor zwei Jahren
+349,"00:24:45,840","00:24:51,800",1485.84,1491.8,5.960000000000036,sofort zwei Noten.
+350,"00:24:52,920","00:24:55,840",1492.92,1495.84,2.9199999999998454,"Wofür jemand damals eine vier bekommen hat,"
+351,"00:24:55,880","00:24:58,280",1495.88,1498.28,2.3999999999998636,bekommt er heute eine 2.
+352,"00:24:58,360","00:25:03,160",1498.36,1503.16,4.800000000000182,Das kann nur mit dem abschwächen des Leistungsniveaus zu tun haben.
+353,"00:25:03,240","00:25:07,080",1503.24,1507.08,3.839999999999918,"Dann muss man sich auch nicht wundern, wenn die Motivation sinkt."
+354,"00:25:07,320","00:25:11,760",1507.32,1511.76,4.440000000000055,"BB: Das ist interessant, wenn wir dieses Jahr nachholen würden,"
+355,"00:25:11,800","00:25:14,600",1511.8,1514.6,2.7999999999999545,würde es ein Wirtschaftswachstum von 7 % bedeuten.
+356,"00:25:14,600","00:25:16,920",1514.6,1516.92,2.3200000000001637,"Dieses Jahr, von dem er spricht?"
+357,"00:25:23,640","00:25:26,880",1523.64,1526.88,3.240000000000009,BB: das ist anekdotische.
+358,"00:25:27,000","00:25:33,040",1527.0,1533.04,6.039999999999964,Ich bestätige das bei mir nicht.
+359,"00:25:33,080","00:25:39,000",1533.08,1539.0,5.920000000000073,Das sind die Pisa Zahlen.
+360,"00:25:42,320","00:25:49,160",1542.32,1549.16,6.8400000000001455,"Mir ist es wichtig darauf hinzuweisen, weil ich glaube,"
+361,"00:25:49,200","00:25:53,160",1549.2,1553.16,3.9600000000000364,"dass verkannt wird,"
+362,"00:25:53,200","00:25:59,560",1553.2,1559.56,6.3599999999999,mit was für einem unfassbaren Probleme zu tun haben.
+363,"00:25:59,600","00:26:02,680",1559.6,1562.68,3.0800000000001546,Wir haben zwei Steuerzahler für einen Rentner.
+364,"00:26:02,760","00:26:05,280",1562.76,1565.28,2.519999999999982,Das geht weit herunter.
+365,"00:26:05,320","00:26:08,520",1565.32,1568.52,3.2000000000000455,"Wir hatten sechs Menschen, die eingezahlt haben."
+366,"00:26:08,560","00:26:15,080",1568.56,1575.08,6.519999999999982,"Hier liegt weder eine Katastrophe vor,"
+367,"00:26:15,840","00:26:19,120",1575.84,1579.12,3.2799999999999727,"auf der anderen Seite hatte ich nicht das Gefühl,"
+368,"00:26:19,160","00:26:21,600",1579.16,1581.6,2.439999999999827,dass bei der letzten Pisa Studie wirklich viel passiert ist.
+369,"00:26:21,600","00:26:24,440",1581.6,1584.44,2.8400000000001455,"Ist es total interessant,"
+370,"00:26:24,480","00:26:30,880",1584.48,1590.88,6.400000000000091,"die Bildungsministerium sagen, sei stabil."
+371,"00:26:30,880","00:26:33,960",1590.88,1593.96,3.0799999999999272,"Das ist der Euphemismus für, es läuft weiterhin mies."
+372,"00:26:35,720","00:26:38,120",1595.72,1598.12,2.3999999999998636,"BB: Was mir trotzdem wichtig ist,"
+373,"00:26:38,160","00:26:45,160",1598.16,1605.16,7.0,ich finde diese Begrifflichkeiten interessant.
+374,"00:26:45,440","00:26:51,280",1605.44,1611.28,5.839999999999918,Das hat sich in der Bildungspolitik immer funktional lustig an.
+375,"00:26:51,320","00:26:54,400",1611.32,1614.4,3.0800000000001546,Sowas wie Leitgedanken zur Demokratieerziehung.
+376,"00:26:54,440","00:26:59,120",1614.44,1619.12,4.679999999999836,Was bedeutet das konkret?
+377,"00:26:59,200","00:27:05,400",1619.2,1625.4,6.2000000000000455,"Erziehung kann nicht nur bedeuten,"
+378,"00:27:10,400","00:27:13,480",1630.4,1633.48,3.0799999999999272,du machst das jetzt ehrliches PartizipationEs
+379,"00:27:13,520","00:27:16,120",1633.52,1636.12,2.599999999999909,bedeutet auch Partizipation.
+380,"00:27:16,160","00:27:22,800",1636.16,1642.8,6.639999999999873,"Wir haben Schülerinnen und Schüler, ich fand das sehr interessant,"
+381,"00:27:22,880","00:27:25,800",1642.88,1645.8,2.9199999999998454,"dass es teilweise mathematische Inhalte gibt,"
+382,"00:27:25,880","00:27:29,000",1645.88,1649.0,3.119999999999891,"die man nicht nur dann nicht braucht,"
+383,"00:27:29,040","00:27:32,320",1649.04,1652.32,3.2799999999999727,"wenn man nach der Schule kein Mathematik studiert,"
+384,"00:27:32,360","00:27:39,120",1652.36,1659.12,6.759999999999991,sondern dann wenn man Mathematik studiert.
+385,"00:27:41,800","00:27:45,360",1661.8,1665.36,3.5599999999999454,Wenn wir über Social Media sprechen und darüber
+386,"00:27:45,400","00:27:48,880",1665.4,1668.88,3.480000000000018,"wie Algorithmen funktionieren, da wäre Mathematik absolut genial."
+387,"00:27:48,880","00:27:59,320",1668.88,1679.32,10.439999999999827,Womit hat das zu tun?
+388,"00:27:59,320","00:28:02,480",1679.32,1682.48,3.160000000000082,Das Motivatorische ist offensichtlich ein Thema.
+389,"00:28:02,560","00:28:04,480",1682.56,1684.48,1.9200000000000728,Stellen Sie das auch so fest?
+390,"00:28:04,560","00:28:08,400",1684.56,1688.4,3.8400000000001455,SS: Der Lebensweltbezug für die Kinder wahnsinnig wichtig.
+391,"00:28:08,480","00:28:10,760",1688.48,1690.76,2.2799999999999727,Ich möchte mal ein Beispiel nennen.
+392,"00:28:10,800","00:28:18,360",1690.8,1698.36,7.559999999999945,"Wenn ich in der dritten Klasse Bruchrechnung aufnehme,"
+393,"00:28:19,760","00:28:26,080",1699.76,1706.08,6.319999999999936,"um das mit Schokolade darzustellen,"
+394,"00:28:28,120","00:28:30,840",1708.12,1710.84,2.7200000000000273,würden mich die Schülerinnen und Schüler
+395,"00:28:30,880","00:28:34,880",1710.88,1714.88,4.0,"wegen der Schokolade fragen, wann wir das wiederholen könnten."
+396,"00:28:34,960","00:28:38,760",1714.96,1718.76,3.7999999999999545,Es ist wahnsinnig wichtig die Kinder erstmals zu bekommen.
+397,"00:28:38,800","00:28:40,960",1718.8,1720.96,2.160000000000082,Der Lebensweltbezug muss da sein.
+398,"00:28:41,000","00:28:44,680",1721.0,1724.68,3.6800000000000637,Wir müssen das auf verschiedene Arten darstellen können.
+399,"00:28:44,760","00:28:49,240",1724.76,1729.24,4.480000000000018,"Es kann noch ein anderes Stichwort,"
+400,"00:28:49,280","00:28:56,160",1729.28,1736.16,6.880000000000109,"und wäre es an der Brennpunktschule bewusst,"
+401,"00:28:59,240","00:29:04,000",1739.24,1744.0,4.759999999999991,"wir haben heute Vormittag in der Schule darüber gesprochen,"
+402,"00:29:04,080","00:29:07,040",1744.08,1747.04,2.9600000000000364,"ein Schüler in der sechsten Klasse,"
+403,"00:29:07,120","00:29:09,960",1747.12,1749.96,2.8400000000001455,"verspricht Zuhause türkisch in der Familie,"
+404,"00:29:10,000","00:29:16,280",1750.0,1756.28,6.279999999999973,"spricht aber auch sehr gut Deutsch,"
+405,"00:29:18,360","00:29:21,560",1758.36,1761.56,3.2000000000000455,"hat auch schon im Zahlenraum bis 1000 gerechnet,"
+406,"00:29:21,600","00:29:25,960",1761.6,1765.96,4.360000000000127,"konnte fließend lesen und schreiben, ist offensichtlich hochbegabt."
+407,"00:29:26,000","00:29:29,200",1766.0,1769.2,3.2000000000000455,"Diesen Fehler müssen wir in der ersten Klasse genauso mitreißen, wie"
+408,"00:29:29,240","00:29:31,880",1769.24,1771.88,2.6400000000001,"andere, die vielleicht noch gar kein Wort Deutsch können."
+409,"00:29:31,960","00:29:35,040",1771.96,1775.04,3.0799999999999272,Die ihren eigenen Namen nicht schreiben können.
+410,"00:29:35,080","00:29:37,240",1775.08,1777.24,2.160000000000082,Wir müssen alle Kinder mitnehmen.
+411,"00:29:37,280","00:29:39,360",1777.28,1779.36,2.0799999999999272,Das ist eine sehr große Aufgabe.
+412,"00:29:39,440","00:29:45,040",1779.44,1785.04,5.599999999999909,Ganztags auch ein Stichwort.
+413,"00:29:45,080","00:29:51,200",1785.08,1791.2,6.120000000000118,"Es geht darum, dass das lesen schreiben rechnen,"
+414,"00:29:51,320","00:29:54,080",1791.32,1794.08,2.759999999999991,und auch das soziale lernen gehört dazu.
+415,"00:29:54,120","00:29:57,840",1794.12,1797.84,3.7200000000000273,"Da brauche ich nicht nur die Lehrkräfte,"
+416,"00:29:57,920","00:30:01,400",1797.92,1801.4,3.480000000000018,da brauche ich auch Schulsozialarbeit.
+417,"00:30:01,480","00:30:06,760",1801.48,1806.76,5.279999999999973,Wir haben an der Schule Werkpädagogik.
+418,"00:30:06,840","00:30:09,160",1806.84,1809.16,2.3200000000001637,"Das sind alles Dinge,"
+419,"00:30:09,200","00:30:15,480",1809.2,1815.48,6.279999999999973,die wir brauchen um den Unterricht möglich machen zu können.
+420,"00:30:15,560","00:30:19,080",1815.56,1819.08,3.519999999999982,"Um nicht nach der großen Pause nur dasitzen zu können,"
+421,"00:30:19,160","00:30:22,880",1819.16,1822.88,3.7200000000000273,"und die Konflikte auftreten zu können,"
+422,"00:30:22,960","00:30:25,840",1822.96,1825.84,2.8799999999998818,sondern dass es da eine multiprofessionelle
+423,"00:30:25,880","00:30:30,320",1825.88,1830.32,4.439999999999827,"Aufstellung gibt, die auch das lernen am ganzen Tag befruchtet."
+424,"00:30:30,360","00:30:34,320",1830.36,1834.32,3.9600000000000364,Sie sollen auch nachmittags was lernen.
+425,"00:30:34,320","00:30:38,200",1834.32,1838.2,3.880000000000109,Ich würde das gerne ein bisschen ordnen.
+426,"00:30:38,200","00:30:44,600",1838.2,1844.6,6.399999999999864,Bei der das mobile Endgerät dahinten schon wieder sehen.
+427,"00:30:44,640","00:30:47,800",1844.64,1847.8,3.1599999999998545,"Sprache, die Frage soziale Herkunft, auch Gewalt,"
+428,"00:30:47,880","00:30:52,400",1847.88,1852.4,4.519999999999982,darüber sollten wir gleich separat sprechen.
+429,"00:30:52,480","00:30:58,720",1852.48,1858.72,6.240000000000009,Australien hat gerade großem Erfolg
+430,"00:30:59,560","00:31:02,680",1859.56,1862.68,3.1200000000001182,"mobile Endgerät unter 16 verboten, prinzipiell."
+431,"00:31:02,720","00:31:07,360",1862.72,1867.36,4.639999999999873,"Das fand ich interessant,"
+432,"00:31:07,400","00:31:11,680",1867.4,1871.68,4.279999999999973,"eine deutsche Umfrage, wonach 74 % aller deutschen Eltern sagen,"
+433,"00:31:11,760","00:31:13,720",1871.76,1873.72,1.9600000000000364,das wollen wir auch.
+434,"00:31:13,800","00:31:17,160",1873.8,1877.16,3.3600000000001273,"Der dritte Punkt, dass es mein Entscheide Punkt,"
+435,"00:31:17,240","00:31:22,560",1877.24,1882.56,5.319999999999936,Ich nehme keine gesellschaftliche Debatte darüber war.
+436,"00:31:22,640","00:31:27,240",1882.64,1887.24,4.599999999999909,"Obwohl erkennbar ein großer Teil der Eltern sagt,"
+437,"00:31:27,320","00:31:31,440",1887.32,1891.44,4.120000000000118,"dass die Australier machen, kein mobiles Endgerät mehr,"
+438,"00:31:31,480","00:31:34,760",1891.48,1894.76,3.2799999999999727,"keine sozialen Medien bis 16, das wollen wir auch."
+439,"00:31:34,840","00:31:39,000",1894.84,1899.0,4.160000000000082,Warum diskutieren wir das nicht`?
+440,"00:31:39,080","00:31:40,680",1899.08,1900.68,1.6000000000001364,SM: die Debatte ist unter dem Radar.
+441,"00:31:40,680","00:31:49,880",1900.68,1909.88,9.200000000000045,"Ich glaube, wir haben die Debatte nur unter dem Radar."
+442,"00:31:49,880","00:31:53,520",1909.88,1913.52,3.6399999999998727,"OK: Es ist nicht nur Australien, sondern auch Schweden."
+443,"00:31:53,600","00:31:56,360",1913.6,1916.36,2.759999999999991,Sie wird unter dem Stichwort Handyverbot auch bei uns geführt.
+444,"00:31:59,200","00:32:06,400",1919.2,1926.4,7.2000000000000455,"Im Zugang zu Social Media, was auch was anderes."
+445,"00:32:08,440","00:32:13,040",1928.44,1933.04,4.599999999999909,"OK: Das würde ich trennen, es ist ein Unterschied, ob ich fahr biete,"
+446,"00:32:13,120","00:32:16,640",1933.12,1936.64,3.520000000000209,"ob man mit TikTok konfrontiert wird oder mit Facebook,"
+447,"00:32:16,720","00:32:20,440",1936.72,1940.44,3.7200000000000273,"das ist etwas anderes, wenn ich über ein Handyverbot rede."
+448,"00:32:20,520","00:32:24,640",1940.52,1944.64,4.120000000000118,Man kann mit Handys auch sinnvolle Dinge im Unterricht machen.
+449,"00:32:24,680","00:32:30,800",1944.68,1950.8,6.119999999999891,"Bestimmung Apps in Biologie zum Beispiel,"
+450,"00:32:30,880","00:32:33,360",1950.88,1953.36,2.479999999999791,"die Frage ist nicht ja oder nein,"
+451,"00:32:33,440","00:32:39,040",1953.44,1959.04,5.599999999999909,"sondern wie organisieren wir die Medienbildung in Schulen,"
+452,"00:32:39,120","00:32:43,400",1959.12,1963.4,4.2800000000002,"die zeigen wir die Potenziale Unterricht von mobilen Endgeräten,"
+453,"00:32:43,480","00:32:47,120",1963.48,1967.12,3.6399999999998727,und die garantieren wir einen störungsfreien Unterricht.
+454,"00:32:47,160","00:32:49,960",1967.16,1969.96,2.7999999999999545,Es geht auch um Medienerziehung.
+455,"00:32:50,040","00:32:56,120",1970.04,1976.12,6.079999999999927,Das ist auch Aufgabe von Schule.
+456,"00:32:58,360","00:33:02,160",1978.36,1982.16,3.800000000000182,"Früher hatten wir die Diskussion um 8 Stunden Fernsehen,"
+457,"00:33:02,240","00:33:05,000",1982.24,1985.0,2.759999999999991,und Gewalt Fernsehen heute haben wir es ins Internet verschoben.
+458,"00:33:05,640","00:33:11,160",1985.64,1991.16,5.519999999999982,SM: Wobei das finde ich nicht richtig.
+459,"00:33:11,160","00:33:26,160",1991.16,2006.16,15.0,"Es ist kein Verschieben,"
+460,"00:33:26,160","00:33:33,560",2006.16,2013.56,7.399999999999864,"beim Fernsehen habe ich konusmiert, hier bin ich produziert,"
+461,"00:33:33,600","00:33:38,880",2013.6,2018.88,5.2800000000002,"müssen eine differenzierte Debatte darüber führen, dass es wichtig ist"
+462,"00:33:38,960","00:33:41,640",2018.96,2021.64,2.6800000000000637,ein Verbot von Social Media Nutzung einzuführen.
+463,"00:33:41,880","00:33:44,320",2021.88,2024.32,2.439999999999827,"Wir sind uns einig,"
+464,"00:33:44,360","00:33:50,720",2024.36,2030.72,6.360000000000127,es geht um ein Verbot von Social Media bis 16?
+465,"00:33:50,720","00:33:55,880",2030.72,2035.88,5.160000000000082,SM: Es muss durchgesetzt werden.
+466,"00:33:55,880","00:34:02,160",2035.88,2042.16,6.279999999999973,"SS: ein Verbot, was auch von den Eltern eingehalten werden muss."
+467,"00:34:02,240","00:34:05,680",2042.24,2045.68,3.4400000000000546,"Die Eltern wünschen sich eigentlich Verbote,"
+468,"00:34:05,720","00:34:10,520",2045.72,2050.52,4.7999999999999545,"es gibt auch Lehrkräfte, die sich Verbote wünschen."
+469,"00:34:10,600","00:34:17,800",2050.6,2057.8,7.200000000000273,In Berlin ist es so das jeder Schule einzeln entscheiden muss.
+470,"00:34:17,880","00:34:21,360",2057.88,2061.36,3.480000000000018,"Es sollte kein Verbot von digitalen Endgeräten geben,"
+471,"00:34:21,400","00:34:23,800",2061.4,2063.8,2.400000000000091,weil die Kinder damit lernen müssen umzugehen.
+472,"00:34:23,800","00:34:26,520",2063.8,2066.52,2.7199999999998,SM: Es müssen durchsetzbare Verbote sein.
+473,"00:34:26,600","00:34:31,760",2066.6,2071.76,5.160000000000309,"Für mich ist wichtig, dass wir sauber darüber diskutieren,"
+474,"00:34:31,760","00:34:35,640",2071.76,2075.64,3.8799999999996544,dass es nicht nur Verbote sondern auch Medienbildung
+475,"00:34:35,720","00:34:41,280",2075.72,2081.28,5.5600000000004,"ab der ersten Klasse, ab der Kita gibt."
+476,"00:34:41,360","00:34:44,680",2081.36,2084.68,3.319999999999709,"Diese Debatte müssen wir medial deutlich führen,"
+477,"00:34:44,720","00:34:49,160",2084.72,2089.16,4.440000000000055,"nicht immer mit dem nur Verbote und nur begleiten,"
+478,"00:34:49,240","00:34:52,280",2089.24,2092.28,3.0400000000004184,"dass führen wir, aus meiner Sicht sehr häufig."
+479,"00:34:52,640","00:34:55,960",2092.64,2095.96,3.3200000000001637,"Schwarz-weiß, man erreicht die Kinder dann anders,"
+480,"00:34:56,040","00:34:58,080",2096.04,2098.08,2.0399999999999636,man verliert sie sogar.
+481,"00:34:58,160","00:35:02,800",2098.16,2102.8,4.640000000000327,BB: Ich würde grundsätzlich widersprechen.
+482,"00:35:02,880","00:35:05,800",2102.88,2105.8,2.9200000000000728,"65 % wünschen sich, hätte hätte Fahrradkette."
+483,"00:35:05,880","00:35:11,880",2105.88,2111.88,6.0,Wir haben jetzt massive Probleme.
+484,"00:35:11,960","00:35:15,760",2111.96,2115.76,3.800000000000182,"Die Probleme Bildungssystem können wir uns so vorstellen,"
+485,"00:35:15,800","00:35:22,520",2115.8,2122.52,6.7199999999998,"wir müssten eine Propellermaschine in ein Düsenjet umbauen,"
+486,"00:35:22,560","00:35:29,200",2122.56,2129.2,6.639999999999873,weil sie im 21. Jahrhundert ankommen wollen.
+487,"00:35:29,280","00:35:33,440",2129.28,2133.44,4.1599999999998545,"Die Tragflächen trennen, weil wir die Piloten nicht verstehen."
+488,"00:35:33,480","00:35:35,440",2133.48,2135.44,1.9600000000000364,"Was ich damit sagen will,"
+489,"00:35:35,480","00:35:39,280",2135.48,2139.28,3.800000000000182,"wir können über Smartphoneverbote sprechen,"
+490,"00:35:39,360","00:35:47,400",2139.36,2147.4,8.039999999999964,"aber wir haben gerade 55 % Schüler, die ohne Schulabschluss gehen."
+491,"00:35:47,480","00:35:49,600",2147.48,2149.6,2.119999999999891,85.000 fehlende Lehrkräfte bis ins Jahr 2035.
+492,"00:35:49,600","00:35:52,280",2149.6,2152.28,2.680000000000291,Es ist noch mal eine andere Debatte oder?
+493,"00:35:54,920","00:36:00,960",2154.92,2160.96,6.039999999999964,BB: findet einfach nicht statt.
+494,"00:36:05,920","00:36:09,440",2165.92,2169.44,3.519999999999982,"Die Frage, wie wollen wir im 21. Jahrhundert lernen,"
+495,"00:36:09,520","00:36:11,640",2169.52,2171.64,2.119999999999891,diese Debatte findet nicht statt.
+496,"00:36:11,720","00:36:14,960",2171.72,2174.96,3.2400000000002365,Ich habe die gerade genau zugehört.
+497,"00:36:15,000","00:36:21,360",2175.0,2181.36,6.360000000000127,"Die Frage danach was bräuchten wir Sprachförderung, Lernbegleitung."
+498,"00:36:21,400","00:36:24,360",2181.4,2184.36,2.9600000000000364,"Das ist eine Frage, mit der sich die Politik"
+499,"00:36:24,440","00:36:28,040",2184.44,2188.04,3.599999999999909,jeden Tag beschäftigen müsste.
+500,"00:36:28,080","00:36:36,040",2188.08,2196.04,7.960000000000036,Aber wann hat das letzte Mal ein Finanzminister von Ländern oder Bund
+501,"00:36:36,080","00:36:39,840",2196.08,2199.84,3.7600000000002183,das Wort Bildung in den Mund genommen
+502,"00:36:39,840","00:36:44,240",2199.84,2204.24,4.399999999999636,In Sonntagsreden passiert das ständig.
+503,"00:36:44,240","00:36:47,360",2204.24,2207.36,3.1200000000003456,Wir Reden seit 20 Jahren über die immergleichen Mechanismen.
+504,"00:36:48,160","00:36:50,840",2208.16,2210.84,2.680000000000291,"BB: was wir haben, ist das Chancenprogramm."
+505,"00:36:50,880","00:36:53,280",2210.88,2213.28,2.400000000000091,Das betrifft 4000 von 40.000 Schulen.
+506,"00:36:53,360","00:36:55,280",2213.36,2215.28,1.9200000000000728,"Ich habe eine Umfrage gemacht,"
+507,"00:36:55,360","00:37:01,680",2215.36,2221.68,6.319999999999709,und gefragt wie es den Leuten geht.
+508,"00:37:02,520","00:37:04,560",2222.52,2224.56,2.0399999999999636,"Dann die Leute gesagt,"
+509,"00:37:04,640","00:37:11,000",2224.64,2231.0,6.360000000000127,sie dürften nicht auf Toilette gehen.
+510,"00:37:11,080","00:37:13,880",2231.08,2233.88,2.800000000000182,"Dass sie nicht richtig unterrichten können,"
+511,"00:37:13,920","00:37:16,960",2233.92,2236.96,3.0399999999999636,weil sie die Individualisierung nicht leisten können.
+512,"00:37:17,040","00:37:20,600",2237.04,2240.6,3.5599999999999454,"Dass sie gleichzeitig immer mehr machen müssen, und unter"
+513,"00:37:20,680","00:37:24,960",2240.68,2244.96,4.2800000000002,"dem Druck zusammenbrechen. Ich finde die Grundsatzdebatte darüber, wie"
+514,"00:37:25,040","00:37:27,240",2245.04,2247.24,2.199999999999818,wir Bildung
+515,"00:37:27,280","00:37:31,520",2247.28,2251.52,4.239999999999782,"im 21 Jahrhundert gestalten,"
+516,"00:37:31,600","00:37:34,880",2251.6,2254.88,3.2800000000002,die findet nicht in der Öffentlichkeit statt.
+517,"00:37:34,880","00:37:40,000",2254.88,2260.0,5.119999999999891,SM: Ich muss eine Sache ganz kurz ergänzen.
+518,"00:37:40,000","00:37:43,520",2260.0,2263.52,3.519999999999982,"Ich wäre zufrieden, wenn wir uns darüber unterhalten,"
+519,"00:37:43,600","00:37:46,120",2263.6,2266.12,2.519999999999982,"wie kann es sein, dass 30 % der Kinder,"
+520,"00:37:46,200","00:37:48,120",2266.2,2268.12,1.9200000000000728,"nicht richtig rechnen können,"
+521,"00:37:48,160","00:37:50,960",2268.16,2270.96,2.800000000000182,"dass 15-jährige nicht lesen können richtig,"
+522,"00:37:51,040","00:37:53,800",2271.04,2273.8,2.7600000000002183,"es geht um begreifen, dass es das Thema."
+523,"00:37:57,880","00:38:00,200",2277.88,2280.2,2.319999999999709,SM: Es muss trotzdem einer Sache ergänzen.
+524,"00:38:00,280","00:38:03,520",2280.28,2283.52,3.2399999999997817,Normalerweise hacke ich gerne auf der Politik rum.
+525,"00:38:03,520","00:38:07,480",2283.52,2287.48,3.9600000000000364,"Wenn ich aber beispielsweise nach Niedersachsen schaue,"
+526,"00:38:07,600","00:38:10,480",2287.6,2290.48,2.880000000000109,"was da in den letzten 2-3 Jahren passiert es,"
+527,"00:38:10,560","00:38:16,480",2290.56,2296.48,5.920000000000073,KI Einsatz im Unterricht.
+528,"00:38:18,520","00:38:21,200",2298.52,2301.2,2.6799999999998363,"Man hat uns ganz viel Autonomie gegeben,"
+529,"00:38:21,240","00:38:25,320",2301.24,2305.32,4.080000000000382,"das kann man vier Jahre machen, und danach weiß wieder keiner,"
+530,"00:38:25,400","00:38:27,320",2305.4,2307.32,1.9200000000000728,was passiert.
+531,"00:38:27,400","00:38:35,000",2307.4,2315.0,7.599999999999909,"Müssen auch darüber sprechen, die wirkt Politik Ausbildung."
+532,"00:38:35,080","00:38:37,800",2315.08,2317.8,2.7200000000002547,Macht es Sinn der Bildung alle vier Jahre
+533,"00:38:37,880","00:38:41,760",2317.88,2321.76,3.880000000000109,einen neuen Duktus zu vergeben.
+534,"00:38:41,840","00:38:48,240",2321.84,2328.24,6.399999999999636,"Müssener besprechen, ob wir Bildungsent kritisieren sollten."
+535,"00:38:48,320","00:38:54,160",2328.32,2334.16,5.839999999999691,"Man muss offen machen,"
+536,"00:38:54,240","00:39:00,280",2334.24,2340.28,6.040000000000418,"es kommt nicht davon, dass wir als Lehrkräfte klagen,"
+537,"00:39:00,360","00:39:05,680",2340.36,2345.68,5.319999999999709,"die Politiker sehen auch unsere Missstände,"
+538,"00:39:05,800","00:39:10,320",2345.8,2350.32,4.519999999999982,"aber sie können es nicht innerhalb von ein Jahr ändern,"
+539,"00:39:10,360","00:39:13,760",2350.36,2353.76,3.400000000000091,"man muss schauen, was muss innerhalb von fünf Jahren,"
+540,"00:39:13,840","00:39:16,960",2353.84,2356.96,3.119999999999891,"es braucht einen Langzeitplan, der ist wichtig."
+541,"00:39:17,880","00:39:24,360",2357.88,2364.36,6.480000000000018,Können wir das noch konkreter machen?
+542,"00:39:26,480","00:39:30,160",2366.48,2370.16,3.6799999999998363,Niemand klagt pauschal und ganz prinzipiell
+543,"00:39:30,240","00:39:32,760",2370.24,2372.76,2.5200000000004366,über die Politik und die Gesellschaft.
+544,"00:39:32,840","00:39:35,760",2372.84,2375.76,2.9200000000000728,Es ist bisschen doof.
+545,"00:39:35,840","00:39:41,800",2375.84,2381.8,5.960000000000036,"Die Frage, warum wir Schüler haben,"
+546,"00:39:41,880","00:39:45,320",2381.88,2385.32,3.4400000000000546,"in dem Ausmaß von den Schulen abgehen,"
+547,"00:39:45,400","00:39:50,720",2385.4,2390.72,5.319999999999709,"Schulabbrecher, die direkt in die Sozialsysteme einwandern."
+548,"00:39:50,800","00:39:53,880",2390.8,2393.88,3.0799999999999272,"Weil wir es nicht besser hinkriegen,dass wir so"
+549,"00:39:53,960","00:39:56,040",2393.96,2396.04,2.0799999999999272,"viele Kinder haben,"
+550,"00:39:56,080","00:40:00,680",2396.08,2400.68,4.599999999999909,die nicht vernünftig lesen und schreiben können.
+551,"00:40:00,720","00:40:02,680",2400.72,2402.68,1.9600000000000364,Wo ist da die Ursache?
+552,"00:40:02,760","00:40:04,800",2402.76,2404.8,2.0399999999999636,Ist das eine Thema die Sprache?
+553,"00:40:04,880","00:40:08,240",2404.88,2408.24,3.3599999999996726,Wo mindestens eine andere Sprache gesprochen wird. Ich
+554,"00:40:08,320","00:40:10,240",2408.32,2410.24,1.919999999999618,"komme selber aus einem Land,"
+555,"00:40:10,280","00:40:17,080",2410.28,2417.08,6.799999999999727,wo verschiedene Sprachen gesprochen werden.
+556,"00:40:19,520","00:40:27,120",2419.52,2427.12,7.599999999999909,"Dann denke ich nicht als Südtiroler, Problem, sondern Chance."
+557,"00:40:27,240","00:40:29,800",2427.24,2429.8,2.5600000000004,"Die Frage ist,"
+558,"00:40:29,880","00:40:33,760",2429.88,2433.76,3.880000000000109,"wie schaffst du es die zweite Sprache,"
+559,"00:40:33,840","00:40:37,800",2433.84,2437.8,3.9600000000000364,"nämlich dass Deutsch in dem Fall, auf das Niveau zu bringen,"
+560,"00:40:37,880","00:40:40,240",2437.88,2440.24,2.3599999999996726,dass du brauchst.
+561,"00:40:40,240","00:40:44,400",2440.24,2444.4,4.160000000000309,"Die Gefahr, dass auch die Erfahrung aus meinem kleinen Land,"
+562,"00:40:44,400","00:40:51,240",2444.4,2451.24,6.839999999999691,"die Gefahr ist groß, dass man beide Sprachen nicht richtig kann,"
+563,"00:40:51,320","00:40:55,640",2451.32,2455.64,4.319999999999709,"wenn man es gut macht, dann kann man beides gut. Dann funktioniert die"
+564,"00:40:55,720","00:40:59,440",2455.72,2459.44,3.7200000000002547,"Snap sind ganz anders,"
+565,"00:41:08,080","00:41:12,680",2468.08,2472.68,4.599999999999909,SS: wir sehen an unserer Schule Sprache Ressource.
+566,"00:41:12,760","00:41:18,680",2472.76,2478.68,5.919999999999618,"Wir fördern Kinder,"
+567,"00:41:22,360","00:41:26,120",2482.36,2486.12,3.7599999999997635,deren wir haben auch zwei kurdische Sprachen türkische.
+568,"00:41:26,160","00:41:30,280",2486.16,2490.28,4.120000000000346,Wir nehmen schon seit Jahren Teil an Erasmus Austauschprogramm.
+569,"00:41:30,400","00:41:34,160",2490.4,2494.16,3.7599999999997635,Es gibt wechselseitige Hospitalsionen.
+570,"00:41:34,240","00:41:37,280",2494.24,2497.28,3.0400000000004184,Da spielt die Sprache auch eine Rolle.
+571,"00:41:37,360","00:41:40,800",2497.36,2500.8,3.4400000000000546,"Auch in unserer kleinen Schulbibliothek,"
+572,"00:41:40,880","00:41:44,520",2500.88,2504.52,3.6399999999998727,wo wir nicht nur Bücher auf Deutsch ausleihen können.
+573,"00:41:44,600","00:41:51,000",2504.6,2511.0,6.400000000000091,Wir nehmen Sprache als Ressource war.
+574,"00:41:53,400","00:41:58,000",2513.4,2518.0,4.599999999999909,Es gibt in deiner Klasse kein gleichaltriges sprach Vorbild.
+575,"00:41:58,080","00:42:01,800",2518.08,2521.8,3.7200000000002547,"Von wem sollen sich also lernen,"
+576,"00:42:01,880","00:42:05,240",2521.88,2525.24,3.3599999999996726,wenn sie es ausschließlich von der Lehrkraft lernen.
+577,"00:42:05,320","00:42:11,240",2525.32,2531.24,5.919999999999618,Es ist zu wenig.
+578,"00:42:13,720","00:42:15,880",2533.72,2535.88,2.1600000000003092,"Wir haben drei Willkommenklassen,"
+579,"00:42:15,960","00:42:18,360",2535.96,2538.36,2.400000000000091,"von Kindern die neu gekommen sind,"
+580,"00:42:18,440","00:42:24,840",2538.44,2544.84,6.400000000000091,noch kein richtiges Deutsch sprechen.
+581,"00:42:29,840","00:42:37,400",2549.84,2557.4,7.559999999999945,"Die zu fördern, erstellen wir unter schädliche Phänomene fest."
+582,"00:42:37,480","00:42:43,400",2557.48,2563.4,5.920000000000073,Sie waren sehr schnell.
+583,"00:42:49,480","00:42:52,920",2569.48,2572.92,3.4400000000000546,"Wussten was sie haben verschiedene Sprachen gelernt,"
+584,"00:42:53,040","00:42:55,160",2573.04,2575.16,2.119999999999891,mit verschiedenen Analphabeten.
+585,"00:42:55,240","00:43:02,040",2575.24,2582.04,6.800000000000182,"Kommen Sie zu uns und müssen möglichst schnell Deutsch lernen,"
+586,"00:43:02,120","00:43:07,480",2582.12,2587.48,5.360000000000127,"wo sie sagen, warum soll ich noch mal neu anfangen?"
+587,"00:43:07,560","00:43:14,920",2587.56,2594.92,7.360000000000127,Und wer weiß wo ich nächstes Jahr drin und was noch
+588,"00:43:18,480","00:43:21,960",2598.48,2601.96,3.480000000000018,Es gibt natürlich große Chancen und Schwierigkeiten.
+589,"00:43:22,040","00:43:26,640",2602.04,2606.64,4.599999999999909,"Für uns ist es wichtig, dass es Klassen gibt,"
+590,"00:43:26,720","00:43:30,960",2606.72,2610.96,4.2400000000002365,wo gleichaltrige als sprach Vorbild fungieren können.
+591,"00:43:31,120","00:43:35,000",2611.12,2615.0,3.880000000000109,Das fängt auch schon vor der ersten Klasse an.
+592,"00:43:35,080","00:43:37,280",2615.08,2617.28,2.200000000000273,"In Berlin gibt es Kitas,"
+593,"00:43:37,360","00:43:44,200",2617.36,2624.2,6.839999999999691,wo es genauso ist wie bei uns an der Schule.
+594,"00:43:44,720","00:43:49,600",2624.72,2629.6,4.880000000000109,Dass dazu wenig Kinder Sprachvorbilder sein können.
+595,"00:43:49,600","00:43:52,840",2629.6,2632.84,3.2400000000002365,"das trifft auf eine deutsche Lebenswirklichkeit,"
+596,"00:43:52,840","00:43:57,520",2632.84,2637.52,4.679999999999836,die eine ganz andere ist.
+597,"00:43:57,600","00:44:00,360",2637.6,2640.36,2.7600000000002183,"OK: Sie haben auf Südtirol Bezug genommen,"
+598,"00:44:00,480","00:44:06,920",2640.48,2646.92,6.440000000000055,"da geht es um Italienisch und Deutsch,"
+599,"00:44:10,560","00:44:14,600",2650.56,2654.6,4.039999999999964,"in Deutschland geht es da um 20,30 unterschiedliche Sprachen,"
+600,"00:44:14,680","00:44:17,600",2654.68,2657.6,2.9200000000000728,viele Kinder sind gar nicht Alphabetisierung.
+601,"00:44:17,680","00:44:22,040",2657.68,2662.04,4.360000000000127,Viele haben auch einen eingeschränkten Wortschatz.
+602,"00:44:22,120","00:44:27,160",2662.12,2667.16,5.039999999999964,Dass man die Ursprungssprache auch gar nicht als Ressource nutzen kann.
+603,"00:44:27,200","00:44:30,560",2667.2,2670.56,3.3600000000001273,"Sind konfrontiert damit,"
+604,"00:44:30,640","00:44:36,400",2670.64,2676.4,5.760000000000218,dass die Regelsprache Deutsch ist im Unterricht.
+605,"00:44:36,480","00:44:43,360",2676.48,2683.36,6.880000000000109,"Man keinen breiten Wortschatz aufgebaut hat,"
+606,"00:44:45,560","00:44:49,200",2685.56,2689.2,3.6399999999998727,"dann kann man nicht lernen in den meisten Fächern,"
+607,"00:44:49,280","00:44:54,880",2689.28,2694.88,5.599999999999909,außer vielleicht Englisch und Französisch.
+608,"00:44:54,960","00:45:02,760",2694.96,2702.76,7.800000000000182,Das betrifft nicht nur Schüler aus zugewanderten Familien.
+609,"00:45:03,000","00:45:07,560",2703.0,2707.56,4.559999999999945,"Auch in besonders benachteiligten Familien ohne Zuwendungsgeschichte,"
+610,"00:45:07,680","00:45:09,560",2707.68,2709.56,1.8800000000001091,da wird wenig gesprochen.
+611,"00:45:09,640","00:45:14,520",2709.64,2714.52,4.880000000000109,"Es gibt eine Studie aus den USA, die Kammern übertragen."
+612,"00:45:14,600","00:45:19,080",2714.6,2719.08,4.480000000000018,Da hat man Kinder aus Akademikerfamilien
+613,"00:45:19,160","00:45:24,040",2719.16,2724.04,4.880000000000109,"und niedrigen Bildungsschichten verglichen,"
+614,"00:45:24,120","00:45:29,240",2724.12,2729.24,5.119999999999891,"ein Kind aus der Klinkerfamilie hat 40 Millionen Wörter gehört,"
+615,"00:45:29,360","00:45:31,680",2729.36,2731.68,2.319999999999709,"das andere Kind 10 Million,"
+616,"00:45:31,760","00:45:38,080",2731.76,2738.08,6.319999999999709,das ist eine Lücke von 30 Millionen.
+617,"00:45:38,840","00:45:43,480",2738.84,2743.48,4.639999999999873,"Wenn wir die sozial benachteiligten Kinder sehen,"
+618,"00:45:43,560","00:45:46,600",2743.56,2746.6,3.0399999999999636,die kommen mit Ansprache Rückstand in die Kita.
+619,"00:45:46,720","00:45:52,880",2746.72,2752.88,6.160000000000309,"Wir reden hier über Ursachen, wenn wir die Kinder dazu bringen wollen,"
+620,"00:45:52,960","00:45:56,520",2752.96,2756.52,3.5599999999999454,"dass wenn sie in die Schule kommen, noch Chancen haben,"
+621,"00:45:56,640","00:46:01,640",2756.64,2761.64,5.0,dann müssen wir die Kitas fördern.
+622,"00:46:01,720","00:46:06,400",2761.72,2766.4,4.680000000000291,"Wer einmal sprach Kitas, der Bund hat die Förderung zur gefahren."
+623,"00:46:06,480","00:46:09,160",2766.48,2769.16,2.6799999999998363,Das ist der zentrale Weg zum Erfolg.
+624,"00:46:09,240","00:46:13,760",2769.24,2773.76,4.520000000000437,"Bei allem Respekt für die Herkunftssprachen,"
+625,"00:46:13,880","00:46:16,760",2773.88,2776.76,2.880000000000109,"die Kinder müssen Deutschland, so ist das System."
+626,"00:46:18,440","00:46:21,240",2778.44,2781.24,2.799999999999727,Damit es auf eine interessante Erkenntnis.
+627,"00:46:21,320","00:46:24,080",2781.32,2784.08,2.7599999999997635,Es beginnt nicht in der ersten Klasse.
+628,"00:46:24,160","00:46:30,000",2784.16,2790.0,5.8400000000001455,Da muss man vorher ansetzen.
+629,"00:46:30,000","00:46:36,680",2790.0,2796.68,6.679999999999836,"OK: Ja, es gibt die schönen bildungsökonomischen Studien,"
+630,"00:46:36,680","00:46:43,480",2796.68,2803.48,6.800000000000182,"jemand hat dafür einen Nobelpreis bekommen,"
+631,"00:46:44,120","00:46:48,840",2804.12,2808.84,4.720000000000255,"die der Euro in den wir in die Kita investieren, der bringt viel mehr,"
+632,"00:46:48,920","00:46:51,560",2808.92,2811.56,2.6399999999998727,als in der Schule oder auf dem Gymnasium.
+633,"00:46:51,640","00:46:54,040",2811.64,2814.04,2.400000000000091,"Jeder Euro, den wir früher einsetzen,"
+634,"00:46:54,120","00:46:57,760",2814.12,2817.76,3.6400000000003274,"bringt mehr anwirbst langfristig, auch den Kindern mehr,"
+635,"00:46:57,840","00:47:00,640",2817.84,2820.64,2.799999999999727,bringt gesellschaftlichen Wohlstand.
+636,"00:47:01,160","00:47:06,920",2821.16,2826.92,5.760000000000218,"Jetzt frage in die Runde, was die Konsequenz daraus?"
+637,"00:47:07,000","00:47:13,040",2827.0,2833.04,6.039999999999964,Bildung ab zwei oder drei Jahre?
+638,"00:47:17,000","00:47:21,080",2837.0,2841.08,4.079999999999927,"95 % aller Kinder gehen sowieso in die Kita,"
+639,"00:47:21,080","00:47:24,160",2841.08,2844.16,3.0799999999999272,SM: Es geht um den Fokus auf Kitas.
+640,"00:47:24,160","00:47:29,240",2844.16,2849.24,5.079999999999927,Erzieherinnen und Erzieher und Grundschullehrer sind Helden.
+641,"00:47:29,320","00:47:35,960",2849.32,2855.96,6.639999999999873,"Da läuft alles zusammen, ihr kriegt ungefiltert alle Kinder."
+642,"00:47:36,040","00:47:44,280",2856.04,2864.28,8.240000000000236,"Bei uns ist ein bisschen gefiltert, beim Gymnasium noch mal mehr."
+643,"00:47:45,000","00:47:52,520",2865.0,2872.52,7.519999999999982,Er hat mittlerweile auch eine heterogene Schülerschaft.
+644,"00:47:52,600","00:47:58,680",2872.6,2878.68,6.079999999999927,"Wenn man sich anschaut, wie die Gesellschaft sich wandelt,"
+645,"00:47:58,760","00:48:02,320",2878.76,2882.32,3.5599999999999454,wie wenig Eltern Eltern sind.
+646,"00:48:02,400","00:48:04,880",2882.4,2884.88,2.480000000000018,Es geht um Verwahrlosung.
+647,"00:48:05,280","00:48:07,440",2885.28,2887.44,2.1599999999998545,Armut im Geiste.
+648,"00:48:07,520","00:48:11,040",2887.52,2891.04,3.519999999999982,Wo du kein Buch vorgelesen kriegst.
+649,"00:48:11,040","00:48:14,680",2891.04,2894.68,3.6399999999998727,"SM: Weil alle zu Hause auf das Handy starren,"
+650,"00:48:14,680","00:48:19,000",2894.68,2899.0,4.320000000000164,die sind genauso verwahrlost. Es geht auch um das Thema psychische
+651,"00:48:19,160","00:48:25,000",2899.16,2905.0,5.8400000000001455,Gewaltszunahme.
+652,"00:48:27,000","00:48:32,000",2907.0,2912.0,5.0,Kinder sprechen weniger miteinander ausführlich.
+653,"00:48:32,080","00:48:35,800",2912.08,2915.8,3.7200000000002547,Es geht auch um Zeit und Ressourcenmanagement.
+654,"00:48:35,880","00:48:40,320",2915.88,2920.32,4.440000000000055,Das Kinder verwahrlosen in der Sprache.
+655,"00:48:40,440","00:48:44,120",2920.44,2924.12,3.6799999999998363,Da hat auch der Einfluss von Medien eine große Bedeutung.
+656,"00:48:44,240","00:48:47,240",2924.24,2927.24,3.0,"Dort wird Sprache nicht so vorgelebt, wie früher."
+657,"00:48:55,920","00:48:58,480",2935.92,2938.48,2.5599999999999454,SS: Wir haben gefragt was man sich wünschen könnte.
+658,"00:48:58,560","00:49:02,000",2938.56,2942.0,3.4400000000000546,Berlin kann man bisschen mit Menschen vergleichen.
+659,"00:49:02,080","00:49:09,680",2942.08,2949.68,7.599999999999909,"Das ist etwas wo ich sagen würde, das würde uns helfen."
+660,"00:49:14,840","00:49:18,360",2954.84,2958.36,3.519999999999982,Die allermeisten Kinder bei uns haben auf dem Papier
+661,"00:49:18,480","00:49:22,920",2958.48,2962.92,4.440000000000055,die Kita besucht.
+662,"00:49:23,000","00:49:26,640",2963.0,2966.64,3.6399999999998727,Leider hat uns gerade die sozial benachteiligten Kinder
+663,"00:49:26,720","00:49:28,640",2966.72,2968.64,1.9200000000000728,besonders getroffen.
+664,"00:49:28,720","00:49:34,200",2968.72,2974.2,5.480000000000018,"Wir merken das natürlich jetzt bei den Erstklässler,"
+665,"00:49:34,280","00:49:37,240",2974.28,2977.24,2.9599999999995816,"es gibt eine erste Klasse, bei der das so ist."
+666,"00:49:37,320","00:49:42,520",2977.32,2982.52,5.199999999999818,Noch mal zurück zu der Sprache.
+667,"00:49:42,600","00:49:48,160",2982.6,2988.16,5.559999999999945,"Kinder die formal in der Kita waren, die auch ein Vertrag hatten,"
+668,"00:49:48,280","00:49:53,520",2988.28,2993.52,5.239999999999782,es war in Berlin nicht einfach ein Kita Platz zu bekommen.
+669,"00:49:53,640","00:49:57,840",2993.64,2997.84,4.200000000000273,"Die benachteiligten, wo sich die Eltern nicht gut kümmern können,"
+670,"00:49:57,960","00:50:02,440",2997.96,3002.44,4.480000000000018,wollen den Kita Platz erreichen.
+671,"00:50:02,520","00:50:05,560",3002.52,3005.56,3.0399999999999636,"Das bedeutet,"
+672,"00:50:05,640","00:50:08,800",3005.64,3008.8,3.1600000000003092,"dass wenn die Kinder bei uns ankommen,"
+673,"00:50:08,880","00:50:11,400",3008.88,3011.4,2.519999999999982,"und sie ein bis zwei Jahre zurück sind,"
+674,"00:50:11,480","00:50:17,800",3011.48,3017.8,6.320000000000164,gegenüber wie es früher gewesen ist.
+675,"00:50:18,000","00:50:24,800",3018.0,3024.8,6.800000000000182,"Während die Debatte hier häufig, Migration"
+676,"00:50:29,880","00:50:37,520",3029.88,3037.52,7.639999999999873,Integration ist er so viel mehr als ein Dach über dem Kopf.
+677,"00:50:37,600","00:50:44,400",3037.6,3044.4,6.800000000000182,"Kita analog, muss anders verstanden werden,"
+678,"00:50:44,840","00:50:46,440",3044.84,3046.44,1.599999999999909,als Verwahrung.
+679,"00:50:46,440","00:50:49,080",3046.44,3049.08,2.6399999999998727,OK:
+680,"00:50:49,160","00:50:53,760",3049.16,3053.76,4.600000000000364,"Wir haben auch schon seit langem die Diskussion,"
+681,"00:50:53,760","00:50:56,040",3053.76,3056.04,2.2799999999997453,Wir müssen wieder aktiv voran gehen?
+682,"00:50:58,040","00:51:00,880",3058.04,3060.88,2.8400000000001455,Betreuung Erziehungsbildung.
+683,"00:51:00,960","00:51:08,040",3060.96,3068.04,7.079999999999927,"Was wird seit Jahren auch versuchen, gerade den dritten Aspekt,"
+684,"00:51:08,040","00:51:12,080",3068.04,3072.08,4.039999999999964,"Für die Kitas heißen die Bildungspläne, da steht alles drin."
+685,"00:51:12,080","00:51:15,360",3072.08,3075.36,3.2800000000002,Wir wissen um die Bedeutung der Kita.
+686,"00:51:15,440","00:51:19,920",3075.44,3079.92,4.480000000000018,Wir müssen es wieder umsetzen.
+687,"00:51:20,000","00:51:23,120",3080.0,3083.12,3.119999999999891,Wir müssen es in die Köpfe der Akteure bekommen.
+688,"00:51:23,200","00:51:26,320",3083.2,3086.32,3.1200000000003456,"Dass man da nicht nur aufbewahrt und da verweilt,"
+689,"00:51:26,400","00:51:29,120",3086.4,3089.12,2.7199999999998,sondern dass man auch bildet in der Kita.
+690,"00:51:29,240","00:51:32,240",3089.24,3092.24,3.0,Das kann auch früher mathematische Sachen sein.
+691,"00:51:32,360","00:51:36,760",3092.36,3096.76,4.400000000000091,Oder naturwissenschaftliche.
+692,"00:51:36,880","00:51:40,720",3096.88,3100.72,3.8399999999996908,Das hat Folgen für die Ausbildung der Erzieherinnen und Erzieher.
+693,"00:51:44,160","00:51:51,480",3104.16,3111.48,7.320000000000164,"und die Frage, wie ernst wir das Leben als System."
+694,"00:51:52,080","00:51:56,960",3112.08,3116.96,4.880000000000109,Ich erlebe viele Lehrer auch Kita Betreuer und Betreuerinnen
+695,"00:51:57,040","00:51:59,400",3117.04,3119.4,2.3600000000001273,die sind wahnsinnig motiviert.
+696,"00:52:01,360","00:52:08,880",3121.36,3128.88,7.519999999999982,"SM: Uns wird nichts weggenommen, es kommt immer mehr obendrauf."
+697,"00:52:09,000","00:52:12,960",3129.0,3132.96,3.9600000000000364,"Wir sind sehr belastet, das kommt neben der Frustration dazu."
+698,"00:52:13,080","00:52:18,640",3133.08,3138.64,5.559999999999945,"Man möchte, aber man dreht sich im Kreis."
+699,"00:52:18,720","00:52:21,080",3138.72,3141.08,2.3600000000001273,Wenn wir in der Kita den.
+700,"00:52:21,200","00:52:27,160",3141.2,3147.16,5.960000000000036,"Bildungen vielmehr stärken, dann profitieren alle Schulformen davon."
+701,"00:52:27,240","00:52:31,640",3147.24,3151.64,4.400000000000091,In unserer Schule haben wir das Projekt Fachleben eingeführt.
+702,"00:52:31,760","00:52:35,200",3151.76,3155.2,3.4399999999996,"Wir haben Kinder, die wissen nicht wie man mit Messer und Gabel ist."
+703,"00:52:36,120","00:52:38,120",3156.12,3158.12,2.0,Warum ist das so?
+704,"00:52:38,200","00:52:43,280",3158.2,3163.28,5.080000000000382,Warum sind sie nicht in der Lage Klamotten anzuziehen?
+705,"00:52:43,280","00:52:46,960",3163.28,3166.96,3.6799999999998363,"SM: Der Blick auf Kinder hat sich komplett verändert,"
+706,"00:52:46,960","00:52:53,680",3166.96,3173.68,6.7199999999998,sie stehe nicht mehr im Fokus in Familien.
+707,"00:52:55,800","00:52:58,840",3175.8,3178.84,3.0399999999999636,"Man kann lange nach Gründen fragen, es ist so."
+708,"00:52:58,960","00:53:04,160",3178.96,3184.16,5.199999999999818,Der Leistungsgedanke ist sehr wichtig.
+709,"00:53:04,280","00:53:08,240",3184.28,3188.24,3.9599999999995816,"Wir müssen über Leistung diskutieren, für mich ist der Punkt,"
+710,"00:53:08,320","00:53:13,640",3188.32,3193.64,5.319999999999709,"wenn wir über Integration sprechen,"
+711,"00:53:13,720","00:53:17,160",3193.72,3197.16,3.4400000000000546,"müssen wir auch über emotionale Integration sprechen,"
+712,"00:53:17,240","00:53:20,640",3197.24,3200.64,3.400000000000091,welche Kinder werden in den Arm genommen und gelobt.
+713,"00:53:20,720","00:53:25,360",3200.72,3205.36,4.640000000000327,"Nur gibt es die Möglichkeit sich auszuleben,"
+714,"00:53:25,440","00:53:28,520",3205.44,3208.52,3.0799999999999272,"es muss in der Kita stattfinden,"
+715,"00:53:28,640","00:53:30,960",3208.64,3210.96,2.3200000000001637,Erziehung ist Beispiel und Liebe.
+716,"00:53:31,400","00:53:37,720",3211.4,3217.72,6.319999999999709,Erziehung ist eigentlich Beziehung.
+717,"00:53:39,240","00:53:42,560",3219.24,3222.56,3.3200000000001637,"SM: Wie wir teilweise in der Gesellschaft agieren,"
+718,"00:53:42,640","00:53:45,080",3222.64,3225.08,2.4400000000000546,und schlechte Beispiele darstellen.
+719,"00:53:47,640","00:53:54,480",3227.64,3234.48,6.8400000000001455,BB: Ich würde gerne auf zwei Sachen eingehen.
+720,"00:53:54,600","00:53:56,280",3234.6,3236.28,1.680000000000291,"Wenn ich Vorträge halte, kommen Leute"
+721,"00:54:01,120","00:54:07,400",3241.12,3247.4,6.2800000000002,"dann sage ich Nein, falsche Anfang."
+722,"00:54:07,520","00:54:11,960",3247.52,3251.96,4.440000000000055,"Grundschullehrer sind das Fundament,"
+723,"00:54:12,040","00:54:18,440",3252.04,3258.44,6.400000000000091,sie müssen auch ordentlich bezahlt werden.
+724,"00:54:18,520","00:54:21,760",3258.52,3261.76,3.2400000000002365,"Das wiederum heißt, dass wir dafür sorgen müssen,"
+725,"00:54:21,880","00:54:23,960",3261.88,3263.96,2.0799999999999272,dass der Job auch ergriffen wird.
+726,"00:54:24,080","00:54:26,480",3264.08,3266.48,2.400000000000091,Meine Frau ist Erzieherin.
+727,"00:54:26,560","00:54:29,320",3266.56,3269.32,2.7600000000002183,"Ich erlebe aus erster Hand,"
+728,"00:54:29,400","00:54:32,840",3269.4,3272.84,3.4400000000000546,was es bedeutet wenn mehrere Leute wegfallen.
+729,"00:54:32,880","00:54:36,240",3272.88,3276.24,3.3599999999996726,Wenn man nicht in der Lage ist diese Beziehung
+730,"00:54:36,360","00:54:39,640",3276.36,3279.64,3.2799999999997453,und Bindungsarbeit mit den Kindern zu machen.
+731,"00:54:39,760","00:54:46,720",3279.76,3286.72,6.959999999999582,Das hat auch mit gesellschaftlicher Anerkennung zu tun.
+732,"00:54:46,800","00:54:48,680",3286.8,3288.68,1.8799999999996544,"Nicht nur um zu sagen,"
+733,"00:54:48,800","00:54:51,280",3288.8,3291.28,2.480000000000018,"das sind nur die Grundschullehrkräfte,"
+734,"00:54:51,400","00:54:55,760",3291.4,3295.76,4.360000000000127,"das sind nur die von der Kita,"
+735,"00:54:55,880","00:54:59,360",3295.88,3299.36,3.480000000000018,"sagen, hier findet eine essenziell wichtige Arbeit statt."
+736,"00:54:59,360","00:55:04,920",3299.36,3304.92,5.559999999999945,"Selten gefragt, warum ist das so."
+737,"00:55:04,920","00:55:07,960",3304.92,3307.96,3.0399999999999636,"Als ich mich auf die Sendung vorbereitet habe,"
+738,"00:55:08,080","00:55:09,960",3308.08,3309.96,1.8800000000001091,ich will nicht nur über Defizite sprechen.
+739,"00:55:10,800","00:55:16,360",3310.8,3316.36,5.559999999999945,"Ganz liebenswerte Kinder, auch leistungsstarke Kinder."
+740,"00:55:16,440","00:55:21,040",3316.44,3321.04,4.599999999999909,"Es gibt Kinder die sich dafür bedanken, was sie täglich machen."
+741,"00:55:21,160","00:55:25,040",3321.16,3325.04,3.880000000000109,Mir ist es wichtig das auch zu erwähnen.
+742,"00:55:25,120","00:55:27,560",3325.12,3327.56,2.4400000000000546,"Ich arbeite auch gerne dort,"
+743,"00:55:27,680","00:55:31,360",3327.68,3331.36,3.680000000000291,trotzdem sind die Herausforderung dar.
+744,"00:55:31,440","00:55:34,680",3331.44,3334.68,3.2399999999997817,"Warum die immer größer werden ist schwer zu sagen,"
+745,"00:55:34,760","00:55:39,600",3334.76,3339.6,4.839999999999691,hat wahrscheinlich auch verschiedene Ursachen.
+746,"00:55:39,720","00:55:43,160",3339.72,3343.16,3.4400000000000546,Sie haben auch mehr feinmotorische und grobmotorische
+747,"00:55:43,240","00:55:45,160",3343.24,3345.16,1.9200000000000728,Herausforderungen.
+748,"00:55:45,240","00:55:51,400",3345.24,3351.4,6.160000000000309,"Sie können nicht rückwärts laufen,"
+749,"00:55:53,480","00:56:01,640",3353.48,3361.64,8.159999999999854,"häufig sind sie auch adipös, wenn sie schon in die Grundschule kommen."
+750,"00:56:01,720","00:56:03,640",3361.72,3363.64,1.9200000000000728,"Sich an Regeln halten,"
+751,"00:56:03,760","00:56:08,000",3363.76,3368.0,4.239999999999782,"sich in andere hinein zu versetzen, die Impulskontrolle zu haben,"
+752,"00:56:08,080","00:56:14,000",3368.08,3374.0,5.920000000000073,"das sind alles Schwierigkeiten, die immer größer werden."
+753,"00:56:14,120","00:56:16,560",3374.12,3376.56,2.4400000000000546,Da muss man natürlich auch reagieren.
+754,"00:56:16,640","00:56:18,600",3376.64,3378.6,1.9600000000000364,Ein Stichwort ist Startchancen.
+755,"00:56:18,680","00:56:23,880",3378.68,3383.88,5.200000000000273,Unsere Schule ist auch eine.
+756,"00:56:23,960","00:56:31,200",3383.96,3391.2,7.239999999999782,Wir wurden als eine Startchancenschule ausgewählt.
+757,"00:56:31,320","00:56:33,840",3391.32,3393.84,2.519999999999982,"Natürlich ist das so,"
+758,"00:56:33,920","00:56:36,760",3393.92,3396.76,2.8400000000001455,"dass wir in bestimmten Programmmitarbeitern,"
+759,"00:56:36,840","00:56:41,240",3396.84,3401.24,4.399999999999636,bestimmte Ressourcen bekommen.
+760,"00:56:41,360","00:56:45,240",3401.36,3405.24,3.8799999999996544,"Wir bauen immer wieder Sachen auf, stellen tolle Leute ein,"
+761,"00:56:45,360","00:56:47,240",3405.36,3407.24,1.8799999999996544,entwickeln tolle Projekte.
+762,"00:56:47,360","00:56:51,320",3407.36,3411.32,3.9600000000000364,Wir müssen aber auch mittel und langfristig erhalten bleiben.
+763,"00:56:51,400","00:56:57,080",3411.4,3417.08,5.679999999999836,Sollten nicht unter Finanzvorbehalt stehen.
+764,"00:56:57,160","00:57:04,280",3417.16,3424.28,7.120000000000346,"Ich habe ein Interview mit Herrn Köller gelesen,"
+765,"00:57:05,200","00:57:07,760",3425.2,3427.76,2.5600000000004,"wo er sagt,"
+766,"00:57:07,880","00:57:10,880",3427.88,3430.88,3.0,dass Startchancen Programm ist zu gering ausgesprochen.
+767,"00:57:10,880","00:57:15,240",3430.88,3435.24,4.359999999999673,"Wir haben festgestellt, wir haben über soziale Medien gesprochen,"
+768,"00:57:15,360","00:57:19,440",3435.36,3439.44,4.079999999999927,über Sprache und erklärt wo ein dichtes Thema ist.
+769,"00:57:19,440","00:57:23,880",3439.44,3443.88,4.440000000000055,"Wenn wir es clever machen würde, wäre es eine Chance."
+770,"00:57:23,960","00:57:30,840",3443.96,3450.84,6.880000000000109,"Der dritte Punkt, der mir wichtig erscheint,"
+771,"00:57:32,680","00:57:36,640",3452.68,3456.64,3.9600000000000364,"Stichwort Verrohung der Gepflogenheiten,"
+772,"00:57:36,760","00:57:42,640",3456.76,3462.64,5.879999999999654,Stichwort Gewalt.
+773,"00:57:43,120","00:57:49,400",3463.12,3469.4,6.2800000000002,"Ich finde es seltsam, dass wir als Gesellschaft lange gebraucht haben,"
+774,"00:57:49,480","00:57:54,040",3469.48,3474.04,4.559999999999945,um klar darüber zu sprechen.
+775,"00:57:54,120","00:57:57,280",3474.12,3477.28,3.1600000000003092,"Weil jeder der darüber diskutiert hat,"
+776,"00:57:57,360","00:58:02,480",3477.36,3482.48,5.119999999999891,"als chauvinistischen diskreditiert wurde,"
+777,"00:58:02,640","00:58:06,720",3482.64,3486.72,4.079999999999927,"es ist doch logisch, wenn Kinder aus einem Land wie Afghanistan,"
+778,"00:58:06,840","00:58:12,440",3486.84,3492.44,5.599999999999909,"aus einer solchen Umgebung kommen,"
+779,"00:58:12,560","00:58:15,200",3492.56,3495.2,2.6399999999998727,"in Schweden haben wir das Problem auch,"
+780,"00:58:15,280","00:58:17,840",3495.28,3497.84,2.5599999999999454,"mit Gewaltsexzessen unter Jugendlichen,"
+781,"00:58:17,960","00:58:22,760",3497.96,3502.76,4.800000000000182,"dass sie die Strukturen,"
+782,"00:58:22,840","00:58:28,760",3502.84,3508.76,5.920000000000073,"die nicht vorhandene Staatlichkeit, die bringen das im Gepäck mit."
+783,"00:58:28,880","00:58:35,920",3508.88,3515.92,7.039999999999964,"Das trifft auf die deutsche Lebenswirklichkeit,"
+784,"00:58:36,440","00:58:39,000",3516.44,3519.0,2.5599999999999454,"die überfordert damit ist, dass zu Handln."
+785,"00:58:41,600","00:58:43,760",3521.6,3523.76,2.1600000000003092,SM: auch die deutsche Lebenswirklichkeit ist
+786,"00:58:43,840","00:58:45,800",3523.84,3525.8,1.9600000000000364,nicht immer sanft und sanftmütig.
+787,"00:58:45,920","00:58:47,800",3525.92,3527.8,1.8800000000001091,"Ich glaube, wir müssen in"
+788,"00:58:47,960","00:58:54,120",3527.96,3534.12,6.1599999999998545,"dieser Debatte aufpassen, dass wieder differenzieren."
+789,"00:58:54,120","00:59:02,760",3534.12,3542.76,8.640000000000327,Gewalt sind nicht die kloppenden Schüler auf dem Schulhof.
+790,"00:59:02,760","00:59:05,480",3542.76,3545.48,2.7199999999998,"Es kommt nicht mehr vor,"
+791,"00:59:05,600","00:59:08,600",3545.6,3548.6,3.0,"für mich ist die Definition von Gewalt wichtig,"
+792,"00:59:08,720","00:59:13,920",3548.72,3553.92,5.200000000000273,ist es die körperliche oder die psychische Gewalt
+793,"00:59:14,000","00:59:20,920",3554.0,3560.92,6.920000000000073,viele erfahren sexuelle Belästigungen im Netz.
+794,"00:59:21,040","00:59:24,160",3561.04,3564.16,3.119999999999891,Ich glaube Wirkung zu wenig Rein
+795,"00:59:24,280","00:59:30,360",3564.28,3570.36,6.079999999999927,und untersuchen Gewalt bei Kindern zu wenig.
+796,"00:59:30,480","00:59:34,200",3570.48,3574.2,3.7199999999998,"Und wie können wir helfen, dann wäre nämlich die Antwort,"
+797,"00:59:34,280","00:59:40,240",3574.28,3580.24,5.959999999999582,vielmehr sozial pädagogischer Unterstützung
+798,"00:59:40,360","00:59:42,320",3580.36,3582.32,1.9600000000000364,die Kinder zu unterstützen.
+799,"00:59:42,320","00:59:50,440",3582.32,3590.44,8.11999999999989,BB: Wissen Sie wie viele Schulpsychologen es gerade gibt
+800,"00:59:50,440","00:59:54,720",3590.44,3594.72,4.279999999999745,auf 7000 Schüler gibt es einen Psychologen.
+801,"00:59:54,720","00:59:57,280",3594.72,3597.28,2.5600000000004,"SM: Es geht weiter mit Sozialarbeitern,"
+802,"00:59:57,360","01:00:00,520",3597.36,3600.52,3.1599999999998545,die Kinder müssen ganz anders aufgefangen werden.
+803,"01:00:00,640","01:00:04,560",3600.64,3604.56,3.9200000000000728,Wenn wir über das Thema Gewalt sprechen...
+804,"01:00:04,640","01:00:11,880",3604.64,3611.88,7.2400000000002365,"Wie oft ich gefragt werde zum Thema Messer Gewalt,"
+805,"01:00:12,800","01:00:16,520",3612.8,3616.52,3.7199999999998,"mindesten über die subtile Verrohung und Gewalt sprechen,"
+806,"01:00:16,600","01:00:19,000",3616.6,3619.0,2.400000000000091,das hat maßgeblich Einfluss auf den Bildungserfolg...
+807,"01:00:19,280","01:00:21,560",3619.28,3621.56,2.2799999999997453,Das Messer ist dann das Symptom.
+808,"01:00:21,640","01:00:25,640",3621.64,3625.64,4.0,Die Frage ist was vorher passiert.
+809,"01:00:25,640","01:00:28,240",3625.64,3628.24,2.599999999999909,"SM: Genau, das hat mit Anerkennungen,"
+810,"01:00:28,240","01:00:32,080",3628.24,3632.08,3.8400000000001455,einem psychologischen Druck zu tun.
+811,"01:00:32,160","01:00:38,400",3632.16,3638.4,6.2400000000002365,OK: wir haben die große Zuwanderung
+812,"01:00:43,280","01:00:46,200",3643.28,3646.2,2.919999999999618,"noch mal durch den Ukraine-Krieges bekommen,"
+813,"01:00:46,320","01:00:50,120",3646.32,3650.12,3.799999999999727,"das System kann nicht von heute auf morgen reagieren,"
+814,"01:00:50,240","01:00:56,120",3650.24,3656.12,5.880000000000109,"man muss jetzt erkennen,"
+815,"01:00:58,360","01:01:02,240",3658.36,3662.24,3.8799999999996544,"dass man einen massiven Auftrag hat, einen präventiven und kuratierten."
+816,"01:01:05,040","01:01:10,320",3665.04,3670.32,5.2800000000002,Können wir eine Diagnose machen.
+817,"01:01:10,400","01:01:17,240",3670.4,3677.24,6.839999999999691,Sie hat 2015 2016 den Schulalltag verändert?
+818,"01:01:19,880","01:01:24,200",3679.88,3684.2,4.319999999999709,"BB: Wir haben 2015 eine neue Klasse ausgemacht,"
+819,"01:01:24,320","01:01:27,280",3684.32,3687.28,2.9600000000000364,weil sie in der Turnhalle untergebracht waren
+820,"01:01:27,400","01:01:33,280",3687.4,3693.28,5.880000000000109,unter schwierigen Bedingungen.
+821,"01:01:37,720","01:01:40,360",3697.72,3700.36,2.6400000000003274,"Als Russland die Ukraine überfallen hat,"
+822,"01:01:40,480","01:01:43,000",3700.48,3703.0,2.519999999999982,kam ukrainische Kinder zu uns.
+823,"01:01:43,080","01:01:49,000",3703.08,3709.0,5.920000000000073,"Die wachsen nicht auf Bäumen,"
+824,"01:01:49,600","01:01:56,600",3709.6,3716.6,7.0,"wir haben aber tolle Leute, die da arbeiten."
+825,"01:01:58,160","01:02:01,840",3718.16,3721.84,3.680000000000291,Die brauchen im Prinzip eine volle SozialarbeiterIn
+826,"01:02:01,960","01:02:07,000",3721.96,3727.0,5.039999999999964,sie haben vielleicht Traumata erlebt.
+827,"01:02:07,080","01:02:11,160",3727.08,3731.16,4.079999999999927,"Diese Kinder haben große Herausforderungen mitgebracht,"
+828,"01:02:11,280","01:02:15,760",3731.28,3735.76,4.480000000000018,für die sie selbst in aller Regel nichts können.
+829,"01:02:15,880","01:02:19,000",3735.88,3739.0,3.119999999999891,"Es ist wichtig, dass wir das schaffen,"
+830,"01:02:19,080","01:02:22,800",3739.08,3742.8,3.7200000000002547,sie für das deutsche Bildungssystem zu machen.
+831,"01:02:22,880","01:02:26,800",3742.88,3746.8,3.9200000000000728,"Da gibt es individuell ganz unterschiedliche Verläufe,"
+832,"01:02:26,880","01:02:33,000",3746.88,3753.0,6.119999999999891,von Depression und Schulabstinenz
+833,"01:02:33,840","01:02:41,880",3753.84,3761.88,8.039999999999964,zu innerhalb von wenigen Monaten zum Musterschüler zu werden.
+834,"01:02:43,360","01:02:47,960",3763.36,3767.96,4.599999999999909,"SM: Das ist das, was wir wahrnehmen. Das Kinder Schulangst haben,"
+835,"01:02:48,040","01:02:51,840",3768.04,3771.84,3.800000000000182,"dass man immer wieder Kinder hat, die Bauchschmerzen haben"
+836,"01:02:51,920","01:02:53,840",3771.92,3773.84,1.9200000000000728,und nicht zur Schule möchten.
+837,"01:02:53,960","01:02:56,760",3773.96,3776.76,2.800000000000182,"Ich geben mich mit dem Satz nicht zufrieden,"
+838,"01:02:56,880","01:03:00,680",3776.88,3780.68,3.799999999999727,"dass sie nicht auf Bäumen wachsen, 2015 ist zehn Jahre her."
+839,"01:03:00,800","01:03:06,680",3780.8,3786.68,5.879999999999654,"Es gab eine Langzeitprognose,"
+840,"01:03:07,760","01:03:11,360",3787.76,3791.36,3.599999999999909,"es war klar, dass viele Kinder Unterstützung brauchen."
+841,"01:03:11,480","01:03:14,120",3791.48,3794.12,2.6399999999998727,Es hätte eine Werbekampagne geben müssen.
+842,"01:03:14,200","01:03:20,760",3794.2,3800.76,6.5600000000004,Es geht auch ums Geld und die Bezahlung.
+843,"01:03:23,760","01:03:27,160",3803.76,3807.16,3.399999999999636,"Ich glaube, es ist eine feine und saubere Analyse,"
+844,"01:03:27,280","01:03:29,680",3807.28,3809.68,2.399999999999636,um in Zukunft gut arbeiten zu können.
+845,"01:03:29,800","01:03:33,200",3809.8,3813.2,3.399999999999636,"Ich mache mir Sorgen, ob wir diese Analyse sauber haben."
+846,"01:03:36,920","01:03:44,560",3816.92,3824.56,7.639999999999873,"BB: ich habe etwas gelesen, was sich Augen öffnen fand."
+847,"01:03:45,280","01:03:49,960",3825.28,3829.96,4.679999999999836,"Die Argumentation, ich hoffe ich umschreibe sehr richtig,"
+848,"01:03:50,040","01:03:52,920",3830.04,3832.92,2.880000000000109,war das der Schultoiletten Vandalismus auch
+849,"01:03:53,040","01:03:56,720",3833.04,3836.72,3.6799999999998363,"deshalb gemacht wird, als Form der Selbstwirksamkeit,"
+850,"01:03:56,840","01:04:00,520",3836.84,3840.52,3.6799999999998363,an einem Ort wo sie sich oft nicht selbst wirksam fühlen.
+851,"01:04:00,640","01:04:02,760",3840.64,3842.76,2.1200000000003456,Das fand ich spannend.
+852,"01:04:02,840","01:04:08,760",3842.84,3848.76,5.920000000000073,"Ich habe gedacht, stimmt."
+853,"01:04:12,520","01:04:18,280",3852.52,3858.28,5.760000000000218,"Selbst Wirksamkeit, ein Eindruck zu hinterlassen."
+854,"01:04:18,360","01:04:22,400",3858.36,3862.4,4.039999999999964,Man sollte das natürlich auf eine zu verurteilen und Weise tun.
+855,"01:04:22,520","01:04:28,400",3862.52,3868.4,5.880000000000109,"Da stellt sich aber die Frage,"
+856,"01:04:28,880","01:04:31,560",3868.88,3871.56,2.6799999999998363,"wie kommen die Schülerinnen und Schüler,"
+857,"01:04:31,640","01:04:37,160",3871.64,3877.16,5.519999999999982,zu einem Wunsch nach Selbstwirksamkeit.
+858,"01:04:37,240","01:04:42,160",3877.24,3882.16,4.920000000000073,"Ich nehme oftmals Integration war als Vorstellung,"
+859,"01:04:42,280","01:04:48,600",3882.28,3888.6,6.319999999999709,dass einer von seiner Position zu einer anderen Position hin läuft.
+860,"01:04:48,720","01:04:53,000",3888.72,3893.0,4.2800000000002,Integration ist aber eine Bewegung aufeinander zu.
+861,"01:04:53,080","01:04:58,000",3893.08,3898.0,4.920000000000073,"Diese Bewegung muss in der Schule gelebt werden,"
+862,"01:04:58,080","01:05:01,040",3898.08,3901.04,2.9600000000000364,aber innerhalb der gesellschaftlichen Debatte
+863,"01:05:01,160","01:05:06,000",3901.16,3906.0,4.8400000000001455,fehlt mir das.
+864,"01:05:06,000","01:05:11,520",3906.0,3911.52,5.519999999999982,"Es ist bestimmt richtig, aber was Herr Blume macht,"
+865,"01:05:11,520","01:05:15,280",3911.52,3915.28,3.7600000000002183,"das Thema zu selbst Krankheit in die Schule zu bringen,"
+866,"01:05:15,360","01:05:17,880",3915.36,3917.88,2.519999999999982,"beginnt das Thema vielleicht vorher,"
+867,"01:05:24,480","01:05:28,080",3924.48,3928.08,3.599999999999909,"Wenn du aus Familie kommst, in dem Gewalterfahrungen,"
+868,"01:05:28,160","01:05:34,080",3928.16,3934.08,5.920000000000073,Schläge der Alltags sind.
+869,"01:05:35,720","01:05:39,440",3935.72,3939.44,3.7200000000002547,"Dann ist Schule ein Thema, das nicht verursacht hat."
+870,"01:05:39,440","01:05:44,160",3939.44,3944.16,4.7199999999998,OK: da sind wir auch wieder beim Erziehungsauftrag der Schulen.
+871,"01:05:44,160","01:05:48,560",3944.16,3948.56,4.400000000000091,"Man muss sehen, die reden, die haben auch die traumatisierten Kinder."
+872,"01:05:48,640","01:05:53,840",3948.64,3953.84,5.200000000000273,"Werden auch die Familien, wo Gewalt ein legitimes Mittel ist."
+873,"01:05:53,920","01:05:56,800",3953.92,3956.8,2.880000000000109,Daran sind auch Lehrer oft überfordert.
+874,"01:05:56,880","01:06:01,200",3956.88,3961.2,4.319999999999709,"Wir haben die Symptome und Probleme, die Frage ist, was machen wir."
+875,"01:06:01,320","01:06:08,320",3961.32,3968.32,7.0,Machen das ja auch teilweise mit dem Startchancenprogramm.
+876,"01:06:08,440","01:06:12,880",3968.44,3972.88,4.440000000000055,"Müssen uns fragen, wo Klumpen die Probleme, wo ist es am Ernstesten."
+877,"01:06:13,000","01:06:19,800",3973.0,3979.8,6.800000000000182,Nicht jede Schule hat diese Herausforderung.
+878,"01:06:23,080","01:06:29,000",3983.08,3989.0,5.920000000000073,"Wir haben 2000 gemeldete Gewaltfälle im Jahr,"
+879,"01:06:29,120","01:06:33,120",3989.12,3993.12,4.0,"wenn man das hochrechnet sind es gar nicht so viele,"
+880,"01:06:33,240","01:06:36,800",3993.24,3996.8,3.5600000000004,die Dunkelziffer ist eventuell höher.
+881,"01:06:36,920","01:06:41,520",3996.92,4001.52,4.599999999999909,Es ist auch eine Herausforderung für die Schulen
+882,"01:06:41,640","01:06:45,880",4001.64,4005.88,4.2400000000002365,"und Bundesländer, wie kriegen wir die Leute, die ausgebildet sind"
+883,"01:06:45,960","01:06:48,000",4005.96,4008.0,2.0399999999999636,an die Schulen.
+884,"01:06:54,160","01:06:57,720",4014.16,4017.72,3.5599999999999454,"SS: das haben wir, ich will sie vor allem behalten."
+885,"01:06:57,720","01:07:01,440",4017.72,4021.44,3.7200000000002547,"Was ich wichtig finde,"
+886,"01:07:01,560","01:07:05,240",4021.56,4025.24,3.6799999999998363,"als ich vor Jahren an einer Grundschule in Dortmund war,"
+887,"01:07:05,320","01:07:11,040",4025.32,4031.04,5.7199999999998,"die haben fast nur Kinder mit Migrationsgrund,"
+888,"01:07:11,160","01:07:14,760",4031.16,4034.76,3.600000000000364,"die haben damals eine interessante Initiative gestartet,"
+889,"01:07:14,880","01:07:18,720",4034.88,4038.72,3.8399999999996908,"die sind mit fünf Jahren in die Schule kommen, nicht mit 6."
+890,"01:07:18,840","01:07:22,960",4038.84,4042.96,4.119999999999891,"Sie haben das ja genutzt um den Kindern beizubringen,"
+891,"01:07:23,040","01:07:26,440",4043.04,4046.44,3.400000000000091,"wie man sich an deutschen Schulen benimmt,"
+892,"01:07:26,560","01:07:33,720",4046.56,4053.72,7.1599999999998545,dann wussten sie bei der Einschulung wie das funktioniert
+893,"01:07:33,880","01:07:37,080",4053.88,4057.08,3.199999999999818,und sie konnten auch die Sprache besser.
+894,"01:07:37,200","01:07:40,560",4057.2,4060.56,3.3600000000001273,"Man wusste erst nicht, wie man das bezahlt."
+895,"01:07:40,640","01:07:45,080",4060.64,4065.08,4.440000000000055,"Schule muss sich Gedanken machen,"
+896,"01:07:45,200","01:07:52,600",4065.2,4072.6,7.400000000000091,wähle ich alternative Wege um die Kinder einzufangen.
+897,"01:07:52,800","01:07:54,800",4072.8,4074.8,2.0,"Es gibt Konzepte,"
+898,"01:07:54,920","01:07:57,120",4074.92,4077.12,2.199999999999818,dass wir trotz der großen Probleme
+899,"01:07:57,240","01:07:59,840",4077.24,4079.84,2.600000000000364,"auch im Klassenraum die Situation haben,"
+900,"01:07:59,960","01:08:02,840",4079.96,4082.84,2.880000000000109,"dass sie sich die Rübe einschlagen,"
+901,"01:08:02,920","01:08:06,720",4082.92,4086.72,3.799999999999727,dass wir mit Programmen und Gelder reingehen.
+902,"01:08:06,840","01:08:13,600",4086.84,4093.6,6.7599999999997635,"Ich habe die Hoffnung, dass es besser wird."
+903,"01:08:14,880","01:08:18,440",4094.88,4098.44,3.5599999999994907,Die Startchance Programm will diese Probleme halbieren
+904,"01:08:18,560","01:08:20,240",4098.56,4100.24,1.6799999999993815,in den nächsten zehn Jahren.
+905,"01:08:22,040","01:08:24,040",4102.04,4104.04,2.0,BB: ich muss ganz kurz pathetisch werden.
+906,"01:08:24,160","01:08:26,040",4104.16,4106.04,1.8800000000001091,"Es lohnt sich so sehr,"
+907,"01:08:26,160","01:08:31,000",4106.16,4111.0,4.8400000000001455,"die Lehrkräfte fallen deshalb nicht um,"
+908,"01:08:31,080","01:08:33,240",4111.08,4113.24,2.1599999999998545,"es lohnt sich so sehr,"
+909,"01:08:33,360","01:08:38,720",4113.36,4118.72,5.360000000000582,"deshalb muss man alles erdenkliche tun,"
+910,"01:08:38,840","01:08:47,520",4118.84,4127.52,8.680000000000291,allen Kindern und Jugendlichen diese Möglichkeit der Bildung zu bekommen.
+911,"01:08:47,680","01:08:51,400",4127.68,4131.4,3.719999999999345,"SM: der Investitionen will, muss in Bildung investieren."
+912,"01:08:51,520","01:08:56,120",4131.52,4136.12,4.599999999999454,Das tun wir an der Stelle nicht.
+913,"01:08:56,240","01:09:00,600",4136.24,4140.6,4.360000000000582,"Herr Köller hat eine wichtige Sache gesagt,"
+914,"01:09:00,680","01:09:05,200",4140.68,4145.2,4.519999999999527,"man muss die Kinder einfangen, das hört sich ein bisschen seltsam an,"
+915,"01:09:05,320","01:09:09,320",4145.32,4149.32,4.0,aber ich finde es wichtig.
+916,"01:09:09,400","01:09:13,720",4149.4,4153.72,4.3200000000006185,Es geht darum Regeln zu lernen und Teil eine Gemeinschaft zu sein.
+917,"01:09:13,800","01:09:19,960",4153.8,4159.96,6.1599999999998545,Demokratieerziehung bedeutet auch Teilhabe und Teil von etwas sein.
+918,"01:09:20,080","01:09:22,480",4160.08,4162.48,2.399999999999636,"Die reden viel von Selbstwirksamkeit,"
+919,"01:09:22,600","01:09:25,920",4162.6,4165.92,3.319999999999709,"es geht aber auch um klassische Regeln, was man können muss."
+920,"01:09:26,920","01:09:30,800",4166.92,4170.8,3.880000000000109,Ich würde trotzdem noch mal auf den kulturellen Unterschied kommen.
+921,"01:09:30,880","01:09:36,360",4170.88,4176.36,5.479999999999563,"Du hast dieses Kind,"
+922,"01:09:36,480","01:09:38,960",4176.48,4178.96,2.480000000000473,"das offensichtlich die Erfahrung macht,"
+923,"01:09:39,080","01:09:41,960",4179.08,4181.96,2.880000000000109,Gewalt ist ein legitimes Mittel zur Erziehung.
+924,"01:09:42,080","01:09:44,720",4182.08,4184.72,2.6400000000003274,"Irgendjemand sagt das böse Wort,"
+925,"01:09:44,840","01:09:47,800",4184.84,4187.8,2.9600000000000364,"dann bist du den halben Vormittag beschäftigt,"
+926,"01:09:47,880","01:09:53,880",4187.88,4193.88,6.0,zu klären warum das nicht geht.
+927,"01:09:54,600","01:10:00,440",4194.6,4200.44,5.839999999999236,"Dann kommt obendrauf, die Thematik,"
+928,"01:10:00,520","01:10:04,760",4200.52,4204.76,4.239999999999782,"dass du auf der Elternseite in keinster Weise das einsehen hast,"
+929,"01:10:04,880","01:10:06,920",4204.88,4206.92,2.0399999999999636,dass es ein Problem gibt.
+930,"01:10:07,040","01:10:09,840",4207.04,4209.84,2.800000000000182,"Dass man auf Lehrer und Lehrerinnen losgeht,"
+931,"01:10:09,960","01:10:13,440",4209.96,4213.44,3.4799999999995634,und sagt das machst du nicht noch mal mit meinem Kind.
+932,"01:10:13,560","01:10:17,120",4213.56,4217.12,3.5599999999994907,Kulturelle Unterschiede.
+933,"01:10:17,200","01:10:21,640",4217.2,4221.64,4.440000000000509,"Wenn man die Chance hätte an einem Elternabend das direkt zu klären,"
+934,"01:10:21,760","01:10:26,240",4221.76,4226.24,4.479999999999563,kommt keiner.
+935,"01:10:32,800","01:10:39,400",4232.8,4239.4,6.599999999999454,"Dass nicht nur Kinder die Zuwanderung Geschichte haben,"
+936,"01:10:39,520","01:10:43,240",4239.52,4243.24,3.719999999999345,"sondern dass es auch bei deutschen Familien der Fall ist,"
+937,"01:10:43,360","01:10:45,640",4243.36,4245.64,2.280000000000655,dass die Probleme mit Sprache haben.
+938,"01:10:45,760","01:10:47,640",4245.76,4247.64,1.8800000000001091,Auch mit Gewalt.
+939,"01:10:47,760","01:10:51,360",4247.76,4251.36,3.5999999999994543,"Das war kein einziges Buch zu finden ist,"
+940,"01:10:51,480","01:10:56,400",4251.48,4256.4,4.920000000000073,"dass es möglicherweise verbale oder körperliche Gewalt gibt,"
+941,"01:10:56,520","01:11:01,520",4256.52,4261.52,5.0,"dass es als Konfliktlösung gesehen wird, kommt in vielen Familien vor."
+942,"01:11:01,640","01:11:08,280",4261.64,4268.28,6.639999999999418,Egal ob mit Zuwanderungsgeschichte oder nicht.
+943,"01:11:08,400","01:11:15,160",4268.4,4275.16,6.760000000000218,"Da geht es einerseits um Chancengleichheit,"
+944,"01:11:18,960","01:11:21,640",4278.96,4281.64,2.680000000000291,bei einem Seminar ging es um die Gefahr
+945,"01:11:21,720","01:11:27,640",4281.72,4287.64,5.920000000000073,von sexuellem Missbrauch.
+946,"01:11:30,800","01:11:34,320",4290.8,4294.32,3.519999999999527,"Es geht aber auch um Kinder,"
+947,"01:11:34,440","01:11:37,520",4294.44,4297.52,3.0800000000008367,"die sich sprachlich nicht gut ausdrücken können,"
+948,"01:11:37,640","01:11:41,480",4297.64,4301.48,3.839999999999236,die gefährdet sind.
+949,"01:11:41,600","01:11:44,480",4301.6,4304.48,2.8799999999991996,"Man kann es an die Basiskompetenzen rangehen,"
+950,"01:11:44,600","01:11:52,440",4304.6,4312.44,7.839999999999236,aber man muss sich auch mit den anderen Sachen beschäftigen.
+951,"01:11:52,440","01:12:06,720",4312.44,4326.72,14.280000000000655,"OK: Müssen aufpassen, dass wir Schutte nicht überfordern."
+952,"01:12:06,720","01:12:10,160",4326.72,4330.16,3.4399999999996,"Man muss dafür sorgen, dass Ruhe im Klassenraum ist"
+953,"01:12:10,280","01:12:12,840",4330.28,4332.84,2.5600000000004,"und Schule wird nicht das Problem lösen,"
+954,"01:12:12,960","01:12:16,320",4332.96,4336.32,3.3599999999996726,dass es zu einer Verrohung kommt.
+955,"01:12:16,440","01:12:18,960",4336.44,4338.96,2.5200000000004366,"Was wir den Schulen abverlangen müssen,"
+956,"01:12:19,080","01:12:21,280",4339.08,4341.28,2.199999999999818,"da brauchen sie Unterstützung,"
+957,"01:12:21,400","01:12:25,160",4341.4,4345.16,3.7600000000002183,"solange sie dort sind, dass in einem geschützten Raum sind."
+958,"01:12:25,280","01:12:28,600",4345.28,4348.6,3.3200000000006185,"Wir leben in einem freiwillig demokratischen System,"
+959,"01:12:28,760","01:12:34,480",4348.76,4354.48,5.719999999999345,"was zu Hause passiert, da hat Schule kein Zugriff."
+960,"01:12:34,600","01:12:38,040",4354.6,4358.04,3.4399999999996,"Ich möchte nicht, dass alles auf die Schule abgewälzt wird."
+961,"01:12:40,520","01:12:42,920",4360.52,4362.92,2.399999999999636,"Das ist das, woran ich nicht glaube."
+962,"01:12:43,000","01:12:46,480",4363.0,4366.48,3.4799999999995634,Dass das geht.
+963,"01:12:46,480","01:12:49,960",4366.48,4369.96,3.480000000000473,"OK: Sie muss dafür sorgen, dass die Zeit,"
+964,"01:12:49,960","01:12:52,120",4369.96,4372.12,2.1599999999998545,"die die Kinder in der Schule sind,"
+965,"01:12:52,200","01:12:56,160",4372.2,4376.16,3.9600000000000364,"dass diese 10 Stunden für die Kinder eine Umwelt bereitstellt,"
+966,"01:12:56,280","01:12:59,680",4376.28,4379.68,3.4000000000005457,in der sie sich wohlfühlen und ohne Gewalt auskommen.
+967,"01:12:59,800","01:13:03,160",4379.8,4383.16,3.3599999999996726,Dafür braucht man Sozialarbeiter und Schulpsychologen
+968,"01:13:03,280","01:13:08,320",4383.28,4388.32,5.039999999999964,und qualifizierte Lehrkräfte.
+969,"01:13:08,440","01:13:12,560",4388.44,4392.56,4.1200000000008,Wir treten hier nicht an um die Welt zu retten.
+970,"01:13:12,680","01:13:15,480",4392.68,4395.48,2.7999999999992724,Es ist ein gesamtgesellschaftliches Problem
+971,"01:13:15,600","01:13:17,840",4395.6,4397.84,2.2399999999997817,und nicht nur ein schulisches.
+972,"01:13:20,320","01:13:22,440",4400.32,4402.44,2.119999999999891,SM: ich glaub das sieht jeder von außen.
+973,"01:13:22,560","01:13:26,800",4402.56,4406.8,4.239999999999782,"Wir sind uns alle einig, dass wir das nicht lösen können."
+974,"01:13:26,920","01:13:28,640",4406.92,4408.64,1.7200000000002547,"Dass wir den Kindern aber eine Heimat bieten müssen, ist"
+975,"01:13:30,520","01:13:32,040",4410.52,4412.04,1.519999999999527,auch wichtig.
+976,"01:13:32,040","01:13:40,960",4412.04,4420.96,8.920000000000073,Ich möchte trotzdem noch eine Lanze für die kulturelle Vielfalt brechen.
+977,"01:13:40,960","01:13:45,360",4420.96,4425.36,4.399999999999636,"Wenn ich eine Ordnungsmaßnahmen Konferenz mache,"
+978,"01:13:45,520","01:13:50,000",4425.52,4430.0,4.479999999999563,"dann sind es nicht immer die Eltern, die patriarchalisch zu Hause sind,"
+979,"01:13:50,120","01:13:54,160",4430.12,4434.16,4.039999999999964,die nicht das ernst nehmen.
+980,"01:13:54,280","01:14:00,760",4434.28,4440.76,6.480000000000473,"Ich habe auch oft mit Familiendiskussionen,"
+981,"01:14:00,880","01:14:04,480",4440.88,4444.48,3.5999999999994543,die sagen ich springe wie ein Helikopter über mein Kind
+982,"01:14:04,600","01:14:07,240",4444.6,4447.24,2.639999999999418,und stellen mich an die Seite des Kindes.
+983,"01:14:07,360","01:14:10,400",4447.36,4450.4,3.0399999999999636,"Wir können das Gesellschaft nicht nur lösen,"
+984,"01:14:10,440","01:14:12,440",4450.44,4452.44,2.0,wenn wir uns verantwortlich fühlen.
+985,"01:14:12,480","01:14:14,040",4452.48,4454.04,1.5600000000004002,"Ich finde es gut,"
+986,"01:14:14,080","01:14:17,480",4454.08,4457.48,3.399999999999636,dass wir hier in den Medien über Schule berichten.
+987,"01:14:17,520","01:14:20,280",4457.52,4460.28,2.759999999999309,Danke Ihnen allen ganz herzlich. Das war sehr differenziert.
+988,"01:14:20,320","01:14:22,160",4460.32,4462.16,1.8400000000001455,Bis morgen.

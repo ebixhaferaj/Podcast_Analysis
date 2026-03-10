@@ -1,0 +1,675 @@
+﻿segment_id,start_time,end_time,start_seconds,end_seconds,duration,text
+1,"00:00:00,040","00:00:02,000",0.04,2.0,1.96,Diese Untertitel sind live produziert.
+2,"00:00:02,040","00:00:05,920",2.04,5.92,3.88,"Einen schönen guten Abend und willkommen zu unserer Sendung,"
+3,"00:00:06,000","00:00:08,680",6.0,8.68,2.6799999999999997,"in der wir zu später Stunde einen Mann begrüßen,"
+4,"00:00:08,720","00:00:11,680",8.72,11.68,2.959999999999999,der einen harten Tag hinter sich hat.
+5,"00:00:11,760","00:00:13,840",11.76,13.84,2.08,"Es geht nämlich um eine Entscheidung,"
+6,"00:00:13,920","00:00:17,160",13.92,17.16,3.24,bei der er als Hamburger Innensenator nur verlieren kann.
+7,"00:00:17,240","00:00:19,160",17.24,19.16,1.9200000000000017,"Es geht nämlich um die heikle Frage,"
+8,"00:00:19,240","00:00:21,960",19.24,21.96,2.7200000000000024,ob wir am kommenden Wochenende wieder solche Bilder
+9,"00:00:22,040","00:00:24,640",22.04,24.64,2.6000000000000014,in der Hamburger Innenstadt sehen werden.
+10,"00:00:24,720","00:00:27,880",24.72,27.88,3.16,"""Unerträglich"" hat er das beim letzten Mal genannt,"
+11,"00:00:27,960","00:00:30,200",27.96,30.2,2.2399999999999984,"""das widert mich an""."
+12,"00:00:30,320","00:00:33,920",30.32,33.92,3.6000000000000014,Und trotzdem wird es wahrscheinlich wieder passieren.
+13,"00:00:34,000","00:00:39,080",34.0,39.08,5.079999999999998,"Warum? Fragen an Andy Grote (AG), herzlich willkommen."
+14,"00:00:41,240","00:00:45,440",41.24,45.44,4.199999999999996,"Versteht diese Frau offenbar auch nicht, sehr geschätzte Kollegin,"
+15,"00:00:45,480","00:00:48,160",45.48,48.16,2.6799999999999997,"die Chefredakteurin vom RND, die sagt:"
+16,"00:00:48,240","00:00:52,040",48.24,52.04,3.799999999999997,"""Der Staat muss endlich agieren und dem nicht hilflos gegenüberstehen."
+17,"00:00:52,120","00:00:54,760",52.12,54.76,2.6400000000000006,"Es hat bisher noch nicht einen Versuch gegeben,"
+18,"00:00:54,840","00:00:57,000",54.84,57.0,2.1599999999999966,"diese Organisation zu verbieten."""
+19,"00:00:57,080","00:01:00,080",57.08,60.08,3.0,Und weiter zu rechtlichen Bedenken nach dem Motto:
+20,"00:01:00,160","00:01:03,000",60.16,63.0,2.8400000000000034,"Vielleicht meinen die ja gar nicht Deutschland,"
+21,"00:01:03,120","00:01:08,280",63.12,68.28,5.160000000000004,"""Wenn jemand in der Hamburger Fußgängerzone das Kalifat fordert,"
+22,"00:01:08,360","00:01:12,320",68.36,72.32,3.9599999999999937,"dann ist es doch naheliegend, dass er offensichtlich das Land meint,"
+23,"00:01:12,400","00:01:14,000",72.4,74.0,1.5999999999999943,in dem er lebt.
+24,"00:01:14,120","00:01:17,720",74.12,77.72,3.5999999999999943,"Sonst könnte er ja einfach auswandern in ein Kalifat seiner Wahl."""
+25,"00:01:17,800","00:01:19,960",77.8,79.96000000000001,2.160000000000011,"Herzlich willkommen, Eva Quadbeck (EQ)."
+26,"00:01:20,040","00:01:24,120",80.03999999999999,84.12,4.0800000000000125,"Und weil der Hamburger Innensenator auch der Hamburger Sportsenator ist,"
+27,"00:01:24,200","00:01:27,840",84.2,87.84,3.6400000000000006,wollen wir mit ihm und vor allem mit diesem Mann
+28,"00:01:27,920","00:01:32,800",87.92,92.8,4.8799999999999955,gleich zu Beginn über die Gewalt bei Fußballspielen sprechen.
+29,"00:01:32,880","00:01:37,280",92.88,97.28,4.400000000000006,"Es sind u.a. solche Bilder, die viele dabei im Kopf haben,"
+30,"00:01:37,360","00:01:42,000",97.36,102.0,4.640000000000001,"die vor allem dann entstehen, wenn sehr viele Emotionen im Spiel sind."
+31,"00:01:42,080","00:01:45,600",102.08,105.6,3.519999999999996,"""Ich bin es leid, dass Profifußball nur noch"
+32,"00:01:45,680","00:01:50,400",105.68,110.4,4.719999999999999,"unter massivem Polizeieinsatz stattfinden kann"", sagt Herr Grote"
+33,"00:01:50,480","00:01:53,720",110.47999999999999,113.72,3.240000000000009,"und fordert, und die Forderung hat er nicht allein,"
+34,"00:01:53,800","00:01:55,440",113.8,115.44,1.6400000000000006,dass sich die Vereine
+35,"00:01:55,520","00:01:58,440",115.52000000000001,118.44,2.9199999999999875,endlich an den sehr teuren Polizeieinsätzen beteiligen.
+36,"00:01:58,520","00:02:00,400",118.52000000000001,120.4,1.8799999999999955,Wie sieht er das?
+37,"00:02:00,480","00:02:04,400",120.48,124.4,3.9200000000000017,"Gründungsmitglied von ""The Unity"", einer Dortmunder Ultra-Gruppe,"
+38,"00:02:04,480","00:02:07,600",124.48,127.6,3.1199999999999903,der mittlerweile an der Seite von Hans-Jochaim Watzke
+39,"00:02:07,680","00:02:11,200",127.68,131.2,3.519999999999982,"bei Dortmund arbeitet und den wir natürlich fragen müssen,"
+40,"00:02:11,240","00:02:16,200",131.24,136.2,4.9599999999999795,warum es aus seiner Sicht gestern Abend so derart famos gelaufen ist.
+41,"00:02:16,280","00:02:18,760",136.28,138.76,2.4799999999999898,"Herzlich willkommen, Jan-Henrik Gruszecki (JG)."
+42,"00:02:19,200","00:02:21,400",139.2,141.4,2.200000000000017,Wie lange war die Nacht in Paris?
+43,"00:02:21,440","00:02:25,880",141.44,145.88,4.439999999999998,Herzlichen Glückwunsch erstmal.
+44,"00:02:25,920","00:02:28,080",145.92000000000002,148.07999999999998,2.159999999999968,"JG: Die Nacht war sehr lang, oder sehr kurz."
+45,"00:02:28,120","00:02:33,040",148.12,153.04,4.9199999999999875,Sie läuft noch.
+46,"00:02:33,080","00:02:40,160",153.07999999999998,160.16,7.0800000000000125,"Ich glaube, nicht jeder hat schon in den Schlaf gefunden."
+47,"00:02:40,200","00:02:43,800",160.2,163.8,3.6000000000000227,"Dass wir ins Champions League Finale einziehen,"
+48,"00:02:43,840","00:02:45,800",163.84,165.8,1.960000000000008,"das ist zuletzt 2013 passiert,"
+49,"00:02:45,880","00:02:48,680",165.88,168.68,2.8000000000000114,das ist für uns als BVB etwas Historisches.
+50,"00:02:48,720","00:02:52,600",168.72,172.6,3.8799999999999955,Wir haben gestern viele Millionen Menschen glücklich gemacht.
+51,"00:02:52,600","00:02:55,800",172.6,175.8,3.200000000000017,"Großartig, wer war als letzter im Bett?"
+52,"00:02:55,800","00:02:59,360",175.8,179.36,3.5600000000000023,"Das darf ich nicht verraten, viel- leicht sind noch nicht alle im Bett."
+53,"00:02:59,400","00:03:03,720",179.4,183.72,4.319999999999993,"Wer war denn so optimistisch, diese Sieger T-Shirts drucken zu lassen?"
+54,"00:03:03,720","00:03:06,160",183.72,186.16,2.4399999999999977,Wir müssen ja vorbereitet sein.
+55,"00:03:06,200","00:03:10,760",186.2,190.76,4.560000000000002,"Der ganze Verein ist vorbereitet gewesen, dafür werden wir bezahlt."
+56,"00:03:10,760","00:03:13,080",190.76,193.08,2.3200000000000216,Das zahlt sich ja dann auch aus.
+57,"00:03:13,080","00:03:17,240",193.08,197.24,4.159999999999997,"Wenn man nicht gewonnen hätte, was passiert dann mit solchen T-Shirts?"
+58,"00:03:17,240","00:03:20,320",197.24,200.32,3.079999999999984,Dann hätte niemand die T-Shirts jemals gesehen.
+59,"00:03:22,960","00:03:31,280",202.96,211.28,8.319999999999993,"Möglicherweise eine Spende, wäre dann irgendwo wieder aufgetaucht."
+60,"00:03:33,800","00:03:40,040",213.8,220.04,6.239999999999981,"Hier der Trainer auf der Tribüne,"
+61,"00:03:40,320","00:03:43,720",220.32,223.72,3.4000000000000057,"Sie selber sind Ultra, da gibt es auch ein Bild."
+62,"00:03:43,760","00:03:46,200",223.76,226.2,2.4399999999999977,Wie erklären Sie sich das Phänomen
+63,"00:03:46,240","00:03:48,840",226.24,228.84,2.5999999999999943,Borussia Dortmund bei der Champions League 2024.
+64,"00:03:48,880","00:03:52,280",228.88,232.28,3.4000000000000057,"Da sehen wir Sie auch, ne?"
+65,"00:03:58,160","00:04:00,760",238.16,240.76,2.5999999999999943,"JG: Die Bilder sind schon etwas älter,"
+66,"00:04:00,800","00:04:03,200",240.8,243.2,2.3999999999999773,"da bin ich sehr jung, ich glaube 17."
+67,"00:04:03,200","00:04:06,000",243.2,246.0,2.8000000000000114,"Ich bin Mitarbeiter beim BVB, genau."
+68,"00:04:08,080","00:04:11,040",248.08,251.04,2.9599999999999795,"Viele Menschen lieben diesen Verein wirklich,"
+69,"00:04:11,080","00:04:13,480",251.08,253.48,2.3999999999999773,"es macht uns wirklich sehr glücklich,"
+70,"00:04:13,520","00:04:16,800",253.52,256.8,3.280000000000001,gestern viele Millionen Menschen glücklich gemacht zu haben.
+71,"00:04:16,880","00:04:19,160",256.88,259.16,2.2800000000000296,"Wir hoffen, dass da noch was kommt"
+72,"00:04:19,200","00:04:23,720",259.2,263.72,4.520000000000039,und wir mit was Silbernem zurück nach Dortmund fahren.
+73,"00:04:23,720","00:04:25,880",263.72,265.88,2.159999999999968,Warum in der Liga eher Mittelmaß
+74,"00:04:25,920","00:04:31,080",265.92,271.08,5.159999999999968,und in der Champions League das Maß der Dinge?
+75,"00:04:31,080","00:04:34,320",271.08,274.32,3.240000000000009,JG: Das werden die sportlichen Verantwortlichen
+76,"00:04:34,320","00:04:36,240",274.32,276.24,1.920000000000016,besser beantworten können.
+77,"00:04:36,320","00:04:38,920",276.32,278.92,2.6000000000000227,"Vielleicht hat das mit Fokus zu tun,"
+78,"00:04:38,960","00:04:41,120",278.96,281.12,2.160000000000025,"wenn man besonders motiviert ist,"
+79,"00:04:41,160","00:04:44,880",281.15999999999997,284.88,3.7200000000000273,dass man noch mal 20 % mehr geben kann.
+80,"00:04:44,960","00:04:52,000",284.96,292.0,7.0400000000000205,Das Glück hat uns in Paris auch etwas geholfen.
+81,"00:04:56,040","00:04:58,400",296.04,298.4,2.359999999999957,"Dortmund ist bekannt als Stahlstadt,"
+82,"00:04:58,440","00:05:02,000",298.44,302.0,3.5600000000000023,vielleicht müssen wir uns mit dem Aluminium erweitern.
+83,"00:05:02,040","00:05:04,480",302.04,304.48,2.4399999999999977,International kommt bei uns ganz vieles zusammen.
+84,"00:05:04,480","00:05:07,640",304.48,307.64,3.159999999999968,Das ist reine Psychologie oder sehe ich das falsch?
+85,"00:05:09,640","00:05:11,560",309.64,311.56,1.920000000000016,Die meisten Bundesligaspieler
+86,"00:05:11,600","00:05:14,760",311.6,314.76,3.159999999999968,"können auf dem gleichen Niveau Fußball spielen,"
+87,"00:05:14,760","00:05:18,880",314.76,318.88,4.1200000000000045,"der Kopf ist das, was es am Ende ausmacht."
+88,"00:05:18,880","00:05:22,320",318.88,322.32,3.4399999999999977,"Jetz aber weg von diesem schönen Erfolg,"
+89,"00:05:22,320","00:05:26,800",322.32,326.8,4.480000000000018,wie verfolgen Sie die Diskussion um Risikospiele
+90,"00:05:26,880","00:05:29,760",326.88,329.76,2.8799999999999955,"oder Hochrisikospiele, die Kostendebatte"
+91,"00:05:29,800","00:05:32,560",329.8,332.56,2.759999999999991,um Polizeieinsätze am Spieltag?
+92,"00:05:32,560","00:05:34,960",332.56,334.96,2.3999999999999773,Es gibt jetzt die Klage von Bremen.
+93,"00:05:35,000","00:05:38,440",335.0,338.44,3.4399999999999977,"Herr Groote, was kostet so ein Polizeieinsatz?"
+94,"00:05:38,480","00:05:44,880",338.48,344.88,6.399999999999977,Wie viele Polizisten sind im Einsatz?
+95,"00:05:45,560","00:05:53,680",345.56,353.68,8.120000000000005,"AG: Wir waren aktuell bei 1000, etwas über 1000 Polizeibeamte."
+96,"00:05:54,960","00:05:57,800",354.96,357.8,2.840000000000032,Und wir sind bei den Hochrisikospielen
+97,"00:05:57,840","00:06:00,480",357.84000000000003,360.48,2.6399999999999864,immer im mittleren sechsstelligen Bereich.
+98,"00:06:00,480","00:06:03,480",360.48,363.48,3.0,Mittlere sechsstelliger Bereich heißt?
+99,"00:06:03,480","00:06:06,200",363.48,366.2,2.7199999999999704,300.000 bis 600.000 Euro.
+100,"00:06:06,200","00:06:12,360",366.2,372.36,6.160000000000025,"Wahnsinn, wer zahlt das?"
+101,"00:06:12,360","00:06:14,920",372.36,374.92,2.5600000000000023,"Das sind die Kosten,"
+102,"00:06:14,960","00:06:19,120",374.96,379.12,4.160000000000025,"die wir brauchen, um die Polizei dort zur Verfügung zu stellen."
+103,"00:06:19,160","00:06:21,120",379.16,381.12,1.9599999999999795,Das zahlt der Steuerzahler.
+104,"00:06:21,120","00:06:29,720",381.12,389.72,8.600000000000023,Ist das okay?
+105,"00:06:29,720","00:06:32,240",389.72,392.24,2.519999999999982,"Es ist immer schwieriger vermittelbar,"
+106,"00:06:32,360","00:06:35,840",392.36,395.84000000000003,3.480000000000018,dass wir diese hohen Kosten
+107,"00:06:35,880","00:06:39,240",395.88,399.24,3.3600000000000136,und diese enormen Polizeieinsätze brauchen.
+108,"00:06:39,280","00:06:42,840",399.28,402.84000000000003,3.560000000000059,"Das gibt es bei keiner anderen Freizeitveranstaltung,"
+109,"00:06:42,880","00:06:48,680",402.88,408.68,5.800000000000011,das gibt's nur beim Fußball.
+110,"00:06:48,720","00:06:51,760",408.72,411.76,3.0399999999999636,"Unser Herz ist immer beim Fußball,"
+111,"00:06:51,800","00:06:55,200",411.8,415.2,3.3999999999999773,"wir haben alle eine große Leidenschaft dafür,"
+112,"00:06:55,240","00:07:00,480",415.24,420.48,5.240000000000009,wir kennen die positive Kraft des Fußballs.
+113,"00:07:00,520","00:07:04,240",420.52,424.24,3.7200000000000273,"Gleichzeitig haben wir das Phänomen,"
+114,"00:07:04,280","00:07:08,880",424.28,428.88,4.600000000000023,dass wir bei keiner anderen Sportart so massive Gewaltprobleme haben.
+115,"00:07:08,960","00:07:11,240",428.96,431.24,2.2800000000000296,"Das ist ein Problem, wenn wir sehen,"
+116,"00:07:11,320","00:07:15,600",431.32,435.6,4.28000000000003,wie die Polizei überall gefordert ist und dann solche Ressourcen
+117,"00:07:15,640","00:07:18,800",435.64,438.8,3.160000000000025,in den Stadien zur Verfügung stellen zu müssen.
+118,"00:07:18,840","00:07:24,040",438.84,444.04,5.2000000000000455,Und dann auch verletzte Beamte zurückkommen zu sehen.
+119,"00:07:24,040","00:07:27,560",444.04,447.56,3.519999999999982,"Wenn ich das richtig verstanden habe,"
+120,"00:07:27,560","00:07:31,200",447.56,451.2,3.6399999999999864,muss der Verein nicht für jeden Polizeieinsatz zahlen.
+121,"00:07:31,240","00:07:34,400",451.24,454.4,3.159999999999968,"Die Idee in Bremen ist,"
+122,"00:07:34,480","00:07:41,640",454.48,461.64,7.159999999999968,bei besonders intensiven Spielen mehr Personal zu nehmen.
+123,"00:07:41,640","00:07:43,880",461.64,463.88,2.240000000000009,Es geht um die Hochrisikospiele.
+124,"00:07:43,880","00:07:47,600",463.88,467.6,3.7200000000000273,Bremen hat das als eigene Initiative vor Jahren angefangen
+125,"00:07:47,640","00:07:51,480",467.64,471.48,3.840000000000032,und jetzt sind wir auf der Ebene der Rechtsstreitigkeiten.
+126,"00:07:51,520","00:07:55,600",471.52,475.6,4.080000000000041,Vom Bundesverfassungsgericht wird das jetzt final entschieden.
+127,"00:07:55,680","00:07:57,440",475.68,477.44,1.759999999999991,Alle gucken da gespannt drauf.
+128,"00:07:57,440","00:08:01,880",477.44,481.88,4.439999999999998,Wann kommt die Entscheidung ungefähr?
+129,"00:08:01,880","00:08:05,840",481.88,485.84,3.9599999999999795,Die mündliche Verhandlung hat begonnen vor ein paar Tagen.
+130,"00:08:05,840","00:08:08,880",485.84,488.88,3.0400000000000205,Wir werden in absehbarer Zeit eine Entscheidung bekommen.
+131,"00:08:08,880","00:08:11,960",488.88,491.96,3.079999999999984,Ob Sie dann Rechnungen schreiben dürfen oder der Verein.
+132,"00:08:11,960","00:08:15,600",491.96,495.6,3.640000000000043,Das wird die Diskussion noch mal befeuert.
+133,"00:08:15,680","00:08:22,440",495.68,502.44,6.759999999999991,"Wir müssen uns überlegen, wenn man das nicht will,"
+134,"00:08:22,440","00:08:26,720",502.44,506.72,4.28000000000003,ich glaube nicht dass das die beste aller denkbaren Lösungen ist.
+135,"00:08:26,760","00:08:35,200",506.76,515.2,8.440000000000055,"Das wäre Ultima Ratio, aber wenn für eine Alternative haben wollen,"
+136,"00:08:36,360","00:08:41,000",516.36,521.0,4.639999999999986,"müssen wir schauen, wie wir von diesen Polizeieinsätzen wegkommen."
+137,"00:08:41,000","00:08:44,320",521.0,524.32,3.32000000000005,"Werden wir vielleicht auch ein paar Bilder sehen,"
+138,"00:08:44,360","00:08:47,520",524.36,527.52,3.159999999999968,"damit wir eine Idee kriegen, was dort passiert."
+139,"00:08:47,520","00:08:50,880",527.52,530.88,3.3600000000000136,"2000 Polizeibeamte bei einem einzigen Fußballspiel,"
+140,"00:08:50,920","00:08:53,440",530.92,533.44,2.5200000000000955,ist das noch irgendwie verhältnismäßig?
+141,"00:08:53,520","00:08:57,600",533.52,537.6,4.080000000000041,"JG: Schwer zu sagen, das müssen die Einsatzleiter dann planen."
+142,"00:08:57,640","00:09:00,040",537.64,540.04,2.3999999999999773,"Ich glaube nicht, dass das nötig ist."
+143,"00:09:00,120","00:09:06,720",540.12,546.72,6.600000000000023,Aber so sieht es nicht jedes Wochenende in jedem Stadion aus.
+144,"00:09:06,720","00:09:08,880",546.72,548.88,2.159999999999968,Das sind Derbys vor allem.
+145,"00:09:08,880","00:09:12,080",548.88,552.08,3.2000000000000455,"Es wurde von Hochrisikospielen gesprochen,"
+146,"00:09:12,120","00:09:14,960",552.12,554.96,2.840000000000032,"in Bremen, gegen Borussia Mönchengladbach,"
+147,"00:09:14,960","00:09:18,760",554.96,558.76,3.7999999999999545,das ist eigentlich kein Hochrisikospiel.
+148,"00:09:18,840","00:09:22,360",558.84,562.36,3.519999999999982,"Mit der kurzen Vergabe ist es schwierig,"
+149,"00:09:22,440","00:09:27,800",562.44,567.8,5.3599999999999,"egal als ehemaliger Fan Vertreter oder Mitarbeiter des BVB,"
+150,"00:09:27,880","00:09:32,120",567.88,572.12,4.240000000000009,es ist der Anfang der Privatisierung von öffentlicher Sicherheit
+151,"00:09:32,200","00:09:34,120",572.2,574.12,1.919999999999959,"und das finde ich schwierig,"
+152,"00:09:34,160","00:09:37,400",574.16,577.4,3.240000000000009,wenn die Polizei dann Rechnungen schreibt.
+153,"00:09:37,480","00:09:40,280",577.48,580.28,2.7999999999999545,"Das nennen manche Leute Verursacherprinzip,"
+154,"00:09:40,360","00:09:43,080",580.36,583.08,2.7200000000000273,das sehe ich anders.
+155,"00:09:43,160","00:09:46,280",583.16,586.28,3.1200000000000045,"Die Fußballvereine verursachen nicht die Gewalt,"
+156,"00:09:46,360","00:09:49,840",586.36,589.84,3.480000000000018,"das Problem an einem gewalttätigen Fußballverein,"
+157,"00:09:49,920","00:09:52,720",589.92,592.72,2.800000000000068,"ist nicht, dass er sich über ein Tor freut,"
+158,"00:09:52,800","00:09:56,520",592.8,596.52,3.7200000000000273,sondern dass er kriminell und gewalttätig ist.
+159,"00:09:56,600","00:09:58,720",596.6,598.72,2.1200000000000045,"Und der Staat ist so organisiert,"
+160,"00:09:58,800","00:10:02,240",598.8,602.24,3.4400000000000546,"dass er für die öffentliche Sicherheit,"
+161,"00:10:02,320","00:10:07,960",602.32,607.96,5.639999999999986,dass dafür die Polizei zuständig ist.
+162,"00:10:08,040","00:10:10,240",608.04,610.24,2.2000000000000455,"Mir das anfangen zu privatisieren,"
+163,"00:10:10,320","00:10:12,560",610.32,612.56,2.2399999999998954,verändern wir grundsätzliche Dinge
+164,"00:10:12,640","00:10:15,280",612.64,615.28,2.6399999999999864,in unserem demokratischen Zusammenleben -
+165,"00:10:15,360","00:10:17,680",615.36,617.68,2.3199999999999363,das finde ich schwierig.
+166,"00:10:17,680","00:10:21,560",617.68,621.56,3.8799999999999955,"Sie würden sagen, beim Schützenfest, beim Oktoberfest,"
+167,"00:10:21,560","00:10:24,040",621.56,624.04,2.480000000000018,da ist auch die öffentliche Sicherheit
+168,"00:10:24,080","00:10:26,680",624.08,626.68,2.599999999999909,durch die Polizei zu gewährleisten.
+169,"00:10:26,680","00:10:30,640",626.68,630.64,3.9600000000000364,Exakt. Das ist in Deutschland glücklicherweise so geregelt.
+170,"00:10:30,640","00:10:33,720",630.64,633.72,3.080000000000041,Wenn wir die Polizei als Dienstleister anrufen.
+171,"00:10:33,760","00:10:34,480",633.76,634.48,0.7200000000000273,Vielleicht entsteht dann ein Wettbewerb dor.t
+172,"00:10:36,320","00:10:39,960",636.32,639.96,3.6399999999999864,Vielleicht entsteht dann ein Wettbewerb dort.
+173,"00:10:40,040","00:10:45,960",640.04,645.96,5.920000000000073,"Ich bleib dabei,"
+174,"00:10:46,040","00:10:49,680",646.04,649.68,3.6399999999999864,"es ist gut, dass es die Aufgabe des Staates ist."
+175,"00:10:49,720","00:10:53,760",649.72,653.76,4.039999999999964,Und wirkt zu keinem Verursacherprinzip kommen.
+176,"00:10:53,840","00:10:57,320",653.84,657.32,3.480000000000018,Sind die Verursacher wirklich die Fußballvereine?
+177,"00:10:57,400","00:11:00,560",657.4,660.56,3.159999999999968,"Es dann schon die Menschen, die Steuerzahler,"
+178,"00:11:00,600","00:11:03,720",660.6,663.72,3.1200000000000045,die ein Anrecht auf Polizeischutz haben.
+179,"00:11:03,760","00:11:07,040",663.76,667.04,3.2799999999999727,Dafür zahlen die Steuern.
+180,"00:11:07,120","00:11:13,960",667.12,673.96,6.840000000000032,Davon wird der Polizeiapparat in diesem Land finanziert.
+181,"00:11:13,960","00:11:17,760",673.96,677.76,3.7999999999999545,AG: Dann machen wir es ein bisschen einfach.
+182,"00:11:17,760","00:11:21,000",677.76,681.0,3.240000000000009,In den Stadien selber haben die Vereine Hausrecht
+183,"00:11:21,040","00:11:23,280",681.04,683.28,2.240000000000009,und für die Sicherheit zu sorgen.
+184,"00:11:23,320","00:11:25,320",683.32,685.32,2.0,Kein Verein schafft es.
+185,"00:11:25,400","00:11:29,480",685.4,689.48,4.080000000000041,Vereine schaffen es nicht in Stadien für Sicherheit zu sorgen.
+186,"00:11:29,520","00:11:32,480",689.52,692.48,2.9600000000000364,"Wenn normalerweise ein Veranstalter erklärt,"
+187,"00:11:32,520","00:11:36,200",692.52,696.2,3.6800000000000637,"ich kann meine Veranstaltung nicht sicher durchführen,"
+188,"00:11:36,240","00:11:39,320",696.24,699.32,3.080000000000041,dann kann die Veranstaltung nicht stattfinden.
+189,"00:11:39,400","00:11:42,440",699.4,702.44,3.0400000000000773,"Das machen nur beim Fußball, weil es Fußball ist anders."
+190,"00:11:42,440","00:11:45,400",702.44,705.4,2.9599999999999227,Der Fußball ist dann die Ausnahme sagen Sie.
+191,"00:11:45,400","00:11:48,240",705.4,708.24,2.840000000000032,Auf allen Ebenen schauen wir sehr intensiv
+192,"00:11:48,320","00:11:50,800",708.32,710.8,2.4799999999999045,um zu gemeinsamen Lösungen zu kommen.
+193,"00:11:50,800","00:11:54,840",710.8,714.84,4.040000000000077,"Zu sagen, das ist halt so, wir haben da keine Verantwortung,"
+194,"00:11:54,880","00:11:57,280",714.88,717.28,2.3999999999999773,das geht eben nicht.
+195,"00:11:57,280","00:11:59,560",717.28,719.56,2.2799999999999727,"JG: Es ist falsch wenn sie sagen,"
+196,"00:11:59,640","00:12:07,480",719.64,727.48,7.840000000000032,die Vereine kriegen es nicht geregelt.
+197,"00:12:07,480","00:12:09,600",727.48,729.6,2.1200000000000045,99 % der Spiele sind friedlich.
+198,"00:12:09,680","00:12:13,920",729.68,733.92,4.240000000000009,"Bei Borussia Dortmund, wir haben teilweise mehr als 1000 Ordner,"
+199,"00:12:14,000","00:12:19,920",734.0,739.92,5.919999999999959,die für das Hausrecht sorgen.
+200,"00:12:24,160","00:12:29,600",744.16,749.6,5.440000000000055,"In Dortmund wenn wir 80.000 Leuten in einem Raum sind,"
+201,"00:12:29,600","00:12:33,440",749.6,753.44,3.840000000000032,natürlich passieren da auch Sachen.
+202,"00:12:33,440","00:12:35,640",753.44,755.64,2.199999999999932,AG: Das passiert nur im Fußball.
+203,"00:12:35,680","00:12:39,160",755.68,759.16,3.480000000000018,"Wenn wir im selben Stadion American Football haben,"
+204,"00:12:39,160","00:12:41,080",759.16,761.08,1.9200000000000728,passiert das nicht.
+205,"00:12:41,160","00:12:43,960",761.16,763.96,2.800000000000068,Dem Phänomen muss sich der Fußball stellen.
+206,"00:12:43,960","00:12:45,920",763.96,765.92,1.9599999999999227,JG: Das macht der Fußball.
+207,"00:12:46,000","00:12:49,120",766.0,769.12,3.1200000000000045,Wir haben über 1000 Orten nahe bei jedem Spiel.
+208,"00:12:49,120","00:12:51,040",769.12,771.04,1.919999999999959,"Wir haben Fanbeauftragte,"
+209,"00:12:51,120","00:12:54,240",771.12,774.24,3.1200000000000045,Sozialarbeiter und sehr viele Projekte.
+210,"00:12:54,240","00:12:58,760",774.24,778.76,4.519999999999982,AG: Aber die Wirkung reicht nicht aus.
+211,"00:12:58,760","00:13:02,240",778.76,782.24,3.480000000000018,"JG: Die Wirkung bleibt aus,"
+212,"00:13:02,240","00:13:05,320",782.24,785.32,3.080000000000041,dass stimmt nicht.
+213,"00:13:05,360","00:13:08,480",785.36,788.48,3.1200000000000045,Wie sich das Thema entwickelt hat
+214,"00:13:08,560","00:13:10,480",788.56,790.48,1.9200000000000728,"hier zu suggerieren,"
+215,"00:13:10,560","00:13:13,960",790.56,793.96,3.400000000000091,"als seien Fußballspiele keine sichere Veranstaltung,"
+216,"00:13:14,000","00:13:16,920",794.0,796.92,2.919999999999959,man kann mit seiner Fußballfamilie sicher installieren gehen.
+217,"00:13:16,920","00:13:20,960",796.92,800.96,4.040000000000077,"AG: Ich kenne viele Familien,"
+218,"00:13:21,000","00:13:26,880",801.0,806.88,5.8799999999999955,die das nicht mehr tun nach dem was sie erlebt haben.
+219,"00:13:26,880","00:13:32,840",806.88,812.84,5.960000000000036,Wir haben 20 Millionen Zuschauern der Bundesliga...
+220,"00:13:32,840","00:13:36,480",812.84,816.48,3.6399999999999864,"Warum erkennen Sie nicht an, dass wir ein Problem haben?"
+221,"00:13:36,480","00:13:39,160",816.48,819.16,2.67999999999995,"Natürlich haben wir ein Problem,"
+222,"00:13:39,200","00:13:45,760",819.2,825.76,6.559999999999945,wenn 80.000 Menschen im Stadion sind haben wir verschiedene Kulturen.
+223,"00:13:45,760","00:13:48,600",825.76,828.6,2.840000000000032,Eine gesellschaftliche Entwicklung
+224,"00:13:48,680","00:13:52,080",828.68,832.08,3.400000000000091,findet auch in einem Fußballstadion statt.
+225,"00:13:52,160","00:13:56,360",832.16,836.36,4.2000000000000455,"Wenn wir sehen, dass in Dresden SPD- Politiker verprügelt werden,"
+226,"00:13:56,440","00:13:58,480",836.44,838.48,2.0399999999999636,"dass wir sehen,"
+227,"00:13:58,560","00:14:02,440",838.56,842.44,3.880000000000109,dass ein gesamtgesellschaftliches Problem der Gewalt haben.
+228,"00:14:02,520","00:14:06,480",842.52,846.48,3.9600000000000364,Dann wird im Fußball auch kein Friede vorher Eierkuchen sein.
+229,"00:14:06,560","00:14:08,760",846.56,848.76,2.2000000000000455,"Der Fußball ist nicht das Problem,"
+230,"00:14:08,840","00:14:11,920",848.84,851.92,3.0799999999999272,die Fußballvereine können natürlich mehr tun.
+231,"00:14:11,960","00:14:18,560",851.96,858.56,6.599999999999909,Sie machen auch dieses Jahr wieder mehr.
+232,"00:14:20,280","00:14:23,440",860.28,863.44,3.160000000000082,Sie geben 110 Millionen Euro in Prävention aus.
+233,"00:14:23,520","00:14:28,160",863.52,868.16,4.639999999999986,Da passiert wirklich sehr viel.
+234,"00:14:28,240","00:14:31,040",868.24,871.04,2.7999999999999545,"Das muss von der Politik anerkannt werden,"
+235,"00:14:31,120","00:14:37,560",871.12,877.56,6.439999999999941,nicht nur mit dem Finger drauf zeigen.
+236,"00:14:38,520","00:14:42,560",878.52,882.56,4.039999999999964,"Ich würd einmal gerne Eva Quadbeck hören, die Fußballfan ist,"
+237,"00:14:42,600","00:14:44,960",882.6,884.96,2.3600000000000136,selber im Stadion ist?
+238,"00:14:44,960","00:14:52,280",884.96,892.28,7.319999999999936,"EQ: Nein, nicht besonders häufig bin ich im Stadion."
+239,"00:14:52,280","00:14:57,240",892.28,897.24,4.960000000000036,"Würden Sie Herrn Grote Recht geben, dass sie von Leuten hören"
+240,"00:14:57,240","00:15:01,760",897.24,901.76,4.519999999999982,"sie nicht ins Stadion gehen,"
+241,"00:15:01,800","00:15:05,560",901.8,905.56,3.759999999999991,weil sie keine Lust haben auf gewaltbereiter Atmosphäre?
+242,"00:15:05,640","00:15:09,680",905.64,909.68,4.039999999999964,"Die andere Seite sind die nackten Zahlen, 22, 23 bezieht das."
+243,"00:15:09,760","00:15:13,080",909.76,913.08,3.32000000000005,"26,5 Millionen Fans, wenn man von der dritten Liga"
+244,"00:15:13,160","00:15:16,080",913.16,916.08,2.9200000000000728,bis zur Championsleague alles zusammen nimmt
+245,"00:15:16,160","00:15:18,680",916.16,918.68,2.519999999999982,und demgegenüber stehen 1000 Verletzte.
+246,"00:15:18,760","00:15:20,960",918.76,920.96,2.2000000000000455,Das klingt für mich erst mal nicht
+247,"00:15:21,040","00:15:23,680",921.04,923.68,2.6399999999999864,nach einem gigantischen Gewaltpotenzial.
+248,"00:15:23,760","00:15:28,560",923.76,928.56,4.7999999999999545,Aber die Atmosphäre scheint eine andere zu sein.
+249,"00:15:28,560","00:15:33,240",928.56,933.24,4.680000000000064,"EQ: Es ist ganz offensichtlich so, dass die Einschätzung der Polizei"
+250,"00:15:33,240","00:15:37,680",933.24,937.68,4.439999999999941,"sollst, dass viele anrücken müssen um die Sicherheit zu gewähren."
+251,"00:15:37,760","00:15:41,680",937.76,941.68,3.919999999999959,Diese Kosten sind eine große Belastung für die Bundesländer.
+252,"00:15:41,800","00:15:46,560",941.8,946.56,4.759999999999991,"Ich kann das durchaus nachvollziehen,"
+253,"00:15:46,640","00:15:52,560",946.64,952.56,5.919999999999959,"wenn ein Land sagt,"
+254,"00:15:58,720","00:16:02,760",958.72,962.76,4.039999999999964,so ihr habt in der Fußball Ligen Geld um hohe Transfersummen
+255,"00:16:02,840","00:16:06,040",962.84,966.04,3.199999999999932,für Fußballspiele auszugeben
+256,"00:16:06,120","00:16:10,000",966.12,970.0,3.8799999999999955,und hier geht es um 100.000 Euro für Prävention.
+257,"00:16:10,120","00:16:12,960",970.12,972.96,2.840000000000032,"Es geht um Leute,"
+258,"00:16:13,040","00:16:16,200",973.04,976.2,3.160000000000082,"sind gewaltbereit,"
+259,"00:16:16,280","00:16:19,800",976.28,979.8,3.519999999999982,es geht nicht darum sich das Spiel anzuschauen.
+260,"00:16:19,800","00:16:23,120",979.8,983.12,3.32000000000005,Hannover 96 Braunschweig ist so ein Beispiel.
+261,"00:16:23,120","00:16:27,240",983.12,987.24,4.1200000000000045,Bremen hat bisher in allen Instanzen weitgehend Recht bekommen.
+262,"00:16:27,240","00:16:34,720",987.24,994.72,7.480000000000018,Jetzt ist die Sache vor dem Bundesverfassungsgericht.
+263,"00:16:37,320","00:16:41,400",997.32,1001.4,4.079999999999927,Das Bundesverfassungsgericht wird in den Grenzen unseres
+264,"00:16:41,480","00:16:45,600",1001.48,1005.6,4.1200000000000045,Grundgesetzes das auslotsen.
+265,"00:16:45,680","00:16:49,160",1005.68,1009.16,3.480000000000018,"In einem bestimmten Rahmen könnte es möglich sein,"
+266,"00:16:49,240","00:16:52,560",1009.24,1012.56,3.3199999999999363,"es spricht nichts dagegen,"
+267,"00:16:52,640","00:16:57,560",1012.64,1017.56,4.919999999999959,"wenn die Länder die Fußballvereine bitten,"
+268,"00:16:57,640","00:17:00,400",1017.64,1020.4,2.759999999999991,sich an bestimmenden Spielen zu beteiligen.
+269,"00:17:00,520","00:17:04,000",1020.52,1024.0,3.480000000000018,"Grundsätzlich ist natürlich der Staat dafür zuständig,"
+270,"00:17:04,080","00:17:06,360",1024.08,1026.36,2.2799999999999727,"für die Großveranstaltungen,"
+271,"00:17:06,440","00:17:14,280",1026.44,1034.28,7.839999999999918,aber hier hat es einen komplett anderen Rahmen eingenommen.
+272,"00:17:14,720","00:17:17,880",1034.72,1037.88,3.160000000000082,"Eine Kollegin von Ihnen Herr Grote,"
+273,"00:17:17,920","00:17:22,360",1037.92,1042.36,4.439999999999827,die SPD Innenministerin aus Niedersachsen
+274,"00:17:22,440","00:17:26,240",1042.44,1046.24,3.7999999999999545,hat nach diesen Ausschreitungen gefordert ein Gästeverbot
+275,"00:17:26,320","00:17:28,440",1046.32,1048.44,2.1200000000001182,für die Niedersachsen Derbys.
+276,"00:17:28,520","00:17:34,440",1048.52,1054.44,5.920000000000073,Wie sehen Sie das?
+277,"00:17:35,600","00:17:40,360",1055.6,1060.36,4.759999999999991,"AG: D. h., dass die Gäste Fans keine Karten bekommen."
+278,"00:17:40,400","00:17:47,600",1060.4,1067.6,7.199999999999818,"Das kann eine Konsequenz sein, wir haben uns bei der Ministerkonferenz"
+279,"00:17:47,720","00:17:53,080",1067.72,1073.08,5.3599999999999,"damit beschäftigt und haben gesagt, es gibt zwei Möglichkeiten."
+280,"00:17:53,200","00:17:57,160",1073.2,1077.16,3.9600000000000364,"Übrigens gar nicht nur mit dem Finger auf den Verein gezeigt,"
+281,"00:17:57,240","00:18:00,720",1077.24,1080.72,3.480000000000018,sondern kooperativ überlegt.
+282,"00:18:00,800","00:18:04,520",1080.8,1084.52,3.7200000000000273,"Das eine war, dass wir gemeinsam gegen die kleine Gruppe"
+283,"00:18:04,600","00:18:06,920",1084.6,1086.92,2.3200000000001637,"von harten Intensivtätern vorgehen,"
+284,"00:18:07,000","00:18:11,800",1087.0,1091.8,4.7999999999999545,dies immer gibt und die für einen Großteil
+285,"00:18:11,880","00:18:15,760",1091.88,1095.76,3.8799999999998818,der Gewalt verantwortlich sind.
+286,"00:18:15,800","00:18:19,600",1095.8,1099.6,3.7999999999999545,"Intensivtäterkonzept und das andere aber auch,"
+287,"00:18:19,640","00:18:23,160",1099.64,1103.16,3.519999999999982,wenn sich ganze auswärts Blöcke immer wieder hart
+288,"00:18:23,280","00:18:26,840",1103.28,1106.84,3.5599999999999454,"gegen alle Regeln verhalten, dass man dann sagen muss,"
+289,"00:18:26,920","00:18:30,520",1106.92,1110.52,3.599999999999909,dann kommen eben von diesem Verein keine Auswärtsfans.
+290,"00:18:30,600","00:18:33,520",1110.6,1113.52,2.9200000000000728,Endspiele für eine oben eigene Unterstützung.
+291,"00:18:33,600","00:18:36,320",1113.6,1116.32,2.7200000000000273,"Das finde ich eine legitime Überlegung,"
+292,"00:18:36,360","00:18:40,280",1116.36,1120.28,3.9200000000000728,wenn wir es nicht anders in den Griff bekommen.
+293,"00:18:40,360","00:18:45,080",1120.36,1125.08,4.720000000000027,Wir haben die letzten Spiele hier in Hamburg sowohl Sankt Pauli Rostocks
+294,"00:18:45,160","00:18:49,480",1125.16,1129.48,4.319999999999936,als auch das Derby intensivste Gespräche mit den Vereinen geführt.
+295,"00:18:49,600","00:18:53,880",1129.6,1133.88,4.2800000000002,"Wir haben gute Ergebnisse erzielt, beide Spieler waren sehr ruhig."
+296,"00:18:53,960","00:18:58,080",1133.96,1138.08,4.119999999999891,Es ist immer besser als durch Druck oder massive Kosten.
+297,"00:18:58,160","00:19:00,080",1138.16,1140.08,1.9199999999998454,"Wenn es nicht anders geht,"
+298,"00:19:00,160","00:19:04,400",1140.16,1144.4,4.240000000000009,dann müssen wir trotzdem handlungsfähig sein.
+299,"00:19:04,400","00:19:08,120",1144.4,1148.12,3.7199999999998,"Bevor wir gleich zum nächsten Thema kommen, Jan-Hendrik,"
+300,"00:19:08,120","00:19:10,120",1148.12,1150.12,2.0,"Gästeverbot, geht das?"
+301,"00:19:10,200","00:19:16,520",1150.2,1156.52,6.319999999999936,Rein logistisch und organisatorisch?
+302,"00:19:17,360","00:19:21,200",1157.36,1161.2,3.8400000000001455,"JG: Was Herr Grote am Anfang seines Statements gesagt hat,"
+303,"00:19:21,280","00:19:24,280",1161.28,1164.28,3.0,wir reden immer noch von einer kleinen Gruppe.
+304,"00:19:24,360","00:19:27,080",1164.36,1167.08,2.7200000000000273,"Wenn wir dann Tausende Leute ausschließen,"
+305,"00:19:27,160","00:19:33,280",1167.16,1173.28,6.119999999999891,das passt nicht in das Jahr 2024.
+306,"00:19:33,400","00:19:37,000",1173.4,1177.0,3.599999999999909,Person X wird für das Verhalten von Person Y bestraft.
+307,"00:19:37,080","00:19:41,040",1177.08,1181.04,3.9600000000000364,Deswegen halte ich von den Kollektivstrafen überhaupt nichts.
+308,"00:19:41,160","00:19:45,520",1181.16,1185.52,4.3599999999999,Das ist kontraproduktiv.
+309,"00:19:45,640","00:19:51,480",1185.64,1191.48,5.839999999999918,Dann haben wir am Ende ein größeres Problem.
+310,"00:19:51,600","00:19:54,480",1191.6,1194.48,2.880000000000109,Ich halte es auch nicht für Durchsetzungsvermögen.
+311,"00:19:54,480","00:20:02,760",1194.48,1202.76,8.279999999999973,Was meinen Sie mit Solidarisierungsideen?
+312,"00:20:02,760","00:20:05,800",1202.76,1205.8,3.0399999999999636,"Man fragt sich, wofür wird man bestraft."
+313,"00:20:05,800","00:20:07,800",1205.8,1207.8,2.0,Dann kriegen die die
+314,"00:20:07,840","00:20:11,960",1207.84,1211.96,4.120000000000118,vorher friedlich waren auch schlechte Laune.
+315,"00:20:11,960","00:20:17,920",1211.96,1217.92,5.960000000000036,Da kriegt man richtig schlechte Laune.
+316,"00:20:17,920","00:20:20,120",1217.92,1220.12,2.199999999999818,"Wenn mir das Derby verbietet wird,"
+317,"00:20:20,200","00:20:22,920",1220.2,1222.92,2.7200000000000273,"obwohl ich bei jedem Spiel friedlich war,"
+318,"00:20:23,000","00:20:25,920",1223.0,1225.92,2.9200000000000728,dann kriege ich schlechte Laune.
+319,"00:20:25,920","00:20:30,400",1225.92,1230.4,4.480000000000018,"AG: Dass es von denen dies trifft keine Zustimmung bekommen kann,"
+320,"00:20:30,400","00:20:32,760",1230.4,1232.76,2.3599999999999,das kann sein.
+321,"00:20:32,840","00:20:36,800",1232.84,1236.8,3.9600000000000364,Es ist ein sehr homogenes Verhalten einer Auswärtsfangruppe
+322,"00:20:36,880","00:20:40,280",1236.88,1240.28,3.3999999999998636,"zu einem flächendeckenden Fehlverhalten führen kann,"
+323,"00:20:40,360","00:20:42,760",1240.36,1242.76,2.400000000000091,dann kommen solche Sanktionen in Betracht.
+324,"00:20:42,760","00:20:46,840",1242.76,1246.84,4.079999999999927,Anderes Thema:
+325,"00:20:46,920","00:20:49,840",1246.92,1249.84,2.9199999999998454,"Herr Grote,"
+326,"00:20:49,840","00:20:51,960",1249.84,1251.96,2.1200000000001182,wie groß war das Polizeiaufgebot
+327,"00:20:52,040","00:20:54,720",1252.04,1254.72,2.6800000000000637,vor zwei Wochen bei der Demo Sitzung Kalifat?
+328,"00:20:54,720","00:20:58,080",1254.72,1258.08,3.3599999999999,"Schon sehr intensiv, dass war ja keine große Versammlung."
+329,"00:20:58,080","00:21:01,240",1258.08,1261.24,3.160000000000082,"Etwa 100.000 Personen, die dort gekommen sind?"
+330,"00:21:01,240","00:21:03,400",1261.24,1263.4,2.160000000000082,Das waren etwa 1000 Personen.
+331,"00:21:03,400","00:21:06,160",1263.4,1266.16,2.759999999999991,Wie viele Polizeibeamte waren im Einsatz?
+332,"00:21:06,160","00:21:09,080",1266.16,1269.08,2.9199999999998454,Einige 100.
+333,"00:21:09,080","00:21:11,640",1269.08,1271.64,2.560000000000173,"Wenn Sie die Bilder heute sehen, was es dann schiefgelaufen,"
+334,"00:21:15,080","00:21:23,000",1275.08,1283.0,7.920000000000073,"Wenn Sie die Bilder heute sehen, was ist dann schiefgelaufen,"
+335,"00:21:23,080","00:21:26,480",1283.08,1286.48,3.400000000000091,wie konnte es zu solchen Szenen kommen?
+336,"00:21:26,480","00:21:31,040",1286.48,1291.04,4.559999999999945,"Unsere Aufgabe, unser Weltverständnis ist,"
+337,"00:21:31,040","00:21:35,400",1291.04,1295.4,4.360000000000127,dass wir sämtlichen Extremisten und solchen Islamisten
+338,"00:21:35,480","00:21:38,720",1295.48,1298.72,3.240000000000009,"so wenig Raum wie möglich geben sich zu entfalten,"
+339,"00:21:38,840","00:21:40,720",1298.84,1300.72,1.8800000000001091,egal auf welcher Ebene.
+340,"00:21:40,840","00:21:45,560",1300.84,1305.56,4.720000000000027,"Hamburg ist dafür bekannt, dass wir nach dem 7. Oktober sehr konsequent"
+341,"00:21:45,640","00:21:49,280",1305.64,1309.28,3.6399999999998727,"Versammlung untersagt haben, auch von Muslim interaktiv."
+342,"00:21:49,360","00:21:51,560",1309.36,1311.56,2.2000000000000455,Aber wir sind an Recht und Gesetz gebunden.
+343,"00:21:51,560","00:21:54,800",1311.56,1314.8,3.240000000000009,Da haben Sie es untersagt?
+344,"00:21:54,800","00:21:58,040",1314.8,1318.04,3.240000000000009,"Ja, jedes Mal die Rechtslage unterschiedlich ist,"
+345,"00:21:58,040","00:22:02,440",1318.04,1322.44,4.400000000000091,"da die Versammlungsbehörde, das ist eine rein juristische Prüfung,"
+346,"00:22:02,560","00:22:05,840",1322.56,1325.84,3.2799999999999727,"gesagt, hier haben wir ausreichende Anhaltspunkte,"
+347,"00:22:05,920","00:22:10,320",1325.92,1330.32,4.399999999999864,dass sich das sicherheitsmäßig um mögliche Begehung von Straftaten
+348,"00:22:10,400","00:22:13,200",1330.4,1333.2,2.7999999999999545,"so entwickeln wird, für Minuten handhaben,"
+349,"00:22:13,280","00:22:16,520",1333.28,1336.52,3.240000000000009,das kann nicht stattfinden.
+350,"00:22:16,600","00:22:19,080",1336.6,1339.08,2.480000000000018,Wir haben das sehr weitreichend gesagt
+351,"00:22:19,160","00:22:22,960",1339.16,1342.96,3.7999999999999545,"in dieser unmittelbaren Situation, mit dem Antisemitismus,"
+352,"00:22:23,040","00:22:25,080",1343.04,1345.08,2.0399999999999636,mit der Unterstützung der Hamas
+353,"00:22:25,160","00:22:28,560",1345.16,1348.56,3.3999999999998636,da hatten wir eine sehr starke rechtliche Grundlage.
+354,"00:22:28,640","00:22:32,760",1348.64,1352.76,4.119999999999891,"Diese Versammlung richtete sich gegen Zensur, Meinungsdiktatur."
+355,"00:22:32,840","00:22:36,440",1352.84,1356.44,3.6000000000001364,Da hatten wir keine vergleichbare rechtliche Situation.
+356,"00:22:36,520","00:22:38,960",1356.52,1358.96,2.4400000000000546,"Wir haben sehr harte Auflagen erteilt,"
+357,"00:22:39,040","00:22:41,840",1359.04,1361.84,2.7999999999999545,"aber es hat nicht für ein Verbot gereicht,"
+358,"00:22:41,880","00:22:44,560",1361.88,1364.56,2.6799999999998363,wo ich mir das sehr gewünscht hätte.
+359,"00:22:44,560","00:22:48,520",1364.56,1368.52,3.9600000000000364,"Am Samstag gibt es die nächste Demo von denselben Leuten,"
+360,"00:22:48,520","00:22:50,880",1368.52,1370.88,2.3600000000001273,initiiert von den selben Initiatoren.
+361,"00:22:50,960","00:22:57,200",1370.96,1377.2,6.240000000000009,"Von dem Mann, der in Hamburg Lehrer werden will."
+362,"00:22:57,200","00:23:02,440",1377.2,1382.44,5.240000000000009,"Was er nie werden kann in Hamburg,"
+363,"00:23:02,440","00:23:05,840",1382.44,1385.84,3.3999999999998636,weil wir keinen Extremisten Lehrer werden lassen.
+364,"00:23:05,920","00:23:10,120",1385.92,1390.12,4.199999999999818,"Nach den Erkenntnissen von letzten Mal ist genau geprüft wurden,"
+365,"00:23:10,200","00:23:12,920",1390.2,1392.92,2.7200000000000273,"es sind keine Straftaten begangen worden,"
+366,"00:23:13,000","00:23:15,160",1393.0,1395.16,2.160000000000082,"er hat soziale Auflagen gehalten,"
+367,"00:23:15,280","00:23:17,920",1395.28,1397.92,2.6400000000001,obwohl die Bilder uns natürlich empören.
+368,"00:23:18,000","00:23:24,840",1398.0,1404.84,6.839999999999918,"Und was am Anfang zitiert haben ist richtig,"
+369,"00:23:29,200","00:23:34,200",1409.2,1414.2,5.0,Die Versammlungsbehörde hat angekündigt
+370,"00:23:34,280","00:23:38,560",1414.28,1418.56,4.279999999999973,diese Forderungen nach einem Kalifat zu untersagen.
+371,"00:23:38,560","00:23:45,000",1418.56,1425.0,6.440000000000055,"Genau genommen ist das keine Forderung, die ich lese."
+372,"00:23:45,000","00:23:48,480",1425.0,1428.48,3.480000000000018,Werden diese Leute offensichtlich juristisch beraten.
+373,"00:23:48,480","00:23:53,000",1428.48,1433.0,4.519999999999982,Die werden im Hintergrund beraten und wir haben unsere...
+374,"00:23:53,000","00:23:57,880",1433.0,1437.88,4.880000000000109,"Kalifat ist die Lösung, heißt nicht, dass sie es fordern."
+375,"00:23:57,880","00:24:00,560",1437.88,1440.56,2.6799999999998363,Die Versammlungsbehörde hat das bewertet
+376,"00:24:00,640","00:24:04,400",1440.64,1444.4,3.759999999999991,"und hat das auch rechtlich intensiv bewertet und gesagt,"
+377,"00:24:04,400","00:24:07,720",1444.4,1447.72,3.3199999999999363,"sie hält für rechtlich tragfähig diesmal zu sagen,"
+378,"00:24:07,800","00:24:13,480",1447.8,1453.48,5.680000000000064,die Forderung nach dem Kalifat wird als Auflage unterbunden.
+379,"00:24:13,480","00:24:16,400",1453.48,1456.4,2.9200000000000728,"D. h., wenn ein Kalifats-Schild hochgehalten wird..."
+380,"00:24:16,400","00:24:19,840",1456.4,1459.84,3.439999999999827,"Wann dieser Tatbestand erfüllt wird,"
+381,"00:24:19,920","00:24:22,760",1459.92,1462.76,2.839999999999918,wird in der Versammlung konkret angesehen.
+382,"00:24:22,760","00:24:26,240",1462.76,1466.24,3.480000000000018,"Es wird genau formuliert, es kommt auf jeden Satz an."
+383,"00:24:26,320","00:24:28,920",1466.32,1468.92,2.6000000000001364,"Klar ist, wir lassen so wenig Spielraum"
+384,"00:24:29,000","00:24:30,960",1469.0,1470.96,1.9600000000000364,wie rechtlich irgendwie geht.
+385,"00:24:30,960","00:24:36,480",1470.96,1476.48,5.519999999999982,"Herr Grote, ich verstehe Sie."
+386,"00:24:36,480","00:24:40,680",1476.48,1480.68,4.2000000000000455,"Sie sind Hamburger Innensenator, Sie müssen entschlossen wirken,"
+387,"00:24:40,760","00:24:45,160",1480.76,1485.16,4.400000000000091,"aber verstehende, wenn nicht entschlossen wird."
+388,"00:24:45,240","00:24:49,880",1485.24,1489.88,4.6400000000001,"So etwas passiert vor zwei Wochen, Sie als Politiker in Verantwortung,"
+389,"00:24:49,960","00:24:53,800",1489.96,1493.8,3.839999999999918,"tragen, dass wiedert nicht an."
+390,"00:24:53,920","00:24:56,800",1493.92,1496.8,2.8799999999998818,Jetzt kommen Sie gerade Auseinandersetzungen
+391,"00:24:56,880","00:24:58,800",1496.88,1498.8,1.9199999999998454,"Pressekonferenz,"
+392,"00:24:58,920","00:25:02,480",1498.92,1502.48,3.5599999999999454,"in der sie der verblüfften Öffentlichkeit sagen müssen,"
+393,"00:25:02,600","00:25:08,480",1502.6,1508.48,5.880000000000109,Samstag geht es wieder los.
+394,"00:25:09,720","00:25:12,880",1509.72,1512.88,3.160000000000082,"Ja, weil die Frage, was mich oder sie anwidert"
+395,"00:25:12,960","00:25:16,000",1512.96,1516.0,3.0399999999999636,"und was uns alle empört nicht der Maßstab ist,"
+396,"00:25:16,080","00:25:18,600",1516.08,1518.6,2.519999999999982,nach den wir Versammlungen untersagen können.
+397,"00:25:18,600","00:25:22,680",1518.6,1522.68,4.080000000000155,Sie ziehen sich auf eine rein juristische Position zurück.
+398,"00:25:22,680","00:25:26,960",1522.68,1526.96,4.279999999999973,"Das ist kein Rückzug, wir können das Grundgesetz nur verteidigen,"
+399,"00:25:26,960","00:25:28,720",1526.96,1528.72,1.759999999999991,wenn wir es selber auch achten.
+400,"00:25:28,720","00:25:31,320",1528.72,1531.32,2.599999999999909,Wollen Sie das politisch auch wirklich?
+401,"00:25:31,320","00:25:34,200",1531.32,1534.2,2.880000000000109,"Ich hätte gerne politischer anderes Ergebnis,"
+402,"00:25:34,280","00:25:36,720",1534.28,1536.72,2.4400000000000546,"deswegen ist es richtig auszuloten,"
+403,"00:25:36,720","00:25:40,480",1536.72,1540.48,3.759999999999991,ob wir auf den Ebenen auf den wir handeln können politisch
+404,"00:25:40,560","00:25:44,600",1540.56,1544.6,4.039999999999964,"auch im Bereich der Gesetzgebung, ob wir zu Regelungen kommen,"
+405,"00:25:44,720","00:25:47,520",1544.72,1547.52,2.7999999999999545,die uns mehr Handhabe gegen solche Versammlungen geben.
+406,"00:25:47,520","00:25:50,440",1547.52,1550.44,2.9200000000000728,In dem Zusammenhang die Frage:
+407,"00:25:50,560","00:25:52,520",1550.56,1552.52,1.9600000000000364,"die CDU stellt einen Antrag,"
+408,"00:25:52,520","00:25:58,640",1552.52,1558.64,6.120000000000118,"der darauf einwirken sah, dass die Innenministerin,"
+409,"00:25:58,720","00:26:04,160",1558.72,1564.16,5.440000000000055,diese Organisationen endlich verbietet.
+410,"00:26:04,240","00:26:11,720",1564.24,1571.72,7.480000000000018,"Der Antrag wurde in Hamburg, bestellt, er wird aber abgelehnt."
+411,"00:26:11,840","00:26:17,720",1571.84,1577.72,5.880000000000109,War das klug von Ihrer Partei?
+412,"00:26:19,280","00:26:22,800",1579.28,1582.8,3.519999999999982,Solche Schaufensteranträge helfen nur bedingt weiter.
+413,"00:26:22,880","00:26:26,120",1582.88,1586.12,3.2399999999997817,"Alle Sicherheitsbehörden haben die Pflicht immer,"
+414,"00:26:26,200","00:26:29,760",1586.2,1589.76,3.5599999999999454,"das zum gerade die Hamburger Blutsicherheitsbehörden,"
+415,"00:26:29,840","00:26:33,000",1589.84,1593.0,3.160000000000082,die beschäftigen sich mit der Frage der Verbote.
+416,"00:26:33,120","00:26:35,440",1593.12,1595.44,2.3200000000001637,Wir haben an den Verboten intensiv mitgewirkt.
+417,"00:26:35,440","00:26:37,520",1595.44,1597.52,2.0799999999999272,"EQ: Wenn man mal sie,"
+418,"00:26:37,600","00:26:41,440",1597.6,1601.44,3.8400000000001455,"dass von den Grünen im Bundestag auch aufgefordert wird,"
+419,"00:26:41,440","00:26:47,760",1601.44,1607.76,6.319999999999936,"die Bruderschaften muss verboten werden,"
+420,"00:26:47,880","00:26:51,240",1607.88,1611.24,3.3599999999999,dann kann man das nicht vorwerfen.
+421,"00:26:51,320","00:26:53,240",1611.32,1613.24,1.9200000000000728,"Ich weiß,"
+422,"00:26:53,320","00:26:55,360",1613.32,1615.36,2.0399999999999636,"in der Politik ist es so,"
+423,"00:26:55,440","00:27:00,960",1615.44,1620.96,5.519999999999982,man stimmt ungern einem Oppositionsantrag zu.
+424,"00:27:01,080","00:27:04,720",1621.08,1624.72,3.6400000000001,Da hätte man Minimum einen eigenen Antrag machen müssen.
+425,"00:27:04,800","00:27:08,720",1624.8,1628.72,3.9200000000000728,"Wenn man richtig hingekriegt hätte,"
+426,"00:27:08,840","00:27:16,520",1628.84,1636.52,7.680000000000064,"und es rechtzeitig anboten hätte, dann hätten wir nicht diese Debatte."
+427,"00:27:16,640","00:27:19,120",1636.64,1639.12,2.479999999999791,"In Nordrhein-Westfalen gab es Stimmen,"
+428,"00:27:19,240","00:27:22,160",1639.24,1642.16,2.9200000000000728,die rechtzeitig darauf hingewiesen haben.
+429,"00:27:22,240","00:27:25,360",1642.24,1645.36,3.119999999999891,"Das gilt für alle Innenpolitiker in diesem Land,"
+430,"00:27:25,440","00:27:28,800",1645.44,1648.8,3.3599999999999,"die ihre Verfassungstexte sorgfältig gelesen würden,"
+431,"00:27:28,920","00:27:32,560",1648.92,1652.56,3.6399999999998727,"dann würde man früher zum Handeln kommen und nicht erst,"
+432,"00:27:32,640","00:27:36,160",1652.64,1656.16,3.519999999999982,wenn es auf der Straße passiert.
+433,"00:27:36,160","00:27:39,680",1656.16,1659.68,3.519999999999982,AG: Aber auch das reicht eben nicht.
+434,"00:27:39,680","00:27:43,200",1659.68,1663.2,3.519999999999982,"Wir wissen, welche hohen Hürden für Vermote haben,"
+435,"00:27:43,280","00:27:47,560",1663.28,1667.56,4.279999999999973,"dass es kurz unterm Parteiverbot, extrem aufwendig."
+436,"00:27:47,640","00:27:52,200",1667.64,1672.2,4.559999999999945,"Immer wenn wir solche Gruppierungen verbieten müssen wir sicher sein,"
+437,"00:27:52,320","00:27:56,080",1672.32,1676.08,3.759999999999991,dass wir erfolgreich sind.
+438,"00:27:56,160","00:28:00,520",1676.16,1680.52,4.3599999999999,"Wenn uns das um die Ohren fliegt, dann triumphiert der Extremismus."
+439,"00:28:00,600","00:28:04,760",1680.6,1684.76,4.160000000000082,Wir haben erfolgreich verboten in Deutschland die Lieskampagne
+440,"00:28:04,840","00:28:08,320",1684.84,1688.32,3.480000000000018,mit den Koranverteilungen verboten.
+441,"00:28:08,320","00:28:11,560",1688.32,1691.56,3.240000000000009,Der Hamas verbot hat lange gedauert.
+442,"00:28:11,560","00:28:19,160",1691.56,1699.16,7.600000000000136,"Ja, der Rechtsstaat braucht manchmal auch Zeit."
+443,"00:28:19,160","00:28:25,160",1699.16,1705.16,6.0,Darüber reden wir gleich.
+444,"00:28:27,360","00:28:31,720",1707.36,1711.72,4.360000000000127,Ich immer noch in diesem Wort Schaufensterantrag der CDU -
+445,"00:28:31,800","00:28:35,520",1711.8,1715.52,3.7200000000000273,Sie sagen es war ein Schaufensterantrag?
+446,"00:28:35,640","00:28:40,120",1715.64,1720.12,4.479999999999791,Wenig später nach der ersten Demo dieser Art haben dieselben Parteien
+447,"00:28:40,240","00:28:43,920",1720.24,1723.92,3.6800000000000637,"Menschen, die offenbar auch der Meinung sind,"
+448,"00:28:44,000","00:28:48,120",1724.0,1728.12,4.119999999999891,"dass es ein Schaufensterantrag ist, diesem zugestimmt -"
+449,"00:28:48,200","00:28:52,480",1728.2,1732.48,4.279999999999973,wie kann das sein? Wie geht sowas?
+450,"00:28:52,560","00:28:58,880",1732.56,1738.88,6.320000000000164,Wie erklären Sie sich das politisch?
+451,"00:28:59,640","00:29:02,920",1739.64,1742.92,3.2799999999999727,Müssen Sie die Parlamentsfraktion fragen.
+452,"00:29:03,000","00:29:06,840",1743.0,1746.84,3.839999999999918,"Ich bestimme nicht darüber, wie die Parlamente entscheiden."
+453,"00:29:06,960","00:29:10,560",1746.96,1750.56,3.599999999999909,"Meine Haltung dazu ist, dass Sicherheitsbehörden immer,"
+454,"00:29:10,680","00:29:14,200",1750.68,1754.2,3.519999999999982,"das tut jedenfalls die Hamburger Sicherheitsbehörden,"
+455,"00:29:14,280","00:29:18,160",1754.28,1758.16,3.880000000000109,"beim Umgang mit Extremisten, alles sammeln müssen"
+456,"00:29:18,280","00:29:22,560",1758.28,1762.56,4.279999999999973,"und ständig die Frage, reicht es für ein Verbot mit bewegen müssen."
+457,"00:29:22,640","00:29:25,280",1762.64,1765.28,2.6399999999998727,"Das können wir aber nicht machen,"
+458,"00:29:25,400","00:29:29,240",1765.4,1769.24,3.839999999999918,deswegen ist es mit öffentlichen Aufforderung ein Problem.
+459,"00:29:29,320","00:29:31,680",1769.32,1771.68,2.3600000000001273,Wir können das nicht ankündigen.
+460,"00:29:31,800","00:29:38,360",1771.8,1778.36,6.559999999999945,Wir können nicht sagen wir prüfen jetzt.
+461,"00:29:39,280","00:29:46,680",1779.28,1786.68,7.400000000000091,Dann würden wir dem Verbotsverfahren entgegenwirken.
+462,"00:29:50,320","00:29:54,160",1790.32,1794.16,3.8400000000001455,"Noch mal, Politik, Sie sind Politiker, der vor mir sitzt,"
+463,"00:29:54,280","00:29:58,960",1794.28,1798.96,4.680000000000064,Sie machen diese vielen Gesetze?
+464,"00:29:59,040","00:30:03,000",1799.04,1803.0,3.9600000000000364,Der Kampfes ist wirklich gewollt?
+465,"00:30:03,000","00:30:06,440",1803.0,1806.44,3.4400000000000546,Selbstverständlich und zwar mit aller Härte und Konsequenz.
+466,"00:30:06,440","00:30:09,640",1806.44,1809.64,3.2000000000000455,Wie hoch ist die Zahl im Kampf gegen die Islamisten?
+467,"00:30:09,640","00:30:31,000",1809.64,1831.0,21.3599999999999,"Sie ist hoch, wir haben eine aktive..."
+468,"00:30:31,000","00:30:32,960",1831.0,1832.96,1.9600000000000364,"Wir haben 1500 Islamisten,"
+469,"00:30:33,080","00:30:35,320",1833.08,1835.32,2.240000000000009,wir haben wie andere Ballungsräume
+470,"00:30:35,400","00:30:38,120",1835.4,1838.12,2.7199999999998,"haben wir eine aktive islamistische Szene,"
+471,"00:30:38,200","00:30:40,640",1838.2,1840.64,2.4400000000000546,aber wir gehen extrem hat dagegen vor.
+472,"00:30:40,640","00:30:44,680",1840.64,1844.68,4.039999999999964,Was heißt extrem hart Herr Grote?
+473,"00:30:44,680","00:30:49,000",1844.68,1849.0,4.319999999999936,"Überall wo wir diese Szene sehen und wo wir Einzelpersonen sehen,"
+474,"00:30:49,000","00:30:51,720",1849.0,1851.72,2.7200000000000273,da gehen wir klar dagegen vor.
+475,"00:30:51,800","00:30:55,320",1851.8,1855.32,3.519999999999982,"Ich habe Verbotsverfahren gesprochen,"
+476,"00:30:55,400","00:30:59,720",1855.4,1859.72,4.319999999999936,"wir haben Social Media Kanäle abgeschaltet, Netzwerke aufgedeckt,"
+477,"00:30:59,840","00:31:04,120",1859.84,1864.12,4.279999999999973,islamistische Vereine zur Auflösung gebracht.
+478,"00:31:04,200","00:31:06,720",1864.2,1866.72,2.519999999999982,"Wir haben Einbürgerungen verhindert,"
+479,"00:31:06,800","00:31:09,840",1866.8,1869.84,3.0399999999999636,wir haben Aufenthaltstitel verhindert.
+480,"00:31:09,840","00:31:14,600",1869.84,1874.6,4.759999999999991,"Herr Grote, die nackte Zahl?"
+481,"00:31:14,600","00:31:17,600",1874.6,1877.6,3.0,"Die nackten Zahlen,"
+482,"00:31:17,680","00:31:25,000",1877.68,1885.0,7.319999999999936,schon lange bevor sie Innenminister seit 2016 sind?
+483,"00:31:25,160","00:31:27,440",1885.16,1887.44,2.2799999999999727,Wie hoch war die Zahl damals?
+484,"00:31:27,440","00:31:31,280",1887.44,1891.28,3.839999999999918,"Das kann ich Ihnen nicht sagen, aber wir haben seit 2001"
+485,"00:31:31,280","00:31:34,360",1891.28,1894.36,3.0799999999999272,einen sehr klaren Blick auf diese Probleme.
+486,"00:31:34,360","00:31:39,440",1894.36,1899.44,5.080000000000155,"Weil Sie sagen, wir gehen mit allem Nachdruck, gegen diese Leute vor."
+487,"00:31:39,440","00:31:43,200",1899.44,1903.2,3.759999999999991,"Das was tun, führt dazu, dass wir immer mehr entdecken"
+488,"00:31:43,200","00:31:46,840",1903.2,1906.84,3.6399999999998727,und die Zahl der bekannten Islamisten immer größer wird.
+489,"00:31:46,920","00:31:50,360",1906.92,1910.36,3.439999999999827,"Wenn wir wenig machen würden wäre die Zahl geringer,"
+490,"00:31:50,480","00:31:53,400",1910.48,1913.4,2.9200000000000728,weil wir wenig sehen würden.
+491,"00:31:53,400","00:31:56,080",1913.4,1916.08,2.6799999999998363,"Die Zahl ist im Grunde,"
+492,"00:31:56,200","00:31:59,600",1916.2,1919.6,3.3999999999998636,"wenn man sich das genauer über die Jahre anschaut,"
+493,"00:31:59,600","00:32:01,840",1919.6,1921.84,2.240000000000009,mehr oder weniger gleich geblieben.
+494,"00:32:01,920","00:32:05,360",1921.92,1925.36,3.439999999999827,Im Grunde ist es mehr oder weniger die gleiche Zahl.
+495,"00:32:05,480","00:32:08,600",1925.48,1928.6,3.119999999999891,"Ist das Nachdruck, ist das die ganze Härte des Rechtsstaates?"
+496,"00:32:08,600","00:32:12,560",1928.6,1932.56,3.9600000000000364,"Ja, es kommen immer wieder neue rein, wir dringen alte raus."
+497,"00:32:12,680","00:32:15,800",1932.68,1935.8,3.119999999999891,"Alles was wir tun können was das Recht hergibt,"
+498,"00:32:15,800","00:32:17,680",1935.8,1937.68,1.8800000000001091,"wir können nicht verhindern,"
+499,"00:32:17,800","00:32:19,680",1937.8,1939.68,1.8800000000001091,dass sich jemand
+500,"00:32:19,800","00:32:22,880",1939.8,1942.88,3.0800000000001546,einer islamistischen Weltanschauung anschließt.
+501,"00:32:23,000","00:32:26,960",1943.0,1946.96,3.9600000000000364,"Die Frage, welchen Platz Islamismus unsere Gesellschaft hat,"
+502,"00:32:27,040","00:32:30,040",1947.04,1950.04,3.0,wird nicht nur von den Sicherheitsbehörden beantwortet.
+503,"00:32:30,040","00:32:34,160",1950.04,1954.16,4.120000000000118,"Herr Grote, mit allem Nachdruck - im September 2017 sagen sie:"
+504,"00:32:34,240","00:32:36,800",1954.24,1956.8,2.5599999999999454,wir sind das einzige Bundesland
+505,"00:32:36,800","00:32:39,960",1956.8,1959.96,3.160000000000082,wo kein Gefährder auf der Straße frei herumläuft.
+506,"00:32:40,080","00:32:42,560",1960.08,1962.56,2.480000000000018,"Hamburg ist in der günstigen Situation,"
+507,"00:32:42,640","00:32:47,200",1962.64,1967.2,4.559999999999945,"wo alle Gefährder ausgereist, abgeschoben oder inhaftiert."
+508,"00:32:47,280","00:32:50,360",1967.28,1970.36,3.0799999999999272,"Das ist im September 2017,"
+509,"00:32:50,480","00:32:55,120",1970.48,1975.12,4.639999999999873,wenig später sprechen Sie von einer deutlich wachsenden
+510,"00:32:55,200","00:33:00,080",1975.2,1980.08,4.879999999999882,islamistischen Leute.
+511,"00:33:00,160","00:33:04,200",1980.16,1984.2,4.039999999999964,"Damals ging zum ungefähr 1400 Leute, letzter geht es 1500."
+512,"00:33:04,200","00:33:07,560",1984.2,1987.56,3.3599999999999,"Wollen Sie jetzt sagen, hier ist wenig passiert,"
+513,"00:33:07,560","00:33:10,240",1987.56,1990.24,2.6800000000000637,wenn es nur so wenig angewachsen?
+514,"00:33:10,320","00:33:14,200",1990.32,1994.2,3.880000000000109,"Müssten wir darüber reden,"
+515,"00:33:14,280","00:33:18,080",1994.28,1998.08,3.7999999999999545,wie viele es wären wenn wir den Kampf nicht führen würden.
+516,"00:33:18,160","00:33:24,600",1998.16,2004.6,6.439999999999827,Dass wir aktuell eine zahlenmäßige Steigerung
+517,"00:33:24,680","00:33:28,320",2004.68,2008.32,3.6399999999998727,"haben auch vor dem Hintergrund, was in Nahost passiert,"
+518,"00:33:28,440","00:33:32,200",2008.44,2012.2,3.759999999999991,"ist natürlich auch etwas, was sich in Zahlen niederschlägt."
+519,"00:33:32,280","00:33:35,600",2012.28,2015.6,3.3199999999999363,Wenn wir trotz der sehr intensiven Aufklärungsarbeit
+520,"00:33:35,680","00:33:39,120",2015.68,2019.12,3.439999999999827,auch des Landesamtes für Verfassungsschutz
+521,"00:33:39,240","00:33:41,520",2019.24,2021.52,2.2799999999999727,moderate Zahlenentwicklung haben...
+522,"00:33:41,520","00:33:45,600",2021.52,2025.6,4.079999999999927,Dann ist das für Sie ein Erfolg?
+523,"00:33:45,600","00:33:52,560",2025.6,2032.56,6.960000000000036,"Spricht das nicht unbedingt dafür, dass wir da erfolglos sind."
+524,"00:33:52,560","00:33:58,800",2032.56,2038.8,6.240000000000009,"Das wieder hinsehen, viel aufdecken,"
+525,"00:33:58,880","00:34:01,600",2038.88,2041.6,2.7199999999998,"obwohl es überall diese Entwicklung haben,"
+526,"00:34:01,680","00:34:04,440",2041.68,2044.44,2.759999999999991,"das zu senken, ist eine schwierige Erwartung."
+527,"00:34:04,440","00:34:07,880",2044.44,2047.88,3.4400000000000546,Frau Quadbeck.
+528,"00:34:07,960","00:34:12,080",2047.96,2052.08,4.119999999999891,"was das besondere gefährliche an der Situation im Moment ist,"
+529,"00:34:12,080","00:34:13,120",2052.08,2053.12,1.0399999999999636,kann man beim Muslim interaktiv .
+530,"00:34:15,800","00:34:22,920",2055.8,2062.92,7.119999999999891,kann man beim Muslim interaktiv sehr gut sehen
+531,"00:34:24,560","00:34:26,560",2064.56,2066.56,2.0,"Boateng, der führende Kopf"
+532,"00:34:26,680","00:34:29,680",2066.68,2069.68,3.0,verbreitete er seine Propaganda
+533,"00:34:29,760","00:34:36,000",2069.76,2076.0,6.239999999999782,sehr geschickt die bei den sozialen Netzwerke.
+534,"00:34:36,080","00:34:42,400",2076.08,2082.4,6.320000000000164,Das kann der Staat nicht regulieren.
+535,"00:34:43,000","00:34:45,560",2083.0,2085.56,2.5599999999999454,Die Leute können folgen wen sie wollen.
+536,"00:34:45,680","00:34:49,480",2085.68,2089.48,3.800000000000182,Nachfolgend wird es aber ein riesiges Problem für die Behörden.
+537,"00:34:49,600","00:34:52,440",2089.6,2092.44,2.8400000000001455,"Der Staat muss jetzt sehr genau hinschauen, wo"
+538,"00:34:52,520","00:34:57,040",2092.52,2097.04,4.519999999999982,jetzt Volksverhetzung stattfindet und das auch entsprechend erahnen.
+539,"00:34:57,160","00:35:00,600",2097.16,2100.6,3.4400000000000546,"Sie schieben in jedem Satz ein,"
+540,"00:35:00,720","00:35:06,560",2100.72,2106.56,5.8400000000001455,sie wolle nur ihre Meinungsfreiheit ausleben
+541,"00:35:06,680","00:35:10,120",2106.68,2110.12,3.4400000000000546,"und suggerieren dann, dass der Staat islamfeindlich sei."
+542,"00:35:10,120","00:35:16,000",2110.12,2116.0,5.880000000000109,Dieses Land soll eine Wertediktatur sein.
+543,"00:35:16,000","00:35:18,880",2116.0,2118.88,2.880000000000109,"EQ: Damit bekommen Sie viele junge Leute,"
+544,"00:35:18,880","00:35:22,160",2118.88,2122.16,3.2799999999997453,die vielleicht auch mal negative Erfahrungen
+545,"00:35:22,280","00:35:24,480",2122.28,2124.48,2.199999999999818,unserer Gesellschaft gemacht haben.
+546,"00:35:24,600","00:35:27,520",2124.6,2127.52,2.9200000000000728,"Und damit ein neues Selbstbewusstsein finden,"
+547,"00:35:27,600","00:35:30,240",2127.6,2130.24,2.6399999999998727,das halte ich für unglaublich gefährlich.
+548,"00:35:30,320","00:35:32,640",2130.32,2132.64,2.319999999999709,"Da macht sich eine Bewegung bereit,"
+549,"00:35:32,720","00:35:36,760",2132.72,2136.76,4.040000000000418,"die die Behörden irgendwann nicht mehr im Griff haben werden,"
+550,"00:35:36,880","00:35:39,280",2136.88,2139.28,2.400000000000091,wenn sie von Boateng infiltriert sind.
+551,"00:35:39,400","00:35:43,960",2139.4,2143.96,4.559999999999945,Deswegen ist es so wichtig diese Organisation zu verbieten.
+552,"00:35:44,040","00:35:49,960",2144.04,2149.96,5.920000000000073,Der Staat würde sich damit eine Atempause verschaffen.
+553,"00:35:49,960","00:35:55,600",2149.96,2155.6,5.639999999999873,"Herr Grote, Sie argumentieren mit dem Grundgesetz, mit der Verfassung."
+554,"00:35:55,600","00:35:58,360",2155.6,2158.36,2.7600000000002183,"Ich finde das für all das tun müssen,"
+555,"00:35:58,480","00:36:04,360",2158.48,2164.36,5.880000000000109,es gibt gar kein Widerspruch.
+556,"00:36:05,120","00:36:10,640",2165.12,2170.64,5.519999999999982,Wir haben solche Media Kanäle abgeschaltet von Muslim interaktiv.
+557,"00:36:10,720","00:36:13,560",2170.72,2173.56,2.8400000000001455,"Entweder kleiner Schriftzug wird überprüft,"
+558,"00:36:13,680","00:36:15,640",2173.68,2175.64,1.9600000000000364,"jede Äußerung in Social Media,"
+559,"00:36:15,760","00:36:18,600",2175.76,2178.6,2.8399999999996908,ob wir in den strafbaren Bereich reinkommen.
+560,"00:36:18,680","00:36:20,960",2178.68,2180.96,2.2800000000002,"Die sind juristisch beraten, gucken,"
+561,"00:36:21,080","00:36:25,200",2181.08,2185.2,4.119999999999891,dass sie immer genau an die Grenze gehen.
+562,"00:36:25,280","00:36:29,320",2185.28,2189.32,4.039999999999964,"Die Frage ist, ob wir den Straftatbestand der Volksverhetzung"
+563,"00:36:29,480","00:36:36,120",2189.48,2196.12,6.639999999999873,auch unter dem Eindruck der aktuellen Entwicklung
+564,"00:36:36,240","00:36:42,800",2196.24,2202.8,6.5600000000004,"anders anpassen müssen, dass wir sagen,"
+565,"00:36:44,760","00:36:49,760",2204.76,2209.76,5.0,wer das Grundgesetz in seiner Gesamtheit
+566,"00:36:49,880","00:36:53,080",2209.88,2213.08,3.199999999999818,und unseren Verfassungsstaat in seiner Gesamtheit
+567,"00:36:53,200","00:36:56,360",2213.2,2216.36,3.1600000000003092,"so komplett negiert, dass es Menschen Angst macht"
+568,"00:36:56,480","00:37:03,600",2216.48,2223.6,7.119999999999891,"und dort eine Wirkung erzielt wird, dass Teile von Bevölkerungen,"
+569,"00:37:03,680","00:37:09,280",2223.68,2229.28,5.600000000000364,"nämlich Muslime aufgeheizt werden und gesagt wird,"
+570,"00:37:09,360","00:37:11,680",2229.36,2231.68,2.319999999999709,er könnt hier nicht leben.
+571,"00:37:11,680","00:37:21,480",2231.68,2241.48,9.800000000000182,In dieser bösen Werte Diktatur.
+572,"00:37:21,480","00:37:25,280",2241.48,2245.28,3.800000000000182,Dann könnten wir überlegen ob wir das in Volksverhetzung
+573,"00:37:25,360","00:37:27,240",2245.36,2247.24,1.8799999999996544,fassen wollen.
+574,"00:37:27,360","00:37:31,680",2247.36,2251.68,4.319999999999709,Da hätten wir auch eine Handhabe durch Versammlungen zu untersagen.
+575,"00:37:31,680","00:37:34,320",2251.68,2254.32,2.6400000000003274,Es ist auf vielen Ebenen auch tragisch.
+576,"00:37:34,440","00:37:36,640",2254.44,2256.64,2.199999999999818,"Wenn man mit Muslimen spricht,"
+577,"00:37:36,640","00:37:43,240",2256.64,2263.24,6.599999999999909,für die es das eine totale Katastrophe.
+578,"00:37:45,480","00:37:49,200",2265.48,2269.2,3.7199999999998,Die Erleben in der U-Bahn schlimme Anfeindungen.
+579,"00:37:49,320","00:37:53,600",2269.32,2273.6,4.279999999999745,Die sympathisieren mit vielen Leuten überhaupt nicht.
+580,"00:37:53,720","00:37:56,960",2273.72,2276.96,3.2400000000002365,"Erstens nicht total perfide,"
+581,"00:37:57,080","00:38:00,120",2277.08,2280.12,3.0399999999999636,"dass wir mit dem Grundgesetz argumentieren,"
+582,"00:38:00,240","00:38:02,160",2280.24,2282.16,1.9200000000000728,und im Namen des Grundgesetzes
+583,"00:38:02,280","00:38:05,400",2282.28,2285.4,3.119999999999891,dürfen diese Leute das hier vorgetragen.
+584,"00:38:05,520","00:38:09,200",2285.52,2289.2,3.6799999999998363,"Und wenn Sie den Traum des Kalifat verwirklichen könnten,"
+585,"00:38:09,360","00:38:12,120",2289.36,2292.12,2.7599999999997635,das Grundgesetz direkt in die Tonne treten.
+586,"00:38:12,200","00:38:18,560",2292.2,2298.56,6.360000000000127,"Es ist das erste, was sie abschaffen."
+587,"00:38:21,200","00:38:24,520",2301.2,2304.52,3.3200000000001637,"Das ist genau die Balance, in der wir stehen."
+588,"00:38:24,640","00:38:27,880",2304.64,2307.88,3.2400000000002365,"Solange ich im Bereich der Meinungskundgabe bin,"
+589,"00:38:28,000","00:38:31,760",2308.0,2311.76,3.7600000000002183,"sie bewegen sich genau in dem Rahmen, von dem sie wissen,"
+590,"00:38:31,880","00:38:34,760",2311.88,2314.76,2.880000000000109,dass er rechtlich durchgeht.
+591,"00:38:34,920","00:38:39,160",2314.92,2319.16,4.239999999999782,"Wenn ihr eine echte Bedrohung, wenn da nicht 1000 Leute stehen,"
+592,"00:38:39,240","00:38:42,520",2319.24,2322.52,3.2800000000002,"sondern den wir das Gefühl hätten, hier droht das Kalifat..."
+593,"00:38:42,520","00:38:54,440",2322.52,2334.44,11.920000000000073,EQ: Dann wäre es zu spät...
+594,"00:38:54,440","00:38:58,920",2334.44,2338.92,4.480000000000018,AG: Wir führen die selbe Diskussion wäre anderen Parteien.
+595,"00:38:59,040","00:39:02,880",2339.04,2342.88,3.8400000000001455,"Das Grundgesetz zeigt, man darf das nicht nur fordern kann"
+596,"00:39:03,000","00:39:05,960",2343.0,2345.96,2.9600000000000364,"man es muss eine gefährdende Dimension haben,"
+597,"00:39:06,040","00:39:12,800",2346.04,2352.8,6.760000000000218,dann hat das Grundgesetz andere stärkere Abwehrmechanismen.
+598,"00:39:12,800","00:39:15,400",2352.8,2355.4,2.599999999999909,"Das ist etwas, was ein hohes Gut ist."
+599,"00:39:15,400","00:39:17,520",2355.4,2357.52,2.119999999999891,Das sollte auch so bleiben.
+600,"00:39:17,640","00:39:22,680",2357.64,2362.68,5.039999999999964,Das Thema hat Amerika auf.
+601,"00:39:22,760","00:39:26,640",2362.76,2366.64,3.8799999999996544,Um Meinungsfreiheit eine andere Dimension hat als bei uns.
+602,"00:39:26,760","00:39:29,760",2366.76,2369.76,3.0,"Sie haben es vorhin erwähnt, die Blaue Moschee,"
+603,"00:39:29,880","00:39:34,320",2369.88,2374.32,4.440000000000055,das islamische Zentrum in Hamburg.
+604,"00:39:34,440","00:39:37,560",2374.44,2377.56,3.119999999999891,"30 Jahre, dieses Ding, ein schönes Gebäude,"
+605,"00:39:37,640","00:39:41,280",2377.64,2381.28,3.6400000000003274,"es wird seit 30 Jahren vom Verfassungsschutz beobachtet,"
+606,"00:39:41,400","00:39:47,280",2381.4,2387.28,5.880000000000109,"um klar zu ziehen,"
+607,"00:39:51,600","00:39:55,160",2391.6,2395.16,3.5599999999999454,es ist nichts anderes als der verlängerte Arm aus Iran.
+608,"00:39:55,280","00:39:59,600",2395.28,2399.6,4.319999999999709,Wie viele Leute sind in diesem Gebäude schon radikalisiert worden?
+609,"00:39:59,600","00:40:03,800",2399.6,2403.8,4.200000000000273,Das wissen wir nicht.
+610,"00:40:03,800","00:40:10,960",2403.8,2410.96,7.1599999999998545,Warum wissen Sie das nicht? Sie beobachten das doch.
+611,"00:40:10,960","00:40:16,160",2410.96,2416.16,5.199999999999818,"Wir wissen nicht, wer islamisiert wird und wer radikalisiert wird."
+612,"00:40:16,160","00:40:20,120",2416.16,2420.12,3.9600000000000364,"Das ist nicht ganz einfach, die Erkenntnisse zusammenzutragen"
+613,"00:40:20,280","00:40:24,600",2420.28,2424.6,4.319999999999709,"die jetzt dazu führen, dass wir das vor Gericht nachweisen konnten,"
+614,"00:40:24,720","00:40:29,400",2424.72,2429.4,4.680000000000291,"dass es sich um den verlängerten Arm handelt, dass es nicht offenkundig."
+615,"00:40:29,520","00:40:32,680",2429.52,2432.68,3.1599999999998545,"Das müssen sie nachweisen und da sagen wir jetzt,"
+616,"00:40:32,800","00:40:36,400",2432.8,2436.4,3.599999999999909,"wir sehen hier gute Erfolgsaussichten in den Verfahren,"
+617,"00:40:36,520","00:40:38,680",2436.52,2438.68,2.1599999999998545,dass auf Bundesebene geführt wird.
+618,"00:40:38,800","00:40:44,560",2438.8,2444.56,5.7599999999997635,"Viele fragen sich, warum das nicht längst passiert ist."
+619,"00:40:44,680","00:40:48,960",2444.68,2448.96,4.2800000000002,"Wir haben jetzt zum ersten Mal eine Bundesinnenministerin,"
+620,"00:40:49,080","00:40:52,840",2449.08,2452.84,3.7600000000002183,"die das Verfahren betreibt, das ist vorher nicht passiert."
+621,"00:40:52,960","00:40:56,160",2452.96,2456.16,3.199999999999818,"Das hilft nicht, wenn die CDU in Hamburg fordert,"
+622,"00:40:56,280","00:40:59,960",2456.28,2459.96,3.6799999999998363,"das muss man schließen und in Berlin sitzen CDU Minister,"
+623,"00:41:00,080","00:41:02,320",2460.08,2462.32,2.2400000000002365,die das nicht einleiten.
+624,"00:41:02,320","00:41:04,320",2462.32,2464.32,2.0,Ich verstehe Ihr Dilemma.
+625,"00:41:04,440","00:41:07,320",2464.44,2467.32,2.880000000000109,"Ich bin durchaus der Meinung,"
+626,"00:41:07,320","00:41:11,360",2467.32,2471.36,4.039999999999964,"dass sie Hamburg in ihrem Bereich sehr gut im Griff haben,"
+627,"00:41:11,440","00:41:15,320",2471.44,2475.32,3.880000000000109,"aber an diesem Punkt muss ich Ihnen sagen,"
+628,"00:41:15,440","00:41:17,400",2475.44,2477.4,1.9600000000000364,"das wirkt wahnsinnig hilflos,"
+629,"00:41:17,480","00:41:24,720",2477.48,2484.72,7.239999999999782,"wenn man einmal sagt, das war die blöde CSU, CDU -"
+630,"00:41:27,360","00:41:32,640",2487.36,2492.64,5.279999999999745,"damit haben wir nichts zu tun weil da, weil dort."
+631,"00:41:32,760","00:41:35,880",2492.76,2495.88,3.119999999999891,"Entschuldigung, Sie sind der Politiker,"
+632,"00:41:36,000","00:41:40,160",2496.0,2500.16,4.1599999999998545,der diese Gesetze schreibt.
+633,"00:41:40,240","00:41:43,560",2500.24,2503.56,3.3200000000001637,"Man stellt sich dann die Frage,"
+634,"00:41:43,720","00:41:46,600",2503.72,2506.6,2.880000000000109,warum haben wir dann einen Innensenator...
+635,"00:41:46,600","00:41:50,680",2506.6,2510.68,4.079999999999927,"Noch mal, alles was geht, wird auch gemacht."
+636,"00:41:50,680","00:41:53,520",2510.68,2513.52,2.8400000000001455,"Was wir auf Hamburger Ebene machen können,"
+637,"00:41:53,640","00:41:57,000",2513.64,2517.0,3.3600000000001273,"wir haben koranverteilungstände verboten,"
+638,"00:41:57,120","00:42:00,040",2517.12,2520.04,2.9200000000000728,wir haben Versammlungen verboten.
+639,"00:42:00,200","00:42:05,000",2520.2,2525.0,4.800000000000182,Hier kann von Tatenlosigkeit keine Rede sein.
+640,"00:42:05,120","00:42:08,520",2525.12,2528.52,3.400000000000091,"Alles was in Richtung Bund bewegen können,"
+641,"00:42:08,600","00:42:11,080",2528.6,2531.08,2.480000000000018,"meine Leute waren schon oft in Berlin,"
+642,"00:42:11,200","00:42:13,320",2531.2,2533.32,2.1200000000003456,um beizutragen bei diesem Thema.
+643,"00:42:13,440","00:42:16,280",2533.44,2536.28,2.8400000000001455,Alles was wir tun können wird auch gemacht.
+644,"00:42:16,400","00:42:20,480",2536.4,2540.48,4.079999999999927,"Es gibt jede Menge Initiativen, auf der Innenministerkonferenz,"
+645,"00:42:20,560","00:42:23,080",2540.56,2543.08,2.519999999999982,"aber ich kann mir nicht Dinge aneignen,"
+646,"00:42:23,200","00:42:25,080",2543.2,2545.08,1.8800000000001091,die ich nicht bewegen kann.
+647,"00:42:25,200","00:42:30,080",2545.2,2550.08,4.880000000000109,Das ist auch nicht ehrlich.
+648,"00:42:30,200","00:42:33,280",2550.2,2553.28,3.080000000000382,"Wenn ich mich hinstellen sage, ich sorge dafür,"
+649,"00:42:33,400","00:42:37,440",2553.4,2557.44,4.039999999999964,dass das anders verboten wird oder nicht mehr stattfinden kann.
+650,"00:42:37,560","00:42:42,360",2557.56,2562.36,4.800000000000182,Die Linie in Hamburg ist sehr konsequent.
+651,"00:42:42,360","00:42:45,760",2562.36,2565.76,3.400000000000091,"Frau Quadbeck, der letzte Satz für Sie?"
+652,"00:42:45,760","00:42:49,120",2565.76,2569.12,3.3599999999996726,"Würden Sie sagen, es ist eine politische Botschaft,"
+653,"00:42:49,200","00:42:53,760",2569.2,2573.76,4.5600000000004,"wenigstens das Signal zu senden, wir haben es versucht?"
+654,"00:42:53,880","00:42:57,600",2573.88,2577.6,3.7199999999998,"EQ: Das ist absolut nichtig,"
+655,"00:42:57,720","00:43:02,200",2577.72,2582.2,4.480000000000018,auch wenn wir und die Bilder von der Kalifat Demo in den Kopf berufen.
+656,"00:43:02,320","00:43:04,680",2582.32,2584.68,2.3599999999996726,Das erschreckt auch die Gesellschaft.
+657,"00:43:04,800","00:43:06,680",2584.8,2586.68,1.8799999999996544,"Wenn der Innenminister sagt,"
+658,"00:43:06,800","00:43:09,800",2586.8,2589.8,3.0,"ich kann den Verein nicht übermorgen verbieten,"
+659,"00:43:09,920","00:43:12,600",2589.92,2592.6,2.6799999999998363,aber sich trotzdem politisch stark gemacht
+660,"00:43:12,720","00:43:15,120",2592.72,2595.12,2.400000000000091,und gegen diese Leute vorgehen möchte.
+661,"00:43:15,240","00:43:18,360",2595.24,2598.36,3.1200000000003456,Das ist ein wirklich wichtiges Signal.
+662,"00:43:18,480","00:43:23,440",2598.48,2603.44,4.960000000000036,"Bei der Blauen Moschee wäre es gut, wenn man rückblickend sagt,"
+663,"00:43:23,560","00:43:26,560",2603.56,2606.56,3.0,da haben wir etwas versäumt.
+664,"00:43:26,680","00:43:31,360",2606.68,2611.36,4.680000000000291,Da hätten wir schon früher rangehen müssen.
+665,"00:43:31,480","00:43:35,960",2611.48,2615.96,4.480000000000018,Und künftig wollen wir an solchen Gefahren nicht mehr vorbeischauen.
+666,"00:43:36,000","00:43:38,680",2616.0,2618.68,2.6799999999998363,"AG: Dass die wehrhafte Demokratie, das ist richtig,"
+667,"00:43:38,720","00:43:42,160",2618.72,2622.16,3.4400000000000546,"alle Register zieht, das habe ich schon oft versucht zu sagen."
+668,"00:43:48,800","00:43:51,040",2628.8,2631.04,2.2399999999997817,Natürlich tun wir das.
+669,"00:43:51,080","00:43:54,720",2631.08,2634.72,3.6399999999998727,"Alle können sich darauf verlassen, dass das, was wir als Rechtsstaat,"
+670,"00:43:54,760","00:43:59,560",2634.76,2639.56,4.799999999999727,"als Sicherheitsbehörden, auch als Politik in Hamburg tun können,"
+671,"00:43:59,600","00:44:05,120",2639.6,2645.12,5.519999999999982,"um so konsequent und wirksam dagegen vorzugehen, das tun wir auch."
+672,"00:44:06,080","00:44:09,240",2646.08,2649.24,3.1599999999998545,Okay. Wir werden Sie beim Wort nehmen. Ich danke Ihnen sehr.
+673,"00:44:09,280","00:44:12,200",2649.28,2652.2,2.919999999999618,"Jetzt die Kollegen vom ""heute journal up:date""."
+674,"00:44:12,240","00:44:15,480",2652.24,2655.48,3.2400000000002365,"Wir sind morgen wieder für Sie da. Bis dahin, danke, Tschüss."

@@ -1,0 +1,911 @@
+﻿segment_id,start_time,end_time,start_seconds,end_seconds,duration,text
+1,"00:00:00,040","00:00:01,000",0.04,1.0,0.96,Diese Untertitel sind live produziert.
+2,"00:00:05,120","00:00:07,000",5.12,7.0,1.88,"Willkommen zu unserer Sendung, auf die ich mich sehr freue,"
+3,"00:00:07,040","00:00:09,680",7.04,9.68,2.6399999999999997,weil sie - wenn sie gut läuft -
+4,"00:00:09,760","00:00:13,040",9.76,13.04,3.2799999999999994,"wirklich ein bisschen tiefer bohren könnte,"
+5,"00:00:13,080","00:00:17,400",13.08,17.4,4.3199999999999985,"wenn es darum geht, zu verstehen, was in Amerika gerade passiert."
+6,"00:00:17,480","00:00:19,680",17.48,19.68,2.1999999999999993,"Und man denkt an eine Bemerkung,"
+7,"00:00:19,720","00:00:23,040",19.72,23.04,3.3200000000000003,"die sie im November vergangenen Jahres gemacht hat,"
+8,"00:00:23,080","00:00:27,080",23.08,27.08,4.0,da sagte sie sinngemäß:
+9,"00:00:27,160","00:00:31,360",27.16,31.36,4.199999999999999,"""Trump und Musk - da haben sich jetzt tatsächlich zwei gefunden..."
+10,"00:00:31,360","00:00:34,480",31.36,34.48,3.1199999999999974,"Und wir tun gut daran, das endlich -"
+11,"00:00:34,520","00:00:37,600",34.52,37.6,3.0799999999999983,"und zwar ganz unabhängig vom Ausgang der Wahl - zu erkennen."""
+12,"00:00:37,680","00:00:41,320",37.68,41.32,3.6400000000000006,"Was ist das für eine Allianz, die sich da gefunden hat,"
+13,"00:00:41,400","00:00:46,520",41.4,46.52,5.1200000000000045,"die auf ""Bloßstellung, Demaskierung und Anstiftung zum Verrat"" setzt,"
+14,"00:00:46,600","00:00:49,240",46.6,49.24,2.6400000000000006,"wenn es darum geht, Staatsangestellte rauszuschmeißen,"
+15,"00:00:49,320","00:00:52,560",49.32,52.56,3.240000000000002,wollen wir die Politologin und frühere CNN-Korrespondentin fragen?
+16,"00:00:52,640","00:00:55,200",52.64,55.2,2.5600000000000023,Herzlich willkommen Cathryn Clüver Ashbrook (CC)!
+17,"00:00:55,240","00:00:59,120",55.24,59.12,3.8799999999999955,"Es gibt einen schönen Satz von diesem Mann, um Elon Musk zu beschreiben:"
+18,"00:00:59,160","00:01:01,680",59.16,61.68,2.520000000000003,"""Man merkt bei dem nach fünf Minuten"", sagt er,"
+19,"00:01:01,760","00:01:04,360",61.76,64.36,2.6000000000000014,"""dass er das ist,"
+20,"00:01:04,520","00:01:08,520",64.52,68.52,4.0,"was man in Deutschland jetzt modischerweise neurodivers nennt..."""
+21,"00:01:08,600","00:01:12,400",68.6,72.4,3.8000000000000114,"Er ist kein ""Elon-Musk-Fanboy"", wie er sagt,"
+22,"00:01:12,440","00:01:15,680",72.44,75.68,3.240000000000009,"nennt Musks AfD-Unterstützung ""schwachsinnig"","
+23,"00:01:15,760","00:01:20,280",75.76,80.28,4.519999999999996,"findet aber ""das Anti-Autoritäre an ihm interessant""."
+24,"00:01:20,360","00:01:25,840",80.36,85.84,5.480000000000004,"Zitat: ""Ich hätte lieber 100 Musks in Deutschland, egal, wie durchgeknallt,"
+25,"00:01:25,880","00:01:29,040",85.88,89.03999999999999,3.1599999999999966,"denn dann hätten wir wieder drei, vier Prozent Wachstum,"
+26,"00:01:29,120","00:01:32,520",89.12,92.52000000000001,3.4000000000000057,"als moralische Klugscheißer, die nichts gebacken kriegen."""
+27,"00:01:32,600","00:01:37,640",92.6,97.64,5.040000000000006,"Das ist ein bisschen der Ton eines wirklich provokanten Buches,"
+28,"00:01:37,720","00:01:40,520",97.72,100.52000000000001,2.8000000000000114,"das er diese Tage veröffentlicht hat... im Eigenverlag,"
+29,"00:01:40,560","00:01:44,000",100.56,104.0,3.4399999999999977,weil kein anderer es veröffentlichen wollte.
+30,"00:01:44,040","00:01:46,800",104.03999999999999,106.8,2.760000000000005,"Titel: ""Das Shitbürgertum..."""
+31,"00:01:46,880","00:01:50,600",106.88,110.6,3.719999999999999,Man könnte auch sagen: Einmal eine Portion Anarchie für alle bitte...
+32,"00:01:50,680","00:01:53,680",110.68,113.68,3.0,"man liebt es, man hasst es, aber es lässt keinen kalt."
+33,"00:01:53,760","00:01:56,200",113.75999999999999,116.2,2.440000000000012,Herzlich willkommen Ulf Poschardt (UP)!
+34,"00:01:56,280","00:02:00,240",116.28,120.24,3.9599999999999937,Ulf Poschardt kennt Musk persönlich.
+35,"00:02:00,280","00:02:04,240",120.28,124.24,3.9599999999999937,"Dieser Mann tut es auch und es gibt sogar das Gerücht,"
+36,"00:02:04,320","00:02:08,320",124.32,128.32,4.0,dass Musk ihn mal zum Chef von Tesla machen wollte.
+37,"00:02:08,400","00:02:12,720",128.4,132.72,4.319999999999993,"Interessant daran ist, dass er diesem Gerücht nie widersprochen hat,"
+38,"00:02:12,760","00:02:17,600",132.76,137.6,4.840000000000003,"sondern stets genau so gelächelt hat, wenn er danach gefragt wurde."
+39,"00:02:17,640","00:02:21,480",137.64,141.48,3.8400000000000034,"Er hält Musk für einen großen Innovator,"
+40,"00:02:21,520","00:02:26,160",141.52,146.16,4.639999999999986,"einen Mann von unglaublicher Auffassungsgabe,"
+41,"00:02:26,240","00:02:28,720",146.24,148.72,2.4799999999999898,"sagt aber auch: ""Das, was der mit seinen Satelliten gemacht hat,"
+42,"00:02:28,760","00:02:30,360",148.76,150.36,1.6000000000000227,"könnten wir hier in Europa auch..."""
+43,"00:02:30,400","00:02:32,400",150.4,152.4,2.0,"Und überhaupt: Wenn man ihm zuhört,"
+44,"00:02:32,480","00:02:35,880",152.48,155.88,3.4000000000000057,dann schlägt genau jetzt die große Stunde Europas...
+45,"00:02:35,920","00:02:39,160",155.92000000000002,159.16,3.2399999999999807,kleines Problem dabei: fühlt sich grad ganz anders an...
+46,"00:02:39,240","00:02:42,160",159.24,162.16,2.9199999999999875,herzlich willkommen Herbert Diess (HD)!
+47,"00:02:42,240","00:02:45,960",162.24,165.96,3.719999999999999,"Und ein weiteres gutes Buch führt direkt zu diesem Mann,"
+48,"00:02:46,040","00:02:49,440",166.04,169.44,3.4000000000000057,"der gerade die ""Tesla Files"" veröffentlicht hat."
+49,"00:02:49,520","00:02:53,080",169.52,173.07999999999998,3.559999999999974,leitet die Investigativ-Abteilung bei den Kollegen vom Handelsblatt
+50,"00:02:53,120","00:02:55,600",173.12,175.6,2.4799999999999898,und hat mit seinen Leuten mehr als 100 Gigabyte
+51,"00:02:55,680","00:02:57,400",175.68,177.4,1.7199999999999989,interne Tesla-Daten ausgewertet.
+52,"00:02:57,440","00:03:00,600",177.44,180.6,3.1599999999999966,"Das Bild, das nicht nur daraus entsteht,"
+53,"00:03:00,640","00:03:03,080",180.64,183.08,2.440000000000026,"ist das Bild eines Mannes, der so mächtig ist"
+54,"00:03:03,160","00:03:06,160",183.16,186.16,3.0,"wie noch keiner vor ihm in der Geschichte der Menschheit,"
+55,"00:03:06,240","00:03:08,360",186.24,188.36,2.1200000000000045,wenn auch auf seinen medialen Einfluss blickt
+56,"00:03:08,440","00:03:09,560",188.44,189.56,1.1200000000000045,"und der, sagt er,"
+57,"00:03:09,640","00:03:12,640",189.64,192.64,3.0,"""dabei die ultimative Risikobereitschaft so feiert"""
+58,"00:03:12,720","00:03:13,800",192.72,193.8,1.0800000000000125,wie Musk.
+59,"00:03:13,840","00:03:16,880",193.84,196.88,3.039999999999992,Sieht er deshalb Amerika auf dem Weg in eine Oligarchie?
+60,"00:03:16,920","00:03:18,840",196.92000000000002,198.84,1.9199999999999875,"Und was meint er, wenn er sagt:"
+61,"00:03:18,920","00:03:22,600",198.92000000000002,202.6,3.6799999999999784,"""Libertäre wie Musk sind davon überzeugt,"
+62,"00:03:22,640","00:03:28,320",202.64,208.32,5.680000000000007,"dass Freiheit und Demokratie nicht miteinander vereinbar sind..."""
+63,"00:03:28,400","00:03:29,960",208.4,209.96,1.5600000000000023,"Das wären schlechte Nachrichten,"
+64,"00:03:30,040","00:03:32,040",210.04,212.04,2.0,herzlich willkommen Sönke Iwersen (SI)!
+65,"00:03:32,080","00:03:34,520",212.07999999999998,214.52,2.440000000000026,Schönen guten Abend in die Runde - sprechen wir über Elon Musk.
+66,"00:03:36,520","00:03:40,000",216.52,220.0,3.4799999999999898,Zwei in der Runde kennen ihn sogar schon persönlich.
+67,"00:03:40,000","00:03:45,920",220.0,225.92000000000002,5.920000000000016,"Herbert Diess, wie würden Sie diesen Mann beschreiben?"
+68,"00:03:45,920","00:03:53,080",225.92000000000002,233.07999999999998,7.159999999999968,HD: Er ist getrieben von dem Willen die Welt zu Verändern.
+69,"00:03:53,080","00:03:56,120",233.07999999999998,236.12,3.0400000000000205,"In seinem Sinne möchte die Welt so gestalten,"
+70,"00:03:56,160","00:04:01,880",236.16,241.88,5.719999999999999,wie er sich das vorstellt.
+71,"00:04:03,560","00:04:07,160",243.56,247.16,3.5999999999999943,Er ist sicherlich ein großer technischer Innnovators:
+72,"00:04:07,160","00:04:11,480",247.16,251.48,4.319999999999993,Heute muss man ihn natürlich auch als Teil dieses neuen Amerikas
+73,"00:04:11,520","00:04:12,480",251.52,252.48,0.9599999999999795,sehen.
+74,"00:04:12,520","00:04:16,000",252.52,256.0,3.4799999999999898,"Diese Politik ist nicht so, wie wir uns wie gewünscht haben in Europa."
+75,"00:04:16,000","00:04:18,800",256.0,258.8,2.8000000000000114,"Sie ist rassistischer, und demokratischer,"
+76,"00:04:18,800","00:04:25,440",258.8,265.44,6.639999999999986,sie ist religiöser und europafeindlicher.
+77,"00:04:28,600","00:04:32,400",268.6,272.4,3.7999999999999545,Das spielt eine Rolle und man darf ihn jetzt nicht nur als Innovator
+78,"00:04:32,440","00:04:34,400",272.44,274.4,1.9599999999999795,und Unternehmer wählen.
+79,"00:04:34,440","00:04:37,680",274.44,277.68,3.240000000000009,ML: Wir schauen uns zu Beginn ein paar Bilder an.
+80,"00:04:37,720","00:04:40,360",277.72,280.36,2.6399999999999864,Der reichste Mann der Welt.
+81,"00:04:40,400","00:04:42,800",280.4,282.8,2.400000000000034,"Das sind zwei Männer,"
+82,"00:04:42,800","00:04:46,280",282.8,286.28,3.4799999999999613,"die polarisieren und gemeinsam offenbar dabei sind,"
+83,"00:04:46,280","00:04:48,360",286.28,288.36,2.080000000000041,die Welt zu verändern.
+84,"00:04:48,400","00:04:51,560",288.4,291.56,3.160000000000025,Musk kommt im Juli 1971 in Südafrika zur Welt.
+85,"00:04:51,600","00:04:53,960",291.6,293.96,2.359999999999957,Er ist das älteste von drei Kindern.
+86,"00:04:54,000","00:04:57,920",294.0,297.92,3.920000000000016,Dort wächst er in Johannesburg auf.
+87,"00:04:57,920","00:05:02,320",297.92,302.32,4.399999999999977,Seine Kindheit wird bestimmt von Gewalt und Mobbing an der Schule.
+88,"00:05:02,360","00:05:07,200",302.36,307.2,4.839999999999975,"Außerdem von einem Vater, der ihn nicht wirklich mochte."
+89,"00:05:07,240","00:05:10,160",307.24,310.16,2.920000000000016,"- Wenn deine Kinder dich nie gehasst haben,"
+90,"00:05:10,160","00:05:14,760",310.16,314.76,4.599999999999966,dann warst du nie wirklich ein Vater.
+91,"00:05:14,760","00:05:17,560",314.76,317.56,2.8000000000000114,ML: Elon Musk leidet am Asperger-Syndrom.
+92,"00:05:17,560","00:05:23,160",317.56,323.16,5.600000000000023,Er war ein stilles Kind und hat heimlich Raketen gebaut.
+93,"00:05:23,160","00:05:29,200",323.16,329.2,6.039999999999964,Er verkaufte damals einen Code für 500 Dollar.
+94,"00:05:29,200","00:05:33,480",329.2,333.48,4.28000000000003,"Mitte der neunziger ging er mit seinem Bruder nach Kalifornien,"
+95,"00:05:33,480","00:05:39,400",333.48,339.4,5.919999999999959,gründete mit ihm ein Startup.
+96,"00:05:44,960","00:05:47,880",344.96,347.88,2.920000000000016,"Er sei obsessiv, ein Workaholic schläft im Büro und duscht"
+97,"00:05:47,920","00:05:50,480",347.92,350.48,2.5600000000000023,in einer benachbarten Jugendherberge.
+98,"00:05:50,520","00:05:58,640",350.52,358.64,8.120000000000005,- Man muss beinahe seine ganze Zeit auf der Arbeit verbringen.
+99,"00:06:00,560","00:06:04,560",360.56,364.56,4.0,"Er gründet dann mit dem Geld den Finanzdienstleister Excom,"
+100,"00:06:04,600","00:06:10,160",364.6,370.16,5.560000000000002,der dann zu PayPal wird.
+101,"00:06:12,480","00:06:15,920",372.48,375.92,3.4399999999999977,2004 steigt er bei Tesla ein und revolutioniert die
+102,"00:06:15,960","00:06:17,200",375.96,377.2,1.240000000000009,Automobilindustrie.
+103,"00:06:17,240","00:06:24,080",377.24,384.08,6.839999999999975,Er schafft die wertvollste Marke der Welt.
+104,"00:06:35,960","00:06:39,520",395.96,399.52,3.5600000000000023,Die ukrainische Armee benutzt seinen Satellitensystem.
+105,"00:06:39,560","00:06:46,400",399.56,406.4,6.839999999999975,Doch er steht auch zunehmend in der Kritik.
+106,"00:06:47,120","00:06:52,320",407.12,412.32,5.199999999999989,Sicherheitsmängel und Ausbeutung in seiner Firma.
+107,"00:06:52,320","00:06:58,640",412.32,418.64,6.319999999999993,Hass und Desinformation aufgelegt.
+108,"00:06:59,480","00:07:03,280",419.48,423.28,3.7999999999999545,Nach dem Anschlag auf Donald Trump bekennt er sich offen
+109,"00:07:03,280","00:07:05,200",423.28,425.2,1.920000000000016,zu dem jetzigen Präsidenten.
+110,"00:07:05,240","00:07:08,800",425.24,428.8,3.5600000000000023,Die beiden wollen die USA anscheinend radikal umbauen
+111,"00:07:08,840","00:07:12,480",428.84,432.48,3.640000000000043,und gehen gegen Staatsanwälte vor. Sie wollen Tausende
+112,"00:07:12,480","00:07:14,400",432.48,434.4,1.919999999999959,"Beamte entlassen,"
+113,"00:07:14,440","00:07:18,600",434.44,438.6,4.160000000000025,"wie grundlegend diese Politik das Land und die Welt verändert,"
+114,"00:07:18,640","00:07:20,480",438.64,440.48,1.8400000000000318,das wird die Zukunft zeigen.
+115,"00:07:20,520","00:07:26,280",440.52,446.28,5.759999999999991,"Herr Poschardt, wir haben Sie diesen Mann erlebt?"
+116,"00:07:26,320","00:07:29,600",446.32,449.6,3.2800000000000296,"UP: Wenn man weiß, dass Menschen..."
+117,"00:07:29,640","00:07:36,800",449.64,456.8,7.160000000000025,"Früher hätte man gesagt, das ist eine Krankheit."
+118,"00:07:37,000","00:07:43,000",457.0,463.0,6.0,"Heute hat man neurodivers gesagt,"
+119,"00:07:43,040","00:07:49,000",463.04,469.0,5.9599999999999795,"wenn Dinge anders verlötet sind, dann hat es Nachteile."
+120,"00:07:49,040","00:07:52,000",469.04,472.0,2.9599999999999795,"In seinem Fall hat es aber auch viele Dinge,"
+121,"00:07:52,040","00:07:53,800",472.04,473.8,1.759999999999991,die er dadurch besser kann.
+122,"00:07:53,840","00:07:56,080",473.84000000000003,476.08,2.2399999999999523,"Bei ihm finde ich es interessant,"
+123,"00:07:56,120","00:07:58,880",476.12,478.88,2.759999999999991,"wir haben ja auch ein paar Bilder gesehen,"
+124,"00:07:58,920","00:08:02,600",478.92,482.6,3.680000000000007,er versucht ja gar nicht der normale Typ zu sein.
+125,"00:08:02,640","00:08:04,400",482.64,484.4,1.759999999999991,"Man muss sich entscheiden,"
+126,"00:08:04,440","00:08:08,160",484.44,488.16,3.7200000000000273,"will ich meine Krankheit oder meine Neurotiker Realität,"
+127,"00:08:08,160","00:08:11,440",488.16,491.44,3.2799999999999727,"ich zwinge mich in eine Normalität, die mir wesensfremd ist,"
+128,"00:08:12,160","00:08:13,520",492.16,493.52,1.3599999999999568,oder ich liebe sie aus.
+129,"00:08:15,200","00:08:18,280",495.2,498.28,3.079999999999984,"Als ich ihn das erste Mal bei uns erlebt habe,"
+130,"00:08:18,280","00:08:22,400",498.28,502.4,4.1200000000000045,"da fände ich es sehr einnehmend,"
+131,"00:08:22,440","00:08:30,720",502.44,510.72,8.28000000000003,"dass da jemand mit seinem unfassbar speziellen Angaben an Themen,"
+132,"00:08:31,200","00:08:32,840",511.2,512.84,1.6400000000000432,"auch mit dem tiefernsten,"
+133,"00:08:32,880","00:08:36,200",512.88,516.2,3.32000000000005,"er hat viel über Einsamkeit und Tod gesprochen,"
+134,"00:08:36,240","00:08:40,560",516.24,520.56,4.319999999999936,"da waren andere CEO's,"
+135,"00:08:40,600","00:08:42,880",520.6,522.88,2.2799999999999727,"man hat gesehen, wie kann es sein,"
+136,"00:08:42,920","00:08:46,160",522.92,526.16,3.240000000000009,dass du ein Typ die Wirtschaft so revolutioniert.
+137,"00:08:46,200","00:08:47,960",526.2,527.96,1.759999999999991,"Er funktioniert so anders,"
+138,"00:08:48,000","00:08:52,160",528.0,532.16,4.159999999999968,als die deutschen und europäischen Unternehmer und Topmanager.
+139,"00:08:52,200","00:08:57,120",532.2,537.12,4.919999999999959,"Es gab ein Bild, da war er zusammen mit Peter Thiel."
+140,"00:08:57,160","00:09:00,920",537.16,540.92,3.759999999999991,"Eine Sache, die für mich betreut ein großes Rätsel ist es,"
+141,"00:09:00,960","00:09:04,960",540.96,544.96,4.0,seine Liebe zu Deutschland.
+142,"00:09:05,000","00:09:08,720",545.0,548.72,3.7200000000000273,"Er ist tief geprägt von Wagner, Ernst Jünger, Kraftwerk."
+143,"00:09:08,720","00:09:11,480",548.72,551.48,2.759999999999991,"Ich habe ihn gefragt, warum Tesla,"
+144,"00:09:11,520","00:09:18,200",551.52,558.2,6.680000000000064,er hatte sogar überlegt nach Düsseldorf zu gehen.
+145,"00:09:18,240","00:09:20,920",558.24,560.92,2.67999999999995,"Er meinte, die Kernkraftwerke, der Band."
+146,"00:09:20,960","00:09:23,840",560.96,563.84,2.8799999999999955,Er hat eine irrationale Nähe zu Deutschland.
+147,"00:09:23,880","00:09:25,480",563.88,565.48,1.6000000000000227,Peter Thiel auch.
+148,"00:09:25,520","00:09:27,760",565.52,567.76,2.240000000000009,Sie hängen alle miteinander zusammen.
+149,"00:09:34,960","00:09:41,760",574.96,581.76,6.7999999999999545,"Peter Thiel ist der Mann, der JD Vance den Weg finanziert hat."
+150,"00:09:41,800","00:09:46,320",581.8,586.32,4.5200000000000955,"Sie sind hoch intelligent, sie sind wahnsinnig schnell,"
+151,"00:09:46,400","00:09:50,920",586.4,590.92,4.519999999999982,"und ein Abend, an dem man mit ihnen sprechen kann,"
+152,"00:09:50,960","00:09:56,760",590.96,596.76,5.7999999999999545,"der es unglaublich inspirierend und insofern,"
+153,"00:09:56,760","00:10:01,080",596.76,601.08,4.32000000000005,"ich muss sagen, ich bewundere, was er in den vergangenen Jahren,"
+154,"00:10:01,120","00:10:02,800",601.12,602.8,1.67999999999995,Jahrzehnten aufgebaut hat.
+155,"00:10:02,840","00:10:07,600",602.84,607.6,4.759999999999991,"D. h. nicht, dass ich blind bin für all die Dinge, von denen ich glaube,"
+156,"00:10:07,640","00:10:09,040",607.64,609.04,1.3999999999999773,dass sie dumm sind.
+157,"00:10:09,080","00:10:13,160",609.08,613.16,4.079999999999927,"Zum Beispiel der Text, den er bei uns zur AfD geschrieben hat."
+158,"00:10:13,200","00:10:15,640",613.2,615.64,2.439999999999941,Das haben wir ja auch so dargestellt.
+159,"00:10:15,680","00:10:19,760",615.68,619.76,4.080000000000041,"Das verstehe ich nicht, aber momentan ist er sehr interessant."
+160,"00:10:19,800","00:10:22,880",619.8,622.88,3.080000000000041,"ML: Bevor wir gleich von Herr Iwersen hören,"
+161,"00:10:22,920","00:10:26,280",622.92,626.28,3.3600000000000136,"was auch von diesen Files auf sich hat,"
+162,"00:10:26,320","00:10:33,200",626.32,633.2,6.8799999999999955,"es ist schon interessant, diese Entwicklung."
+163,"00:10:35,920","00:10:38,760",635.92,638.76,2.840000000000032,"Da wird ein Wirtschaftsboss, Herbert Diess"
+164,"00:10:38,800","00:10:42,680",638.8,642.68,3.8799999999999955,und der wird plötzlich zum Popidol.
+165,"00:10:42,720","00:10:48,320",642.72,648.32,5.600000000000023,Die hat er das geschafft?
+166,"00:10:53,240","00:10:56,240",653.24,656.24,3.0,"CC: Zunächst einmal, weil er das verkörpert,"
+167,"00:10:56,280","00:10:58,960",656.28,658.96,2.6800000000000637,was nur in Amerika in Summe möglich ist.
+168,"00:10:59,000","00:11:02,280",659.0,662.28,3.2799999999999727,"Und zwar ist der reichste Mann der Welt geworden,"
+169,"00:11:02,320","00:11:04,960",662.32,664.96,2.6399999999999864,"natürlich hat er auch das mit genommen,"
+170,"00:11:05,000","00:11:08,040",665.0,668.04,3.0399999999999636,was Silicon Valley damals möglich gemacht hat.
+171,"00:11:08,040","00:11:11,840",668.04,671.84,3.800000000000068,ML: Da ist wirklich eine Mentalität dar.
+172,"00:11:11,880","00:11:18,560",671.88,678.56,6.67999999999995,CC: Das hat Mark Zuckerberg damals auch gemacht.
+173,"00:11:18,600","00:11:20,400",678.6,680.4,1.7999999999999545,"Dass es eine ganze Doktrin,"
+174,"00:11:20,440","00:11:23,200",680.44,683.2,2.759999999999991,die quasi Silicon Valley lang umgeben hat.
+175,"00:11:23,240","00:11:26,360",683.24,686.36,3.1200000000000045,ML: Gleich können wir das Bild nochmals zeigen.
+176,"00:11:26,400","00:11:29,000",686.4,689.0,2.6000000000000227,"Peter Thiel, neben Elon Musk,"
+177,"00:11:29,080","00:11:32,920",689.08,692.92,3.839999999999918,das war einer der ersten Investoren in Facebook gewesen.
+178,"00:11:32,960","00:11:35,280",692.96,695.28,2.3199999999999363,Er war inspiratorisch tätig für Mark Zuckerberg.
+179,"00:11:38,320","00:11:45,840",698.32,705.84,7.519999999999982,"Ein Mann von dem er sei, dass einer meiner wichtigsten Mentoren."
+180,"00:11:45,840","00:11:50,240",705.84,710.24,4.399999999999977,"CC: Jetzt haben wir da auch noch mal eine interessante Vermischung,"
+181,"00:11:50,240","00:11:53,360",710.24,713.36,3.1200000000000045,"sie haben beide eine südafrikanische Verbindung,"
+182,"00:11:53,400","00:12:00,040",713.4,720.04,6.639999999999986,haben aber den USA ihr Vermögen gemacht.
+183,"00:12:00,320","00:12:03,240",720.32,723.24,2.919999999999959,"Was sagt das aus, auch über den Milliardär,"
+184,"00:12:03,240","00:12:06,720",723.24,726.72,3.480000000000018,der jetzt hinter einer Krypto- Währung steht?
+185,"00:12:06,720","00:12:12,160",726.72,732.16,5.439999999999941,"Das sagt dies etwas aus über ein Menschenbild, in den USA,"
+186,"00:12:12,160","00:12:15,640",732.16,735.64,3.480000000000018,"die Schere der Unausgeglichenheit, der Ungleichheit,"
+187,"00:12:15,640","00:12:22,360",735.64,742.36,6.720000000000027,die er seit den achtzigern stark aufgeht.
+188,"00:12:25,600","00:12:28,480",745.6,748.48,2.8799999999999955,Das hat die beiden aus ihrer Vergangenheit
+189,"00:12:28,480","00:12:31,760",748.48,751.76,3.2799999999999727,in Südafrika stark animiert.
+190,"00:12:31,760","00:12:37,200",751.76,757.2,5.440000000000055,"Das ist der Apartheid-Kontext gewesen,"
+191,"00:12:37,240","00:12:38,880",757.24,758.88,1.6399999999999864,"Ungleichheit existiert,"
+192,"00:12:38,880","00:12:43,320",758.88,763.32,4.440000000000055,weil nicht alle gleich mit dem Kapitalismus umgehen können.
+193,"00:12:43,320","00:12:47,800",763.32,767.8,4.4799999999999045,"Das ist das Zünglein an der Waage, das könnte man in Amerika sehen,"
+194,"00:12:47,800","00:12:52,400",767.8,772.4,4.600000000000023,aber in Amerika gibt es auch konterkarieren der Elemente.
+195,"00:12:52,400","00:12:57,760",772.4,777.76,5.360000000000014,"Dieser animus, der beide verbindet,"
+196,"00:12:57,800","00:13:03,560",777.8,783.56,5.759999999999991,ist die Sichtweise aus ihrer Biografie.
+197,"00:13:03,600","00:13:07,280",783.6,787.28,3.67999999999995,"ML: Ich habe vorhin schon auf ihr Buch hingewiesen,"
+198,"00:13:07,320","00:13:12,880",787.32,792.88,5.559999999999945,"erstellen Sie die Frage,"
+199,"00:13:15,800","00:13:18,560",795.8,798.56,2.759999999999991,"handelt es sich bei Musk um einen irren,"
+200,"00:13:18,560","00:13:25,080",798.56,805.08,6.5200000000000955,ein Exzentriker oder das größte Genie?
+201,"00:13:33,840","00:13:42,440",813.84,822.44,8.600000000000023,"SI: Niemand würde bestreiten, dass Elon Musk ein großer Erfinder ist."
+202,"00:13:42,640","00:13:47,960",822.64,827.96,5.32000000000005,"Vor allem seine Versprechen neben sein geschaffenes gelegt,"
+203,"00:13:48,000","00:13:51,480",828.0,831.48,3.480000000000018,"da ist es interessant, dass jemand, der so viel kann,"
+204,"00:13:51,520","00:13:57,200",831.52,837.2,5.680000000000064,noch so viel mehr verspricht und nicht halten kann.
+205,"00:13:57,240","00:14:04,360",837.24,844.36,7.1200000000000045,Seit zehn Jahren verspricht er einen funktionierendem Autopiloten.
+206,"00:14:04,400","00:14:12,200",844.4,852.2,7.800000000000068,"SpaceX, eigentlich sollten wir seit letztem Jahr auf dem Mars sein."
+207,"00:14:12,240","00:14:14,960",852.24,854.96,2.7200000000000273,"Oder der Cybertruck,"
+208,"00:14:15,000","00:14:21,160",855.0,861.16,6.159999999999968,"es gab 1 Million Vorbestellungen,"
+209,"00:14:22,960","00:14:27,560",862.96,867.56,4.599999999999909,heute ist das Fahrzeug der meisten zurückgerufene Wagen aller Zeiten.
+210,"00:14:27,600","00:14:33,560",867.6,873.56,5.959999999999923,Er wurde siebenmal zurückgerufen.
+211,"00:14:33,600","00:14:36,920",873.6,876.92,3.3199999999999363,"ML: Der Kofferraum vollbeladen mit Hohn und Spott,"
+212,"00:14:36,920","00:14:43,040",876.92,883.04,6.1200000000000045,jeder macht sich darüber lustig.
+213,"00:14:43,240","00:14:49,120",883.24,889.12,5.8799999999999955,"SI: Insofern, er ist alles dabei."
+214,"00:14:49,160","00:14:55,200",889.16,895.2,6.040000000000077,"Und dann sagt er, das menschliche Bedürfnis, geliebt werden zu wollen,"
+215,"00:14:55,240","00:15:01,120",895.24,901.12,5.8799999999999955,"eine menschliche Schwäche, die habe er nicht."
+216,"00:15:01,160","00:15:09,200",901.16,909.2,8.040000000000077,ML: Den Satz muss man sich mal auf der Zunge zergehen lassen:
+217,"00:15:09,640","00:15:17,760",909.64,917.76,8.120000000000005,""" die fundamentale Schwäche der westlichen Welt ist Empathie""."
+218,"00:15:17,920","00:15:24,200",917.92,924.2,6.280000000000086,"SI: Er sagt hasst mich, wenn ihr wollt."
+219,"00:15:24,240","00:15:27,920",924.24,927.92,3.67999999999995,"Wenn Journalisten etwas über seine Leute schreiben,"
+220,"00:15:27,960","00:15:31,600",927.96,931.6,3.6399999999999864,"dann sagt er, die müssen ins Gefängnis, für lange Zeit."
+221,"00:15:31,640","00:15:37,720",931.64,937.72,6.080000000000041,Es existiert alles gleichzeitig.
+222,"00:15:45,960","00:15:49,120",945.96,949.12,3.159999999999968,"ML: Er möchte also einerseits Meinungsfreiheit,"
+223,"00:15:49,160","00:15:50,920",949.16,950.92,1.759999999999991,"Stichwort Vance in München,"
+224,"00:15:50,960","00:15:55,760",950.96,955.76,4.7999999999999545,"und gleichzeitig ist er sehr sensibel,"
+225,"00:15:55,800","00:16:02,920",955.8,962.92,7.1200000000000045,eine andere Meinung von anderen zu akzeptieren.
+226,"00:16:03,840","00:16:11,160",963.84,971.16,7.319999999999936,"SI: Wichtig ist ihm seine eigene Meinungsfreiheit,"
+227,"00:16:12,480","00:16:15,760",972.48,975.76,3.2799999999999727,"er möchte nicht, dass in irgendeiner Aufsichtsbehörde"
+228,"00:16:15,800","00:16:17,960",975.8,977.96,2.160000000000082,einen Strich dadurch macht.
+229,"00:16:18,000","00:16:21,160",978.0,981.16,3.159999999999968,"Entweder werden die Journalisten herausgeworfen,"
+230,"00:16:21,200","00:16:24,880",981.2,984.88,3.67999999999995,"oder er fordert, dass sich ins Gefängnis kommen."
+231,"00:16:24,920","00:16:31,520",984.92,991.52,6.600000000000023,ML: Ich habe gerade die Reaktion von Ulf Poschardt gesehen.
+232,"00:16:31,560","00:16:37,120",991.56,997.12,5.560000000000059,"UP: Das zeigt ja eigentlich, wie gute Meinungsfreiheit funktioniert."
+233,"00:16:37,160","00:16:43,880",997.16,1003.88,6.720000000000027,"Da sind alle drin, die verschiedenen Versuche,"
+234,"00:16:43,920","00:16:48,120",1003.92,1008.12,4.2000000000000455,"dass sie zu BlueSky gehen,"
+235,"00:16:48,160","00:16:54,040",1008.16,1014.04,5.8799999999999955,sie sind alle drin geblieben.
+236,"00:16:59,000","00:17:06,520",1019.0,1026.52,7.519999999999982,"Man muss ja sagen, wie sie sind zwar nicht über Peter Thiel,"
+237,"00:17:06,600","00:17:11,040",1026.6,1031.04,4.440000000000055,"aber ihn schon mal getroffen hat,"
+238,"00:17:11,080","00:17:15,320",1031.08,1035.32,4.240000000000009,der könnte an eine Philosophie Universität unterrichten.
+239,"00:17:15,320","00:17:20,160",1035.32,1040.16,4.8400000000001455,"Sein neues großes Thema ist Demographie,"
+240,"00:17:20,200","00:17:22,760",1040.2,1042.76,2.5599999999999454,wie wird sie unsere Welt verändern?
+241,"00:17:22,800","00:17:28,680",1042.8,1048.68,5.880000000000109,Was heißt das für den besten.
+242,"00:17:29,840","00:17:32,240",1049.84,1052.24,2.400000000000091,"Die überlegen grundsätzliche Sachen,"
+243,"00:17:32,280","00:17:38,840",1052.28,1058.84,6.559999999999945,die wir früher an der Universität sprachen.
+244,"00:17:38,840","00:17:42,120",1058.84,1062.12,3.2799999999999727,"Sie sagen, wir brauchen eine kreative Zerstörung,"
+245,"00:17:42,120","00:17:47,440",1062.12,1067.44,5.320000000000164,erst dadurch macht sie Fortschritt möglich.
+246,"00:17:47,440","00:17:53,920",1067.44,1073.92,6.480000000000018,"Das ist aber bei Ihnen kein Oberseminar, sie ziehen es durch."
+247,"00:17:53,960","00:17:59,640",1073.96,1079.64,5.680000000000064,"Was die Empathie betrifft,"
+248,"00:18:01,200","00:18:05,400",1081.2,1085.4,4.2000000000000455,"da denken sie Nietzsche weiter, sie wollen keine Sklavenmoral,"
+249,"00:18:05,440","00:18:09,200",1085.44,1089.2,3.759999999999991,sondern den freien Menschen. Man kann sich darüber lustig
+250,"00:18:09,240","00:18:10,200",1089.24,1090.2,0.9600000000000364,machen...
+251,"00:18:10,240","00:18:16,200",1090.24,1096.2,5.960000000000036,"ML: Nein, nicht lustig machen."
+252,"00:18:17,280","00:18:19,640",1097.28,1099.64,2.3600000000001273,"UP: Oder man könnte sich überlegen,"
+253,"00:18:19,680","00:18:27,120",1099.68,1107.12,7.439999999999827,was könnte der interessante Hinweis der Kritik sein.
+254,"00:18:27,160","00:18:29,360",1107.16,1109.36,2.199999999999818,"ML: Aber die Kritik an der Empathie,"
+255,"00:18:29,400","00:18:32,440",1109.4,1112.44,3.0399999999999636,ich dachte immer das wäre Teil unserer Stärke.
+256,"00:18:32,480","00:18:37,200",1112.48,1117.2,4.720000000000027,"Wir streiten ist noch ein bisschen, das ist doch gut."
+257,"00:18:37,240","00:18:42,240",1117.24,1122.24,5.0,UP: Ich möchte diesen Satz ja nicht auf meinen Rücken tätowieren.
+258,"00:18:42,280","00:18:46,360",1122.28,1126.36,4.079999999999927,"Es geht darum, ich werte es nicht, sondern ich will verstehen,"
+259,"00:18:46,440","00:18:51,560",1126.44,1131.56,5.119999999999891,in welchem Kontext sagte es warum?
+260,"00:18:51,600","00:18:57,720",1131.6,1137.72,6.120000000000118,"Er ist erstens nicht blöd, er macht sich zweitens viele Gedanken,"
+261,"00:18:57,760","00:19:05,160",1137.76,1145.16,7.400000000000091,"deshalb möchte ich mich fragen, warum so etwas sagt."
+262,"00:19:10,960","00:19:13,280",1150.96,1153.28,2.3199999999999363,"Das würde ich ihn persönlich direkt fragen,"
+263,"00:19:13,320","00:19:16,800",1153.32,1156.8,3.480000000000018,und ich bin mir sicher die Antwort wäre interessant.
+264,"00:19:16,880","00:19:20,880",1156.88,1160.88,4.0,Der deutsche Diskurs ist sehr verurteilen.
+265,"00:19:20,920","00:19:26,400",1160.92,1166.4,5.480000000000018,"Faschist, Antidemokrat."
+266,"00:19:29,320","00:19:37,440",1169.32,1177.44,8.120000000000118,"ML: Tut er das nicht gerade, hundertfach tausendfach jeden Tag?"
+267,"00:19:45,400","00:19:46,960",1185.4,1186.96,1.5599999999999454,"Empathielos Leute rauszuwerfen,"
+268,"00:19:47,000","00:19:49,720",1187.0,1189.72,2.7200000000000273,in einer eigentlich gut funktionierenden
+269,"00:19:49,760","00:19:53,720",1189.76,1193.72,3.9600000000000364,amerikanischen Verwaltung?
+270,"00:19:53,760","00:19:56,920",1193.76,1196.92,3.160000000000082,"UP: Das hat natürlich drastische Konsequenzen,"
+271,"00:19:56,960","00:20:00,440",1196.96,1200.44,3.480000000000018,"ich glaube er hat bei Twitter 80 % rausgeworfen,"
+272,"00:20:00,480","00:20:07,520",1200.48,1207.52,7.039999999999964,trotzdem hat es die Performance nicht gestört.
+273,"00:20:09,600","00:20:13,960",1209.6,1213.96,4.360000000000127,"Und wir werden bei DOGE sehen,"
+274,"00:20:14,000","00:20:20,160",1214.0,1220.16,6.160000000000082,dass es auch effizient sein wird.
+275,"00:20:22,520","00:20:29,040",1222.52,1229.04,6.519999999999982,"CC: Wir lesen auch bei Hannah Arendt,"
+276,"00:20:40,280","00:20:42,480",1240.28,1242.48,2.2000000000000455,"wenn die Empathelosigkeit beginnt,"
+277,"00:20:42,520","00:20:45,680",1242.52,1245.68,3.160000000000082,dann beginnt der Verfall in den Autoritarismus.
+278,"00:20:45,720","00:20:48,720",1245.72,1248.72,3.0,Das sehen Sie auch in den Nürnberger Prozessen.
+279,"00:20:48,760","00:20:55,480",1248.76,1255.48,6.720000000000027,UP: Machen Sie jetzt einen Nazivergleich?
+280,"00:20:58,280","00:21:02,200",1258.28,1262.2,3.9200000000000728,"CC: Nein, sondern die Sache ist,"
+281,"00:21:02,240","00:21:05,480",1262.24,1265.48,3.240000000000009,"wenn Empathie so ausgenutzt werden soll,"
+282,"00:21:05,520","00:21:11,880",1265.52,1271.88,6.360000000000127,"sie hält unsere Demokratie zusammen,"
+283,"00:21:16,080","00:21:23,720",1276.08,1283.72,7.6400000000001,"Donald Trump und Milei sind gewählt worden, Musk nicht."
+284,"00:21:23,920","00:21:27,200",1283.92,1287.2,3.2799999999999727,"Da wo gerade ""aufgeräumt"" werden soll in den USA,"
+285,"00:21:27,240","00:21:33,480",1287.24,1293.48,6.240000000000009,das wird von den Wählern nicht gewollt.
+286,"00:21:33,520","00:21:39,200",1293.52,1299.2,5.680000000000064,Das sieht man in Umfragen.
+287,"00:21:43,360","00:21:51,080",1303.36,1311.08,7.720000000000027,"Zeigt, welche Macht gerade im Staatsapparat stattfindet."
+288,"00:21:59,040","00:22:05,240",1319.04,1325.24,6.2000000000000455,"ML: ""Die fundamentale Schwäche der westlichen Welt ist Empathie""."
+289,"00:22:05,280","00:22:12,080",1325.28,1332.08,6.7999999999999545,"""Ich habe kein Problem, gehasst zu werden""."
+290,"00:22:15,960","00:22:20,280",1335.96,1340.28,4.319999999999936,"Er meint, das ist eine echte Schwäche, gemocht wollen zu werden,"
+291,"00:22:20,320","00:22:23,600",1340.32,1343.6,3.2799999999999727,"das ist eine echte Schwäche, die habe ich nicht."
+292,"00:22:23,640","00:22:31,480",1343.64,1351.48,7.839999999999918,"SI: Ich glaube, ihm liegt nichts daran, gemocht zu werden,"
+293,"00:22:33,640","00:22:37,440",1353.64,1357.44,3.7999999999999545,"aber wenn man ihn dann nicht mag, dann geifert er zurück"
+294,"00:22:37,520","00:22:43,120",1357.52,1363.12,5.599999999999909,in einem ungeheuren Ton.
+295,"00:22:44,520","00:22:50,560",1364.52,1370.56,6.039999999999964,"Sie haben Twitter angesprochen,"
+296,"00:22:50,960","00:22:59,400",1370.96,1379.4,8.440000000000055,"dass es noch etwa ein Viertel von dem wert, was er damals bezahlt hat."
+297,"00:22:59,480","00:23:06,640",1379.48,1386.64,7.160000000000082,"Wenn er dann von der New York Times gefragt wird, Herr Musk,"
+298,"00:23:06,680","00:23:11,440",1386.68,1391.44,4.759999999999991,"was passiert, ihnen laufen die Werbekunden weg,"
+299,"00:23:11,520","00:23:16,520",1391.52,1396.52,5.0,und dann beleidigt er plötzlich seine eigenen Kunden.
+300,"00:23:16,560","00:23:23,200",1396.56,1403.2,6.6400000000001,"ML: Ein interessanter Moment, ich glaube wir haben das vorliegen."
+301,"00:24:19,400","00:24:23,080",1459.4,1463.08,3.6799999999998363,ML: Mit Worten meint er den Chef.
+302,"00:24:23,160","00:24:29,560",1463.16,1469.56,6.399999999999864,Können Sie den Kontext kurz erklären?
+303,"00:24:38,160","00:24:45,880",1478.16,1485.88,7.720000000000027,"SI: Ein paar Wochen vorher hat er einen tweet retweetet,"
+304,"00:24:53,040","00:24:59,560",1493.04,1499.56,6.519999999999982,dass die Juden Hass verbreiten würden.
+305,"00:25:07,960","00:25:12,760",1507.96,1512.76,4.7999999999999545,"Das hat einen Aufschrei verursacht, dann fuhr er nach Israel,"
+306,"00:25:12,840","00:25:15,640",1512.84,1515.64,2.800000000000182,"hat hat sich auf dieses Podium gesetzt,"
+307,"00:25:15,680","00:25:21,200",1515.68,1521.2,5.519999999999982,und sie loben ihn dafür.
+308,"00:25:25,360","00:25:29,320",1525.36,1529.32,3.9600000000000364,"Das erklärt, Herr Diess,"
+309,"00:25:29,400","00:25:36,320",1529.4,1536.32,6.919999999999845,dass sie die Marktwirtschaft nicht verstehen.
+310,"00:25:42,120","00:25:46,440",1542.12,1546.44,4.320000000000164,"Twitter ist quasi zur Toilettenwand der Öffentlichkeit verkommen,"
+311,"00:25:46,480","00:25:50,360",1546.48,1550.36,3.8799999999998818,wo jeder alles veröffentlichten darf.
+312,"00:25:50,400","00:25:56,680",1550.4,1556.68,6.279999999999973,"Wenn sie dann etwa der Chef von Disney sind,"
+313,"00:25:56,720","00:26:04,240",1556.72,1564.24,7.519999999999982,"und sich fragen, wo mache ich die Werbung für meine Kinderfilme,"
+314,"00:26:04,320","00:26:12,320",1564.32,1572.32,8.0,"wollen sie das da tun, wo die ganze Welt ihren Hass verbreitet?"
+315,"00:26:12,400","00:26:19,720",1572.4,1579.72,7.319999999999936,"Es geht ja noch weiter nach diesem Videoausschnitt,"
+316,"00:26:24,400","00:26:28,840",1584.4,1588.84,4.439999999999827,"Musk wirft seinen Werbekunden vor, dass diese verantwortlich wären,"
+317,"00:26:28,920","00:26:31,800",1588.92,1591.8,2.8799999999998818,wenn X pleite geht.
+318,"00:26:31,800","00:26:36,600",1591.8,1596.6,4.7999999999999545,"Und dann sagt er, dass der Erde."
+319,"00:26:36,600","00:26:39,120",1596.6,1599.12,2.519999999999982,So gut Marktwirtschaft nicht.
+320,"00:26:39,160","00:26:46,320",1599.16,1606.32,7.1599999999998545,"Wir sind der Herausgeber von mehreren Zeitungen,"
+321,"00:26:50,240","00:26:53,720",1610.24,1613.72,3.480000000000018,"Sie habe nicht das Recht, Herr Diess vorzuschreiben,"
+322,"00:26:53,760","00:26:55,720",1613.76,1615.72,1.9600000000000364,dass er bei Ihnen werben muss.
+323,"00:26:55,760","00:26:58,560",1615.76,1618.56,2.7999999999999545,"HS: Es gibt Dinge, die kann er gut,"
+324,"00:26:58,600","00:27:04,120",1618.6,1624.12,5.519999999999982,"dass es Raketen bauen, technische Zusammenhänge,"
+325,"00:27:04,200","00:27:05,920",1624.2,1625.92,1.7200000000000273,"aber dieses kommunikative,"
+326,"00:27:06,000","00:27:10,480",1626.0,1630.48,4.480000000000018,auch aufgrund einer persönlichen Befindlichkeiten sehr schwer fällt.
+327,"00:27:10,520","00:27:12,600",1630.52,1632.6,2.0799999999999272,Da wäre ich bei Ihnen.
+328,"00:27:12,640","00:27:16,760",1632.64,1636.76,4.119999999999891,Deswegen ist der Wert erst mal weg.
+329,"00:27:16,800","00:27:20,760",1636.8,1640.76,3.9600000000000364,"Es werden sich auch viele überlegen, ob wieder drauf bleiben."
+330,"00:27:20,800","00:27:24,560",1640.8,1644.56,3.759999999999991,Auch ein deutscher Bundeskanzler muss sich das überlegen.
+331,"00:27:24,600","00:27:27,600",1644.6,1647.6,3.0,ML: Ich muss einmal kurz was sagen.
+332,"00:27:27,640","00:27:31,120",1647.64,1651.12,3.479999999999791,"Damals waren das 150 Millionen, die Ihm gefolgt sind."
+333,"00:27:31,200","00:27:35,080",1651.2,1655.08,3.8799999999998818,Heute sind es 220.
+334,"00:27:35,120","00:27:39,480",1655.12,1659.48,4.360000000000127,Jeden Tag kommen 140.000 neu dazu.
+335,"00:27:39,560","00:27:47,840",1659.56,1667.84,8.279999999999973,"SI: Es ist übrigens auch nicht richtig, dass er da alles zulässt."
+336,"00:27:49,320","00:27:53,680",1669.32,1673.68,4.360000000000127,Dann wird man geghostet das mit der Meinungsfreiheit meint er.
+337,"00:27:53,720","00:27:59,800",1673.72,1679.8,6.079999999999927,Sein eigener Content wird hervorgehoben.
+338,"00:27:59,840","00:28:04,000",1679.84,1684.0,4.160000000000082,"ML: Hat Ulf Poschardt dann nicht das Argument auf seiner Seite,"
+339,"00:28:04,040","00:28:07,040",1684.04,1687.04,3.0,"wenn er sagt, dass es wahre innere Freiheit."
+340,"00:28:07,120","00:28:14,800",1687.12,1694.8,7.680000000000064,"Wenn einer sagt, ich lass mich nicht von euch ergriffen."
+341,"00:28:14,840","00:28:18,520",1694.84,1698.52,3.6800000000000637,UP: Er ist recht komplex.
+342,"00:28:18,560","00:28:20,160",1698.56,1700.16,1.6000000000001364,"Es gibt viele Schichten,"
+343,"00:28:20,240","00:28:24,120",1700.24,1704.12,3.8799999999998818,wenn man mit ihm spricht oder einen Podcast mit ihm hörte.
+344,"00:28:24,160","00:28:25,520",1704.16,1705.52,1.3599999999999,Er arbeitet das Ziel.
+345,"00:28:25,560","00:28:29,440",1705.56,1709.44,3.880000000000109,"Manche Dinge, da ist er ganz einfach."
+346,"00:28:29,480","00:28:31,400",1709.48,1711.4,1.9200000000000728,"Und das ist so ein Moment,"
+347,"00:28:31,480","00:28:36,520",1711.48,1716.52,5.039999999999964,"er sagt ihr wollt mich mit Geld erpressen,"
+348,"00:28:36,560","00:28:40,560",1716.56,1720.56,4.0,dann er auch sein Bankkonto.
+349,"00:28:42,000","00:28:47,720",1722.0,1727.72,5.720000000000027,"Die radikale Unabhängigkeit von jemandem,"
+350,"00:28:47,760","00:28:49,840",1727.76,1729.84,2.0799999999999272,"der so ein Medium hat zu sagen,"
+351,"00:28:49,920","00:28:53,600",1729.92,1733.6,3.6799999999998363,die er dann halt nicht.
+352,"00:28:53,680","00:28:57,160",1733.68,1737.16,3.480000000000018,"Er riskiert ja auch mit dem Donald Trump-Engagement,"
+353,"00:28:57,200","00:29:02,080",1737.2,1742.08,4.879999999999882,"egal wie man das findet,"
+354,"00:29:02,160","00:29:09,280",1742.16,1749.28,7.119999999999891,die Tesla Zahlen gehen ja auch dramatisch unter.
+355,"00:29:19,440","00:29:23,040",1759.44,1763.04,3.599999999999909,"Deshalb verstehe ich nicht, warum die linksliberalen,"
+356,"00:29:23,080","00:29:28,080",1763.08,1768.08,5.0,"wieso du dir nicht sagen, dass er..."
+357,"00:29:28,160","00:29:31,840",1768.16,1771.84,3.6799999999998363,"Bei ihm ist doch klar, dass der Kunden in Amerika kennt,"
+358,"00:29:31,880","00:29:33,760",1771.88,1773.76,1.8799999999998818,da sind viele Liberale dabei.
+359,"00:29:33,840","00:29:36,280",1773.84,1776.28,2.4400000000000546,ML: Vor allem in Kalifornien.
+360,"00:29:36,320","00:29:41,920",1776.32,1781.92,5.600000000000136,UP: Aber auch in New York.
+361,"00:29:42,000","00:29:49,720",1782.0,1789.72,7.720000000000027,"Ein früherer Freund von mir, er hat natürlich einen Tesla."
+362,"00:29:54,480","00:30:00,280",1794.48,1800.28,5.7999999999999545,"Da haben wir mal Witze gemacht, du liebst Tesla"
+363,"00:30:00,360","00:30:05,000",1800.36,1805.0,4.6400000000001,"und hasst Elon Musk, und ich hasse Tesla und liebe Elon Musk."
+364,"00:30:05,040","00:30:10,360",1805.04,1810.36,5.319999999999936,Ich glaube für ihn ist es ein Empathiepopulismus.
+365,"00:30:10,440","00:30:12,760",1810.44,1812.76,2.3199999999999363,"Vielleicht lästern wir Konflikte zu,"
+366,"00:30:12,840","00:30:16,160",1812.84,1816.16,3.3200000000001637,vielleicht müssen wir uns längere Schärfe angucken.
+367,"00:30:16,240","00:30:17,920",1816.24,1817.92,1.6800000000000637,"Vielleicht macht es Sinn,"
+368,"00:30:17,960","00:30:21,240",1817.96,1821.24,3.2799999999999727,"wenn man den amerikanischen Wahlkampf gesehen hat,"
+369,"00:30:21,280","00:30:24,240",1821.28,1824.24,2.9600000000000364,"dass diese verlogene Empathie nicht ist,"
+370,"00:30:24,320","00:30:26,840",1824.32,1826.84,2.519999999999982,auf die man sich etwas einbilden kann.
+371,"00:30:26,920","00:30:29,920",1826.92,1829.92,3.0,Vielleicht ist der Verfall etwas ganz anderes.
+372,"00:30:30,000","00:30:33,040",1830.0,1833.04,3.0399999999999636,"Ich glaube, es geht um solche Fragen."
+373,"00:30:33,080","00:30:38,880",1833.08,1838.88,5.800000000000182,"CC: Wenn das der Fall wäre,"
+374,"00:30:43,000","00:30:46,720",1843.0,1846.72,3.7200000000000273,dann gäbe es vielleicht keine wahnsinnigen Eingriffe in die
+375,"00:30:46,800","00:30:50,640",1846.8,1850.64,3.8400000000001455,"Naturwissenschaft,"
+376,"00:30:50,720","00:30:53,240",1850.72,1853.24,2.519999999999982,keinen Abbau und Rückbau der natürlichen Freiheiten.
+377,"00:30:53,320","00:30:57,960",1853.32,1857.96,4.6400000000001,"UP: Naja, die Antisemiten zu begrenzen ist ja eigentlich"
+378,"00:30:58,000","00:31:00,400",1858.0,1860.4,2.400000000000091,eine gute Sache an den Universitäten.
+379,"00:31:00,480","00:31:04,280",1860.48,1864.28,3.7999999999999545,CC: Das muss man in dem Universitätskontext lösen mussten.
+380,"00:31:04,360","00:31:08,480",1864.36,1868.48,4.120000000000118,"Schauen Sie sich diese ganzen Fragen an, wo wirklich gearbeitet"
+381,"00:31:08,560","00:31:11,360",1868.56,1871.36,2.7999999999999545,werden muss an den Meinungen der Studenten.
+382,"00:31:11,480","00:31:13,960",1871.48,1873.96,2.480000000000018,"Das muss man in diesem Kontext lassen,"
+383,"00:31:14,040","00:31:16,080",1874.04,1876.08,2.0399999999999636,dass ein Staat nichts zu suchen.
+384,"00:31:16,160","00:31:18,880",1876.16,1878.88,2.7200000000000273,"Wenn es wahre Meinungsfreiheit sein soll,"
+385,"00:31:18,960","00:31:22,640",1878.96,1882.64,3.6800000000000637,dann darf es keine Umschichtung und um Gewichtung geben.
+386,"00:31:22,680","00:31:26,200",1882.68,1886.2,3.519999999999982,"UP: Es keinem Meinungsstreit, wenn jüdische Studenten"
+387,"00:31:26,280","00:31:31,760",1886.28,1891.76,5.480000000000018,sich verstecken müssen.
+388,"00:31:38,400","00:31:42,160",1898.4,1902.16,3.759999999999991,"CC: Das sind Verschleierungstaktiken,"
+389,"00:31:42,240","00:31:45,760",1902.24,1905.76,3.519999999999982,"die etwas suggerieren, was sich in der Tat abspielt."
+390,"00:31:45,840","00:31:51,960",1905.84,1911.96,6.120000000000118,Und zwar eine Einschränkung der Meinungsfreiheit in der USA.
+391,"00:31:52,040","00:31:53,440",1912.04,1913.44,1.400000000000091,"HD: Ich glaube schon,"
+392,"00:31:53,480","00:31:57,920",1913.48,1917.92,4.440000000000055,dass die USA sich jetzt einfach entfernen von unserem Weltbild.
+393,"00:31:57,960","00:32:01,160",1917.96,1921.16,3.2000000000000455,"Von unserem Verstandes von Demokratie Offenheit,"
+394,"00:32:01,240","00:32:02,920",1921.24,1922.92,1.6800000000000637,Toleranz der Gesellschaft.
+395,"00:32:02,960","00:32:07,240",1922.96,1927.24,4.279999999999973,"Man kann beobachten, dass es ja nicht unser Gestaltungsspielraum."
+396,"00:32:07,320","00:32:11,160",1927.32,1931.16,3.8400000000001455,"Wir haben keinen Einfluss darauf, wir müssen das hinnehmen."
+397,"00:32:11,240","00:32:14,440",1931.24,1934.44,3.2000000000000455,Ich glaube das dass wir uns eher eine Chance ist.
+398,"00:32:14,520","00:32:22,160",1934.52,1942.16,7.6400000000001,"Wir müssen das nicht aufgeben, was dort aufgegeben wird."
+399,"00:32:22,640","00:32:25,000",1942.64,1945.0,2.3599999999999,Amerika macht sich mit der Politik
+400,"00:32:25,040","00:32:28,640",1945.04,1948.64,3.6000000000001364,sich selber in den Vordergrund zu spielen viele Feinde.
+401,"00:32:28,720","00:32:32,080",1948.72,1952.08,3.3599999999999,Ich sehe das auch...
+402,"00:32:32,160","00:32:35,880",1952.16,1955.88,3.7200000000000273,"Natürlich kann man das moralisch bewerten, was passiert,"
+403,"00:32:35,960","00:32:37,760",1955.96,1957.76,1.7999999999999545,man kann sich Sorgen machen.
+404,"00:32:37,800","00:32:43,120",1957.8,1963.12,5.319999999999936,Letztlich ist es aber eine Chance für Europa.
+405,"00:32:43,160","00:32:47,560",1963.16,1967.56,4.399999999999864,Wir werden ja nicht
+406,"00:32:47,640","00:32:52,080",1967.64,1972.08,4.439999999999827,"von Twitter beeinflusst, wir können es einfach abschalten."
+407,"00:32:52,160","00:32:57,320",1972.16,1977.32,5.1599999999998545,ML: Mich würde noch mal die Frage der Meinungsfreiheit interessieren.
+408,"00:32:57,400","00:33:02,800",1977.4,1982.8,5.399999999999864,"Wie sehen Sie das, Herr Iwersen."
+409,"00:33:02,840","00:33:06,880",1982.84,1986.88,4.040000000000191,"Werden Rüdiger Bachmann hier, den kennen Sie sicherlich auch."
+410,"00:33:06,920","00:33:09,400",1986.92,1989.4,2.480000000000018,Er lehrt seit einiger Zeit in den USA.
+411,"00:33:09,480","00:33:14,080",1989.48,1994.08,4.599999999999909,"Er sagt, der kommt gerade ich etwas unter die Räder."
+412,"00:33:14,120","00:33:16,640",1994.12,1996.64,2.520000000000209,"Er macht sich auch Sorgen darüber,"
+413,"00:33:16,680","00:33:19,840",1996.68,1999.84,3.1599999999998545,"dass Leute, die mit Statistik beschäftigt sind,"
+414,"00:33:19,920","00:33:21,960",1999.92,2001.96,2.0399999999999636,dass sie rausgeschmissen werden
+415,"00:33:22,040","00:33:24,720",2002.04,2004.72,2.6800000000000637,"und man nicht mehr verlässlich sagen kann,"
+416,"00:33:24,800","00:33:30,920",2004.8,2010.92,6.120000000000118,gibt es in Amerika eine Inflation oder nicht.
+417,"00:33:31,000","00:33:34,520",2011.0,2014.52,3.519999999999982,Es gibt ja das zentrale Wahlversprechen die Inflation
+418,"00:33:34,600","00:33:37,800",2014.6,2017.8,3.2000000000000455,runter zu bringen.
+419,"00:33:37,880","00:33:40,400",2017.88,2020.4,2.519999999999982,"Wenn du das nicht mehr belegen kannst,"
+420,"00:33:40,480","00:33:45,960",2020.48,2025.96,5.480000000000018,dann kannst das ja gar nicht mehr beweisen.
+421,"00:33:46,000","00:33:49,360",2026.0,2029.36,3.3599999999999,Denn der musste ja gar nicht mehr Forschungsgelder
+422,"00:33:49,400","00:33:52,280",2029.4,2032.28,2.8799999999998818,für zum Beispiel eine Vogelgrippe freigeben.
+423,"00:33:52,360","00:33:56,160",2032.36,2036.16,3.800000000000182,So kann man das in Amerika gerade an vielen Stellen sehen.
+424,"00:33:56,240","00:33:58,560",2036.24,2038.56,2.3199999999999363,"Du hast Eierpreise bei zwölf Dollar,"
+425,"00:33:58,640","00:34:03,160",2038.64,2043.16,4.519999999999982,"hast aber niemanden, der etwas gegen die Vogelgrippe unternehmen kann."
+426,"00:34:03,240","00:34:04,400",2043.24,2044.4,1.1600000000000819,"Das ist das Thema,"
+427,"00:34:04,480","00:34:07,560",2044.48,2047.56,3.0799999999999272,was viele Amerikaner in der Wissenschaft bewegt.
+428,"00:34:07,640","00:34:12,040",2047.64,2052.04,4.399999999999864,"SI: Absolut, ich glaube, dass man bei all dem nicht vergessen darf,"
+429,"00:34:12,080","00:34:16,520",2052.08,2056.52,4.440000000000055,warum Elon Musk das überhaupt getan hat.
+430,"00:34:16,560","00:34:22,360",2056.56,2062.36,5.800000000000182,"Er die letzten 20 Jahre behauptet, Politik ist nicht meins."
+431,"00:34:22,440","00:34:25,360",2062.44,2065.36,2.9200000000000728,Er war er demokratisch...
+432,"00:34:25,400","00:34:31,200",2065.4,2071.2,5.799999999999727,ML: Er hatte Job beiden unterstützt.
+433,"00:34:31,240","00:34:35,440",2071.24,2075.44,4.200000000000273,SI: Bis er dann 2024 auf die republikanische Seite gegangen ist.
+434,"00:34:35,520","00:34:37,120",2075.52,2077.12,1.599999999999909,Aber warum Herr Iwersen?
+435,"00:34:37,200","00:34:43,120",2077.2,2083.12,5.920000000000073,Können Sie das bitte erklären.
+436,"00:34:45,720","00:34:51,080",2085.72,2091.08,5.360000000000127,"SI: Er hat gesagt, ich habe gar nicht gemocht zu werden."
+437,"00:34:51,160","00:34:54,600",2091.16,2094.6,3.4400000000000546,"Aber als er Joe Biden nicht eingeladen hat,"
+438,"00:34:54,680","00:34:59,800",2094.68,2099.8,5.120000000000346,hat er monatelang getobt.
+439,"00:34:59,880","00:35:05,000",2099.88,2105.0,5.119999999999891,"Vor 2016 hat er gesagt, das wäre peinlich."
+440,"00:35:05,080","00:35:08,000",2105.08,2108.0,2.9200000000000728,"Wenn Donald Trump gewinnt, das wäre peinlich."
+441,"00:35:08,040","00:35:10,520",2108.04,2110.52,2.480000000000018,"Da hat er nach dem 6. Januar gesagt,"
+442,"00:35:10,600","00:35:17,440",2110.6,2117.44,6.8400000000001455,"geh mal weg, geh mal in den Sonnenuntergang."
+443,"00:35:27,000","00:35:30,200",2127.0,2130.2,3.199999999999818,"2024, am Anfang sagt er, Di Santos der richtige."
+444,"00:35:30,240","00:35:32,720",2130.24,2132.72,2.480000000000018,Dann gab es das Bild von Donald Trump
+445,"00:35:32,800","00:35:35,600",2132.8,2135.6,2.799999999999727,mit dem blutverschmierten Bild.
+446,"00:35:35,680","00:35:39,920",2135.68,2139.92,4.2400000000002365,"Erst dann meinte er, dass ist der richtige."
+447,"00:35:40,000","00:35:46,520",2140.0,2146.52,6.519999999999982,"Es gibt außerdem das Video, wo er sagt,"
+448,"00:35:56,200","00:36:02,920",2156.2,2162.92,6.720000000000255,"wenn er verliert, dann bin ich geliefert."
+449,"00:36:16,080","00:36:18,480",2176.08,2178.48,2.400000000000091,"SI: Dann machen Sie die Witze darum,"
+450,"00:36:18,560","00:36:22,600",2178.56,2182.6,4.039999999999964,wieso er nicht auf die Idee kommt Kamala Harris zu erschießen.
+451,"00:36:22,680","00:36:29,040",2182.68,2189.04,6.360000000000127,Es gab mehrere Untersuchungen bei Tesla.
+452,"00:36:29,040","00:36:31,600",2189.04,2191.6,2.5599999999999454,Bei SpaceX wegen Arbeitsschutzmaßnahmen.
+453,"00:36:31,680","00:36:35,360",2191.68,2195.36,3.680000000000291,Die Schlinge wurde immer enger.
+454,"00:36:35,480","00:36:40,960",2195.48,2200.96,5.480000000000018,"Dann hat er gesagt, ich ändere einfach die Regel."
+455,"00:36:41,040","00:36:44,520",2201.04,2204.52,3.480000000000018,Ich nehme jetzt eine viertel Milliarde Dollar.
+456,"00:36:44,600","00:36:50,200",2204.6,2210.2,5.599999999999909,"Stecke die in einen Mann,"
+457,"00:36:50,440","00:36:55,400",2210.44,2215.4,4.960000000000036,"dann geht er während dem Wahlkampf auf die Bühne,"
+458,"00:36:55,480","00:37:03,560",2215.48,2223.56,8.079999999999927,führt selbst das Interview mit einem Präsidentschaftskandidaten.
+459,"00:37:03,640","00:37:04,960",2223.64,2224.96,1.3200000000001637,"Dort schlägt er vor,"
+460,"00:37:05,040","00:37:09,120",2225.04,2229.12,4.079999999999927,eine Behörde für Sparmaßnahmen und Effizienz anzuführen.
+461,"00:37:09,200","00:37:14,080",2229.2,2234.08,4.880000000000109,ML: Da bringt er sich dann selber ins Spiel.
+462,"00:37:14,120","00:37:17,560",2234.12,2237.56,3.4400000000000546,"SI: Dann wird Deutschland zwei Tage später gefragt,"
+463,"00:37:17,600","00:37:22,360",2237.6,2242.36,4.760000000000218,soll er das wirklich machen?
+464,"00:37:22,440","00:37:25,640",2242.44,2245.64,3.199999999999818,"Er meinte, er will das nicht im Kabinett machen,"
+465,"00:37:25,680","00:37:27,440",2245.68,2247.44,1.7600000000002183,er will das nur zu machen.
+466,"00:37:27,520","00:37:29,760",2247.52,2249.76,2.2400000000002365,"Und jetzt ist er in einer Position,"
+467,"00:37:29,840","00:37:33,240",2249.84,2253.24,3.399999999999636,"bei der er genau die Behörden beschneiden kann, die"
+468,"00:37:33,320","00:37:35,000",2253.32,2255.0,1.6799999999998363,ihn kontrollieren können.
+469,"00:37:35,040","00:37:36,560",2255.04,2256.56,1.5199999999999818,CC: Und das tut er auch.
+470,"00:37:36,640","00:37:41,360",2256.64,2261.36,4.720000000000255,"SI: Genau, das kann er auch tun."
+471,"00:37:41,440","00:37:45,240",2261.44,2265.24,3.799999999999727,"Der Chef der Börsenaufsicht,"
+472,"00:37:45,320","00:37:49,040",2265.32,2269.04,3.7199999999998,"Elon Musk wird vorgeworfen Kursmanipulation zu betreiben,"
+473,"00:37:49,120","00:37:55,720",2269.12,2275.72,6.599999999999909,"weil er ständig Sachen verspricht, die nicht aufgehen."
+474,"00:37:55,800","00:37:59,000",2275.8,2279.0,3.199999999999818,"Er muss weg, der muss weg, der muss weg..."
+475,"00:37:59,080","00:38:06,400",2279.08,2286.4,7.320000000000164,Dann gewinnt Donald die Wahl und diese Leute gehen.
+476,"00:38:07,600","00:38:12,320",2287.6,2292.32,4.720000000000255,"Das perfideste an der ganzen Sache ist,"
+477,"00:38:12,400","00:38:16,360",2292.4,2296.36,3.9600000000000364,wenn diese Kürzungen jetzt passieren und Leute sind betroffen
+478,"00:38:16,440","00:38:18,520",2296.44,2298.52,2.0799999999999272,"und wollen sich dagegen wehren,"
+479,"00:38:18,600","00:38:22,600",2298.6,2302.6,4.0,"den vor Gericht und möchten Elon Musk vorladen um zu wissen,"
+480,"00:38:22,680","00:38:25,280",2302.68,2305.28,2.600000000000364,"was sie pariert, dann sagen die Anwälte,"
+481,"00:38:25,360","00:38:31,000",2305.36,2311.0,5.639999999999873,was hat er denn damit zu tun.
+482,"00:38:31,040","00:38:34,320",2311.04,2314.32,3.2800000000002,"Wenn mal ein Papierstück wo drauf steht,"
+483,"00:38:34,400","00:38:37,080",2314.4,2317.08,2.6799999999998363,dass Elon Musk dafür verantwortlich ist.
+484,"00:38:37,160","00:38:40,040",2317.16,2320.04,2.880000000000109,Was ist das für eine Situation?
+485,"00:38:40,120","00:38:41,600",2320.12,2321.6,1.4800000000000182,"ML: Wer identifiziert,"
+486,"00:38:41,680","00:38:44,640",2321.68,2324.64,2.9600000000000364,wer rausgeschmissen werden kann und wer nicht?
+487,"00:38:44,720","00:38:50,200",2324.72,2330.2,5.480000000000018,Wie albern diese Leute?
+488,"00:38:51,080","00:38:56,200",2331.08,2336.2,5.119999999999891,CC: Diese Leute sind zwischen 19 und 26.
+489,"00:38:56,280","00:39:04,120",2336.28,2344.12,7.839999999999691,Die haben wenig Verständnis von bürokratischen Vorgehen. Es
+490,"00:39:16,200","00:39:20,280",2356.2,2360.28,4.080000000000382,"Der Chef hat gesagt, mir fliegen die Flugzeuge um die Ohren."
+491,"00:39:20,320","00:39:22,400",2360.32,2362.4,2.0799999999999272,Es gab fünf große Flugabstürze.
+492,"00:39:22,480","00:39:27,600",2362.48,2367.6,5.119999999999891,Die Behörde fehlt.
+493,"00:39:28,360","00:39:30,760",2368.36,2370.76,2.400000000000091,"Da die New York Times ausgerichtet,"
+494,"00:39:30,840","00:39:32,680",2370.84,2372.68,1.8399999999996908,"was den Steuerzahler kostet,"
+495,"00:39:32,800","00:39:37,040",2372.8,2377.04,4.239999999999782,wenn Flugaufsichtsbehörden E-Mails schreiben anstatt zu arbeiten.
+496,"00:39:37,120","00:39:40,800",2377.12,2380.8,3.680000000000291,Das hat wenig mit Effizienz zu tun.
+497,"00:39:40,880","00:39:45,320",2380.88,2385.32,4.440000000000055,"Und diese jungen Haecker, die dieses System auseinandernehmen sollen,"
+498,"00:39:45,440","00:39:48,440",2385.44,2388.44,3.0,die stoßen natürlich in so manche Fehlerquelle.
+499,"00:39:48,520","00:39:52,120",2388.52,2392.12,3.599999999999909,"Das sehen wir in der Krebsforschung,"
+500,"00:39:52,200","00:39:56,040",2392.2,2396.04,3.8400000000001455,"bei der Alzheimerforschung, da passiert faktisch gar nicht."
+501,"00:39:56,120","00:39:58,360",2396.12,2398.36,2.2400000000002365,"Aber eben auch bei der Vogelgrippe,"
+502,"00:39:58,440","00:40:03,680",2398.44,2403.68,5.239999999999782,da muss Netz zum Teil auch große Kuhherden geschlachtet werden.
+503,"00:40:03,800","00:40:07,880",2403.8,2407.88,4.079999999999927,"Die Landwirte klagen, das hängt also alles miteinander zusammen"
+504,"00:40:08,000","00:40:14,120",2408.0,2414.12,6.119999999999891,in einem extrem komplexen System.
+505,"00:40:17,520","00:40:21,360",2417.52,2421.36,3.8400000000001455,"Und, aber, dass es auch der richtige Punkt."
+506,"00:40:21,440","00:40:23,880",2421.44,2423.88,2.4400000000000546,"Wir sehen, es gibt hunderte Verträge,"
+507,"00:40:23,960","00:40:25,960",2423.96,2425.96,2.0,die gehören faktisch Elon Musk.
+508,"00:40:26,040","00:40:30,120",2426.04,2430.12,4.079999999999927,"Es hatte alle Daten, auch die von der Konkurrenz."
+509,"00:40:30,200","00:40:36,520",2430.2,2436.52,6.320000000000164,"Die haben zum Beispiel Verträge mit dem amerikanischen Staat,"
+510,"00:40:36,600","00:40:42,840",2436.6,2442.84,6.2400000000002365,beispielsweise die von Jeff Bezos.
+511,"00:40:50,480","00:40:57,640",2450.48,2457.64,7.1599999999998545,"24 Prozesse, die gegen seine Unternehmen gehen."
+512,"00:40:59,600","00:41:04,040",2459.6,2464.04,4.440000000000055,ML: Ich würde gerne Ulf Poschardt zum Thema Meinungsfreiheit fragen.
+513,"00:41:04,120","00:41:09,880",2464.12,2469.88,5.760000000000218,Wir haben damals das Stück von Elon Musk abgedruckt.
+514,"00:41:09,960","00:41:11,200",2469.96,2471.2,1.2399999999997817,"Sie meinten,"
+515,"00:41:11,240","00:41:15,040",2471.24,2475.04,3.800000000000182,erst offensichtlich nicht richtig über die AfD informiert.
+516,"00:41:15,120","00:41:19,120",2475.12,2479.12,4.0,"Ich finde es richtig, dass Sie diese gleitende Haltung haben."
+517,"00:41:19,200","00:41:22,200",2479.2,2482.2,3.0,Dennoch haben Sie dieses Stück veröffentlicht.
+518,"00:41:22,280","00:41:24,000",2482.28,2484.0,1.7199999999998,Würden Sie das wieder tun?
+519,"00:41:24,080","00:41:30,680",2484.08,2490.68,6.599999999999909,"Auch wenn das auf einer technisch theoretischen Ebene reizvoll ist,"
+520,"00:41:30,800","00:41:35,560",2490.8,2495.56,4.7599999999997635,"was der denkt, was er glaubt, dass würde mich interessieren."
+521,"00:41:35,640","00:41:38,520",2495.64,2498.52,2.880000000000109,"Dennoch klarer Wahlkampfhilfe für den Punkt,"
+522,"00:41:38,600","00:41:40,120",2498.6,2500.12,1.5199999999999818,würden Wir das noch mal machen?
+523,"00:41:45,720","00:41:46,720",2505.72,2506.72,1.0,UP: Ja.
+524,"00:41:46,760","00:41:51,720",2506.76,2511.72,4.959999999999582,Und warum?
+525,"00:41:55,280","00:41:58,960",2515.28,2518.96,3.6799999999998363,"Die Geschichte ist jetzt öde, für uns als Journalisten"
+526,"00:41:59,000","00:42:04,800",2519.0,2524.8,5.800000000000182,aber vielleicht interessant.
+527,"00:42:06,560","00:42:15,080",2526.56,2535.08,8.519999999999982,ML: Eine ganze Zeit lang fanden sehr viele Menschen ihn inspirierend.
+528,"00:42:18,440","00:42:21,720",2538.44,2541.72,3.2799999999997453,"UP: Als er geschrieben hat, nur die AfD könne Deutschland retten,"
+529,"00:42:21,800","00:42:28,280",2541.8,2548.28,6.480000000000018,"habe ich geschrieben, was für ein Schwachsinn das ist."
+530,"00:42:28,320","00:42:30,280",2548.32,2550.28,1.9600000000000364,Aber ich glaube für ihn steht die AfD
+531,"00:42:30,320","00:42:37,080",2550.32,2557.08,6.7599999999997635,als die größtmögliche Destruktion im deutschen Wahlkampf.
+532,"00:42:37,120","00:42:42,680",2557.12,2562.68,5.559999999999945,Ich habe im Leitartikel deutlich gemacht: Unsinn.
+533,"00:42:42,760","00:42:49,000",2562.76,2569.0,6.239999999999782,"Aber wie kommt er denn darauf, abzudrucken,"
+534,"00:42:49,040","00:42:53,800",2569.04,2573.8,4.760000000000218,"nebenbei, von meinem Nachfolger gut eingeordnet, warum es nicht so ist,"
+535,"00:42:53,840","00:42:57,200",2573.84,2577.2,3.3599999999996726,aber dieser tweet wurde rauf und runter diskutiert.
+536,"00:42:57,240","00:43:00,440",2577.24,2580.44,3.200000000000273,Was steckt dahinter?
+537,"00:43:00,480","00:43:07,520",2580.48,2587.52,7.039999999999964,"Ein brillanter Aufsatz war sein Beitrag nicht,"
+538,"00:43:07,920","00:43:10,960",2587.92,2590.96,3.0399999999999636,"es gab eigentlich keine Durchdringung dessen,"
+539,"00:43:11,040","00:43:15,360",2591.04,2595.36,4.320000000000164,wofür die AfD steht.
+540,"00:43:15,400","00:43:21,720",2595.4,2601.72,6.319999999999709,ML: Aber warum führt man dann kein kritisches Interview mit ihm?
+541,"00:43:21,800","00:43:25,880",2601.8,2605.88,4.079999999999927,"UP: Wir hatten mehrere Interviews mit ihm, in dem Fall,"
+542,"00:43:25,920","00:43:30,240",2605.92,2610.24,4.319999999999709,"das war so ein Text, ich freue mich, dass wir es hatten,"
+543,"00:43:30,280","00:43:38,960",2610.28,2618.96,8.679999999999836,"freue mich über die Diskussion, die wir für drei Wochen überall hatten,"
+544,"00:43:45,360","00:43:48,440",2625.36,2628.44,3.0799999999999272,ich glaube auch da ein interessantes Phänomen.
+545,"00:43:48,480","00:43:54,080",2628.48,2634.08,5.599999999999909,Das war ein im Wahlkampf.
+546,"00:44:07,800","00:44:09,280",2647.8,2649.28,1.4800000000000182,"Ich kenne keinen CEO,"
+547,"00:44:09,320","00:44:15,880",2649.32,2655.88,6.559999999999945,der keine Sympathien für ein DOGE in Brüssel hätte.
+548,"00:44:15,920","00:44:23,200",2655.92,2663.2,7.279999999999745,"Ich finde es so witzig, das ist ein Gastbeitrag..."
+549,"00:44:30,480","00:44:35,080",2670.48,2675.08,4.599999999999909,"ML: England im vergangenen Juni, ins Southport, bringt ein junger Mann"
+550,"00:44:35,120","00:44:41,000",2675.12,2681.0,5.880000000000109,Mädchen in der Tanzgruppe um.
+551,"00:44:41,560","00:44:45,400",2681.56,2685.4,3.8400000000001455,"Da wurde dann hier sofort Stimmung gemacht worden,"
+552,"00:44:45,440","00:44:50,400",2685.44,2690.4,4.960000000000036,"er sei Muslim,"
+553,"00:44:53,040","00:44:56,280",2693.04,2696.28,3.2400000000002365,"aber später kam heraus, er ist gebürtiger Brite,"
+554,"00:44:56,320","00:45:01,680",2696.32,2701.68,5.359999999999673,geboren von christlichen afrikanischen Einwanderern.
+555,"00:45:01,760","00:45:07,320",2701.76,2707.32,5.559999999999945,Also alle Punkte falsch.
+556,"00:45:14,800","00:45:20,840",2714.8,2720.84,6.039999999999964,Und Elon Musk schreibt darüber.
+557,"00:45:25,080","00:45:28,080",2725.08,2728.08,3.0,"es brennen Moscheen, es werden Asylbewerber angegriffen,"
+558,"00:45:28,120","00:45:30,960",2728.12,2730.96,2.8400000000001455,"die Polizei wurde massiv angegriffen,"
+559,"00:45:31,000","00:45:38,800",2731.0,2738.8,7.800000000000182,"und Elon Musk schreibt, der Bürgerkrieg sei unvermeidlich."
+560,"00:45:48,640","00:45:57,440",2748.64,2757.44,8.800000000000182,Und der Vorwurf es wäre härter gegen Weiße als gegen Muslime vorgegangen.
+561,"00:45:58,120","00:45:59,400",2758.12,2759.4,1.2800000000002,"Und dann Magdeburg,"
+562,"00:45:59,440","00:46:03,120",2759.44,2763.12,3.6799999999998363,"da wird gesagt, es sei wieder ein muslimischer Anschlag,"
+563,"00:46:03,200","00:46:09,680",2763.2,2769.68,6.480000000000018,"später kam raus, es war etwas völlig anderes,"
+564,"00:46:09,720","00:46:16,080",2769.72,2776.08,6.360000000000127,"aber Elon Musk nennt Olaf Scholz sofort einen Narren,"
+565,"00:46:16,160","00:46:21,360",2776.16,2781.36,5.200000000000273,"das hat sich dann beruhigt, aber er nicht."
+566,"00:46:21,400","00:46:26,200",2781.4,2786.2,4.799999999999727,"Er sagt, die Systemmedien Lügen weiter."
+567,"00:46:26,320","00:46:33,680",2786.32,2793.68,7.359999999999673,"Das widerspricht jedem journalistischen Verständnis,"
+568,"00:46:35,640","00:46:38,960",2795.64,2798.96,3.3200000000001637,"können wir mit einem Medium wie X so weitermachen,"
+569,"00:46:39,000","00:46:40,840",2799.0,2800.84,1.8400000000001455,"dass es nicht editiert wird,"
+570,"00:46:40,880","00:46:46,280",2800.88,2806.28,5.400000000000091,"bei ihnen kann ich alles lesen, sollten wir so weitermachen?"
+571,"00:46:46,360","00:46:52,360",2806.36,2812.36,6.0,"Sollte jemand wie dieser Macht,"
+572,"00:46:55,320","00:47:02,600",2815.32,2822.6,7.279999999999745,"auf Ihrer Plattform, wie viele haben das gelesen,"
+573,"00:47:02,960","00:47:06,720",2822.96,2826.72,3.7599999999997635,das ist weit entfernt von 220 Millionen Nutzern.
+574,"00:47:06,800","00:47:11,000",2826.8,2831.0,4.199999999999818,Muss man eine solche Plattform nicht redigieren?
+575,"00:47:11,080","00:47:15,880",2831.08,2835.88,4.800000000000182,UP: Die Diskussion ist nicht geführt worden.
+576,"00:47:15,920","00:47:23,480",2835.92,2843.48,7.559999999999945,ML: Das was ich gerade vorgetragen hab Herr Poschardt.
+577,"00:47:24,280","00:47:27,480",2844.28,2847.48,3.199999999999818,"UP: Die Frage ist, wollen wir eine Regulierung,"
+578,"00:47:27,520","00:47:30,920",2847.52,2850.92,3.400000000000091,wenn wir das nicht wollen...
+579,"00:47:30,960","00:47:35,400",2850.96,2855.4,4.440000000000055,"ML: Diese beiden Beispiele, nehmen Sie doch mal."
+580,"00:47:35,480","00:47:39,040",2855.48,2859.04,3.5599999999999454,"UP: Wenn man über die etablierten Systemmedien redet,"
+581,"00:47:39,080","00:47:44,000",2859.08,2864.0,4.920000000000073,"natürlich haben wir viel Unsinn bei Corona erlebt,"
+582,"00:47:44,040","00:47:47,680",2864.04,2867.68,3.6399999999998727,"bei Flüchtlingskrise, wir schaffen das,"
+583,"00:47:47,760","00:47:53,760",2867.76,2873.76,6.0,"ich müsste mir nicht schwertun,"
+584,"00:47:54,640","00:47:56,160",2874.64,2876.16,1.5199999999999818,"wenn ihren Musk fragt,"
+585,"00:47:56,240","00:47:59,520",2876.24,2879.52,3.2800000000002,"nennen Sie mir mal die fünf schlimmsten Beispiele,"
+586,"00:47:59,560","00:48:02,920",2879.56,2882.92,3.3600000000001273,Talkshows wo Unsinn über Impfungen erzählt wurde...
+587,"00:48:02,960","00:48:09,120",2882.96,2889.12,6.1599999999998545,"ML: Es geht darum, wo es anfängt."
+588,"00:48:09,400","00:48:17,520",2889.4,2897.52,8.11999999999989,"UP: Sie haben doch gesagt, Kritik an den Medien muss drin sein."
+589,"00:48:18,600","00:48:27,080",2898.6,2907.08,8.480000000000018,"Sie haben selbst gesagt, Musk ist ein Troll, das ist offensichtlich."
+590,"00:48:29,080","00:48:31,600",2909.08,2911.6,2.519999999999982,"Das ist kein reflektierter Kommentar,"
+591,"00:48:31,680","00:48:38,080",2911.68,2918.08,6.400000000000091,es ist ein klassischer Troll- Einsatz.
+592,"00:48:38,760","00:48:44,000",2918.76,2924.0,5.239999999999782,"Wir sprechen über die Rede von Vance,"
+593,"00:48:44,040","00:48:51,280",2924.04,2931.28,7.2400000000002365,"der sagt, der EU falle immer nur Regulierung ein."
+594,"00:48:51,720","00:48:58,520",2931.72,2938.52,6.800000000000182,"Bei der Meinungsfreiheit haben sich auch viele lustig gemacht,"
+595,"00:48:58,600","00:49:06,280",2938.6,2946.28,7.680000000000291,"bis niemand die Reportage hatte, die 60 Minuten von CBS,"
+596,"00:49:11,080","00:49:19,280",2951.08,2959.28,8.200000000000273,"wo man drei Staatsanwälte feixen sieht, die sich darum freuen,"
+597,"00:49:21,200","00:49:25,880",2961.2,2965.88,4.680000000000291,"wenn wenn jemand einen Meme postet,"
+598,"00:49:25,960","00:49:33,320",2965.96,2973.32,7.360000000000127,und sie durch eine Klage des Leben ruinieren können.
+599,"00:49:34,840","00:49:42,360",2974.84,2982.36,7.519999999999982,ML: ich würde das in dem Zusammenhang nicht zu sagen.
+600,"00:49:43,760","00:49:45,800",2983.76,2985.8,2.0399999999999636,Gefeixt haben nicht.
+601,"00:49:45,880","00:49:51,000",2985.88,2991.0,5.119999999999891,Wir haben es hier auch mehrfach gezeigt.
+602,"00:49:51,080","00:49:55,560",2991.08,2995.56,4.480000000000018,"Ich möchte hier keine billige Polemik aufmachen,"
+603,"00:49:55,640","00:50:01,120",2995.64,3001.12,5.480000000000018,"sie als exzellenter Journalist, versteht doch genau,"
+604,"00:50:01,200","00:50:08,520",3001.2,3008.52,7.320000000000164,"was das Prinzip ist, These, Gegenthese, Diskussion."
+605,"00:50:11,080","00:50:14,080",3011.08,3014.08,3.0,"Wenn einer mit 220 Millionen Followern sagt,"
+606,"00:50:14,120","00:50:19,000",3014.12,3019.0,4.880000000000109,"die Medien lügen weiter, dann hetzt er doch."
+607,"00:50:19,040","00:50:21,600",3019.04,3021.6,2.5599999999999454,UP: Dann hetzen ganz viele Leute.
+608,"00:50:21,680","00:50:26,880",3021.68,3026.88,5.200000000000273,"Sie fragen mich ja,"
+609,"00:50:33,840","00:50:36,200",3033.84,3036.2,2.3599999999996726,"ich halte eine Regulierung von Twitter,"
+610,"00:50:36,280","00:50:43,280",3036.28,3043.28,7.0,oder eine spezielle Regulierung für schwierig.
+611,"00:50:50,480","00:50:52,720",3050.48,3052.72,2.2399999999997817,Erinnern Sie sich bei Facebook an den Amoklauf
+612,"00:50:52,800","00:50:59,520",3052.8,3059.52,6.7199999999998,"in Australien oder Neuseeland, wo dieses live gestellt wurde."
+613,"00:50:59,600","00:51:06,640",3059.6,3066.64,7.039999999999964,Da hatten wir Mark Zuckerberg in einem Meeting.
+614,"00:51:10,240","00:51:17,440",3070.24,3077.44,7.200000000000273,"So etwas wäre es für uns gewesen, ich vermute bei ihnen dasselbe."
+615,"00:51:17,520","00:51:20,440",3077.52,3080.44,2.9200000000000728,"Es werden nicht zuletzt unser Unternehmen,"
+616,"00:51:20,520","00:51:22,520",3080.52,3082.52,2.0,"der immer wieder angemahnt hat,"
+617,"00:51:22,600","00:51:25,400",3082.6,3085.4,2.800000000000182,dass es auch eine Verantwortung geben muss.
+618,"00:51:25,440","00:51:30,800",3085.44,3090.8,5.360000000000127,ML: Das meine ich ja!
+619,"00:51:34,520","00:51:41,120",3094.52,3101.12,6.599999999999909,"UP: Twitter ist für mich etwas anderes,"
+620,"00:51:42,960","00:51:49,600",3102.96,3109.6,6.639999999999873,"man merkt mir jetzt meine angelsächsische Verbandlung an,"
+621,"00:51:49,680","00:51:54,800",3109.68,3114.8,5.120000000000346,"""Speakers corner""."
+622,"00:51:59,200","00:52:03,200",3119.2,3123.2,4.0,"Wir haben einen Hebel bei Daten, bei deren Geschäftsmodellen,"
+623,"00:52:03,240","00:52:09,760",3123.24,3129.76,6.520000000000437,ich bin ja gar nicht apodiktisch bei so etwas.
+624,"00:52:09,840","00:52:17,360",3129.84,3137.36,7.519999999999982,HD: Es müssen die gleichen Gesetze gelten wie für uns.
+625,"00:52:29,000","00:52:32,680",3149.0,3152.68,3.6799999999998363,"HD: Mit dem Impetus von Elon Musk zu verändern zu wollen,"
+626,"00:52:32,760","00:52:36,000",3152.76,3156.0,3.2399999999997817,"da dies seinen Eigentümer,"
+627,"00:52:36,080","00:52:43,600",3156.08,3163.6,7.519999999999982,"aber bei Ihnen gibt es ja eine redaktionelle Freiheit,"
+628,"00:52:43,720","00:52:46,320",3163.72,3166.32,2.600000000000364,aber hier macht der Eigentümer Meinung
+629,"00:52:46,400","00:52:51,560",3166.4,3171.56,5.1599999999998545,und manipuliert Meinung.
+630,"00:52:51,640","00:52:53,360",3171.64,3173.36,1.7200000000002547,"Das kann man schon regeln,"
+631,"00:52:53,440","00:52:57,520",3173.44,3177.52,4.079999999999927,die Chinesen haben keine solche Plattform sondern eine eigene.
+632,"00:52:57,600","00:53:01,920",3177.6,3181.92,4.320000000000164,"Das könnten wir auch machen in Europa, wenn wir das wollen würden."
+633,"00:53:01,960","00:53:07,720",3181.96,3187.72,5.7599999999997635,* Sie reden durcheinander *
+634,"00:53:10,680","00:53:13,680",3190.68,3193.68,3.0,HD: Was wir diskutieren ist ein guter Anstoß.
+635,"00:53:13,760","00:53:20,800",3193.76,3200.8,7.039999999999964,"Das Gespräch von Donald Trump und Alice Weidel,"
+636,"00:53:21,720","00:53:24,800",3201.72,3204.8,3.080000000000382,"das war ja ein großes Missverständnis,"
+637,"00:53:24,880","00:53:28,080",3204.88,3208.08,3.199999999999818,"man merkt, die Wähler wollen mit den Elektroautos"
+638,"00:53:28,160","00:53:32,760",3208.16,3212.76,4.600000000000364,"eigentlich nichts zu tun haben, die Amerikaner auch mit der AfD nicht."
+639,"00:53:32,840","00:53:37,640",3212.84,3217.64,4.799999999999727,"Das wird sich auch nicht erhalten, das ist durchschaubar,"
+640,"00:53:37,720","00:53:40,920",3217.72,3220.92,3.200000000000273,"auch die Diskreditierung unseres Bundeskanzlers,"
+641,"00:53:41,000","00:53:45,160",3221.0,3225.16,4.1599999999998545,das trägt nicht auf Dauer.
+642,"00:53:45,280","00:53:51,520",3225.28,3231.52,6.239999999999782,"ML: Wenn es stimmt, was sie sagen,"
+643,"00:53:55,160","00:53:58,120",3235.16,3238.12,2.9600000000000364,"dass Daten der wahre Rohstoff des 21. Jahrhunderts sind,"
+644,"00:53:58,200","00:54:00,680",3238.2,3240.68,2.480000000000018,"und Amerika hat unfassbar viele Daten,"
+645,"00:54:00,720","00:54:04,160",3240.72,3244.16,3.4400000000000546,"Facebook, Twitter."
+646,"00:54:04,240","00:54:12,160",3244.24,3252.16,7.920000000000073,"Was folgt daraus, ist das die riesige Chance, die wir haben?"
+647,"00:54:13,360","00:54:15,400",3253.36,3255.4,2.0399999999999636,"HD: Ich komme aus der Zoll Diskussion,"
+648,"00:54:15,480","00:54:19,920",3255.48,3259.92,4.440000000000055,"Donald Trump ist ja getrieben durch die Handelsbilanz an,"
+649,"00:54:20,000","00:54:26,160",3260.0,3266.16,6.1599999999998545,"die möchte er ausgleichen, wo wir großzügig sind,"
+650,"00:54:26,240","00:54:32,640",3266.24,3272.64,6.400000000000091,es gibt große Marktkapitalisierung...
+651,"00:54:33,440","00:54:40,280",3273.44,3280.28,6.8400000000001455,ML: Die größten Unternehmen haben wie viel?
+652,"00:54:44,560","00:54:46,680",3284.56,3286.68,2.119999999999891,"HD: Das sind durch Unternehmen,"
+653,"00:54:46,760","00:54:52,320",3286.76,3292.32,5.559999999999945,die haben einen extrem großen Anteil der amerikanischen Unternehmen.
+654,"00:54:52,400","00:55:00,720",3292.4,3300.72,8.319999999999709,Diese Marktkapitalisierung besteht eigentlich aus den Kundendaten.
+655,"00:55:04,040","00:55:06,720",3304.04,3306.72,2.6799999999998363,"Es gibt viel mehr Europäer als Amerikaner,"
+656,"00:55:06,800","00:55:12,280",3306.8,3312.28,5.480000000000018,"dabei geben wir die Daten umsonst ab,"
+657,"00:55:12,360","00:55:17,000",3312.36,3317.0,4.639999999999873,die Chinesinnen haben das selbst aufgebaut
+658,"00:55:17,080","00:55:22,040",3317.08,3322.04,4.960000000000036,und behalten ihre Daten für sich.
+659,"00:55:22,160","00:55:29,840",3322.16,3329.84,7.680000000000291,UP: Wir haben diese ganzen großen Persönlichkeiten nicht.
+660,"00:55:31,760","00:55:37,560",3331.76,3337.56,5.799999999999727,"HD: Soziale Netzwerke hatten wir viel früher als die USA,"
+661,"00:55:37,680","00:55:43,840",3337.68,3343.84,6.160000000000309,"StudiVZ, wir hatten Suchmaschinen,"
+662,"00:55:47,280","00:55:51,640",3347.28,3351.64,4.359999999999673,"und niemand hier in Deutschland hätte Tesla so viel Geld gegeben,"
+663,"00:55:51,720","00:55:54,920",3351.72,3354.92,3.200000000000273,unser Problem ist Risikokapital.
+664,"00:55:55,000","00:56:01,720",3355.0,3361.72,6.7199999999998,Die meisten Startups hier werden verkauft.
+665,"00:56:03,800","00:56:06,400",3363.8,3366.4,2.599999999999909,Viele digitale Startups in Deutschland
+666,"00:56:06,440","00:56:11,560",3366.44,3371.56,5.119999999999891,sind in amerikanische Hände abverkauft worden.
+667,"00:56:11,640","00:56:19,360",3371.64,3379.36,7.720000000000255,Europarat noch das Problem das wir zu uneinheitlich sind.
+668,"00:56:19,520","00:56:22,200",3379.52,3382.2,2.6799999999998363,"UP: Wie wir mit Elon Musk umgehen,"
+669,"00:56:22,280","00:56:27,040",3382.28,3387.04,4.7599999999997635,oder Unternehmer die etwas anders sind.
+670,"00:56:27,120","00:56:33,680",3387.12,3393.68,6.559999999999945,Warum sollte ein junger Unternehmer etwas hier machen sollen?
+671,"00:56:33,760","00:56:36,960",3393.76,3396.96,3.199999999999818,"Amerikas vielleicht immer noch ein besserer Ort,"
+672,"00:56:37,040","00:56:39,600",3397.04,3399.6,2.5599999999999454,wenn man nicht zu orthodox funktioniert.
+673,"00:56:39,680","00:56:45,000",3399.68,3405.0,5.320000000000164,Wenn man mich hier noch etwas verbessert.
+674,"00:56:45,000","00:56:50,400",3405.0,3410.4,5.400000000000091,HD: Das muss aber nicht sein.
+675,"00:56:50,400","00:56:54,720",3410.4,3414.72,4.319999999999709,UP: Ich komm dann noch mal zu der Empathie.
+676,"00:56:54,800","00:56:57,560",3414.8,3417.56,2.7599999999997635,"Das ist so eine Form von Moralkapitalismus,"
+677,"00:56:57,680","00:57:01,200",3417.68,3421.2,3.519999999999982,"der in Europa stark ist, aber nicht erfolgreich."
+678,"00:57:01,280","00:57:05,280",3421.28,3425.28,4.0,CC: Wir haben jetzt ganz viele riesengroße Themen aufgemacht.
+679,"00:57:05,400","00:57:12,280",3425.4,3432.28,6.880000000000109,ML: Lassen Sie uns mal bei dem Thema bleiben.
+680,"00:57:12,440","00:57:16,240",3432.44,3436.24,3.799999999999727,"Ich würde auch nicht zustimmen, wenn Ulf Poschardt sagt,"
+681,"00:57:16,320","00:57:18,920",3436.32,3438.92,2.599999999999909,wir gucken komisch auf ihn drauf.
+682,"00:57:19,000","00:57:22,320",3439.0,3442.32,3.3200000000001637,"Nein, wir setzen uns kritisch mit ihm auseinander,"
+683,"00:57:22,400","00:57:24,880",3442.4,3444.88,2.480000000000018,jahrelang waren wir von ihm fasziniert.
+684,"00:57:25,000","00:57:27,240",3445.0,3447.24,2.2399999999997817,"Haben wir aber nicht die Umstände,"
+685,"00:57:27,320","00:57:32,560",3447.32,3452.56,5.239999999999782,die einen solchen Unternehmer möglich machen.
+686,"00:57:32,640","00:57:35,080",3452.64,3455.08,2.4400000000000546,"CC: Die Frage nach dem Risikokapital,"
+687,"00:57:35,200","00:57:39,200",3455.2,3459.2,4.0,"nach der Kapital Union,"
+688,"00:57:39,280","00:57:43,480",3459.28,3463.48,4.199999999999818,"wenn man den Report richtig liest, dann müsste jetzt in der Tat"
+689,"00:57:43,560","00:57:48,160",3463.56,3468.16,4.599999999999909,der Wettbewerbswurms losgehen.
+690,"00:57:48,240","00:57:53,840",3468.24,3473.84,5.600000000000364,Das soll ja unter anderem die Investitionsmöglichkeiten machen.
+691,"00:57:53,920","00:58:01,560",3473.92,3481.56,7.639999999999873,"ML: Das hat 15 Milliarden verbrannt, bevor es richtig losging."
+692,"00:58:01,640","00:58:05,600",3481.64,3485.6,3.9600000000000364,CC: In dem Rahmen sind viele Dinge nicht möglich.
+693,"00:58:05,680","00:58:09,680",3485.68,3489.68,4.0,ML: Henry hat gerade versucht ein Auto erfolgreich zu machen.
+694,"00:58:09,800","00:58:12,600",3489.8,3492.6,2.799999999999727,"Nach 1,5 Milliarden bei Schicht im Schacht."
+695,"00:58:12,680","00:58:18,320",3492.68,3498.32,5.640000000000327,HD: Er war nur etwas spät.
+696,"00:58:20,400","00:58:23,720",3500.4,3503.72,3.319999999999709,"CC: Wir haben uns einiges ausgedacht, auch etwas,"
+697,"00:58:23,800","00:58:30,320",3503.8,3510.32,6.519999999999982,was globale Steuerhinterziehung angeht.
+698,"00:58:36,840","00:58:41,200",3516.84,3521.2,4.359999999999673,"Auch die Tatsache, dass in ihr Land viel von dem Geld aus Amerika"
+699,"00:58:41,320","00:58:42,200",3521.32,3522.2,0.8799999999996544,gewaschen wird.
+700,"00:58:42,320","00:58:47,240",3522.32,3527.24,4.919999999999618,"Wir haben mehrere Elemente, die in der Umsetzung sind."
+701,"00:58:47,320","00:58:51,480",3527.32,3531.48,4.1599999999998545,"Wir haben ganz große Dinge, die man auch geregelt bekommen muss."
+702,"00:58:51,600","00:58:54,160",3531.6,3534.16,2.5599999999999454,"Jetzt ist es aber eine andere Dimension,"
+703,"00:58:54,280","00:58:57,200",3534.28,3537.2,2.919999999999618,es ist ja noch ein Zweifel zurückzukommen.
+704,"00:58:57,280","00:58:58,520",3537.28,3538.52,1.2399999999997817,Elon Musk greift ja
+705,"00:58:58,600","00:59:04,320",3538.6,3544.32,5.720000000000255,auch in die Geopolitik ein.
+706,"00:59:04,440","00:59:08,000",3544.44,3548.0,3.5599999999999454,Seit 2020 telefoniert er öfter mal mit Wladimir Putin.
+707,"00:59:08,080","00:59:15,160",3548.08,3555.16,7.079999999999927,Dann schaltet er Satellitensysteme an oder aus.
+708,"00:59:15,360","00:59:18,560",3555.36,3558.56,3.199999999999818,Wir haben in vielen von unseren Hardwaresystemen
+709,"00:59:18,640","00:59:23,800",3558.64,3563.8,5.160000000000309,zu viel chinesische Technologie verbaut.
+710,"00:59:23,880","00:59:25,240",3563.88,3565.24,1.3599999999996726,Jetzt kommt Elon Musk
+711,"00:59:25,320","00:59:30,520",3565.32,3570.52,5.199999999999818,und mächtig in ein Kriegsgeschehen in der Ukraine ein.
+712,"00:59:30,600","00:59:34,000",3570.6,3574.0,3.400000000000091,"Er beeinflusst das politische Geschehen in Italien,"
+713,"00:59:34,080","00:59:37,600",3574.08,3577.6,3.519999999999982,spricht mit Giorgia Meloni.
+714,"00:59:37,680","00:59:40,840",3577.68,3580.84,3.1600000000003092,Er hat natürlich seine ganz bestimmten Ansichten
+715,"00:59:40,960","00:59:46,800",3580.96,3586.8,5.8400000000001455,"zu dem Verhältnis Amerikas mit China,"
+716,"00:59:46,920","00:59:49,480",3586.92,3589.48,2.5599999999999454,bei der 950.000 Teslas vom Band rollen.
+717,"00:59:49,600","00:59:51,680",3589.6,3591.68,2.0799999999999272,Es sind schon andere Dimensionen.
+718,"00:59:51,760","00:59:57,560",3591.76,3597.56,5.799999999999727,Da ist X nur ein Teil davon.
+719,"01:00:01,680","01:00:06,760",3601.68,3606.76,5.080000000000382,"Er verschafft sich jetzt Zugang zu den sensiblen Daten,"
+720,"01:00:06,840","01:00:08,760",3606.84,3608.76,1.9200000000000728,"nicht nur der Amerikaner,"
+721,"01:00:08,880","01:00:11,920",3608.88,3611.92,3.0399999999999636,sondern auch in große geopolitische Tatsachen.
+722,"01:00:12,000","01:00:18,480",3612.0,3618.48,6.480000000000018,Und das macht es doch viel gefährlicher.
+723,"01:00:18,560","01:00:22,520",3618.56,3622.52,3.9600000000000364,Wir haben doch hiermit viel öffentlich-rechtlichem Fernsehen
+724,"01:00:22,640","01:00:26,800",3622.64,3626.8,4.160000000000309,"und Zeitungen ein anderes Medienumfeld, als die Amerikaner."
+725,"01:00:26,920","01:00:31,200",3626.92,3631.2,4.279999999999745,"Insofern es noch mal zu sehen,"
+726,"01:00:31,320","01:00:37,000",3631.32,3637.0,5.679999999999836,welche Rolle die sozialen Medien da spielen.
+727,"01:00:37,120","01:00:43,360",3637.12,3643.36,6.2400000000002365,Alle paar Wochen sterben zwei Tageszeitungen.
+728,"01:00:43,440","01:00:49,400",3643.44,3649.4,5.960000000000036,Besonders regionale und kleine.
+729,"01:00:51,680","01:00:55,280",3651.68,3655.28,3.600000000000364,"Wenn sie dann umgekehrt sehen,"
+730,"01:00:55,400","01:00:58,840",3655.4,3658.84,3.4400000000000546,dass seit 1984 durch die Änderung des Mediengesetzes
+731,"01:00:58,960","01:01:02,280",3658.96,3662.28,3.3200000000001637,"eine Schere aufgegangen ist im Meinungsjournalismus,"
+732,"01:01:02,400","01:01:08,280",3662.4,3668.28,5.880000000000109,"so das zu einer letzten Wahl,"
+733,"01:01:08,600","01:01:10,600",3668.6,3670.6,2.0,"74 % angeben,"
+734,"01:01:10,680","01:01:13,120",3670.68,3673.12,2.4400000000000546,dass sie von diesem Informationsfluss
+735,"01:01:13,240","01:01:14,680",3673.24,3674.68,1.4400000000000546,total überfordert sind.
+736,"01:01:14,760","01:01:17,480",3674.76,3677.48,2.7199999999998,"Sie suchen sich eher aus, was sie möchten."
+737,"01:01:17,560","01:01:20,200",3677.56,3680.2,2.6399999999998727,Das erklärt dann den Erfolg der Podcasts.
+738,"01:01:20,280","01:01:27,320",3680.28,3687.32,7.039999999999964,Außerdem die Veränderung in den Medienlizenzen.
+739,"01:01:27,600","01:01:32,160",3687.6,3692.16,4.559999999999945,Da gab es den Plan zum Umbau des amerikanischen Apparates.
+740,"01:01:32,240","01:01:37,000",3692.24,3697.0,4.760000000000218,Das ist verglich die Telekommunikationsbehörde.
+741,"01:01:37,080","01:01:41,400",3697.08,3701.4,4.320000000000164,"Die entscheidet unter anderem, wie Medienlizenzen vergeben werden."
+742,"01:01:41,520","01:01:46,120",3701.52,3706.12,4.599999999999909,Dort werden jetzt grundsätzliche Verträge infrage gestellt.
+743,"01:01:46,240","01:01:50,080",3706.24,3710.08,3.8400000000001455,"Umgekehrt werden große Medienbesitzer unter Druck gesetzt,"
+744,"01:01:50,160","01:01:56,280",3710.16,3716.28,6.120000000000346,weil die andere Interessen haben.
+745,"01:02:05,480","01:02:12,040",3725.48,3732.04,6.559999999999945,"ML: Jeff Bezos unter anderem, ist der Besitzer der Washington Post."
+746,"01:02:12,160","01:02:18,440",3732.16,3738.44,6.2800000000002,"CC: Da ist dann der elegante Moment,"
+747,"01:02:20,960","01:02:23,800",3740.96,3743.8,2.8400000000001455,"dass sich die Washington Post gegeben hat,"
+748,"01:02:23,920","01:02:25,320",3743.92,3745.32,1.400000000000091,die demokratiestiftende
+749,"01:02:25,440","01:02:26,400",3745.44,3746.4,0.9600000000000364,und Dunkelheit.
+750,"01:02:26,520","01:02:29,720",3746.52,3749.72,3.199999999999818,"Dann wurde der traurige Witz gemacht, als der"
+751,"01:02:29,840","01:02:32,200",3749.84,3752.2,2.3599999999996726,"Leser sich eingemischt hat,"
+752,"01:02:32,280","01:02:35,840",3752.28,3755.84,3.5599999999999454,er hat mich dann entschlossen den Meinungsjournalismus
+753,"01:02:35,960","01:02:40,120",3755.96,3760.12,4.1599999999998545,in seiner eigenen Zeitung beschränken.
+754,"01:02:40,240","01:02:45,200",3760.24,3765.2,4.960000000000036,ML: Sie haben ganz kurz Ronald Reagan erwähnt.
+755,"01:02:45,320","01:02:49,800",3765.32,3769.8,4.480000000000018,Was ist damals passiert?
+756,"01:02:49,880","01:02:52,200",3769.88,3772.2,2.319999999999709,"CC: Die Änderung damals führte dazu,"
+757,"01:02:52,320","01:02:59,200",3772.32,3779.2,6.879999999999654,"wenn man im Nachrichtenunternehmen tätig war,"
+758,"01:03:01,040","01:03:06,400",3781.04,3786.4,5.360000000000127,"dass man nicht mehr sagen, es gibt verschiedene Seiten."
+759,"01:03:06,480","01:03:09,920",3786.48,3789.92,3.4400000000000546,Dass es die Beschleunigung des Meinungsjournalismus.
+760,"01:03:10,000","01:03:15,800",3790.0,3795.8,5.800000000000182,Das hat das erst beschleunigt.
+761,"01:03:15,920","01:03:20,240",3795.92,3800.24,4.319999999999709,"2000 war ich bei CNN noch im Sender, da legte das erst richtig los."
+762,"01:03:20,320","01:03:24,440",3800.32,3804.44,4.119999999999891,Das war ein kleiner Kleinkrieg.
+763,"01:03:24,560","01:03:26,720",3804.56,3806.72,2.1599999999998545,Da sich dann stark beschlossen
+764,"01:03:26,840","01:03:29,600",3806.84,3809.6,2.7599999999997635,und hat dann eine andere Wendung bekommen.
+765,"01:03:29,680","01:03:33,440",3809.68,3813.44,3.7600000000002183,"Wenn Sie jetzt umgekehrt sehen,"
+766,"01:03:33,560","01:03:36,360",3813.56,3816.36,2.800000000000182,"dass dort solche Sachen beschlossen werden,"
+767,"01:03:36,480","01:03:39,680",3816.48,3819.68,3.199999999999818,dass im Weißen Haus an der Pressekonferenz
+768,"01:03:39,760","01:03:43,040",3819.76,3823.04,3.2799999999997453,"mit Selenskyj die Frage gestellt wird,"
+769,"01:03:43,160","01:03:46,120",3823.16,3826.12,2.9600000000000364,"von einem Blogger, der hinter JD Vance steht,"
+770,"01:03:46,200","01:03:48,840",3826.2,3828.84,2.6400000000003274,warum haben Sie nicht mal einen Anzug an?
+771,"01:03:48,960","01:03:52,320",3828.96,3832.32,3.3600000000001273,"Das sind Änderung in der Medienkultur, die dann auch"
+772,"01:03:52,400","01:03:53,800",3832.4,3833.8,1.400000000000091,verstärkt werden.
+773,"01:03:53,880","01:04:00,600",3833.88,3840.6,6.7199999999998,Das wird dann unter dem Deckmantel der Meinungsvielfalt projiziert.
+774,"01:04:00,680","01:04:03,720",3840.68,3843.72,3.0399999999999636,"Praktisch ist es aber schon eine Gesellschaft,"
+775,"01:04:03,840","01:04:07,320",3843.84,3847.32,3.480000000000018,"die mit dieser Medienvielfalt, sagen wir es ganz grob,"
+776,"01:04:07,440","01:04:09,800",3847.44,3849.8,2.3600000000001273,nicht mehr umgehen und arbeiten kann.
+777,"01:04:09,920","01:04:16,160",3849.92,3856.16,6.239999999999782,Das bezieht sich dann auch Ausbildungssystem.
+778,"01:04:16,240","01:04:21,800",3856.24,3861.8,5.5600000000004,UP: Ich lebe Amerika so sehr und bin dem Land sehr dankbar.
+779,"01:04:21,880","01:04:24,440",3861.88,3864.44,2.5599999999999454,"Sie kennen sicher die Zahlen,"
+780,"01:04:24,520","01:04:30,840",3864.52,3870.84,6.320000000000164,den Verlust vom Vertrauen in Medien.
+781,"01:04:31,600","01:04:36,480",3871.6,3876.48,4.880000000000109,ML: Ab und zu müssen Sie auch übersetzen.
+782,"01:04:36,600","01:04:38,880",3876.6,3878.88,2.2800000000002,UP: Ich bin mit Zahlen nicht so gut.
+783,"01:04:38,960","01:04:42,080",3878.96,3882.08,3.119999999999891,"Ich glaube, wir sind bei 13 % angekommen."
+784,"01:04:42,200","01:04:48,360",3882.2,3888.36,6.160000000000309,ML: Das auf jeden Fall sehr wenig.
+785,"01:04:51,400","01:04:55,880",3891.4,3895.88,4.480000000000018,"Das war ein Beleg für das, was ich eben gesagt habe."
+786,"01:04:56,000","01:05:00,320",3896.0,3900.32,4.320000000000164,"Die Medien lügen weiter, das ist wirklich krass."
+787,"01:05:05,440","01:05:12,600",3905.44,3912.6,7.1599999999998545,"UP: Bei den Demokraten ist es glaube ich, 54 %."
+788,"01:05:13,680","01:05:17,280",3913.68,3917.28,3.600000000000364,"Wenn Sie sich angeguckt haben, auch bei dem Wahlkampf,"
+789,"01:05:17,400","01:05:20,720",3917.4,3920.72,3.319999999999709,"sie waren ja steht, wie nie zuvor."
+790,"01:05:20,840","01:05:23,880",3920.84,3923.88,3.0399999999999636,Man musste nicht viel suchen...
+791,"01:05:23,960","01:05:29,240",3923.96,3929.24,5.279999999999745,ML: Was ist mit Fox News?
+792,"01:05:29,360","01:05:32,000",3929.36,3932.0,2.6399999999998727,"UP: Ich versuche nur deutlich zu machen,"
+793,"01:05:32,080","01:05:37,320",3932.08,3937.32,5.2400000000002365,dass diese Kritik an den Medien logischerweise auch einen Punkt hat.
+794,"01:05:37,440","01:05:45,800",3937.44,3945.8,8.360000000000127,"ML: Es klang so, als hätten Sie Ronald Reagan sehr gut drauf haben."
+795,"01:05:48,080","01:05:51,200",3948.08,3951.2,3.119999999999891,"UP: Ich hab den amerikanischen Wahlkampf, wenn"
+796,"01:05:51,360","01:05:56,200",3951.36,3956.2,4.839999999999691,man zum Beispiel Ben Shapiro angeguckt hat.
+797,"01:05:56,280","01:05:57,200",3956.28,3957.2,0.919999999999618,"So zu tun,"
+798,"01:05:57,280","01:06:01,600",3957.28,3961.6,4.319999999999709,"als wäre das alles nicht relevant oder so ein schlichtes Programm,"
+799,"01:06:01,720","01:06:04,600",3961.72,3964.6,2.880000000000109,das habe ich überhaupt nicht so wahrgenommen.
+800,"01:06:04,680","01:06:07,000",3964.68,3967.0,2.3200000000001637,Auch Podcasts.
+801,"01:06:07,080","01:06:11,320",3967.08,3971.32,4.2400000000002365,"Ich glaube, es war der erste US Wahlkampf, in dem man sagen kann,"
+802,"01:06:11,440","01:06:17,280",3971.44,3977.28,5.8400000000001455,"es war der Sohn von Donald Trump,"
+803,"01:06:17,440","01:06:24,120",3977.44,3984.12,6.679999999999836,"der gesagt, du musst du dem, dem, dem gehen,"
+804,"01:06:24,240","01:06:27,560",3984.24,3987.56,3.3200000000001637,beispielsweise John Rogan.
+805,"01:06:27,680","01:06:32,760",3987.68,3992.76,5.080000000000382,"Dann müssen wir sehen, verändern sich Dinge."
+806,"01:06:32,880","01:06:37,440",3992.88,3997.44,4.559999999999945,Olaf Scholz war zum Teil in 4-5 komischen Podcasts.
+807,"01:06:37,560","01:06:41,520",3997.56,4001.52,3.9600000000000364,Diese Transformation der Medien findet schon länger statt.
+808,"01:06:41,640","01:06:48,120",4001.64,4008.12,6.480000000000018,"Auch Ronald Reagan, das ist ein Aspekt."
+809,"01:06:51,040","01:06:55,080",4011.04,4015.08,4.039999999999964,"Ich glaube, Donald Trump, weil er ein Instinkt Politiker ist,"
+810,"01:06:55,200","01:06:57,480",4015.2,4017.48,2.2800000000002,"ganz kluge Entscheidungen getroffen,"
+811,"01:06:57,600","01:07:04,080",4017.6,4024.08,6.480000000000018,wo er seine Nachricht für den Verkauf.
+812,"01:07:04,200","01:07:07,080",4024.2,4027.08,2.880000000000109,"Deshalb habe ich es nicht so wahrgenommen,"
+813,"01:07:07,200","01:07:10,640",4027.2,4030.64,3.4400000000000546,dass die Leute nicht Vielfalt klarkommen.
+814,"01:07:10,760","01:07:15,160",4030.76,4035.16,4.399999999999636,Es ist jetzt einfach eine ganz breite mediale Landschaft.
+815,"01:07:15,240","01:07:21,080",4035.24,4041.08,5.8400000000001455,Jeder konnte da etwas finden.
+816,"01:07:25,000","01:07:30,560",4045.0,4050.56,5.559999999999945,Ich habe mir auch MSNBC angeguckt.
+817,"01:07:30,680","01:07:35,240",4050.68,4055.24,4.559999999999945,"ML: Herr Iwersen, da kann man jetzt viel drauf antworten."
+818,"01:07:35,320","01:07:38,360",4055.32,4058.36,3.0399999999999636,Tesla war von Anfang an ein politisches Projekt.
+819,"01:07:38,440","01:07:43,360",4058.44,4063.36,4.920000000000073,Was heißt das?
+820,"01:07:44,320","01:07:49,520",4064.32,4069.52,5.199999999999818,SI: Vielleicht zuerst...
+821,"01:07:49,640","01:07:52,200",4069.64,4072.2,2.5599999999999454,Wenn die Amerikaner unter Dauerbeschuss
+822,"01:07:52,320","01:07:53,800",4072.32,4073.8,1.4800000000000182,stehen von Donald Trump.
+823,"01:07:53,880","01:07:58,200",4073.88,4078.2,4.319999999999709,"Er behauptet mittlerweile seit zehn Jahren, dass die Medien lügen."
+824,"01:07:58,280","01:08:00,000",4078.28,4080.0,1.7199999999998,Er nennt sich Staatsfeinde.
+825,"01:08:00,080","01:08:03,600",4080.08,4083.6,3.519999999999982,"Dass dann das Vertrauen zerbröselt,"
+826,"01:08:03,720","01:08:12,120",4083.72,4092.12,8.400000000000091,"da verwechselt jemand Ursache und Wirkung, wenn man das nicht sieht."
+827,"01:08:14,880","01:08:20,520",4094.88,4100.52,5.640000000000327,"Die Tweets von Elon Musk, die haben 17 Milliarden Aufrufe."
+828,"01:08:20,640","01:08:22,720",4100.64,4102.72,2.0799999999999272,"Tesla war ein britisches Projekt,"
+829,"01:08:22,840","01:08:26,560",4102.84,4106.56,3.7200000000002547,das war die Wende zu Elektromobilität.
+830,"01:08:26,880","01:08:30,040",4106.88,4110.04,3.1599999999998545,"Ich glaube, Elon Musk ist aber schon viel weiter."
+831,"01:08:30,160","01:08:35,600",4110.16,4115.6,5.440000000000509,Er will jetzt zum Mars.
+832,"01:08:39,480","01:08:42,200",4119.48,4122.2,2.7200000000002547,"Sie haben gesagt, das war nicht so toll,"
+833,"01:08:42,320","01:08:46,440",4122.32,4126.44,4.119999999999891,was er bei Ihnen in der Welt geschrieben hat.
+834,"01:08:46,560","01:08:49,960",4126.56,4129.96,3.399999999999636,"""Nur die AfD kann Deutschland retten""."
+835,"01:08:50,040","01:08:52,680",4130.04,4132.68,2.6400000000003274,"Danach gab es ja auch die Video schalte,"
+836,"01:08:52,800","01:08:57,080",4132.8,4137.08,4.279999999999745,"da sagt er, dass es die wichtigste Wahl der deutschen Geschichte."
+837,"01:08:57,160","01:09:00,880",4137.16,4140.88,3.7200000000002547,"Wichtig für Deutschland, dass die AfD gewinnt,"
+838,"01:09:00,960","01:09:08,280",4140.96,4148.28,7.319999999999709,"ist es wichtig für Europa, das Frau Weidel gewinnt."
+839,"01:09:12,000","01:09:17,760",4152.0,4157.76,5.760000000000218,HD: Das ist grober Unfug...
+840,"01:09:34,960","01:09:38,080",4174.96,4178.08,3.119999999999891,"ML: Wenn man das Buch von Ulf Poschardt liest,"
+841,"01:09:38,200","01:09:40,040",4178.2,4180.04,1.8400000000001455,"dann denkt man sich ja klar,"
+842,"01:09:40,160","01:09:43,560",4180.16,4183.56,3.4000000000005457,aber zum Teil muss man ja nicht über jedes Stöckchen
+843,"01:09:43,680","01:09:45,040",4183.68,4185.04,1.3599999999996726,direkt drüberspringen.
+844,"01:09:45,120","01:09:47,640",4185.12,4187.64,2.5200000000004366,"Dann müssen wir uns die Frage stellen,"
+845,"01:09:47,720","01:09:51,960",4187.72,4191.96,4.239999999999782,muss man jede kleine Bemerkung sofort teilen?
+846,"01:09:52,080","01:09:58,400",4192.08,4198.4,6.319999999999709,Das ist dann die Lust an Provokation.
+847,"01:09:58,560","01:10:06,600",4198.56,4206.6,8.039999999999964,SI: Wie sie das am Anfang mit den brennenden Moscheen sagten.
+848,"01:10:07,400","01:10:10,200",4207.4,4210.2,2.800000000000182,"Darf man Herr Musk mit Nazis vergleichen,"
+849,"01:10:10,320","01:10:16,120",4210.32,4216.12,5.800000000000182,"wenn er gegen Juden agitiert,"
+850,"01:10:17,360","01:10:25,760",4217.36,4225.76,8.400000000000546,wenn er für die Freilassung des bekanntesten rechtsextremen werbt.
+851,"01:10:27,920","01:10:35,920",4227.92,4235.92,8.0,"Die Frage, muss Europa über jedes Stöckchen drüber springen,"
+852,"01:10:38,000","01:10:42,840",4238.0,4242.84,4.8400000000001455,"wenn JD Vance sagt, sie essen die Hunde, sie essen die Katzen."
+853,"01:10:42,960","01:10:45,520",4242.96,4245.52,2.5600000000004,Und dann sagt das Donald Trump noch mal:
+854,"01:10:45,600","01:10:49,920",4245.6,4249.92,4.319999999999709,"Sie essen die Katzen und die Hunde von den Leuten, die hier leben."
+855,"01:10:50,040","01:10:52,360",4250.04,4252.36,2.319999999999709,"Aber dort, wo das angeblich passierte,"
+856,"01:10:52,480","01:10:57,120",4252.48,4257.12,4.640000000000327,da wurden die Haitianer angegriffen.
+857,"01:10:57,280","01:11:04,360",4257.28,4264.36,7.079999999999927,"Da konnten die Kinder nicht mehr zur Schule gehen, weil sie Angst hatten."
+858,"01:11:04,480","01:11:09,440",4264.48,4269.44,4.960000000000036,Können wir das totschweigen...
+859,"01:11:09,560","01:11:13,480",4269.56,4273.48,3.9199999999991633,ML: Das meine ich damit nicht.
+860,"01:11:13,600","01:11:15,240",4273.6,4275.24,1.639999999999418,"Mir geht es um die Frage,"
+861,"01:11:15,360","01:11:19,280",4275.36,4279.28,3.9200000000000728,"ob wir dann alles in einer Endlosschleife weiter wiederholen,"
+862,"01:11:19,440","01:11:25,000",4279.44,4285.0,5.5600000000004,wenn es offensichtlicher Unsinn ist.
+863,"01:11:25,080","01:11:28,920",4285.08,4288.92,3.8400000000001455,"Was ich in Amerika gesehen habe, dem 6. Januar war ich da."
+864,"01:11:29,040","01:11:31,720",4289.04,4291.72,2.680000000000291,Da liefen schon diese ganzen Kundgebungen.
+865,"01:11:31,840","01:11:35,040",4291.84,4295.04,3.199999999999818,Ich habe Tausende Fotos von diesen Leuten gemacht.
+866,"01:11:35,160","01:11:38,840",4295.16,4298.84,3.680000000000291,Ich hole das manchmal raus und schaue es mir noch mal an.
+867,"01:11:38,960","01:11:42,560",4298.96,4302.56,3.600000000000364,"Die Stimmung, die da war,"
+868,"01:11:42,680","01:11:46,280",4302.68,4306.28,3.5999999999994543,"dass man nicht mehr demokratische Diskurs im Sinne von,"
+869,"01:11:46,400","01:11:49,280",4306.4,4309.28,2.880000000000109,"ich bin gegen etwas, wir streiten über etwas,"
+870,"01:11:49,400","01:11:54,240",4309.4,4314.24,4.8400000000001455,wir tauschen Argumente aus.
+871,"01:11:54,360","01:11:55,720",4314.36,4315.72,1.360000000000582,"Sondern, das war Hass."
+872,"01:11:55,840","01:12:01,160",4315.84,4321.16,5.319999999999709,Und das etwas anderes.
+873,"01:12:05,160","01:12:12,000",4325.16,4332.0,6.8400000000001455,"Das ist kein Gegenargument, Hass ist Hass."
+874,"01:12:24,760","01:12:31,120",4344.76,4351.12,6.359999999999673,"CC: Was sollten die Kollegen und Kolleginnen dann machen,"
+875,"01:12:31,240","01:12:37,480",4351.24,4357.48,6.239999999999782,"nicht nur untereinander Verrat üben,"
+876,"01:12:39,080","01:12:43,240",4359.08,4363.24,4.1599999999998545,"jede E-Mail, alles, was man tippt, was man elektronisch nutzt,"
+877,"01:12:43,360","01:12:44,960",4363.36,4364.96,1.6000000000003638,das wird überhaupt macht.
+878,"01:12:45,080","01:12:47,000",4365.08,4367.0,1.9200000000000728,"Es ging los, dass die Kollegen"
+879,"01:12:47,120","01:12:50,280",4367.12,4370.28,3.1599999999998545,und Kolleginnen in den unterschiedlichen Behörden
+880,"01:12:50,400","01:12:52,440",4370.4,4372.44,2.0399999999999636,zu Verrat aufgerufen worden.
+881,"01:12:52,560","01:13:00,200",4372.56,4380.2,7.639999999999418,"Entweder verachtet ihr eure Kollegen, oder befinden sie."
+882,"01:13:02,480","01:13:09,200",4382.48,4389.2,6.720000000000255,"Und dann in diesem ziemlich verachtenden Weggabelungs-E-Mails,"
+883,"01:13:09,320","01:13:12,440",4389.32,4392.44,3.119999999999891,"mit einem leicht anderen Kontext,"
+884,"01:13:21,560","01:13:23,880",4401.56,4403.88,2.319999999999709,"Überwachung, Zensur, perfide Dinge"
+885,"01:13:24,000","01:13:28,400",4404.0,4408.4,4.399999999999636,die wir auch aus der deutsch-deutschen Geschichte kennen.
+886,"01:13:28,520","01:13:32,320",4408.52,4412.32,3.7999999999992724,"Da wird daran gearbeitet, alles an den Pranger zu stellen,"
+887,"01:13:32,440","01:13:33,920",4412.44,4413.92,1.480000000000473,was intern möglich ist.
+888,"01:13:34,040","01:13:38,920",4414.04,4418.92,4.880000000000109,"Diese macht, die Elon Musk im System hat..."
+889,"01:13:39,080","01:13:46,280",4419.08,4426.28,7.199999999999818,"HD: Ich finde die Aufregung schon gut und richtig,"
+890,"01:13:49,000","01:13:52,840",4429.0,4432.84,3.8400000000001455,"aber dieses echofieren über das, was in Amerika passiert,"
+891,"01:13:52,960","01:13:56,720",4432.96,4436.72,3.7600000000002183,das ist nicht unsere Kernaufgabe.
+892,"01:13:56,840","01:14:00,040",4436.84,4440.04,3.199999999999818,"Ist mal überraschend wenig gegen Kritik über das,"
+893,"01:14:00,160","01:14:03,520",4440.16,4443.52,3.360000000000582,was an dem Ministerium passiert.
+894,"01:14:03,640","01:14:10,200",4443.64,4450.2,6.559999999999491,Es gehen nicht Tausende auf die Straße.
+895,"01:14:10,400","01:14:12,000",4450.4,4452.0,1.6000000000003638,"Es ist wohl etwas dran,"
+896,"01:14:12,120","01:14:16,560",4452.12,4456.56,4.440000000000509,dass viele Amerikaner nicht zufrieden sind mit der Verwaltung.
+897,"01:14:16,680","01:14:23,920",4456.68,4463.92,7.239999999999782,"Auch das wird hier passieren, wenn wir nicht demokratisch reformieren."
+898,"01:14:24,040","01:14:27,680",4464.04,4467.68,3.6400000000003274,"Irgendwann sind die Leute satt, überreguliert zu werden"
+899,"01:14:27,760","01:14:30,800",4467.76,4470.8,3.0399999999999636,und Wachstumschancen auszulassen.
+900,"01:14:30,960","01:14:34,480",4470.96,4474.48,3.519999999999527,"Ich glaube schon, dass wieder Amerika betrachten sollen"
+901,"01:14:34,600","01:14:37,960",4474.6,4477.96,3.3599999999996726,und dass wir dann das richtige daraus lernen sollen.
+902,"01:14:38,080","01:14:46,080",4478.08,4486.08,8.0,Wie gehen wir damit um? Wie behandeln wir Amerika?
+903,"01:14:46,200","01:14:51,880",4486.2,4491.88,5.680000000000291,Was kann man besser machen?
+904,"01:14:55,440","01:15:01,840",4495.44,4501.84,6.400000000000546,CC: Gelernt haben die Kollegen das in Ungarn.
+905,"01:15:01,960","01:15:05,360",4501.96,4505.36,3.399999999999636,Die erste Vorstellung war in Budapest.
+906,"01:15:09,880","01:15:13,400",4509.88,4513.4,3.519999999999527,"ML: Ich schlage folgendes vor, bei das Thema gut ist."
+907,"01:15:13,520","01:15:20,640",4513.52,4520.64,7.119999999999891,Wir treffen uns demnächst in dieser Runde wieder.
+908,"01:15:20,760","01:15:24,840",4520.76,4524.84,4.079999999999927,"Dann besprechen wir die Frage, wo die Chance für Europa liegt."
+909,"01:15:24,960","01:15:28,920",4524.96,4528.92,3.9600000000000364,Dass es wirklich ein interessanter Punkt.
+910,"01:15:29,040","01:15:36,440",4529.04,4536.44,7.399999999999636,"Danke, jetzt die Kollegen vom ""heute journal up:date""."

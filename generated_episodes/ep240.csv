@@ -1,0 +1,987 @@
+﻿segment_id,start_time,end_time,start_seconds,end_seconds,duration,text
+1,"00:00:00,040","00:00:02,080",0.04,2.08,2.04,Diese Untertitel sind live produziert.
+2,"00:00:02,120","00:00:03,200",2.12,3.2,1.08,Einen schönen guten Abend.
+3,"00:00:03,320","00:00:05,640",3.32,5.64,2.32,"Freut mich sehr, dass Sie dabei sind, Willkommen zu unserer Sendung,"
+4,"00:00:05,720","00:00:08,680",5.72,8.68,2.96,in der wir heute u.a. über das hier sprechen wollen.
+5,"00:00:08,760","00:00:11,960",8.76,11.96,3.200000000000001,"168 Seiten, ein Bericht, aber nicht etwa in digitaler Form,"
+6,"00:00:12,040","00:00:17,800",12.04,17.8,5.760000000000002,"sondern Seite für Seite, fein säuberlich eingescannt"
+7,"00:00:17,880","00:00:20,760",17.88,20.76,2.8800000000000026,und dazu ein dürrer Satz:
+8,"00:00:20,840","00:00:29,960",20.84,29.96,9.120000000000001,"""Eine elektronische Fassung des Dokuments liegt nicht vor."""
+9,"00:00:32,960","00:00:35,320",32.96,35.32,2.3599999999999994,"Das ist der sogenannte Sudhof-Bericht,"
+10,"00:00:35,400","00:00:39,320",35.4,39.32,3.9200000000000017,"benannt nach Margareta Sudhof, die ihn erstellt hat"
+11,"00:00:39,400","00:00:44,320",39.4,44.32,4.920000000000002,"und die wiederum Bestellt, ihn abzufassen von diesem Mann..."
+12,"00:00:44,400","00:00:46,160",44.4,46.16,1.759999999999998,"von Karl Lauterbach, in seiner Funktion als Gesundheitsminister."
+13,"00:00:46,200","00:00:51,240",46.2,51.24,5.039999999999999,Es geht um Masken und vor allem um Milliarden.
+14,"00:00:51,280","00:00:52,680",51.28,52.68,1.3999999999999986,Viele Milliarden.
+15,"00:00:52,720","00:00:55,800",52.72,55.8,3.0799999999999983,Und dazu die Frage: Wer hat das zu verantworten?
+16,"00:00:55,880","00:01:00,600",55.88,60.6,4.719999999999999,Er jedenfalls hat dazu schon im Dezember '21
+17,"00:01:00,680","00:01:05,640",60.68,65.64,4.960000000000001,"einen bemerkenswerten Satz gesagt: ""Ich glaube, dass wir die Situation"
+18,"00:01:05,720","00:01:09,440",65.72,69.44,3.719999999999999,"bei den Maskengeschäften, insbesondere bei Emix,"
+19,"00:01:09,520","00:01:11,040",69.52,71.03999999999999,1.519999999999996,so nicht belassen können.
+20,"00:01:11,120","00:01:13,600",71.12,73.6,2.4799999999999898,"Das höhlt das Vertrauen in die Politik aus."""
+21,"00:01:13,680","00:01:16,160",73.68,76.16,2.4799999999999898,Herzlich Willkommen.
+22,"00:01:16,880","00:01:21,560",76.88,81.56,4.680000000000007,Christina Berndt hat als Wissenschaftsredakteurin
+23,"00:01:21,600","00:01:24,440",81.6,84.44,2.8400000000000034,bei der Süddeutschen Zeitung die Berichterstattung zu Corona
+24,"00:01:24,520","00:01:29,280",84.52,89.28,4.760000000000005,"entscheidend geprägt und sagt: ""Also, wenn man das alles addiert,"
+25,"00:01:29,360","00:01:33,120",89.36,93.12,3.760000000000005,"die Beschaffung, vor allem aber die Gerichtskosten hinterher,"
+26,"00:01:33,160","00:01:37,120",93.16,97.12,3.960000000000008,"dann wird das der Skandal, der am Ende am meisten Geld"
+27,"00:01:37,160","00:01:41,200",97.16,101.2,4.040000000000006,in der Geschichte der Bundesrepublik verbrannt haben wird.
+28,"00:01:41,280","00:01:45,480",101.28,105.47999999999999,4.199999999999989,"Der hängt Andi Scheuer und seine Maut um Längen ab."""
+29,"00:01:45,520","00:01:46,920",105.52000000000001,106.92,1.3999999999999915,Herzlich willkommen.
+30,"00:01:46,960","00:01:49,560",106.96000000000001,109.56,2.5999999999999943,Apropos Gerichtskosten...
+31,"00:01:49,600","00:01:53,800",109.6,113.8,4.200000000000003,"Tanja Gulden ist eine der Klägerinnen im Maskenskandal,"
+32,"00:01:53,880","00:01:56,760",113.88,116.75999999999999,2.8799999999999955,"von denen wir gerade so viel hören und lesen,"
+33,"00:01:56,840","00:02:01,360",116.84,121.36,4.519999999999996,als sie im April 2020 von dem Open House-Verfahren
+34,"00:02:01,400","00:02:03,960",121.4,123.96,2.559999999999988,"der Bundesregierung erfährt, reagiert sie sofort,"
+35,"00:02:04,040","00:02:07,680",124.04,127.68,3.6400000000000006,"kontaktiert ihre Geschäftspartner in China und schafft,"
+36,"00:02:07,760","00:02:10,840",127.76,130.84,3.0799999999999983,was damals fast als Ding der Unmöglichkeit gilt:
+37,"00:02:10,920","00:02:16,160",130.92,136.16,5.240000000000009,nach nur drei Wochen liefert sie 600.000 Masken
+38,"00:02:16,240","00:02:20,560",136.24,140.56,4.319999999999993,an die Beamten zu Hause in Deutschland Zahlungsziel: eine Woche.
+39,"00:02:20,600","00:02:22,840",140.6,142.84,2.240000000000009,Doch das Geld kommt nie an.
+40,"00:02:22,880","00:02:24,160",142.88,144.16,1.2800000000000011,Bis heute nicht.
+41,"00:02:24,240","00:02:25,800",144.24,145.8,1.5600000000000023,"2,7 Millionen."
+42,"00:02:25,840","00:02:30,240",145.84,150.24,4.400000000000006,"Und mittlerweile zuzüglich 1,6 Millionen für Anwälte,"
+43,"00:02:30,280","00:02:31,640",150.28,151.64,1.3599999999999852,Zinsen und Gerichte.
+44,"00:02:31,680","00:02:35,080",151.68,155.07999999999998,3.3999999999999773,Was kommt da auf deutsche Steuerzahler noch zu?
+45,"00:02:35,160","00:02:36,200",155.16,156.2,1.039999999999992,Herzlich willkommen.
+46,"00:02:36,280","00:02:40,960",156.28,160.96,4.680000000000007,"Immer dann, wenn es um richtig viel Geld geht,"
+47,"00:02:41,040","00:02:47,280",161.04,167.28,6.240000000000009,"kommt dieser Mann ins Spiel, den ""Herrn der Rentenlöcher"""
+48,"00:02:47,320","00:02:50,840",167.32,170.84,3.5200000000000102,"hat ihn die Süddeutsche mal genannt und es gibt eine schöne Geschichte,"
+49,"00:02:50,920","00:02:53,960",170.92000000000002,173.96,3.039999999999992,die das Verhältnis der SPD zu Ökonomen wie ihm beschreibt.
+50,"00:02:54,040","00:02:56,520",174.04,176.52,2.480000000000018,Kritikern seiner Rentenpolitik hielt Olaf Scholz
+51,"00:02:56,560","00:02:58,520",176.56,178.52,1.960000000000008,"mit der ihm eigenen Demut mal entgegen,"
+52,"00:02:58,600","00:03:00,200",178.6,180.2,1.5999999999999943,deren Horrorszenarien hätten sich schon
+53,"00:03:00,240","00:03:03,080",180.24,183.08,2.8400000000000034,in der Vergangenheit nicht bewährt.
+54,"00:03:03,120","00:03:06,240",183.12,186.24,3.1200000000000045,Seine Antwort darauf in der ihm eigenen Demut war:
+55,"00:03:06,320","00:03:08,320",186.32,188.32,2.0,"""Rückblickend hat Herr Scholz nicht ganz unrecht."
+56,"00:03:08,400","00:03:11,280",188.4,191.28,2.8799999999999955,"Aber mit Blick in die Zukunft redet er ziemlichen Unsinn."""
+57,"00:03:11,360","00:03:15,280",191.36,195.28,3.9199999999999875,Was also löst der Blick in die Zukunft bei ihm aus?
+58,"00:03:15,360","00:03:18,040",195.36,198.04,2.6799999999999784,Und was der gigantische neue Berg von neuen Schulden:
+59,"00:03:18,080","00:03:21,560",198.07999999999998,201.56,3.480000000000018,850 Milliarden... vorerst?
+60,"00:03:21,640","00:03:24,320",201.64,204.32,2.680000000000007,"Fragen an Martin Werding, herzlich willkommen."
+61,"00:03:35,640","00:03:41,320",215.64,221.32,5.680000000000007,Schönen guten Abend in die Runde.
+62,"00:03:41,360","00:03:47,640",221.36,227.64,6.279999999999973,"Herr Lauterbach, vielleicht eine Frage zum aufwärmen."
+63,"00:03:47,680","00:03:50,720",227.68,230.72,3.039999999999992,Wann haben Sie zuletzt Gesundheitsministerium
+64,"00:03:50,720","00:03:53,760",230.72,233.76,3.039999999999992,Tischtennis gespielt?
+65,"00:03:53,760","00:03:58,040",233.76,238.04,4.280000000000001,"KL: Das ist ein paar Wochen her, ich habe sehr gerne gespielt,"
+66,"00:03:58,080","00:04:01,120",238.07999999999998,241.12,3.0400000000000205,"ich hatte mir den Raum damals so eingerichtet,"
+67,"00:04:01,120","00:04:06,120",241.12,246.12,5.0,als Exminister.
+68,"00:04:09,520","00:04:11,920",249.52,251.92,2.3999999999999773,Aber das Privileg habe ich eingebüßt
+69,"00:04:11,920","00:04:16,520",251.92,256.52,4.599999999999994,und ich bin jetzt auf der Suche nach einer neuen Spielmöglichkeit.
+70,"00:04:16,520","00:04:21,160",256.52,261.16,4.640000000000043,"Ich habe ein paar Mal in der Halle des Deutschen Bundestags gespielt,"
+71,"00:04:21,200","00:04:24,000",261.2,264.0,2.8000000000000114,vielleicht finde ich noch etwas besseres.
+72,"00:04:24,000","00:04:29,840",264.0,269.84,5.839999999999975,Aber bisher ist das Spiel gelaufen.
+73,"00:04:29,880","00:04:35,000",269.88,275.0,5.1200000000000045,Die Platte habe ich den Mitarbeitern geschenkt.
+74,"00:04:35,040","00:04:38,960",275.04,278.96,3.919999999999959,Das ist ein schöner Raum und wenn die Mitarbeiter
+75,"00:04:39,000","00:04:42,640",279.0,282.64,3.6399999999999864,"auf meiner Platte spielen, dann ist das gesund und gut."
+76,"00:04:42,680","00:04:47,200",282.68,287.2,4.519999999999982,Ich habe sie zurückgelassen und verschenkt.
+77,"00:04:47,240","00:04:51,160",287.24,291.15999999999997,3.919999999999959,Aber ich selbst bin dort nicht mehr als Spieler.
+78,"00:04:51,200","00:04:57,000",291.2,297.0,5.800000000000011,ML: Wer ist daher im Vordergrund?
+79,"00:04:57,040","00:05:02,200",297.04,302.2,5.159999999999968,"KL: Das ist Nico Popa, ein Berliner Spieler."
+80,"00:05:02,240","00:05:08,200",302.24,308.2,5.9599999999999795,Er ist ein sehr guter Spieler.
+81,"00:05:08,440","00:05:15,440",308.44,315.44,7.0,"Sehr geschickt, mit ihm spiele ich regelmäßig."
+82,"00:05:15,440","00:05:19,240",315.44,319.24,3.8000000000000114,"- Sieht er Sie ab, oder Sie ihn?"
+83,"00:05:19,240","00:05:21,400",319.24,321.4,2.159999999999968,KL: Erst ein sehr guter Spieler
+84,"00:05:21,440","00:05:25,000",321.44,325.0,3.5600000000000023,"aber auch ein netter Mensch, mit ihm spiele ich gerne."
+85,"00:05:25,040","00:05:28,720",325.04,328.72,3.680000000000007,"Ich spiele gerne mit guten spiele, kann ich dazu lernen."
+86,"00:05:28,760","00:05:33,760",328.76,333.76,5.0,- Darüber werden wir heute noch einiges hören.
+87,"00:05:33,760","00:05:40,040",333.76,340.04,6.28000000000003,"Frau warten möchte nicht, dass Sie dort Tischtennis spielen?"
+88,"00:05:40,040","00:05:46,560",340.04,346.56,6.519999999999982,"KL: Ja, aber damit komme ich gut klar."
+89,"00:05:48,000","00:05:52,040",348.0,352.04,4.0400000000000205,"Es ist kein Hausverbot, ich kann sowieso nicht mehr ins Haus,"
+90,"00:05:52,080","00:05:56,320",352.08,356.32,4.240000000000009,"die Platte steht in einem Sportraum, den wir eingerichtet haben,"
+91,"00:05:56,320","00:05:59,200",356.32,359.2,2.8799999999999955,"im Keller, ich habe keinen Zugang zum Haus."
+92,"00:05:59,200","00:06:02,320",359.2,362.32,3.1200000000000045,Ich kann da nicht umherlaufen und manipulieren.
+93,"00:06:02,320","00:06:05,920",362.32,365.92,3.6000000000000227,- Steht auch der Tresor mit dem Bericht?
+94,"00:06:05,920","00:06:10,160",365.92,370.16,4.240000000000009,"KL: Da ist ein alter Tresor übrigens, ist ein altes Bankgebäude."
+95,"00:06:10,200","00:06:16,360",370.2,376.36,6.160000000000025,"Der wird aber nicht mehr benutzt,"
+96,"00:06:17,160","00:06:19,320",377.16,379.32,2.159999999999968,"der Bericht ist auf Festplatten,"
+97,"00:06:19,360","00:06:22,320",379.36,382.32,2.9599999999999795,dafür wird kein Papier mehr verwendet.
+98,"00:06:22,320","00:06:29,040",382.32,389.04,6.720000000000027,"- Der ist auf Festplatten, wurde dann aber eingescannt?"
+99,"00:06:29,040","00:06:35,240",389.04,395.24,6.199999999999989,KL: Der liegt auf der Festplatte.
+100,"00:06:38,000","00:06:40,520",398.0,400.52,2.519999999999982,"Das ist meines Wissens nicht richtig,"
+101,"00:06:40,560","00:06:46,680",400.56,406.68,6.1200000000000045,es gibt elektronische Fassungen.
+102,"00:06:51,400","00:06:55,200",411.4,415.2,3.8000000000000114,"Es ist nicht so, dass die Festplatte gelöscht worden ist."
+103,"00:06:55,240","00:06:57,760",415.24,417.76,2.519999999999982,Alles ist auf gesicherten Festplatten.
+104,"00:06:57,760","00:07:01,080",417.76,421.08,3.319999999999993,"Wenn es Probleme gibt den Zugriff zu überwinden,..."
+105,"00:07:01,080","00:07:05,160",421.08,425.16,4.080000000000041,- Sie hat noch das Passwort?
+106,"00:07:05,160","00:07:08,960",425.16,428.96,3.7999999999999545,KL: Nein aber ich wüsste wie das Passwort zugänglich gemacht
+107,"00:07:09,000","00:07:12,960",429.0,432.96,3.9599999999999795,"werden kann.- Eine kurze Frage, Fläche kann man das noch mal im"
+108,"00:07:13,000","00:07:18,360",433.0,438.36,5.360000000000014,Vollbild zeigen. Können Sie das lesen?
+109,"00:07:18,440","00:07:23,360",438.44,443.36,4.920000000000016,KL: Nein.
+110,"00:07:23,960","00:07:32,520",443.96,452.52,8.560000000000002,Ich bin heute nicht in der Sendung eine Nachfolgerin zu kritisieren.
+111,"00:07:34,720","00:07:39,200",454.72,459.2,4.479999999999961,Für einen Gesundheitsminister gehört
+112,"00:07:39,200","00:07:41,720",459.2,461.72,2.5200000000000387,es sich nicht der Nachfolgerin Knüppel zwischen
+113,"00:07:41,760","00:07:43,120",461.76,463.12,1.3600000000000136,die Beine zu werfen.
+114,"00:07:43,160","00:07:47,320",463.15999999999997,467.32,4.160000000000025,Ich kommentiere das nicht.- Sie haben diesen Bericht im Keller
+115,"00:07:47,360","00:07:51,360",467.36,471.36,4.0,liegen lassen.
+116,"00:07:51,360","00:07:53,720",471.36,473.72,2.3600000000000136,"KL: Nein das habe ich nicht, ich"
+117,"00:07:53,720","00:07:58,360",473.72,478.36,4.639999999999986,"habe den Bericht damals in Auftrag gegeben, weil ich der Meinung war,"
+118,"00:07:58,440","00:08:01,520",478.44,481.52,3.079999999999984,"dass die Öffentlichkeit ein Anrecht darauf hat,"
+119,"00:08:01,520","00:08:04,480",481.52,484.48,2.9600000000000364,"auch ich, zu wissen, was damals gewesen ist."
+120,"00:08:04,520","00:08:08,160",484.52,488.16,3.640000000000043,Das ist richtig gewesen.
+121,"00:08:08,200","00:08:12,480",488.2,492.48,4.28000000000003,"Ich habe den Auftrag gegeben, dass aufgearbeitet wird, in klarer"
+122,"00:08:12,520","00:08:18,080",492.52,498.08,5.560000000000002,Sprache.- Und wir zeigen die gesperrte Seite.
+123,"00:08:18,120","00:08:23,320",498.12,503.32,5.199999999999989,"KL: Sie soll das aufarbeiten, in klarer Sprache."
+124,"00:08:23,320","00:08:26,120",503.32,506.12,2.8000000000000114,Nicht zu verklausuliert.
+125,"00:08:26,120","00:08:30,720",506.12,510.72,4.600000000000023,"Sie soll das machen,"
+126,"00:08:30,720","00:08:32,720",510.72,512.72,2.0,ohne jede Beeinflussung.
+127,"00:08:32,720","00:08:35,040",512.72,515.04,2.3199999999999363,"Deswegen hatten wir die Abmachung,"
+128,"00:08:35,080","00:08:38,240",515.08,518.24,3.159999999999968,solange sie am Gericht arbeitet würde ich nicht
+129,"00:08:38,280","00:08:40,560",518.28,520.56,2.2799999999999727,mit dir über den Bericht sprechen.
+130,"00:08:40,600","00:08:43,640",520.6,523.64,3.0399999999999636,"Keine Zwischenberichte keinen Zwischenstatus,"
+131,"00:08:43,680","00:08:44,640",523.68,524.64,0.9600000000000364,"kein Gespräch,"
+132,"00:08:44,680","00:08:48,560",524.68,528.56,3.8799999999999955,"ich habe sehr lange Zeit nicht mit ihr darüber gesprochen,"
+133,"00:08:48,600","00:08:49,840",528.6,529.84,1.240000000000009,kein einziges Mal.
+134,"00:08:49,880","00:08:52,720",529.88,532.72,2.840000000000032,Ich wollte das jetzt alleine macht.
+135,"00:08:52,720","00:08:55,880",532.72,535.88,3.159999999999968,Ich wollte auch keine Zwischenbericht
+136,"00:08:55,920","00:08:57,360",535.92,537.36,1.4400000000000546,"in schriftlicher Art,"
+137,"00:08:57,360","00:09:00,920",537.36,540.92,3.5599999999999454,daran habe ich mich sehr religiös gehalten.
+138,"00:09:00,960","00:09:03,320",540.96,543.32,2.3600000000000136,"Die was jetzt im Bericht steht,"
+139,"00:09:03,360","00:09:08,160",543.36,548.16,4.7999999999999545,"der muss sich Frau Sudhoff in Schutz nehmen,"
+140,"00:09:08,200","00:09:10,520",548.2,550.52,2.3199999999999363,"das ist das Ergebnis ihrer Arbeit,"
+141,"00:09:10,520","00:09:13,760",550.52,553.76,3.240000000000009,sie hat zwei hochqualifizierte Mitarbeiterinnen.
+142,"00:09:13,800","00:09:19,880",553.8,559.88,6.080000000000041,Das ist in keiner Weise jemals politisch beeinflusst worden.
+143,"00:09:19,920","00:09:23,240",559.92,563.24,3.32000000000005,"- Ich habe mich gefragt, ob sie das lesen können,"
+144,"00:09:23,240","00:09:25,880",563.24,565.88,2.6399999999999864,"ich mich frage, ob silbrig kennen."
+145,"00:09:25,920","00:09:29,800",565.92,569.8,3.8799999999999955,"KL: Als der Bericht fertig war habe ich ihn kennengelernt,"
+146,"00:09:29,840","00:09:30,960",569.84,570.96,1.1200000000000045,dass keine Frage.
+147,"00:09:30,960","00:09:37,640",570.96,577.64,6.67999999999995,"Jetzt natürlich, ich weiß was darin steht."
+148,"00:09:37,680","00:09:42,080",577.68,582.08,4.400000000000091,"Das ist keine Frage, aber was sie steht, das kann ich nicht lesen,"
+149,"00:09:42,120","00:09:48,440",582.12,588.44,6.32000000000005,ich kann er nicht durch die schwarze Bemalung lesen. Wie soll das gehen?
+150,"00:09:48,480","00:09:52,920",588.48,592.92,4.439999999999941,- Aber wieso wird denn da so großflächig geschwärzt?
+151,"00:09:52,960","00:10:00,440",592.96,600.44,7.480000000000018,Haben Sie den geschwärzt oder offenen Brief bekommen.
+152,"00:10:01,440","00:10:03,480",601.44,603.48,2.0399999999999636,KL: Ich habe als die Arbeit
+153,"00:10:03,520","00:10:08,080",603.52,608.08,4.560000000000059,von Frau Sudhoff abgeschlossen war den ungeschwärzt Bericht bekommen.
+154,"00:10:08,120","00:10:13,000",608.12,613.0,4.8799999999999955,"Ich kann nicht akzeptieren,"
+155,"00:10:13,040","00:10:16,680",613.04,616.68,3.6399999999999864,"dass sich die Kollegen dazu, dass alles aufzuarbeiten."
+156,"00:10:16,680","00:10:21,080",616.68,621.08,4.400000000000091,Und bekäme dann ein geschwärzt Bericht ausgehändigt. Wie soll das
+157,"00:10:21,120","00:10:22,080",621.12,622.08,0.9600000000000364,sein?
+158,"00:10:22,120","00:10:28,600",622.12,628.6,6.480000000000018,"- Sie wissen alles, was da drin steht?"
+159,"00:10:29,080","00:10:33,080",629.08,633.08,4.0,"KL: Ich kenne dem Bericht, aber ich äußere mich nicht dazu,"
+160,"00:10:33,120","00:10:35,000",633.12,635.0,1.8799999999999955,weil ich meiner Nachfolgerin
+161,"00:10:35,040","00:10:37,560",635.04,637.56,2.519999999999982,in keiner Weise heute kritisieren möchte.
+162,"00:10:37,600","00:10:41,120",637.6,641.12,3.519999999999982,- Das finde ich nicht richtig. Wie viele Menschen kennen
+163,"00:10:41,160","00:10:43,120",641.16,643.12,1.9600000000000364,diesen Bericht geschwärzt? KL
+164,"00:10:43,160","00:10:46,800",643.16,646.8,3.6399999999999864,"Ganz ehrlich gesagt, weiß ich es nicht genau."
+165,"00:10:46,840","00:10:52,520",646.84,652.52,5.67999999999995,Ich weiß es einfach nicht.
+166,"00:10:57,600","00:11:01,600",657.6,661.6,4.0,"Wichtig ist, die Arbeit, das ist mir sehr wichtig zu sagen,"
+167,"00:11:01,640","00:11:06,120",661.64,666.12,4.480000000000018,"von Frau Sudhoff, war qualitativ sehr hochwertig."
+168,"00:11:06,160","00:11:10,640",666.16,670.64,4.480000000000018,Sie hat wirklich in die Tiefe hinein recherchiert.
+169,"00:11:10,680","00:11:14,720",670.68,674.72,4.040000000000077,"- Das können sich hier behaupten, aber wir werden es nie herausfinden,"
+170,"00:11:15,160","00:11:18,760",675.16,678.76,3.6000000000000227,weil wir es nicht lesen können. KL: Vielleicht kommt der Bericht ja
+171,"00:11:18,800","00:11:22,880",678.8,682.88,4.080000000000041,"irgendwann noch ungeschwärzt, das weiß man nicht."
+172,"00:11:22,920","00:11:26,520",682.92,686.52,3.6000000000000227,Das war ja jetzt eine Kritik an meiner Nachfolgerin.
+173,"00:11:26,560","00:11:30,400",686.56,690.4,3.840000000000032,- Wir hätten sie es gemacht Herr Lauterbach?
+174,"00:11:30,440","00:11:33,480",690.44,693.48,3.0399999999999636,KL: Ich lasse es unbeantwortet.
+175,"00:11:33,520","00:11:39,000",693.52,699.0,5.480000000000018,Jeder der mich kennt...
+176,"00:11:43,320","00:11:47,440",703.32,707.44,4.1200000000000045,"Wenn so ein Bericht, mit viel Schwärzung kommt,"
+177,"00:11:47,480","00:11:50,560",707.48,710.56,3.0799999999999272,dann kommt es zu Sendungen wie heute.
+178,"00:11:50,600","00:11:53,840",710.6,713.84,3.240000000000009,Machen wir uns nichts vor.
+179,"00:11:53,840","00:11:58,560",713.84,718.56,4.719999999999914,Dann wird spekuliert.
+180,"00:11:58,600","00:12:04,000",718.6,724.0,5.399999999999977,- Das ist nicht schlecht.
+181,"00:12:04,040","00:12:08,800",724.04,728.8,4.759999999999991,"KL: Was ist da geschwärzt worden, was bedeutet das?"
+182,"00:12:08,840","00:12:15,480",728.84,735.48,6.639999999999986,- Das war die schönste Art Kritik an ihrer Nachfolgerin zu üben...
+183,"00:12:15,520","00:12:22,760",735.52,742.76,7.240000000000009,"KL: Nein, aber lassen wir das doch mal so stehen."
+184,"00:12:23,280","00:12:29,240",743.28,749.24,5.960000000000036,"- Ganz kurz, das ist kein Spaß, es geht um..."
+185,"00:12:29,320","00:12:34,800",749.32,754.8,5.4799999999999045,"Wenn es schlecht läuft um 3,7 Milliarden."
+186,"00:12:34,800","00:12:39,400",754.8,759.4,4.600000000000023,"- Steuerzahler Geld, das ist ja nicht irgendwas."
+187,"00:12:39,400","00:12:42,960",759.4,762.96,3.560000000000059,Hat die Öffentlichkeit nicht Anrecht auf das Verfahren?
+188,"00:12:43,000","00:12:46,040",763.0,766.04,3.0399999999999636,KL: Sie sind doch Journalist oder?
+189,"00:12:46,080","00:12:52,600",766.08,772.6,6.519999999999982,"- Sagen Sie, ich soll es herausfinden?"
+190,"00:12:53,400","00:12:57,600",773.4,777.6,4.2000000000000455,"KL: Ich kritisiere heute die Arbeit meiner Nachfolgerin nicht,"
+191,"00:12:57,640","00:13:00,320",777.64,780.32,2.6800000000000637,ich möchte diese Frage nicht beantworten.
+192,"00:13:00,360","00:13:04,320",780.36,784.32,3.9600000000000364,"Ich bitte um Verständnis. Das ist mein Ethos, ich bin froh,"
+193,"00:13:04,360","00:13:11,280",784.36,791.28,6.919999999999959,dass ich den Bericht habe anfertigen lassen.
+194,"00:13:13,480","00:13:17,680",793.48,797.68,4.199999999999932,- Darf ich etwas anderes fragen: kannten sie Frau Barton?
+195,"00:13:17,720","00:13:23,760",797.72,803.76,6.039999999999964,"KL: Nein, ich kannte sie nicht."
+196,"00:13:24,120","00:13:27,040",804.12,807.04,2.919999999999959,"Aber vielleicht hätte ich sie kennen müssen,"
+197,"00:13:27,080","00:13:31,080",807.08,811.08,4.0,sie war am Fraktionsvorstand der CDU.
+198,"00:13:31,120","00:13:34,080",811.12,814.08,2.9600000000000364,"Da war es sicherlich vollkommen okay gewesen,"
+199,"00:13:34,120","00:13:37,200",814.12,817.2,3.080000000000041,wenn ich mich besser ausgekannt hat.
+200,"00:13:37,280","00:13:38,840",817.28,818.84,1.5600000000000591,- Ich kannte sie nicht.
+201,"00:13:38,840","00:13:42,880",818.84,822.88,4.039999999999964,Aber kennen sich nicht die Gesundheitsexperten untereinander?
+202,"00:13:42,920","00:13:45,400",822.92,825.4,2.480000000000018,"KL: Sie ist keine Gesundheitsexperten,"
+203,"00:13:45,600","00:13:49,080",825.6,829.08,3.480000000000018,das hat sie selbst eingeräumt. Es gibt keine Kritik an der
+204,"00:13:49,120","00:13:54,720",829.12,834.72,5.600000000000023,Nachfolgerin meinerseits.
+205,"00:13:56,080","00:13:59,680",836.08,839.68,3.599999999999909,"- Hilft es, wenn Menschen, die Ministerien vorstehen,"
+206,"00:13:59,680","00:14:03,280",839.68,843.28,3.6000000000000227,"von dem Gebiet, dass sie zu vertreten etwas verstehen?"
+207,"00:14:03,320","00:14:10,400",843.32,850.4,7.079999999999927,"KL: Es kommt darauf an, wie der Minister tickt."
+208,"00:14:11,440","00:14:13,920",851.44,853.92,2.4799999999999045,Ich arbeite gerne auf der Grundlage
+209,"00:14:13,960","00:14:16,560",853.96,856.56,2.599999999999909,"wissenschaftlicher Studien und Evidenz,"
+210,"00:14:16,600","00:14:21,760",856.6,861.76,5.159999999999968,auch gerne mit Wissenschaftlern zusammen.
+211,"00:14:21,800","00:14:25,280",861.8,865.28,3.480000000000018,"Ich bin der Typ, ich mache Politik in den Bereichen,"
+212,"00:14:25,320","00:14:26,760",865.32,866.76,1.4399999999999409,"wo ich mich auskenne,"
+213,"00:14:26,800","00:14:29,280",866.8,869.28,2.480000000000018,ich bin jetzt im Forschungsausschuss.
+214,"00:14:29,320","00:14:36,240",869.32,876.24,6.919999999999959,"Ich leite ihn, bin dort Ausschussvorsitzender."
+215,"00:14:36,280","00:14:40,640",876.28,880.64,4.360000000000014,Ich habe den Angebot bekommen Vorsitzender des Verkehrsausschusses
+216,"00:14:40,680","00:14:43,200",880.68,883.2,2.5200000000000955,"zu werden, ich hatte es nicht gemacht."
+217,"00:14:43,240","00:14:44,600",883.24,884.6,1.3600000000000136,So checke ich nicht.
+218,"00:14:44,640","00:14:49,240",884.64,889.24,4.600000000000023,"Aber es gibt auch Minister, die sind fachfremd in den Bereich gekommen,"
+219,"00:14:49,280","00:14:55,200",889.28,895.2,5.920000000000073,"waren trotzdem gute Minister,"
+220,"00:14:57,680","00:15:02,880",897.68,902.88,5.2000000000000455,- So wie Scheuer?
+221,"00:15:02,960","00:15:08,800",902.96,908.8,5.839999999999918,"KL: Der nicht, ich gebe ein Beispiel,"
+222,"00:15:08,880","00:15:12,680",908.88,912.68,3.7999999999999545,"Ulla Schmidt war eine sehr gute Gesundheitsministerin, es"
+223,"00:15:12,720","00:15:16,360",912.72,916.36,3.6399999999999864,war eine gute Zeit.
+224,"00:15:16,400","00:15:20,200",916.4,920.2,3.800000000000068,"Ich persönlich denke nur so, ich persönlich geh so daran."
+225,"00:15:20,240","00:15:24,560",920.24,924.56,4.319999999999936,Es muss nicht so sein.
+226,"00:15:24,600","00:15:30,080",924.6,930.08,5.480000000000018,"- Haben Sie eine Erklärung dafür, warum eine CDU-Gesundheitsministerin"
+227,"00:15:30,120","00:15:32,280",930.12,932.28,2.159999999999968,diesen Bericht so lange
+228,"00:15:32,320","00:15:36,000",932.32,936.0,3.67999999999995,"in diesem Tennis Keller bei Ihnen unter Verschluss hält,"
+229,"00:15:36,080","00:15:40,680",936.08,940.68,4.599999999999909,"bis sie öffentlich Kardasz Gefühle entwickelt, der läuft etwas falsch?"
+230,"00:15:40,720","00:15:44,800",940.72,944.8,4.079999999999927,Um einen CDU-Fraktionsvorsitzende möglicherweise zu schützen?
+231,"00:15:44,840","00:15:50,560",944.84,950.56,5.719999999999914,Halten Sie das für denkbar
+232,"00:15:56,320","00:15:59,720",956.32,959.72,3.3999999999999773,"KL: ich weiß es nicht,"
+233,"00:15:59,760","00:16:01,680",959.76,961.68,1.919999999999959,"aber ich kann so viel sagen,"
+234,"00:16:01,720","00:16:04,600",961.72,964.6,2.8799999999999955,"der Bericht lag nicht im Tischtenniskeller,"
+235,"00:16:04,640","00:16:06,840",964.64,966.84,2.2000000000000455,das kann ich sagen.
+236,"00:16:06,880","00:16:10,400",966.88,970.4,3.519999999999982,Das ist auf einer Festplatte.
+237,"00:16:10,440","00:16:14,640",970.44,974.64,4.199999999999932,"- Wie klingt das für Sie, wenn Sie die gesperrten Seiten sehen,"
+238,"00:16:14,680","00:16:19,760",974.68,979.76,5.080000000000041,wie geht's Ihnen?
+239,"00:16:21,440","00:16:24,200",981.44,984.2,2.759999999999991,"TG: ich kann vielleicht dazu beitragen,"
+240,"00:16:24,280","00:16:28,280",984.28,988.28,4.0,dass das vielleicht doch bald unbeschwert zur Verfügung ist.
+241,"00:16:28,320","00:16:31,000",988.32,991.0,2.67999999999995,Wir haben auf eine Herausgabe geklagt.
+242,"00:16:31,040","00:16:33,120",991.04,993.12,2.080000000000041,Wir haben für die Inhalte
+243,"00:16:33,160","00:16:36,440",993.16,996.44,3.2800000000000864,"aus ganz anderem Grund ein Interesse zu erfahren,"
+244,"00:16:36,480","00:16:39,320",996.48,999.32,2.840000000000032,was tatsächlich drin steht.
+245,"00:16:39,360","00:16:44,080",999.36,1004.08,4.720000000000027,"Völlig unpolitisch,"
+246,"00:16:44,160","00:16:47,080",1004.16,1007.08,2.9200000000000728,"einfach aus dem Interesse eines Lieferanten,"
+247,"00:16:47,160","00:16:49,880",1007.16,1009.88,2.7200000000000273,"der 2020 einem Verfahren teilgenommen hat,"
+248,"00:16:49,960","00:16:54,560",1009.96,1014.56,4.599999999999909,"geliefert hat, nicht bezahlt wurde, immer noch vor Gericht steht."
+249,"00:16:54,640","00:16:56,240",1014.64,1016.24,1.6000000000000227,"Sehr gerne wissen würde,"
+250,"00:16:56,280","00:17:00,480",1016.28,1020.48,4.2000000000000455,was im BMG über das Verfahren geschrieben wurde.
+251,"00:17:00,520","00:17:03,880",1020.52,1023.88,3.3600000000000136,"- Sie als Journalistin, die im Bereich Gesundheit"
+252,"00:17:03,960","00:17:08,440",1023.96,1028.44,4.480000000000018,sehr lange Zeit schreibt.
+253,"00:17:08,480","00:17:10,200",1028.48,1030.2,1.7200000000000273,"Wenn Sie das so sehen,"
+254,"00:17:10,280","00:17:13,800",1030.28,1033.8,3.519999999999982,"der Bericht auf dem wir alle so lange gewartet haben,"
+255,"00:17:13,880","00:17:18,120",1033.88,1038.12,4.239999999999782,wie gehts Ihnen damit?
+256,"00:17:18,160","00:17:21,480",1038.16,1041.48,3.3199999999999363,"CB: Das ist nicht förderlich,"
+257,"00:17:21,520","00:17:24,640",1041.52,1044.64,3.1200000000001182,"und sind immer wieder Teile zugespielt worden,"
+258,"00:17:24,680","00:17:29,160",1044.68,1049.16,4.480000000000018,über die wir berichtet haben.
+259,"00:17:29,200","00:17:31,200",1049.2,1051.2,2.0,Ja irgendwie kam das so zu uns.
+260,"00:17:31,240","00:17:35,080",1051.24,1055.08,3.839999999999918,Details verrate ich nicht.
+261,"00:17:35,160","00:17:38,120",1055.16,1058.12,2.959999999999809,- Die wurden ihnen zugespielt?
+262,"00:17:38,160","00:17:43,400",1058.16,1063.4,5.240000000000009,Noch mal ganz kurz.
+263,"00:17:46,760","00:17:52,000",1066.76,1072.0,5.240000000000009,Passiv formuliert.
+264,"00:17:55,960","00:18:01,280",1075.96,1081.28,5.319999999999936,Wer hat da gespielt?
+265,"00:18:01,960","00:18:06,040",1081.96,1086.04,4.079999999999927,"CB: Man redet über diese Dinge, man versucht herauszufinden,"
+266,"00:18:06,080","00:18:11,440",1086.08,1091.44,5.360000000000127,wo der Bericht liegt.
+267,"00:18:12,560","00:18:16,360",1092.56,1096.36,3.7999999999999545,Und dann kann man an Teile herankommen.
+268,"00:18:16,400","00:18:17,680",1096.4,1097.68,1.2799999999999727,Manchmal gelingt das.
+269,"00:18:17,760","00:18:21,720",1097.76,1101.72,3.9600000000000364,"Dann kann man hinter Dinge schauen, hinter die man gerne schaut. Kommt"
+270,"00:18:21,760","00:18:25,200",1101.76,1105.2,3.4400000000000546,"an Wahrheiten heran,"
+271,"00:18:25,240","00:18:32,120",1105.24,1112.12,6.879999999999882,es gibt ein berechtigtes öffentlich Interesse.
+272,"00:18:32,160","00:18:34,880",1112.16,1114.88,2.7200000000000273,"- Wir hatten Jens Spahn vor einiger Zeit,"
+273,"00:18:34,920","00:18:39,280",1114.92,1119.28,4.3599999999999,hat sich diesem Interview gestellt.
+274,"00:18:39,320","00:18:42,160",1119.32,1122.16,2.8400000000001455,Das ist zu honorieren.
+275,"00:18:42,200","00:18:46,080",1122.2,1126.08,3.8799999999998818,"Er war sehr emotional, aber hat doch überzeugend dargelegt,"
+276,"00:18:46,120","00:18:49,040",1126.12,1129.04,2.9200000000000728,dass alles nach bestem Gewissen gemacht hat.
+277,"00:18:49,080","00:18:53,480",1129.08,1133.48,4.400000000000091,"Hat aber eingeräumt, dass einige Dinge aus dem Ruder gelaufen sind."
+278,"00:18:54,600","00:18:57,720",1134.6,1137.72,3.1200000000001182,Vielleicht nicht unbedingt in schlechter Absicht. Ich finde man
+279,"00:18:57,760","00:19:01,600",1137.76,1141.6,3.839999999999918,"muss immer den Kontext sehen, in dem das stattgefunden hat."
+280,"00:19:01,640","00:19:05,480",1141.64,1145.48,3.839999999999918,"Wir reden über den Beginn der Pandemie,"
+281,"00:19:05,520","00:19:12,880",1145.52,1152.88,7.360000000000127,"auch Leute wie wir, hatten bohrende Fragen gestellt."
+282,"00:19:12,920","00:19:16,880",1152.92,1156.88,3.9600000000000364,Warum kommen keine Masken? Es war eine große Drucksituation.
+283,"00:19:16,920","00:19:24,600",1156.92,1164.6,7.679999999999836,Aber warum macht man jetzt eine große Geheimniskrämerei.
+284,"00:19:24,960","00:19:28,360",1164.96,1168.36,3.3999999999998636,"CB: Es ist mehr als dieser Moment. Jeder versteht,"
+285,"00:19:28,440","00:19:31,640",1168.44,1171.64,3.2000000000000455,dass in Krisensituationen Dinge schwierig laufen.
+286,"00:19:31,680","00:19:35,080",1171.68,1175.08,3.3999999999998636,"Geld verbrannt wird, weil man bestimmte Wege sucht,"
+287,"00:19:35,160","00:19:36,880",1175.16,1176.88,1.7200000000000273,weil es schnell gehen muss.
+288,"00:19:36,920","00:19:39,400",1176.92,1179.4,2.480000000000018,Weil die Weltmarktlage schwierig ist.
+289,"00:19:39,480","00:19:44,520",1179.48,1184.52,5.039999999999964,Aber hier ist mehr als das passiert.
+290,"00:19:44,560","00:19:52,840",1184.56,1192.84,8.279999999999973,"Wenn man sich den Sudhoff Bericht anschaut, da es mehr passiert,"
+291,"00:19:59,400","00:20:02,640",1199.4,1202.64,3.240000000000009,"Jens Spahn hat gegen Warnungen gearbeitet,"
+292,"00:20:02,680","00:20:08,680",1202.68,1208.68,6.0,"hat sich darüber hinweggesetzt,"
+293,"00:20:11,280","00:20:16,520",1211.28,1216.52,5.240000000000009,"Beschaffungsämter,"
+294,"00:20:21,120","00:20:24,960",1221.12,1224.96,3.8400000000001455,die seit Jahren für den Bund solche großen Dinge wuppten.
+295,"00:20:25,000","00:20:28,240",1225.0,1228.24,3.240000000000009,Er hat dann irgendwelche Wort selbst geschrieben.
+296,"00:20:28,280","00:20:31,320",1228.28,1231.32,3.0399999999999636,"Das lief schlechter als es hätte sein müssen,"
+297,"00:20:31,320","00:20:33,400",1231.32,1233.4,2.0800000000001546,allein dem Druck geschuldet.
+298,"00:20:33,400","00:20:37,200",1233.4,1237.2,3.7999999999999545,"ML: Ich glaube, die Situation bei den meisten Geschäften,"
+299,"00:20:37,200","00:20:42,360",1237.2,1242.36,5.1599999999998545,können wir so nicht belassen.
+300,"00:20:42,400","00:20:45,240",1242.4,1245.24,2.839999999999918,Das will das Vertrauen in die Politik aus.
+301,"00:20:45,280","00:20:46,640",1245.28,1246.64,1.3600000000001273,Das haben Sie gesagt.
+302,"00:20:46,680","00:20:51,400",1246.68,1251.4,4.720000000000027,"Wann war Ihnen klar, da ist fürchterlich was schief gelaufen?"
+303,"00:20:51,440","00:20:57,920",1251.44,1257.92,6.480000000000018,"KL: ich habe systematisch versucht zu verstehen,"
+304,"00:20:57,960","00:21:02,280",1257.96,1262.28,4.319999999999936,was ist damals gelaufen.
+305,"00:21:02,320","00:21:10,600",1262.32,1270.6,8.279999999999973,"Zum Teil ist mir aufgefallen, die eigenen Leute wussten es nicht."
+306,"00:21:11,920","00:21:16,160",1271.92,1276.16,4.240000000000009,"Da ist mir aufgefallen, dass wir eine unsichere Situation haben."
+307,"00:21:16,200","00:21:19,520",1276.2,1279.52,3.3199999999999363,Ich wollte den Schaden begrenzen.
+308,"00:21:19,560","00:21:26,720",1279.56,1286.72,7.160000000000082,"Ich wollte kapieren, wie das damals gewesen ist."
+309,"00:21:36,720","00:21:41,840",1296.72,1301.84,5.119999999999891,"So Sachen wie Emex, wo man 50 Million Provision bekommt."
+310,"00:21:41,880","00:21:48,320",1301.88,1308.32,6.439999999999827,Das sind keine normalen Verhältnisse.
+311,"00:21:54,520","00:21:58,200",1314.52,1318.2,3.6800000000000637,"Da kann ich nicht als Minister drüber gehen und sagen,"
+312,"00:21:58,200","00:21:59,520",1318.2,1319.52,1.3199999999999363,dass es so passiert.
+313,"00:21:59,560","00:22:02,400",1319.56,1322.4,2.8400000000001455,"Daher habe ich damals das Gefühl bekommen,"
+314,"00:22:02,400","00:22:07,120",1322.4,1327.12,4.7199999999998,das muss mal richtig aufgearbeitet werden.
+315,"00:22:07,160","00:22:12,360",1327.16,1332.36,5.199999999999818,"Und Frau Sudhoff habe ich ausgewählt,"
+316,"00:22:12,360","00:22:17,320",1332.36,1337.32,4.960000000000036,weil sie mit Beschaffung sehr viel Ahnung hat.
+317,"00:22:17,360","00:22:22,880",1337.36,1342.88,5.520000000000209,"Ich lege großen Wert darauf, mit Leuten zusammenzuarbeiten,"
+318,"00:22:22,920","00:22:26,000",1342.92,1346.0,3.0799999999999272,die das was ich von Ihnen möchte auch wirklich gut machen.
+319,"00:22:26,040","00:22:27,760",1346.04,1347.76,1.7200000000000273,Sie hatte super viel Erfahrungen.
+320,"00:22:27,800","00:22:36,080",1347.8,1356.08,8.279999999999973,Mit dem durchdringen komplexer Vorgänge und auch mit Beschaffung.
+321,"00:22:39,120","00:22:43,240",1359.12,1363.24,4.120000000000118,"So ist es dann auch gewesen, sie hat es gewuppt."
+322,"00:22:43,280","00:22:47,200",1363.28,1367.2,3.9200000000000728,"Wenn der solche Prozesse laufen, und wir verloren sind."
+323,"00:22:47,240","00:22:49,920",1367.24,1369.92,2.6800000000000637,"Dann muss ich wissen, wie das hier läuft."
+324,"00:22:49,960","00:22:54,080",1369.96,1374.08,4.119999999999891,Sie hatte da den Auftrag
+325,"00:22:54,120","00:22:57,240",1374.12,1377.24,3.1200000000001182,die Prozessstrategie noch einmal zu überdenken.
+326,"00:22:57,280","00:23:00,800",1377.28,1380.8,3.519999999999982,Ich bin kein Jurist.
+327,"00:23:00,840","00:23:04,120",1380.84,1384.12,3.2799999999999727,"Ich bin immer sehr vorsichtig,"
+328,"00:23:04,120","00:23:10,880",1384.12,1390.88,6.760000000000218,"mich zu Dingen zu äußern, von denen ich nichts verstehe."
+329,"00:23:10,920","00:23:15,440",1390.92,1395.44,4.519999999999982,"Meine Tochter ist eine begabte Juristen, ich bin es nicht."
+330,"00:23:15,480","00:23:18,920",1395.48,1398.92,3.4400000000000546,"Von daher wollte ich jemanden, der mich berät,"
+331,"00:23:18,920","00:23:22,240",1398.92,1402.24,3.3199999999999363,"wie die Prozessstrategie hier ist, die wir machen."
+332,"00:23:22,280","00:23:27,120",1402.28,1407.12,4.839999999999918,"Das lief nicht optimal,"
+333,"00:23:27,120","00:23:34,360",1407.12,1414.36,7.240000000000009,das hat Frau Berndt gerade zum Ausdruck gebracht.
+334,"00:23:36,920","00:23:41,240",1416.92,1421.24,4.319999999999936,ML: Und hat Frau Sudhoff sich auch mit ihrem Handeln beschäftigt?
+335,"00:23:41,280","00:23:45,360",1421.28,1425.36,4.079999999999927,KL: Selbstverständlich.
+336,"00:23:45,400","00:23:50,480",1425.4,1430.48,5.079999999999927,"Sie müssen selbst recherchieren, was drin stand."
+337,"00:23:50,480","00:23:52,800",1430.48,1432.8,2.3199999999999363,ML: Ich würde es
+338,"00:23:52,800","00:23:57,800",1432.8,1437.8,5.0,"lesen,"
+339,"00:23:58,040","00:24:01,320",1438.04,1441.32,3.2799999999999727,aber leider der schwarze Edding macht mir
+340,"00:24:01,360","00:24:05,760",1441.36,1445.76,4.400000000000091,da einen Strich durch die Rechnung.
+341,"00:24:05,800","00:24:11,160",1445.8,1451.16,5.360000000000127,Aber warum erzählen Sie nicht was da drin steht.
+342,"00:24:11,200","00:24:14,600",1451.2,1454.6,3.3999999999998636,Ich lass sie da nicht raus.
+343,"00:24:14,640","00:24:17,680",1454.64,1457.68,3.0399999999999636,"KL: Was ganz klar ist,"
+344,"00:24:17,680","00:24:25,640",1457.68,1465.64,7.960000000000036,übrigens als Olaf Scholz auch nicht unkritisch weggekommen.
+345,"00:24:25,680","00:24:33,040",1465.68,1473.04,7.3599999999999,"Er hat als Finanzminister Beträge genehmigen müssen,"
+346,"00:24:36,080","00:24:40,520",1476.08,1480.52,4.440000000000055,"wo sich im Nachhinein herausgestellt,"
+347,"00:24:40,560","00:24:44,200",1480.56,1484.2,3.6400000000001,"dass die Ware wieder Gegenstand, nicht beliefert wurde,"
+348,"00:24:44,240","00:24:46,800",1484.24,1486.8,2.5599999999999454,sondern die Beträge nur bezahlt worden.
+349,"00:24:46,840","00:24:49,320",1486.84,1489.32,2.480000000000018,"Es wurde Ramsch geliefert,"
+350,"00:24:49,360","00:24:53,080",1489.36,1493.08,3.7200000000000273,der Logistiker kann das nicht prüfen.
+351,"00:24:53,120","00:24:57,680",1493.12,1497.68,4.560000000000173,ML: Das steht im Bericht drin?
+352,"00:24:57,680","00:25:03,560",1497.68,1503.56,5.879999999999882,KL: Details tun hier nichts zur Sache.
+353,"00:25:03,560","00:25:09,600",1503.56,1509.6,6.039999999999964,"Ich bin in die Schuhe gekommen,"
+354,"00:25:10,720","00:25:16,000",1510.72,1516.0,5.279999999999973,"von daher wenn ich mir eines vorwerfen sollte,"
+355,"00:25:16,040","00:25:22,440",1516.04,1522.44,6.400000000000091,"wenn ich jetzt noch mal zu tun hätte,"
+356,"00:25:23,800","00:25:31,000",1523.8,1531.0,7.2000000000000455,hätte ich Frau Sudhoff früher mit dieser Aufgabe betraut.
+357,"00:25:31,040","00:25:37,440",1531.04,1537.44,6.400000000000091,Sie hat das super gut und gründlich gemacht.
+358,"00:25:37,480","00:25:40,120",1537.48,1540.12,2.6399999999998727,"Aber wäre ich früher dazu übergegangen,"
+359,"00:25:40,160","00:25:45,040",1540.16,1545.04,4.879999999999882,wäre es kein Fehler gewesen.
+360,"00:25:45,080","00:25:49,400",1545.08,1549.4,4.320000000000164,CB: Sie hätten den Bericht trotzdem veröffentlichen können.
+361,"00:25:49,440","00:25:53,000",1549.44,1553.0,3.5599999999999454,"Der liegt seit Jahren vor, da waren sie noch Minister,"
+362,"00:25:53,040","00:25:58,560",1553.04,1558.56,5.519999999999982,dann hätten wir diesen ganzen Ärger auch nicht im Nachhinein.
+363,"00:25:58,560","00:26:04,880",1558.56,1564.88,6.320000000000164,"KL: Der Bericht wurde noch geprüft,"
+364,"00:26:07,080","00:26:10,080",1567.08,1570.08,3.0,"da wurde ich darum gebeten, dass dem Bericht"
+365,"00:26:10,080","00:26:16,280",1570.08,1576.28,6.2000000000000455,in dem Teil wo sie betroffen sind
+366,"00:26:21,200","00:26:22,920",1581.2,1582.92,1.7200000000000273,ML: Spahn hat ihn gelesen?
+367,"00:26:22,920","00:26:29,240",1582.92,1589.24,6.319999999999936,"KL: Weiß ich nicht. Sie haben gerade gesagt,"
+368,"00:26:29,280","00:26:36,360",1589.28,1596.36,7.079999999999927,"darum gebeten dass alle die darin vorkommen,.."
+369,"00:26:37,640","00:26:46,240",1597.64,1606.24,8.599999999999909,KL: Ich bin verantwortlich für meine Mitarbeiterinnen und Mitarbeiter.
+370,"00:26:48,800","00:26:52,280",1608.8,1612.28,3.480000000000018,Und wenn meine Mitarbeiterinnen und Mitarbeiter
+371,"00:26:52,360","00:26:54,800",1612.36,1614.8,2.4400000000000546,"in dem Bericht vorkommen,"
+372,"00:26:54,840","00:27:02,160",1614.84,1622.16,7.320000000000164,dann muss den Leuten die Möglichkeit der Stellungnahme geboten werden.
+373,"00:27:02,200","00:27:09,920",1622.2,1629.92,7.720000000000027,ML: Jens Spahn ist die zentrale Figur in diesem Bericht.
+374,"00:27:11,280","00:27:17,360",1631.28,1637.36,6.079999999999927,KL: Da muss man folgendes unterscheiden.
+375,"00:27:17,400","00:27:19,880",1637.4,1639.88,2.480000000000018,ML: Stimmt das oder stimmt das nicht?
+376,"00:27:19,920","00:27:21,840",1639.92,1641.84,1.9199999999998454,KL: Ob er befragt worden ist?
+377,"00:27:21,880","00:27:26,920",1641.88,1646.92,5.039999999999964,KL: Nein er wurde nicht befragt.
+378,"00:27:26,960","00:27:29,720",1646.96,1649.72,2.759999999999991,"ML: Herr Lauterbach, bitte."
+379,"00:27:29,760","00:27:36,040",1649.76,1656.04,6.279999999999973,Das ist ein wichtiger Punkt gerade.
+380,"00:27:37,600","00:27:41,120",1657.6,1661.12,3.519999999999982,Das hat doch mindestens ein politisches Geschmäckle.
+381,"00:27:41,160","00:27:46,960",1661.16,1666.96,5.7999999999999545,Es riecht nach Parteitaktik.
+382,"00:27:49,920","00:27:55,280",1669.92,1675.28,5.3599999999999,"Wenn es um Aufklärung geht, muss man denjenigen fragen,"
+383,"00:27:55,320","00:27:59,200",1675.32,1679.2,3.880000000000109,der maßgeblich für das eine oder andere verantwortlich ist.
+384,"00:27:59,240","00:28:02,120",1679.24,1682.12,2.8799999999998818,"KL: Es war nicht die Aufgabe des Berichtes,"
+385,"00:28:02,200","00:28:04,520",1682.2,1684.52,2.3199999999999363,"die Aufgabe des Berichtes war festzustellen,"
+386,"00:28:04,560","00:28:06,280",1684.56,1686.28,1.7200000000000273,was damals im Haus gemacht worden.
+387,"00:28:06,360","00:28:11,400",1686.36,1691.4,5.040000000000191,"Weder Angela Merkel, noch Olaf Scholz, noch ich noch Jens Spahn,"
+388,"00:28:11,480","00:28:17,960",1691.48,1697.96,6.480000000000018,wir als die politischen Träger sind befragt worden.
+389,"00:28:18,040","00:28:19,920",1698.04,1699.92,1.8800000000001091,"Das kann doch nicht zu sein,"
+390,"00:28:19,960","00:28:25,160",1699.96,1705.16,5.2000000000000455,dass wir als die politischen Verantwortungsträger
+391,"00:28:25,200","00:28:27,880",1705.2,1707.88,2.6800000000000637,plötzlich in der Fürsorge sind.
+392,"00:28:27,920","00:28:34,160",1707.92,1714.16,6.240000000000009,Kein Politiker ist gefragt worden.
+393,"00:28:42,000","00:28:46,640",1722.0,1726.64,4.6400000000001,"Scholz nicht, Merkel nicht, Helge Braun nicht."
+394,"00:28:46,680","00:28:48,760",1726.68,1728.76,2.0799999999999272,ML: Aber sie haben ihn gelesen.
+395,"00:28:48,840","00:28:50,760",1728.84,1730.76,1.9200000000000728,"KL: Ja, nachdem er fertig war."
+396,"00:28:50,840","00:28:53,320",1730.84,1733.32,2.480000000000018,"Wir haben den Bericht jetzt verfügbar,"
+397,"00:28:53,360","00:28:57,280",1733.36,1737.28,3.9200000000000728,"und ich verstehe ehrlich gesagt nicht,"
+398,"00:28:57,360","00:29:01,120",1737.36,1741.12,3.759999999999991,warum denn nicht Jens Spahn zur Verfügung gestellt wurde.
+399,"00:29:01,160","00:29:04,280",1741.16,1744.28,3.119999999999891,Das würden ihn nicht immer machen.
+400,"00:29:04,320","00:29:07,600",1744.32,1747.6,3.2799999999999727,"Ich habe den Bericht ja nicht veröffentlicht,"
+401,"00:29:07,680","00:29:14,440",1747.68,1754.44,6.759999999999991,weil in der Phase wurde er noch bearbeitet.
+402,"00:29:14,480","00:29:21,080",1754.48,1761.08,6.599999999999909,"ML: Sie haben's gelesen, Jens Spahn hätte es lesen müssen."
+403,"00:29:21,120","00:29:25,560",1761.12,1765.56,4.440000000000055,"Es gab auch Teile, Jens Spahn betroffen haben."
+404,"00:29:25,600","00:29:32,000",1765.6,1772.0,6.400000000000091,"KL: Aber die politischen Verantwortungsträger,"
+405,"00:29:32,040","00:29:34,440",1772.04,1774.44,2.400000000000091,die sind nicht so zu behandeln wie...
+406,"00:29:34,520","00:29:38,160",1774.52,1778.16,3.6400000000001,"Wenn ich neutral bewerte,"
+407,"00:29:38,200","00:29:43,920",1778.2,1783.92,5.720000000000027,"was hat damals im Haus stattgefunden,..."
+408,"00:29:43,960","00:29:47,440",1783.96,1787.44,3.480000000000018,ML: Der Ex Gesundheitsminister hat den nicht gelesen?
+409,"00:29:47,520","00:29:52,200",1787.52,1792.2,4.680000000000064,"KL: Wenn er ihn nicht gelesen hat,..."
+410,"00:29:52,240","00:29:53,800",1792.24,1793.8,1.5599999999999454,ML: Sie zweifeln das an?
+411,"00:29:53,840","00:29:57,360",1793.84,1797.36,3.519999999999982,KL: Ich weiß es nicht.
+412,"00:29:57,400","00:30:03,880",1797.4,1803.88,6.480000000000018,Das ist nicht in meiner Verantwortung.
+413,"00:30:04,080","00:30:09,240",1804.08,1809.24,5.160000000000082,"ML: Ihr Teil der Verantwortung ist es,"
+414,"00:30:09,280","00:30:21,080",1809.28,1821.08,11.799999999999955,dass Sie ihn hätten zur Verfügung stellen können.
+415,"00:30:21,080","00:30:23,600",1821.08,1823.6,2.519999999999982,KL: Ich bin doch nicht in der Pflicht
+416,"00:30:23,680","00:30:26,880",1823.68,1826.88,3.2000000000000455,ihm das zur Verfügung zu stellen.
+417,"00:30:26,960","00:30:30,040",1826.96,1830.04,3.0799999999999272,"Meine Pflicht ist in 1. Linie dafür zu sorgen,"
+418,"00:30:30,080","00:30:32,560",1830.08,1832.56,2.480000000000018,und dafür habe ich gesorgt.
+419,"00:30:32,600","00:30:35,720",1832.6,1835.72,3.1200000000001182,"Damit zu beschäftigen, was es damals gelaufen."
+420,"00:30:35,760","00:30:39,560",1835.76,1839.56,3.7999999999999545,"Ich habe mich auch sehr intensiv damit auseinandergesetzt,"
+421,"00:30:39,600","00:30:41,400",1839.6,1841.4,1.800000000000182,"ist die Prozessstrategie,"
+422,"00:30:41,440","00:30:47,920",1841.44,1847.92,6.480000000000018,"die wir derzeit befolgen, erfolgreich?"
+423,"00:30:49,440","00:30:56,240",1849.44,1856.24,6.7999999999999545,"ML: D. h. es war eine Strategie zu sagen, dass war fehlerhaft?"
+424,"00:30:56,320","00:30:59,920",1856.32,1859.92,3.6000000000001364,"KL: Nein, ich war damals verantwortlich,"
+425,"00:31:00,000","00:31:04,600",1860.0,1864.6,4.599999999999909,unter meiner Leitung des Bundesgesundheitsministeriums.
+426,"00:31:04,640","00:31:07,680",1864.64,1867.68,3.0399999999999636,Da sind zahlreiche Prozesse gelaufen.
+427,"00:31:07,760","00:31:13,080",1867.76,1873.08,5.319999999999936,"Und wir haben damals,"
+428,"00:31:14,800","00:31:19,520",1874.8,1879.52,4.720000000000027,"das war einer der Gründe warum ich Frau Sudhoff gebeten hatte,"
+429,"00:31:19,560","00:31:23,400",1879.56,1883.4,3.8400000000001455,"sich das genauer anzuschauen,"
+430,"00:31:23,440","00:31:26,080",1883.44,1886.08,2.6399999999998727,ML: Sie haben die Strategie verändert?
+431,"00:31:26,120","00:31:29,800",1886.12,1889.8,3.6800000000000637,KL: Genau.
+432,"00:31:29,840","00:31:32,520",1889.84,1892.52,2.6800000000000637,"Das will ich nicht ausführen, wie genau,"
+433,"00:31:32,600","00:31:36,360",1892.6,1896.36,3.759999999999991,wir haben hier noch Teilnehmer des Prozesses.
+434,"00:31:36,400","00:31:40,080",1896.4,1900.08,3.6799999999998363,"Ich habe das Gefühl, wir kriegen kein Fuß auf den Boden."
+435,"00:31:40,120","00:31:46,160",1900.12,1906.16,6.040000000000191,Dann haben wir etwas verändert.
+436,"00:31:48,520","00:31:51,920",1908.52,1911.92,3.400000000000091,Und da hat Frau Sudhoff uns auch geholfen
+437,"00:31:52,000","00:31:58,280",1912.0,1918.28,6.279999999999973,"als eine erstklassige Juristen, die sie ja ist."
+438,"00:31:58,400","00:32:02,800",1918.4,1922.8,4.399999999999864,"ML: Wir wissen Dank ihrer Ausführung,"
+439,"00:32:02,840","00:32:08,200",1922.84,1928.2,5.360000000000127,was über Olaf Scholz drin stand.
+440,"00:32:08,240","00:32:11,800",1928.24,1931.8,3.5599999999999454,Warum reden Sie über den Kanzler aber nicht über dich?
+441,"00:32:11,840","00:32:16,160",1931.84,1936.16,4.320000000000164,"KL: Ich weiß nicht, ob da so viel über mich drinsteht."
+442,"00:32:16,240","00:32:21,560",1936.24,1941.56,5.319999999999936,ML: Sie haben ihn gelesen.
+443,"00:32:21,640","00:32:28,960",1941.64,1948.96,7.319999999999936,KL: Soviel habe ich dazu nicht mehr in Erinnerung.
+444,"00:32:30,480","00:32:36,000",1950.48,1956.0,5.519999999999982,ML: Merken Sie selber.
+445,"00:32:40,480","00:32:43,840",1960.48,1963.84,3.3599999999999,"KL: Die Vorgänge, die nicht perfekt gelaufen sind,"
+446,"00:32:43,920","00:32:46,000",1963.92,1966.0,2.0799999999999272,"das waren bestimmte Funktionen,"
+447,"00:32:46,040","00:32:48,880",1966.04,1968.88,2.8400000000001455,die hätten ausgelagert werden müssen.
+448,"00:32:48,920","00:32:52,360",1968.92,1972.36,3.439999999999827,"Das habe ich auch erst in Erfahrung bringen können,"
+449,"00:32:52,400","00:32:54,400",1972.4,1974.4,2.0,als ich es aufgearbeitet habe.
+450,"00:32:54,480","00:33:00,960",1974.48,1980.96,6.480000000000018,ML: Sie haben das ganze Ding gelesen.
+451,"00:33:01,800","00:33:08,360",1981.8,1988.36,6.559999999999945,KL: Ich habe nicht ich habe mich nicht
+452,"00:33:09,800","00:33:13,200",1989.8,1993.2,3.400000000000091,mit den Schwärzungen auseinandergesetzt.
+453,"00:33:13,280","00:33:20,000",1993.28,2000.0,6.720000000000027,Kein Wort der Selbstkritik an der Stelle?
+454,"00:33:20,080","00:33:22,800",2000.08,2002.8,2.7200000000000273,ML: Es ist ja keine Kleinigkeit.
+455,"00:33:22,880","00:33:25,840",2002.88,2005.84,2.959999999999809,Dieses wenige würden wir gerne erfahren.
+456,"00:33:25,880","00:33:31,840",2005.88,2011.84,5.959999999999809,"KL: Es ist im wesentlichen so,"
+457,"00:33:36,240","00:33:41,640",2016.24,2021.64,5.400000000000091,"mir ist im Nachhinein zu spät aufgefallen,"
+458,"00:33:41,680","00:33:47,120",2021.68,2027.12,5.439999999999827,"dass wir in der Art und Weise,"
+459,"00:33:47,200","00:33:55,520",2027.2,2035.52,8.319999999999936,"wie wir mit dem Thema umgehen, nicht ausreichend transparent sind."
+460,"00:34:00,360","00:34:05,760",2040.36,2045.76,5.400000000000091,Da hätte ich den Bericht nachhaltig früher veröffentlichen müssen.
+461,"00:34:05,840","00:34:13,480",2045.84,2053.48,7.6400000000001,"CB: Es ging auch um Geschäfte, die sehr fragwürdig sind."
+462,"00:34:22,120","00:34:27,560",2062.12,2067.56,5.440000000000055,"Verfahren durch Herrn Spahn, durch eine Firma die"
+463,"00:34:27,600","00:34:33,880",2067.6,2073.88,6.2800000000002,mit der CDU sehr gut vernetzt ist.
+464,"00:34:34,200","00:34:41,320",2074.2,2081.32,7.120000000000346,ML: Aus dem Nachbarwahlkreis von Ehren sparen.
+465,"00:34:41,920","00:34:45,120",2081.92,2085.12,3.199999999999818,"Ich finde, der Bericht hätte früher raus müssen."
+466,"00:34:45,160","00:34:51,440",2085.16,2091.44,6.2800000000002,Ich sehe das als großes Versäumnis.
+467,"00:34:52,600","00:34:59,560",2092.6,2099.56,6.960000000000036,Da müssen Sie auch politisch aktiver werden.
+468,"00:35:02,240","00:35:05,360",2102.24,2105.36,3.1200000000003456,"Weil sie doch ein so starkes Geschmäckle hat,"
+469,"00:35:05,440","00:35:11,400",2105.44,2111.4,5.960000000000036,weil man das so tief reingraben kann.
+470,"00:35:11,480","00:35:15,000",2111.48,2115.0,3.519999999999982,"ML: Verstehen Sie, das ist unser Thema hier."
+471,"00:35:15,000","00:35:17,920",2115.0,2117.92,2.9200000000000728,"und ich sage wieder Untersuchungsausschuss,"
+472,"00:35:18,000","00:35:22,760",2118.0,2122.76,4.760000000000218,"dieses Wort wollte ihm nicht über die Lippen kommen, warum nicht?"
+473,"00:35:22,760","00:35:26,080",2122.76,2126.08,3.319999999999709,"KL: Das weiß ich nicht, Sie haben ihm ja gefragt."
+474,"00:35:26,160","00:35:29,200",2126.16,2129.2,3.0399999999999636,Ich würde mich da nicht einmischen wollen.
+475,"00:35:29,240","00:35:32,160",2129.24,2132.16,2.9200000000000728,- Es ist ein Verfahren über das reden.
+476,"00:35:32,240","00:35:38,360",2132.24,2138.36,6.120000000000346,KL: Da mische ich mich nicht ein.
+477,"00:35:38,960","00:35:42,480",2138.96,2142.48,3.519999999999982,"- Warum Frau Berndt, wäre der Untersuchungsausschuss"
+478,"00:35:42,560","00:35:44,960",2142.56,2144.96,2.400000000000091,das richtige Instrument?
+479,"00:35:45,040","00:35:49,840",2145.04,2149.84,4.800000000000182,"CB: Es geht um den Verdacht von Vorteilsnahme,"
+480,"00:35:49,880","00:35:57,160",2149.88,2157.16,7.279999999999745,dass es sehr viel mehr als nur Fehlentscheidungen.
+481,"00:35:57,760","00:36:04,360",2157.76,2164.36,6.599999999999909,"Es gibt eine auf Bearbeitung insgesamt,"
+482,"00:36:05,600","00:36:07,680",2165.6,2167.68,2.0799999999999272,"da finde ich das auch richtig,"
+483,"00:36:07,760","00:36:10,880",2167.76,2170.88,3.119999999999891,man muss politische Entscheidungen hinterfragen.
+484,"00:36:10,920","00:36:17,800",2170.92,2177.8,6.880000000000109,"Aber hier geht es um mehr, es geht um Deals."
+485,"00:36:22,360","00:36:26,480",2182.36,2186.48,4.119999999999891,"Es geht um die Frage, welche Rolle hat ein Minister gespielt,"
+486,"00:36:26,560","00:36:29,560",2186.56,2189.56,3.0,der heute noch einer sehr hohen Funktion aus.
+487,"00:36:29,640","00:36:30,760",2189.64,2190.76,1.1200000000003456,Der sich ausmacht
+488,"00:36:30,800","00:36:31,760",2190.8,2191.76,0.9600000000000364,vielleicht mal
+489,"00:36:31,840","00:36:33,720",2191.84,2193.72,1.8799999999996544,unser nächster Bundeskanzler zu werden.
+490,"00:36:33,760","00:36:35,640",2193.76,2195.64,1.8799999999996544,"Da finde ich muss man genau hingucken,"
+491,"00:36:35,720","00:36:44,320",2195.72,2204.32,8.600000000000364,"inwieweit er sich aufgeschwungen hat in Dinge, die ihm nicht zustanden."
+492,"00:36:46,080","00:36:54,600",2206.08,2214.6,8.519999999999982,"- Ist das etwas, das symptomatisch ist, was da schief gelaufen ist?"
+493,"00:36:55,240","00:37:02,720",2215.24,2222.72,7.480000000000018,CB: Gab verschiedene Verfahren an Masken zu kommen.
+494,"00:37:04,120","00:37:06,520",2224.12,2226.52,2.400000000000091,"Es gab die Einstellung,"
+495,"00:37:06,600","00:37:10,400",2226.6,2230.4,3.800000000000182,wir nehmen alles für den Preis von vier Euro 50.
+496,"00:37:10,440","00:37:13,480",2230.44,2233.48,3.0399999999999636,Aber es gab auch direkt Verträge.
+497,"00:37:13,560","00:37:17,080",2233.56,2237.08,3.519999999999982,Unter anderem mit einer kleinen Firma aus der Schweiz
+498,"00:37:17,160","00:37:22,360",2237.16,2242.36,5.200000000000273,mit dem Namen Emex
+499,"00:37:24,320","00:37:26,480",2244.32,2246.48,2.1599999999998545,wo Töchter von CDU-Politikern
+500,"00:37:26,560","00:37:32,640",2246.56,2252.64,6.079999999999927,eine sehr unrühmliche Rolle gespielt haben.
+501,"00:37:32,760","00:37:35,800",2252.76,2255.8,3.0399999999999636,Wo auch Gelder geflossen sind.
+502,"00:37:35,880","00:37:44,080",2255.88,2264.08,8.199999999999818,Wo ist nach meiner Ansicht dringend eine Aufarbeitung nötig ist.
+503,"00:37:45,480","00:37:53,280",2265.48,2273.28,7.800000000000182,Für diese Masken wurde auch mehr als vier Euro 50 gezahlt.
+504,"00:37:56,680","00:38:01,160",2276.68,2281.16,4.480000000000018,KL: Die Emex-Masken waren sehr teuer.
+505,"00:38:01,240","00:38:04,200",2281.24,2284.2,2.9600000000000364,Das ging schon auf die sechs Euro zu.
+506,"00:38:04,240","00:38:11,120",2284.24,2291.12,6.880000000000109,- Da war das Opernhausverfahren schon durch?
+507,"00:38:14,280","00:38:18,080",2294.28,2298.08,3.799999999999727,KL: Die Masken sind soweit ich weiß spät gekauft worden.
+508,"00:38:18,120","00:38:19,120",2298.12,2299.12,1.0,Das ist richtig.
+509,"00:38:19,200","00:38:23,440",2299.2,2303.44,4.2400000000002365,"Das Opernhausverfahren gehört auch war zu den Dingen,"
+510,"00:38:23,520","00:38:28,840",2303.52,2308.84,5.320000000000164,die schon früher kritisiert habe.
+511,"00:38:28,920","00:38:35,120",2308.92,2315.12,6.199999999999818,"Das Problem war aber das Verfahren lief,"
+512,"00:38:35,200","00:38:42,480",2315.2,2322.48,7.2800000000002,die ganze Welt wollte uns zu den Preisen Masken liefern.
+513,"00:38:42,560","00:38:46,400",2322.56,2326.4,3.8400000000001455,Und so schnell konnte nicht geprüft werden welche Qualität
+514,"00:38:46,480","00:38:50,120",2326.48,2330.12,3.6399999999998727,"haben die Masken, funktionieren die, so weiter. Es"
+515,"00:38:50,200","00:38:55,800",2330.2,2335.8,5.600000000000364,wurde Ramsch geliefert...
+516,"00:38:58,520","00:39:06,960",2338.52,2346.96,8.440000000000055,"Dann hat man das Verfahren gestoppt, gesagt, wir haben genug Masken."
+517,"00:39:08,040","00:39:12,680",2348.04,2352.68,4.639999999999873,"Dann sind danach noch Masken gekauft wurden, vom Schweizer Unternehmen,"
+518,"00:39:12,760","00:39:20,200",2352.76,2360.2,7.4399999999996,und von anderen. Das hat vor Gericht Probleme gemacht.
+519,"00:39:22,840","00:39:26,400",2362.84,2366.4,3.5599999999999454,"Wenn ich nicht mehr annehme, wahrlich genug Masken habe,"
+520,"00:39:26,480","00:39:28,920",2366.48,2368.92,2.4400000000000546,"dann ist eine Spannung vor Gericht dar,"
+521,"00:39:29,000","00:39:33,280",2369.0,2373.28,4.2800000000002,wenn ich danach noch teuer gekauft habe.
+522,"00:39:33,360","00:39:35,520",2373.36,2375.52,2.1599999999998545,"Das hat die Strategie verschlechtert,"
+523,"00:39:35,600","00:39:39,760",2375.6,2379.76,4.160000000000309,"das muss man sein. Das war eine der Gründe, warum ich diese Aufarbeitung"
+524,"00:39:39,840","00:39:41,040",2379.84,2381.04,1.199999999999818,veranlasst habe.
+525,"00:39:41,120","00:39:44,440",2381.12,2384.44,3.3200000000001637,"CB: Aber das ist nicht nur vor Gericht fragwürdig,"
+526,"00:39:44,480","00:39:48,000",2384.48,2388.0,3.519999999999982,sondern auch wegen aller steuerzahlenden.
+527,"00:39:48,080","00:39:55,200",2388.08,2395.2,7.119999999999891,- Allein die Provision dafür waren 50 Millionen?
+528,"00:39:56,440","00:40:03,120",2396.44,2403.12,6.679999999999836,"Und Frau vor Gericht zerrt, weil sie nicht genügend versteuert hat."
+529,"00:40:03,200","00:40:08,840",2403.2,2408.84,5.640000000000327,"KL: Ja das ist etwas anderes, sie war offenbar"
+530,"00:40:08,960","00:40:15,840",2408.96,2415.84,6.880000000000109,mit dem versteuerten Betrag nicht befriedigt.
+531,"00:40:16,280","00:40:20,160",2416.28,2420.16,3.8799999999996544,"Und wollte offensichtlich noch illegale Steuergestaltung,"
+532,"00:40:20,240","00:40:22,560",2420.24,2422.56,2.3200000000001637,"den Schnitt verbessern,"
+533,"00:40:22,640","00:40:27,880",2422.64,2427.88,5.2400000000002365,das war unehrenhaft.
+534,"00:40:34,520","00:40:37,360",2434.52,2437.36,2.8400000000001455,"Damals sind auch andere Leute aufgefallen,"
+535,"00:40:37,440","00:40:41,560",2437.44,2441.56,4.119999999999891,"zum Beispiel der Kollegen Nüster, ich habe ihn immer geschätzt."
+536,"00:40:41,640","00:40:44,080",2441.64,2444.08,2.4400000000000546,Er hat aber versucht Geld mitzunehmen.
+537,"00:40:44,200","00:40:49,640",2444.2,2449.64,5.440000000000055,Ist aus der Politik ausgeschieden.
+538,"00:40:49,720","00:40:53,760",2449.72,2453.76,4.040000000000418,Aber man hat damals versucht in der Not den Staat auszunehmen
+539,"00:40:53,840","00:40:58,040",2453.84,2458.04,4.199999999999818,wie eine Weihnachtsgans.
+540,"00:40:58,120","00:40:59,960",2458.12,2459.96,1.8400000000001455,"Das war besonders abstoßend,"
+541,"00:41:00,080","00:41:01,760",2460.08,2461.76,1.680000000000291,das wollte ich tatsächlich
+542,"00:41:01,840","00:41:05,120",2461.84,2465.12,3.2799999999997453,auch durch den Bericht noch mal richtig aufgearbeitet haben.
+543,"00:41:05,200","00:41:08,640",2465.2,2468.64,3.4400000000000546,"Das hat auch nachher einen Einfluss darauf gehabt, dass für die"
+544,"00:41:08,720","00:41:10,920",2468.72,2470.92,2.200000000000273,Strategie geändert haben.
+545,"00:41:11,000","00:41:15,920",2471.0,2475.92,4.920000000000073,- An welchem Punkt kommen Sie ins Spiel?
+546,"00:41:15,960","00:41:21,640",2475.96,2481.64,5.679999999999836,"Ich finde es interessant,"
+547,"00:41:24,040","00:41:32,680",2484.04,2492.68,8.639999999999873,"dass mal jemand hier sitzt, der an diesem Verfahren teilgenommen hat."
+548,"00:41:33,400","00:41:36,520",2493.4,2496.52,3.119999999999891,"TG: Handel wir sind ein Großhandelunternehmen,"
+549,"00:41:36,600","00:41:42,400",2496.6,2502.4,5.800000000000182,ein fachfremdes Unternehmen.
+550,"00:41:47,080","00:41:49,920",2507.08,2509.92,2.8400000000001455,"Wir haben langjährige Importerfahrung aus China,"
+551,"00:41:50,000","00:41:52,880",2510.0,2512.88,2.880000000000109,wir haben ein zuverlässiges Beschaffungsnetzwerk.
+552,"00:41:52,960","00:41:55,960",2512.96,2515.96,3.0,Ein zuverlässiges Logistiknetzwerk.
+553,"00:41:56,040","00:41:59,480",2516.04,2519.48,3.4400000000000546,"Wir waren damit genau die Zielgruppe, die Herr Spahn"
+554,"00:41:59,560","00:42:02,280",2519.56,2522.28,2.7200000000002547,damals mit dem Verfahren ansprechen wollt.
+555,"00:42:02,360","00:42:09,480",2522.36,2529.48,7.119999999999891,Sie gehörten zu den kleinen und mittelständischen Unternehmen.
+556,"00:42:09,560","00:42:13,120",2529.56,2533.12,3.5599999999999454,"Die über die finanziellen Mittel verfügen, die einsetzen möchten,"
+557,"00:42:13,440","00:42:16,960",2533.44,2536.96,3.519999999999982,um dem Bund bei den Anschaffungen von Masken zu unterstützen. Weil die
+558,"00:42:17,040","00:42:19,480",2537.04,2539.48,2.4400000000000546,Fachunternehmer nicht liefern konnten.
+559,"00:42:19,520","00:42:23,520",2539.52,2543.52,4.0,- Die Zwei Unternehmen zu der Zeit?
+560,"00:42:23,600","00:42:27,520",2543.6,2547.52,3.9200000000000728,"Mitarbeiter, Umsatz?"
+561,"00:42:27,600","00:42:30,320",2547.6,2550.32,2.7200000000002547,TG: Wir sind ein sehr kleines Unternehmen.
+562,"00:42:30,400","00:42:34,680",2550.4,2554.68,4.279999999999745,"Mein Mann und ich führen die Firma, wir sind zu zweit."
+563,"00:42:34,760","00:42:39,160",2554.76,2559.16,4.399999999999636,Wir hatten vor dem Verfahren etwa 3 Millionen Euro Umsatz zu zweit.
+564,"00:42:39,240","00:42:40,720",2559.24,2560.72,1.4800000000000182,"- Respekt, Hut ab."
+565,"00:42:40,760","00:42:46,960",2560.76,2566.96,6.199999999999818,Ein sehr cleveres Geschäftsmodell.
+566,"00:42:49,440","00:42:52,640",2569.44,2572.64,3.199999999999818,"TG: Wir haben dieses Jahr 25- jähriges Bestehen,"
+567,"00:42:52,760","00:42:57,240",2572.76,2577.24,4.479999999999563,wir haben uns mit Fleiß und Energie das Unternehmen aufgebaut.
+568,"00:42:57,320","00:42:59,840",2577.32,2579.84,2.519999999999982,"- Dann hören Sie von diesem Verfahren,"
+569,"00:42:59,920","00:43:05,440",2579.92,2585.44,5.519999999999982,wie bekommt man so etwas mit?
+570,"00:43:05,560","00:43:09,920",2585.56,2589.92,4.360000000000127,"TG: Wir haben Anfang März mitbekommen,"
+571,"00:43:10,040","00:43:13,320",2590.04,2593.32,3.2800000000002,dass die Pandemie nach Deutschland geschwappt ist.
+572,"00:43:13,400","00:43:16,320",2593.4,2596.32,2.9200000000000728,"Wir haben Kontakt zum Landkreis aufgenommen,"
+573,"00:43:16,400","00:43:19,480",2596.4,2599.48,3.0799999999999272,"ob Interesse besteht, dass Villamasken liefern."
+574,"00:43:19,560","00:43:25,520",2599.56,2605.52,5.960000000000036,Dann wurden wir ans Beschaffungsamt des Landes verwiesen.
+575,"00:43:25,600","00:43:32,440",2605.6,2612.44,6.8400000000001455,"Dann wurde uns mitgeteilt, dass es für uns,"
+576,"00:43:33,000","00:43:37,960",2613.0,2617.96,4.960000000000036,dieses Verfahren gibt.
+577,"00:43:38,040","00:43:45,840",2618.04,2625.84,7.800000000000182,"Wir wussten, es gibt ein Verfahren, es war ausgeschrieben."
+578,"00:43:47,440","00:43:55,440",2627.44,2635.44,8.0,"Preis und Leistungsbeschreibung hat man dann erst erfahren,"
+579,"00:43:58,120","00:44:02,440",2638.12,2642.44,4.320000000000164,wenn man sich die Angebotsunterlagen bei der abwickelnden Behörde
+580,"00:44:02,520","00:44:06,080",2642.52,2646.08,3.5599999999999454,erfragt hat.- Fanden sie den Preis angemessen?
+581,"00:44:06,160","00:44:10,480",2646.16,2650.48,4.320000000000164,"TG: Ja das war ein angemessener Preis,"
+582,"00:44:10,560","00:44:18,440",2650.56,2658.44,7.880000000000109,"wir mussten ja Freihaus anliefern, die Masken nicht nur beschaffen,"
+583,"00:44:18,520","00:44:21,840",2658.52,2661.84,3.3200000000001637,"wir durften einen Flughafen an Shanghai liefern,"
+584,"00:44:21,920","00:44:24,240",2661.92,2664.24,2.319999999999709,mussten den Transport organisieren.
+585,"00:44:24,320","00:44:25,720",2664.32,2665.72,1.3999999999996362,Mitten im Lockdown.
+586,"00:44:25,800","00:44:32,880",2665.8,2672.88,7.079999999999927,Die Lufthansa hat ihre Frachtflieger in Frankfurt aufgereiht.
+587,"00:44:32,960","00:44:35,880",2672.96,2675.88,2.9200000000000728,"Von daher war der Preis für die Beschaffung,"
+588,"00:44:35,960","00:44:41,560",2675.96,2681.56,5.599999999999909,"die Vorfinanzierung, die Versicherung, durchaus angemessen."
+589,"00:44:41,640","00:44:44,560",2681.64,2684.56,2.9200000000000728,"CB: Da hat man natürlich auch andere Stimmen,"
+590,"00:44:44,640","00:44:47,920",2684.64,2687.92,3.2800000000002,die man das sehr anders sehen.
+591,"00:44:48,000","00:44:51,040",2688.0,2691.04,3.0399999999999636,"Es gibt auch im Ministerium kritische Stimmen,"
+592,"00:44:51,120","00:44:53,920",2691.12,2693.92,2.800000000000182,"sie haben gesagt, dieser Preis ist zu hoch."
+593,"00:44:54,000","00:45:00,720",2694.0,2700.72,6.7199999999998,"- Darf ich fragen, was haben Sie bezahlt für eine Maske?"
+594,"00:45:00,840","00:45:04,600",2700.84,2704.6,3.7599999999997635,TG: Das kann ich mit Versicherung und allem Drum und Dran
+595,"00:45:04,680","00:45:09,400",2704.68,2709.4,4.720000000000255,nicht sagen.
+596,"00:45:09,520","00:45:12,160",2709.52,2712.16,2.6399999999998727,"Natürlich haben wir auch daran verdient,"
+597,"00:45:12,240","00:45:15,760",2712.24,2715.76,3.5200000000004366,sonst würden wir das auch aus unternehmerischer Sicht
+598,"00:45:15,840","00:45:20,000",2715.84,2720.0,4.1599999999998545,"nicht machen. Ich schließe mich Herr Lauterbach an, wir sind vor Gericht,"
+599,"00:45:20,080","00:45:23,400",2720.08,2723.4,3.3200000000001637,ich kann einige Dinge nicht sagen. Sie können vor Gericht
+600,"00:45:23,480","00:45:25,240",2723.48,2725.24,1.7599999999997635,gegen mich verwendet werden.
+601,"00:45:25,360","00:45:31,760",2725.36,2731.76,6.400000000000091,- Die Leute würden das gerne verstehen.
+602,"00:45:31,880","00:45:33,560",2731.88,2733.56,1.6799999999998363,"TG: Die Strategieänderung,"
+603,"00:45:33,680","00:45:36,960",2733.68,2736.96,3.2800000000002,"die Herr Lauterbach angesprochen hat beruht darauf,"
+604,"00:45:37,080","00:45:40,920",2737.08,2740.92,3.8400000000001455,"auf der Geschichte, die Frau Sudhoff ins Spiel gebracht hat."
+605,"00:45:41,000","00:45:47,560",2741.0,2747.56,6.559999999999945,"Dass Herr Spahn dem Preis gemacht, der nicht zulässig sei."
+606,"00:45:47,640","00:45:51,480",2747.64,2751.48,3.8400000000001455,Und dann auf Basis der tatsächlichen Kosten der Lieferanten
+607,"00:45:51,600","00:45:54,800",2751.6,2754.8,3.200000000000273,kalkuliert hätte werden müssen. Haben Sie
+608,"00:45:54,880","00:45:58,120",2754.88,2758.12,3.2399999999997817,- Haben Sie weniger als ein Euro pro Maske bezahlt?
+609,"00:45:58,200","00:46:02,160",2758.2,2762.16,3.9600000000000364,TG: Nein deutlich mehr.
+610,"00:46:02,240","00:46:06,720",2762.24,2766.72,4.480000000000018,"- Sie haben die Kontakte in China, sie rufen die Geschäftspartner an,"
+611,"00:46:06,840","00:46:12,400",2766.84,2772.4,5.559999999999945,die Erfahrung mit Masken?
+612,"00:46:12,880","00:46:15,840",2772.88,2775.84,2.9600000000000364,"TG: Ja, hatten sie zu dieser Zeit schon,"
+613,"00:46:15,920","00:46:18,120",2775.92,2778.12,2.199999999999818,sie haben im Dezember angefangen.
+614,"00:46:18,200","00:46:23,520",2778.2,2783.52,5.320000000000164,Sie haben angefangen im Inland vorzusorgen.
+615,"00:46:23,640","00:46:28,200",2783.64,2788.2,4.559999999999945,"Wir hatten ein sehr gutes Netzwerk dort. Ein hochwerkeln Produzenten,"
+616,"00:46:28,280","00:46:36,840",2788.28,2796.84,8.559999999999945,es gab eine Whitelist.- Sie haben im Grunde komplettes Neuland betreten.
+617,"00:46:36,960","00:46:43,720",2796.96,2803.72,6.7599999999997635,Gab es damals in China ausreichend Masken?
+618,"00:46:46,520","00:46:53,240",2806.52,2813.24,6.7199999999998,"TG: Ja, es war nur schwierig zuverlässige Lieferanten zu finden."
+619,"00:46:53,320","00:47:00,680",2813.32,2820.68,7.359999999999673,Wir haben entsprechend qualitative Masken geliefert.
+620,"00:47:04,840","00:47:08,800",2824.84,2828.8,3.9600000000000364,"- Wenn sie das konnten, sie kannten sich mit In- und Export"
+621,"00:47:08,920","00:47:10,280",2828.92,2830.28,1.3600000000001273,"im Bereich Uhren aus,"
+622,"00:47:10,360","00:47:15,840",2830.36,2835.84,5.480000000000018,"wenn Sie das können, warum kann das eine Bundesregierung nicht."
+623,"00:47:15,920","00:47:22,920",2835.92,2842.92,7.0,TG: Das müssen Sie die Bundesregierung fragen.
+624,"00:47:23,000","00:47:29,800",2843.0,2849.8,6.800000000000182,Man konnte ja auf das Know-how und das Schwabenwissen zurückgreifen.
+625,"00:47:29,880","00:47:34,480",2849.88,2854.48,4.599999999999909,Man hat leider nur einige im Regen stehen lassen.
+626,"00:47:34,600","00:47:37,280",2854.6,2857.28,2.680000000000291,"- Ein wichtiger Teil der Vereinbarung war,"
+627,"00:47:37,400","00:47:43,160",2857.4,2863.16,5.7599999999997635,Bezahlung eine Woche später.
+628,"00:47:44,000","00:47:49,800",2864.0,2869.8,5.800000000000182,Das war Teil des Vertrags?
+629,"00:47:49,920","00:47:54,000",2869.92,2874.0,4.079999999999927,"TG: Es war eine unbedingte Zahlungsverpflichtung,"
+630,"00:47:54,120","00:47:57,360",2874.12,2877.36,3.2400000000002365,sieben Tage nach Anlieferung der Masken.
+631,"00:47:57,480","00:47:59,960",2877.48,2879.96,2.480000000000018,- Sie haben bis heute das Geld gesehen?
+632,"00:48:00,080","00:48:05,040",2880.08,2885.04,4.960000000000036,TG: Keinen Cent.
+633,"00:48:06,560","00:48:09,280",2886.56,2889.28,2.7200000000002547,"Der Bund ist vom Vertrag zurückgetreten,"
+634,"00:48:09,360","00:48:13,200",2889.36,2893.2,3.8399999999996908,mit der Begründung wir hätten mangelhafte Massen geliefert.
+635,"00:48:13,280","00:48:16,720",2893.28,2896.72,3.4399999999996,Über das angeblich können wir noch sprechen.
+636,"00:48:16,840","00:48:20,440",2896.84,2900.44,3.599999999999909,"Wichtig ist zu sagen, dass wir fünf Jahre später setzen,"
+637,"00:48:20,560","00:48:24,280",2900.56,2904.28,3.7200000000002547,"nicht weil wir etwas falsch gemacht haben,"
+638,"00:48:24,360","00:48:28,480",2904.36,2908.48,4.119999999999891,sondern weil der Bund jede Menge falsch gemacht hat.
+639,"00:48:28,560","00:48:34,200",2908.56,2914.2,5.639999999999873,"Er wurde vertragsbrüchig,"
+640,"00:48:42,680","00:48:50,680",2922.68,2930.68,8.0,der Bund unterliegt Recht und Gesetz und einer zivilen Wahrheitspflicht.
+641,"00:48:50,760","00:48:57,080",2930.76,2937.08,6.319999999999709,"Ja, das bestimmt seit fünf Jahren mein Leben."
+642,"00:48:57,160","00:49:01,080",2937.16,2941.08,3.9200000000000728,"Sie sind über das Grundgesetz an Recht und Gesetz gebunden,"
+643,"00:49:01,160","00:49:04,880",2941.16,2944.88,3.7200000000002547,dann gibt es über Zivilgesetz auch eine Wahrheitspflicht.
+644,"00:49:04,960","00:49:09,200",2944.96,2949.2,4.239999999999782,"Der Bund profitiert immer von einem Vertrauensvorschuss, den hat."
+645,"00:49:09,320","00:49:12,880",2949.32,2952.88,3.5599999999999454,Den hat er sicher bei Ihnen. Auch in der Öffentlichkeit.
+646,"00:49:12,960","00:49:18,360",2952.96,2958.36,5.400000000000091,"Ein Gericht geht davon aus,"
+647,"00:49:18,480","00:49:21,040",2958.48,2961.04,2.5599999999999454,"wenn eine Bundesbehörde etwas vorträgt,"
+648,"00:49:21,120","00:49:25,160",2961.12,2965.16,4.039999999999964,dann entspricht das der Wahrheit.
+649,"00:49:25,280","00:49:28,160",2965.28,2968.16,2.8799999999996544,"Dann sehen wir den Bericht von Frau Sudhoff,"
+650,"00:49:28,240","00:49:31,640",2968.24,2971.64,3.400000000000091,"der in großen Teilen geschwärzt herausgegeben wird,"
+651,"00:49:31,720","00:49:33,960",2971.72,2973.96,2.2400000000002365,da ist wenig mit Wahrheitspflicht.
+652,"00:49:34,080","00:49:36,920",2974.08,2976.92,2.8400000000001455,"Vor Gericht haben wir den Fall tatsächlich,"
+653,"00:49:37,000","00:49:39,760",2977.0,2979.76,2.7600000000002183,vieles hat nicht der Wahrheit entsprochen.
+654,"00:49:39,880","00:49:47,920",2979.88,2987.92,8.039999999999964,Darauf hat auch schon der Bundesrechnungshof 2024 hingewiesen.
+655,"00:49:51,840","00:49:57,200",2991.84,2997.2,5.359999999999673,Es gab einen sehr verheerenden Bericht über die Maskenbeschaffung.
+656,"00:49:57,280","00:50:03,680",2997.28,3003.68,6.399999999999636,"Also scheinbar gab es damals auch schon Unterlagen,..."
+657,"00:50:03,800","00:50:07,080",3003.8,3007.08,3.2799999999997453,"- Ich möchte kurz verstehen, mit meinen Laienkenntnissen,..."
+658,"00:50:13,680","00:50:20,680",3013.68,3020.68,7.0,"FFP 2 Masken, sie haben diese geliefert oder?"
+659,"00:50:20,800","00:50:21,760",3020.8,3021.76,0.9600000000000364,TG: Ja.
+660,"00:50:21,840","00:50:25,840",3021.84,3025.84,4.0,Das ist ähnlich.
+661,"00:50:25,920","00:50:32,920",3025.92,3032.92,7.0,Ich habe in der Vorbereitung für diese Sendung
+662,"00:50:39,240","00:50:43,720",3039.24,3043.72,4.480000000000018,nochmals Ihrer Sendung angeschaut als Herr Spahn hier saß.
+663,"00:50:43,760","00:50:47,560",3043.76,3047.56,3.799999999999727,"Da haben Sie die richtigen Fragen gestellt,"
+664,"00:50:47,640","00:50:50,560",3047.64,3050.56,2.9200000000000728,aber nicht die richtigen Antworten bekommen.
+665,"00:50:50,640","00:50:54,720",3050.64,3054.72,4.079999999999927,"Vertraglich vereinbart war für uns, dass wir liefern durften,"
+666,"00:50:54,760","00:50:58,320",3054.76,3058.32,3.5599999999999454,nach chinesischem Atemschutznorm Standard.
+667,"00:50:58,400","00:51:03,000",3058.4,3063.0,4.599999999999909,Die wurden aber geprüft nach europäischem Standard.
+668,"00:51:03,040","00:51:08,000",3063.04,3068.0,4.960000000000036,TÜV.
+669,"00:51:11,640","00:51:14,240",3071.64,3074.24,2.599999999999909,"ML: Meine Helden heißen TÜV und Dekra,"
+670,"00:51:14,280","00:51:19,000",3074.28,3079.0,4.7199999999998,das habe ich damals gesagt.
+671,"00:51:19,080","00:51:25,320",3079.08,3085.32,6.2400000000002365,"TJ: Nur war das Problem, dass damals der falsche TÜV engagiert war."
+672,"00:51:25,400","00:51:32,320",3085.4,3092.32,6.920000000000073,Der hatte vorher überhaupt nichts mit Atemschutz zu tun.
+673,"00:51:32,400","00:51:36,040",3092.4,3096.04,3.6399999999998727,"Sie können sich gerne mal ein YouTube Video anschauen,"
+674,"00:51:36,080","00:51:39,480",3096.08,3099.48,3.400000000000091,darstellt der TÜV Nord eine selbst zusammengestellte
+675,"00:51:39,560","00:51:44,560",3099.56,3104.56,5.0,TÜV Strecke dar.
+676,"00:51:45,040","00:51:53,000",3105.04,3113.0,7.960000000000036,Wir haben die Masken nach chinesischer Prüfung unterworfen.
+677,"00:51:55,880","00:51:58,560",3115.88,3118.56,2.6799999999998363,"Das ist so, wie wenn Sie mit einem Auto"
+678,"00:51:58,640","00:52:06,240",3118.64,3126.24,7.599999999999909,zum TÜV fahren und dann einen Verbrennungsmotor machen.
+679,"00:52:09,200","00:52:12,680",3129.2,3132.68,3.480000000000018,CB: Das Bundesgesundheitsministerium hat zu der Zeit
+680,"00:52:12,720","00:52:19,400",3132.72,3139.4,6.680000000000291,auch keine Qualitätskriterien festgelegt.
+681,"00:52:21,120","00:52:24,760",3141.12,3144.76,3.6400000000003274,"Sie hatten zu der Zeit gesagt liefert und FFP2 Masten,"
+682,"00:52:24,840","00:52:30,840",3144.84,3150.84,6.0,ansonsten stand da nichts drin.
+683,"00:52:34,880","00:52:37,000",3154.88,3157.0,2.119999999999891,"Da haben sie Ministerium gesagt,"
+684,"00:52:37,040","00:52:44,640",3157.04,3164.64,7.599999999999909,daher müssten jetzt auch mal langsam drüber nachdenken.
+685,"00:52:44,840","00:52:46,920",3164.84,3166.92,2.0799999999999272,KL: Dazu äußere ich mich nicht.
+686,"00:52:46,960","00:52:52,720",3166.96,3172.72,5.7599999999997635,"Und nur weil ich nichts sage, bedeutet es nicht das ich zustimme."
+687,"00:52:52,800","00:52:55,400",3172.8,3175.4,2.599999999999909,"Wenn ich mich in der Sache nicht äußere,"
+688,"00:52:55,480","00:53:00,720",3175.48,3180.72,5.239999999999782,das ist mir wichtig.
+689,"00:53:00,800","00:53:04,520",3180.8,3184.52,3.7199999999998,"Ich habe erst heute erfahren, dass die Kollegen da ist."
+690,"00:53:04,600","00:53:07,640",3184.6,3187.64,3.0399999999999636,Ich kann mich dazu nicht äußern.
+691,"00:53:07,720","00:53:11,840",3187.72,3191.84,4.120000000000346,"die Tatsache, dass ich mich zu dieser Darstellung nicht äußere,"
+692,"00:53:11,920","00:53:17,360",3191.92,3197.36,5.440000000000055,hat nichts zu bedeuten.
+693,"00:53:19,360","00:53:23,560",3199.36,3203.56,4.199999999999818,"ML: Ich kann nicht überprüfen, ob die Masten fehlerhaft waren."
+694,"00:53:23,600","00:53:27,560",3203.6,3207.56,3.9600000000000364,Wie viele von diesen Verfahren sind schon verloren gegangen?
+695,"00:53:27,600","00:53:33,600",3207.6,3213.6,6.0,KL: Das möchte ich nicht sagen.
+696,"00:53:37,800","00:53:45,400",3217.8,3225.4,7.599999999999909,"TG: Es dürften noch etwa 80 sein, die anhänglich sind."
+697,"00:53:46,280","00:53:49,520",3226.28,3229.52,3.2399999999997817,Die ganze Begründung geht durch durch
+698,"00:53:49,600","00:53:56,120",3229.6,3236.12,6.519999999999982,"frei widriges Verhalten, Vertragsbruch."
+699,"00:53:57,440","00:54:03,160",3237.44,3243.16,5.7199999999998,"Es gab noch ein Verfahren,"
+700,"00:54:05,560","00:54:07,680",3245.56,3247.68,2.119999999999891,da hat der Vorsitzende Richter
+701,"00:54:07,760","00:54:14,680",3247.76,3254.68,6.919999999999618,einen sehr an eindringlichen Appell gehalten.
+702,"00:54:16,840","00:54:24,480",3256.84,3264.48,7.639999999999873,"Leider war niemand vor Ort, der sich daran gehalten hat."
+703,"00:54:32,600","00:54:40,000",3272.6,3280.0,7.400000000000091,"Wäre vielleicht auch was für Sie gewesen, Herr Lauterbach."
+704,"00:54:40,080","00:54:47,160",3280.08,3287.16,7.079999999999927,"ML: Herr Werding, was geht Ihnen durch den Kopf?"
+705,"00:54:50,440","00:54:57,520",3290.44,3297.52,7.079999999999927,"3,2 Milliarden sind jenseits von gut und böse."
+706,"00:55:00,000","00:55:02,760",3300.0,3302.76,2.7600000000002183,"Aber wenn 3 Milliarden verbrannt werden,"
+707,"00:55:02,840","00:55:09,640",3302.84,3309.64,6.799999999999727,das ist jenseits unserer Vorstellungskraft.
+708,"00:55:15,080","00:55:19,000",3315.08,3319.0,3.9200000000000728,"MW: Es ist in der Tat in meinem Hauptarbeitsgebiet normal,"
+709,"00:55:19,080","00:55:22,600",3319.08,3322.6,3.519999999999982,dass sich mit so hohen Summen zu tun habe.
+710,"00:55:22,640","00:55:28,400",3322.64,3328.4,5.760000000000218,Krankenversicherungen usw.
+711,"00:55:36,360","00:55:39,680",3336.36,3339.68,3.319999999999709,Trotzdem habe ich noch nie eine Millarde gesehen.
+712,"00:55:39,720","00:55:42,560",3339.72,3342.56,2.8400000000001455,"Nicht öffentliches Beschaffungsmaterial,"
+713,"00:55:42,640","00:55:45,480",3342.64,3345.48,2.8400000000001455,hat auch das zu tun und das ist in so einer
+714,"00:55:45,560","00:55:47,880",3345.56,3347.88,2.3200000000001637,Krisensituation besonders schwierig.
+715,"00:55:47,960","00:55:49,640",3347.96,3349.64,1.6799999999998363,Richtig zu verfahren.
+716,"00:55:49,680","00:55:55,600",3349.68,3355.6,5.920000000000073,Da kommt auch der Eindruck der Politik so rüber.
+717,"00:55:55,640","00:56:03,640",3355.64,3363.64,8.0,Bei der Frage soll man noch mal ein Schuldenpaket aufnehmen.
+718,"00:56:03,960","00:56:07,000",3363.96,3367.0,3.0399999999999636,"ML: Mein ungutes Gefühl kommt immer dann auf,"
+719,"00:56:07,080","00:56:10,560",3367.08,3370.56,3.480000000000018,"wenn ich hier Woche für Woche mantramäßig höre,"
+720,"00:56:10,640","00:56:13,840",3370.64,3373.84,3.200000000000273,"wir haben das jetzt vorgetragen,"
+721,"00:56:13,920","00:56:20,800",3373.92,3380.8,6.880000000000109,"wir haben die riesigen finanziellen Spielräume,"
+722,"00:56:20,880","00:56:23,960",3380.88,3383.96,3.0799999999999272,"wir haben jetzt Geld, kommt immer der Nachsatz,"
+723,"00:56:24,000","00:56:31,600",3384.0,3391.6,7.599999999999909,"wir müssen aufpassen, dass das richtig eingesetzt wird."
+724,"00:56:39,400","00:56:44,520",3399.4,3404.52,5.119999999999891,"MW: Um darauf zu achten, dass Rahmenbedingungen geschafft werden."
+725,"00:56:44,600","00:56:52,000",3404.6,3412.0,7.400000000000091,"ML: Das klingt suggestiv, aber wir müssen es richtig einsetzen."
+726,"00:56:52,080","00:56:54,840",3412.08,3414.84,2.7600000000002183,"MW: Der Staat hat jetzt richtig viel Geld,"
+727,"00:56:54,920","00:56:59,000",3414.92,3419.0,4.079999999999927,es sind aber noch nicht mal richtige Finanzierung Mittelpunkt
+728,"00:56:59,080","00:57:03,720",3419.08,3423.72,4.639999999999873,"der 2. In dem Zusammenhang ist, dass der Staat überhaupt kein Geld hat,"
+729,"00:57:03,800","00:57:07,880",3423.8,3427.88,4.079999999999927,den er dem Steuerzahler abnimmt.
+730,"00:57:07,960","00:57:11,480",3427.96,3431.48,3.519999999999982,"Man hat das immer wieder, aber nein, das hat er nicht."
+731,"00:57:11,640","00:57:15,160",3431.64,3435.16,3.519999999999982,Er muss sich das Geld erst mal besorgen.
+732,"00:57:15,240","00:57:17,560",3435.24,3437.56,2.3200000000001637,"ML: Und Sozialisten sind diejenigen,"
+733,"00:57:17,600","00:57:20,880",3437.6,3440.88,3.2800000000002,die ständig das Geld anderer ausgeben.
+734,"00:57:20,960","00:57:24,560",3440.96,3444.56,3.599999999999909,"Wenn wir aber über diese riesigen Schuldenpakete reden,"
+735,"00:57:24,640","00:57:29,880",3444.64,3449.88,5.2400000000002365,"können Sie grundsätzlich erklären, was das bedeutet?"
+736,"00:57:29,960","00:57:32,880",3449.96,3452.88,2.9200000000000728,Ich lege Ihnen den ersten Ball hin.
+737,"00:57:32,960","00:57:41,360",3452.96,3461.36,8.400000000000091,"Wir nehmen jetzt so viel Geld auf, dass wir in wenigen Jahren schon"
+738,"00:57:41,680","00:57:46,000",3461.68,3466.0,4.320000000000164,60 Milliarden nur für die Zinsen bezahlen werden.
+739,"00:57:46,080","00:57:50,000",3466.08,3470.0,3.9200000000000728,"Es ist so viel,"
+740,"00:57:50,080","00:57:56,320",3470.08,3476.32,6.2400000000002365,wie der Verteidigungshaushalt kürzlich noch war.
+741,"00:57:56,400","00:58:02,200",3476.4,3482.2,5.799999999999727,Der Bundeshaushalt ist bei einer halben Billionen.
+742,"00:58:02,280","00:58:07,920",3482.28,3487.92,5.639999999999873,MW: 25 % davon für Zinsen.
+743,"00:58:08,360","00:58:14,120",3488.36,3494.12,5.7599999999997635,"ML: Rechnen Sie mal alles drauf,"
+744,"00:58:14,200","00:58:17,040",3494.2,3497.04,2.8400000000001455,was wir an Verbindlichkeiten eingehen
+745,"00:58:17,120","00:58:20,120",3497.12,3500.12,3.0,"und erklären Sie zum Schluss,"
+746,"00:58:20,160","00:58:27,040",3500.16,3507.04,6.880000000000109,wie viel Spielraum das für die Zukunft hat.
+747,"00:58:34,040","00:58:38,640",3514.04,3518.64,4.599999999999909,"MW: Das genau das Problem, was wir mit der Staatsverschuldung haben."
+748,"00:58:38,720","00:58:41,760",3518.72,3521.76,3.0400000000004184,"Wenn man raus geht, ist das ein tolles Gefühl,"
+749,"00:58:41,880","00:58:44,840",3521.88,3524.84,2.9600000000000364,"aber wenn was dran hängt, ist die Verzinsung,"
+750,"00:58:44,920","00:58:48,240",3524.92,3528.24,3.319999999999709,das ist in Deutschland überhaupt nicht ausgeprägt.
+751,"00:58:48,320","00:58:51,840",3528.32,3531.84,3.519999999999982,Wir gelten als hoch vertrauenswürdig in diesen Dingen.
+752,"00:58:51,920","00:58:53,000",3531.92,3533.0,1.0799999999999272,"Der britische Staat,"
+753,"00:58:53,080","00:58:55,080",3533.08,3535.08,2.0,"und der US-Staat Zahlen 4,5 % Zinsen."
+754,"00:58:55,160","00:59:01,120",3535.16,3541.12,5.960000000000036,"Man hat die Zinsbelastung und bei den Notlagenkrediten,"
+755,"00:59:01,200","00:59:07,360",3541.2,3547.36,6.160000000000309,hat man auch noch Tilgungspläne gemacht.
+756,"00:59:07,480","00:59:16,040",3547.48,3556.04,8.559999999999945,"Das ist ein Stichwort, das bei den neuen Plänen wenig diskutiert wird."
+757,"00:59:16,160","00:59:19,080",3556.16,3559.08,2.9200000000000728,Das Hauptproblem bei den Staatsverschuldung
+758,"00:59:19,160","00:59:22,280",3559.16,3562.28,3.1200000000003456,"ist keine Belastung für unsere Kinder und Enkel,"
+759,"00:59:22,360","00:59:25,640",3562.36,3565.64,3.2799999999997453,es belastet die Haushaltsspielräume in den nächsten Jahren
+760,"00:59:25,680","00:59:26,960",3565.68,3566.96,1.2800000000002,schon ganz unmittelbar.
+761,"00:59:27,080","00:59:34,880",3567.08,3574.88,7.800000000000182,Das belastet die Haushaltsspielräume der übernächsten Bundesregierung.
+762,"00:59:34,920","00:59:37,640",3574.92,3577.64,2.7199999999998,KL: Was wäre denn die Alternative gewesen?
+763,"00:59:37,760","00:59:41,600",3577.76,3581.6,3.8399999999996908,"ML: Ich möchte nur auf einer theoretischen Ebene verstehen,"
+764,"00:59:41,680","00:59:43,920",3581.68,3583.92,2.2400000000002365,was das eigentlich gerade bedeutet.
+765,"00:59:44,000","00:59:47,440",3584.0,3587.44,3.4400000000000546,Der Punkt geht an Sie.
+766,"00:59:47,520","00:59:49,560",3587.52,3589.56,2.0399999999999636,"Wir müssen was tun,"
+767,"00:59:49,640","00:59:56,640",3589.64,3596.64,7.0,aber wie würden Sie die Situation beschreiben?
+768,"00:59:57,200","01:00:00,160",3597.2,3600.16,2.9600000000000364,"MW: Wenn wir dieses Schuldenpaket aufnehmen,"
+769,"01:00:00,280","01:00:07,640",3600.28,3607.64,7.359999999999673,"da muss man sich über die Dringlichkeit bewusst sein,"
+770,"01:00:08,280","01:00:14,200",3608.28,3614.2,5.919999999999618,"gerade wenn man Trumps letzte Aktionen in Betracht zieht,"
+771,"01:00:14,280","01:00:17,800",3614.28,3617.8,3.519999999999982,dass da dann auch noch ein Infrastruktur Schuldenpaket
+772,"01:00:17,880","01:00:22,600",3617.88,3622.6,4.7199999999998,"angesetzt wurde,"
+773,"01:00:22,680","01:00:27,400",3622.68,3627.4,4.720000000000255,"nach den Entscheidungen der letzten Regierung,"
+774,"01:00:27,480","01:00:31,240",3627.48,3631.24,3.7599999999997635,"was das Wasser ziemlich abgedreht hat,"
+775,"01:00:31,360","01:00:37,320",3631.36,3637.32,5.960000000000036,wurde ziemlich viel diskutiert.
+776,"01:00:37,640","01:00:41,880",3637.64,3641.88,4.2400000000002365,Namenhafte Politiker haben sich für diesen Vorschlag eingesetzt.
+777,"01:00:41,960","01:00:46,920",3641.96,3646.92,4.960000000000036,"Im letzten Herbst wurde darüber nachgedacht,"
+778,"01:00:47,000","01:00:51,200",3647.0,3651.2,4.199999999999818,wie man mehr in Investitionen in Infrastruktur und Verteidigung
+779,"01:00:51,280","01:00:53,040",3651.28,3653.04,1.7599999999997635,in Deutschland sichern kann.
+780,"01:00:53,120","01:00:55,160",3653.12,3655.16,2.0399999999999636,Werden andere Vorstellungen.
+781,"01:00:55,240","01:01:00,400",3655.24,3660.4,5.160000000000309,Wir hatten wir fanden so ein Sonderpaket nicht ideal.
+782,"01:01:00,480","01:01:06,600",3660.48,3666.6,6.119999999999891,"Was wir am schnellsten hinkriegen konnten,"
+783,"01:01:06,680","01:01:09,320",3666.68,3669.32,2.6400000000003274,"gleichzeitig war das zu schnell möglich,"
+784,"01:01:09,440","01:01:12,400",3669.44,3672.4,2.9600000000000364,weil viele Anschluss Fragen noch offen waren.
+785,"01:01:12,480","01:01:15,680",3672.48,3675.68,3.199999999999818,"Welche genauen Investitionen, sinnvoll verwenden,"
+786,"01:01:15,760","01:01:18,800",3675.76,3678.8,3.0399999999999636,das ist eine Menge Arbeit.
+787,"01:01:18,880","01:01:22,840",3678.88,3682.84,3.9600000000000364,Da muss noch eine Menge reingeschrieben werden.
+788,"01:01:22,880","01:01:27,320",3682.88,3687.32,4.440000000000055,"Auch an der Umsetzung, auch in der Beschaffung,"
+789,"01:01:27,400","01:01:31,120",3687.4,3691.12,3.7199999999998,"es muss darauf geachtet werden, dass Kapazitäten da sind,"
+790,"01:01:31,200","01:01:33,800",3691.2,3693.8,2.600000000000364,dass mich die Preise hochgehen.
+791,"01:01:33,880","01:01:38,600",3693.88,3698.6,4.7199999999998,ML: Noch mal das grundsätzliche.
+792,"01:01:38,680","01:01:42,640",3698.68,3702.64,3.9600000000000364,"Wir haben festgestellt,"
+793,"01:01:42,760","01:01:48,560",3702.76,3708.56,5.799999999999727,nur für die Zinsen 60 Milliarden demnächst.
+794,"01:01:48,640","01:01:54,120",3708.64,3714.12,5.480000000000018,"Zusätzlich die Rente, mit Zuschüssen von 130 Milliarden."
+795,"01:01:54,240","01:02:00,880",3714.24,3720.88,6.640000000000327,Zusätzlich zum System Rentenversicherung.
+796,"01:02:09,680","01:02:16,280",3729.68,3736.28,6.600000000000364,Verteidigung demnächst 170 Milliarden?
+797,"01:02:16,920","01:02:21,920",3736.92,3741.92,5.0,MW: Richtig.
+798,"01:02:27,080","01:02:29,280",3747.08,3749.28,2.200000000000273,ML: Dann sind wir schon bei 300.
+799,"01:02:29,360","01:02:32,880",3749.36,3752.88,3.519999999999982,Bürgergeld mindestens 50 Milliarden
+800,"01:02:32,960","01:02:37,880",3752.96,3757.88,4.920000000000073,KL: Weniger.
+801,"01:02:40,600","01:02:46,840",3760.6,3766.84,6.2400000000002365,"ML: D. h., es ist ein großer Teil,"
+802,"01:02:47,520","01:02:50,480",3767.52,3770.48,2.9600000000000364,"und das ist auch das Problem der Amerikaner,"
+803,"01:02:50,560","01:02:54,720",3770.56,3774.72,4.1599999999998545,"wenn man sich anschaut was sie für Zinsen und Tilgung ausgeben,"
+804,"01:02:54,800","01:02:57,800",3774.8,3777.8,3.0,bleibt in dem riesigen amerikanischen Staatshaushalt
+805,"01:02:57,920","01:03:01,000",3777.92,3781.0,3.0799999999999272,am Ende ganz wenig um andere Investitionen zu tätigen.
+806,"01:03:01,120","01:03:03,000",3781.12,3783.0,1.8800000000001091,Was bleibt hier für uns übrig?
+807,"01:03:03,080","01:03:06,080",3783.08,3786.08,3.0,MW: Die Spielräume sind zuletzt klein gewesen.
+808,"01:03:06,160","01:03:08,720",3786.16,3788.72,2.5599999999999454,Das liegt am Verhalten der Politiker.
+809,"01:03:08,800","01:03:14,080",3788.8,3794.08,5.279999999999745,Das war unser Thema im letzten Jahresgutachten.
+810,"01:03:14,160","01:03:19,040",3794.16,3799.04,4.880000000000109,"Wir haben im Frühjahr gesagt, die Schuldenbremse kann man lockern,"
+811,"01:03:19,160","01:03:23,160",3799.16,3803.16,4.0,"mit zu komplizierten Ideen, dass man es hätte umsetzen können,"
+812,"01:03:23,240","01:03:26,440",3803.24,3806.44,3.200000000000273,"und dann haben wir im Jahresgutachten nachgelegt,"
+813,"01:03:26,520","01:03:31,320",3806.52,3811.32,4.800000000000182,"das würde immer noch nicht reichen, damit der Staat investiert."
+814,"01:03:31,400","01:03:37,600",3811.4,3817.6,6.199999999999818,Wir haben die Spielräume für alles mögliche größer gemacht.
+815,"01:03:37,680","01:03:40,200",3817.68,3820.2,2.519999999999982,"Das sind Investitionen,"
+816,"01:03:40,280","01:03:43,640",3820.28,3823.64,3.3599999999996726,aber Verteidigung sind gar nicht nur Investitionen.
+817,"01:03:43,760","01:03:46,200",3823.76,3826.2,2.4399999999996,Wir haben Bildung sehr ernst genommen.
+818,"01:03:46,280","01:03:50,040",3826.28,3830.04,3.7599999999997635,"Wir haben im Grunde genommen zusätzliche Regeln gebraucht,"
+819,"01:03:50,160","01:03:52,600",3830.16,3832.6,2.4400000000000546,"wie man sicherstellt,"
+820,"01:03:52,720","01:03:59,320",3832.72,3839.32,6.600000000000364,dass man aus dem Kern Haushalt und einer gelockerten Schuldenbremse
+821,"01:03:59,400","01:04:02,760",3839.4,3842.76,3.3600000000001273,das war sehr ambitioniert und nicht schnell machbar.
+822,"01:04:02,880","01:04:09,160",3842.88,3849.16,6.279999999999745,"Wenn man bei der Verteidigung schnell die Bewegung machen will,"
+823,"01:04:09,240","01:04:15,880",3849.24,3855.88,6.640000000000327,"die Vereinbarung war, dass die NATO-Mitgliedsstaaten"
+824,"01:04:15,960","01:04:18,600",3855.96,3858.6,2.6399999999998727,"2,7 % der BIP ausgeben."
+825,"01:04:18,720","01:04:23,720",3858.72,3863.72,5.0,ML: Da waren wir.
+826,"01:04:30,600","01:04:34,440",3870.6,3874.44,3.8400000000001455,"MW: Als Trump sich 2017 so aufgeführt hat,"
+827,"01:04:34,520","01:04:36,760",3874.52,3876.76,2.2400000000002365,"hatte er im Grunde nicht recht,"
+828,"01:04:36,880","01:04:40,080",3876.88,3880.08,3.199999999999818,"dass wir der NATO Mitglied vorenthalten,"
+829,"01:04:40,160","01:04:46,200",3880.16,3886.2,6.039999999999964,in den Jahren danach haben wir kräftig zugelegt.
+830,"01:04:46,320","01:04:49,480",3886.32,3889.48,3.1599999999998545,"Wenn wir jetzt sehr schnell auf 3,5 gehen wollen,"
+831,"01:04:49,560","01:04:53,840",3889.56,3893.84,4.2800000000002,"oder auch wenn wir einfach sagen wollen,"
+832,"01:04:53,920","01:04:56,720",3893.92,3896.72,2.799999999999727,wenn wir uns auf den Schutz der Amerikaner
+833,"01:04:56,840","01:04:59,560",3896.84,3899.56,2.7199999999998,"nicht mehr zu 100 % verlassen können,"
+834,"01:04:59,680","01:05:04,520",3899.68,3904.52,4.8400000000001455,dann müssen wir der Tiefe reingehen.
+835,"01:05:04,600","01:05:07,240",3904.6,3907.24,2.6399999999998727,Da hat man bei den Verteidigungsausgaben
+836,"01:05:07,320","01:05:13,440",3907.32,3913.44,6.119999999999891,auch kein Sondervermögen gemacht.
+837,"01:05:14,400","01:05:16,440",3914.4,3916.44,2.0399999999999636,Alles was über ein Prozent
+838,"01:05:16,520","01:05:19,360",3916.52,3919.36,2.8400000000001455,"des Bruttoinlandsprodukts hinausgehen kann,"
+839,"01:05:19,480","01:05:23,160",3919.48,3923.16,3.6799999999998363,kann Kredit finanziert werden.
+840,"01:05:23,160","01:05:27,040",3923.16,3927.04,3.880000000000109,Das ist auf Dauer nicht durchzuhalten.
+841,"01:05:27,000","01:05:31,200",3927.0,3931.2,4.199999999999818,"Dann fliegt uns der Schuldenstand um die Ohren,"
+842,"01:05:31,320","01:05:33,040",3931.32,3933.04,1.7199999999998,"wir müssen die Verteidigungsausgaben,"
+843,"01:05:33,160","01:05:36,200",3933.16,3936.2,3.0399999999999636,die wir in vier und fünf Jahren auf dem Niveau haben wollen
+844,"01:05:36,360","01:05:41,680",3936.36,3941.68,5.319999999999709,auch in den Kernausgaben anpassen.
+845,"01:05:41,760","01:05:44,280",3941.76,3944.28,2.519999999999982,"- Wir müssen doch deswegen Strukturreformen machen,"
+846,"01:05:44,360","01:05:45,520",3944.36,3945.52,1.1599999999998545,um müssen wir ran?
+847,"01:05:45,640","01:05:47,880",3945.64,3947.88,2.2400000000002365,Ich denke an Rente und andere Dinge.
+848,"01:05:48,400","01:05:51,600",3948.4,3951.6,3.199999999999818,"Können wir das mit Renten und auf den Garantien, die wir geben,"
+849,"01:05:51,680","01:05:55,000",3951.68,3955.0,3.3200000000001637,ich gönne jedem seine Rente. Das passiert ja gerade
+850,"01:05:55,120","01:06:00,000",3955.12,3960.0,4.880000000000109,gerade?
+851,"01:06:02,960","01:06:07,080",3962.96,3967.08,4.119999999999891,MW: Rente als Reformprojekt ist ein ganz anderes Thema.
+852,"01:06:07,200","01:06:10,760",3967.2,3970.76,3.5600000000004,"Da wir über dem Bundeshaushalt sprechen, ist die Frage,"
+853,"01:06:10,880","01:06:13,440",3970.88,3973.44,2.5599999999999454,warum das so viel übertragen wird.
+854,"01:06:13,520","01:06:16,640",3973.52,3976.64,3.119999999999891,"Einfach ausstreichen können Sie das auch nicht,"
+855,"01:06:16,720","01:06:19,360",3976.72,3979.36,2.6400000000003274,sie haben ein Riesenloch im Rentenbudget.
+856,"01:06:19,480","01:06:27,120",3979.48,3987.12,7.639999999999873,Wir müssen über versicherungsfremde Leistungen sprechen.
+857,"01:06:28,720","01:06:30,920",3988.72,3990.92,2.200000000000273,"Und da also im Grunde nicht das,"
+858,"01:06:31,040","01:06:36,040",3991.04,3996.04,5.0,was jetzt immer passiert den Haushaltsprozessen.
+859,"01:06:36,160","01:06:39,720",3996.16,3999.72,3.5599999999999454,"Ohne zu fragen, was darf die Renten weniger auszahlen,"
+860,"01:06:39,800","01:06:46,200",3999.8,4006.2,6.399999999999636,das darf sie nicht. Ich bring den Satz noch zu Ende.
+861,"01:06:46,280","01:06:50,160",4006.28,4010.16,3.8799999999996544,Wir müssen eine klare Zuordnung machen.
+862,"01:06:50,280","01:06:54,040",4010.28,4014.04,3.7599999999997635,Womit beauftragt der Bund die Rentenversicherung?
+863,"01:06:54,160","01:06:57,560",4014.16,4017.56,3.400000000000091,Aber die Ansprüche fallen dann entsprechend auch weg.
+864,"01:06:57,680","01:07:00,120",4017.68,4020.12,2.4400000000000546,- Wie sieht es in der Konsequenz aus?
+865,"01:07:00,200","01:07:05,920",4020.2,4025.92,5.720000000000255,Müssen wir länger arbeiten?
+866,"01:07:07,440","01:07:12,000",4027.44,4032.0,4.559999999999945,MW: Länger arbeiten müssen wir ja sowieso.
+867,"01:07:12,120","01:07:18,520",4032.12,4038.52,6.400000000000091,"Unsere Lebenserwartung steigt, dann ist das auch eine Nachfolge."
+868,"01:07:18,640","01:07:22,120",4038.64,4042.12,3.480000000000018,"- Wenn Sie diesen Satz als Sozialpolitiker hier sagen,"
+869,"01:07:22,240","01:07:28,240",4042.24,4048.24,6.0,dann Sätze geteert und gefedert.
+870,"01:07:28,760","01:07:34,760",4048.76,4054.76,6.0,"MW: Gerne sind wir gerade dabei demographische Alterung,"
+871,"01:07:34,880","01:07:38,520",4054.88,4058.52,3.6399999999998727,"wenn wir uns das Rentensystem anschauen,"
+872,"01:07:38,600","01:07:42,400",4058.6,4062.4,3.800000000000182,"sind zwei Hauptursachen,"
+873,"01:07:42,520","01:07:47,080",4062.52,4067.08,4.559999999999945,"der Babyboom und die Erwartung, dass die Lebenserwartung weiter steigt."
+874,"01:07:47,160","01:07:51,960",4067.16,4071.96,4.800000000000182,Das ist zuletzt etwas weniger geworden.
+875,"01:07:52,080","01:07:55,040",4072.08,4075.04,2.9600000000000364,"- Viele sitzen vom Fernseher und fragen sich,"
+876,"01:07:55,120","01:08:00,280",4075.12,4080.28,5.160000000000309,wie lange geht das Elend noch?
+877,"01:08:00,400","01:08:08,560",4080.4,4088.56,8.159999999999854,MW: Man muss natürlich nicht bis zur Regelaltersgrenze arbeiten.
+878,"01:08:11,120","01:08:14,840",4091.12,4094.84,3.7200000000002547,"Die Regelaltersgrenze wurde straff gezogen,"
+879,"01:08:14,960","01:08:21,640",4094.96,4101.64,6.680000000000291,sie war extrem durchlöcherte vor den Neunzigern.
+880,"01:08:21,760","01:08:24,440",4101.76,4104.44,2.6799999999993815,"Das Wort Abschlag ist natürlich hässlich,"
+881,"01:08:24,560","01:08:30,320",4104.56,4110.32,5.759999999999309,das klingt nach Strafaktion.
+882,"01:08:31,960","01:08:37,680",4111.96,4117.68,5.720000000000255,Die Schichten im Grunde den erworbenen Rentenanspruch
+883,"01:08:37,800","01:08:40,480",4117.8,4120.48,2.6799999999993815,von der erwarteten Restlebenserwartung
+884,"01:08:40,600","01:08:44,240",4120.6,4124.24,3.639999999999418,"um auf die verlängerte Laufzeit, wenn man ein Jahr früher geht,"
+885,"01:08:44,360","01:08:47,800",4124.36,4127.8,3.4400000000005093,zwei Jahre früher geht.
+886,"01:08:47,920","01:08:50,800",4127.92,4130.8,2.880000000000109,"KL: Um dagegen zu halten, schauen wir uns zunächst"
+887,"01:08:50,920","01:08:52,400",4130.92,4132.4,1.4799999999995634,mal den Bundeszuschuss an.
+888,"01:08:52,480","01:08:57,920",4132.48,4137.92,5.440000000000509,"Ich habe es jeden Tag, lass uns dem Bundeszuschuss kürzen."
+889,"01:08:58,000","01:09:00,880",4138.0,4140.88,2.880000000000109,"Wenn man das Kurzen wurde, der größte Teil sind tatsächlich"
+890,"01:09:01,040","01:09:04,200",4141.04,4144.2,3.1599999999998545,die Renten der Menschen aus Ostdeutschland. Die einfach
+891,"01:09:04,320","01:09:08,240",4144.32,4148.24,3.9200000000000728,lange Zeit nicht eingezahlt in das deutsche System- davon werden die
+892,"01:09:08,360","01:09:11,840",4148.36,4151.84,3.480000000000473,Renten bezahlt.
+893,"01:09:11,960","01:09:15,680",4151.96,4155.68,3.7200000000002547,"Diese Renten sind in Brandenburg, Mecklenburg-Vorpommern,"
+894,"01:09:15,800","01:09:17,600",4155.8,4157.6,1.800000000000182,"Sachsen, Sachsen Anhalt,"
+895,"01:09:17,720","01:09:20,360",4157.72,4160.36,2.639999999999418,die schrumpfen zusammen wie ein Soufflee.
+896,"01:09:20,440","01:09:23,400",4160.44,4163.4,2.9600000000000364,"Von diesem Bundeszuschuss,..."
+897,"01:09:23,480","01:09:30,240",4163.48,4170.24,6.760000000000218,- Ich bin nicht überzeugt von dem Argument.
+898,"01:09:32,080","01:09:37,160",4172.08,4177.16,5.079999999999927,"KL: Ein großer Teil, ich sage nicht alles, aber ein großer Teil,"
+899,"01:09:37,280","01:09:43,880",4177.28,4183.88,6.600000000000364,unterstützt die Renten in den neuen Bundesländern.
+900,"01:09:43,960","01:09:46,280",4183.96,4186.28,2.319999999999709,"Männliches Lebensarbeitszeit erhöhe,"
+901,"01:09:46,400","01:09:53,280",4186.4,4193.28,6.880000000000109,dann muss ich auch ein anderes Problem lösen:
+902,"01:09:54,120","01:10:01,160",4194.12,4201.16,7.039999999999964,"diejenigen, die gearbeitet haben und nicht viel verdient haben,"
+903,"01:10:01,320","01:10:05,160",4201.32,4205.16,3.8400000000001455,die sterben im Durchschnitt 8-7 Jahre früher.
+904,"01:10:05,280","01:10:08,680",4205.28,4208.68,3.4000000000005457,"Wenn ich bei allen das Rentenalter in die Höhe setze,"
+905,"01:10:08,840","01:10:13,880",4208.84,4213.88,5.039999999999964,dann haben die nichts davon.
+906,"01:10:14,000","01:10:17,480",4214.0,4217.48,3.4799999999995634,"Was habe ich von einer Rente, wenn ich bis 67 arbeite,"
+907,"01:10:17,600","01:10:23,320",4217.6,4223.32,5.719999999999345,"oder bis 69, die nächste 70,"
+908,"01:10:25,600","01:10:30,440",4225.6,4230.44,4.839999999999236,"diese Leute, die hart gearbeitet haben,"
+909,"01:10:30,560","01:10:35,240",4230.56,4235.24,4.6799999999993815,"die leben im Durchschnitt bis 72,73, dann haben die 50 Jahre eingezahlt,"
+910,"01:10:35,360","01:10:40,800",4235.36,4240.8,5.440000000000509,haben zwei Jahre Rente.
+911,"01:10:41,440","01:10:44,280",4241.44,4244.28,2.8400000000001455,"Das System ist kaputt, Beamten bezahle ich"
+912,"01:10:44,400","01:10:48,200",4244.4,4248.2,3.800000000000182,"im Durchschnitt 20 Jahre Rente, die Pension ist sehr hoch,"
+913,"01:10:48,320","01:10:49,560",4248.32,4249.56,1.2400000000006912,das kann ich gönnen.
+914,"01:10:49,680","01:10:52,600",4249.68,4252.6,2.9200000000000728,"Aber die Menschen, die hart gearbeitet haben,"
+915,"01:10:52,720","01:10:56,760",4252.72,4256.76,4.039999999999964,"sie sterben früher, Geens habe ich zwei Jahre niedrige Rente,"
+916,"01:10:56,840","01:10:59,160",4256.84,4259.16,2.319999999999709,dass es so ungerecht.
+917,"01:10:59,280","01:11:02,920",4259.28,4262.92,3.6400000000003274,"Es kann nicht vermittelt werden, dass eine hohe Pension"
+918,"01:11:03,000","01:11:07,040",4263.0,4267.04,4.039999999999964,"für 20 Jahre im Durchschnitt bezahlt wird, aber für denjenigen,"
+919,"01:11:07,160","01:11:11,560",4267.16,4271.56,4.400000000000546,"der Bau gearbeitet hat nur 2-3 Jahre bezweifelt, dass es nicht richtig."
+920,"01:11:12,000","01:11:16,160",4272.0,4276.16,4.1599999999998545,"- Es ist ein gutes Argument, dass er gerade macht. MW: Wir sind mehrere"
+921,"01:11:16,280","01:11:19,560",4276.28,4279.56,3.280000000000655,Punkte wichtig.
+922,"01:11:19,680","01:11:23,200",4279.68,4283.2,3.519999999999527,"Unser System der Beamtenversorgung, wie es gerade ist,"
+923,"01:11:23,320","01:11:25,560",4283.32,4285.56,2.240000000000691,ist nicht langfristig finanzierbar.
+924,"01:11:25,680","01:11:30,360",4285.68,4290.36,4.6799999999993815,Es machte so schwieriger Rentenreformen zu machen.
+925,"01:11:30,480","01:11:32,640",4290.48,4292.64,2.160000000000764,"Oft bekommen wir auch die Kritik,"
+926,"01:11:32,760","01:11:36,400",4292.76,4296.4,3.639999999999418,dass wir ständig nur über entsprechen.
+927,"01:11:36,520","01:11:39,720",4296.52,4299.72,3.199999999999818,Es sind 30 Seiten über die Beamtenversorgung drin.
+928,"01:11:39,840","01:11:46,160",4299.84,4306.16,6.319999999999709,Ich möchte aber im Rentenalter bleiben.
+929,"01:11:46,280","01:11:49,480",4306.28,4309.48,3.199999999999818,"Es ist tatsächlich so wir haben die Unterschiede,"
+930,"01:11:49,600","01:11:52,640",4309.6,4312.64,3.0399999999999636,stark korrelieren mit dem jeweiligen Einkommen.
+931,"01:11:52,720","01:11:56,240",4312.72,4316.24,3.519999999999527,"Man kann auch versuchen eine Antwort darauf zu finden,"
+932,"01:11:56,360","01:12:04,480",4316.36,4324.48,8.11999999999989,"aber die Logik muss so sein: wir haben die steigende Lebenserwartung,"
+933,"01:12:04,600","01:12:08,200",4324.6,4328.2,3.5999999999994543,"ein Anteil dieser mittleren steigenden Lebenserwartung,"
+934,"01:12:08,320","01:12:11,320",4328.32,4331.32,3.0,"in der Verlängerung der Erwerbsphase umgesetzt,"
+935,"01:12:11,440","01:12:14,320",4331.44,4334.32,2.880000000000109,"ein weiter Teil in der längeren Rentenphase,"
+936,"01:12:14,440","01:12:20,520",4334.44,4340.52,6.080000000000837,"es ist ein Mechanismus, um den Effekt zu neutralisieren."
+937,"01:12:20,640","01:12:23,760",4340.64,4343.76,3.119999999999891,"KL: Sie müssen aber auch mit Bedenken zum einen,"
+938,"01:12:23,880","01:12:27,360",4343.88,4347.36,3.4799999999995634,"Westeuropa haben wir die niedrigste Lebenserwartung,"
+939,"01:12:27,480","01:12:31,640",4347.48,4351.64,4.160000000000764,"deswegen haben wir in Westeuropa die niedrigste Lebenserwartung,"
+940,"01:12:31,760","01:12:35,440",4351.76,4355.44,3.6799999999993815,"weil die einfachen Menschen, die nicht so viel verdienen,"
+941,"01:12:35,800","01:12:39,960",4355.8,4359.96,4.1599999999998545,"so früh sterben. Die Menschen, die wenig verdienen, Hart gearbeitet"
+942,"01:12:40,080","01:12:44,960",4360.08,4364.96,4.880000000000109,"haben,"
+943,"01:12:45,840","01:12:47,960",4365.84,4367.96,2.119999999999891,wächst die Lebenserwartung momentan nicht.
+944,"01:12:48,080","01:12:51,360",4368.08,4371.36,3.2799999999997453,"Sie sprechen von einer wachsenden Lebenserwartung, die gibt es aber"
+945,"01:12:51,480","01:12:53,960",4371.48,4373.96,2.480000000000473,"nicht für Menschen, die hart arbeiten."
+946,"01:12:54,080","01:12:59,680",4374.08,4379.68,5.600000000000364,Die Leute haben jetzt schon zu wenig von der Rente.
+947,"01:13:00,080","01:13:04,720",4380.08,4384.72,4.640000000000327,"Sie sterben früh, haben wenig von der Rente,"
+948,"01:13:04,840","01:13:07,240",4384.84,4387.24,2.399999999999636,"sie hören dann die Lebenserwartung wächst,"
+949,"01:13:07,360","01:13:11,360",4387.36,4391.36,4.0,dann ist aber gerade der Vater gestorben.
+950,"01:13:11,480","01:13:16,160",4391.48,4396.16,4.680000000000291,"Ich muss fair sein, diese Schimäre, bei uns wir machen Lebenserwartung,"
+951,"01:13:16,280","01:13:24,080",4396.28,4404.08,7.800000000000182,"erstens in ganz Westeuropa werden die Menschen älter, zu wenig dafür."
+952,"01:13:24,200","01:13:28,120",4404.2,4408.12,3.9200000000000728,"Die Lebenserwartung wächst nur bei denen, die gut verdienen,"
+953,"01:13:28,280","01:13:33,160",4408.28,4413.16,4.880000000000109,"Beamte gewesen sind, aber in einfachen Menschen,"
+954,"01:13:33,280","01:13:35,160",4413.28,4415.16,1.8800000000001091,da haben wir keine Zugewinne.
+955,"01:13:35,280","01:13:38,080",4415.28,4418.08,2.800000000000182,"Es ist oft so, dass die Leute früh sterben,"
+956,"01:13:38,200","01:13:43,400",4418.2,4423.4,5.199999999999818,vorher lange krank gewesen sind.
+957,"01:13:43,520","01:13:47,040",4423.52,4427.04,3.519999999999527,"Das kann ich Ihnen als Arzt sagen, das ärgert mich etwas,"
+958,"01:13:47,240","01:13:50,720",4427.24,4430.72,3.480000000000473,"wenn der Eindruck erweckt wird, als wenn in Deutschland ja"
+959,"01:13:50,840","01:13:53,720",4430.84,4433.72,2.880000000000109,Lebenserwartung immer steigt.
+960,"01:13:53,840","01:13:56,120",4433.84,4436.12,2.2799999999997453,"MW: Ich möchte zu dem Punkt kommen,"
+961,"01:13:56,240","01:13:59,320",4436.24,4439.32,3.0799999999999272,wir brauchen aus man sich trotzdem diese Regel.
+962,"01:13:59,440","01:14:02,040",4439.44,4442.04,2.600000000000364,Bezogen auf die mittlere Lebenserwartung.
+963,"01:14:02,160","01:14:05,640",4442.16,4445.64,3.480000000000473,"Dann können wir über die Härtefallregelung nachdenkt,"
+964,"01:14:05,760","01:14:08,400",4445.76,4448.4,2.639999999999418,"die deutsche Diskussion, die wir führen heißt immer,"
+965,"01:14:08,520","01:14:11,680",4448.52,4451.68,3.1599999999998545,wir müssen die Regeln nach dem Normalfall nach den Härtefällen
+966,"01:14:11,880","01:14:14,000",4451.88,4454.0,2.119999999999891,"regeln, so fusioniert das nicht."
+967,"01:14:14,120","01:14:17,720",4454.12,4457.72,3.600000000000364,- So bekommen wir auch demokratischen Wandel nicht hin.
+968,"01:14:17,880","01:14:20,520",4457.88,4460.52,2.6400000000003274,So bekommen wir auch die Strukturreformen nicht hin.
+969,"01:14:20,760","01:14:24,200",4460.76,4464.2,3.4399999999996,"Darüber besteht ja seltsamerweise immer Einigkeit, aber über den Weg"
+970,"01:14:24,320","01:14:30,680",4464.32,4470.68,6.360000000000582,"dahin, können wir uns nicht einigen. Sehen Sie das auch so?"
+971,"01:14:30,800","01:14:35,200",4470.8,4475.2,4.399999999999636,"CB: Absolut, es ist ja desaströs, dass wir das einfach so hinnehmen."
+972,"01:14:35,360","01:14:41,560",4475.36,4481.56,6.200000000000728,Daran unser System anpassen wollen.
+973,"01:14:42,480","01:14:46,480",4482.48,4486.48,4.0,"Noch besser natürlich, die Menschen auch zu einem gesunden,"
+974,"01:14:46,600","01:14:48,720",4486.6,4488.72,2.119999999999891,langen Leben verhelfen.
+975,"01:14:48,840","01:14:52,240",4488.84,4492.24,3.399999999999636,"Es gibt jede Menge Möglichkeiten, die in diesem Land"
+976,"01:14:52,360","01:14:54,880",4492.36,4494.88,2.5200000000004366,lange nicht genutzt werden. Es ist tragisch.
+977,"01:14:54,920","01:14:58,000",4494.92,4498.0,3.0799999999999272,"Wenn Sie als sie drei Experten in diesem Zusammenhang sagen,"
+978,"01:14:58,040","01:14:59,640",4498.04,4499.64,1.6000000000003638,"da gibt es viele Möglichkeiten,"
+979,"01:14:59,680","01:15:02,840",4499.68,4502.84,3.1599999999998545,dann sollten wir das mal bei nächster Gelegenheit diskutieren.
+980,"01:15:03,000","01:15:06,480",4503.0,4506.48,3.4799999999995634,"Da müssen wir mal einsteigen, selbse Welle, selbe Stelle."
+981,"01:15:06,520","01:15:09,520",4506.52,4509.52,3.0,"Vielleicht wurde bis dahin auch schon der Prozess geworden,"
+982,"01:15:09,560","01:15:11,840",4509.56,4511.84,2.2799999999997453,dann kommen Sie noch mal auf ein Sektchen vorbei.
+983,"01:15:11,880","01:15:13,480",4511.88,4513.48,1.5999999999994543,KL: Das glaube ich nicht.
+984,"01:15:13,520","01:15:17,320",4513.52,4517.32,3.7999999999992724,"ML: Jetzt haben wir erfahren, was ihm durch den Kopf geht."
+985,"01:15:17,360","01:15:19,560",4517.36,4519.56,2.2000000000007276,- Ich danke Ihnen alle ganz herzlich.
+986,"01:15:19,600","01:15:23,160",4519.6,4523.16,3.5599999999994907,"Das war sehr interessant, jetzt die Kollegen vom ""heute journal up:date""."

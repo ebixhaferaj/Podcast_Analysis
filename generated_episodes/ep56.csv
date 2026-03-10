@@ -1,0 +1,1039 @@
+﻿segment_id,start_time,end_time,start_seconds,end_seconds,duration,text
+1,"00:00:00,040","00:00:01,000",0.04,1.0,0.96,Diese Untertitel sind live produziert.
+2,"00:00:01,040","00:00:04,000",1.04,4.0,2.96,"Willkommen zu unserer Sendung, in der wir heute,"
+3,"00:00:04,280","00:00:08,440",4.28,8.44,4.159999999999999,"ich sagte es schon, zwei exzellente Juristen erleben werden,"
+4,"00:00:08,520","00:00:12,320",8.52,12.32,3.8000000000000007,die sich in gegenseitiger Wertschätzung zugetan sind
+5,"00:00:12,400","00:00:14,760",12.4,14.76,2.3599999999999994,und sich wahrscheinlich sogar richtig mögen.
+6,"00:00:14,840","00:00:16,520",14.84,16.52,1.6799999999999997,"Ich erwähne das nur deshalb,"
+7,"00:00:16,560","00:00:18,960",16.56,18.96,2.400000000000002,weil es gleich ganz anders wirken könnte.
+8,"00:00:19,040","00:00:22,440",19.04,22.44,3.400000000000002,Sie werden gleich sehr hart um Argumente ringen
+9,"00:00:22,520","00:00:27,160",22.52,27.16,4.640000000000001,"und es ist genau dieser Streit, der ziemlich exakt abbildet,"
+10,"00:00:27,240","00:00:32,040",27.24,32.04,4.800000000000001,wie weit die Meinungen im Fall dieses Mannes auseinandergehen:
+11,"00:00:32,120","00:00:33,720",32.12,33.72,1.6000000000000014,"Julian Assange, der seit Jahren"
+12,"00:00:33,800","00:00:36,600",33.8,36.6,2.8000000000000043,"in einem britischen Hochsicherheitsgefängnis sitzt,"
+13,"00:00:36,680","00:00:40,640",36.68,40.64,3.960000000000001,weil er neben hunderttausenden anderen Dokumenten auch
+14,"00:00:40,720","00:00:46,720",40.72,46.72,6.0,"dieses Video veröffentlich hat, ein Video, das - so sehen das viele -"
+15,"00:00:46,800","00:00:49,720",46.8,49.72,2.9200000000000017,"nichts weniger, als ein amerikanisches Kriegsverbrechen"
+16,"00:00:49,800","00:00:53,200",49.8,53.2,3.4000000000000057,"dokumentiert, Soldaten, die aus einem Kampfhubschrauber"
+17,"00:00:53,280","00:00:56,600",53.28,56.6,3.3200000000000003,"zynisch auf Zivilisten, darunter auch Kinder, schießen."
+18,"00:00:56,680","00:01:00,080",56.68,60.08,3.3999999999999986,"Am Ende sind die Erwachsenen alle tot, nur die beiden Kinder"
+19,"00:01:00,120","00:01:02,240",60.12,62.24,2.1200000000000045,überleben schwer verletzt.
+20,"00:01:02,280","00:01:04,240",62.28,64.24,1.9599999999999937,"Es ist der 12. Juli 2007,"
+21,"00:01:04,320","00:01:07,960",64.32,67.96,3.6400000000000006,"ein heißer Sommertag in Bagdad, als diese Bilder entstehen."
+22,"00:01:08,040","00:01:13,440",68.03999999999999,73.44,5.400000000000006,Für die einen ist Julian Assange seitdem ein Held
+23,"00:01:13,520","00:01:18,440",73.52,78.44,4.920000000000002,"und Heribert Prantl sagt über ihn: ""Genau für umstrittene Figuren"
+24,"00:01:18,520","00:01:22,200",78.52,82.2,3.680000000000007,wie Assange ist die Pressefreiheit da.
+25,"00:01:22,280","00:01:25,640",82.28,85.64,3.3599999999999994,Und es geht hier um etwas ganz Grundsätzliches:
+26,"00:01:25,720","00:01:27,920",85.72,87.92,2.200000000000003,Ist der Schutz des Staates wichtiger?
+27,"00:01:28,040","00:01:30,640",88.03999999999999,90.64,2.6000000000000085,"Oder ist die Aufdeckung von Verbrechen wichtiger,"
+28,"00:01:30,720","00:01:33,800",90.72,93.8,3.0799999999999983,"die der Staat begeht…?"""
+29,"00:01:33,880","00:01:37,120",93.88,97.12,3.240000000000009,"Dieser Mann dagegen, einer der renommiertesten Völkerrechtler"
+30,"00:01:37,200","00:01:42,480",97.2,102.47999999999999,5.279999999999987,"dieses Landes, u.a. Richter am Kosovo-Sondertribunal in Den Haag,"
+31,"00:01:42,560","00:01:47,120",102.56,107.12,4.560000000000002,"sagt: ""So einfach ist das alles nicht, der Fall Assange"
+32,"00:01:47,200","00:01:50,480",107.2,110.47999999999999,3.279999999999987,ist sehr viel komplexer als er häufig dargestellt wird.
+33,"00:01:50,560","00:01:53,880",110.56,113.88,3.319999999999993,"Es geht hier um insgesamt 18 Tatvorwürfe,"
+34,"00:01:53,920","00:01:57,760",113.92,117.75999999999999,3.839999999999989,"und Heribert Prantl sagt, ""die Pressefreiheit sei in Gefahr,"
+35,"00:01:57,840","00:02:01,760",117.84,121.76,3.9200000000000017,"dann ist das vollkommen überzogen""."
+36,"00:02:01,840","00:02:04,840",121.84,124.84,3.0,Herzlich willkommen Kai Ambos und Heribert Prantl.
+37,"00:02:04,920","00:02:06,800",124.92,126.8,1.8799999999999955,Gleich zu Beginn aber wollen wir
+38,"00:02:06,880","00:02:10,000",126.88,130.0,3.1200000000000045,"mit einer sehr geschätzten Wirtschaftsjournalistin sprechen,"
+39,"00:02:10,080","00:02:13,760",130.08,133.76,3.6799999999999784,"die gerade den Vizekanzler, Robert Habeck, auf seiner Reise in den USA"
+40,"00:02:13,840","00:02:18,280",133.84,138.28,4.439999999999998,"begleitet und beobachtet hat, fragen, was sich da gerade über Deutschland"
+41,"00:02:18,360","00:02:23,240",138.36,143.24,4.8799999999999955,und insbesondere über der deutschen Automobilindustrie zusammenbraut?
+42,"00:02:23,320","00:02:26,760",143.32,146.76,3.4399999999999977,"""Die haben da sehr freundlich miteinander geredet"", sagt sie,"
+43,"00:02:26,840","00:02:31,560",146.84,151.56,4.719999999999999,"""aber in der Sache wird da gerade mit sehr harten Bandagen gekämpft""."
+44,"00:02:31,640","00:02:36,000",151.64,156.0,4.360000000000014,Herzlich willkommen Julia Löhr.
+45,"00:02:36,120","00:02:38,400",156.12,158.4,2.280000000000001,"Und wie schaut er darauf, der Chef der Grünen,"
+46,"00:02:38,520","00:02:41,280",158.52,161.28,2.759999999999991,einerseits kämpft sein grüner Wirtschaftsminister
+47,"00:02:41,360","00:02:43,720",161.36,163.72,2.359999999999985,"und Vizekanzler in Amerika darum, dass endlich"
+48,"00:02:43,800","00:02:45,920",163.8,165.92000000000002,2.1200000000000045,auch die deutschen Autobauer in den Genuss
+49,"00:02:46,000","00:02:49,480",166.0,169.48,3.4799999999999898,"amerikanischer Subventionsmilliarden kommen,"
+50,"00:02:49,560","00:02:51,720",169.56,171.72,2.1599999999999966,weil sie sonst endgültig abgehängt werden
+51,"00:02:51,800","00:02:55,120",171.8,175.12,3.319999999999993,und andererseits stellt er selbst die Förderung von Elektroautos
+52,"00:02:55,200","00:02:58,960",175.2,178.96,3.7600000000000193,hierzulande ganz kurzfristig einfach ein.
+53,"00:02:59,040","00:03:01,560",179.04,181.56,2.5200000000000102,Kann er den Ärger darüber verstehen?
+54,"00:03:01,640","00:03:03,720",181.64,183.72,2.0800000000000125,Und überhaupt: Warum sehen bei den Grünen
+55,"00:03:03,840","00:03:08,560",183.84,188.56,4.719999999999999,"plötzlich so viele Leute Rot, wie Julia Löhr es neulich formulierte?"
+56,"00:03:08,640","00:03:11,480",188.64,191.48,2.8400000000000034,"Fragen an Omid Nouripour, herzlich willkommen."
+57,"00:03:11,520","00:03:18,520",191.52,198.52,7.0,Schönen guten Abend in die Runde.
+58,"00:03:18,560","00:03:25,600",198.56,205.6,7.039999999999992,"Auf dem Weg zur Schule bin ich brav mit dem Lastenfahrrad unterwegs,"
+59,"00:03:25,640","00:03:32,000",205.64,212.0,6.360000000000014,ich sehe immer weniger E-Autos.
+60,"00:03:32,040","00:03:35,520",212.04,215.52,3.480000000000018,"Und wenn ich E-Autos sehe, sind es Marken,"
+61,"00:03:35,560","00:03:40,760",215.56,220.76,5.199999999999989,"die ich jetzt langsam kennenlerne: BYD, Tesla kann man schon länger."
+62,"00:03:40,800","00:03:49,920",220.8,229.92000000000002,9.120000000000005,"Und dann lese ich, dass das meistverkaufte Auto"
+63,"00:03:49,960","00:03:53,680",229.96,233.68,3.719999999999999,"der Welt ein Tesla Model Y ist, was sagt Ihnen das?"
+64,"00:03:53,240","00:03:56,680",233.24,236.68,3.4399999999999977,"ON: Erstens, dass Elektromobilität die Zukunft ist."
+65,"00:03:56,720","00:03:58,800",236.72,238.8,2.0800000000000125,Wir müssen mithalten.
+66,"00:03:58,800","00:04:04,160",238.8,244.16,5.359999999999985,"Und zweitens, dass wir wieder den Schlaf der gerechten schlafen?"
+67,"00:04:04,160","00:04:07,920",244.16,247.92,3.759999999999991,"Es ist schon bitter, dass ganz vieles,"
+68,"00:04:07,920","00:04:11,880",247.92,251.88,3.960000000000008,"was wir gerade sehen an Innovation, Erfindungen, Technologie"
+69,"00:04:11,920","00:04:15,000",251.92,255.0,3.0800000000000125,in Deutschland entstanden ist bei diesen Autos.
+70,"00:04:15,040","00:04:20,360",255.04,260.36,5.320000000000022,"Ganz lange wurde das nicht umgesetzt,"
+71,"00:04:20,400","00:04:23,120",260.4,263.12,2.7200000000000273,was in Deutschland erfunden worden ist.
+72,"00:04:23,160","00:04:27,080",263.16,267.08,3.919999999999959,Jetzt müssen wir mit großer Geschwindigkeit
+73,"00:04:27,160","00:04:30,720",267.16,270.72,3.5600000000000023,den Schlaf der Gerechten...
+74,"00:04:30,760","00:04:33,320",270.76,273.32,2.5600000000000023,Die Entfesselung der Erfindung aus Deutschland...
+75,"00:04:33,320","00:04:36,560",273.32,276.56,3.240000000000009,Sie müssen Gas geben.
+76,"00:04:36,560","00:04:41,760",276.56,281.76,5.199999999999989,"Selbstverständlich,"
+77,"00:04:41,760","00:04:47,640",281.76,287.64,5.8799999999999955,wir brauchen ganz dringend Ladeinfrastruktur in unserem Land.
+78,"00:04:47,680","00:04:52,400",287.68,292.4,4.71999999999997,Unser eigener Absatzmarkt ist zentral in dieser Frage.
+79,"00:04:52,440","00:04:59,120",292.44,299.12,6.680000000000007,Ganz viel wird in diesem Bereich gemacht.
+80,"00:05:00,000","00:05:04,640",300.0,304.64,4.639999999999986,"Wie viele Ladepunkte haben wir im letzten Jahr gebaut, wissen Sie das?"
+81,"00:05:04,720","00:05:09,080",304.72,309.08,4.359999999999957,"Ist der Weg einer, der nach oben geht?"
+82,"00:05:09,080","00:05:11,080",309.08,311.08,2.0,ON: Nein.
+83,"00:05:11,120","00:05:15,040",311.12,315.04,3.920000000000016,"Natürlich geht der Weg nach oben, es geht gar nicht anders."
+84,"00:05:15,040","00:05:18,760",315.04,318.76,3.7199999999999704,"Bis 2030 brauchen wir genug,"
+85,"00:05:18,800","00:05:21,240",318.8,321.24,2.4399999999999977,"das ist einer der zentralen Gründe,"
+86,"00:05:21,280","00:05:25,120",321.28,325.12,3.840000000000032,warum die Leute sich beim Kauf zurückhalten.
+87,"00:05:25,160","00:05:29,200",325.16,329.2,4.039999999999964,"Es ist die Frage, warum kaufen Sie keine deutschen Fahrzeuge,"
+88,"00:05:29,240","00:05:36,280",329.24,336.28,7.039999999999964,"da glaube ich fest daran, dass wir das drehen können."
+89,"00:05:36,280","00:05:42,240",336.28,342.24,5.960000000000036,Wir haben keine Ladestationen
+90,"00:05:42,240","00:05:45,440",342.24,345.44,3.1999999999999886,und die sind zu teuer also die deutschen Autos.
+91,"00:05:45,440","00:05:49,400",345.44,349.4,3.9599999999999795,"ON: Ja, das ist aber nicht nur bei den deutschen Autos so."
+92,"00:05:49,400","00:05:53,080",349.4,353.08,3.680000000000007,Wir haben nicht genug Masse auf dem Gebrauchtwagenmarkt.
+93,"00:05:53,160","00:05:56,880",353.15999999999997,356.88,3.7200000000000273,"Gerade im kleineren Sektor haben wir noch nicht genug,"
+94,"00:05:56,920","00:06:00,480",356.92,360.48,3.5600000000000023,"deswegen gibt es noch nicht die ausreichenden Preise,"
+95,"00:06:00,560","00:06:03,280",360.56,363.28,2.7199999999999704,die sich mit den Verbrennern messen lassen.
+96,"00:06:03,320","00:06:07,800",363.32,367.8,4.480000000000018,Ein alter Verbrenner ist deutlich billiger als ein Elektrofahrzeug.
+97,"00:06:07,840","00:06:13,600",367.84,373.6,5.760000000000048,Wir müssen auf dem Weltmarkt mithalten.
+98,"00:06:13,600","00:06:17,600",373.6,377.6,4.0,"Die Kollegen aus der Regie haben den Schnellcheck gemacht,"
+99,"00:06:17,600","00:06:20,680",377.6,380.68,3.079999999999984,"als würden sie schätzen, wie viele Ladepunkte haben wir in Deutschland?"
+100,"00:06:20,680","00:06:23,320",380.68,383.32,2.6399999999999864,ON: Das weiß ich nicht.
+101,"00:06:23,320","00:06:25,280",383.32,385.28,1.9599999999999795,100.000 ungefähr.
+102,"00:06:25,320","00:06:28,560",385.32,388.56,3.240000000000009,Letztes Jahr haben wir wie viele gebaut?
+103,"00:06:28,560","00:06:34,200",388.56,394.2,5.639999999999986,ON: Weiß ich nicht.
+104,"00:06:34,200","00:06:38,960",394.2,398.96,4.759999999999991,"Wie viele Elektroautos müssen wir jedes Jahr auf den Markt bringen,"
+105,"00:06:38,960","00:06:41,520",398.96,401.52,2.5600000000000023,damit für die 15.000.000 bis 2030 haben?
+106,"00:06:41,520","00:06:45,520",401.52,405.52,4.0,"ON: Ich würde den Telefonjoker anrufen, wenn ich könnte."
+107,"00:06:45,520","00:06:51,640",405.52,411.64,6.1200000000000045,Anderthalb Millionen jedes Jahr.
+108,"00:06:51,640","00:06:55,840",411.64,415.84000000000003,4.2000000000000455,"Jetzt haben wir 500.000 zugelassen, wie sollen wir das schaffen?"
+109,"00:06:55,880","00:07:00,720",415.88,420.72,4.840000000000032,Ladepunkte 13.000.
+110,"00:07:00,760","00:07:03,920",420.76,423.92,3.160000000000025,Das passt an keinee Ecke zusammen.
+111,"00:07:03,920","00:07:08,040",423.92,428.04,4.1200000000000045,"ON: Natürlich, das hat viele Gründe."
+112,"00:07:08,040","00:07:12,520",428.04,432.52,4.479999999999961,Antragsverfahren dauert zu lange. Deshalb muss man es beschleunigen.
+113,"00:07:12,560","00:07:15,920",432.56,435.92,3.3600000000000136,Aus diesem Grund noch mehr Gesetze zu diesem Thema.
+114,"00:07:15,960","00:07:18,720",435.96,438.72,2.7600000000000477,"Wir müssen dort deutlich schneller werden,"
+115,"00:07:18,760","00:07:21,000",438.76,441.0,2.240000000000009,es reicht derzeit nicht aus.
+116,"00:07:21,080","00:07:23,200",441.08,443.2,2.1200000000000045,"Unabhängig von welchen Autos,"
+117,"00:07:23,240","00:07:29,200",443.24,449.2,5.9599999999999795,die an die Ladesäule kommen.
+118,"00:07:29,760","00:07:33,000",449.76,453.0,3.240000000000009,Wir müssen anderthalb Millionen Autos jedes Jahr
+119,"00:07:33,080","00:07:35,880",453.08,455.88,2.8000000000000114,"auf die Straße bringen, wenn wir das schaffen wollen."
+120,"00:07:35,880","00:07:38,440",455.88,458.44,2.5600000000000023,ON: Das ist mir klar.
+121,"00:07:38,440","00:07:42,240",458.44,462.24,3.8000000000000114,Warum kürzen wir dann in der Situation quasi über Nacht
+122,"00:07:42,240","00:07:45,400",462.24,465.4,3.159999999999968,"die Förderung und würden das Ding endgültig ab,"
+123,"00:07:45,480","00:07:47,320",465.48,467.32,1.839999999999975,wenn das so zentral ist?
+124,"00:07:47,320","00:07:49,320",467.32,469.32,2.0,ON: Es ist kein Geld mehr da.
+125,"00:07:49,360","00:07:54,200",469.36,474.2,4.839999999999975,Ohne Geld kann man es nicht bezahlen.
+126,"00:07:54,200","00:07:58,240",474.2,478.24,4.0400000000000205,Ich werde drei Sätze mehr sagen wenn ich darf.
+127,"00:07:58,280","00:08:04,240",478.28,484.24,5.960000000000036,"Wir haben 500.000, das reicht nicht."
+128,"00:08:04,280","00:08:07,960",484.28,487.96,3.680000000000007,"Es wird schneller werden, es wird mehr werden."
+129,"00:08:08,040","00:08:13,200",488.04,493.2,5.159999999999968,"Das zweite ist, wir haben versucht anzuschieben mit Subventionen."
+130,"00:08:13,240","00:08:19,080",493.24,499.08,5.839999999999975,Die kann nicht endlos dauern.
+131,"00:08:19,120","00:08:21,640",499.12,501.64,2.519999999999982,"Natürlich haben sich viele gewünscht,"
+132,"00:08:21,680","00:08:23,600",501.68,503.6,1.920000000000016,dass es länger laufen kann.
+133,"00:08:23,680","00:08:26,080",503.68,506.08,2.3999999999999773,Da wir noch in der Anschubphase sind.
+134,"00:08:26,120","00:08:29,920",506.12,509.92,3.8000000000000114,Es fehlt aber das Geld.
+135,"00:08:29,920","00:08:35,800",509.92,515.8,5.879999999999939,"Aber sie sind die Regierung, sie sind kein Trachtenverein, der sagt,"
+136,"00:08:35,800","00:08:43,440",515.8,523.44,7.6400000000001,"wir wünschen uns da was, sie müssen Leitplanken setzen."
+137,"00:08:43,840","00:08:47,800",523.84,527.8,3.9599999999999227,"Die könne nicht sagen, wir machen Autoförderung,"
+138,"00:08:47,880","00:08:50,080",527.88,530.08,2.2000000000000455,dann bestellen die deutsche Autos
+139,"00:08:50,160","00:08:53,640",530.16,533.64,3.480000000000018,und dann wird die Subvention Weg gehauen.
+140,"00:08:53,640","00:08:56,400",533.64,536.4,2.759999999999991,ON: Wir sind nur eine Regierungskoalition
+141,"00:08:56,480","00:08:58,440",536.48,538.44,1.9600000000000364,und keine Gelddruckmaschine.
+142,"00:08:58,440","00:09:02,720",538.44,542.72,4.279999999999973,"Wir haben klare Regeln, wie man das Geld ausgeben kann und wie viel."
+143,"00:09:02,720","00:09:06,280",542.72,546.28,3.5599999999999454,"Wenn jemand einen Hausbau plant und mit so einer Idee,"
+144,"00:09:06,360","00:09:10,200",546.36,550.2,3.840000000000032,"ich habe eine Vorstellung, zur Bank geht und gesagt wird,"
+145,"00:09:10,200","00:09:13,400",550.2,553.4,3.199999999999932,komm morgen noch mal rein das ist doch keine seriöse Planung.
+146,"00:09:13,400","00:09:26,480",553.4,566.48,13.080000000000041,ON: Zu welcher Bank soll ich jetzt gehen?
+147,"00:09:26,480","00:09:30,840",566.48,570.84,4.360000000000014,"HP: Da darf ich dem Nouripour zur Seite springen, warum kein Geld"
+148,"00:09:30,920","00:09:32,920",570.92,572.92,2.0,"da ist, hat auch seinen Grund."
+149,"00:09:33,000","00:09:36,600",573.0,576.6,3.6000000000000227,"Wenn seit 18. Dezember der Umweltbonus weggefallen ist,"
+150,"00:09:36,640","00:09:41,040",576.64,581.04,4.399999999999977,"dann hat das einen Grund, der im November datiert,"
+151,"00:09:41,080","00:09:44,760",581.08,584.76,3.67999999999995,"da hatten wir ein Urteil des Bundesverfassungsgerichts,"
+152,"00:09:44,840","00:09:49,360",584.84,589.36,4.519999999999982,dass die Schuldenbremse angezogen hat.
+153,"00:09:49,440","00:09:51,640",589.44,591.64,2.199999999999932,"Damit war der Transformationsfond,"
+154,"00:09:51,720","00:09:55,720",591.72,595.72,4.0,der die Elektroautos förderungsfähig stabilisieren sollen weg.
+155,"00:09:55,760","00:10:01,520",595.76,601.52,5.759999999999991,Wenn ich nach Schuld suchen soll und nehme die Schuld weg von den Grünen
+156,"00:10:01,600","00:10:06,000",601.6,606.0,4.399999999999977,"und der Ampel Regierung, dann sage ich,"
+157,"00:10:06,080","00:10:09,560",606.08,609.56,3.4799999999999045,"Schuld ist auch das Bundesverfassungsgericht,"
+158,"00:10:09,640","00:10:13,080",609.64,613.08,3.4400000000000546,"dass die Schuldenbremse in einer Weise ausgelegt hat,"
+159,"00:10:13,160","00:10:16,200",613.16,616.2,3.0400000000000773,die ich für unverantwortlich halte.
+160,"00:10:16,280","00:10:20,120",616.28,620.12,3.840000000000032,"Die dem Spruch des anderen Senats, der gesagt hat,"
+161,"00:10:20,200","00:10:24,560",620.2,624.56,4.3599999999999,man muss dem Klimawandel mit aller Kraft stoppen aus Verantwortung
+162,"00:10:24,600","00:10:26,680",624.6,626.68,2.0799999999999272,"für die künftigen Generationen,"
+163,"00:10:26,720","00:10:29,720",626.72,629.72,3.0,dieses Urteil zu Schuldenbremse hat das konterkariert.
+164,"00:10:29,720","00:10:36,400",629.72,636.4,6.67999999999995,Sozusagen konterkariert.
+165,"00:10:36,400","00:10:39,720",636.4,639.72,3.32000000000005,"Da ist das Verfassungsgericht, der Zweiter Senat,"
+166,"00:10:39,800","00:10:48,480",639.8,648.48,8.680000000000064,der Ampel Regierung gesprungen und hat all die guten Vorsätze zerstört.
+167,"00:10:49,720","00:10:55,720",649.72,655.72,6.0,"Mein Thema ist, Frau Löhr?"
+168,"00:10:57,600","00:11:03,800",657.6,663.8,6.199999999999932,Es war eine verfassungsrechtliche Situation.
+169,"00:11:03,800","00:11:14,000",663.8,674.0,10.200000000000045,HP: Verfassungswidrig ja aber das hätten sie nicht machen müssen.
+170,"00:11:14,000","00:11:18,520",674.0,678.52,4.519999999999982,"Mir gehts um die Planbarkeit,"
+171,"00:11:18,600","00:11:22,120",678.6,682.12,3.519999999999982,"die Frage, wie Menschen das im Alltag umsetzen wollen."
+172,"00:11:22,200","00:11:25,680",682.2,685.68,3.4799999999999045,"Ist das ein Grund, warum die Leute so viel rot sehen"
+173,"00:11:25,720","00:11:29,760",685.72,689.76,4.039999999999964,"bei der Regierung, weil man diese Verlässlichkeit nicht mehr hat?"
+174,"00:11:29,760","00:11:34,200",689.76,694.2,4.440000000000055,"JL: Mit der E Auto primär, das würde ich nicht den Grünen anlasten."
+175,"00:11:34,200","00:11:36,120",694.2,696.12,1.919999999999959,"Es war große Unordnung,"
+176,"00:11:36,200","00:11:39,520",696.2,699.52,3.3199999999999363,es wurden viele möglichen Förderprogramme gestoppt.
+177,"00:11:39,560","00:11:43,240",699.56,703.24,3.6800000000000637,Dann ist auch die Auto Premiere abrupt gestoppt worden.
+178,"00:11:43,280","00:11:47,760",703.28,707.76,4.480000000000018,"Ob das so hätte sein müssen, ich finde das ist unglücklich gelaufen."
+179,"00:11:47,800","00:11:50,840",707.8,710.84,3.0400000000000773,Viele Menschen hatten schon das Auto bestellt
+180,"00:11:50,880","00:11:53,440",710.88,713.44,2.560000000000059,"und die Annahme, sie bekommen das Geld."
+181,"00:11:53,480","00:11:56,560",713.48,716.56,3.0799999999999272,Es ist der Sache sicherlich nicht gedient.
+182,"00:11:56,600","00:11:59,360",716.6,719.36,2.759999999999991,"Ich würde noch mal unterstreichen wollen,"
+183,"00:11:59,400","00:12:02,000",719.4,722.0,2.6000000000000227,wir leben nicht in einer Planwirtschaft.
+184,"00:12:02,080","00:12:05,160",722.08,725.16,3.0799999999999272,"Die Regierungen, auch die Vorgängerregierungen,"
+185,"00:12:05,200","00:12:10,320",725.2,730.32,5.1200000000000045,"sind gut darin Zahlen in die Welt zu setzen,"
+186,"00:12:10,360","00:12:14,640",730.36,734.64,4.279999999999973,"wann Deutschland klimaneutral werden will,"
+187,"00:12:14,680","00:12:19,040",734.68,739.04,4.360000000000014,wie viele Autos zu einem bestimmten Jahr.
+188,"00:12:19,120","00:12:21,200",739.12,741.2,2.080000000000041,"Das klappt aber meistens nicht,"
+189,"00:12:21,280","00:12:24,120",741.28,744.12,2.840000000000032,weil die Menschen sich nicht so verhalten.
+190,"00:12:24,160","00:12:27,840",744.16,747.84,3.6800000000000637,"Er Autos haben viele Probleme, sie sind noch sehr teuer."
+191,"00:12:27,920","00:12:31,000",747.92,751.0,3.080000000000041,"Es gibt Probleme mit der Reichweite,"
+192,"00:12:31,080","00:12:37,320",751.08,757.32,6.240000000000009,"für die Stadt gut geeignet, aber für weite Strecken nicht."
+193,"00:12:37,360","00:12:39,960",757.36,759.96,2.6000000000000227,Es gibt kaum einen Gebrauchtwarenmarkt.
+194,"00:12:40,040","00:12:42,640",760.04,762.64,2.6000000000000227,"Die Aussicht,"
+195,"00:12:42,720","00:12:47,320",762.72,767.32,4.600000000000023,das Auto zu einem passablen Preis verkaufen zu können ist eher gering.
+196,"00:12:47,360","00:12:49,640",767.36,769.64,2.2799999999999727,Die Menschen wollen dann die Autos
+197,"00:12:49,720","00:12:52,160",769.72,772.16,2.439999999999941,mit besseren Batterien beispielsweise.
+198,"00:12:52,240","00:12:56,680",772.24,776.68,4.439999999999941,Wir hatten eine Kaufprämie seit 2016.
+199,"00:12:56,760","00:13:01,720",776.76,781.72,4.960000000000036,Subventionen als Anschubhilfe sind in Ordnung.
+200,"00:13:01,760","00:13:08,440",781.76,788.44,6.680000000000064,Die haben wir jetzt aber seit zehn Jahre.
+201,"00:13:08,640","00:13:17,280",788.64,797.28,8.639999999999986,"Wir rechnen mal hoch, wenn wir 15 Millionen Elektroautos haben wollen,"
+202,"00:13:23,600","00:13:29,280",803.6,809.28,5.67999999999995,können wir die 10 Milliarden mal 7 rechnen.
+203,"00:13:29,320","00:13:32,200",809.32,812.2,2.8799999999999955,Das sind die chinesischen Autobauer uns voraus.
+204,"00:13:32,200","00:13:37,560",812.2,817.56,5.3599999999999,Die mit unglaublichen Subventionen in diesen Markt reingedrückt wurden.
+205,"00:13:37,560","00:13:41,680",817.56,821.68,4.1200000000000045,JL: Die auch mit deutlich günstigeren Produktionsbedingungen
+206,"00:13:41,680","00:13:47,640",821.68,827.64,5.960000000000036,in China produzieren.
+207,"00:13:47,960","00:13:52,400",827.96,832.4,4.439999999999941,Hier bringen sie mitmacht ihre E- Autos auf den europäischen Markt.
+208,"00:13:52,480","00:13:55,440",832.48,835.44,2.9600000000000364,"Für die Käufer ist das eine gute Nachricht,"
+209,"00:13:55,520","00:13:58,560",835.52,838.56,3.0399999999999636,ein Preis Konkurrenzkampf ein.
+210,"00:13:58,640","00:14:04,000",838.64,844.0,5.360000000000014,Aber für die deutschen Hersteller
+211,"00:14:04,080","00:14:10,360",844.08,850.36,6.279999999999973,und auch den E-Autoherstellern ist das ein Problem.
+212,"00:14:10,360","00:14:16,240",850.36,856.24,5.8799999999999955,Es gibt ein paar sehr beeindruckende Zahlen dazu.
+213,"00:14:16,240","00:14:19,480",856.24,859.48,3.240000000000009,Die Zulassungszahlen von Elektroautos
+214,"00:14:19,560","00:14:23,480",859.56,863.48,3.9200000000000728,"auf dem chinesischen Markt, der der entscheidende Markt ist"
+215,"00:14:23,560","00:14:26,960",863.56,866.96,3.400000000000091,"im Bereich E Mobilität, wenn man sich das anschaut,"
+216,"00:14:27,040","00:14:33,680",867.04,873.68,6.639999999999986,"die ersten 20, da taucht kein einziger deutscher Hersteller auf."
+217,"00:14:33,680","00:14:37,520",873.68,877.52,3.840000000000032,"ON: Das liegt daran, dass die Chinesen massiv deckeln,"
+218,"00:14:37,520","00:14:41,320",877.52,881.32,3.800000000000068,was aus dem Ausland kommt. Das ist kein freier Wettbewerb.
+219,"00:14:41,400","00:14:44,920",881.4,884.92,3.519999999999982,"Die Deutschen dürfen nur eine gewisse Zahl verkaufen,"
+220,"00:14:45,000","00:14:49,880",885.0,889.88,4.8799999999999955,darüber geht es gar nicht.
+221,"00:14:49,880","00:14:55,280",889.88,895.28,5.399999999999977,Verzerrter Wettbewerb dort und dann auf der anderen Seite in den USA.
+222,"00:14:55,280","00:14:58,560",895.28,898.56,3.2799999999999727,Die Amerikaner ziehen auch massive Schranken hoch
+223,"00:14:58,600","00:15:01,840",898.6,901.84,3.240000000000009,und fördern ganz massiv die eigenen Elektroautos.
+224,"00:15:01,880","00:15:05,680",901.88,905.68,3.7999999999999545,Wir werden von beiden Seiten richtig in die Zange genommen
+225,"00:15:05,760","00:15:08,120",905.76,908.12,2.3600000000000136,und die Zahlen sind interessant.
+226,"00:15:08,200","00:15:12,360",908.2,912.36,4.159999999999968,2017 hatten wir in Deutschland noch 4 Millionen Neuzulassungen.
+227,"00:15:12,440","00:15:15,080",912.44,915.08,2.6399999999999864,"2023 nur 2,8 Millionen."
+228,"00:15:15,120","00:15:22,080",915.12,922.08,6.960000000000036,"Da sieht man deutlich, wo die Reise hingeht."
+229,"00:15:25,680","00:15:29,160",925.68,929.16,3.480000000000018,"VW als der Player, 2019 knapp 700.000 Neuzulassungen"
+230,"00:15:29,240","00:15:31,920",929.24,931.92,2.67999999999995,in Deutschland.
+231,"00:15:32,000","00:15:34,320",932.0,934.32,2.32000000000005,2023 knapp über 500.000.
+232,"00:15:34,360","00:15:38,000",934.36,938.0,3.6399999999999864,Was bedeutet das für den Wirtschaftsstandort Deutschland?
+233,"00:15:38,000","00:15:42,080",938.0,942.08,4.080000000000041,"JL: Ich würde davor warnen,"
+234,"00:15:42,160","00:15:48,320",942.16,948.32,6.160000000000082,nur mit dem Zeigefinger auf die Chinesen und Amerikaner zu zeigen.
+235,"00:15:48,360","00:15:53,000",948.36,953.0,4.639999999999986,Wir haben es sehr viele Jahre üppig gemacht.
+236,"00:15:53,040","00:15:56,160",953.04,956.16,3.1200000000000045,Alle Regierungen versuchen im Moment
+237,"00:15:56,240","00:16:02,640",956.24,962.64,6.399999999999977,ihre neue E-Autoindustrie verbessern.
+238,"00:16:04,640","00:16:12,360",964.64,972.36,7.720000000000027,Die Amerikaner haben denen vielleicht nur Refluction Act
+239,"00:16:14,160","00:16:17,440",974.16,977.44,3.2800000000000864,dort e-Autos hergestellt billiger. Und subventioniert
+240,"00:16:17,440","00:16:20,760",977.44,980.76,3.3199999999999363,"Ganz harten Bedingungen, deshalb sagte ich vorhin,"
+241,"00:16:20,840","00:16:22,840",980.84,982.84,2.0,"der Ton war sehr nett,"
+242,"00:16:22,840","00:16:29,480",982.84,989.48,6.639999999999986,aber in der Sache geht es da richtig ans Eingemachte.
+243,"00:16:29,480","00:16:36,200",989.48,996.2,6.720000000000027,"JL: Das ist nicht neu, den Akt gibt es seit 2022."
+244,"00:16:36,200","00:16:40,240",996.2,1000.24,4.039999999999964,"Können Sie einmal schildern, wenn wir beim Automarkt bleiben,"
+245,"00:16:40,240","00:16:42,160",1000.24,1002.16,1.919999999999959,"was ist die Voraussetzung, um"
+246,"00:16:42,240","00:16:45,720",1002.24,1005.72,3.480000000000018,in den Genuss amerikanischer Fördermittel zu kommen?
+247,"00:16:45,720","00:16:49,480",1005.72,1009.48,3.759999999999991,JL: Sie müssen einen sehr umfangreichen Kriterienkatalog
+248,"00:16:49,560","00:16:51,560",1009.56,1011.56,2.0,erfüllen.
+249,"00:16:51,560","00:16:55,280",1011.56,1015.28,3.7200000000000273,Ein Großteil des Autos muss in Amerika hergestellt werden.
+250,"00:16:55,360","00:16:57,280",1015.36,1017.28,1.919999999999959,Nicht wie früher können Teile
+251,"00:16:57,360","00:17:00,080",1017.36,1020.08,2.7200000000000273,öfters über den Atlantik verschifft werden
+252,"00:17:00,200","00:17:02,360",1020.2,1022.36,2.159999999999968,"und man kann dann nicht behaupten,"
+253,"00:17:02,440","00:17:06,680",1022.44,1026.68,4.240000000000009,das ist ein amerikanisches Auto.
+254,"00:17:06,680","00:17:11,040",1026.68,1031.04,4.3599999999999,"Sie können nicht mal sagen, ich kaufe die Rohstoffe irgendwo ein"
+255,"00:17:11,040","00:17:14,200",1031.04,1034.2,3.160000000000082,und dann schrauben wir die Batterien hier zusammen?
+256,"00:17:14,200","00:17:18,000",1034.2,1038.0,3.7999999999999545,JL: Es gibt keine einfache Formen oder einen Prozentsatz.
+257,"00:17:18,080","00:17:20,680",1038.08,1040.68,2.6000000000001364,Es ist ein sehr komplexes Regelwerk.
+258,"00:17:20,680","00:17:23,880",1040.68,1043.88,3.2000000000000455,"Die USA als auch die Freihandelspartner der USA,"
+259,"00:17:23,960","00:17:26,920",1043.96,1046.92,2.9600000000000364,"Kanada oder Mexiko,"
+260,"00:17:27,000","00:17:33,600",1047.0,1053.6,6.599999999999909,in diesem Raum muss es hergestellt sein.
+261,"00:17:33,680","00:17:36,040",1053.68,1056.04,2.3599999999999,Vor zehn Jahren gab es Verhandlungen
+262,"00:17:36,120","00:17:40,720",1056.12,1060.72,4.600000000000136,über ein Freihandelsabkommen zwischen USA und Europa.
+263,"00:17:40,800","00:17:43,800",1060.8,1063.8,3.0,"Diesen gescheitert, weil gerade die Europäer,"
+264,"00:17:43,840","00:17:45,760",1063.84,1065.76,1.9200000000000728,die Grünen hatten ein Anteil.
+265,"00:17:45,840","00:17:50,520",1065.84,1070.52,4.680000000000064,Das Stichwort ist Chlorhühnchen.
+266,"00:17:50,600","00:17:57,560",1070.6,1077.56,6.960000000000036,"Jetzt gibt es eine gewisse Sehnsucht danach,"
+267,"00:17:58,040","00:18:03,680",1078.04,1083.68,5.6400000000001,ob man nicht ein mini Handelsabkommen macht.
+268,"00:18:03,760","00:18:10,360",1083.76,1090.36,6.599999999999909,"Es ist kompliziert, aber die deutschen Autohersteller merken,"
+269,"00:18:10,440","00:18:15,320",1090.44,1095.32,4.879999999999882,"es läuft nicht so, wie es mal gelaufen ist."
+270,"00:18:15,400","00:18:17,320",1095.4,1097.32,1.9199999999998454,"Robert Habeck unter Druck,"
+271,"00:18:17,400","00:18:19,840",1097.4,1099.84,2.439999999999827,die Wirtschaft läuft nicht so wie früher.
+272,"00:18:19,840","00:18:24,760",1099.84,1104.76,4.920000000000073,"Sie hatten knapp 2,5 % Wachstum."
+273,"00:18:24,760","00:18:29,480",1104.76,1109.48,4.720000000000027,"Im vergangenen Jahr sind wir um 0,3 % geschrumpft."
+274,"00:18:29,480","00:18:32,720",1109.48,1112.72,3.240000000000009,"Für Amerika sind die Prognosen einer zwei vor dem,"
+275,"00:18:32,800","00:18:34,880",1112.8,1114.88,2.0800000000001546,bei uns nicht.
+276,"00:18:34,880","00:18:38,360",1114.88,1118.36,3.479999999999791,Das Komma steht an der falschen Stelle könnte man sagen.
+277,"00:18:38,360","00:18:41,840",1118.36,1121.84,3.480000000000018,Deswegen gibt es jetzt einen gewissen Handlungsdruck.
+278,"00:18:41,920","00:18:46,400",1121.92,1126.4,4.480000000000018,"Die Reise stand unter dem Vorzeichen vor der Wahl noch zu versuchen,"
+279,"00:18:46,400","00:18:52,320",1126.4,1132.32,5.919999999999845,"der amerikanischen Wahl,"
+280,"00:18:52,800","00:18:55,960",1132.8,1135.96,3.160000000000082,"zu versuchen dort etwas auf die Spur zu setzen,"
+281,"00:18:56,040","00:18:58,840",1136.04,1138.84,2.7999999999999545,"um die Lage für die deutschen Unternehmen,"
+282,"00:18:58,920","00:19:04,080",1138.92,1144.08,5.1599999999998545,die gerne nach Amerika exportieren wollen etwas einfacher zu machen.
+283,"00:19:04,080","00:19:09,560",1144.08,1149.56,5.480000000000018,Und wird das funktionieren?
+284,"00:19:09,560","00:19:12,760",1149.56,1152.76,3.2000000000000455,JL: Nachdem was ich dort erlebt habe er nicht.
+285,"00:19:12,760","00:19:16,920",1152.76,1156.92,4.160000000000082,"Ich war in einer der Runden dabei, ein großer Unternehmer meint,"
+286,"00:19:17,000","00:19:19,400",1157.0,1159.4,2.400000000000091,Freihandel hat dort nicht viel Platz.
+287,"00:19:19,480","00:19:26,840",1159.48,1166.84,7.3599999999999,"Nicht nur die Demokraten, die schon eine große Skepsis haben,"
+288,"00:19:26,840","00:19:29,200",1166.84,1169.2,2.3600000000001273,auch die Republikaner wollen es nicht.
+289,"00:19:29,280","00:19:32,080",1169.28,1172.08,2.7999999999999545,"Vor der Wahl ist es sehr unwahrscheinlich,"
+290,"00:19:32,160","00:19:37,400",1172.16,1177.4,5.240000000000009,dass noch etwas passiert.
+291,"00:19:37,480","00:19:43,360",1177.48,1183.36,5.879999999999882,"ON: Wir haben immer gesagt, so wie es verhandelt wird,"
+292,"00:19:43,440","00:19:48,520",1183.44,1188.52,5.079999999999927,"glauben wir nicht, dass es zu fairen Bedingungen kommen."
+293,"00:19:48,600","00:19:52,120",1188.6,1192.12,3.519999999999982,"Ein gigantisches Freihandelsabkommen,"
+294,"00:19:52,200","00:19:56,080",1192.2,1196.08,3.8799999999998818,"was Barack Obama mit den pazifischen Staaten verhandelt hat,"
+295,"00:19:56,160","00:19:59,480",1196.16,1199.48,3.3199999999999363,wurde von Donald Trump auch einfach weggeschmissen.
+296,"00:19:59,560","00:20:04,200",1199.56,1204.2,4.6400000000001,Das musste neu verhandelt werden.
+297,"00:20:04,280","00:20:08,600",1204.28,1208.6,4.319999999999936,"Es ist Gang und gebe den USA, dass Freihandel nicht das Wort ist,"
+298,"00:20:08,680","00:20:11,960",1208.68,1211.96,3.2799999999999727,dass großgeschrieben wird.
+299,"00:20:12,000","00:20:16,320",1212.0,1216.32,4.319999999999936,"Man bleibt aber im Gespräch, wie man Handelsbarrieren abbaut."
+300,"00:20:16,400","00:20:19,680",1216.4,1219.68,3.2799999999999727,Zurzeit gibt es ja deswegen so viele Verhandlungen
+301,"00:20:19,760","00:20:25,680",1219.76,1225.68,5.920000000000073,für Freihandelsverträge.
+302,"00:20:25,880","00:20:28,400",1225.88,1228.4,2.519999999999982,"Selten gab es so viele Verhandlungen,"
+303,"00:20:28,480","00:20:31,360",1228.48,1231.36,2.8799999999998818,wie sie zur Zeit laufen.
+304,"00:20:31,440","00:20:34,600",1231.44,1234.6,3.1599999999998545,"Mit Vietnam, Indonesien."
+305,"00:20:34,680","00:20:39,560",1234.68,1239.56,4.879999999999882,Neuseeland und Australien ist es abgeschlossen.
+306,"00:20:39,600","00:20:46,080",1239.6,1246.08,6.480000000000018,Der Krieg in Russland separiert massiv
+307,"00:20:49,280","00:20:53,200",1249.28,1253.2,3.9200000000000728,und die Weltwirtschaft droht zu zerrütten an vielen Stellen.
+308,"00:20:53,320","00:20:59,880",1253.32,1259.88,6.560000000000173,"Deswegen ist es wichtig, dass wir diese Fragen stellen."
+309,"00:20:59,880","00:21:06,240",1259.88,1266.24,6.3599999999999,"Frau Löhr, stimmen Sie mit dem überein?"
+310,"00:21:06,240","00:21:13,440",1266.24,1273.44,7.2000000000000455,"Es fällt auf, alle relevanten Staaten wachsen, nur wir nicht."
+311,"00:21:13,520","00:21:21,920",1273.52,1281.92,8.400000000000091,"Die Erzählung, die immer kommt ist, wir haben diese Sondersituation"
+312,"00:21:22,880","00:21:27,040",1282.88,1287.04,4.1599999999998545,"seit dem 24.02.2022, was richtig ist, aber das erklärt nicht alles."
+313,"00:21:27,040","00:21:32,520",1287.04,1292.52,5.480000000000018,JL: Das erklärt nicht alles.
+314,"00:21:32,520","00:21:35,080",1292.52,1295.08,2.5599999999999454,Wir hatten eine Sondersituation
+315,"00:21:35,200","00:21:38,080",1295.2,1298.08,2.8799999999998818,durch unsere Abhängigkeit von russischem Gas.
+316,"00:21:38,160","00:21:43,920",1298.16,1303.92,5.759999999999991,Das hat uns vor allem das Jahr 2022 große Anstrengungen gebracht.
+317,"00:21:44,000","00:21:47,080",1304.0,1307.08,3.0799999999999272,"Robert Habeck hat viel dazu beigetragen,"
+318,"00:21:47,160","00:21:49,160",1307.16,1309.16,2.0,dass das Problem gelöst wurde.
+319,"00:21:49,240","00:21:51,200",1309.24,1311.2,1.9600000000000364,"Dort ist viel passiert,"
+320,"00:21:51,280","00:21:55,160",1311.28,1315.16,3.880000000000109,unsere Energieversorgung ist auf andere Beine jetzt gestellt.
+321,"00:21:55,280","00:21:57,640",1315.28,1317.64,2.3600000000001273,Was Amerika als Ziel
+322,"00:21:57,720","00:22:01,120",1317.72,1321.12,3.3999999999998636,"und für deutsche Unternehmen so attraktiv macht,"
+323,"00:22:01,200","00:22:03,400",1321.2,1323.4,2.2000000000000455,das ist eine Vielzahl von Punkten.
+324,"00:22:03,480","00:22:10,520",1323.48,1330.52,7.039999999999964,Das sind die niedrigeren Unternehmenssteuern...
+325,"00:22:12,560","00:22:16,800",1332.56,1336.8,4.240000000000009,Wir hatten neulich ein interessantes Stück über die Firma Trumpf
+326,"00:22:16,880","00:22:21,600",1336.88,1341.6,4.7199999999998,"geschrieben, die eine entscheidende Rolle bei der Chipproduktion spielt."
+327,"00:22:21,680","00:22:24,120",1341.68,1344.12,2.439999999999827,"Eines dieser exzellenten Unternehmen,"
+328,"00:22:24,200","00:22:30,120",1344.2,1350.12,5.919999999999845,die wir in Deutschland haben.
+329,"00:22:30,760","00:22:35,120",1350.76,1355.12,4.3599999999999,Hightechlaser machen die für die Chipproduktion.
+330,"00:22:35,200","00:22:39,720",1355.2,1359.72,4.519999999999982,"Die denken darüber nach und sagen, über Subventionen reden wir nicht."
+331,"00:22:39,800","00:22:44,440",1359.8,1364.44,4.6400000000001,Was ist deren Thema?
+332,"00:22:44,440","00:22:49,440",1364.44,1369.44,5.0,JL: Trumpf ist ein deutsches Unternehmen.
+333,"00:22:49,440","00:22:53,280",1369.44,1373.28,3.839999999999918,Machen einen Großteil ihres Umsatzes tatsächlich in Amerika.
+334,"00:22:53,360","00:22:55,520",1373.36,1375.52,2.160000000000082,"Das ist der stärkste Einzelmarkt,"
+335,"00:22:55,640","00:23:02,160",1375.64,1382.16,6.519999999999982,Deutschland kommt erst an zweiter Stelle.
+336,"00:23:02,240","00:23:06,360",1382.24,1386.36,4.119999999999891,"Die Chefin sagt ganz klar, was für sie zu attraktiv daran ist,"
+337,"00:23:06,440","00:23:12,520",1386.44,1392.52,6.079999999999927,"dass sie in Amerika investieren,"
+338,"00:23:14,880","00:23:22,040",1394.88,1402.04,7.1599999999998545,"das sind die deutlich geringere Unternehmenssteuern,"
+339,"00:23:22,120","00:23:24,560",1402.12,1404.56,2.4400000000000546,die deutlich geringere Energie Preise.
+340,"00:23:24,680","00:23:28,000",1404.68,1408.0,3.3199999999999363,Auch weniger Demokratie.
+341,"00:23:28,080","00:23:31,400",1408.08,1411.4,3.3200000000001637,"Das hat der Gouverneur, das brauchen wir jetzt,"
+342,"00:23:31,480","00:23:35,520",1411.48,1415.52,4.039999999999964,und dann wird das gemacht.
+343,"00:23:35,600","00:23:40,800",1415.6,1420.8,5.2000000000000455,Sie sagen ja zur Industrie und wir in Europa sagen:
+344,"00:23:40,920","00:23:43,840",1420.92,1423.84,2.9199999999998454,"Ja, aber..."
+345,"00:23:43,920","00:23:48,480",1423.92,1428.48,4.559999999999945,Und dieses und jenes muss man erst einmal erfüllen.
+346,"00:23:48,560","00:23:51,440",1428.56,1431.44,2.880000000000109,"Diese verschiedene Aspekte tragen dazu bei,"
+347,"00:23:51,520","00:23:55,760",1431.52,1435.76,4.240000000000009,"dass inzwischen so viele Manager feuchte Augen bekommen,"
+348,"00:23:55,880","00:23:58,440",1435.88,1438.44,2.5599999999999454,"wenn sie daran denken, in Amerika zu investieren."
+349,"00:23:58,440","00:24:02,960",1438.44,1442.96,4.519999999999982,Welche Rolle spielt da insbesondere die Partei von Herr Nouripour?
+350,"00:24:02,960","00:24:07,600",1442.96,1447.6,4.639999999999873,"JL: Es ist ein offenes Geheimnis, dass die Mittelständler,"
+351,"00:24:07,600","00:24:10,880",1447.6,1450.88,3.2800000000002,die nicht von den großen Subventionen profitieren.
+352,"00:24:10,960","00:24:16,520",1450.96,1456.52,5.559999999999945,Dass sie nicht auf diese Wirtschaftspolitik gut sprechen sind
+353,"00:24:16,640","00:24:20,440",1456.64,1460.44,3.7999999999999545,die sehen auch die Subventionspolitik sehr kritisch.
+354,"00:24:20,560","00:24:27,640",1460.56,1467.64,7.080000000000155,"Wo einzelne Unternehmen sehr viel Geld bekommen,"
+355,"00:24:35,240","00:24:41,640",1475.24,1481.64,6.400000000000091,Intel für seine Fabrik in Magedeburg mehrere Millionen Euro.
+356,"00:24:41,760","00:24:45,400",1481.76,1485.4,3.6400000000001,"Die Kleinunternehmen, die nicht zum Rampenlicht stehen,"
+357,"00:24:45,480","00:24:47,800",1485.48,1487.8,2.3199999999999363,bekomme nicht so viel Unterstützung.
+358,"00:24:47,880","00:24:51,760",1487.88,1491.76,3.8799999999998818,Eine Unternehmenssteuerreform gab es seit Jahren nicht mehr
+359,"00:24:51,880","00:24:55,480",1491.88,1495.48,3.599999999999909,und wird es auch demnächst nicht geben.
+360,"00:24:55,560","00:24:58,120",1495.56,1498.12,2.5599999999999454,ON: Darf ich dort etwas widersprechen.
+361,"00:24:58,240","00:25:02,000",1498.24,1502.0,3.759999999999991,"Ich teile, wir haben drei chronische Probleme."
+362,"00:25:02,080","00:25:06,120",1502.08,1506.12,4.039999999999964,Die Energiepreise.
+363,"00:25:06,200","00:25:13,320",1506.2,1513.32,7.119999999999891,Wir sind gerade bei dem Preis für die Industrie.
+364,"00:25:16,960","00:25:23,080",1516.96,1523.08,6.119999999999891,"Das wird auf Dauer funtionieren,"
+365,"00:25:27,480","00:25:33,920",1527.48,1533.92,6.440000000000055,dass wir mit dem Bau von der neueren Energie Energien weitermachen.
+366,"00:25:34,000","00:25:39,480",1534.0,1539.48,5.480000000000018,Die Verfahren sind zu langsam.
+367,"00:25:39,600","00:25:42,480",1539.6,1542.48,2.880000000000109,"Es gibt Beschleunigungsfragen,"
+368,"00:25:42,600","00:25:46,840",1542.6,1546.84,4.240000000000009,"wir werden Praxistests einführen für Gesetze,"
+369,"00:25:46,920","00:25:51,480",1546.92,1551.48,4.559999999999945,"damit die im Nachhinein nicht mehr Probleme schaffen, als sie helfen."
+370,"00:25:51,560","00:25:54,600",1551.56,1554.6,3.0399999999999636,Wir haben einen gigantischen Berg an Maßnahmen.
+371,"00:25:54,680","00:25:57,120",1554.68,1557.12,2.439999999999827,Aber die Leute verlieren an Überblick.
+372,"00:25:57,240","00:26:01,840",1557.24,1561.84,4.599999999999909,Das ist ein Problem.
+373,"00:26:01,960","00:26:04,200",1561.96,1564.2,2.240000000000009,"Das kann nicht nur der Bund lösen,"
+374,"00:26:04,280","00:26:08,400",1564.28,1568.4,4.120000000000118,das ist ein gesamtstaatliches Problem.
+375,"00:26:08,480","00:26:13,080",1568.48,1573.08,4.599999999999909,"Ich bin nur etwas verwirrt vom Ton, wenn wir uns mit USA vergleichen,"
+376,"00:26:13,160","00:26:15,560",1573.16,1575.56,2.3999999999998636,wir haben auch Standortvorteile.
+377,"00:26:15,640","00:26:20,440",1575.64,1580.44,4.7999999999999545,Wir haben einen deutlich besseren Arbeitsmarkt hier als die USA.
+378,"00:26:20,520","00:26:25,680",1580.52,1585.68,5.160000000000082,"Eine Netzstabilität, die ist kein Vergleich mit der USA."
+379,"00:26:25,760","00:26:30,480",1585.76,1590.48,4.720000000000027,"Die Zahlen sind ungefähr,"
+380,"00:26:30,600","00:26:35,240",1590.6,1595.24,4.6400000000001,"wir hatten letztes Jahr ungefähr 12 Minuten Blackout,"
+381,"00:26:35,360","00:26:39,240",1595.36,1599.24,3.880000000000109,in Amerika fast 24 Stunden.
+382,"00:26:39,360","00:26:45,160",1599.36,1605.16,5.800000000000182,Für die Chemieindustrie ist das das Ende teilweise.
+383,"00:26:45,200","00:26:51,520",1605.2,1611.52,6.319999999999936,"Wir haben hier unsere Verwerfungen,"
+384,"00:26:52,920","00:26:56,440",1612.92,1616.44,3.519999999999982,wir haben eine gestresste Demokratie.
+385,"00:26:56,560","00:26:59,560",1616.56,1619.56,3.0,"Aber es ist nicht so,"
+386,"00:26:59,640","00:27:06,920",1619.64,1626.92,7.279999999999973,"dass der nächste Kanzler das alles wieder zerstört wird,"
+387,"00:27:07,000","00:27:14,440",1627.0,1634.44,7.440000000000055,wie es in USA der Fall sein kann mit dem Präsidenten.
+388,"00:27:15,720","00:27:20,160",1635.72,1640.16,4.440000000000055,"Wir haben da dieses Störgefühl, Herr Prantl sagt, ist es gefühlter,"
+389,"00:27:20,240","00:27:22,760",1640.24,1642.76,2.519999999999982,dass die Grünen an der Mehrheitsmeinung
+390,"00:27:22,840","00:27:28,280",1642.84,1648.28,5.440000000000055,vorbei argumentiert.
+391,"00:27:28,360","00:27:32,960",1648.36,1652.96,4.600000000000136,"HP: Ja, das ist so und ich hab die Kommunikationsfähigkeit der Grünen"
+392,"00:27:33,080","00:27:37,640",1653.08,1657.64,4.560000000000173,"Partei höher eingeschätzt und das ist nicht nur bei den Landwirten so,"
+393,"00:27:37,720","00:27:39,720",1657.72,1659.72,2.0,"die Kollegin hat schon gesagt,"
+394,"00:27:39,800","00:27:42,960",1659.8,1662.96,3.160000000000082,das ist auch der mittelständischen Wirtschaft so.
+395,"00:27:43,040","00:27:47,120",1663.04,1667.12,4.079999999999927,"Die Grünen finden den Ton nicht, sie finden den Zugang nicht."
+396,"00:27:47,200","00:27:50,240",1667.2,1670.24,3.0399999999999636,"Neudeutsch heißt es, man muss abgeholt werden."
+397,"00:27:50,320","00:27:53,760",1670.32,1673.76,3.4400000000000546,"Die Grünen können die Landwirte nicht abholen,"
+398,"00:27:53,840","00:27:57,040",1673.84,1677.04,3.2000000000000455,"sie können den Mittelstand nicht abholen,"
+399,"00:27:57,120","00:28:00,280",1677.12,1680.28,3.160000000000082,"sie können die Autofahrer nicht richtig abholen,"
+400,"00:28:00,400","00:28:03,640",1680.4,1683.64,3.240000000000009,"das haben wir eben beschrieben, warum das so ist."
+401,"00:28:03,720","00:28:06,520",1683.72,1686.52,2.7999999999999545,Das liegt in vielen Rahmenbedingungen.
+402,"00:28:06,600","00:28:10,520",1686.6,1690.52,3.9200000000000728,"Die Partei war schon mal besser darin sich gut zu erklären,"
+403,"00:28:10,600","00:28:15,200",1690.6,1695.2,4.600000000000136,"gut für sich zu werben, gut für eine Politik zu werden."
+404,"00:28:15,280","00:28:18,080",1695.28,1698.08,2.7999999999999545,Bei den Landwirten ist das besonders krass.
+405,"00:28:18,160","00:28:21,560",1698.16,1701.56,3.3999999999998636,"Wenn man denkt, die Landwirte und die grüne Partei,"
+406,"00:28:21,600","00:28:27,360",1701.6,1707.36,5.759999999999991,beide haben etwas mit grün zu tun.
+407,"00:28:27,440","00:28:30,440",1707.44,1710.44,3.0,"Es geht darum, die Artenvielfalt zu fördern"
+408,"00:28:30,520","00:28:35,520",1710.52,1715.52,5.0,und bei vielen anderen Dingen ist man eigentlich nah beieinander.
+409,"00:28:35,600","00:28:39,560",1715.6,1719.56,3.9600000000000364,Man trifft den Ton nicht kommen und trifft die Sprache nicht
+410,"00:28:39,640","00:28:44,520",1719.64,1724.52,4.879999999999882,und hört nicht richtig auf den anderen.
+411,"00:28:44,520","00:28:48,640",1724.52,1728.64,4.120000000000118,"Ich habe einen Vorschlag, weil wir heute noch etwas vorhaben."
+412,"00:28:48,640","00:28:54,760",1728.64,1734.76,6.119999999999891,Wir werden etwas grundsätzlicher.
+413,"00:28:56,040","00:28:59,920",1736.04,1739.92,3.880000000000109,"ON: Darf ich über meine Partei etwas sagen, es ist schön,"
+414,"00:29:00,000","00:29:03,040",1740.0,1743.04,3.0399999999999636,"dass alle darüber reden, wir stehen im Zentrum."
+415,"00:29:03,120","00:29:05,560",1743.12,1745.56,2.4400000000000546,"Ich habe neulich einen Spruch gehört,"
+416,"00:29:05,680","00:29:09,480",1745.68,1749.48,3.7999999999999545,"Gott weiß alles, die Grünen wissen es besser."
+417,"00:29:09,560","00:29:13,640",1749.56,1753.64,4.080000000000155,"Es wäre verheerend, wenn wir nicht auf uns schauen und schauen,"
+418,"00:29:13,720","00:29:15,640",1753.72,1755.64,1.9200000000000728,was wir besser machen können.
+419,"00:29:15,720","00:29:20,920",1755.72,1760.92,5.2000000000000455,Wir versuchen die Kommunikation zu verbessern.
+420,"00:29:21,000","00:29:26,800",1761.0,1766.8,5.7999999999999545,"Es ist richtig, dass wir im Zentrum des Geschehens stehen."
+421,"00:29:26,920","00:29:30,320",1766.92,1770.32,3.3999999999998636,"Ich gebe zu, es ist zweifellos nicht so,"
+422,"00:29:30,440","00:29:33,080",1770.44,1773.08,2.6399999999998727,dass alles aus dem Mysterium perfekt ist.
+423,"00:29:33,160","00:29:36,440",1773.16,1776.44,3.2799999999999727,"Das doch gut so,"
+424,"00:29:36,560","00:29:41,000",1776.56,1781.0,4.440000000000055,das war immer so und sollte auch so sein.
+425,"00:29:41,120","00:29:44,800",1781.12,1784.8,3.6800000000000637,"Gleichzeitig sind wir diejenigen, die am lautesten sagen,"
+426,"00:29:44,920","00:29:50,400",1784.92,1790.4,5.480000000000018,wir tun nicht so als könnte alles so bleiben.
+427,"00:29:50,520","00:29:55,720",1790.52,1795.72,5.2000000000000455,Wir sind in der Krise und müssen Entscheidungen treffen.
+428,"00:29:55,800","00:30:00,560",1795.8,1800.56,4.759999999999991,"Es gibt auch eine gesamtgesellschaftliche Stimmung,"
+429,"00:30:00,680","00:30:03,320",1800.68,1803.32,2.6399999999998727,die eher gereizt ist.
+430,"00:30:03,440","00:30:08,320",1803.44,1808.32,4.879999999999882,Das kristallisiert sich nicht nur auf die Grünen.
+431,"00:30:08,400","00:30:13,600",1808.4,1813.6,5.199999999999818,"Es ist notwendig, dass wir alle zusammen nachdenken,"
+432,"00:30:13,720","00:30:17,680",1813.72,1817.68,3.9600000000000364,wie man Orientierung und Halt gibt als Politik und Regierung.
+433,"00:30:17,800","00:30:22,240",1817.8,1822.24,4.440000000000055,Da haben wir auch als Koalition nicht immer geliefert.
+434,"00:30:22,360","00:30:24,920",1822.36,1824.92,2.560000000000173,"Der haben oft sehr zerstritten gewählt,"
+435,"00:30:25,000","00:30:27,720",1825.0,1827.72,2.7200000000000273,wie es nicht hätte sein müssen.
+436,"00:30:27,800","00:30:34,600",1827.8,1834.6,6.7999999999999545,Hinter der Bühne geht es oft nicht besser als auf der Bühne.
+437,"00:30:34,600","00:30:39,320",1834.6,1839.32,4.720000000000027,Als es nach außen hin den Anschein hat.
+438,"00:30:39,320","00:30:43,440",1839.32,1843.44,4.120000000000118,"Kai Ambos ist bei uns, der die ganze Zeit zuhört."
+439,"00:30:43,560","00:30:50,040",1843.56,1850.04,6.480000000000018,"Bevor wir gleich ein paar Bilder sehen, zum Fall Assange,"
+440,"00:30:50,160","00:30:54,840",1850.16,1854.84,4.679999999999836,"über den wir sprechen wollen, würden sie sagen, jemand wie Julian Assange"
+441,"00:30:54,960","00:30:57,720",1854.96,1857.72,2.759999999999991,"sollte freigelassen werden,"
+442,"00:30:57,840","00:31:01,480",1857.84,1861.48,3.6400000000001,wie es auch die grüne Außenministerin Annalena Baerbock
+443,"00:31:01,560","00:31:03,680",1861.56,1863.68,2.1200000000001182,im Wahlkampf gefordert?
+444,"00:31:03,680","00:31:09,560",1863.68,1869.56,5.879999999999882,KA: Ja.
+445,"00:31:09,560","00:31:14,880",1869.56,1874.88,5.320000000000164,"Sie würden sagen ja, was sagt Heribert Prantl?"
+446,"00:31:14,880","00:31:16,800",1874.88,1876.8,1.9199999999998454,HP: Zweimal Ja.
+447,"00:31:16,880","00:31:21,280",1876.88,1881.28,4.399999999999864,"Frage an Herr Nouripour, warum hören wir seit Annalena Baerbock"
+448,"00:31:21,360","00:31:23,640",1881.36,1883.64,2.2800000000002,dazu nicht mehr
+449,"00:31:23,640","00:31:26,440",1883.64,1886.44,2.7999999999999545,"ON: Der Job ist Außenministerin es nicht,"
+450,"00:31:26,520","00:31:30,520",1886.52,1890.52,4.0,draußen herum zu erzählen sondern in bilateralen Gesprächen.
+451,"00:31:30,520","00:31:33,800",1890.52,1893.8,3.2799999999999727,"Das ist sehr wässrig, sehr lasch."
+452,"00:31:33,800","00:31:38,200",1893.8,1898.2,4.400000000000091,"ON: Die Außenministerin stellt sich nicht ins Fernsehen und sagt,"
+453,"00:31:38,200","00:31:40,640",1898.2,1900.64,2.4400000000000546,im Übrigen sind die Briten angehalten
+454,"00:31:40,720","00:31:43,280",1900.72,1903.28,2.5599999999999454,ihre Gerichtsurteile zu revidieren.
+455,"00:31:43,280","00:31:46,240",1903.28,1906.24,2.9600000000000364,"Es geht nur um Konsistenz, wenn man im Wahlkampf sagt..."
+456,"00:31:46,240","00:31:55,320",1906.24,1915.32,9.079999999999927,"Das sind Gespräche, die führt man unter Kollegen miteinander."
+457,"00:31:55,320","00:31:58,560",1915.32,1918.56,3.240000000000009,"Das macht sie sonst auch, wenn es um Dinge geht,"
+458,"00:31:58,640","00:32:04,280",1918.64,1924.28,5.639999999999873,die an Menschenrechtsverletzungen rührt.
+459,"00:32:04,280","00:32:08,600",1924.28,1928.6,4.319999999999936,ON: Das hat sie nicht gesagt.
+460,"00:32:08,600","00:32:12,000",1928.6,1932.0,3.400000000000091,"Das Thema ist, bei einer Auslieferung"
+461,"00:32:12,080","00:32:17,040",1932.08,1937.04,4.960000000000036,droht die Todesstrafe.
+462,"00:32:17,120","00:32:22,200",1937.12,1942.2,5.080000000000155,Auf oft maliger Nachfrage haben die Amerikaner das nicht gemacht.
+463,"00:32:22,320","00:32:24,400",1942.32,1944.4,2.0800000000001546,"Es geht um ein Grundrecht,"
+464,"00:32:24,520","00:32:30,160",1944.52,1950.16,5.6400000000001,"die Gesundheit, die nicht verletzt werden darf."
+465,"00:32:30,160","00:32:35,640",1950.16,1955.64,5.480000000000018,"Wir halten fest, das ist ein interessanter Fall,"
+466,"00:32:35,640","00:32:38,880",1955.64,1958.88,3.240000000000009,weil zwei Männer zu unterschiedlichen Ergebnissen
+467,"00:32:38,960","00:32:40,960",1958.96,1960.96,2.0,"kommen und dennoch beide sagen,"
+468,"00:32:41,040","00:32:43,720",1961.04,1963.72,2.6800000000000637,eigentlich sollte er freigelassen werden.
+469,"00:32:43,800","00:32:47,800",1963.8,1967.8,4.0,"Die werden gleich zu seinem Bruder nach Australien schalten,"
+470,"00:32:47,880","00:32:49,840",1967.88,1969.84,1.959999999999809,seinem Halbbruder.
+471,"00:33:05,880","00:33:12,040",1985.88,1992.04,6.1599999999998545,Diese Bilder sollte die Öffentlichkeit nie sehen.
+472,"00:33:12,120","00:33:18,160",1992.12,1998.16,6.040000000000191,Vor fast 17 Jahren feiern US- Soldaten unseren Kampfhubschrauber
+473,"00:33:18,240","00:33:23,040",1998.24,2003.04,4.7999999999999545,"auf Zivilisten, zwölf Menschen sterben,"
+474,"00:33:23,160","00:33:29,800",2003.16,2009.8,6.639999999999873,unter anderem zwei Reuters Journalisten.
+475,"00:33:31,480","00:33:35,320",2011.48,2015.32,3.839999999999918,Zwei kleine Kinder werden schwer verletzt.
+476,"00:33:35,400","00:33:38,760",2015.4,2018.76,3.3599999999999,Dieses Video veröffentlicht Julian Assange
+477,"00:33:38,840","00:33:41,840",2018.84,2021.84,3.0,auf seiner Veröffentlichungsplattform
+478,"00:33:41,920","00:33:45,320",2021.92,2025.32,3.3999999999998636,Wikileaks.
+479,"00:33:45,400","00:33:48,800",2025.4,2028.8,3.3999999999998636,Die mutmaßlichen Kriegsverbrechen der USA aufdecken.
+480,"00:33:48,880","00:33:52,600",2028.88,2032.6,3.7199999999998,"Die Amerikaner verfolgen Assange, das bis heute versucht"
+481,"00:33:52,680","00:33:54,800",2032.68,2034.8,2.119999999999891,eine Auslieferung zu verhindern.
+482,"00:33:54,880","00:33:57,360",2034.88,2037.36,2.479999999999791,In Amerika drohen ihm bis zu 175 Jahre Haft.
+483,"00:33:57,360","00:34:02,280",2037.36,2042.28,4.920000000000073,"Ich würde sagen, das ist näher dran an Hightech Terrorismus."
+484,"00:34:02,280","00:34:06,840",2042.28,2046.84,4.559999999999945,2012 bekommt Assange Asyl in der ecuadorianischen Botschaft in London
+485,"00:34:06,960","00:34:08,840",2046.96,2048.84,1.8800000000001091,nach dem Schweden Haftbefehl
+486,"00:34:08,920","00:34:12,000",2048.92,2052.0,3.0799999999999272,wegen angeblicher Vergewaltigung erlassen hat.
+487,"00:34:12,080","00:34:14,400",2052.08,2054.4,2.3200000000001637,"Die Vorwürfe werden fallen gelassen,"
+488,"00:34:14,480","00:34:18,640",2054.48,2058.64,4.1599999999998545,aber so schlimm dort über sieben Jahre auf engstem Raum.
+489,"00:34:18,640","00:34:23,360",2058.64,2063.36,4.720000000000255,Sieben Jahre ohne Anklage. Während meine Kinder ohne mich aufwachsen.
+490,"00:34:23,360","00:34:26,360",2063.36,2066.36,3.0,"Das ist etwas, dass ich nicht verzeihen kann,"
+491,"00:34:26,440","00:34:30,080",2066.44,2070.08,3.6399999999998727,"etwas, das ich nicht vergessen kann."
+492,"00:34:33,320","00:34:37,080",2073.32,2077.08,3.7599999999997635,"2019 wirft in die neu gewählte Regierung Ecuadors hinaus,"
+493,"00:34:37,160","00:34:40,680",2077.16,2080.68,3.519999999999982,Scotland Yard nimmt ihn fest.
+494,"00:34:40,760","00:34:43,640",2080.76,2083.64,2.8799999999996544,Seitdem sitzt er in einer 6 m² großen Zelle
+495,"00:34:43,720","00:34:48,040",2083.72,2088.04,4.320000000000164,"in einem Hochsicherheitsgefängnis in London. Seine Frau berichtet,"
+496,"00:34:48,120","00:34:51,400",2088.12,2091.4,3.2800000000002,dass er massiv leide unter der dauerhaften Isolation.
+497,"00:34:51,400","00:34:54,400",2091.4,2094.4,3.0,Sein Gesundheitszustand verschlechtert sich.
+498,"00:34:54,520","00:34:56,480",2094.52,2096.48,1.9600000000000364,Geistig und körperlich.
+499,"00:34:56,480","00:35:00,600",2096.48,2100.6,4.119999999999891,"Sein Leben ist die Tag im Gefahr, wenn er im Gefängnis bleiben."
+500,"00:35:00,680","00:35:05,440",2100.68,2105.44,4.760000000000218,"Wenn er ausgeliefert wird, stirbt er."
+501,"00:35:05,440","00:35:09,400",2105.44,2109.4,3.9600000000000364,Die britische Regierung will Assange an die USA ausliefern
+502,"00:35:09,400","00:35:12,840",2109.4,2112.84,3.4400000000000546,und seine Rechtsmittel sind weitgehend ausgeschöpft.
+503,"00:35:12,920","00:35:14,960",2112.92,2114.96,2.0399999999999636,"Ein Gericht muss entscheiden,"
+504,"00:35:15,040","00:35:21,480",2115.04,2121.48,6.440000000000055,ob überhaupt noch in Berufung gehen kann.
+505,"00:35:21,600","00:35:25,080",2121.6,2125.08,3.480000000000018,"Wenn es pensioniert, sind wir verbunden mit einem Mann"
+506,"00:35:25,160","00:35:29,360",2125.16,2129.36,4.200000000000273,"am Ende der Welt in Melbourne, da sehen wir ihn, der Halbbruder"
+507,"00:35:29,440","00:35:31,760",2129.44,2131.76,2.3200000000001637,"von Julian Assange, Gabriel Shipton."
+508,"00:35:31,880","00:35:37,760",2131.88,2137.76,5.880000000000109,Schönen guten Morgen.
+509,"00:35:38,280","00:35:43,040",2138.28,2143.04,4.7599999999997635,"Ich würde gerne die Zeit nutzen, um ein bisschen persönlicher zu werden,"
+510,"00:35:43,120","00:35:46,080",2143.12,2146.08,2.9600000000000364,sie haben ihren Bruder im Februar
+511,"00:35:46,200","00:35:53,080",2146.2,2153.08,6.880000000000109,zuletzt im Hochsicherheitsgefängnis gesucht.
+512,"00:35:54,560","00:35:57,520",2154.56,2157.52,2.9600000000000364,"GS: Ganz einfach die Frage, wie geht es ihm?"
+513,"00:35:57,600","00:36:02,320",2157.6,2162.32,4.720000000000255,Ich war Ende des letzten Monats bei ihm. Seine Gesundheit verschlechtert
+514,"00:36:02,400","00:36:04,720",2162.4,2164.72,2.319999999999709,"sich, körperlich und mental."
+515,"00:36:04,800","00:36:09,200",2164.8,2169.2,4.399999999999636,Er steht unter sehr großem Druck.
+516,"00:36:09,280","00:36:13,040",2169.28,2173.04,3.7599999999997635,"Er hat diese Auslieferung, die über einen droht."
+517,"00:36:13,120","00:36:16,960",2173.12,2176.96,3.8400000000001455,Die Gerichte haben bisher die Auslieferung nicht verboten.
+518,"00:36:17,040","00:36:20,280",2177.04,2180.28,3.2400000000002365,"D. h., dass droht und wenn er ausgeliefert würde,"
+519,"00:36:20,400","00:36:23,160",2180.4,2183.16,2.7599999999997635,dann wäre das sein Tod.
+520,"00:36:23,280","00:36:29,560",2183.28,2189.56,6.279999999999745,"Es kommt eine Entscheidung auf ihn zu, Leben oder Tod."
+521,"00:36:29,680","00:36:33,200",2189.68,2193.2,3.519999999999982,"Die Frage ist, ob er noch eine Berufung einlegen kann"
+522,"00:36:33,280","00:36:36,520",2193.28,2196.52,3.2399999999997817,"und es kann sein, man setzt ihn in einen Flugzeug"
+523,"00:36:36,600","00:36:38,920",2196.6,2198.92,2.3200000000001637,das wäre gleich eines Todesurteils.
+524,"00:36:39,000","00:36:41,920",2199.0,2201.92,2.9200000000000728,"Er hat nicht mehr so viel Treibstoff im Tank,"
+525,"00:36:42,000","00:36:48,240",2202.0,2208.24,6.239999999999782,aber er hat noch einen Kampfgeist.
+526,"00:36:50,640","00:36:57,160",2210.64,2217.16,6.519999999999982,Es ist herzzerreißend ihn da zu sehen.
+527,"00:36:57,240","00:36:59,880",2217.24,2219.88,2.6400000000003274,"Im Gefängnis, wie es sieht, was passiert,"
+528,"00:36:59,960","00:37:02,240",2219.96,2222.24,2.2799999999997453,das ist wie Mord in Zeitlupe.
+529,"00:37:02,240","00:37:06,800",2222.24,2226.8,4.5600000000004,"Wenn Sie sagen Mord in Zeitlupe, wie muss man sich das vorstellen?"
+530,"00:37:06,800","00:37:11,400",2226.8,2231.4,4.599999999999909,Es ist die Rede von Isolationshaft.
+531,"00:37:11,480","00:37:16,600",2231.48,2236.6,5.119999999999891,"Wie groß ist die Zelle, wie oft sieht Ihr Bruder andere Zellpartner"
+532,"00:37:16,720","00:37:17,840",2236.72,2237.84,1.1200000000003456,Wie viel Kontakt hat er zur Familie?+
+533,"00:37:18,520","00:37:22,200",2238.52,2242.2,3.6799999999998363,Wie viel Kontakt hat er zur Familie?
+534,"00:37:22,200","00:37:24,960",2242.2,2244.96,2.7600000000002183,"Seine Zelle ist 2 × 3 m, das macht 6 m²."
+535,"00:37:24,960","00:37:28,920",2244.96,2248.92,3.9600000000000364,Die meiste Zeit des Tages ist er in der Zelle bis 22 Stunden
+536,"00:37:29,000","00:37:31,400",2249.0,2251.4,2.400000000000091,in der Zelle.
+537,"00:37:31,480","00:37:35,720",2251.48,2255.72,4.239999999999782,"Er bekommt Besuch von seiner Familie, er hat zwei kleine Kinder,"
+538,"00:37:35,800","00:37:39,320",2255.8,2259.32,3.519999999999982,"meine Neffen sind fünf und sechs,"
+539,"00:37:39,440","00:37:43,640",2259.44,2263.64,4.199999999999818,die können ihn einmal die Woche besuchen.
+540,"00:37:43,720","00:37:46,960",2263.72,2266.96,3.2400000000002365,Er hatte Kontakt mit seiner Frau und seinem Vater
+541,"00:37:47,080","00:37:50,480",2267.08,2270.48,3.400000000000091,das ist praktisch seine Verbindung mit der Außenwelt.
+542,"00:37:50,560","00:37:53,000",2270.56,2273.0,2.4400000000000546,Das hält ihn aufrecht.
+543,"00:37:53,080","00:37:59,800",2273.08,2279.8,6.720000000000255,Trotz dieser grauenhaften Gefängnisbedingungen.
+544,"00:37:59,920","00:38:03,720",2279.92,2283.72,3.799999999999727,"Das ist das schlimmste Gefängnis in Großbritannien,"
+545,"00:38:03,800","00:38:08,440",2283.8,2288.44,4.639999999999873,"das ist das sicherste Gefängnis, dass sie dort gebaut haben."
+546,"00:38:08,560","00:38:12,240",2288.56,2292.24,3.6799999999998363,"Wenn Sie sich das vorstellen, wie das für jemanden fest,"
+547,"00:38:12,360","00:38:16,440",2292.36,2296.44,4.079999999999927,"der für etwas angeklagt ist, was ich als Journalismus bezeichne,"
+548,"00:38:16,560","00:38:19,320",2296.56,2299.32,2.7600000000002183,das ist eine fürchterliche Situation.
+549,"00:38:19,320","00:38:22,160",2299.32,2302.16,2.8399999999996908,"Darf ich noch einmal fragen,"
+550,"00:38:22,240","00:38:26,400",2302.24,2306.4,4.160000000000309,weil Sie die Situation der kleinen Kinder angesprochen haben.
+551,"00:38:26,400","00:38:28,280",2306.4,2308.28,1.8800000000001091,Wie erleben die das?
+552,"00:38:28,400","00:38:31,760",2308.4,2311.76,3.3600000000001273,"Das interessiert mich als Vater, wie erleben die es,"
+553,"00:38:31,840","00:38:36,360",2311.84,2316.36,4.519999999999982,wenn ihr Vater nur hinter Gittern ist?
+554,"00:38:38,720","00:38:41,080",2318.72,2321.08,2.3600000000001273,Sie kennen es nur so.
+555,"00:38:41,200","00:38:44,760",2321.2,2324.76,3.5600000000004,Sie sind so aufgewachsen.
+556,"00:38:44,880","00:38:48,680",2324.88,2328.68,3.799999999999727,"Zum 19. April ist er fünf Jahre im Gefängnis, d. h. Kinder"
+557,"00:38:48,800","00:38:52,360",2328.8,2332.36,3.5599999999999454,kennen ihren Vater nur als Gefangenen.
+558,"00:38:52,440","00:38:57,200",2332.44,2337.2,4.7599999999997635,"Sie sagen zum Gefängnis, das ist Papas Haus."
+559,"00:38:57,320","00:39:01,840",2337.32,2341.84,4.519999999999982,Das ist für sie wo Papa lebt.
+560,"00:39:01,920","00:39:07,640",2341.92,2347.64,5.7199999999998,Sie werden älter und sie verstehen was Gefängnis heißt.
+561,"00:39:07,760","00:39:12,200",2347.76,2352.2,4.4399999999996,"Und wir erklären immer, er hat nichts falsch gemacht,"
+562,"00:39:12,320","00:39:16,400",2352.32,2356.4,4.079999999999927,er hat sehr schlechte Leute gemeldet und die rächen sich an ihm.
+563,"00:39:16,520","00:39:22,440",2356.52,2362.44,5.920000000000073,"Das versuchen wir den Kindern zu erklären,"
+564,"00:39:22,560","00:39:28,400",2362.56,2368.4,5.8400000000001455,wir versuchen seine Arbeit den Kindern zu erklären.
+565,"00:39:28,520","00:39:32,200",2368.52,2372.2,3.6799999999998363,"Selbst in diesem frühen Alter beginnen sie zu verstehen,"
+566,"00:39:32,320","00:39:34,880",2372.32,2374.88,2.5599999999999454,dass er ein politischer Gefangener ist.
+567,"00:39:34,880","00:39:39,520",2374.88,2379.52,4.639999999999873,Eine letzte Frage.
+568,"00:39:39,520","00:39:41,400",2379.52,2381.4,1.8800000000001091,"Sie haben schon geschildert,"
+569,"00:39:41,520","00:39:46,200",2381.52,2386.2,4.679999999999836,"wie groß die Angst ist, an die USA ausgeliefert zu werden."
+570,"00:39:46,320","00:39:50,360",2386.32,2390.36,4.039999999999964,"Politisch, welcher Präsident wäre aus Ihrer Sicht der bessere?"
+571,"00:39:50,440","00:39:54,120",2390.44,2394.12,3.6799999999998363,Wäre es Donald Trump oder Joe Biden?
+572,"00:39:54,120","00:39:58,880",2394.12,2398.88,4.760000000000218,Das hat in der Trump Regierung angefangen
+573,"00:39:58,880","00:40:03,560",2398.88,2403.56,4.679999999999836,und unter Biden seinen Fortlauf genommen.
+574,"00:40:03,680","00:40:08,000",2403.68,2408.0,4.320000000000164,"Das ist die Wahl der Amerikaner, wer Präsident sein wird."
+575,"00:40:08,080","00:40:12,640",2408.08,2412.64,4.559999999999945,"Ich war letzte Woche in Washington und wir arbeiten mit beiden Seiten,"
+576,"00:40:12,760","00:40:15,320",2412.76,2415.32,2.5599999999999454,"mit beiden Parteien über Grenzen hinweg,"
+577,"00:40:15,400","00:40:19,680",2415.4,2419.68,4.279999999999745,"das ist eine Sache, die alle angeht."
+578,"00:40:19,800","00:40:23,680",2419.8,2423.68,3.8799999999996544,Das ist eine Frage demokratischer Prinzipien.
+579,"00:40:23,760","00:40:29,160",2423.76,2429.16,5.399999999999636,"Man wird sehen, der beste Präsident für Julien ist"
+580,"00:40:29,280","00:40:31,680",2429.28,2431.68,2.399999999999636,"der, der ihn aus dem Gefängnis holt."
+581,"00:40:31,680","00:40:33,760",2431.68,2433.76,2.080000000000382,Ich danke Ihnen sehr herzlich.
+582,"00:40:33,880","00:40:38,360",2433.88,2438.36,4.480000000000018,"Ich habe ein Interview von Ihnen gelesen,"
+583,"00:40:38,360","00:40:40,240",2438.36,2440.24,1.8799999999996544,ich war sehr berührt.
+584,"00:40:40,320","00:40:44,560",2440.32,2444.56,4.239999999999782,"Ihr älterer Bruder,"
+585,"00:40:44,680","00:40:47,760",2444.68,2447.76,3.080000000000382,wie wichtig er für die war und was er bedeutet.
+586,"00:40:47,880","00:40:49,760",2447.88,2449.76,1.8800000000001091,"Das ist doch der Grund,"
+587,"00:40:49,880","00:40:53,640",2449.88,2453.64,3.7599999999997635,"warum sie diesem Schaltgespräch zugestimmt haben, ich bedanke mich."
+588,"00:40:53,640","00:40:56,320",2453.64,2456.32,2.680000000000291,Vielen Dank.
+589,"00:40:56,320","00:41:02,120",2456.32,2462.12,5.799999999999727,"Herr Ambos, das ist die persönliche Ebene,"
+590,"00:41:02,120","00:41:06,200",2462.12,2466.2,4.079999999999927,"ich wollte das herausarbeiten, damit das Publikum das versteht."
+591,"00:41:06,320","00:41:09,520",2466.32,2469.52,3.199999999999818,Da ist ganz viel menschliche Tragödie drinnen.
+592,"00:41:09,600","00:41:14,720",2469.6,2474.72,5.119999999999891,"Die harte juristische Bewertung der Geschichte,"
+593,"00:41:14,800","00:41:17,280",2474.8,2477.28,2.480000000000018,was Julian Assange für sie?
+594,"00:41:17,440","00:41:21,440",2477.44,2481.44,4.0,"Ein Aufklärer, ein Verräter?"
+595,"00:41:21,560","00:41:28,120",2481.56,2488.12,6.559999999999945,"Einem Mann, der freigelassen werden soll?"
+596,"00:41:28,440","00:41:32,760",2488.44,2492.76,4.320000000000164,"KA: Ich bin ja für die Freilassung, wie ich gesagt habe,"
+597,"00:41:32,880","00:41:35,920",2492.88,2495.92,3.0399999999999636,"genau aus den Gründen, die der Bruder anführt."
+598,"00:41:36,000","00:41:40,720",2496.0,2500.72,4.7199999999998,"Die Situation ist so, dass er schon genug bestraft worden ist durch das,"
+599,"00:41:40,840","00:41:43,520",2500.84,2503.52,2.6799999999998363,was passiert ist.
+600,"00:41:43,640","00:41:46,400",2503.64,2506.4,2.7600000000002183,Der Fall ist viel komplexer
+601,"00:41:46,520","00:41:50,160",2506.52,2510.16,3.6399999999998727,"als er in der Öffentlichkeit dargestellt wird,"
+602,"00:41:50,280","00:41:54,080",2510.28,2514.08,3.799999999999727,"es ist auch heute Abend schon wieder einiges gesagt worden,"
+603,"00:41:54,200","00:41:57,120",2514.2,2517.12,2.9200000000000728,was nicht stimmt.
+604,"00:41:57,200","00:42:01,040",2517.2,2521.04,3.8400000000001455,"Es gibt keine Todesstrafe, die gibt's nur beim Hochverrat,"
+605,"00:42:01,120","00:42:06,040",2521.12,2526.04,4.920000000000073,steht nicht zur Debatte.
+606,"00:42:06,160","00:42:09,120",2526.16,2529.12,2.9600000000000364,Dann könnte er auch nicht ausgeliefert werden
+607,"00:42:09,240","00:42:14,400",2529.24,2534.4,5.160000000000309,nach der europäischen Menschenrechtskonvention.
+608,"00:42:14,400","00:42:21,960",2534.4,2541.96,7.559999999999945,"Können Sie erklären, die Pentagon Papers?"
+609,"00:42:21,960","00:42:24,640",2541.96,2544.64,2.6799999999998363,"Warum ist nicht über den Pentagonpapers,"
+610,"00:42:24,720","00:42:28,080",2544.72,2548.08,3.3600000000001273,das war die Auslieferung während des Vietnamkriegs.
+611,"00:42:28,160","00:42:32,800",2548.16,2552.8,4.640000000000327,"Da hat ein Whistleblower gesagt, die Regierungen belügen das Volk dazu,"
+612,"00:42:32,920","00:42:34,800",2552.92,2554.8,1.8800000000001091,was in Vietnam passiert.
+613,"00:42:34,920","00:42:37,200",2554.92,2557.2,2.2799999999997453,"Da wurde gesagt, die Pressefreiheit"
+614,"00:42:37,320","00:42:44,360",2557.32,2564.36,7.039999999999964,überwiegt die nationalen Sicherheitsinteressen.
+615,"00:42:44,520","00:42:48,680",2564.52,2568.68,4.1599999999998545,"Wenn man den Fall so reduzieren würde,"
+616,"00:42:48,800","00:42:54,200",2568.8,2574.2,5.399999999999636,"wie das der geschätzte Heribert Prantl tut in seinen Stellungnahmen,"
+617,"00:42:54,280","00:43:00,920",2574.28,2580.92,6.639999999999873,dann will ich auch alles unterschreiben.
+618,"00:43:06,280","00:43:09,360",2586.28,2589.36,3.0799999999999272,"Er macht Assange zu einem Elsberg,"
+619,"00:43:09,480","00:43:12,080",2589.48,2592.08,2.599999999999909,"der macht ihn zu einem Edward Snowden,"
+620,"00:43:12,200","00:43:14,640",2592.2,2594.64,2.4400000000000546,aber der Fall ist viel komplexer.
+621,"00:43:14,720","00:43:18,800",2594.72,2598.8,4.080000000000382,Der Fall hat hunderttausende Dokumente immer Wikileaks
+622,"00:43:18,880","00:43:23,120",2598.88,2603.12,4.239999999999782,"und redigiert ins Netz gestellt ich möchte ein Beispiel bringen,"
+623,"00:43:23,240","00:43:27,320",2603.24,2607.32,4.080000000000382,was das bedeutet für unbeteiligte Personen.
+624,"00:43:27,400","00:43:32,160",2607.4,2612.16,4.7599999999997635,"Wir hatten am 30.07.2010 einen Artikel in der New York Times,"
+625,"00:43:32,240","00:43:37,200",2612.24,2617.2,4.960000000000036,"das war kurz nach dem Wikileaks Öffentlichkeit,"
+626,"00:43:37,320","00:43:41,240",2617.32,2621.24,3.919999999999618,"der hieß ""Die Taliban studieren die Wikileaks Informationen,"
+627,"00:43:41,360","00:43:45,240",2621.36,2625.24,3.8799999999996544,"um Informanten herauszufinden""."
+628,"00:43:45,360","00:43:51,640",2625.36,2631.64,6.279999999999745,"Es war ein langer Artikel in dem die Taliban gesagt haben,"
+629,"00:43:51,720","00:43:55,080",2631.72,2635.08,3.3600000000001273,"""wir werden sie finden und wir werden sie bestrafen"
+630,"00:43:55,200","00:43:58,120",2635.2,2638.12,2.9200000000000728,"aufgrund der Informationen""."
+631,"00:43:58,240","00:44:01,880",2638.24,2641.88,3.6400000000003274,"Wir haben Informanten in Syrien, in Afghanistan im Irak,"
+632,"00:44:02,000","00:44:05,640",2642.0,2645.64,3.6399999999998727,die über Wikileaks entdeckt wurden.
+633,"00:44:05,720","00:44:10,120",2645.72,2650.12,4.400000000000091,Was hat Assange gesagt?
+634,"00:44:10,200","00:44:16,440",2650.2,2656.44,6.2400000000002365,Er wurde Interview zu dieser Frage.
+635,"00:44:18,480","00:44:24,920",2658.48,2664.92,6.440000000000055,"""Die Taliban sind nichts kohärentes""."
+636,"00:44:29,160","00:44:32,200",2669.16,2672.2,3.0399999999999636,"""Aber wir schließen es nicht aus, dass Dinge,"
+637,"00:44:32,320","00:44:39,960",2672.32,2679.96,7.639999999999873,"die wir veröffentlichen zu Schaden führen bei Personen""."
+638,"00:44:41,720","00:44:45,320",2681.72,2685.32,3.600000000000364,"Der Vorwurf, den viele Assange machen,"
+639,"00:44:45,440","00:44:49,440",2685.44,2689.44,4.0,"ist, dass er grob fahrlässig Informationen veröffentlicht hat"
+640,"00:44:49,560","00:44:52,600",2689.56,2692.6,3.0399999999999636,und damit Leute gefährdet.
+641,"00:44:52,720","00:44:56,200",2692.72,2696.2,3.480000000000018,"Es geht nicht darum, dass Leute gestorben sind."
+642,"00:44:56,320","00:44:59,880",2696.32,2699.88,3.5599999999999454,"Wir wissen, dass die Informationen,"
+643,"00:45:00,000","00:45:03,480",2700.0,2703.48,3.480000000000018,die er veröffentlicht hat auch Leute gefördert haben.
+644,"00:45:03,600","00:45:11,440",2703.6,2711.44,7.8400000000001455,Er hat auch die E-Mails von Hillary Clinton veröffentlicht.
+645,"00:45:12,960","00:45:15,360",2712.96,2715.36,2.400000000000091,Deswegen hat Trump ihn gemocht.
+646,"00:45:15,480","00:45:19,720",2715.48,2719.72,4.239999999999782,Deshalb ist die Reduktion des Falls auf ein Video völlig falsch.
+647,"00:45:19,800","00:45:24,040",2719.8,2724.04,4.239999999999782,"All ihre Zuhörer sind dafür, das trieb Verbrechen der Amerikaner"
+648,"00:45:24,120","00:45:27,120",2724.12,2727.12,3.0,"aber auch der Chinesen veröffentlicht werden,"
+649,"00:45:27,240","00:45:30,160",2727.24,2730.16,2.9200000000000728,"aber hier geht es nicht nur um die Verbrechen,"
+650,"00:45:30,280","00:45:33,120",2730.28,2733.12,2.8399999999996908,die geht es um viel mehr.
+651,"00:45:33,280","00:45:37,680",2733.28,2737.68,4.399999999999636,"Diese Gefährdung von dritten Personen, auch von Quellen,"
+652,"00:45:37,800","00:45:41,640",2737.8,2741.64,3.8399999999996908,"ich möchte in deinem Beispiel klarmachen, erst das Problem"
+653,"00:45:41,720","00:45:45,680",2741.72,2745.68,3.9600000000000364,"mit Dolmetscher aus Afghanistan, das war das gleiche Problem,"
+654,"00:45:45,800","00:45:49,280",2745.8,2749.28,3.480000000000018,"wir haben Ortskräfte, wenn die international agieren,"
+655,"00:45:49,440","00:45:55,760",2749.44,2755.76,6.320000000000164,diese Ortskräfte werden getötet werden.
+656,"00:45:55,880","00:46:03,520",2755.88,2763.52,7.639999999999873,"Ich kenne Leute, die Arbeiten in der Untersuchungskommission"
+657,"00:46:03,640","00:46:07,920",2763.64,2767.92,4.2800000000002,"des Menschenrechtsrats zum Iran, das sind den Informationsquellen."
+658,"00:46:08,040","00:46:12,400",2768.04,2772.4,4.360000000000127,Diese Leute müssen geschützt werden.
+659,"00:46:12,520","00:46:15,680",2772.52,2775.68,3.1599999999998545,Das ist verantworteter Journalismus.
+660,"00:46:15,760","00:46:20,120",2775.76,2780.12,4.359999999999673,"Der zweite Punkt ist,"
+661,"00:46:20,240","00:46:26,240",2780.24,2786.24,6.0,Wikileaks ist kein journalistisches seriöses Medien.
+662,"00:46:26,360","00:46:29,600",2786.36,2789.6,3.2399999999997817,"Aber ein Medium, was Informationen genutzt hat,"
+663,"00:46:29,720","00:46:33,480",2789.72,2793.48,3.7600000000002183,dass er separat ein Konglomerat der wichtigsten Zeitungen
+664,"00:46:33,560","00:46:36,480",2793.56,2796.48,2.9200000000000728,"distanziert von Assange und hat gesagt,"
+665,"00:46:36,600","00:46:40,880",2796.6,2800.88,4.2800000000002,"""das hättest du nicht veröffentlichen sollen""."
+666,"00:46:40,960","00:46:49,480",2800.96,2809.48,8.519999999999982,"Trotzdem kann man sagen, lasst ihn frei, aus den humanitären Gründen."
+667,"00:46:50,040","00:46:56,240",2810.04,2816.24,6.199999999999818,Aber der Fall ist viel komplexer.
+668,"00:47:00,000","00:47:04,760",2820.0,2824.76,4.760000000000218,"Das ist eine der Gründe, sagt Herr Ambos, warum große Redaktionen"
+669,"00:47:04,880","00:47:12,880",2824.88,2832.88,8.0,"warum sie so Recherche Netzwerke mittlerweile aufgebaut haben,"
+670,"00:47:13,040","00:47:16,480",2833.04,2836.48,3.4400000000000546,"auch das ZDF hat so etwas weil es genau darum geht,"
+671,"00:47:16,600","00:47:18,640",2836.6,2838.64,2.0399999999999636,riesige Datenmengen auszuwerten
+672,"00:47:18,760","00:47:21,760",2838.76,2841.76,3.0,und im Zweifel die entscheidenden Quellen
+673,"00:47:21,880","00:47:23,960",2841.88,2843.96,2.0799999999999272,"so zu schützen oder auch andere,"
+674,"00:47:24,080","00:47:28,320",2844.08,2848.32,4.2400000000002365,"die mit der Sache gar nicht unmittelbar zu tun haben,"
+675,"00:47:28,440","00:47:31,360",2848.44,2851.36,2.9200000000000728,"so zu schützen, dass sie nicht gefährdet sind"
+676,"00:47:31,480","00:47:34,960",2851.48,2854.96,3.480000000000018,"und dass die Taliban nicht reingehen können und sagen,"
+677,"00:47:35,080","00:47:38,080",2855.08,2858.08,3.0,"die stehen alle drauf, dann lass mal losgehen."
+678,"00:47:38,200","00:47:42,360",2858.2,2862.36,4.160000000000309,"Das ist viel journalistische Arbeit, die gemacht werden muss"
+679,"00:47:42,440","00:47:45,960",2862.44,2865.96,3.519999999999982,und die im Fall von Wikileaks nicht stattgefunden hat.
+680,"00:47:46,040","00:47:55,360",2866.04,2875.36,9.320000000000164,Was antworten Sie darauf?
+681,"00:47:55,360","00:47:59,520",2875.36,2879.52,4.1599999999998545,"HP: Julian Assange ist ein digitaler Pionier, er war der erste,"
+682,"00:47:59,680","00:48:03,480",2879.68,2883.48,3.800000000000182,"der diese Art von Datenmengen versucht hat, zu verarbeiten."
+683,"00:48:03,560","00:48:07,880",2883.56,2887.88,4.320000000000164,"Natürlich hat Ambos recht wenn er sagt, das sind gigantische Daten"
+684,"00:48:08,000","00:48:11,200",2888.0,2891.2,3.199999999999818,ins Netz geschaufelt worden.
+685,"00:48:11,280","00:48:15,480",2891.28,2895.48,4.199999999999818,"Der Kern der Vorwürfe, da widerspreche ich."
+686,"00:48:15,600","00:48:22,000",2895.6,2902.0,6.400000000000091,"Der Kern der Vorwürfe steckt in dem Film, der vorher gezeigt worden ist."
+687,"00:48:22,120","00:48:25,720",2902.12,2905.72,3.599999999999909,"Ich sage ganz simpel, meine Frage ist die,"
+688,"00:48:25,800","00:48:32,400",2905.8,2912.4,6.599999999999909,"dass der Verbrecher derjenige, der diese Taten begeht,"
+689,"00:48:32,560","00:48:36,560",2912.56,2916.56,4.0,"der auf Kinder schießt, der auf unbeteiligte schießt,"
+690,"00:48:36,680","00:48:40,840",2916.68,2920.84,4.160000000000309,"die ums Leben gekommen sind, oder ist der Verbrecher derjenige,"
+691,"00:48:40,960","00:48:43,680",2920.96,2923.68,2.7199999999998,der diese Verbrechen ans Tageslicht bringt?
+692,"00:48:43,800","00:48:48,360",2923.8,2928.36,4.559999999999945,"Die Leistung von Wikileaks und das Wikileaks bilden sie unseriös sei,"
+693,"00:48:48,480","00:48:52,400",2928.48,2932.4,3.9200000000000728,dem widerspreche ich.
+694,"00:48:52,520","00:48:56,520",2932.52,2936.52,4.0,"Es ist Pionier, lange bevor die von Ihnen genannten Zeitungen"
+695,"00:48:56,680","00:48:59,520",2936.68,2939.52,2.8400000000001455,"angefangen haben die Datenmengen auszuwerten,"
+696,"00:48:59,680","00:49:03,240",2939.68,2943.24,3.5599999999999454,hat Wikileaks das schon gemacht.
+697,"00:49:03,360","00:49:08,240",2943.36,2948.24,4.879999999999654,"Man hat nicht hinter die Dinge geschaut,"
+698,"00:49:08,360","00:49:11,520",2948.36,2951.52,3.1599999999998545,ob man hat die Dinge ans Licht gebracht
+699,"00:49:11,640","00:49:16,920",2951.64,2956.92,5.2800000000002,und damit beginnt Journalismus.
+700,"00:49:17,040","00:49:22,080",2957.04,2962.08,5.039999999999964,"Ich widerspreche vehement, wenn sie sagen, das ist per se unseriös."
+701,"00:49:22,200","00:49:27,520",2962.2,2967.52,5.320000000000164,"Journalismus beginnt damit, dass sie weit aufgedeckt wird."
+702,"00:49:27,640","00:49:34,800",2967.64,2974.8,7.160000000000309,"Dann kommen alle anderen Formen des Journalismus,"
+703,"00:49:35,840","00:49:40,840",2975.84,2980.84,5.0,die ich auch in dem von Ihnen zitierten Editorial gemacht hab.
+704,"00:49:40,960","00:49:44,320",2980.96,2984.32,3.3600000000001273,"Es beginnt damit, dass ich es weiß."
+705,"00:49:44,440","00:49:46,880",2984.44,2986.88,2.4400000000000546,"Deswegen schätze ich Julian Assange,"
+706,"00:49:47,000","00:49:54,560",2987.0,2994.56,7.559999999999945,er hat die Wahrheit der Weltöffentlichkeit klargemacht.
+707,"00:49:54,680","00:49:58,720",2994.68,2998.72,4.039999999999964,KA: Welche Wahrheit hat er denn klargemacht?
+708,"00:49:58,840","00:50:03,840",2998.84,3003.84,5.0,Sie können doch nicht das gesamte Material
+709,"00:50:03,960","00:50:05,960",3003.96,3005.96,2.0,"reduzieren auf Kriegsverbrechen,"
+710,"00:50:06,080","00:50:08,360",3006.08,3008.36,2.2800000000002,die er zu Recht bekannt gemacht hat.
+711,"00:50:08,480","00:50:11,840",3008.48,3011.84,3.3600000000001273,Da sind wir einer Meinung.
+712,"00:50:11,960","00:50:15,840",3011.96,3015.84,3.880000000000109,Wie weit wollen Sie gehen?
+713,"00:50:15,960","00:50:21,920",3015.96,3021.92,5.960000000000036,"Wollen Sie alles veröffentlichen, alles in unserem Privatleben?"
+714,"00:50:22,040","00:50:28,000",3022.04,3028.0,5.960000000000036,"Alles soll ins Netz, das kann doch nicht sein."
+715,"00:50:28,000","00:50:30,680",3028.0,3030.68,2.6799999999998363,HP: Wenn es Öffentlichkeit Relevant ist
+716,"00:50:30,680","00:50:34,800",3030.68,3034.8,4.120000000000346,und die Dinge sind im höchsten Maße öffentlich.
+717,"00:50:34,800","00:50:37,360",3034.8,3037.36,2.5599999999999454,Was ist mit den E-Mails?
+718,"00:50:37,480","00:50:40,880",3037.48,3040.88,3.400000000000091,Das sagt auch ihr Kollege mit dem sie den Podcast machen...
+719,"00:50:40,880","00:50:46,440",3040.88,3046.44,5.559999999999945,Richard David Precht.
+720,"00:50:46,440","00:50:52,560",3046.44,3052.56,6.119999999999891,KA: Das geht auch ihm zu weit.
+721,"00:50:52,560","00:50:58,640",3052.56,3058.64,6.079999999999927,"Was ist das für ein Kriterium,"
+722,"00:50:59,560","00:51:03,800",3059.56,3063.8,4.2400000000002365,nur weil er mein Donald Trump hätte nicht gewinnen sollen.
+723,"00:51:03,880","00:51:08,920",3063.88,3068.92,5.039999999999964,Wo ziehen wir die Linie?
+724,"00:51:09,040","00:51:11,320",3069.04,3071.32,2.2800000000002,"Wenn wir operativ darüber sprechen,"
+725,"00:51:11,440","00:51:13,920",3071.44,3073.92,2.480000000000018,wie wir die Ukraine verteidigen können.
+726,"00:51:14,040","00:51:17,640",3074.04,3077.64,3.599999999999909,"Dann ist das ein Staatsgeheimnis, was schützenswert ist."
+727,"00:51:17,800","00:51:21,680",3077.8,3081.68,3.8799999999996544,Es geht gegen Russland.
+728,"00:51:21,680","00:51:25,560",3081.68,3085.56,3.880000000000109,"HP: Da geht es doch nicht um ein Verbrechen in dem Fall,"
+729,"00:51:25,560","00:51:27,680",3085.56,3087.68,2.119999999999891,aber hier geht es um ein Verbrechen.
+730,"00:51:27,680","00:51:34,800",3087.68,3094.8,7.120000000000346,"KA: Das ist genau der Punkt, es geht nicht nur um Verbrechen."
+731,"00:51:34,800","00:51:42,560",3094.8,3102.56,7.7599999999997635,"Es wurde alles veröffentlicht, auch Informanten, in Iran waren,"
+732,"00:51:42,680","00:51:44,560",3102.68,3104.56,1.8800000000001091,"in Syrien, gegen Menschen,"
+733,"00:51:44,680","00:51:46,760",3104.68,3106.76,2.080000000000382,die gegen Verbrechen kämpfen.
+734,"00:51:46,760","00:51:50,160",3106.76,3110.16,3.399999999999636,"HP: Ich sag doch gar nicht, dass alles richtig war,"
+735,"00:51:50,280","00:51:52,280",3110.28,3112.28,2.0,was er veröffentlicht hat.
+736,"00:51:52,280","00:51:55,400",3112.28,3115.4,3.119999999999891,"Aber es sind die Dinge, die gezeigt worden sind,"
+737,"00:51:55,560","00:51:58,480",3115.56,3118.48,2.9200000000000728,die der Kern des Ganzen sein.
+738,"00:51:58,480","00:52:04,960",3118.48,3124.96,6.480000000000018,KA: Er hat gigantisch viel Material publiziert.
+739,"00:52:04,960","00:52:06,840",3124.96,3126.84,1.8800000000001091,Das ist es.
+740,"00:52:06,960","00:52:09,440",3126.96,3129.44,2.480000000000018,"Und da ist die Frage,"
+741,"00:52:09,560","00:52:15,760",3129.56,3135.76,6.200000000000273,wie viel von dem Material kann man legitim veröffentlichen?
+742,"00:52:15,760","00:52:18,600",3135.76,3138.6,2.8399999999996908,"HP: Wenn es Öffentlichkeitsrelevant ist,"
+743,"00:52:18,600","00:52:21,800",3138.6,3141.8,3.200000000000273,dann können es hunderttausende von Daten sein.
+744,"00:52:21,800","00:52:24,680",3141.8,3144.68,2.8799999999996544,Waren die E-Mails von Frau Clinton öffentlichs relevant?
+745,"00:52:24,680","00:52:27,880",3144.68,3147.88,3.200000000000273,"Ich weiß es nicht, ich kenne die nicht im Detail."
+746,"00:52:28,000","00:52:34,320",3148.0,3154.32,6.320000000000164,Ich kenne dieses Video und ich kenne viele andere.
+747,"00:52:34,320","00:52:37,680",3154.32,3157.68,3.3599999999996726,KA: Was ist mit dem Gespräch...
+748,"00:52:37,680","00:52:44,520",3157.68,3164.52,6.8400000000001455,Das ab Gespräch von unseren Leuten über Taurus.
+749,"00:52:44,640","00:52:47,120",3164.64,3167.12,2.480000000000018,Ist das öffentlichs relevant ja oder nein?
+750,"00:52:47,120","00:52:51,200",3167.12,3171.2,4.079999999999927,HP: Natürlich ist das Öffentlichkeitsrelevant.
+751,"00:52:51,200","00:52:55,360",3171.2,3175.36,4.160000000000309,"KA: Das ist konsequent,"
+752,"00:52:55,360","00:52:59,480",3175.36,3179.48,4.119999999999891,"wir sprechen offen darüber, wie wir die Ukraine unterstützen."
+753,"00:52:59,600","00:53:04,520",3179.6,3184.52,4.920000000000073,"Das ist ein Staatsgeheimnis, dass wir legitim schützen können."
+754,"00:53:04,640","00:53:09,080",3184.64,3189.08,4.440000000000055,Wir müssen das schützen. Und haben das Recht dazu.
+755,"00:53:09,080","00:53:11,640",3189.08,3191.64,2.5599999999999454,"Dazu gehören noch die Gemeinsamkeiten,"
+756,"00:53:11,760","00:53:15,760",3191.76,3195.76,4.0,"sie werden nicht sagen, dass illegale Geheimnisse, wie die,"
+757,"00:53:15,760","00:53:19,200",3195.76,3199.2,3.4399999999996,"die auf dem Video zu sehen sind, schützenswert sind."
+758,"00:53:19,320","00:53:21,560",3199.32,3201.56,2.2399999999997817,Es ist der Hauptpunkt meiner Argumentation.
+759,"00:53:21,560","00:53:27,200",3201.56,3207.2,5.639999999999873,KA: Das sind 5 % der Informationen.
+760,"00:53:27,200","00:53:29,960",3207.2,3209.96,2.7600000000002183,"HP: Das ist der, auf den die Amerikaner"
+761,"00:53:29,960","00:53:33,320",3209.96,3213.32,3.3600000000001273,sich im wesentlichen stützen.
+762,"00:53:33,320","00:53:36,200",3213.32,3216.2,2.8799999999996544,"KA: Haben Sie die Anklage gelesen, da sind unzählige andere Punkte."
+763,"00:53:36,200","00:53:41,600",3216.2,3221.6,5.400000000000091,HP: Natürlich habe ich die Anklage gelesen.
+764,"00:53:41,600","00:53:49,800",3221.6,3229.8,8.200000000000273,Die Amerikaner sagen nicht...
+765,"00:53:49,800","00:53:52,400",3229.8,3232.4,2.599999999999909,"Wir wissen gar nicht,"
+766,"00:53:52,520","00:53:59,240",3232.52,3239.24,6.7199999999998,ob Assange verurteilen würde wegen der Pressefreiheit von der USA.
+767,"00:53:59,360","00:54:02,000",3239.36,3242.0,2.6399999999998727,Wir sind in einem Auslieferungsverfahren.
+768,"00:54:02,080","00:54:05,000",3242.08,3245.0,2.9200000000000728,Da kann Frau Annalena Baerbock nichts machen.
+769,"00:54:05,120","00:54:10,000",3245.12,3250.0,4.880000000000109,Das soll sie auch nicht.
+770,"00:54:10,120","00:54:12,680",3250.12,3252.68,2.5599999999999454,"Er ist seit 13 Jahren in dem Verfahren,"
+771,"00:54:12,800","00:54:14,960",3252.8,3254.96,2.1599999999998545,"neun Jahre davon in der Botschaft,"
+772,"00:54:15,080","00:54:17,680",3255.08,3257.68,2.599999999999909,darüber kann man auch noch viel erzählen.
+773,"00:54:17,800","00:54:23,680",3257.8,3263.68,5.879999999999654,Da ging er freiwillig hin.
+774,"00:54:26,040","00:54:30,360",3266.04,3270.36,4.320000000000164,"Ganz kurz, können wir den Punkt, wir sollten uns die Zeit nehmen,"
+775,"00:54:30,480","00:54:33,760",3270.48,3273.76,3.2800000000002,deshalb haben wir sie auch eingeladen.
+776,"00:54:33,760","00:54:41,240",3273.76,3281.24,7.479999999999563,ON: Ich dachte es würde extrem harmonisch werden.
+777,"00:54:41,240","00:54:46,000",3281.24,3286.0,4.760000000000218,Da gibt es natürlich ganz unterschiedliche Auffassungen
+778,"00:54:46,120","00:54:52,520",3286.12,3292.52,6.400000000000091,und es streiten zwei brillante Leute.
+779,"00:54:52,880","00:54:57,600",3292.88,3297.6,4.7199999999998,"Sie würden sagen, wenn es nur um das Video ginge und um offensichtliche"
+780,"00:54:57,720","00:55:03,000",3297.72,3303.0,5.2800000000002,"Kriegsverbrechen, alles in Ordnung, aber alles ungefiltert,"
+781,"00:55:03,120","00:55:10,240",3303.12,3310.24,7.119999999999891,"ich kenne ein paar Kollegen im Recherchenetzwerk,"
+782,"00:55:11,600","00:55:15,520",3311.6,3315.52,3.9200000000000728,die sitzen Wochen und Monate in irgend welchen Kellerräumen
+783,"00:55:15,640","00:55:19,720",3315.64,3319.72,4.079999999999927,"vor Surfern und Werten Panama Papers aus und schauen ganz genau,"
+784,"00:55:19,840","00:55:27,240",3319.84,3327.24,7.399999999999636,was davon gehört in die Öffentlichkeit und was nicht.
+785,"00:55:28,320","00:55:32,240",3328.32,3332.24,3.919999999999618,"Insofern hatte Herr Ambos nicht einen Punkt, wenn er sagt,"
+786,"00:55:32,360","00:55:34,240",3332.36,3334.24,1.8799999999996544,das geht so nicht.
+787,"00:55:34,360","00:55:40,520",3334.36,3340.52,6.1599999999998545,"HP: Er hat natürlich einen Punkt,"
+788,"00:55:42,480","00:55:45,280",3342.48,3345.28,2.800000000000182,wir befinden uns bei dem Video im Jahr 2010.
+789,"00:55:45,280","00:55:50,200",3345.28,3350.2,4.919999999999618,KA: Das Problem... Sie müssen über die Zukunft denken.
+790,"00:55:50,200","00:55:54,160",3350.2,3354.16,3.9600000000000364,HP: Natürlich müssen wir schauen an und zurecht loben Sie
+791,"00:55:54,160","00:55:56,360",3354.16,3356.36,2.200000000000273,"die Leistungen der investigativen,"
+792,"00:55:56,480","00:56:02,920",3356.48,3362.92,6.440000000000055,"die penibel auswerten und das machen,"
+793,"00:56:04,640","00:56:07,680",3364.64,3367.68,3.0399999999999636,was Herr Amnbos zu Recht fordert.
+794,"00:56:07,800","00:56:11,760",3367.8,3371.76,3.9600000000000364,"Wir müssen uns klar werden darüber, Assange steht am Anfang,"
+795,"00:56:11,880","00:56:14,480",3371.88,3374.48,2.599999999999909,er hätte es heute anders gemacht.
+796,"00:56:14,480","00:56:17,320",3374.48,3377.32,2.8400000000001455,KA: Das sind alles Spekulationen.
+797,"00:56:17,480","00:56:24,080",3377.48,3384.08,6.599999999999909,"Die Frage für uns ist heute, wir müssen in die Zukunft gucken."
+798,"00:56:24,080","00:56:29,960",3384.08,3389.96,5.880000000000109,"Staatsgeheimnisse sind Dinge,"
+799,"00:56:31,000","00:56:37,200",3391.0,3397.2,6.199999999999818,die die von auswärtigen Aktionen getrennt werden.
+800,"00:56:37,320","00:56:41,720",3397.32,3401.72,4.399999999999636,"Es sind keine Geheimnisse, wenn sie sich gegen Grundgesetze richten."
+801,"00:56:41,840","00:56:46,480",3401.84,3406.48,4.639999999999873,"Ein Treffen der Rechtsextremen in Brandenburg ist kein Strafgeheimnis,"
+802,"00:56:46,600","00:56:48,480",3406.6,3408.48,1.8800000000001091,"deswegen ist der Jurist,"
+803,"00:56:48,600","00:56:53,640",3408.6,3413.64,5.039999999999964,"der es aufdeckt, nicht strafrechtlich verfolgbar."
+804,"00:56:53,760","00:56:57,040",3413.76,3417.04,3.2799999999997453,"In Deutschland ist das grundsätzlich gut geregelt,"
+805,"00:56:57,160","00:57:00,200",3417.16,3420.2,3.0399999999999636,"wenn ich Dinge veröffentliche,"
+806,"00:57:00,320","00:57:07,600",3420.32,3427.6,7.279999999999745,die die Verfassung verletzt oder Kriegsverbrechen.
+807,"00:57:13,600","00:57:18,800",3433.6,3438.8,5.200000000000273,Diese Informanten wurden aufgedeckt von Wikileaks.
+808,"00:57:18,960","00:57:22,840",3438.96,3442.84,3.880000000000109,Es geht um das Prinzip. Mit den arbeiten wir zusammen.
+809,"00:57:23,000","00:57:25,480",3443.0,3445.48,2.480000000000018,"Dann müssen wir ganz extrem sagen,"
+810,"00:57:25,600","00:57:29,080",3445.6,3449.08,3.480000000000018,"wir machen keine Auslandseinsätze mehr,"
+811,"00:57:29,200","00:57:32,520",3449.2,3452.52,3.3200000000001637,wir müssen die Verfassung so nicht schützen.
+812,"00:57:32,640","00:57:36,320",3452.64,3456.32,3.680000000000291,"Aber wenn wir sagen, es gibt etwas schützenswertes,"
+813,"00:57:36,440","00:57:40,000",3456.44,3460.0,3.5599999999999454,"dann muss man auch akzeptieren,"
+814,"00:57:40,160","00:57:47,360",3460.16,3467.36,7.200000000000273,"hat der Staat auch ein Recht, geschützt zu werden."
+815,"00:57:48,280","00:57:53,280",3468.28,3473.28,5.0,"Ein seriöser Journalist wie Sie, sagt,"
+816,"00:57:53,440","00:57:59,640",3473.44,3479.64,6.199999999999818,er veröffentlicht nicht irgendetwas
+817,"00:58:02,440","00:58:09,480",3482.44,3489.48,7.039999999999964,was beispielsweise den Herr Lanz schlecht darstellt.
+818,"00:58:09,480","00:58:13,520",3489.48,3493.52,4.039999999999964,"HP: Da haben wir eine gemeinsame Basis, es gibt eine Fülle"
+819,"00:58:13,520","00:58:17,320",3493.52,3497.32,3.800000000000182,von legalen Geheimnissen und es gibt illegale Geheimnisse.
+820,"00:58:17,440","00:58:20,560",3497.44,3500.56,3.119999999999891,Immer wieder hat es an der Bundesrepublik auch gegeben.
+821,"00:58:20,560","00:58:22,720",3500.56,3502.72,2.1599999999998545,Können Sie ein Beispiel machen?
+822,"00:58:22,840","00:58:27,680",3502.84,3507.68,4.839999999999691,Sie können das sehr gut immer beschreiben.
+823,"00:58:27,680","00:58:32,280",3507.68,3512.28,4.600000000000364,"Augstein, Spiegelaffäre im Jahr 63 hatten wir den Fall Leo Bridge,"
+824,"00:58:32,280","00:58:35,360",3512.28,3515.36,3.0799999999999272,"wo ein Mitarbeiter des Verfassungsschutz sagte,"
+825,"00:58:35,480","00:58:39,200",3515.48,3519.2,3.7199999999998,damit illegal abgehört und ich wende mich an einen Anwalt
+826,"00:58:39,360","00:58:41,200",3519.36,3521.2,1.8399999999996908,und Teile es mit.
+827,"00:58:41,360","00:58:44,000",3521.36,3524.0,2.6399999999998727,"Es wurde aufgedeckt, der Verfassungsschutz"
+828,"00:58:44,160","00:58:46,320",3524.16,3526.32,2.1600000000003092,hat tatsächlich illegal abgehört.
+829,"00:58:46,320","00:58:52,840",3526.32,3532.84,6.519999999999982,Wen abgehört?
+830,"00:58:52,840","00:58:56,560",3532.84,3536.56,3.7199999999998,"Politiker, Leute, die auf einer Verdachtsliste standen."
+831,"00:58:56,680","00:58:58,560",3536.68,3538.56,1.8800000000001091,Umfangreiche Abhörmaßnahmen.
+832,"00:58:58,680","00:59:02,080",3538.68,3542.08,3.400000000000091,Er wurde sofort entlassen vom Präsidenten
+833,"00:59:02,240","00:59:04,520",3542.24,3544.52,2.2800000000002,des Bundes Verfassungsschutzes.
+834,"00:59:04,640","00:59:09,400",3544.64,3549.4,4.760000000000218,Er wurde angeklagt wegen Landesverrats
+835,"00:59:09,560","00:59:15,160",3549.56,3555.16,5.599999999999909,und sonstiger Geschichten.
+836,"00:59:15,280","00:59:18,320",3555.28,3558.32,3.0399999999999636,"Dann hat der Bundesgerichtshof lange überlegt,"
+837,"00:59:18,440","00:59:21,360",3558.44,3561.36,2.9200000000000728,darf ich den verurteilen und hat gesagt nein.
+838,"00:59:21,520","00:59:25,640",3561.52,3565.64,4.119999999999891,Es war in illegales Geheimnis.
+839,"00:59:25,760","00:59:28,040",3565.76,3568.04,2.2799999999997453,Da sind sie viel sensibler geworden.
+840,"00:59:28,160","00:59:30,320",3568.16,3570.32,2.1600000000003092,"Es gibt den Hinweisgebers,"
+841,"00:59:30,440","00:59:34,120",3570.44,3574.12,3.6799999999998363,es gibt Brüssel blaue Richtlinien der Europäischen Union.
+842,"00:59:34,280","00:59:38,120",3574.28,3578.12,3.8399999999996908,"Man weiß, wie wichtig es ist, dass illegale Dinge aufgedeckt"
+843,"00:59:38,240","00:59:42,920",3578.24,3582.92,4.680000000000291,"werden von Hinweisgebern, die nicht unbedingt Journalisten sein müssen,"
+844,"00:59:43,080","00:59:45,600",3583.08,3585.6,2.519999999999982,wobei ich auch den Austausch verteidige.
+845,"00:59:45,720","00:59:48,800",3585.72,3588.8,3.080000000000382,"Es wird immer gesagt, dass er kein Journalist ist."
+846,"00:59:48,800","00:59:54,480",3588.8,3594.48,5.679999999999836,KA: Darum geht es nicht. Wir stimmen ja darüber ein.
+847,"00:59:54,480","00:59:58,760",3594.48,3598.76,4.2800000000002,"Die Verbrechen dieses Landes, wenn wir eine Regierung hätten,"
+848,"00:59:58,880","01:00:02,760",3598.88,3602.76,3.880000000000109,"eine Partei, die ich hier nicht nennen möchte."
+849,"01:00:02,880","01:00:06,400",3602.88,3606.4,3.519999999999982,Und es werden Verbrechen gegen die Verfassung begangen.
+850,"01:00:06,520","01:00:12,160",3606.52,3612.16,5.639999999999873,Dann sollen die Leute darüber auspacken.
+851,"01:00:12,320","01:00:15,120",3612.32,3615.12,2.799999999999727,Staatliches Unrecht muss aufgedeckt werden.
+852,"01:00:15,200","01:00:17,840",3615.2,3617.84,2.6400000000003274,Das ist aber nicht der Punkt.
+853,"01:00:18,000","01:00:21,520",3618.0,3621.52,3.519999999999982,Es werden aber Leute gefährdet.
+854,"01:00:21,680","01:00:24,880",3621.68,3624.88,3.200000000000273,"Die Taliban töten die, die sind aufgedeckt worden."
+855,"01:00:25,000","01:00:29,440",3625.0,3629.44,4.440000000000055,Man hat eine Verantwortung.
+856,"01:00:29,560","01:00:35,360",3629.56,3635.36,5.800000000000182,Dritte will man ja nicht in Gefahr bringen.
+857,"01:00:35,360","01:00:38,240",3635.36,3638.24,2.8799999999996544,HP: Es geht um journalistische Sorgfalt.
+858,"01:00:38,240","01:00:42,120",3638.24,3642.12,3.880000000000109,Die journalistische Sorgfalt hat Assange partiell nicht gehabt.
+859,"01:00:42,120","01:00:46,040",3642.12,3646.04,3.9200000000000728,KA: Er hatte sie überhaupt nicht. Es ist ja glücklich.
+860,"01:00:46,200","01:00:50,040",3646.2,3650.04,3.8400000000001455,Man veröffentlicht alles und 10 % sind Relevantes Unrecht.
+861,"01:00:50,040","01:00:55,920",3650.04,3655.92,5.880000000000109,90 % nicht.
+862,"01:01:04,080","01:01:06,760",3664.08,3666.76,2.680000000000291,Der Assange war im investigativen Rausch
+863,"01:01:06,920","01:01:09,920",3666.92,3669.92,3.0,aber gleichwohl ist er Journalist und verdient
+864,"01:01:10,080","01:01:12,960",3670.08,3672.96,2.880000000000109,den Schutz der Pressefreiheit.
+865,"01:01:12,960","01:01:15,480",3672.96,3675.48,2.519999999999982,Herr Ambos ich würde hören von Ihnen?
+866,"01:01:15,640","01:01:17,800",3675.64,3677.8,2.1600000000003092,"Sie sagten vorhin beiläufig,"
+867,"01:01:17,800","01:01:20,880",3677.8,3680.88,3.0799999999999272,"dass er so lange in der Botschaft gesessen hat,"
+868,"01:01:21,040","01:01:26,680",3681.04,3686.68,5.639999999999873,das wäre eine freiwillige Entscheidung.
+869,"01:01:26,800","01:01:29,160",3686.8,3689.16,2.3599999999996726,Das spielt aber alles bei dem Gefühl
+870,"01:01:29,280","01:01:31,120",3689.28,3691.12,1.8399999999996908,um den Menschen eine Rolle.
+871,"01:01:31,280","01:01:33,560",3691.28,3693.56,2.2799999999997453,Er hat viele Jahre in der Botschaft
+872,"01:01:33,680","01:01:36,280",3693.68,3696.28,2.600000000000364,unter erbärmlichen Bedingungen verbracht.
+873,"01:01:36,400","01:01:39,160",3696.4,3699.16,2.7599999999997635,Jetzt kommt er in den Knast und wehrt sich.
+874,"01:01:39,280","01:01:43,560",3699.28,3703.56,4.279999999999745,"Der große Held, der an diesem Punkt das Spiel nicht gewinnen kann."
+875,"01:01:43,680","01:01:49,000",3703.68,3709.0,5.320000000000164,Warum war er in der Botschaft?
+876,"01:01:49,120","01:01:51,760",3709.12,3711.76,2.6400000000003274,KA: Es gab einen Vorwurf
+877,"01:01:51,880","01:01:55,720",3711.88,3715.72,3.8399999999996908,wegen Sexualstraftaten gegen zwei Schwedinnen.
+878,"01:01:55,840","01:02:00,840",3715.84,3720.84,5.0,Er war eine Zeit lang in Schweden und ist dann ausgereist.
+879,"01:02:01,000","01:02:04,640",3721.0,3724.64,3.6399999999998727,"Es gibt unterschiedliche Darstellung darüber,"
+880,"01:02:04,800","01:02:08,720",3724.8,3728.72,3.919999999999618,ob er sich melden wollen bei der schwedischen Strafverfolgung.
+881,"01:02:08,840","01:02:11,400",3728.84,3731.4,2.5599999999999454,"Meine Quellen sagen mir,"
+882,"01:02:11,560","01:02:17,960",3731.56,3737.96,6.400000000000091,drei SMS bekommen und er ist gegangen.
+883,"01:02:19,920","01:02:24,360",3739.92,3744.36,4.440000000000055,"Jedenfalls war, zunächst hatte es nichts mit dem US Problem zu tun."
+884,"01:02:24,480","01:02:27,680",3744.48,3747.68,3.199999999999818,Mit der Aufdeckung von Wikileaks.
+885,"01:02:27,800","01:02:31,960",3747.8,3751.96,4.1599999999998545,Auch wenn das zeitlich parallel war.
+886,"01:02:32,080","01:02:36,760",3752.08,3756.76,4.680000000000291,Die Schweden haben ein Ermittlungsverfahren begonnen.
+887,"01:02:36,880","01:02:40,840",3756.88,3760.84,3.9600000000000364,Es gab ein europäischen Haftbefehl.
+888,"01:02:40,960","01:02:48,040",3760.96,3768.04,7.079999999999927,"Nachdem er in England war, gab es ein Verfahren,"
+889,"01:02:49,680","01:02:54,280",3769.68,3774.28,4.600000000000364,das war Assange gegen Schweden.
+890,"01:02:54,400","01:03:01,280",3774.4,3781.28,6.880000000000109,In diesem Verfahren ist er in drei Instanzen.
+891,"01:03:02,520","01:03:05,760",3782.52,3785.76,3.2400000000002365,"Ist er vor den großen Gericht gegangen,"
+892,"01:03:05,880","01:03:12,160",3785.88,3792.16,6.279999999999745,vor dem obersten englischen Gericht.
+893,"01:03:13,040","01:03:16,080",3793.04,3796.08,3.0399999999999636,Es ist äußerst kompliziert in diesem Gericht.
+894,"01:03:16,240","01:03:19,840",3796.24,3799.84,3.600000000000364,"Er hat äußerst gute Verteidiger, die werden gut bezahlt."
+895,"01:03:20,000","01:03:22,760",3800.0,3802.76,2.7600000000002183,"Es ist die Frage auch, woher das Geld kommt."
+896,"01:03:22,920","01:03:28,840",3802.92,3808.84,5.920000000000073,Da muss man seine Leute fragen.
+897,"01:03:29,040","01:03:32,880",3809.04,3812.88,3.8400000000001455,HP: Er hat ja ganz viele Preise erhalten für seine Arbeit.
+898,"01:03:33,000","01:03:35,080",3813.0,3815.08,2.0799999999999272,Und sein Engagement.
+899,"01:03:35,200","01:03:40,040",3815.2,3820.04,4.8400000000001455,Er ist Ehrenmitglied.
+900,"01:03:40,200","01:03:43,800",3820.2,3823.8,3.600000000000364,"Es sind ganz viele Organisationen, die ihn unterstützen."
+901,"01:03:43,920","01:03:48,800",3823.92,3828.8,4.880000000000109,Daher kommt auch das Geld nehme ich an.
+902,"01:03:48,960","01:03:55,920",3828.96,3835.92,6.960000000000036,"KA: Das ist eine große Frage, das wäre mal für ihr Team interessant."
+903,"01:03:56,040","01:04:00,720",3836.04,3840.72,4.679999999999836,"HP: Ist es dann schlecht, wenn er bezahlt wird."
+904,"01:04:00,880","01:04:02,840",3840.88,3842.84,1.9600000000000364,"Ich würde ihn auch bezahlen,"
+905,"01:04:03,000","01:04:09,000",3843.0,3849.0,6.0,weil der Fall wichtig ist für die Pressefreiheit.
+906,"01:04:09,120","01:04:16,880",3849.12,3856.88,7.760000000000218,"KA: Ich würde noch gerne zu Ende erklären, wie geht es weiter?"
+907,"01:04:17,000","01:04:19,280",3857.0,3859.28,2.2800000000002,"Es gibt ein entscheidendes Gericht,"
+908,"01:04:19,440","01:04:22,720",3859.44,3862.72,3.2799999999997453,er muss nach Schweden ausgeliefert werden.
+909,"01:04:22,840","01:04:28,720",3862.84,3868.72,5.879999999999654,Dann geht er in die Botschaft.
+910,"01:04:29,680","01:04:33,120",3869.68,3873.12,3.4400000000000546,"Dann hat er, auch weil er antiamerikanisch ist,"
+911,"01:04:33,280","01:04:38,840",3873.28,3878.84,5.559999999999945,das Asyl bekommen.
+912,"01:04:39,000","01:04:41,600",3879.0,3881.6,2.599999999999909,"Es ist kein Asyl im Sinne des Asylrechts,"
+913,"01:04:41,720","01:04:46,600",3881.72,3886.6,4.880000000000109,es ist ein diplomatisches Asyl.
+914,"01:04:46,760","01:04:50,160",3886.76,3890.16,3.399999999999636,Das ist ein regionales Völkerrecht.
+915,"01:04:50,320","01:04:54,080",3890.32,3894.08,3.7599999999997635,Kein Asyl im Sinne von ein Ukrainer kommt nach Deutschland.
+916,"01:04:54,240","01:04:56,080",3894.24,3896.08,1.8400000000001455,Wie würde man es dann ein?
+917,"01:04:56,240","01:04:56,880",3896.24,3896.88,0.6400000000003274,HP:
+918,"01:05:02,160","01:05:08,160",3902.16,3908.16,6.0,HP: Er hat Schutz erhalten.
+919,"01:05:10,200","01:05:13,680",3910.2,3913.68,3.480000000000018,KA: Das wird alles zu extremen Problemen.
+920,"01:05:13,840","01:05:17,880",3913.84,3917.88,4.039999999999964,"Ecuador politisch entschieden, sie wollen ihm den Schutz geben,"
+921,"01:05:18,040","01:05:24,440",3918.04,3924.44,6.400000000000091,aber er ist in die Botschaft gegangen.
+922,"01:05:29,960","01:05:32,960",3929.96,3932.96,3.0,Er hat diese Entscheidung autonom getroffen.
+923,"01:05:33,080","01:05:37,080",3933.08,3937.08,4.0,"Schweden hatte ihn direkt weiter geliefert an die Amerikaner,"
+924,"01:05:37,240","01:05:41,480",3937.24,3941.48,4.2400000000002365,das ist die Theorie. Es gibt keine direkte Weiterlieferung.
+925,"01:05:41,640","01:05:49,000",3941.64,3949.0,7.360000000000127,Die Amerikaner hätten erst einmal mit den Schweden verhandeln müssen.
+926,"01:05:49,120","01:05:51,520",3949.12,3951.52,2.400000000000091,"Man kann nur argumentieren,"
+927,"01:05:51,680","01:05:56,120",3951.68,3956.12,4.440000000000055,in Schweden ist der Rechtsschutz geringer. Darüber kann man streiten.
+928,"01:05:56,280","01:05:58,120",3956.28,3958.12,1.8399999999996908,"Die Sache ist komplexer,"
+929,"01:05:58,240","01:06:01,040",3958.24,3961.04,2.800000000000182,die neun Jahre kann man nicht gleichstellen
+930,"01:06:01,200","01:06:03,040",3961.2,3963.04,1.8400000000001455,mit den jetzigen im Gefängnis.
+931,"01:06:03,200","01:06:06,400",3963.2,3966.4,3.200000000000273,Warum ist der in dem schlimmsten Gefängnis?
+932,"01:06:06,560","01:06:11,240",3966.56,3971.24,4.679999999999836,Es gibt zwei Gefängnisse in London.
+933,"01:06:11,400","01:06:15,720",3971.4,3975.72,4.319999999999709,"Dort setzt nicht nur Assange,"
+934,"01:06:15,880","01:06:20,160",3975.88,3980.16,4.279999999999745,"da sitzen verschiedene Leute, ein Hochsicherheitsgefängnis."
+935,"01:06:20,320","01:06:22,960",3980.32,3982.96,2.6399999999998727,"Er ist dort, weil er damals geflohen ist,"
+936,"01:06:23,080","01:06:25,640",3983.08,3985.64,2.5599999999999454,und weil Fluchtgefahr besteht.
+937,"01:06:25,760","01:06:31,240",3985.76,3991.24,5.479999999999563,Er hat Auflagen verletzt.
+938,"01:06:31,360","01:06:36,480",3991.36,3996.48,5.119999999999891,Er war auf freiem Fuß und es dann in die Botschaft gegangen.
+939,"01:06:36,640","01:06:39,840",3996.64,3999.84,3.200000000000273,"Die Engländer konnten nicht die Botschaft stimmt,"
+940,"01:06:39,960","01:06:42,480",3999.96,4002.48,2.519999999999982,das geht völkerrechtlich nicht.
+941,"01:06:42,640","01:06:47,680",4002.64,4007.68,5.039999999999964,"Das ist entscheidend, dass er dann in das Gefängnis kam."
+942,"01:06:47,840","01:06:51,280",4007.84,4011.28,3.4400000000000546,HP: Wir müssen aber eine Gesamtbetrachtung machen.
+943,"01:06:51,400","01:06:54,480",4011.4,4014.48,3.0799999999999272,Wenn wir alles aufrollen.
+944,"01:06:54,600","01:07:01,240",4014.6,4021.24,6.639999999999873,Die Vorwürfe gegen ihn im sexuellen Bereich.
+945,"01:07:01,360","01:07:06,400",4021.36,4026.4,5.039999999999964,Die ihr die erste Phase dieser Geschichte kennzeichnen.
+946,"01:07:06,560","01:07:10,760",4026.56,4030.76,4.200000000000273,"Wir müssen auch sagen, all diese Vorwürfe sind zusammengebrochen"
+947,"01:07:10,920","01:07:15,040",4030.92,4035.04,4.119999999999891,und sind nicht weiter verfolgt worden. Die haben keine Substanz.
+948,"01:07:15,160","01:07:17,040",4035.16,4037.04,1.8800000000001091,Sind die verjährt?
+949,"01:07:17,160","01:07:19,640",4037.16,4039.64,2.480000000000018,KA: Drei davon sind verjährt.
+950,"01:07:19,800","01:07:23,080",4039.8,4043.08,3.2799999999997453,Der Vergewaltigungsvorwurf nicht.
+951,"01:07:23,200","01:07:28,560",4043.2,4048.56,5.360000000000127,"Ich habe mit schwedischen Kollegen gesprochen,"
+952,"01:07:28,720","01:07:34,000",4048.72,4054.0,5.2800000000002,man konnte ihn nicht in der Botschaft vernehmen.
+953,"01:07:34,160","01:07:39,480",4054.16,4059.48,5.320000000000164,"Es gab eine Möglichkeit,"
+954,"01:07:39,640","01:07:43,960",4059.64,4063.96,4.320000000000164,er hat Fragen Papier bekommen von einer schwedischen Botschafterin.
+955,"01:07:44,120","01:07:50,720",4064.12,4070.72,6.599999999999909,"Dann haben die Schweden gesagt, sie haben keine Beweise mehr."
+956,"01:07:50,880","01:07:54,800",4070.88,4074.8,3.9200000000000728,Man hat bei Sexualstraftaten Aussage gegen Aussage.
+957,"01:07:54,960","01:08:02,440",4074.96,4082.44,7.480000000000018,"Es ist sehr oft so, dass Verfolgungen eingestellt werden."
+958,"01:08:02,600","01:08:06,680",4082.6,4086.68,4.079999999999927,"Was aber nicht heißt, dass sie nicht stattgefunden haben."
+959,"01:08:06,800","01:08:11,200",4086.8,4091.2,4.399999999999636,"KA: Wir wissen gar nicht, es ist eine Unschuldsvermutung."
+960,"01:08:11,360","01:08:15,120",4091.36,4095.12,3.7599999999997635,"HP: Die ganzen Vorwürfe aus dieser Zeit stützt sich darauf,"
+961,"01:08:15,280","01:08:18,120",4095.28,4098.12,2.8399999999996908,"die Kaution,"
+962,"01:08:18,280","01:08:22,720",4098.28,4102.72,4.440000000000509,"die Flucht in die Botschaft, der Schutz dort,"
+963,"01:08:22,880","01:08:25,960",4102.88,4105.96,3.0799999999999272,"es hat alles mit diesen Sexualvorwürfen zu tun,"
+964,"01:08:26,080","01:08:31,520",4106.08,4111.52,5.440000000000509,"von denen wir nicht wissen, ob sie stimmen."
+965,"01:08:31,680","01:08:33,760",4111.68,4113.76,2.0799999999999272,"Wir wissen, er hat dieses Video"
+966,"01:08:33,880","01:08:40,400",4113.88,4120.4,6.519999999999527,und viele andere Dinge in das Netz gestellt.
+967,"01:08:40,560","01:08:42,680",4120.56,4122.68,2.119999999999891,Und darum streiten wir jetzt.
+968,"01:08:42,800","01:08:46,360",4122.8,4126.36,3.5599999999994907,Darauf bezieht sich das Auslieferungsverfahren der USA.
+969,"01:08:46,520","01:08:53,360",4126.52,4133.36,6.839999999999236,"Hier sagen wir beide in Betrachtung der Gesamtumstände,"
+970,"01:08:53,520","01:08:54,080",4133.52,4134.08,0.5599999999994907,wir plädieren dafür diesen Mann freizulassen. Er
+971,"01:08:54,720","01:09:01,760",4134.72,4141.76,7.039999999999964,wir plädieren dafür diesen Mann freizulassen.
+972,"01:09:02,400","01:09:05,120",4142.4,4145.12,2.7200000000002547,Er hat lang genug gelitten.
+973,"01:09:05,280","01:09:10,880",4145.28,4150.88,5.600000000000364,"Seit dem Video,"
+974,"01:09:11,000","01:09:16,360",4151.0,4156.36,5.359999999999673,"was wir heute gesehen haben, setze ich mich für den Mann ein."
+975,"01:09:16,480","01:09:18,520",4156.48,4158.52,2.040000000000873,"Es wird künftig immer heißen,"
+976,"01:09:18,680","01:09:23,280",4158.68,4163.28,4.599999999999454,"erkenne die Szene als Journalist wirklich gut seit 25 Jahren,"
+977,"01:09:23,440","01:09:27,960",4163.44,4167.96,4.520000000000437,"es wird heißen, denkt an Assange"
+978,"01:09:28,160","01:09:30,800",4168.16,4170.8,2.6400000000003274,"wenn es um regierungskritische Dinge geht,"
+979,"01:09:30,920","01:09:36,600",4170.92,4176.6,5.680000000000291,an die Aufdeckung von Regierungsgeheimnissen.
+980,"01:09:36,760","01:09:40,280",4176.76,4180.28,3.519999999999527,Ich will nicht dass der zukünftige globale Journalismus
+981,"01:09:40,440","01:09:45,840",4180.44,4185.84,5.400000000000546,leidet.
+982,"01:09:46,000","01:09:50,560",4186.0,4190.56,4.5600000000004,"Hat er dort einen Punkt, wenn er das so beschreibt?"
+983,"01:09:50,680","01:09:54,600",4190.68,4194.6,3.9200000000000728,Ein Land begeht ein Kriegsverbrechen.
+984,"01:09:54,720","01:09:58,760",4194.72,4198.76,4.039999999999964,"Verfolgt wird aber derjenige, der das öffentlich macht."
+985,"01:09:58,920","01:10:03,240",4198.92,4203.24,4.319999999999709,"Was ist denn mit denen passiert, die in dem Kampfhubschrauber saßen?"
+986,"01:10:03,360","01:10:07,560",4203.36,4207.56,4.200000000000728,"Wurden die Vorurteil, haben die Strafen bekommen?"
+987,"01:10:07,680","01:10:12,720",4207.68,4212.72,5.039999999999964,"KA: Das ist ein Problem,"
+988,"01:10:12,880","01:10:18,840",4212.88,4218.84,5.960000000000036,was auch unsere Bundeswehr mal betrifft.
+989,"01:10:18,960","01:10:20,840",4218.96,4220.84,1.8800000000001091,Wir hatten ein Verfahren
+990,"01:10:21,000","01:10:25,120",4221.0,4225.12,4.119999999999891,wo ganz viele Zivilisten in Afghanistan getötet wurden.
+991,"01:10:25,280","01:10:31,280",4225.28,4231.28,6.0,Das sind ganz schwierige Themen.
+992,"01:10:33,240","01:10:37,200",4233.24,4237.2,3.9600000000000364,Ich weiß es nicht im Detail über die Hubschrauber Insassesen.
+993,"01:10:37,360","01:10:44,200",4237.36,4244.2,6.8400000000001455,"Es gab Strafgefahren, die wurden eingestellt."
+994,"01:10:51,400","01:10:56,120",4251.4,4256.12,4.720000000000255,Diese Fälle sind aber unabhängig von unserem Problem der Pressefreiheit.
+995,"01:10:56,280","01:11:01,760",4256.28,4261.76,5.480000000000473,"Das erste Argument ist,"
+996,"01:11:01,920","01:11:06,920",4261.92,4266.92,5.0,"ich bin dagegen, dass Assange in die USA kommt,"
+997,"01:11:07,040","01:11:10,920",4267.04,4270.92,3.880000000000109,"aber das Land, dass die Pressefreiheit am stärksten schützt,"
+998,"01:11:11,080","01:11:15,640",4271.08,4275.64,4.5600000000004,ist die USA.
+999,"01:11:15,800","01:11:21,640",4275.8,4281.64,5.8400000000001455,Pentagon Papers.
+1000,"01:11:29,520","01:11:36,680",4289.52,4296.68,7.1599999999998545,"Wenn wir einen Fall hätten, mit einem Verfahren."
+1001,"01:11:39,480","01:11:42,800",4299.48,4302.8,3.3200000000006185,"2010 fing es schon an, Barack Obama besser streng,"
+1002,"01:11:42,960","01:11:49,400",4302.96,4309.4,6.4399999999996,er hat den Spionageakt hinein gebracht.
+1003,"01:11:50,400","01:11:53,920",4310.4,4313.92,3.5200000000004366,"Assange hat die Hillary Clinton dekoriert,"
+1004,"01:11:54,080","01:12:00,560",4314.08,4320.56,6.480000000000473,das ist auch ein großes Problem gewesen.
+1005,"01:12:03,480","01:12:06,920",4323.48,4326.92,3.4400000000005093,"Es könnte aber auch anders sein,"
+1006,"01:12:07,080","01:12:11,160",4327.08,4331.16,4.079999999999927,er wird sehr gute Verteidiger haben und dass er den Fall gewinnt
+1007,"01:12:11,320","01:12:18,440",4331.32,4338.44,7.119999999999891,und dann wäre es ein Sieg für die Pressefreiheit.
+1008,"01:12:20,080","01:12:23,960",4340.08,4343.96,3.880000000000109,Aus humanitären Gründen soll er dort aber nicht hin.
+1009,"01:12:24,120","01:12:25,960",4344.12,4345.96,1.8400000000001455,"Das zweite Argument ist,"
+1010,"01:12:26,120","01:12:32,920",4346.12,4352.92,6.800000000000182,die Abschreckungswirkung ist schon erreicht.
+1011,"01:12:40,120","01:12:46,120",4360.12,4366.12,6.0,Er wurde von den Amerikanern getadelt.
+1012,"01:12:46,280","01:12:48,920",4366.28,4368.92,2.6400000000003274,Snowden ist auch ein tragischer Fall.
+1013,"01:12:49,120","01:12:52,400",4369.12,4372.4,3.2799999999997453,über den redet niemanden mehr.
+1014,"01:12:52,520","01:12:57,160",4372.52,4377.16,4.639999999999418,HP: Es geht aber nicht um Sympathie.
+1015,"01:12:57,320","01:13:01,120",4377.32,4381.12,3.800000000000182,KA: Aber von der Sache.
+1016,"01:13:01,280","01:13:05,040",4381.28,4385.04,3.7600000000002183,Snowden hat sehr verantwortlich gearbeitet.
+1017,"01:13:05,200","01:13:11,040",4385.2,4391.04,5.8400000000001455,Für den Fall Julian Assange...
+1018,"01:13:14,040","01:13:20,760",4394.04,4400.76,6.720000000000255,"Er ist extrem Anti amerikanisch immer gewesen,"
+1019,"01:13:20,920","01:13:25,760",4400.92,4405.76,4.8400000000001455,warum hat er nicht russische oder chinesische Daten geleaked?
+1020,"01:13:25,920","01:13:32,400",4405.92,4412.4,6.479999999999563,"Ein Erklärung ist, er kann kein Russisch."
+1021,"01:13:32,560","01:13:35,360",4412.56,4415.36,2.7999999999992724,"Man muss sich das mal klarmachen,"
+1022,"01:13:35,520","01:13:39,840",4415.52,4419.84,4.319999999999709,"natürlich machen die Amerikaner Kriegsverbrechen, seit Vietnam."
+1023,"01:13:40,000","01:13:42,920",4420.0,4422.92,2.9200000000000728,"Die haben in Südamerika Regierungen gestürzt,"
+1024,"01:13:43,080","01:13:47,440",4423.08,4427.44,4.359999999999673,ich bin ein großer Kritiker der USA.
+1025,"01:13:47,600","01:13:51,640",4427.6,4431.64,4.039999999999964,"Aber warum ist Wikileaks nicht gegen Russland, Iran oder China -"
+1026,"01:13:51,800","01:13:57,320",4431.8,4437.32,5.519999999999527,es wurde im Gegenteil sogar Informationen geliefert.
+1027,"01:13:57,480","01:14:03,360",4437.48,4443.36,5.880000000000109,"Im Handelsplatz stand,"
+1028,"01:14:03,640","01:14:10,600",4443.64,4450.6,6.960000000000036,für einen Kollegen ist Assange ein Hasardeur.
+1029,"01:14:11,000","01:14:16,720",4451.0,4456.72,5.720000000000255,"Und die Nähe zu Russland ist sehr seltsam,"
+1030,"01:14:16,880","01:14:19,840",4456.88,4459.84,2.9600000000000364,"er hatte mal eine eigene Show,"
+1031,"01:14:20,000","01:14:23,880",4460.0,4463.88,3.880000000000109,es gehört alles zum vollständigen Bild dazu.
+1032,"01:14:24,040","01:14:25,880",4464.04,4465.88,1.8400000000001455,"Darin zeigt sich,"
+1033,"01:14:26,040","01:14:30,080",4466.04,4470.08,4.039999999999964,wie umstritten der Mann ist und woher die Polarisierung kommt.
+1034,"01:14:30,240","01:14:34,520",4470.24,4474.52,4.280000000000655,"Ich würde wahnsinnig gern noch 3 Stunden mit Ihnen weiter sprechen,"
+1035,"01:14:34,680","01:14:36,800",4474.68,4476.8,2.119999999999891,aber wir sind am Ende der Sendung.
+1036,"01:14:36,960","01:14:44,200",4476.96,4484.2,7.239999999999782,"Wir sind weiter gekommen, es war sehr inspirierend."
+1037,"01:14:44,960","01:14:47,560",4484.96,4487.56,2.600000000000364,"Jetzt die Kollegen vom ""heute journal up:date""."
+1038,"01:14:47,600","01:15:35,600",4487.6,4535.6,48.0,Wir sind am Dienstag wieder für Sie da.

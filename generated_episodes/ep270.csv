@@ -1,0 +1,866 @@
+﻿segment_id,start_time,end_time,start_seconds,end_seconds,duration,text
+1,"00:00:00,040","00:00:01,040",0.04,1.04,1.0,Diese Untertitel sind live produziert.
+2,"00:00:01,080","00:00:05,600",1.08,5.6,4.52,"Willkommen zu unserer Sendung, in der wir gleich zu Beginn"
+3,"00:00:05,640","00:00:08,880",5.64,8.88,3.240000000000001,"Ulrike Franke begrüßen, Politikwissenschaftlerin"
+4,"00:00:08,920","00:00:13,480",8.92,13.48,4.5600000000000005,und Sicherheitsexpertin mit der wir über heute über das Thema
+5,"00:00:13,520","00:00:17,320",13.52,17.32,3.8000000000000007,der letzten Tage diskutieren wollen: nämlich Drohnen.
+6,"00:00:17,360","00:00:20,000",17.36,20.0,2.6400000000000006,Man muss ja sagen:
+7,"00:00:20,040","00:00:22,120",20.04,22.12,2.080000000000002,"Dafür, dass Deutschland so lange gar keine Drohnen hatte,"
+8,"00:00:22,160","00:00:25,840",22.16,25.84,3.6799999999999997,"haben wir jetzt plötzlich ganz schön viele, allerdings die falschen,"
+9,"00:00:25,280","00:00:27,280",25.28,27.28,2.0,"denn es sind ja immer noch nicht unsere,"
+10,"00:00:27,320","00:00:30,560",27.32,30.56,3.2399999999999984,"sondern die der anderen, die Frage: Welche anderen?"
+11,"00:00:30,600","00:00:34,000",30.6,34.0,3.3999999999999986,"Wessen Drohen sind es eigentlich, die plötzlich ständig am Himmel"
+12,"00:00:34,040","00:00:36,560",34.04,36.56,2.520000000000003,über Deutschland und Europa auftauchen?
+13,"00:00:36,600","00:00:39,120",36.6,39.12,2.519999999999996,"Höchste Zeit, sie zu fragen, denn es gibt wenige,"
+14,"00:00:39,160","00:00:44,040",39.16,44.04,4.880000000000003,"die darüber so gut Bescheid wissen, seit 15 Jahren beschäftigt sie sich"
+15,"00:00:44,080","00:00:48,440",44.08,48.44,4.359999999999999,"mit dem Thema und sagt jetzt: “Klingt vielleicht komisch,"
+16,"00:00:48,480","00:00:49,840",48.48,49.84,1.3600000000000065,"wenn ich das sage, aber:"
+17,"00:00:49,880","00:00:53,000",49.88,53.0,3.1199999999999974,Im Moment ist mir das mit den Drohnen ein bisschen zu dicke.“
+18,"00:00:53,040","00:00:54,120",53.04,54.12,1.0799999999999983,Herzlich willkommen!
+19,"00:00:54,160","00:00:58,080",54.16,58.08,3.9200000000000017,"Und wir freuen uns, dass dieser Mann da ist,"
+20,"00:00:58,120","00:01:00,920",58.12,60.92,2.8000000000000043,"Christian Dürr, der neue Chef der FDP"
+21,"00:01:00,960","00:01:03,880",60.96,63.88,2.9200000000000017,"und ich denke, wir treten ihm hier nicht zu nahe,"
+22,"00:01:03,920","00:01:07,600",63.92,67.6,3.6799999999999926,"wenn wir festhalten: Man muss diese Partei schon wirklich sehr mögen,"
+23,"00:01:07,640","00:01:11,440",67.64,71.44,3.799999999999997,"um sich diesen Job anzutun, denn die böse Aufgabe für ihn lautet:"
+24,"00:01:11,480","00:01:14,680",71.48,74.68,3.200000000000003,"Wie schafft man es, wieder das Wort “FDP“ zu sagen,"
+25,"00:01:14,720","00:01:17,520",74.72,77.52,2.799999999999997,ohne dass das Gegenüber als nächstes sofort an das Wort
+26,"00:01:17,560","00:01:18,640",77.56,78.64,1.0799999999999983,“Versenkung“ denkt.
+27,"00:01:18,680","00:01:20,080",78.68,80.08,1.3999999999999915,"Er sagt: Das schaffen wir,"
+28,"00:01:20,120","00:01:24,720",80.12,84.72,4.599999999999994,"indem wir die FDP zur “Partei der radikalen Mitte“ machen,"
+29,"00:01:24,760","00:01:27,440",84.76,87.44,2.6799999999999926,"radikale Mitte, kann man eigentlich nicht erklären,"
+30,"00:01:27,480","00:01:31,440",87.48,91.44,3.9599999999999937,"er wird es trotzdem tun, herzlich willkommen!"
+31,"00:01:31,480","00:01:34,200",91.48,94.2,2.719999999999999,Marc Felix Serrao ist der Chefredakteur
+32,"00:01:34,240","00:01:36,960",94.24000000000001,96.96000000000001,2.719999999999999,der Neuen Zürcher Zeitung in Deutschland
+33,"00:01:37,000","00:01:41,400",97.0,101.4,4.400000000000006,"und fragt sich offenbar, was das sein soll: die radikale Mitte."
+34,"00:01:41,440","00:01:46,920",101.44,106.92,5.480000000000004,"Das ist ein Widerspruch in sich, findet er, die Mitte ist nie radikal"
+35,"00:01:46,960","00:01:50,960",106.96000000000001,110.96000000000001,4.0,"und überhaupt: Die Mitte, findet er, auch die Mitte ist mittlerweile"
+36,"00:01:51,000","00:01:53,440",111.0,113.44,2.4399999999999977,"ein so ausgelutschter Begriff, so tot, so leer,"
+37,"00:01:53,480","00:01:56,160",113.47999999999999,116.16,2.680000000000007,dass man ihn eigentlich gar nicht mehr benutzen kann.
+38,"00:01:56,200","00:01:59,760",116.2,119.75999999999999,3.559999999999988,"Und er hat ja recht: Um zu verstehen, was aus dieser Mitte geworden ist,"
+39,"00:01:59,800","00:02:02,240",119.8,122.24,2.4399999999999977,"genügt ein Blick in den aktuellen Bundestag,"
+40,"00:02:02,280","00:02:06,560",122.28,126.56,4.280000000000001,schön ist das nicht dennoch: herzlich willkommen!
+41,"00:02:06,600","00:02:10,760",126.6,130.76,4.159999999999997,"Gerade noch 3,7 Prozent bei den Kommunalwahlen jetzt in NRW"
+42,"00:02:10,800","00:02:13,280",130.8,133.28,2.4799999999999898,"waren drin für die FDP und Sascha Lobo,"
+43,"00:02:13,320","00:02:17,200",133.32,137.2,3.8799999999999955,"der heute unser Gast ist, wundert das überhaupt nicht:"
+44,"00:02:17,240","00:02:20,440",137.24,140.44,3.1999999999999886,"“Die Verheiliggralung der Schuldenbremse durch die FDP“,"
+45,"00:02:20,480","00:02:24,320",140.48,144.32,3.8400000000000034,"sagt er, “war der schlimmste politische Fehler der letzten Jahre"
+46,"00:02:24,360","00:02:27,720",144.36,147.72,3.359999999999985,"und dazu dann noch die hässliche Schwester der Schuldenbremse,"
+47,"00:02:27,760","00:02:30,040",147.76,150.04,2.280000000000001,nämlich die Schwarze Null.“
+48,"00:02:30,080","00:02:34,440",150.07999999999998,154.44,4.360000000000014,Die Frage ist nur: Wie könnte die Neuerfindung der FDP aussehen?
+49,"00:02:34,480","00:02:37,680",154.48,157.68,3.200000000000017,"“Denn eines“, sagt er, “ist auch klar: Wir brauchen dringend"
+50,"00:02:37,720","00:02:39,240",157.72,159.24,1.5200000000000102,eine starke liberale Kraft.“.
+51,"00:02:39,280","00:02:41,720",159.28,161.72,2.4399999999999977,Herzlich willkommen!
+52,"00:02:41,800","00:02:43,720",161.8,163.72,1.9199999999999875,ML: Schönen guten Abend in die Runde.
+53,"00:02:43,760","00:02:54,240",163.76,174.24,10.480000000000018,Was ist das für ein Gefühl als außer parlamentarische Opposition?
+54,"00:02:54,760","00:02:57,200",174.76,177.2,2.4399999999999977,"CD: Es ist eine neue Aufstellung, auch für mich,"
+55,"00:02:57,240","00:03:01,200",177.24,181.2,3.9599999999999795,"für mich das Tatendrang, ich glaube, dass es in diesem Land"
+56,"00:03:01,240","00:03:07,200",181.24,187.2,5.9599999999999795,"eine Partei braucht, die sehr konkrete Reformvorschläge macht."
+57,"00:03:07,240","00:03:09,520",187.24,189.52,2.280000000000001,"ML: Machen Sie das hauptberuflich, was sie gerade tun?"
+58,"00:03:09,560","00:03:15,080",189.56,195.08,5.52000000000001,"CD: Ich mache das im Haupt jetzt, ja für mich ist das eine Aufgabe,"
+59,"00:03:15,120","00:03:23,800",195.12,203.8,8.680000000000007,"die Freude macht, es ist ganz anders als im Bundestag."
+60,"00:03:23,840","00:03:27,400",203.84,207.4,3.5600000000000023,ML: Wo sitzen sie?
+61,"00:03:27,440","00:03:34,040",207.44,214.04,6.599999999999994,"CD: Ich habe ein Büro, ich komme aber sehr viel rum im Land, ich"
+62,"00:03:34,080","00:03:39,440",214.07999999999998,219.44,5.360000000000014,genieße es extrem viel mit Menschen und deren Problem zu tun zu haben.
+63,"00:03:39,480","00:03:42,520",219.48,222.52,3.0400000000000205,"Mit dem, was die Leute wirklich bewegt."
+64,"00:03:42,560","00:03:45,000",222.56,225.0,2.4399999999999977,ML: Das lernen sie erst jetzt?
+65,"00:03:45,040","00:03:50,120",225.04,230.12,5.0800000000000125,"CD: Nein, die Möglichkeit so viel Kontakt zu haben gab es aber vorher"
+66,"00:03:50,160","00:03:54,400",230.16,234.4,4.240000000000009,nicht.
+67,"00:03:54,440","00:03:56,400",234.44,236.4,1.960000000000008,ML: Erleben Sie das auch so?
+68,"00:03:56,440","00:03:59,600",236.44,239.6,3.1599999999999966,"CD: Ich würde sagen, es ist krass durchgetaktet,"
+69,"00:03:59,640","00:04:02,680",239.64,242.68,3.0400000000000205,man hat aber manchmal weniger Menschen Probleme
+70,"00:04:02,720","00:04:05,880",242.72,245.88,3.1599999999999966,und nur Politik Probleme gelöst.
+71,"00:04:19,040","00:04:30,760",259.04,270.76,11.71999999999997,MS: Die Berliner Mitte ist oft eine abgekoppelte Welt für sich.
+72,"00:04:30,800","00:04:34,160",270.8,274.15999999999997,3.359999999999957,"CD: Das was ich jetzt erlebe sind sehr reale Sorgen,"
+73,"00:04:34,200","00:04:36,880",274.2,276.88,2.680000000000007,"was ich jetzt erlebe, sind halt Menschen,"
+74,"00:04:36,920","00:04:39,680",276.92,279.68,2.759999999999991,die sehr reale Sorgen um ihren Job haben.
+75,"00:04:39,720","00:04:42,120",279.72,282.12,2.3999999999999773,ML: Dafür muss man erst rausfliegen?
+76,"00:04:42,160","00:04:46,840",282.15999999999997,286.84000000000003,4.680000000000064,Hatten Sie das nicht bei der Ampel auch schon?
+77,"00:04:46,880","00:04:49,920",286.88,289.92,3.0400000000000205,"CD: Die Situation heute ist eine andere, ich möchte es"
+78,"00:04:49,960","00:04:53,600",289.96,293.6,3.640000000000043,"zusammenfassen, ganz kritisch gesprochen, die Ampel hat den"
+79,"00:04:53,640","00:04:58,360",293.64,298.36,4.720000000000027,"wirtschaftlichen Niedergang in Deutschland nicht aufhalten können,"
+80,"00:04:58,400","00:05:02,200",298.4,302.2,3.8000000000000114,"mein Eindruck jetzt mit Menschen wenn ich spreche ist, dass sich die"
+81,"00:05:02,240","00:05:05,920",302.24,305.92,3.680000000000007,"Geschwindigkeit noch erhöht,"
+82,"00:05:05,960","00:05:08,760",305.96,308.76,2.8000000000000114,"das ist, was Leute heutzutage aus der Mitte treibt,"
+83,"00:05:08,800","00:05:14,000",308.8,314.0,5.199999999999989,was viele Parteien in der Mitte wollen.
+84,"00:05:14,040","00:05:17,800",314.04,317.8,3.759999999999991,"ML: Reden wir gleich drüber, sie arbeiten in Paris oder?"
+85,"00:05:17,840","00:05:21,040",317.84,321.04,3.2000000000000455,Wie erleben Sie das?
+86,"00:05:21,080","00:05:27,560",321.08,327.56,6.480000000000018,UF: Wir hätten gern die Stabilität die wir in Deutschland gewöhnt sind.
+87,"00:05:27,600","00:05:32,880",327.6,332.88,5.279999999999973,Bei uns fällt alle paar Tage muss man sagen eine Regierung.
+88,"00:05:36,920","00:05:39,720",336.92,339.72,2.8000000000000114,ML: Wie schaut da Sascha Lobo drauf?
+89,"00:05:39,760","00:05:47,800",339.76,347.8,8.04000000000002,"Manchmal sagen Leute alles wird schlecht geredet,"
+90,"00:05:47,840","00:05:49,960",347.84000000000003,349.96,2.1199999999999477,der Hauptgegner ist die schlechte Laune
+91,"00:05:50,000","00:05:53,160",350.0,353.15999999999997,3.159999999999968,damit kann ich gar nichts anfangen.
+92,"00:05:53,200","00:05:59,360",353.2,359.36,6.160000000000025,Man bekommt dadurch schlechte Laune.
+93,"00:05:59,400","00:06:07,320",359.4,367.32,7.920000000000016,SL: Ich bin in der Lage ein Optimist zu sein.
+94,"00:06:07,360","00:06:10,760",367.36,370.76,3.3999999999999773,Aus dem Grund weil ich das Potenzial sehe.
+95,"00:06:10,800","00:06:15,960",370.8,375.96,5.159999999999968,"Mein Blick auf die Politik ist ein digitaler,"
+96,"00:06:16,000","00:06:23,640",376.0,383.64,7.639999999999986,und da haben wir in Deutschland eine okay Voraussetzung
+97,"00:06:23,680","00:06:28,160",383.68,388.16,4.480000000000018,"die nächsten Schritte zu gehen, allerdings müssen wir das auch tun."
+98,"00:06:28,200","00:06:31,000",388.2,391.0,2.8000000000000114,"Bisher haben wir uns ausgezeichnet,"
+99,"00:06:31,560","00:06:34,080",391.56,394.08,2.519999999999982,"was die letzten Transformation angeht,"
+100,"00:06:34,120","00:06:42,840",394.12,402.84000000000003,8.720000000000027,"gab es mehrere, wo wir weit hintendran waren."
+101,"00:06:42,880","00:06:46,440",402.88,406.44,3.5600000000000023,"Die Regierung hat eher gebremst und eher verhindert,"
+102,"00:06:46,480","00:06:51,040",406.48,411.04,4.560000000000002,und eher kaputt gewartet hat.
+103,"00:06:51,080","00:07:02,600",411.08,422.6,11.520000000000039,"Da gab es einer Nicht-Neugier, die wir heute sehr teuer bezahlen."
+104,"00:07:02,640","00:07:05,040",422.64,425.04,2.400000000000034,Es geht weiter in Richtung Forschung
+105,"00:07:05,080","00:07:07,640",425.08,427.64,2.5600000000000023,"und viel weiter in Richtung Bürokratie,"
+106,"00:07:07,680","00:07:11,880",427.68,431.88,4.199999999999989,wir haben eine erstickende Bürokratie.
+107,"00:07:11,920","00:07:16,760",431.92,436.76,4.839999999999975,"ML: Eine persönlichere Frage,"
+108,"00:07:16,800","00:07:24,280",436.8,444.28,7.479999999999961,"hat man Phantomschmerz, wenn man so lange da drin ist?"
+109,"00:07:24,320","00:07:27,080",444.32,447.08,2.759999999999991,"CD: Nein, man hat keine Phantomschmerzen,"
+110,"00:07:27,120","00:07:31,480",447.12,451.48,4.360000000000014,"da vergisst du viel zu tun. Klar, man ist motiviert."
+111,"00:07:31,520","00:07:35,960",451.52,455.96,4.439999999999998,ML: Bundestagsdebatten verfolgen sie weiterhin?
+112,"00:07:36,000","00:07:44,800",456.0,464.8,8.800000000000011,"CD: Manchmal, ich habe mir die Haushaltsdebatten angeschaut."
+113,"00:07:44,840","00:07:47,920",464.84000000000003,467.92,3.079999999999984,Ich schaue nicht die ganze Woche Bundestagsfernsehen aber die
+114,"00:07:47,960","00:07:54,720",467.96,474.72,6.760000000000048,Haushaltsdebatten habe ich mir angeschaut und dachte:
+115,"00:07:54,760","00:07:58,240",474.76,478.24,3.480000000000018,wie kann man es hinkriegen unendlich viele Schulden zu machen trotzdem
+116,"00:07:58,280","00:08:00,480",478.28,480.48,2.2000000000000455,wird gesagt: wir schaffen es nicht
+117,"00:08:00,520","00:08:02,880",480.52,482.88,2.3600000000000136,die Autobahn auszubauen.
+118,"00:08:02,920","00:08:14,640",482.92,494.64,11.71999999999997,ML: Sie bekommen mit was ihre ehemaligen Kollegen machen?
+119,"00:08:14,680","00:08:22,880",494.68,502.88,8.199999999999989,CD: Was meine ehemaligen Kollegen machen kriege ich natürlich mit.
+120,"00:08:22,920","00:08:26,120",502.92,506.12,3.1999999999999886,"CD: Das gehört ja dazu, dass man sich eine neue Aufgabe im Leben"
+121,"00:08:26,160","00:08:30,120",506.16,510.12,3.9599999999999795,"sucht, die Idee ist ja schon, dass es einen Wechsel gibt,"
+122,"00:08:30,160","00:08:34,320",510.16,514.32,4.160000000000025,"ML: Haben Sie sich nie gefragt, ob sie der richtige Mann sind,"
+123,"00:08:34,360","00:08:36,000",514.36,516.0,1.6399999999999864,"nicht persönlich gemeint,"
+124,"00:08:36,040","00:08:39,880",516.04,519.88,3.840000000000032,"sie haben den Laden wirklich maßgeblich zusammengenommen,"
+125,"00:08:39,920","00:08:42,640",519.92,522.64,2.7200000000000273,diese alte FDP
+126,"00:08:42,680","00:08:47,000",522.68,527.0,4.32000000000005,"egal was sie gefragt haben, sie haben gesagt Technologie Offenheit"
+127,"00:08:47,040","00:08:49,200",527.04,529.2,2.160000000000082,und ich habe noch mal nachgelegt
+128,"00:08:49,240","00:09:06,160",529.24,546.16,16.91999999999996,aber am Ende hat es nicht gereicht.
+129,"00:09:06,200","00:09:09,600",546.2,549.6,3.3999999999999773,"CD: Nein, es hat nicht gereicht, deswegen auch ein selbstkritischer"
+130,"00:09:09,640","00:09:12,760",549.64,552.76,3.1200000000000045,"Rückblick, ich Perl als Person habe aber nicht die komplette"
+131,"00:09:12,800","00:09:22,440",552.8,562.44,9.6400000000001,"Regierungsangaben habt, manchmal"
+132,"00:09:22,480","00:09:29,320",562.48,569.32,6.840000000000032,"erkenne ich die CDU von heute nicht so richtig wieder,"
+133,"00:09:29,360","00:09:32,840",569.36,572.84,3.480000000000018,"ich gebe zu in der Ampel Zeit hat es mich rasend gemacht, dass viel zu"
+134,"00:09:32,880","00:09:45,360",572.88,585.36,12.480000000000018,"wenig passiert ist, die Ampel hätte genau diese Chance ergreifen müssen."
+135,"00:09:45,400","00:09:48,480",585.4,588.48,3.080000000000041,"Beim Wort Bürokratieabbau, den Begriff traue ich mich oftmals"
+136,"00:09:48,520","00:09:51,320",588.52,591.32,2.800000000000068,"nicht auszusprechen, jeder Politiker spricht darüber das"
+137,"00:09:51,360","00:10:06,240",591.36,606.24,14.879999999999995,"Problem ist nicht sonntags, das Problem ist montags bis freitags."
+138,"00:10:06,280","00:10:09,640",606.28,609.64,3.3600000000000136,"Wir könnten über Regulation sprechen, im Bereich"
+139,"00:10:09,680","00:10:19,960",609.68,619.96,10.280000000000086,Digitalisierung ...
+140,"00:10:20,000","00:10:23,400",620.0,623.4,3.3999999999999773,"Es ist fast leichter gesagt als getan, die Regierung muss sich mehr"
+141,"00:10:23,440","00:10:26,280",623.44,626.28,2.839999999999918,wagen. Wir werden nicht durch kluge Gesetze
+142,"00:10:26,320","00:10:28,200",626.32,628.2,1.8799999999999955,die Zukunft bestimmen können.
+143,"00:10:28,240","00:10:31,760",628.24,631.76,3.519999999999982,Sich das einzugestehen und auszuhandeln ist schwer.
+144,"00:10:31,800","00:10:33,680",631.8,633.68,1.8799999999999955,ML: Den Satz merken wir uns.
+145,"00:10:33,720","00:10:44,720",633.72,644.72,11.0,"Ulrike Franke ist bei uns, wir müssen wieder was regulieren oder?"
+146,"00:10:44,760","00:10:48,360",644.76,648.36,3.6000000000000227,"Es geht um Drohnen, es war im Bundestag großes Thema,"
+147,"00:10:48,400","00:10:50,960",648.4,650.96,2.560000000000059,"daran merkt man es wird ernst genommen,"
+148,"00:10:51,000","00:10:56,160",651.0,656.16,5.159999999999968,"wundert es Sie, dass es ernst genommen wird"
+149,"00:10:56,200","00:11:00,840",656.2,660.84,4.639999999999986,"wenn man Fachleuten zuhört sagen Sie es ist seit zehn Jahren das Thema,"
+150,"00:11:00,880","00:11:10,840",660.88,670.84,9.960000000000036,warum plötzlich jetzt?
+151,"00:11:10,880","00:11:15,080",670.88,675.08,4.2000000000000455,UF: Weil wir in den letzten Wochen zunehmend Drohnensichtungen
+152,"00:11:15,120","00:11:16,600",675.12,676.6,1.4800000000000182,haben über Deutschland.
+153,"00:11:16,640","00:11:21,400",676.64,681.4,4.759999999999991,Nicht nur gibt es mehr Drohnensichtungen
+154,"00:11:21,440","00:11:30,040",681.44,690.04,8.599999999999909,wir hatten schon in den letzten Jahren 100+ drohend Sichtungen
+155,"00:11:30,080","00:11:34,240",690.08,694.24,4.159999999999968,"jetzt haben wir vor allem mehr Drohnen, bei denen wir denken,"
+156,"00:11:34,280","00:11:42,400",694.28,702.4,8.120000000000005,das sind keine Hobbypiloten.
+157,"00:11:42,440","00:11:45,600",702.44,705.6,3.159999999999968,Es ist eine Sache wenn man etwas sieht was man
+158,"00:11:45,640","00:11:50,400",705.64,710.4,4.759999999999991,an einem Flughafen sieht.
+159,"00:11:50,440","00:11:54,000",710.44,714.0,3.5599999999999454,In Kopenhagen war der Fall wo man große Systeme lange
+160,"00:11:54,040","00:11:58,040",714.04,718.04,4.0,in der Luft hatte.
+161,"00:11:58,080","00:12:03,280",718.08,723.28,5.199999999999932,"ML: diese bekannten Bilder, waren das solche Dinge?"
+162,"00:12:03,320","00:12:06,120",723.32,726.12,2.7999999999999545,"UF: Ich kann Ihnen das nicht genau sagen,"
+163,"00:12:06,160","00:12:09,240",726.16,729.24,3.080000000000041,weil sie nicht runtergeholt wurden.
+164,"00:12:09,280","00:12:13,560",729.28,733.56,4.279999999999973,"Wir gehen davon aus,"
+165,"00:12:13,600","00:12:19,840",733.6,739.84,6.240000000000009,dass wir da 2-3 m Flügelspannweite haben
+166,"00:12:19,880","00:12:23,440",739.88,743.44,3.560000000000059,"das Problem ist, eigentlich sollten wir darüber sagen,"
+167,"00:12:23,480","00:12:26,480",743.48,746.48,3.0,das haben wir runtergeholt und analysiert
+168,"00:12:26,520","00:12:30,680",746.52,750.68,4.159999999999968,und wir wissen deswegen von Roos kam.
+169,"00:12:30,720","00:12:36,920",750.72,756.92,6.199999999999932,"Das können wir nicht, weil sie wegfliegen."
+170,"00:12:36,960","00:12:51,920",756.96,771.92,14.959999999999923,ML: D. h. wir wissen sehr wenig.
+171,"00:12:51,960","00:12:57,400",771.96,777.4,5.439999999999941,"UF: wir sichten Drohnen, das sind keine technologischen Erkennungen."
+172,"00:12:57,440","00:13:01,080",777.44,781.08,3.6399999999999864,Sie schauen sich Sachen an und wir beschaffen es nicht
+173,"00:13:01,120","00:13:04,000",781.12,784.0,2.8799999999999955,sie zu bekämpfen.
+174,"00:13:04,040","00:13:09,200",784.04,789.2,5.160000000000082,"ML: Es gibt dieses interessantes Wort, Luftraumüberwachung"
+175,"00:13:09,240","00:13:12,600",789.24,792.6,3.3600000000000136,das klingt immer so als ob das jeder im Griff hätte
+176,"00:13:12,640","00:13:15,800",792.64,795.8,3.159999999999968,ist das so?
+177,"00:13:15,840","00:13:20,920",795.84,800.92,5.079999999999927,"UF: Nähe, dass es nicht so."
+178,"00:13:20,960","00:13:25,280",800.96,805.28,4.319999999999936,Wir haben glaubt eine falsche Auffassung vom Luftraum.
+179,"00:13:25,320","00:13:28,960",805.32,808.96,3.6399999999999864,Vor allem in dem Bereich von 0-100 m
+180,"00:13:29,000","00:13:35,280",809.0,815.28,6.279999999999973,das ist so ein Bereich der nicht überwacht wird.
+181,"00:13:35,320","00:13:39,920",815.32,819.92,4.599999999999909,Vor allem reden wir über vergleichbar kleine Systeme.
+182,"00:13:39,960","00:13:44,040",819.96,824.04,4.079999999999927,Der Radar ist für Flugzeuge eingestellt und nicht für Systeme
+183,"00:13:44,080","00:13:48,360",824.08,828.36,4.279999999999973,die nur ein paar Meter großen.
+184,"00:13:48,400","00:13:51,840",828.4,831.84,3.4400000000000546,ML: Sowie eine Alarmanlage die nicht losgehen sollen
+185,"00:13:51,880","00:13:53,640",831.88,833.64,1.759999999999991,wenn eine Fliege durchgeht.
+186,"00:13:53,680","00:13:57,040",833.68,837.04,3.3600000000000136,UF: deswegen gibt es spezifische Drohnentechnologie
+187,"00:13:57,080","00:14:02,240",837.08,842.24,5.159999999999968,aber die haben wir ehrlich gesagt nicht.
+188,"00:14:02,280","00:14:10,240",842.28,850.24,7.960000000000036,"Und das ist nicht verständlich, weil dieses Problem schon länger da ist."
+189,"00:14:10,280","00:14:17,600",850.28,857.6,7.32000000000005,"ML: Sie sagen da fliegen Hobbypiloten,"
+190,"00:14:17,640","00:14:25,000",857.64,865.0,7.360000000000014,"wir sind uns plötzlich sicher dass die Russen das sind, wo her?"
+191,"00:14:25,040","00:14:28,280",865.04,868.28,3.240000000000009,UF: Wir sind uns selten 100 % sicher.
+192,"00:14:28,320","00:14:32,760",868.32,872.76,4.439999999999941,Das Problem ist wir holen sie nicht vom Himmel.
+193,"00:14:32,800","00:14:38,040",872.8,878.04,5.240000000000009,Man kann ein Ausschlussverfahren machen.
+194,"00:14:38,080","00:14:44,360",878.08,884.36,6.279999999999973,"Kopenhagen ist ein Fall, wo es wirklich plausibel ist"
+195,"00:14:44,400","00:14:48,720",884.4,888.72,4.32000000000005,das mehrere Hobbypiloten stundenlang über einem Flughafen kreisen.
+196,"00:14:48,760","00:14:53,360",888.76,893.36,4.600000000000023,Große Systeme die offensichtlich stören wollen.
+197,"00:14:53,400","00:14:57,720",893.4,897.72,4.32000000000005,"Das muss nicht Russland sein, das wissen wir nicht sicher"
+198,"00:14:57,760","00:15:02,040",897.76,902.04,4.279999999999973,aber es ist ein fähiger Akteur.
+199,"00:15:02,080","00:15:06,600",902.08,906.6,4.519999999999982,"Und der Grund warum man nach Russland schaut ist, dass"
+200,"00:15:06,640","00:15:09,280",906.64,909.28,2.6399999999999864,es sich in eine längere Reihe von
+201,"00:15:09,320","00:15:15,040",909.32,915.04,5.719999999999914,Aktionen der hybriden Kriegsführung handelt.
+202,"00:15:15,080","00:15:20,600",915.08,920.6,5.519999999999982,Wir reden über Kabel in der Nord und Ostsee die durchtrennt werden.
+203,"00:15:20,640","00:15:24,200",920.64,924.2,3.560000000000059,Vieles davon ist eindeutig auf Russland zurückzuführen
+204,"00:15:24,240","00:15:33,760",924.24,933.76,9.519999999999982,vieles aber eben auch nicht.
+205,"00:15:33,800","00:15:37,480",933.8,937.48,3.6800000000000637,ML: Eine Drohne zu entdecken ist wahnsinnig schwer oder
+206,"00:15:37,520","00:15:41,760",937.52,941.76,4.240000000000009,vor allem der Pilot.
+207,"00:15:41,800","00:15:46,920",941.8,946.92,5.1200000000000045,UF: Die meisten Systeme brauchen eine Sichtverbindung
+208,"00:15:46,960","00:15:50,320",946.96,950.32,3.3600000000000136,also kann der Pilot nicht allzu weit entfernt sein.
+209,"00:15:50,360","00:15:56,360",950.36,956.36,6.0,"Je nachdem von welcher Drohne man spricht,"
+210,"00:15:56,400","00:15:58,480",956.4,958.48,2.080000000000041,manche werden von 200 m entfernt
+211,"00:15:58,520","00:16:05,760",958.52,965.76,7.240000000000009,und manche von 2 km entfernt geflogen.
+212,"00:16:05,800","00:16:08,440",965.8,968.44,2.6400000000001,"ML: Ich habe eine Geschichte gehört,"
+213,"00:16:08,480","00:16:14,000",968.48,974.0,5.519999999999982,durch ein Versehen ist ein russisches Video aufgetaucht
+214,"00:16:14,040","00:16:19,360",974.04,979.36,5.32000000000005,indem man sieht wie russische Drohnenpiloten
+215,"00:16:19,400","00:16:24,120",979.4,984.12,4.720000000000027,eine Drohne steuern die in der Ukrainer Menschen attackiert
+216,"00:16:24,160","00:16:35,960",984.16,995.96,11.800000000000068,man war überrascht dass das technisch offenbar geht.
+217,"00:16:36,000","00:16:41,720",996.0,1001.72,5.720000000000027,UF: Drohnen lassen sich je nach System unterschiedlich steuern.
+218,"00:16:41,760","00:16:48,640",1001.76,1008.64,6.8799999999999955,"Die Drohnendebatte fing mit den Amerikanern an,"
+219,"00:16:48,680","00:16:56,200",1008.68,1016.2,7.5200000000000955,die militärische Drohnen in Pakistan und so benutzt haben.
+220,"00:16:56,240","00:17:12,040",1016.24,1032.04,15.799999999999955,Diese Drohnen wurden gesteuert aus Nevada.
+221,"00:17:12,080","00:17:24,520",1032.08,1044.52,12.440000000000055,ML: einen dieser Drohnenpiloten hier sitzen.
+222,"00:17:24,560","00:17:28,160",1044.56,1048.16,3.6000000000001364,UF: Ein bisschen die Richtlinie ziehen je kleiner die Drohne des
+223,"00:17:28,200","00:17:29,920",1048.2,1049.92,1.7200000000000273,Sonnen näher ist der Pilot
+224,"00:17:29,960","00:17:33,760",1049.96,1053.76,3.7999999999999545,aber wir können normalerweise auch den Pilot nicht finden.
+225,"00:17:33,800","00:17:42,400",1053.8,1062.4,8.600000000000136,ML: Das ist ja ihr Thema Sascha Lobo.
+226,"00:17:42,440","00:17:45,440",1062.44,1065.44,3.0,SL: Meine erste intensivere Beschäftigung mit
+227,"00:17:45,480","00:17:46,760",1065.48,1066.76,1.2799999999999727,diesem Drohnenthema
+228,"00:17:46,800","00:17:53,080",1066.8,1073.08,6.279999999999973,kam nach den Veröffentlichungen von Edward Snowden.
+229,"00:17:53,120","00:17:57,400",1073.12,1077.4,4.2800000000002,Damals hatte eine Vielzahl von NSA Dokumenten öffentlich gemacht.
+230,"00:17:57,440","00:18:03,720",1077.44,1083.72,6.279999999999973,"Dadurch ist klar geworden,"
+231,"00:18:03,760","00:18:07,040",1083.76,1087.04,3.2799999999999727,dass Ton schon damals als Überwachungsinstrument
+232,"00:18:07,080","00:18:12,440",1087.08,1092.44,5.360000000000127,genutzt wurden und für so etwas wie Terror.
+233,"00:18:12,480","00:18:26,840",1092.48,1106.84,14.3599999999999,Aus dieser Perspektive das macht den Menschen Angst
+234,"00:18:26,880","00:18:31,240",1106.88,1111.24,4.3599999999999,UF: Psychologische Kriegsführung.
+235,"00:18:31,280","00:18:37,680",1111.28,1117.68,6.400000000000091,SL: Es gab sogar europäische Modelle.
+236,"00:18:37,720","00:18:40,960",1117.72,1120.96,3.240000000000009,Wo die Drohnenpiloten nur noch Klick machen mussten
+237,"00:18:41,000","00:18:50,440",1121.0,1130.44,9.440000000000055,und die Drohnen haben den Rest erledigt.
+238,"00:18:50,480","00:18:56,280",1130.48,1136.28,5.7999999999999545,Die Art und Weise wie das aus diesen Dokumenten erkennbar war
+239,"00:18:56,320","00:19:01,840",1136.32,1141.84,5.519999999999982,diese sehr intensive Verbindung aus Überwachung und Daten sammeln
+240,"00:19:01,880","00:19:10,920",1141.88,1150.92,9.039999999999964,und andererseits diese Schreckfunktion.
+241,"00:19:10,960","00:19:14,960",1150.96,1154.96,4.0,"Diese ist der Grund, warum die Drohnen Erscheinungen so gut"
+242,"00:19:15,000","00:19:18,280",1155.0,1158.28,3.2799999999999727,zu Putin passen.
+243,"00:19:18,320","00:19:22,000",1158.32,1162.0,3.6800000000000637,In dieser hybriden Kriegsführung wird die Öffentlichkeit
+244,"00:19:22,040","00:19:27,440",1162.04,1167.44,5.400000000000091,eine sehr wesentliche Rolle spielen.
+245,"00:19:27,480","00:19:31,120",1167.48,1171.12,3.6399999999998727,Mit so einer Drohne aus Russland kann ich gleichzeitig
+246,"00:19:31,160","00:19:32,800",1171.16,1172.8,1.6399999999998727,Infrastruktur aus checken
+247,"00:19:32,840","00:19:41,240",1172.84,1181.24,8.400000000000091,und ordentlich Angst in der Bevölkerung sehen.
+248,"00:19:41,280","00:19:44,040",1181.28,1184.04,2.759999999999991,"Diese Kombination lässt darauf schließen,"
+249,"00:19:44,080","00:19:47,240",1184.08,1187.24,3.160000000000082,dass es sich um russische Drogenhandel.
+250,"00:19:47,280","00:19:53,000",1187.28,1193.0,5.720000000000027,Genauso wie bestimmte Kommentare im Netz.
+251,"00:19:53,040","00:19:55,800",1193.04,1195.8,2.759999999999991,"Da muss man kein Medium sein um zu wissen,"
+252,"00:19:55,840","00:19:58,280",1195.84,1198.28,2.4400000000000546,dass das aus Russland kommen kann.
+253,"00:19:58,320","00:20:15,840",1198.32,1215.84,17.519999999999982,Die Wahrscheinlichkeit ist ziemlich hoch.
+254,"00:20:15,880","00:20:16,920",1215.88,1216.92,1.0399999999999636,"UF: Es stimmt,"
+255,"00:20:16,960","00:20:20,920",1216.96,1220.92,3.9600000000000364,dass man diese Drohnen fliegen Informationen sammeln können.
+256,"00:20:20,960","00:20:25,560",1220.96,1225.56,4.599999999999909,"Ich würde gar nicht sagen, dass das gesammelt werden soll."
+257,"00:20:25,600","00:20:31,560",1225.6,1231.56,5.960000000000036,"Sondern viel eher die Frage, ob die Drohnen entdeckt werden."
+258,"00:20:31,600","00:20:40,240",1231.6,1240.24,8.6400000000001,"Das ist die Information, die Russland damit sammeln kann."
+259,"00:20:40,280","00:20:44,080",1240.28,1244.08,3.7999999999999545,Diese Bilder und Videos von der kritischen Infrastruktur
+260,"00:20:44,120","00:20:48,680",1244.12,1248.68,4.560000000000173,"kann man auch mit Satelliten, ich denke nicht dass es essenziell ist."
+261,"00:20:48,720","00:20:52,080",1248.72,1252.08,3.3599999999999,"Können Sie uns entdecken und wenn ja was machen Sie,"
+262,"00:20:52,120","00:20:55,680",1252.12,1255.68,3.560000000000173,diese Information sind interessant.
+263,"00:20:55,720","00:21:00,000",1255.72,1260.0,4.279999999999973,SL: Es gibt noch einen anderen.
+264,"00:21:00,040","00:21:05,280",1260.04,1265.28,5.240000000000009,Und zwar die elektromagnetische Strahlung
+265,"00:21:05,320","00:21:09,560",1265.32,1269.56,4.240000000000009,"so eine Drohne kann mit einfachen Sensoren feststellen, was sind das"
+266,"00:21:09,600","00:21:12,800",1269.6,1272.8,3.2000000000000455,für Netzwerke sind die verschlüsselt?
+267,"00:21:12,840","00:21:17,120",1272.84,1277.12,4.279999999999973,ML: Was für Netzwerke?
+268,"00:21:17,160","00:21:26,480",1277.16,1286.48,9.319999999999936,"SL: Jedes Handy überträgt Daten,"
+269,"00:21:26,520","00:21:29,360",1286.52,1289.36,2.839999999999918,"ein paar Informationen kann man auslesen,"
+270,"00:21:29,400","00:21:35,080",1289.4,1295.08,5.679999999999836,auch wenn man nicht auf das Gerät zugreifen kann.
+271,"00:21:35,120","00:21:41,240",1295.12,1301.24,6.120000000000118,ML: Sie greifen über Drohnendaten ab?
+272,"00:21:41,280","00:21:47,160",1301.28,1307.16,5.880000000000109,SL: Mit meinem Smartphone sehe ich 27 WLAN zum Flughafen
+273,"00:21:47,200","00:21:55,960",1307.2,1315.96,8.759999999999991,das ist für die hybride Kriegsführung wahnsinnig
+274,"00:21:56,000","00:21:59,360",1316.0,1319.36,3.3599999999999,"interessant zu wissen, im Flughafen ist ein WLAN,"
+275,"00:21:59,400","00:22:01,520",1319.4,1321.52,2.119999999999891,aber dass es schlecht gesichert.
+276,"00:22:01,560","00:22:05,800",1321.56,1325.8,4.240000000000009,Das bedeutet im Zweifel könnte ich beim nächsten Mal spekulieren
+277,"00:22:05,840","00:22:08,040",1325.84,1328.04,2.2000000000000455,"das sich in dieses Netzwerk rein,."
+278,"00:22:08,080","00:22:15,320",1328.08,1335.32,7.240000000000009,Das sind Informationen die ich über eine Drohne aufsammeln kann.
+279,"00:22:15,360","00:22:18,920",1335.36,1338.92,3.560000000000173,ML: Dann macht das mit dem Flughafen auch Sinn abseits
+280,"00:22:18,960","00:22:26,760",1338.96,1346.76,7.7999999999999545,von dem Faktor Angst
+281,"00:22:26,800","00:22:37,400",1346.8,1357.4,10.600000000000136,"man fragt sicher immer, all das kann man aus dem Weltall auch sehen."
+282,"00:22:37,440","00:22:40,880",1357.44,1360.88,3.4400000000000546,"UF: ausfiel, es kommt ein bisschen darauf an, ich denke an Flughäfen"
+283,"00:22:40,920","00:22:45,280",1360.92,1365.28,4.3599999999999,"geht es tatsächlich sehr wenig darum zu sehen, was am Boden ist."
+284,"00:22:45,320","00:22:49,160",1365.32,1369.16,3.8400000000001455,"Es geht eher darum zuschauen, wie wird reagiert und man will vor allem"
+285,"00:22:49,200","00:22:51,080",1369.2,1371.08,1.8799999999998818,den Flugbetrieb stören.
+286,"00:22:51,120","00:23:03,040",1371.12,1383.04,11.920000000000073,"ML: Wie wird reagiert, im Sinne von was tun die jetzt."
+287,"00:23:03,080","00:23:06,760",1383.08,1386.76,3.6800000000000637,"UF: können die unsere Drohnen detektieren, wie schnell, haben sie"
+288,"00:23:06,800","00:23:09,920",1386.8,1389.92,3.1200000000001182,"Abwehrsysteme, wenn ja, welche und werden sie eingesetzt?"
+289,"00:23:09,960","00:23:12,120",1389.96,1392.12,2.1599999999998545,Momentan ist da die Antwort Nein.
+290,"00:23:12,160","00:23:18,720",1392.16,1398.72,6.559999999999945,"Das ist, denke ich die Hauptintention."
+291,"00:23:18,760","00:23:24,880",1398.76,1404.88,6.120000000000118,"CD: Gibt es da Länder, wo sie sagen würden, die haben das schon drauf?"
+292,"00:23:24,920","00:23:37,760",1404.92,1417.76,12.839999999999918,"UF: Es geht, man muss sagen,"
+293,"00:23:37,800","00:23:44,480",1417.8,1424.48,6.680000000000064,2018 war ein wichtiger Londoner Flughafen lahmgelegt wegen Drohnen
+294,"00:23:44,520","00:23:48,120",1424.52,1428.12,3.599999999999909,damals haben schon gesagt da muss mehr gemacht werden
+295,"00:23:48,160","00:23:49,840",1428.16,1429.84,1.6799999999998363,und es ist wenig passiert.
+296,"00:23:49,880","00:23:59,840",1429.88,1439.84,9.959999999999809,"Es gibt nicht dass wir sagen können, die sind besser."
+297,"00:23:59,880","00:24:05,040",1439.88,1445.04,5.1599999999998545,ML: Dafür die Spur zu Herr Serrao
+298,"00:24:05,080","00:24:14,960",1445.08,1454.96,9.88000000000011,"wie nehmen Sie das war, sind das Nebelkerzen?"
+299,"00:24:15,000","00:24:29,360",1455.0,1469.36,14.3599999999999,"MS: Also erst mal muss ich sagen, ich bin kein Drohnenexperte,"
+300,"00:24:29,400","00:24:31,240",1469.4,1471.24,1.8399999999999181,"ML: Vor allem wenn man hört, dass es bei uns seit zehn Jahren Thema ist."
+301,"00:24:31,280","00:24:34,600",1471.28,1474.6,3.3199999999999363,"ich habe nur mit großer Sorge Unerschrockenheit festgestellt, wie"
+302,"00:24:34,640","00:24:56,560",1474.64,1496.56,21.919999999999845,unvorbereitet Deutschland im Jahr 2025 auf das Thema Drohnen ist.
+303,"00:24:56,600","00:24:59,440",1496.6,1499.44,2.8400000000001455,"MS: Genau, die Polizei, die Bundespolizei,"
+304,"00:24:59,480","00:25:12,160",1499.48,1512.16,12.680000000000064,"das geht nur bis zum Kasernenzaun,"
+305,"00:25:12,200","00:25:14,640",1512.2,1514.64,2.4400000000000546,"es gibt Geräte, mit denen man die Drohnen stören"
+306,"00:25:14,680","00:25:17,800",1514.68,1517.8,3.119999999999891,"kann, die sind nicht so ausgereift, wie man es gerne hätte,"
+307,"00:25:17,840","00:25:28,160",1517.84,1528.16,10.320000000000164,"man steht einigermaßen hilflos da,"
+308,"00:25:28,200","00:25:30,760",1528.2,1530.76,2.5599999999999454,"bei einem Thema, das bei ungefähr zehn Jahren da ist."
+309,"00:25:30,800","00:25:33,200",1530.8,1533.2,2.400000000000091,"Als Bürger sage ich, es ist sehr wahrscheinlich,"
+310,"00:25:33,240","00:25:36,760",1533.24,1536.76,3.519999999999982,dass das russische Drohnen sind. Es passt einfach ins Bild. Unabhängig
+311,"00:25:36,800","00:25:40,240",1536.8,1540.24,3.4400000000000546,davon ob es russische Drohnen sind oder nicht will ich als Deutscher
+312,"00:25:40,280","00:25:46,760",1540.28,1546.76,6.480000000000018,"nicht, dass die den Luftraum über unseren Flughäfen stören."
+313,"00:25:46,800","00:25:50,440",1546.8,1550.44,3.6400000000001,"ML: Dass ich bestimmte ethische Fragen nicht stellen,"
+314,"00:25:50,480","00:25:53,560",1550.48,1553.56,3.0799999999999272,"wenn man ein Flugzeug abschießt sitzender Menschen drin,"
+315,"00:25:53,600","00:25:56,880",1553.6,1556.88,3.2800000000002,da fallen auch sehr große Teile runter im Fall. Bei einer Drohne
+316,"00:25:56,920","00:25:59,480",1556.92,1559.48,2.5599999999999454,"sitzt keiner drin. Deswegen die Frage,"
+317,"00:25:59,520","00:26:01,520",1559.52,1561.52,2.0,wie bekämpft man das am besten?
+318,"00:26:01,560","00:26:14,560",1561.56,1574.56,13.0,So viele Hemmungen muss es da nicht geben.
+319,"00:26:14,600","00:26:18,200",1574.6,1578.2,3.6000000000001364,"UF: Da sollte es gar keine Hemmungen geben, sie abzuschließen schon aber"
+320,"00:26:18,240","00:26:20,600",1578.24,1580.6,2.3599999999999,"sie runter zu holen nicht. Gerade an Flughäfen,"
+321,"00:26:20,640","00:26:28,520",1580.64,1588.52,7.879999999999882,"die Flughäfen stoppen nicht ihre Operationen einfach so,"
+322,"00:26:28,560","00:26:31,600",1588.56,1591.6,3.0399999999999636,"sondern weil das reale Gefahr für den Flugverkehr darstellt,"
+323,"00:26:31,640","00:26:34,800",1591.64,1594.8,3.1599999999998545,es gibt eine ganze Bandbreite von Möglichkeiten Drohnen auch im
+324,"00:26:34,840","00:26:51,680",1594.84,1611.68,16.840000000000146,"zivilen Kontext abzugrenzen, Drohnen mit Netzen zu fangen."
+325,"00:26:51,720","00:26:55,280",1611.72,1615.28,3.5599999999999454,"Es gibt im Notfall eben auch diese kinetischen Lösungen,"
+326,"00:26:55,320","00:26:58,360",1615.32,1618.36,3.0399999999999636,Drohnen abzuschließen.
+327,"00:26:58,400","00:27:01,960",1618.4,1621.96,3.5599999999999454,"Das will man im zivilen Raum nicht, weil alles was man abschließt kommt"
+328,"00:27:02,000","00:27:07,280",1622.0,1627.28,5.279999999999973,"auch wieder runter, das ist die letzte Möglichkeit."
+329,"00:27:07,320","00:27:11,720",1627.32,1631.72,4.400000000000091,Technologische Möglichkeiten bereits.
+330,"00:27:11,760","00:27:15,040",1631.76,1635.04,3.2799999999999727,Sie fusionieren nicht perfekt aber es gibt eine ganze Bandbreite.
+331,"00:27:15,080","00:27:18,640",1635.08,1638.64,3.560000000000173,"Momentan ist das Problem nicht, dass wir diese tollen Möglichkeiten haben"
+332,"00:27:18,680","00:27:22,640",1638.68,1642.64,3.9600000000000364,"und nicht funktionieren, sondern dass wir sie einfach nicht"
+333,"00:27:22,680","00:27:38,040",1642.68,1658.04,15.3599999999999,angeschafft haben.
+334,"00:27:38,080","00:27:40,440",1658.08,1660.44,2.3600000000001273,"Hätten wir da mehr getan wäre das ganz anders,"
+335,"00:27:40,480","00:27:43,720",1660.48,1663.72,3.240000000000009,warum wir das nicht getan haben ist glaube ich eine Mischung aus:
+336,"00:27:43,760","00:27:47,920",1663.76,1667.92,4.160000000000082,"es war nicht klar, wie man das angeht, es gab den wirtschaftlichen"
+337,"00:27:47,960","00:27:50,880",1667.96,1670.88,2.9200000000000728,"Druck nicht, es gab auch eine Frage danach,"
+338,"00:27:50,920","00:28:04,280",1670.92,1684.28,13.3599999999999,wer sie überhaupt zuständig?
+339,"00:28:04,320","00:28:07,120",1684.32,1687.12,2.7999999999999545,"ML: Wenn wir mal überlegen,"
+340,"00:28:07,160","00:28:10,520",1687.16,1690.52,3.3599999999999,wie lange haben wir diskutiert über die Bewaffnung
+341,"00:28:10,560","00:28:13,120",1690.56,1693.12,2.5599999999999454,und Leute sagen konstant einfach Nein.
+342,"00:28:13,160","00:28:15,640",1693.16,1695.64,2.480000000000018,Oder?
+343,"00:28:15,680","00:28:28,480",1695.68,1708.48,12.799999999999955,"CD: Es war verrückt ehrlicherweise, ich war damals auch Haushälter,"
+344,"00:28:28,520","00:28:30,560",1708.52,1710.56,2.0399999999999636,"es war 2017-2021, ich habe mich gefragt,"
+345,"00:28:30,600","00:28:44,080",1710.6,1724.08,13.480000000000018,warum geben wir Geld für Drohungen außer bewaffnen Sie nicht?
+346,"00:28:44,120","00:28:48,120",1724.12,1728.12,4.0,"Ein Land, was diese Drohnentechnik wirklich gut angegriffen"
+347,"00:28:48,160","00:28:51,240",1728.16,1731.24,3.0799999999999272,hat ist er Land. Wir sind auf Rüstungsgüter aus
+348,"00:28:51,280","00:29:02,280",1731.28,1742.28,11.0,Israel angewiesen. Die Antwort
+349,"00:29:02,320","00:29:05,400",1742.32,1745.4,3.0800000000001546,"lautet: wir brauchen bei der Bundeswehr mehr Personal,"
+350,"00:29:05,440","00:29:10,240",1745.44,1750.24,4.7999999999999545,"die Antwort der Politik muss sein,"
+351,"00:29:10,280","00:29:14,320",1750.28,1754.32,4.039999999999964,wir müssen es hinbekommen technologisch so in die Bundeswehr
+352,"00:29:14,360","00:29:19,960",1754.36,1759.96,5.600000000000136,"zu investieren,"
+353,"00:29:20,000","00:29:22,400",1760.0,1762.4,2.400000000000091,"dass sie das kann, natürlich auch in die innere"
+354,"00:29:22,440","00:29:26,000",1762.44,1766.0,3.5599999999999454,"Sicherheit, stattdessen werden diese Residenzdebatten immer ein bisschen"
+355,"00:29:26,040","00:29:29,160",1766.04,1769.16,3.1200000000001182,geführt wie: die jungen Menschen sollen mal anfangen Betten zu
+356,"00:29:29,200","00:29:35,880",1769.2,1775.88,6.680000000000064,falten. So kommen wir nicht zum Ziel.
+357,"00:29:35,920","00:29:46,800",1775.92,1786.8,10.879999999999882,SL: ich finde mich wahnsinnig ungern in der Position wie der frühere
+358,"00:29:46,840","00:29:53,320",1786.84,1793.32,6.480000000000018,diese ganze Drohnendebatte sei früher etwas anders aus.
+359,"00:29:53,360","00:29:57,040",1793.36,1797.04,3.6800000000000637,"Fachleute haben nicht damit gerechnet, wie schnell sich"
+360,"00:29:57,080","00:29:59,280",1797.08,1799.28,2.2000000000000455,dieser Krieg verwandelt
+361,"00:29:59,320","00:30:03,480",1799.32,1803.48,4.160000000000082,"ML: vielleicht können wir das kurz zeigen,"
+362,"00:30:03,520","00:30:10,440",1803.52,1810.44,6.920000000000073,es gibt Videos von Anschlägen auf Panzern.
+363,"00:30:10,480","00:30:22,440",1810.48,1822.44,11.960000000000036,Um klarzumachen wie präzise das geht und wie hilflos Soldaten sind.
+364,"00:30:22,480","00:30:31,520",1822.48,1831.52,9.039999999999964,"SL: Die andere wichtige Komponente ist, die künstliche Intelligenz."
+365,"00:30:31,560","00:30:35,480",1831.56,1835.48,3.9200000000000728,ML: das ist sozusagen die Entwicklung der Drohne.
+366,"00:30:35,520","00:30:40,320",1835.52,1840.32,4.7999999999999545,Das ist nicht der fliegende Rasenmäher
+367,"00:30:40,360","00:30:47,920",1840.36,1847.92,7.560000000000173,sondern unglaublich schnell und unglaublich viele.
+368,"00:30:47,960","00:30:49,840",1847.96,1849.84,1.8799999999998818,"Und die Vorstellung,"
+369,"00:30:49,880","00:30:53,440",1849.88,1853.44,3.5599999999999454,dass sowas hundertfach auf eine Großstadt runterkommt
+370,"00:30:53,480","00:30:58,520",1853.48,1858.52,5.039999999999964,macht mir Angst.
+371,"00:30:58,560","00:31:01,760",1858.56,1861.76,3.2000000000000455,SL: Die Drohnen Gefahr ist höher geworden durch
+372,"00:31:01,800","00:31:09,760",1861.8,1869.76,7.960000000000036,die künstliche Intelligenz.
+373,"00:31:09,800","00:31:17,560",1869.8,1877.56,7.759999999999991,"Die automatische Bilderkennung, da gab es so große Fortschritte"
+374,"00:31:17,600","00:31:21,920",1877.6,1881.92,4.320000000000164,"da sind die Fortschritte so viel schneller gewesen als erwartet,"
+375,"00:31:21,960","00:31:24,040",1881.96,1884.04,2.0799999999999272,dass die Bedrohung durch Drohnen
+376,"00:31:24,080","00:31:30,640",1884.08,1890.64,6.560000000000173,einfach zehn Jahre früher stattgefunden hat als gedacht.
+377,"00:31:30,680","00:31:33,800",1890.68,1893.8,3.119999999999891,"ML: Wenn man sich anschaut wie andere Staaten,"
+378,"00:31:33,840","00:31:35,320",1893.84,1895.32,1.4800000000000182,beispielsweise Russland
+379,"00:31:35,360","00:31:51,160",1895.36,1911.16,15.800000000000182,was ist das hier?
+380,"00:31:51,200","00:31:57,920",1911.2,1917.92,6.720000000000027,"UF: Ja, das ist genauso eine geronnen, das ist eine Variante"
+381,"00:31:57,960","00:32:01,480",1917.96,1921.48,3.519999999999982,"dieser Drohne, die Sie angesprochen haben, ursprünglich ein iranisches"
+382,"00:32:01,520","00:32:15,240",1921.52,1935.24,13.720000000000027,"System, es war schon ein Billigsystem. Eine Kamikaze-Drohne."
+383,"00:32:15,280","00:32:18,280",1935.28,1938.28,3.0,Die Russen sind in den Krieg gegangen und achten ergeht viel
+384,"00:32:18,320","00:32:21,480",1938.32,1941.48,3.160000000000082,"schneller, sie dachten sie gewinnen den Krieg mit 2000 Drohnen,"
+385,"00:32:21,520","00:32:24,240",1941.52,1944.24,2.7200000000000273,dass erschien damals gar nicht so wenig.
+386,"00:32:24,280","00:32:46,640",1944.28,1966.64,22.360000000000127,ML: Die gehen in den Krieg mit 2000 Drohnen?
+387,"00:32:46,680","00:32:49,800",1966.68,1969.8,3.119999999999891,"UF: Heute sind diese Zahlen lachhaft, sie mussten sich Anfang"
+388,"00:32:49,840","00:32:53,040",1969.84,1973.04,3.2000000000000455,"des Krieges dann relativ schnell an Partner wie den Iran wenden,"
+389,"00:32:53,080","00:32:56,360",1973.08,1976.36,3.2799999999999727,"was wir jetzt auf beiden Seiten sehen, Russland und Ukrainer, wir"
+390,"00:32:56,400","00:32:59,760",1976.4,1979.76,3.3599999999999,"haben Zahlen der Produktion der Drohnen, die wir nie gesehen haben."
+391,"00:32:59,800","00:33:02,760",1979.8,1982.76,2.9600000000000364,Jedes Jahr werden Millionen von Drohnen produziert. Das ist
+392,"00:33:02,800","00:33:06,720",1982.8,1986.72,3.9200000000000728,unglaublich. Demnächst werden wahrscheinlich 1000 Drohnen pro
+393,"00:33:06,760","00:33:08,400",1986.76,1988.4,1.6400000000001,Nacht produziert.
+394,"00:33:08,440","00:33:13,920",1988.44,1993.92,5.480000000000018,"ML: Mit was für einer Sprengkraft, wie muss man sich das vorstellen?"
+395,"00:33:13,960","00:33:17,080",1993.96,1997.08,3.119999999999891,"UF: Das sind eben genau diese Systeme, die haben mehrere Kilo"
+396,"00:33:17,120","00:33:28,600",1997.12,2008.6,11.480000000000018,"Sprengkraft, das ist eine Mischung aus Drohne und Bombe."
+397,"00:33:28,640","00:33:32,760",2008.64,2012.76,4.119999999999891,Im Krieg sind mittlerweile irgendwas zwischen 70 und 90 % der Toten an
+398,"00:33:32,800","00:33:35,160",2012.8,2015.16,2.3600000000001273,Drohnen gestorben.
+399,"00:33:35,200","00:33:39,120",2015.2,2019.12,3.9199999999998454,"ML: Wenn da jetzt 1000 Drohnen kommen in einer Nacht,"
+400,"00:33:39,160","00:33:57,920",2019.16,2037.92,18.75999999999999,"wo ist das System, was die abgefangen kann?"
+401,"00:33:57,960","00:34:00,400",2037.96,2040.4,2.4400000000000546,"UF: Man muss sagen, das Land in Europa der Welt,"
+402,"00:34:00,440","00:34:04,200",2040.44,2044.2,3.759999999999991,"das am besten daran ist Drohnen abzufangen ist Ukrainer,"
+403,"00:34:04,240","00:34:06,320",2044.24,2046.32,2.0799999999999272,die haben das gelernt.
+404,"00:34:06,360","00:34:10,720",2046.36,2050.72,4.3599999999999,"Die setzen ein Viel Teil der Mittel, die wir besprochen haben ein,"
+405,"00:34:10,760","00:34:12,440",2050.76,2052.44,1.6799999999998363,die schießen sie auch ab.
+406,"00:34:12,480","00:34:15,640",2052.48,2055.64,3.1599999999998545,"Sie waren eine Zeit lang wirklich extrem gut darin, darauf hat"
+407,"00:34:15,680","00:34:19,040",2055.68,2059.04,3.3600000000001273,"Russland reagiert mit, wir schicken einfach viel mehr, jetzt werden"
+408,"00:34:19,080","00:34:22,640",2059.08,2062.64,3.5599999999999454,"diese Flugabwehrsysteme auch einfach überfordert, nicht mehr zwölf oder"
+409,"00:34:22,680","00:34:25,560",2062.68,2065.56,2.880000000000109,15 durchkommen sondern 100. Nun
+410,"00:34:25,600","00:34:29,760",2065.6,2069.76,4.160000000000309,"ML: Das ist ja immer das Thema, man schickt so viele Drohnen,"
+411,"00:34:29,800","00:34:34,320",2069.8,2074.32,4.519999999999982,dass die Luftabwehr übersättigt ist und dann schickt man die Rakete
+412,"00:34:34,360","00:34:38,160",2074.36,2078.16,3.799999999999727,hinterher.
+413,"00:34:38,200","00:34:41,640",2078.2,2081.64,3.4400000000000546,"UF: Großmann schickt Drohnen in die Ukrainer, die erst mal gar nicht"
+414,"00:34:41,680","00:34:48,360",2081.68,2088.36,6.680000000000291,"bewaffnet sind, es gibt Varianten,"
+415,"00:34:48,400","00:34:51,320",2088.4,2091.32,2.9200000000000728,"die nicht bewaffnet sind, das sind auch die die nach Polen"
+416,"00:34:51,360","00:34:54,240",2091.36,2094.24,2.8799999999996544,"geflogen sind, die sind ein Lockvogel, die sollen nur die"
+417,"00:34:54,280","00:34:58,640",2094.28,2098.64,4.359999999999673,"Aufmerksamkeit der Flugabwehr auf sich lenken, danach schickt man"
+418,"00:34:58,680","00:35:08,560",2098.68,2108.56,9.88000000000011,bewaffnete.
+419,"00:35:08,600","00:35:12,200",2108.6,2112.2,3.599999999999909,"Insofern kann man auch nicht sagen, werden 2023 100.000 Drohnen vom Typ"
+420,"00:35:12,240","00:35:14,000",2112.24,2114.0,1.7600000000002183,"A anschaffen sollen, die wären heute"
+421,"00:35:14,040","00:35:22,400",2114.04,2122.4,8.360000000000127,schon wieder obsolet. Man muss an dieser Innovation dranbleiben.
+422,"00:35:22,440","00:35:26,040",2122.44,2126.04,3.599999999999909,"ML: Was noch mal klarmacht,"
+423,"00:35:26,080","00:35:30,120",2126.08,2130.12,4.039999999999964,wie schwer es ist zu definieren wofür man die 100 Milliarden
+424,"00:35:30,160","00:35:31,960",2130.16,2131.96,1.800000000000182,in der Verteidigung ausgibt.
+425,"00:35:32,000","00:35:42,320",2132.0,2142.32,10.320000000000164,Was ist die Waffe der Zukunft?
+426,"00:35:42,360","00:35:45,920",2142.36,2145.92,3.5599999999999454,SL: Ich möchte nicht so des Tobisch klingen aber diese Drohnen die wir
+427,"00:35:45,960","00:35:49,440",2145.96,2149.44,3.480000000000018,"gesehen haben, die sind aus KI und digitaler Perspektive, mit der ich"
+428,"00:35:49,480","00:35:53,520",2149.48,2153.52,4.039999999999964,"mich beschäftigt habe einen Scherz im Vergleich zu dem, was China"
+429,"00:35:53,560","00:36:08,840",2153.56,2168.84,15.2800000000002,"gerade macht,"
+430,"00:36:08,880","00:36:10,800",2168.88,2170.8,1.9200000000000728,"das klassische chinesische Feuerwerk,"
+431,"00:36:10,840","00:36:13,680",2170.84,2173.68,2.8399999999996908,"diese wunderschönen Dinge, die sind inzwischen praktisch"
+432,"00:36:13,720","00:36:16,880",2173.72,2176.88,3.1600000000003092,"ersetzt worden durch chinesische Synchrondrohnenflüge,"
+433,"00:36:16,920","00:36:20,520",2176.92,2180.52,3.599999999999909,wo Tausende Drohnen wunderschöne
+434,"00:36:20,560","00:36:22,760",2180.56,2182.76,2.200000000000273,"Muster und Bewegungen in den Himmel zaubern,"
+435,"00:36:22,800","00:36:25,040",2182.8,2185.04,2.2399999999997817,"das wird weltweit verbreitet, soziale Medien,"
+436,"00:36:25,080","00:36:29,040",2185.08,2189.04,3.9600000000000364,das ist natürlich wunderbar aber das kann natürlich auch militärisch
+437,"00:36:29,080","00:36:35,400",2189.08,2195.4,6.320000000000164,verwendet werden.
+438,"00:36:35,440","00:36:50,880",2195.44,2210.88,15.440000000000055,ML: Wie sehen Sie das Frau Franke?
+439,"00:36:50,920","00:36:53,040",2210.92,2213.04,2.119999999999891,"UF: Ich würde sagen, wir machen das auch,"
+440,"00:36:53,080","00:36:57,440",2213.08,2217.44,4.360000000000127,in London über der Tower Bridge war genau dasselbe zu sehen.
+441,"00:36:57,480","00:37:01,040",2217.48,2221.04,3.5599999999999454,"Das kann man leider von außen nicht sehen, wie viel KI und Autonomie ist"
+442,"00:37:01,080","00:37:04,360",2221.08,2224.36,3.2800000000002,da drin und wie sehr sind das einfach vorprogrammierte Punkte die
+443,"00:37:04,400","00:37:23,440",2224.4,2243.44,19.039999999999964,"da eingespeist werden, natürlich gibt es diese Entwicklung,"
+444,"00:37:23,480","00:37:25,760",2243.48,2245.76,2.2800000000002,"in die Autonomie und Künstliche Intelligenz,"
+445,"00:37:25,800","00:37:28,200",2245.8,2248.2,2.399999999999636,"gleichzeitig sehen wir in der Ukrainer momentan,"
+446,"00:37:28,240","00:37:31,320",2248.24,2251.32,3.080000000000382,dass sie technische Entwicklung sich nicht immer so geradlinig
+447,"00:37:31,360","00:37:34,880",2251.36,2254.88,3.519999999999982,"entwickelt, wir haben jetzt Drohnen und Panzer mit Glasfaserkabeln dran,"
+448,"00:37:34,920","00:37:39,520",2254.92,2259.52,4.599999999999909,"wieso, weil die dann nicht so editierbar sind."
+449,"00:37:39,560","00:38:01,880",2259.56,2281.88,22.320000000000164,ML: das wirkt so oldschool ist aber wahnsinnig effizient oder?
+450,"00:38:01,920","00:38:05,480",2281.92,2285.48,3.5599999999999454,"UF: Das wirkt wahnsinnig Gold cool, ich hatte direkt den Gedanken,"
+451,"00:38:05,520","00:38:08,400",2285.52,2288.4,2.880000000000109,"im Zweiten Weltkrieg hatten die Deutschen eine Boden Drohne,"
+452,"00:38:08,440","00:38:10,040",2288.44,2290.04,1.599999999999909,"die so ähnlich war, diese Bilder,"
+453,"00:38:10,080","00:38:12,840",2290.08,2292.84,2.7600000000002183,wo man Tausende dieser Glasfaserkabel über den Feldern
+454,"00:38:12,880","00:38:16,120",2292.88,2296.12,3.2399999999997817,"sieht, diese Entwicklung hätte glaube ich niemand so vorhergesehen,"
+455,"00:38:16,160","00:38:22,040",2296.16,2302.04,5.880000000000109,"das wird aber genutzt, weil es halt funktioniert."
+456,"00:38:22,080","00:38:26,200",2302.08,2306.2,4.119999999999891,"ML: Ich würde gerne Sascha Lobo fragen, KI ist letzten Endes"
+457,"00:38:26,240","00:38:28,400",2306.24,2308.4,2.1600000000003092,"Wahrscheinlichkeitsberechnung,"
+458,"00:38:28,440","00:38:31,680",2308.44,2311.68,3.2399999999997817,was ist die wahrscheinlichste Antwort auf die Frage
+459,"00:38:31,720","00:38:32,800",2311.72,2312.8,1.080000000000382,die gegeben wird.
+460,"00:38:32,840","00:38:35,920",2312.84,2315.92,3.0799999999999272,"Man könnte die KI auf eine falsche Fährte locken,"
+461,"00:38:35,960","00:38:38,040",2315.96,2318.04,2.0799999999999272,macht man das?
+462,"00:38:38,080","00:38:42,560",2318.08,2322.56,4.480000000000018,"SL: Das macht man, das ist eine Riesen Problem, das noch gar nicht"
+463,"00:38:42,600","00:38:44,520",2322.6,2324.52,1.9200000000000728,gelöst ist.
+464,"00:38:44,560","00:39:20,760",2324.56,2360.76,36.20000000000027,ML:Also das vergiften von Daten.
+465,"00:39:20,800","00:39:23,480",2360.8,2363.48,2.6799999999998363,"SL: Wenn wir bis jetzt von Fake News gesprochen haben,"
+466,"00:39:23,520","00:39:25,680",2363.52,2365.68,2.1599999999998545,bei der ersten Wahl von Donald Trump hat man
+467,"00:39:25,720","00:39:28,520",2365.72,2368.52,2.800000000000182,"sehr viel davon gehört, mit Data Poisoning haben wir die"
+468,"00:39:28,560","00:39:31,800",2368.56,2371.8,3.2400000000002365,"neue Version von Fake News. ChatGPT ist nicht mal drei Jahre alt,"
+469,"00:39:31,840","00:39:35,080",2371.84,2375.08,3.2399999999997817,innerhalb von nicht mal drei Jahren ist es zu einer so wichtigen
+470,"00:39:35,120","00:39:38,240",2375.12,2378.24,3.119999999999891,"Entscheidungsinstanz geworden, es gibt intensive Beschäftigung"
+471,"00:39:38,280","00:39:41,760",2378.28,2381.76,3.480000000000018,mit künstlicher Intelligenz. Natürlich muss diese künstliche
+472,"00:39:41,800","00:39:43,080",2381.8,2383.08,1.2799999999997453,Intelligenz viel lernen.
+473,"00:39:43,120","00:39:46,920",2383.12,2386.92,3.800000000000182,"Wie es auf aktuelle Fragen antworten soll, wer hat jetzt zum Beispiel"
+474,"00:39:46,960","00:40:02,360",2386.96,2402.36,15.400000000000091,schuld am Ukraine Krieg?
+475,"00:40:02,400","00:40:06,040",2402.4,2406.04,3.6399999999998727,"Wie man jetzt dieses Konzept benutzen kann, man vergiftet"
+476,"00:40:06,080","00:40:13,400",2406.08,2413.4,7.320000000000164,die Daten dieser Systeme.
+477,"00:40:13,440","00:40:24,440",2413.44,2424.44,11.0,Mit russischen narrativen werden die Systeme gefüttert
+478,"00:40:24,480","00:40:30,920",2424.48,2430.92,6.440000000000055,das ist gelungen.
+479,"00:40:30,960","00:40:41,320",2430.96,2441.32,10.360000000000127,"2025 gab es eine Untersuchung von verschiedenen Firmen,"
+480,"00:40:41,360","00:40:44,280",2441.36,2444.28,2.9200000000000728,"die festgestellt haben, dass in einer überraschend großen"
+481,"00:40:44,320","00:40:47,720",2444.32,2447.72,3.399999999999636,Zahl bei den wichtigen Fragen an die künstliche Intelligenz plötzlich
+482,"00:40:47,760","00:40:51,280",2447.76,2451.28,3.519999999999982,"mehr oder weniger kritiklos Links zu diesem Netzwerk auftauchen, die"
+483,"00:40:51,320","00:40:54,440",2451.32,2454.44,3.119999999999891,diese russischen Datenvergiftungsseiten verlinken.
+484,"00:40:54,480","00:41:01,760",2454.48,2461.76,7.2800000000002,Und russische narrative über den Ukraine Krieg übernommen wird.
+485,"00:41:01,800","00:41:05,080",2461.8,2465.08,3.2799999999997453,Die Russen haben also ihre narrative dareingepackt
+486,"00:41:05,120","00:41:17,120",2465.12,2477.12,12.0,und das wird verbreitet.
+487,"00:41:17,160","00:41:21,560",2477.16,2481.56,4.400000000000091,"Dieses Prinzip heißt Data poisoning, das können wir noch nicht gut"
+488,"00:41:21,600","00:41:23,840",2481.6,2483.84,2.2400000000002365,verteidigen.
+489,"00:41:23,880","00:41:27,200",2483.88,2487.2,3.319999999999709,"ML: Und das könnte man auch anwenden auf Drohnen,"
+490,"00:41:27,240","00:41:30,880",2487.24,2490.88,3.6400000000003274,wenn die selbst ständig losfliegen und bestimmte Dinge
+491,"00:41:30,920","00:41:33,320",2490.92,2493.32,2.400000000000091,detektieren sollen?
+492,"00:41:33,360","00:41:53,760",2493.36,2513.76,20.40000000000009,"SL: Das ist ein Technologiekomplex, hinter dem sich sehr viel verbirgt,"
+493,"00:41:53,800","00:41:57,120",2513.8,2517.12,3.319999999999709,in dem großen Bereich hybride Kriegsführung gäbe es eine Vielzahl
+494,"00:41:57,160","00:42:00,520",2517.16,2520.52,3.3600000000001273,"von Möglichkeiten Kis zu verwirren, überall dort wo Daten gesammelt"
+495,"00:42:00,560","00:42:05,160",2520.56,2525.16,4.599999999999909,werden. Überall dort können diese Daten vergiftet werden.
+496,"00:42:05,200","00:42:08,760",2525.2,2528.76,3.5600000000004,"ML: Frau Franke, es gibt beeindruckende Videos,"
+497,"00:42:08,800","00:42:12,040",2528.8,2532.04,3.2399999999997817,"wenn man sich mal anschaut was Drohnen so können,"
+498,"00:42:12,080","00:42:15,960",2532.08,2535.96,3.880000000000109,wo geht die Reise hin also was ist die nächste Entwicklung?
+499,"00:42:16,000","00:42:21,280",2536.0,2541.28,5.2800000000002,70 % aller Toten in der Ukrainer gehen auf das Konto von Drohnen.
+500,"00:42:21,320","00:42:24,440",2541.32,2544.44,3.119999999999891,Auch weit hinter der Frontlinie ist es unglaublich gefährlich.
+501,"00:42:24,480","00:42:27,760",2544.48,2547.76,3.2800000000002,Das war ja mal ein Abstand von ein paar Kilometern.
+502,"00:42:27,800","00:42:33,440",2547.8,2553.44,5.639999999999873,Weil man auch dort nicht sicher sein kann vor Drohnen.
+503,"00:42:33,480","00:42:44,360",2553.48,2564.36,10.88000000000011,"UF: Wo geht die Reise hin, es gibt einmal diesen Aspekt"
+504,"00:42:44,400","00:42:47,600",2564.4,2567.6,3.199999999999818,"mehr Autonomie, thronen die Sachen selber tun können. Das Thema"
+505,"00:42:47,640","00:42:51,120",2567.64,2571.12,3.480000000000018,"Schwärme ist ganz weit oben auf der Liste der Dinge, die wir erwarten,"
+506,"00:42:51,160","00:42:53,360",2571.16,2573.36,2.200000000000273,"wirklich eine Anzahl von Drohnen,"
+507,"00:42:53,400","00:42:58,880",2573.4,2578.88,5.480000000000018,"die fliegen wie, als eins, wie ein Vogelschwarm."
+508,"00:42:58,920","00:43:19,800",2578.92,2599.8,20.88000000000011,"Es gibt einen Punkt, der mir schon wichtig ist."
+509,"00:43:19,840","00:43:22,960",2599.84,2602.96,3.119999999999891,"Wir sehen den Krieg teilweise als ein Buch der Kriegsführung,"
+510,"00:43:23,000","00:43:25,640",2603.0,2605.64,2.6399999999998727,"das ist er natürlich nicht, das ist die Gegenwart der"
+511,"00:43:25,680","00:43:28,280",2605.68,2608.28,2.600000000000364,"Kriegsführung, fast schon die Vergangenheit."
+512,"00:43:28,320","00:43:31,720",2608.32,2611.72,3.399999999999636,"Man darf nicht denken, dass alles, was wir in der Ukrainerin sehen,"
+513,"00:43:31,760","00:43:37,440",2611.76,2617.44,5.679999999999836,in Zukunft auch so aus sehen wird.
+514,"00:43:37,480","00:43:39,440",2617.48,2619.44,1.9600000000000364,"Die Zahl der Drohnen, denke ich nicht,"
+515,"00:43:39,480","00:43:44,200",2619.48,2624.2,4.7199999999998,dass das in einem anderen Konflikt zwangsläufig auch so aussehen wird.
+516,"00:43:44,240","00:43:48,520",2624.24,2628.52,4.2800000000002,Das hat viel mit der Topographie des Gebiets zu tun.
+517,"00:43:48,560","00:43:53,080",2628.56,2633.08,4.519999999999982,In einem anderen Kontext könnte das schon anders aussehen.
+518,"00:43:53,120","00:43:56,880",2633.12,2636.88,3.7600000000002183,"Ich wäre vorsichtig das zu sagen, dass das immer nach oben geht, das"
+519,"00:43:56,920","00:43:59,760",2636.92,2639.76,2.8400000000001455,wird es nicht zwangsläufig.
+520,"00:43:59,800","00:44:13,040",2639.8,2653.04,13.239999999999782,Wir müssen uns aber auf jeden Fall mit der Drohnenabwehr beschäftigen.
+521,"00:44:13,080","00:44:17,080",2653.08,2657.08,4.0,"ML: Aber die die die Drohnen steuern, ich erinnere mich an"
+522,"00:44:17,120","00:44:19,600",2657.12,2659.6,2.480000000000018,ein Gespräch mit einem Drohnen Piloten
+523,"00:44:19,640","00:44:22,840",2659.64,2662.84,3.200000000000273,"der war sehr sicher, dass er nicht gekriegt wird."
+524,"00:44:22,880","00:44:30,320",2662.88,2670.32,7.440000000000055,Jetzt werden immer mehr von diesen Leuten erwischt.
+525,"00:44:30,360","00:44:44,080",2670.36,2684.08,13.7199999999998,"UF: Büros gerade in der Ukrainer gab es damals dieses narrativ,"
+526,"00:44:44,120","00:44:47,240",2684.12,2687.24,3.119999999999891,"des Schreibtischkriegers, der im klimatisierten Raum in Nevada"
+527,"00:44:47,280","00:44:50,160",2687.28,2690.16,2.8799999999996544,"sitzt und Drohnen fliegt, das war in der Ukrainer nie der"
+528,"00:44:50,200","00:44:53,360",2690.2,2693.36,3.1600000000003092,"Fall, sie waren immer nah dran, gerade Drohnenpiloten werden am"
+529,"00:44:53,400","00:44:56,840",2693.4,2696.84,3.4400000000000546,"meisten bekämpft und angegriffen, man findet die jetzt auch. Die Idee,"
+530,"00:44:56,880","00:45:00,760",2696.88,2700.76,3.880000000000109,"dass sie sicherer sind, weil sie weiter weg sind das stimmt so"
+531,"00:45:00,800","00:45:08,520",2700.8,2708.52,7.7199999999998,eigentlich nicht.
+532,"00:45:08,560","00:45:12,480",2708.56,2712.48,3.9200000000000728,"ML: Ganz kurz die Frage der Bekämpfung, wie macht man das?"
+533,"00:45:12,520","00:45:14,440",2712.52,2714.44,1.9200000000000728,"Es geht darum diese Schwärme,"
+534,"00:45:14,480","00:45:19,000",2714.48,2719.0,4.519999999999982,"man muss sicherstellen dass nicht jeder Schuss 100.000 Dollar kostet,"
+535,"00:45:19,040","00:45:35,760",2719.04,2735.76,16.720000000000255,dann bist du schnell bankrott.
+536,"00:45:35,800","00:45:39,240",2735.8,2739.24,3.4399999999996,"UF: Das ist ein Problem, in dem Moment wo man abschließt kostet der"
+537,"00:45:39,280","00:45:42,280",2739.28,2742.28,3.0,"einzelne Schuss relativ viel, zu beziffern ist es schwierig,"
+538,"00:45:42,320","00:45:45,600",2742.32,2745.6,3.2799999999997453,"weil es immer darauf ankommt, es kostet vielleicht 1000 vielleicht"
+539,"00:45:45,640","00:45:47,960",2745.64,2747.96,2.3200000000001637,10.000 vielleicht 100.000 pro Abschuss. Was man
+540,"00:45:48,000","00:45:51,200",2748.0,2751.2,3.199999999999818,braucht im militärischen sind Systeme wohl nicht
+541,"00:45:51,240","00:45:55,160",2751.24,2755.16,3.9200000000000728,jeder Abschuss so teuer ist.
+542,"00:45:55,200","00:45:58,120",2755.2,2758.12,2.9200000000000728,"Da kommt der Gepard wieder ins Spiel, das System,"
+543,"00:45:58,160","00:46:10,920",2758.16,2770.92,12.760000000000218,was Deutschland 2010 ausgeweitet hat.
+544,"00:46:10,960","00:46:13,920",2770.96,2773.92,2.9600000000000364,"Es geht immer darum, was schütze ich damit,"
+545,"00:46:13,960","00:46:20,120",2773.96,2780.12,6.1599999999998545,ist es das Krankenhaus oder so.
+546,"00:46:20,160","00:46:24,520",2780.16,2784.52,4.360000000000127,"Das kann nicht die Zukunft sein, als diese 19 Drohnen über Polen"
+547,"00:46:24,560","00:46:27,040",2784.56,2787.04,2.480000000000018,"kamen,"
+548,"00:46:27,080","00:46:30,360",2787.08,2790.36,3.2800000000002,"dass die NATO die Drohnen mit Kampfflugzeugen abschießen mussten,"
+549,"00:46:30,400","00:46:35,120",2790.4,2795.12,4.7199999999998,das ist schön und gut aber das ist keine langfristige Lösung.
+550,"00:46:35,160","00:46:37,840",2795.16,2797.84,2.680000000000291,"ML: soll d. h. wenn Friedrich Merz sagt,"
+551,"00:46:37,880","00:46:41,520",2797.88,2801.52,3.6399999999998727,"wir sind noch nicht im Krieg und nicht mehr im Frieden,"
+552,"00:46:41,560","00:46:45,600",2801.56,2805.6,4.039999999999964,hat er dann recht?
+553,"00:46:45,640","00:46:58,240",2805.64,2818.24,12.599999999999909,UF: Ich würde ja sagen.
+554,"00:46:58,280","00:47:00,640",2818.28,2820.64,2.3599999999996726,"Das ist etwas, was die europäische Gesellschaft"
+555,"00:47:00,680","00:47:03,200",2820.68,2823.2,2.519999999999982,"viel mehr verstehen muss, wir sind in der hybriden"
+556,"00:47:03,240","00:47:06,720",2823.24,2826.72,3.480000000000018,"Kriegsführung, Russland ist da auch relativ offen, es lässt sich sehr"
+557,"00:47:06,760","00:47:10,280",2826.76,2830.28,3.519999999999982,"viel nach Russland zurückverfolgen, es ist zwar kein Krieg, es ist aber"
+558,"00:47:10,320","00:47:18,000",2830.32,2838.0,7.679999999999836,"nicht der Frieden, den wir aus den neunzigern kennen."
+559,"00:47:18,040","00:47:22,360",2838.04,2842.36,4.320000000000164,"ML: Und dann kommt Herr Serrao, er sagt ihn treibt der Satz um:"
+560,"00:47:22,400","00:47:26,400",2842.4,2846.4,4.0,Die Unwilligkeit von Eltern ihre Kinder als Soldaten zu sehen
+561,"00:47:26,440","00:47:31,400",2846.44,2851.4,4.960000000000036,"die eventuell geopfert werden, dieser Wille dieses Opfer zu bringen tut weh"
+562,"00:47:31,440","00:47:36,160",2851.44,2856.16,4.7199999999998,Warum treibt sie dieser Satz um?
+563,"00:47:36,200","00:47:39,280",2856.2,2859.28,3.080000000000382,"MS: Ja, weil, das was da bemüht wird, den Willen das Volk zu"
+564,"00:47:39,320","00:47:45,440",2859.32,2865.44,6.119999999999891,verteidigen wird jetzt quasi auf die nächste Generation übertragen.
+565,"00:47:45,480","00:48:05,480",2865.48,2885.48,20.0,Seid bereit eure Kinder zu opfern ist die Message.
+566,"00:48:05,520","00:48:09,200",2885.52,2889.2,3.6799999999998363,"Was mich erschrocken hat, ist, dass es bedeutet selbst"
+567,"00:48:09,240","00:48:16,600",2889.24,2896.6,7.360000000000127,risikobereit zu sein.
+568,"00:48:16,640","00:48:20,160",2896.64,2900.16,3.519999999999982,"Es gibt viele Leute, die sich gerade sehr martialisch äußern und diese"
+569,"00:48:20,200","00:48:39,080",2900.2,2919.08,18.88000000000011,"Kriegstüchtigkeit beschwören, die, die sich besonders martialisch"
+570,"00:48:39,120","00:48:42,560",2919.12,2922.56,3.4400000000000546,"formulieren sind die Leute, die nicht selbst an die Front müssen und"
+571,"00:48:42,600","00:48:45,960",2922.6,2925.96,3.3600000000001273,auch keine Kinder haben. Als Vater sage ich: Nein.
+572,"00:48:46,000","00:48:48,520",2926.0,2928.52,2.519999999999982,"Ich habe nicht die Opferbereitschaft,"
+573,"00:48:48,560","00:48:50,240",2928.56,2930.24,1.6799999999998363,"ich Maße mir gar nicht an,"
+574,"00:48:50,280","00:49:01,080",2930.28,2941.08,10.799999999999727,zu sagen: meine Kinder gebe ich her.
+575,"00:49:01,120","00:49:03,160",2941.12,2943.16,2.0399999999999636,"Wenn die Kriegstechnologie dahin führt,"
+576,"00:49:03,200","00:49:06,720",2943.2,2946.72,3.519999999999982,"dass Drohnen immer wichtiger werden, wenn sie auch für Vielzahl der Opfer"
+577,"00:49:06,760","00:49:10,280",2946.76,2950.28,3.519999999999982,"verantwortlich sind, wie sehr gibt es dann noch den Personalbedarf für"
+578,"00:49:10,320","00:49:14,880",2950.32,2954.88,4.559999999999945,die Soldaten. Braucht es die?
+579,"00:49:14,920","00:49:18,320",2954.92,2958.32,3.400000000000091,UF: Irgendwer muss die Drohne natürlich auch fliegen.
+580,"00:49:18,360","00:49:22,440",2958.36,2962.44,4.079999999999927,"Zum einen wäre natürlich meine Antwort, es ist nur ein Aspekt der"
+581,"00:49:22,480","00:49:26,160",2962.48,2966.16,3.6799999999998363,Kriegsführung aber auch Technologie muss bedient werden.
+582,"00:49:26,200","00:49:32,840",2966.2,2972.84,6.640000000000327,"Und wenn man es sich historisch anschaut,"
+583,"00:49:32,880","00:49:34,320",2972.88,2974.32,1.4400000000000546,"es ist sehr selten,"
+584,"00:49:34,360","00:49:39,960",2974.36,2979.96,5.599999999999909,dass eine neue Technologie komplett eine alte ersetzt.
+585,"00:49:40,000","00:49:42,840",2980.0,2982.84,2.8400000000001455,"Oder eine neue Technologie die dazu führt,"
+586,"00:49:42,880","00:49:45,120",2982.88,2985.12,2.2399999999997817,dass man weniger Menschen braucht.
+587,"00:49:45,160","00:49:52,000",2985.16,2992.0,6.8400000000001455,Es ist meistens obendrauf.
+588,"00:49:52,040","00:49:55,160",2992.04,2995.16,3.119999999999891,"Der nächste Krieg mag mit Satelliten anfangen,"
+589,"00:49:55,200","00:50:05,000",2995.2,3005.0,9.800000000000182,"aber man muss sich im Klaren sein,"
+590,"00:50:05,040","00:50:11,680",3005.04,3011.68,6.639999999999873,dass Krieg im Normalfall mit Soldaten im Schützengraben endet.
+591,"00:50:11,720","00:50:13,960",3011.72,3013.96,2.2400000000002365,"Das müssen wir uns bewusst machen,"
+592,"00:50:14,000","00:50:17,680",3014.0,3017.68,3.6799999999998363,wenn wir uns über Technologie in der Kriegsführung reden.
+593,"00:50:17,720","00:50:39,120",3017.72,3039.12,21.40000000000009,Als ob das abgekoppelt sei von dieser Realität.
+594,"00:50:39,160","00:50:41,920",3039.16,3041.92,2.7600000000002183,"ML: Das ist das große Paradoxon am Krieg der Ukrainer,"
+595,"00:50:41,960","00:50:45,240",3041.96,3045.24,3.2799999999997453,oben hat man die ganzen Drohnen und unten hat man
+596,"00:50:45,280","00:50:46,920",3045.28,3046.92,1.6399999999998727,die Schützengräben usw.
+597,"00:50:46,960","00:50:51,720",3046.96,3051.72,4.7599999999997635,"UF: Panzer sperren, das ist mir aus NRW noch einen Begriff."
+598,"00:50:51,760","00:51:05,280",3051.76,3065.28,13.519999999999982,"ML: D. h., es ist im Grunde beides?"
+599,"00:51:05,320","00:51:08,960",3065.32,3068.96,3.6399999999998727,"UF:Es ist gar nicht so untypisch, man benutzt was man hat."
+600,"00:51:09,000","00:51:12,040",3069.0,3072.04,3.0399999999999636,Diese neue Technologie kommt meistens nur obendrüber und
+601,"00:51:12,080","00:51:29,880",3072.08,3089.88,17.800000000000182,zusätzlich aber ersetzt nicht unbedingt.
+602,"00:51:29,920","00:51:32,680",3089.92,3092.68,2.7599999999997635,"ML: Gibt denen, die Leute die in den Krieg geschickt"
+603,"00:51:32,720","00:51:36,440",3092.72,3096.44,3.7200000000002547,"werden das Gefühl, dass alles sauber läuft."
+604,"00:51:36,480","00:51:45,800",3096.48,3105.8,9.320000000000164,"Dieser Pilot, der aus Ramstein übrigens steuert, der war fertig."
+605,"00:51:45,840","00:51:49,960",3105.84,3109.96,4.119999999999891,"Du weißt gar nicht genau, wer dir diese Cullinan gegeben hat."
+606,"00:51:50,000","00:52:09,360",3110.0,3129.36,19.360000000000127,"Es ging darum, dass er eine Drohne ausgelöst hat."
+607,"00:52:09,400","00:52:12,720",3129.4,3132.72,3.319999999999709,"Kurz bevor er die Drohne ausgelöst hat kam ein Kind aus dem Haus,"
+608,"00:52:12,760","00:52:16,560",3132.76,3136.56,3.799999999999727,das hat er erst kurz vor Explosion gesehen. Er war komplett verstört
+609,"00:52:16,600","00:52:20,240",3136.6,3140.24,3.6399999999998727,als er das gemerkt hat.
+610,"00:52:20,280","00:52:30,360",3140.28,3150.36,10.079999999999927,"Der Kommandeur sagte dann, das war ein Hund,"
+611,"00:52:30,400","00:52:33,600",3150.4,3153.6,3.199999999999818,"er selbst sagte, das war doch komplett klar, das war ein Kind,"
+612,"00:52:33,640","00:52:37,520",3153.64,3157.52,3.880000000000109,"im Protokoll stand dann natürlich, dass ein Hund."
+613,"00:52:37,560","00:52:46,840",3157.56,3166.84,9.2800000000002,Im entscheidenden Moment wurde Weg
+614,"00:52:46,880","00:52:50,480",3166.88,3170.48,3.599999999999909,"gekuckt, ein ganz dreckiger Krieg, der die Leute, die abdrücken müssen"
+615,"00:52:50,520","00:52:57,960",3170.52,3177.96,7.440000000000055,"zurücklässt, der war psychisch am Ende."
+616,"00:52:58,000","00:53:01,400",3178.0,3181.4,3.400000000000091,"UF: Wir gehen auch davon aus,"
+617,"00:53:01,440","00:53:05,000",3181.44,3185.0,3.5599999999999454,dass es unter Drohnenpiloten einen signifikanten Teil
+618,"00:53:05,040","00:53:08,000",3185.04,3188.0,2.9600000000000364,von posttraumatische Belastungsstörung gibt.
+619,"00:53:08,040","00:53:11,520",3188.04,3191.52,3.480000000000018,Diese drohen Piloten die weit weg vom Geschehen sind
+620,"00:53:11,560","00:53:17,680",3191.56,3197.68,6.119999999999891,waren quasi gar nicht im Krieg aber mental dann eben doch.
+621,"00:53:17,720","00:53:20,880",3197.72,3200.88,3.1600000000003092,"ML: Ich weiß nicht, ob die Frage zu privat ist,"
+622,"00:53:20,920","00:53:26,400",3200.92,3206.4,5.480000000000018,"Sascha Lobo, sie haben Kinder?"
+623,"00:53:26,440","00:53:29,600",3206.44,3209.6,3.1599999999998545,SL:Ja ich habe drei Söhne.
+624,"00:53:29,640","00:53:32,000",3209.64,3212.0,2.3600000000001273,Und deswegen beschäftigen meine Frau
+625,"00:53:32,040","00:53:35,200",3212.04,3215.2,3.1599999999998545,und ich uns ganz intensiv mit dem Thema.
+626,"00:53:35,240","00:53:39,160",3215.24,3219.16,3.9200000000000728,"Ich bin gegen die Wehrpflicht aber ich kann mir vorstellen,"
+627,"00:53:39,200","00:53:40,720",3219.2,3220.72,1.5199999999999818,dass sie notwendig wird.
+628,"00:53:40,760","00:53:44,800",3220.76,3224.8,4.039999999999964,Ich finde die junge Generation muss es schon so viel fressen.
+629,"00:53:44,840","00:53:48,480",3224.84,3228.48,3.6399999999998727,Dass sie so viel abgewertet wird.
+630,"00:53:48,520","00:53:56,560",3228.52,3236.56,8.039999999999964,Ich glaube eine Wehrpflicht sollte stark ausgeweitet werden.
+631,"00:53:56,600","00:53:58,880",3236.6,3238.88,2.2800000000002,"Bis in ein altes Bereich hinein,"
+632,"00:53:58,920","00:54:08,320",3238.92,3248.32,9.400000000000091,"eben die, die das ebenso fleißig fordern."
+633,"00:54:08,360","00:54:11,200",3248.36,3251.2,2.8399999999996908,"Bevor meine drei Söhne eingezogen werden,"
+634,"00:54:11,240","00:54:15,920",3251.24,3255.92,4.680000000000291,würde ich mich dreimal einziehen lassen.
+635,"00:54:15,960","00:54:19,880",3255.96,3259.88,3.9200000000000728,"ML: Herr Serrao nickt, sie sehen das auch so."
+636,"00:54:19,920","00:54:25,920",3259.92,3265.92,6.0,SL: Da gibt es so viele Ebenen auch was sie Demographie angeht.
+637,"00:54:25,960","00:54:30,680",3265.96,3270.68,4.7199999999998,"Ich glaube so ein Instrument, was mehrere 100 Jahre alt ist,"
+638,"00:54:30,720","00:54:41,280",3270.72,3281.28,10.5600000000004,auf dieser Ebene kommt das.
+639,"00:54:41,320","00:54:45,480",3281.32,3285.48,4.1599999999998545,"Ich glaube, wir müssen da anders drüber reden."
+640,"00:54:45,520","00:54:53,440",3285.52,3293.44,7.920000000000073,"Weil eine reale Möglichkeit ist, dass der Frieden nicht mehr hält."
+641,"00:54:53,480","00:55:00,440",3293.48,3300.44,6.960000000000036,"ML: Herr Dürr, wie stehen Sie dazu?"
+642,"00:55:00,480","00:55:03,960",3300.48,3303.96,3.480000000000018,"CD: die Debatte die geführt wird ist, wir brauchen"
+643,"00:55:04,000","00:55:07,720",3304.0,3307.72,3.7199999999998,eine Dienstpflicht.
+644,"00:55:07,760","00:55:14,320",3307.76,3314.32,6.559999999999945,"Da bin ich genau bei dem Punkt, wie belasten wir die jungen Generation."
+645,"00:55:14,360","00:55:18,040",3314.36,3318.04,3.6799999999998363,Eine allgemeine Dienstpflicht kostet 70 Milliarden Euro.
+646,"00:55:18,080","00:55:22,400",3318.08,3322.4,4.320000000000164,D. h. die jungen Menschen werden eingezogen und zahlen auch noch.
+647,"00:55:22,440","00:55:27,600",3322.44,3327.6,5.1599999999998545,Ich halte das für falsch.
+648,"00:55:27,640","00:55:33,000",3327.64,3333.0,5.360000000000127,ML: Sie sind gegen eine Wehrpflicht?
+649,"00:55:33,040","00:55:38,320",3333.04,3338.32,5.2800000000002,Ich bin dagegen die alte Wehrpflicht einzuführen.
+650,"00:55:38,360","00:55:41,640",3338.36,3341.64,3.2799999999997453,"Ich frage mich als Politiker, was haben wir zutun?"
+651,"00:55:41,680","00:55:44,920",3341.68,3344.92,3.2400000000002365,Bei der Beschreibung über die Tontechnologie
+652,"00:55:44,960","00:55:49,720",3344.96,3349.72,4.7599999999997635,ist mir ein Wort hängen geblieben und zwar Schnelligkeit.
+653,"00:55:49,760","00:55:54,080",3349.76,3354.08,4.319999999999709,"Wenn ich mein deutsches Rüstungsprojekt anschaue,"
+654,"00:55:54,120","00:55:56,600",3354.12,3356.6,2.480000000000018,dauert das Minimum 5-10 Jahre.
+655,"00:55:56,640","00:56:00,720",3356.64,3360.72,4.079999999999927,Das ist zu langsam.
+656,"00:56:00,760","00:56:04,720",3360.76,3364.72,3.9599999999995816,Das was wir beklagt haben
+657,"00:56:04,760","00:56:10,560",3364.76,3370.56,5.799999999999727,das haben wir auch bei der Beschaffung für die Bundeswehr.
+658,"00:56:10,600","00:56:13,080",3370.6,3373.08,2.480000000000018,Der erste Job den wir zu tun haben ist
+659,"00:56:13,120","00:56:17,840",3373.12,3377.84,4.720000000000255,wir müssen vielmehr Geschwindigkeit haben.
+660,"00:56:17,880","00:56:22,240",3377.88,3382.24,4.359999999999673,Diese Ausschreibungsverfahren die Jahre dauern
+661,"00:56:22,280","00:56:30,200",3382.28,3390.2,7.919999999999618,wo Akten hin und her geschoben werden.
+662,"00:56:30,240","00:56:33,920",3390.24,3393.92,3.680000000000291,Wir zahlen für Rüstungsprojekte mehr als die Amerikaner
+663,"00:56:33,960","00:56:41,200",3393.96,3401.2,7.239999999999782,im Verhältnis.
+664,"00:56:41,240","00:56:43,000",3401.24,3403.0,1.7600000000002183,Was ist als erstes zu tun
+665,"00:56:43,040","00:56:58,160",3403.04,3418.16,15.11999999999989,und wir müssen radikal an diese interne Bürokratie.
+666,"00:56:58,200","00:57:01,640",3418.2,3421.64,3.4400000000000546,"ML: Lass uns einmal weg von dem konkreten Thema Verteidigung gehen,"
+667,"00:57:01,680","00:57:05,840",3421.68,3425.84,4.160000000000309,"wir haben Sascha Lobo über KI gesprochen, was ist die radikale"
+668,"00:57:05,880","00:57:07,920",3425.88,3427.92,2.0399999999999636,Mitte?
+669,"00:57:07,960","00:57:16,960",3427.96,3436.96,9.0,"SL: Das ist eine gute Idee, mir fehlt die Antwort."
+670,"00:57:17,000","00:57:21,520",3437.0,3441.52,4.519999999999982,Ich finde es nicht schlecht wenn man sich neu branden will.
+671,"00:57:21,560","00:57:29,640",3441.56,3449.64,8.079999999999927,Ich bin mir nicht sicher ob radikale Mitte ein guter Begriff ist.
+672,"00:57:29,680","00:57:32,840",3449.68,3452.84,3.1600000000003092,Ich finde es erst mal ein bisschen interessant.
+673,"00:57:32,880","00:57:37,200",3452.88,3457.2,4.319999999999709,Aber wenn man näher ran schaut
+674,"00:57:37,240","00:57:40,120",3457.24,3460.12,2.880000000000109,fällt es mir schwer das mit Leben zu füllen.
+675,"00:57:40,160","00:57:46,960",3460.16,3466.96,6.800000000000182,Es gibt ganz viele andere Begriffspaare
+676,"00:57:47,000","00:57:49,720",3467.0,3469.72,2.7199999999998,"wie zum Beispiel soziale Gerechtigkeit,"
+677,"00:57:49,760","00:57:55,520",3469.76,3475.52,5.7599999999997635,da kann ich mir was drunter vorstellen.
+678,"00:57:55,560","00:58:02,880",3475.56,3482.88,7.320000000000164,Jede Tag trifft die Politik 17 Entscheidungen
+679,"00:58:02,920","00:58:24,240",3482.92,3504.24,21.31999999999971,und zwar immer im Sinn der radikalen Mieter heißt nichts.
+680,"00:58:24,280","00:58:33,680",3504.28,3513.68,9.399999999999636,"MS: Ich möchte gerne sagen, warum ich das für schwierig halte,"
+681,"00:58:33,720","00:58:37,240",3513.72,3517.24,3.519999999999982,"ganz sprach logisch macht das keinen Sinn, radikale Mitte ist wie der"
+682,"00:58:37,280","00:58:40,480",3517.28,3520.48,3.199999999999818,militante Friedensaktivist der richtig taffe Softie. Das größere
+683,"00:58:40,520","00:58:45,840",3520.52,3525.84,5.320000000000164,"Problem ist, alle wollen die Mitte sein, jede Partei."
+684,"00:58:45,880","00:58:48,960",3525.88,3528.96,3.0799999999999272,"Die Mitte ist kein statischer politischer Ort,"
+685,"00:58:49,000","00:58:52,760",3529.0,3532.76,3.7600000000002183,es ist ein mobiler Deutungsort.
+686,"00:58:52,800","00:58:59,080",3532.8,3539.08,6.279999999999745,Das worauf sich die Mehrheit irgendwie einigen kann.
+687,"00:58:59,120","00:59:02,400",3539.12,3542.4,3.2800000000002,Ich würde sagen die politische Mitte in Deutschland ist im letzten
+688,"00:59:02,440","00:59:17,400",3542.44,3557.4,14.960000000000036,Jahrzehnt sehr stark nach links verrückt worden.
+689,"00:59:17,440","00:59:20,240",3557.44,3560.24,2.799999999999727,"Wenn Sie jetzt sagen: Hallo, wir sind die FDP,"
+690,"00:59:20,280","00:59:24,320",3560.28,3564.32,4.039999999999964,"wissen die radikale Mitte. Wählt uns bitte, dann ist das radikal noch"
+691,"00:59:24,360","00:59:27,200",3564.36,3567.2,2.8399999999996908,mehr desselben.
+692,"00:59:27,240","00:59:30,520",3567.24,3570.52,3.2800000000002,CD: Es ist ausdrücklich nicht rechts oder links.
+693,"00:59:30,560","00:59:34,000",3570.56,3574.0,3.4400000000000546,Es geht mir nicht um eine Distanz zu anderen sondern
+694,"00:59:34,040","00:59:41,960",3574.04,3581.96,7.920000000000073,Mitte der Gesellschaft.
+695,"00:59:42,000","00:59:43,080",3582.0,3583.08,1.0799999999999272,Da fühlen sich
+696,"00:59:43,120","00:59:47,720",3583.12,3587.72,4.599999999999909,die allermeisten verloren.
+697,"00:59:47,760","00:59:54,880",3587.76,3594.88,7.119999999999891,Radikal steht für die Wurzel.
+698,"00:59:54,920","01:00:03,800",3594.92,3603.8,8.88000000000011,Wir haben gerade drüber geredet wie der Staat sich organisiert.
+699,"01:00:03,840","01:00:07,360",3603.84,3607.36,3.519999999999982,Sie haben vorhin über das verbrennen Verbot geredet.
+700,"01:00:07,400","01:00:12,320",3607.4,3612.32,4.920000000000073,Wir könnten übers Lieferkettengesetz reden.
+701,"01:00:12,360","01:00:16,040",3612.36,3616.04,3.6799999999998363,Da braucht es eine Stimme aus der Mitte der Gesellschaft
+702,"01:00:16,080","01:00:37,920",3616.08,3637.92,21.840000000000146,die bereit ist radikale Veränderungen zu wagen.
+703,"01:00:37,960","01:00:40,120",3637.96,3640.12,2.1599999999998545,ML: Sagen Sie mal konkret fünf Beispiele.
+704,"01:00:40,160","01:00:43,720",3640.16,3643.72,3.5599999999999454,"Neue Sachen, nicht das, was Friedrich Merz immer erzählt."
+705,"01:00:43,760","01:00:48,120",3643.76,3648.12,4.359999999999673,"Ganz neue, coole Sachen."
+706,"01:00:48,160","01:00:52,160",3648.16,3652.16,4.0,"CD: Das Problem ist, dass Friedrich Merz es nicht erzählt."
+707,"01:00:52,200","01:00:55,480",3652.2,3655.48,3.2800000000002,Die Menschen sind genervt dass sich nichts ändert.
+708,"01:00:55,520","01:00:58,560",3655.52,3658.56,3.0399999999999636,Ich habe über krasse Deregulierung gesprochen.
+709,"01:00:58,600","01:01:02,320",3658.6,3662.32,3.7200000000002547,Das meine ich ernst.
+710,"01:01:02,360","01:01:03,880",3662.36,3663.88,1.5199999999999818,"Ich würde mir wünschen,"
+711,"01:01:03,920","01:01:07,440",3663.92,3667.44,3.519999999999982,dass sich der aktuelle Bundeskanzler die Macht nutzt.
+712,"01:01:07,480","01:01:12,880",3667.48,3672.88,5.400000000000091,Ja mein Bundeskanzler von der CDU
+713,"01:01:12,920","01:01:23,400",3672.92,3683.4,10.480000000000018,und ein Fraktionsvorsitzenden von der CSU.
+714,"01:01:23,440","01:01:31,960",3683.44,3691.96,8.519999999999982,"Perfekte Situation, warum der Mittelständler Rasig wird."
+715,"01:01:32,000","01:01:39,000",3692.0,3699.0,7.0,Die aktuelle Bundesregierung ist dabei nationales Recht umzusetzen
+716,"01:01:39,040","01:01:46,160",3699.04,3706.16,7.119999999999891,und 4 Milliarden auf die Kosten obendrauf zuschütten.
+717,"01:01:46,200","01:01:48,520",3706.2,3708.52,2.3200000000001637,"Jeder Mensch in Deutschland weiß,"
+718,"01:01:48,560","01:01:52,120",3708.56,3712.12,3.5599999999999454,dass das Rentenversicherungssystem nicht funktioniert.
+719,"01:01:52,160","01:02:01,000",3712.16,3721.0,8.840000000000146,Ich bin für radikale Veränderung dort.
+720,"01:02:01,040","01:02:07,720",3721.04,3727.72,6.679999999999836,"ML: Wussten Sie das eigentlich schon zur Zeit, als sie im Amt waren?"
+721,"01:02:07,760","01:02:11,160",3727.76,3731.16,3.399999999999636,CD: Ich möchte mehr.
+722,"01:02:11,200","01:02:16,520",3731.2,3736.52,5.320000000000164,"ML: Wussten Sie schon, dass das alles nur Kosmetik ist?"
+723,"01:02:16,560","01:02:19,840",3736.56,3739.84,3.2800000000002,CD: dass das Rentensystem nicht mehr funktioniert
+724,"01:02:19,880","01:02:25,600",3739.88,3745.6,5.7199999999998,ist seit vielen Jahren klar. Und ich habe es oft thematisiert.
+725,"01:02:25,640","01:02:29,000",3745.64,3749.0,3.3600000000001273,Ich will Ihnen ganz konkrete Beispiele nennen
+726,"01:02:29,040","01:02:36,320",3749.04,3756.32,7.2800000000002,wir brauchen echte Kapitaldeckung
+727,"01:02:36,360","01:02:40,680",3756.36,3760.68,4.319999999999709,zweitens wir müssen länger arbeiten müssen.
+728,"01:02:40,720","01:02:46,400",3760.72,3766.4,5.680000000000291,Ich bin nicht für ein fixes Renteneintrittsalter.
+729,"01:02:46,440","01:02:49,960",3766.44,3769.96,3.519999999999982,Lasst uns das Alter Flexibilisierung.
+730,"01:02:50,000","01:03:12,880",3770.0,3792.88,22.88000000000011,Aber im Durchschnitt muss man länger arbeiten.
+731,"01:03:12,920","01:03:20,840",3792.92,3800.84,7.920000000000073,"ML: Stopp, was heißt denn das?"
+732,"01:03:20,880","01:03:23,000",3800.88,3803.0,2.119999999999891,"Sie sagen, das klingt total entschlossen,"
+733,"01:03:23,040","01:03:26,600",3803.04,3806.6,3.5599999999999454,"sie sagen wir werden länger arbeiten müssen, wenn es dann aber konkret"
+734,"01:03:26,640","01:03:30,080",3806.64,3810.08,3.4400000000000546,"wird, dann müssen Sie sagen, das müssen wir Flexibilisierung?"
+735,"01:03:30,120","01:03:34,320",3810.12,3814.32,4.200000000000273,"CD: ich halte diese Standardisierung,"
+736,"01:03:34,360","01:03:38,200",3814.36,3818.2,3.8399999999996908,es gibt einen Arbeitnehmer und der muss immer in diesem Zeitpunkt die
+737,"01:03:38,240","01:03:40,160",3818.24,3820.16,1.9200000000000728,Rente gehen falsch
+738,"01:03:40,200","01:03:42,760",3820.2,3822.76,2.5600000000004,"ML: Es gibt keine Renteneintrittsalter,"
+739,"01:03:42,800","01:03:47,440",3822.8,3827.44,4.639999999999873,"von dem sie sagen, bis dahin mindestens?"
+740,"01:03:47,480","01:03:51,080",3827.48,3831.08,3.599999999999909,CD:wenn man bereit ist früher mit Abschnitt in Rente
+741,"01:03:51,120","01:03:53,600",3831.12,3833.6,2.480000000000018,zu gehen bekommt man eine geringere Rente.
+742,"01:03:53,640","01:03:57,640",3833.64,3837.64,4.0,"Ich möchte es deutlich machen, ich kenne ein junger Mann der arbeitet"
+743,"01:03:57,680","01:03:58,640",3837.68,3838.64,0.9600000000000364,in Niedersachsen.
+744,"01:03:58,680","01:04:00,920",3838.68,3840.92,2.2400000000002365,Er hat mir seine Rentenauskunft gezeigt.
+745,"01:04:00,960","01:04:02,920",3840.96,3842.92,1.9600000000000364,Er hat ein geringes Einkommen.
+746,"01:04:02,960","01:04:08,520",3842.96,3848.52,5.559999999999945,Er hat sich gegen Grundsicherung entschieden und für Vollzeitarbeit.
+747,"01:04:08,560","01:04:15,520",3848.56,3855.52,6.960000000000036,Er bekommt eine Rente von 900 Euro.
+748,"01:04:15,560","01:04:20,720",3855.56,3860.72,5.1599999999998545,Dieser junger Mann wird auf jeden Fall zum Sozialamt gehen müssen.
+749,"01:04:20,760","01:04:28,320",3860.76,3868.32,7.559999999999945,Genauso wie derjenige der nicht arbeiten muss.
+750,"01:04:28,360","01:04:33,840",3868.36,3873.84,5.480000000000018,"Wie wäre es wenn allein für die Leute, die Geringverdiener sind,"
+751,"01:04:33,880","01:04:41,120",3873.88,3881.12,7.239999999999782,die Rentenversicherungsbeiträge komplett Kapital angelegt werden.
+752,"01:04:41,160","01:04:43,560",3881.16,3883.56,2.400000000000091,Der hätte 80.000 Euro angehäuft.
+753,"01:04:43,600","01:04:52,480",3883.6,3892.48,8.88000000000011,Der wäre fein raus.
+754,"01:04:52,520","01:04:55,720",3892.52,3895.72,3.199999999999818,Es wird schon dadurch erwirtschaftet in dem man
+755,"01:04:55,760","01:05:00,160",3895.76,3900.16,4.399999999999636,auf die Mütterrente verzichtet.
+756,"01:05:00,200","01:05:03,360",3900.2,3903.36,3.1600000000003092,"Genau das möchte ich von mir und meiner Partei,"
+757,"01:05:03,400","01:05:08,120",3903.4,3908.12,4.7199999999998,dass wir solche Vorschläge machen.
+758,"01:05:08,160","01:05:11,600",3908.16,3911.6,3.4400000000000546,"Der Grund warum ich auch Geringverdiener anspreche,"
+759,"01:05:11,640","01:05:15,440",3911.64,3915.44,3.800000000000182,die werden oft vergessen. Die Arbeiten ein Leben lang hart
+760,"01:05:15,480","01:05:33,920",3915.48,3933.92,18.440000000000055,und sind am Ende beim Sozialamt.
+761,"01:05:33,960","01:05:36,600",3933.96,3936.6,2.6399999999998727,MS: Sie haben mit dem Rentenalter sicherlich einen.
+762,"01:05:36,640","01:05:40,760",3936.64,3940.76,4.120000000000346,"Aber den haben sie nicht exklusiv, die Wirtschaftsministerin sagt genau"
+763,"01:05:40,800","01:05:54,080",3940.8,3954.08,13.279999999999745,das gleiche.
+764,"01:05:54,120","01:05:58,840",3954.12,3958.84,4.720000000000255,MS: Sie werden in einer Regierung mit der SDP genauso zurückgepfiffen
+765,"01:05:58,880","01:05:59,840",3958.88,3959.84,0.9600000000000364,worden.
+766,"01:05:59,880","01:06:22,400",3959.88,3982.4,22.519999999999982,"Es ist die Wahrnehmung, die viele von der FDP haben."
+767,"01:06:22,440","01:06:24,600",3982.44,3984.6,2.1599999999998545,"Die FDP sagt, wir haben die Schuldenbremse"
+768,"01:06:24,640","01:06:27,080",3984.64,3987.08,2.4400000000000546,"offiziell eingehalten, das stimmt nicht so ganz,"
+769,"01:06:27,120","01:06:30,520",3987.12,3990.52,3.400000000000091,"wir haben das Tempolimit gehalten auf der Autobahn,"
+770,"01:06:30,560","01:06:49,320",3990.56,4009.32,18.76000000000022,das stimmt.
+771,"01:06:49,360","01:06:53,600",4009.36,4013.6,4.239999999999782,ES gab halb fertige Antworten der FDP.
+772,"01:06:53,640","01:06:56,880",4013.64,4016.88,3.2400000000002365,"CD: Ich habe sehr deutlich gesagt,"
+773,"01:06:56,920","01:07:01,120",4016.92,4021.12,4.199999999999818,diese dreieinhalb Jahre in der Ampel haben keine echten Reformen
+774,"01:07:01,160","01:07:06,040",4021.16,4026.04,4.880000000000109,gebracht. Deswegen ist diese Koalition gescheitert.
+775,"01:07:06,080","01:07:07,960",4026.08,4027.96,1.8800000000001091,"Ich habe vorhin beschrieben,"
+776,"01:07:08,000","01:07:13,520",4028.0,4033.52,5.519999999999982,wir haben damals eine gesamte Verwaltungsebene abgeschafft.
+777,"01:07:13,560","01:07:19,640",4033.56,4039.64,6.079999999999927,Deswegen staune ich über die CDU.
+778,"01:07:19,680","01:07:25,200",4039.68,4045.2,5.519999999999982,Die Sozis sind schuld.
+779,"01:07:25,240","01:07:32,600",4045.24,4052.6,7.360000000000127,Es ist die CDU die bereit ist die junge Generation zu belasten.
+780,"01:07:32,640","01:07:38,440",4052.64,4058.44,5.800000000000182,Ich möchte das es eine Partei gibt
+781,"01:07:38,480","01:07:41,760",4058.48,4061.76,3.2800000000002,ich mache Politik auch für diesen jungen Menschen
+782,"01:07:41,800","01:07:43,720",4061.8,4063.72,1.919999999999618,über den ich gesprochen habe.
+783,"01:07:43,760","01:08:06,960",4063.76,4086.96,23.199999999999818,Er kommt komplett über die Räder.
+784,"01:08:07,000","01:08:09,680",4087.0,4089.68,2.6799999999998363,"MS: Noch mal realistisch, Anders als in Schweiz ist"
+785,"01:08:09,720","01:08:25,880",4089.72,4105.88,16.16000000000031,Liberalismus etwas was man in deutschen sehr stark erklären muss.
+786,"01:08:25,920","01:08:28,320",4105.92,4108.32,2.399999999999636,"Wie wollen Sie das verkaufen? Radikale Mittel,"
+787,"01:08:28,360","01:08:31,880",4108.36,4111.88,3.5200000000004366,"sie müssen sich im Klaren sein, warum nicht radikal liberal,"
+788,"01:08:31,920","01:08:34,480",4111.92,4114.48,2.5599999999994907,warum nächsten Markt pur?
+789,"01:08:34,520","01:08:36,800",4114.52,4116.8,2.2799999999997453,CD: bin ich bereit zu verzichten
+790,"01:08:36,840","01:08:42,640",4116.84,4122.64,5.800000000000182,oder will ich nur etwas herumdoktern.
+791,"01:08:42,680","01:08:47,000",4122.68,4127.0,4.319999999999709,"Ich bin davon überzeugt, dass wenn dieses Land"
+792,"01:08:47,040","01:08:52,800",4127.04,4132.8,5.760000000000218,nicht radikale Reformen macht wir ins Hintertreffen kommen.
+793,"01:08:52,840","01:08:55,800",4132.84,4135.8,2.9600000000000364,"Am meisten mache ich mir Sorgen, dass wir das"
+794,"01:08:55,840","01:09:06,560",4135.84,4146.56,10.720000000000255,was wir in den 2000 einen erlebt haben
+795,"01:09:06,600","01:09:10,200",4146.6,4150.2,3.5999999999994543,das Big-Tech an Europa
+796,"01:09:10,240","01:09:14,720",4150.24,4154.72,4.480000000000473,und KI an Europa vorbeigeht
+797,"01:09:14,760","01:09:21,440",4154.76,4161.44,6.6799999999993815,da muss Politik mehr Risiko wagen.
+798,"01:09:21,480","01:09:25,320",4161.48,4165.32,3.8400000000001455,Wenn wir versuchen die Zukunft durch Regeln zuzuschicken
+799,"01:09:25,360","01:09:30,360",4165.36,4170.36,5.0,"dann will ich das meine Partei der Gegenentwurf ist,"
+800,"01:09:30,400","01:09:42,200",4170.4,4182.2,11.800000000000182,da werde ich nicht durch.
+801,"01:09:42,240","01:09:46,320",4182.24,4186.32,4.079999999999927,"ML: Sascha Lobo, kann das gelingen, KI, die sagen weniger Staat Herr"
+802,"01:09:46,360","01:09:47,840",4186.36,4187.84,1.480000000000473,"Dürr, mehr Markt."
+803,"01:09:47,880","01:09:55,720",4187.88,4195.72,7.8400000000001455,CD: Ich will einen starken Staat bei der Fortbildung und Verteidigung.
+804,"01:09:55,760","01:10:00,320",4195.76,4200.32,4.559999999999491,"ML: Bei KI, kann das gelingen? Das ist unfassbar kapitalintensiv."
+805,"01:10:00,360","01:10:05,000",4200.36,4205.0,4.640000000000327,"SL: Es ist kapitalintensiv, aber es gibt Gründe optimistisch zu sein."
+806,"01:10:05,040","01:10:08,040",4205.04,4208.04,3.0,Die Ausgangslage ist katastrophal.
+807,"01:10:08,080","01:10:11,160",4208.08,4211.16,3.0799999999999272,Wenn man sich das Bruttoinlandsprodukt anguckt.
+808,"01:10:11,200","01:10:15,400",4211.2,4215.4,4.199999999999818,Amerika und Deutschland im Vergleich.
+809,"01:10:15,440","01:10:20,440",4215.44,4220.44,5.0,Sind wir in Deutschland zwischen drei und 4 Billionen Dollar
+810,"01:10:20,480","01:10:25,440",4220.48,4225.44,4.960000000000036,und in den vereinigten Staaten so bei 6 Billionen Dollar.
+811,"01:10:25,480","01:10:28,120",4225.48,4228.12,2.6400000000003274,Inzwischen ist Amerika fast verfünffacht
+812,"01:10:28,160","01:10:36,960",4228.16,4236.96,8.800000000000182,bei 30 %.
+813,"01:10:37,000","01:10:41,280",4237.0,4241.28,4.279999999999745,"Wir haben 30 % bekommen, wenn man es schön macht machen wir eine"
+814,"01:10:41,320","01:10:44,280",4241.32,4244.28,2.9600000000000364,Seitwärtsbewegung.
+815,"01:10:44,320","01:10:48,520",4244.32,4248.52,4.200000000000728,"Diese Vervielfachung, während wir ein paar Prozent nur bekommen."
+816,"01:10:48,560","01:10:53,760",4248.56,4253.76,5.199999999999818,Die erklärt sich aus den Digitalkonzernen.
+817,"01:10:53,800","01:10:58,400",4253.8,4258.4,4.599999999999454,In den vereinigten Staaten gab es ein Kraftschub durch Digitalisierung
+818,"01:10:58,440","01:11:00,200",4258.44,4260.2,1.7600000000002183,den haben wir übersprungen.
+819,"01:11:00,240","01:11:05,360",4260.24,4265.36,5.119999999999891,Wir brauchen ein KI Wirtschaftswunder.
+820,"01:11:05,400","01:11:08,880",4265.4,4268.88,3.480000000000473,Sonst sind wir in zehn Jahren kein wohlhabendes Land.
+821,"01:11:08,920","01:11:10,800",4268.92,4270.8,1.8800000000001091,Das kann man nicht leugnen.
+822,"01:11:10,840","01:11:14,760",4270.84,4274.76,3.9200000000000728,Wir haben allerdings
+823,"01:11:14,800","01:11:18,720",4274.8,4278.72,3.9200000000000728,eine ganze Reihe von Anzeichen dass wir es schaffen können.
+824,"01:11:18,760","01:11:23,640",4278.76,4283.64,4.880000000000109,Die Forschung ist gut.
+825,"01:11:23,680","01:11:26,560",4283.68,4286.56,2.880000000000109,"Wir haben eine Reihe von jungen Unternehmen,"
+826,"01:11:26,600","01:11:33,480",4286.6,4293.48,6.8799999999992,die sehr interessante Arbeit leisten.
+827,"01:11:33,520","01:11:37,880",4293.52,4297.88,4.359999999999673,"Und wir haben etwas, was mich selber statt."
+828,"01:11:37,920","01:11:44,400",4297.92,4304.4,6.479999999999563,Es gibt Zahlen aus dem Frühjahr dieses Jahres
+829,"01:11:44,440","01:11:47,320",4304.44,4307.32,2.880000000000109,was die Nutzung von ChatGPT angeht.
+830,"01:11:47,360","01:11:51,320",4307.36,4311.32,3.9600000000000364,"Da zeigt sich,"
+831,"01:11:51,360","01:11:55,520",4311.36,4315.52,4.160000000000764,"dass Deutschland auf Platz drei ist,"
+832,"01:11:55,560","01:12:01,120",4315.56,4321.12,5.559999999999491,was die zahlenden Nutzer von künstlicher Intelligenz angeht
+833,"01:12:01,160","01:12:12,120",4321.16,4332.12,10.960000000000036,Deutschland ist weltweit an Platz zwei
+834,"01:12:12,160","01:12:16,080",4332.16,4336.08,3.9200000000000728,was die Nutzung der Schnittstelle von OpenAI angeht.
+835,"01:12:16,120","01:12:26,880",4336.12,4346.88,10.760000000000218,D. h. es gibt einen Tüftlergeist in Deutschland.
+836,"01:12:26,920","01:12:30,520",4346.92,4350.52,3.600000000000364,"Wir haben hier einen flächendeckenden Aufbruchsgeist,"
+837,"01:12:30,560","01:12:33,880",4350.56,4353.88,3.319999999999709,wie wir ihn bisher nicht in Deutschland hatten.
+838,"01:12:33,920","01:12:40,600",4353.92,4360.6,6.680000000000291,Jetzt gibt es sehr viele Leute die der Bock drauf haben
+839,"01:12:40,640","01:12:48,080",4360.64,4368.08,7.4399999999996,genau dieses tüfteln wofür Deutschland mal berühmt war.
+840,"01:12:48,120","01:12:53,240",4368.12,4373.24,5.119999999999891,Die Ausgangsbasis von Innovationen machen.
+841,"01:12:53,280","01:12:57,840",4373.28,4377.84,4.5600000000004,Das muss hinführen in eine Form von digitaler Souveränität.
+842,"01:12:57,880","01:13:01,800",4377.88,4381.8,3.9200000000000728,Wir dürfen nicht abhängig von chinesischen Systemen sein.
+843,"01:13:01,840","01:13:05,280",4381.84,4385.28,3.4399999999996,Und auch bei Trump würde ich sagen
+844,"01:13:05,320","01:13:10,000",4385.32,4390.0,4.680000000000291,es ist nicht super von ihm abhängig zu sein
+845,"01:13:10,040","01:13:14,000",4390.04,4394.0,3.9600000000000364,wir haben diese Stimmung und müssen sich stützen und pflegen
+846,"01:13:14,040","01:13:15,400",4394.04,4395.4,1.3599999999996726,und rein investieren.
+847,"01:13:15,440","01:13:35,440",4395.44,4415.44,20.0,Und auch deregulieren.
+848,"01:13:35,480","01:13:38,160",4415.48,4418.16,2.680000000000291,"ML: Ich habe eine letzte Frage an Marc Felix Serrao,"
+849,"01:13:38,200","01:13:44,120",4418.2,4424.12,5.920000000000073,glauben Sie dass dieses Projekt im Parlament gelingen kann?
+850,"01:13:44,160","01:13:47,200",4424.16,4427.2,3.0399999999999636,MS: Ich glaube Letzteres ist wahrscheinlich.
+851,"01:13:47,240","01:13:50,200",4427.24,4430.2,2.9600000000000364,Ich wünsche mir eine starke liberale Kraft in Deutschland.
+852,"01:13:50,240","01:13:58,920",4430.24,4438.92,8.680000000000291,Die braucht es dringend.
+853,"01:13:58,960","01:14:03,960",4438.96,4443.96,5.0,"Ob die FDP diese Partei sein kann, da bin ich skeptisch."
+854,"01:14:04,000","01:14:08,000",4444.0,4448.0,4.0,"Ob sie derjenige sind, der diese Partei zurückführen kann,"
+855,"01:14:08,040","01:14:11,080",4448.04,4451.08,3.0399999999999636,da bin ich auch skeptisch.
+856,"01:14:11,120","01:14:14,720",4451.12,4454.72,3.600000000000364,"CD: Herr Serrao, ich würde mich freuen, wenn wir hier in einiger"
+857,"01:14:14,760","01:14:18,200",4454.76,4458.2,3.4399999999996,Zeit wieder hier zusammensetzen können und ich sie vom Gegenteil
+858,"01:14:18,240","01:14:19,680",4458.24,4459.68,1.4400000000005093,überzeugen konnte.
+859,"01:14:19,720","01:14:22,920",4459.72,4462.92,3.199999999999818,"Das wichtigste ist für mich nicht, ob es meine Partei war,"
+860,"01:14:22,960","01:14:26,400",4462.96,4466.4,3.4399999999996,"das wichtigste ist für mich, ob wir es als Land geschafft haben."
+861,"01:14:26,440","01:14:28,280",4466.44,4468.28,1.8400000000001455,ML: Das klingt sehr demütig.
+862,"01:14:28,320","01:14:30,840",4468.32,4470.84,2.5200000000004366,CD: Das klingt kämpferisch und demütig.
+863,"01:14:30,880","01:14:34,440",4470.88,4474.44,3.5599999999994907,ML: Das war es für heute.
+864,"01:14:34,480","01:14:39,040",4474.48,4479.04,4.5600000000004,"Jetzt die Kollegen vom ""heute journal up:date"""
+865,"01:14:39,080","01:14:40,800",4479.08,4480.8,1.7200000000002547,wir sind am Dienstag wieder da.

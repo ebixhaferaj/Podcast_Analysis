@@ -1,0 +1,823 @@
+﻿segment_id,start_time,end_time,start_seconds,end_seconds,duration,text
+1,"00:00:00,040","00:00:02,000",0.04,2.0,1.96,Diese Untertitel sind live produziert.
+2,"00:00:02,040","00:00:07,320",2.04,7.32,5.28,"Willkommen zu unserer Sendung, in der wir heute zu später Stunde"
+3,"00:00:07,360","00:00:14,720",7.36,14.72,7.36,"über Fußball und Politik reden wollen und wir freuen uns sehr,"
+4,"00:00:14,800","00:00:17,600",14.8,17.6,2.8000000000000007,einen sehr seltenen Gast dazu zu begrüßen.
+5,"00:00:17,680","00:00:21,840",17.68,21.84,4.16,"War selten zu sehen in Fernsehstudios in letzter Zeit,"
+6,"00:00:21,920","00:00:25,520",21.92,25.52,3.599999999999998,hatte einfach absolut keine Zeit.
+7,"00:00:25,600","00:00:28,040",25.6,28.04,2.4399999999999977,"Denn: Er ist der Mann,"
+8,"00:00:28,120","00:00:30,680",28.12,30.68,2.5599999999999987,der ein gefeiertes Ensemble zusammengestellt hat.
+9,"00:00:30,760","00:00:35,400",30.76,35.4,4.639999999999997,Der historische Erfolg von Bayer Leverkusen aus Meisterschaft
+10,"00:00:35,480","00:00:37,120",35.48,37.12,1.6400000000000006,und Pokalsieg hat viel mit ihm zu tun.
+11,"00:00:37,160","00:00:39,080",37.16,39.08,1.9200000000000017,Und eigentlich geht es nur um eine Frage:
+12,"00:00:39,160","00:00:41,360",39.16,41.36,2.200000000000003,"Wie kam er auf Xabi Alonso,"
+13,"00:00:41,440","00:00:44,920",41.44,44.92,3.480000000000004,und wie hat er ihn zur Reise nach Leverkusen bewegt?
+14,"00:00:45,000","00:00:47,840",45.0,47.84,2.8400000000000034,"Herzlich willkommen, Simon Rolfes."
+15,"00:00:47,920","00:00:54,920",47.92,54.92,7.0,"Bei einem seiner seltenen Besuche, 2018, 2019, hat Simon Rolfes hier"
+16,"00:00:55,000","00:00:58,240",55.0,58.24,3.240000000000002,das erste Mal über VAR-Technik gesprochen -
+17,"00:00:58,360","00:01:01,160",58.36,61.16,2.799999999999997,ist in dem Bereich auch unternehmerisch tätig.
+18,"00:01:01,280","00:01:05,120",61.28,65.12,3.8400000000000034,"Und da kommt diese Frau ins Spiel, die wir in diesen Tagen"
+19,"00:01:05,160","00:01:07,520",65.16,67.52,2.3599999999999994,"sehr schätzen gelernt haben, weil die Kombination aus Expertise"
+20,"00:01:07,600","00:01:10,480",67.6,70.48,2.8800000000000097,und guter Laune nicht so häufig ist.
+21,"00:01:10,520","00:01:13,480",70.52,73.48,2.960000000000008,"Wie schaut sie auf diese Technologie,"
+22,"00:01:13,520","00:01:17,720",73.52,77.72,4.200000000000003,"die im Falle von Deutschland gegen Dänemark dazu führte,"
+23,"00:01:17,760","00:01:21,880",77.76,81.88,4.11999999999999,dass eine Fußspitze - es ging wirk- lich um einen einzigen Zentimeter -
+24,"00:01:21,960","00:01:26,160",81.96000000000001,86.16,4.199999999999989,entscheidend war für die Frage Abseits oder nicht?
+25,"00:01:26,200","00:01:30,480",86.2,90.48,4.280000000000001,Gewinnt das Spiel dadurch an Präzision und verliert an Charme?
+26,"00:01:30,560","00:01:34,000",90.56,94.0,3.4399999999999977,"Wollen wir sie fragen, herzlich willkommen, Friedrike Kromp."
+27,"00:01:34,080","00:01:40,080",94.08,100.08,6.0,"Und wie sieht dieser Mann das, der ein großer Fußballfan ist,"
+28,"00:01:40,160","00:01:42,960",100.16,102.96000000000001,2.8000000000000114,und von dem der schöne Satz stammt:
+29,"00:01:43,040","00:01:46,040",103.03999999999999,106.03999999999999,3.0,"""Dass ich Fan von Arminia Bielefeld geworden bin,"
+30,"00:01:46,120","00:01:48,000",106.12,108.0,1.8799999999999955,"hatte viel mit Mitleid zu tun""."
+31,"00:01:48,040","00:01:50,080",108.03999999999999,110.08,2.0400000000000063,"Und es gibt noch so'n Satz von ihm,"
+32,"00:01:50,160","00:01:54,560",110.16,114.56,4.400000000000006,"in dem Fall einen, der eine Ahnung davon gibt,"
+33,"00:01:54,640","00:01:58,760",114.64,118.75999999999999,4.11999999999999,"wie es einem in diesen Tagen so geht als SPD-Generalsekretär,"
+34,"00:01:58,840","00:02:00,400",118.84,120.4,1.5600000000000023,und er lautet:
+35,"00:02:00,480","00:02:03,120",120.48,123.12,2.6400000000000006,"""Ich bin auch deshalb so gern im Stadion,"
+36,"00:02:03,160","00:02:05,600",123.16,125.6,2.4399999999999977,"weil es in der Kurve keinen interessiert,"
+37,"00:02:05,680","00:02:07,840",125.68,127.84,2.1599999999999966,"was du sonst so im Leben machst."""
+38,"00:02:07,920","00:02:10,440",127.92,130.44,2.519999999999996,"Herzlich willkommen, Kevin Kühnert."
+39,"00:02:10,520","00:02:14,200",130.52,134.2,3.6799999999999784,"Und apropos schöne Sätze, gibt auch einen von ihm,"
+40,"00:02:14,240","00:02:17,560",134.24,137.56,3.319999999999993,"eigentlich bekannt als einer der besten Politik-Kenner des Landes,"
+41,"00:02:17,640","00:02:20,800",137.64,140.8,3.160000000000025,"der von sich sagt: ""Ich bin nicht Schalke-Fan, ich bin Schalker,"
+42,"00:02:20,840","00:02:22,360",140.84,142.36,1.5200000000000102,"das sagt eigentlich alles."""
+43,"00:02:22,400","00:02:25,240",142.4,145.24,2.8400000000000034,"Und weiter: ""Vegetarier müssen auf Fleisch verzichten."
+44,"00:02:25,280","00:02:26,840",145.28,146.84,1.5600000000000023,"Schalker müssen gar nichts."""
+45,"00:02:26,880","00:02:28,880",146.88,148.88,2.0,"Wie meint er das, wollen wir ihn fragen."
+46,"00:02:28,920","00:02:31,440",148.92000000000002,151.44,2.519999999999982,"Aber natürlich wollen wir ihn später auch fragen,"
+47,"00:02:31,480","00:02:35,080",151.48,155.07999999999998,3.5999999999999943,"ob 'ne Europameisterschaft vielleicht ein besonders guter Moment ist,"
+48,"00:02:35,120","00:02:37,280",155.12,157.28,2.1599999999999966,"einen schwierigen Haushalt durchzukriegen,"
+49,"00:02:37,320","00:02:40,960",157.32,160.96,3.640000000000015,"weil alle abgelenkt sind, dass sie es gar nicht mehr richtig merken."
+50,"00:02:41,000","00:02:43,120",161.0,163.12,2.1200000000000045,"Herzlich willkommen, Robin Alexander."
+51,"00:02:44,720","00:02:47,520",164.72,167.52,2.8000000000000114,"Vielen Dank, dass Sie alle der Einladung gefolgt sind,"
+52,"00:02:47,560","00:02:49,400",167.56,169.4,1.8400000000000034,zu so später Stunde.
+53,"00:02:49,440","00:02:53,920",169.44,173.92000000000002,4.480000000000018,Es spielt die Türkei gegen Österreich - von besonderer Brisanz.
+54,"00:02:53,960","00:02:57,960",173.96,177.96,4.0,"Viele haben es nicht gesehen, kleine Zusammenfassung noch mal?"
+55,"00:02:58,000","00:03:00,400",178.0,180.4,2.4000000000000057,Bitteschön.
+56,"00:03:05,440","00:03:08,080",185.44,188.08,2.640000000000015,"Der kommt gefährlich, ganz gefährlich, der ist drin!"
+57,"00:03:08,080","00:03:15,080",188.08,195.08,7.0,"Die Türkei führt, keine 60 Sekunden gespielt!"
+58,"00:03:18,760","00:03:23,000",198.76,203.0,4.240000000000009,"Ecke kommt, das zweite Tor!"
+59,"00:03:28,080","00:03:31,200",208.07999999999998,211.2,3.1200000000000045,"Wieder eine Ecke, die rasten komplett aus hier!"
+60,"00:03:31,200","00:03:33,200",211.2,213.2,2.0,Sabitzer und dann Schluss.
+61,"00:03:34,920","00:03:39,200",214.92000000000002,219.2,4.279999999999973,Österreich lebt noch.
+62,"00:03:44,840","00:03:49,040",224.84,229.04,4.199999999999989,Die Riesenchance für Baumgartner!
+63,"00:03:49,080","00:03:52,600",229.07999999999998,232.6,3.5200000000000102,Und Mert Günok hält das Viertelfinale für die Türkei.
+64,"00:03:55,040","00:03:57,040",235.04,237.04,2.0,Bist du wahnsinnig!
+65,"00:03:57,640","00:04:01,960",237.64,241.96,4.320000000000022,Das Spiel ist aus!
+66,"00:04:01,960","00:04:09,160",241.96,249.16,7.199999999999989,Die Türkei steht erstmals seit 2008 wieder im Viertelfinale.
+67,"00:04:09,160","00:04:14,920",249.16,254.92,5.759999999999991,Dazu gratulieren wir natürlich sehr herzlich - war das eine Überraschung?
+68,"00:04:14,920","00:04:20,680",254.92,260.68,5.760000000000019,Die Österreicher waren gut unterwegs.
+69,"00:04:20,720","00:04:24,200",260.72,264.2,3.4799999999999613,"FK: Ich war großer Fan von ihnen, von Ralf Rangnick,"
+70,"00:04:24,200","00:04:27,640",264.2,267.64,3.4399999999999977,"deswegen das war das erste Spiel, wo ich mich komplett verschätzt habe."
+71,"00:04:27,640","00:04:31,520",267.64,271.52,3.8799999999999955,Was haben Sie gesagt?
+72,"00:04:31,520","00:04:34,040",271.52,274.04,2.5200000000000387,4:2 für Österreich.
+73,"00:04:34,040","00:04:39,160",274.04,279.15999999999997,5.119999999999948,Wo war Simon Rolfes unterwegs?
+74,"00:04:39,160","00:04:45,400",279.15999999999997,285.4,6.240000000000009,"SR: Auch für Österreich,"
+75,"00:04:45,400","00:04:49,120",285.4,289.12,3.7200000000000273,Österreich hat sich in einer starken Gruppe durchgesetzt.
+76,"00:04:49,160","00:04:53,160",289.15999999999997,293.15999999999997,4.0,"In der Gruppe waren sie der Underdog,"
+77,"00:04:53,160","00:04:57,640",293.15999999999997,297.64,4.480000000000018,jetzt waren sie der Favorit und hatten ein super Turnierbaum.
+78,"00:04:57,640","00:04:59,600",297.64,299.6,1.9600000000000364,"Ich bin mir sicher,"
+79,"00:04:59,640","00:05:03,080",299.64,303.08,3.4399999999999977,"die Österreicher hofften nicht nur heute weiterzukommen,"
+80,"00:05:03,120","00:05:05,760",303.12,305.76,2.6399999999999864,"sondern sehr viel weiterzukommen, das hat sie wohl gelähmt."
+81,"00:05:05,760","00:05:08,080",305.76,308.08,2.319999999999993,Woran hat das gelegen?
+82,"00:05:08,080","00:05:12,040",308.08,312.04,3.9600000000000364,"Die haben längst nicht so gut gespielt wie in der Vorrunde,"
+83,"00:05:12,040","00:05:18,040",312.04,318.04,6.0,wo sie gut attackiert haben.
+84,"00:05:20,600","00:05:23,840",320.6,323.84,3.2399999999999523,"Heute hat man nicht das ganz große Gefühl gehabt,"
+85,"00:05:23,880","00:05:28,280",323.88,328.28,4.399999999999977,dass sie mit der Power spielen.
+86,"00:05:28,280","00:05:35,160",328.28,335.15999999999997,6.8799999999999955,Für wen schlug das Herz von Kevin Kühnert diesen Abend?
+87,"00:05:35,160","00:05:38,680",335.15999999999997,338.68,3.5200000000000387,"KK: Auch eher für die Österreicher, ganz grundsätzlich,"
+88,"00:05:38,680","00:05:41,960",338.68,341.96,3.2799999999999727,weil ich das Land mag.
+89,"00:05:42,000","00:05:45,360",342.0,345.36,3.3600000000000136,Ich bin stellv. Vorsitzender der deutsch-österreichischen
+90,"00:05:45,400","00:05:50,160",345.4,350.15999999999997,4.759999999999991,Parlamentariergruppe also im repräsentativen Rahmen.
+91,"00:05:50,200","00:05:56,560",350.2,356.56,6.360000000000014,Auch wegen des bisherigen Turnierverlaufs.
+92,"00:05:56,560","00:05:59,680",356.56,359.68,3.1200000000000045,"Man merkt, ob der Funke überspringt oder nicht"
+93,"00:05:59,720","00:06:02,680",359.72,362.68,2.9599999999999795,und spätestens nach dem dritten Gruppenspiel
+94,"00:06:02,680","00:06:05,640",362.68,365.64,2.9599999999999795,gegen die Niederlande.
+95,"00:06:05,640","00:06:20,360",365.64,380.36,14.720000000000027,"Robin Alexander, das darf ich verraten, erlebt Neukölln."
+96,"00:06:20,360","00:06:22,680",380.36,382.68,2.319999999999993,RA: Kreuzberg ist er türkisch.
+97,"00:06:22,720","00:06:28,120",382.72,388.12,5.399999999999977,"Ich war gespalten, ich habe sie ehrbar dort gesehen,"
+98,"00:06:28,200","00:06:31,840",388.2,391.84,3.6399999999999864,"ich glaube, die Türken haben gut gespielt."
+99,"00:06:31,880","00:06:35,640",391.88,395.64,3.759999999999991,Gregoritsch hatte auch gespielt.
+100,"00:06:35,680","00:06:38,440",395.68,398.44,2.759999999999991,Frederic muss jetzt lösen.
+101,"00:06:38,440","00:06:47,480",398.44,407.48,9.04000000000002,KK: Aber Gregoritsch hat auch mal bei Schalke gespielt.
+102,"00:06:47,480","00:06:53,720",407.48,413.72,6.240000000000009,"Dass ich es nicht weiß, das ist klar."
+103,"00:06:53,760","00:06:58,200",413.76,418.2,4.439999999999998,Wir checken das.
+104,"00:06:58,240","00:07:04,440",418.24,424.44,6.199999999999989,Wer hat sie am meisten überrascht?
+105,"00:07:05,320","00:07:11,760",425.32,431.76,6.439999999999998,"FK: Schon heute die Türken muss man sagen,"
+106,"00:07:11,760","00:07:17,000",431.76,437.0,5.240000000000009,"ansonsten haben sich die Favoriten durchgesetzt, bis auf Italien."
+107,"00:07:17,040","00:07:22,080",437.04,442.08,5.039999999999964,"Von den Spaniern muss man den Hut ziehen,"
+108,"00:07:22,080","00:07:27,360",442.08,447.36,5.28000000000003,"ihre Art zu spielen war eine Machtdemonstration,"
+109,"00:07:27,360","00:07:30,280",447.36,450.28,2.919999999999959,wir können uns auf ein packendes vielleicht
+110,"00:07:30,320","00:07:36,320",450.32,456.32,6.0,sogar vorgezogenes Finale freuen.
+111,"00:07:36,320","00:07:39,800",456.32,459.8,3.480000000000018,"Auf die Spanier komme gleich noch, die Niederlande,"
+112,"00:07:39,800","00:07:46,360",459.8,466.36,6.560000000000002,die haben heute auch grandios gespielt.
+113,"00:07:47,800","00:07:51,280",467.8,471.28,3.4799999999999613,"SR: Eine starke Mannschaft, viele gute Spieler."
+114,"00:07:51,280","00:07:55,320",471.28,475.32,4.0400000000000205,Die Niederländer können sich vielleicht inszenieren arbeiten
+115,"00:07:55,360","00:07:59,880",475.36,479.88,4.519999999999982,und als einzige Mannschaft von Beginn an souverän durchgespielt.
+116,"00:07:59,880","00:08:02,720",479.88,482.72,2.840000000000032,"Die Niederländer sind eine gute Mannschaft,"
+117,"00:08:02,760","00:08:05,120",482.76,485.12,2.3600000000000136,"88 sind sie Europameister geworden,"
+118,"00:08:05,160","00:08:11,600",485.16,491.6,6.439999999999998,"ich hoffe, das wiederholt sich nicht."
+119,"00:08:15,360","00:08:19,960",495.36,499.96,4.599999999999966,"Da kommen wir auch noch gleich dazu, auch Gästen das Drama um Ronaldo?"
+120,"00:08:20,000","00:08:22,520",500.0,502.52,2.519999999999982,Wie haben Sie das verfolgt?
+121,"00:08:22,520","00:08:35,040",502.52,515.04,12.519999999999982,"KK: War für mich wichtig,"
+122,"00:08:35,040","00:08:39,560",515.04,519.56,4.519999999999982,"Sie wissen schon aus einer anderen Veranstaltung,"
+123,"00:08:39,600","00:08:43,240",519.6,523.24,3.6399999999999864,"dass mein Tipp Portugal ist, deswegen war das wichtig,"
+124,"00:08:43,280","00:08:45,800",523.28,525.8,2.519999999999982,dass das gestern Abend noch funktioniert.
+125,"00:08:45,800","00:08:47,800",525.8,527.8,2.0,Wenn Männer weinen.
+126,"00:08:47,840","00:08:49,800",527.84,529.8,1.9599999999999227,Wir schauen kurz rein.
+127,"00:08:49,840","00:08:57,360",529.84,537.36,7.519999999999982,Wahnsinn.
+128,"00:08:57,360","00:09:00,960",537.36,540.96,3.6000000000000227,"Bitter für Cristiano Ronaldo, er tut einem schon leid."
+129,"00:09:01,000","00:09:06,600",541.0,546.6,5.600000000000023,"Er will jeden Freistoß schießen,"
+130,"00:09:06,640","00:09:10,240",546.64,550.24,3.6000000000000227,"er ist wahrscheinlich die bessere Variante,"
+131,"00:09:10,280","00:09:14,080",550.28,554.08,3.800000000000068,und diesmal macht er ihn.
+132,"00:09:14,120","00:09:20,080",554.12,560.08,5.960000000000036,Für Portugal.
+133,"00:09:22,280","00:09:26,200",562.28,566.2,3.9200000000000728,"Und den macht er auch, und damit ist es geschafft Portugal."
+134,"00:09:26,280","00:09:32,200",566.28,572.2,5.920000000000073,Sie sind im Viertelfinale.
+135,"00:09:38,800","00:09:43,520",578.8,583.52,4.720000000000027,"Da fiel der Satz, Christiano Ronaldo tut einem schon ein bisschen leid."
+136,"00:09:43,560","00:09:47,200",583.56,587.2,3.6400000000001,"Mir haben die Slowenen leid getan, so tapfer gekämpft,"
+137,"00:09:47,200","00:09:49,040",587.2,589.04,1.8399999999999181,das war das Thema.
+138,"00:09:49,040","00:09:51,040",589.04,591.04,2.0,"FK: Kann man soundso sehen,"
+139,"00:09:51,080","00:09:56,840",591.08,596.84,5.759999999999991,mir hat es auch ein Stück weit leidend getan.
+140,"00:09:56,840","00:09:59,560",596.84,599.56,2.7199999999999136,"Die einen lieben ihn, die anderen hassen ihn. Das ist die Show,"
+141,"00:09:59,640","00:10:01,640",599.64,601.64,2.0,"die dabei ist, die Theatralik."
+142,"00:10:01,720","00:10:04,080",601.72,604.08,2.3600000000000136,Es ist ein Spektakel.
+143,"00:10:04,080","00:10:07,160",604.08,607.16,3.0799999999999272,"Wie der da stammt, das hatte was."
+144,"00:10:07,160","00:10:09,360",607.16,609.36,2.2000000000000455,Trotzdem hatte kein Laufzeitstore
+145,"00:10:09,440","00:10:11,520",609.44,611.52,2.0799999999999272,"gebracht, bei seinen Verstößen."
+146,"00:10:11,520","00:10:14,880",611.52,614.88,3.3600000000000136,"Es war ein Packen Spiel für ihn,"
+147,"00:10:14,960","00:10:21,280",614.96,621.28,6.319999999999936,er hat einen Elfmeter geschossen obwohl er am Boden zerstört war.
+148,"00:10:21,360","00:10:25,440",621.36,625.44,4.080000000000041,"Er hat seinen eigenen Rekord, das zerstritten sein Leben lang."
+149,"00:10:25,480","00:10:31,960",625.48,631.96,6.480000000000018,Vielleicht sehen wir das noch bei ihm.
+150,"00:10:33,320","00:10:39,440",633.32,639.44,6.1200000000000045,Wie schaut Simon Rolfes darauf?
+151,"00:10:46,680","00:10:52,760",646.68,652.76,6.080000000000041,"SR:Mitleid hatte ich jetzt auch nicht mit ihm,"
+152,"00:10:52,800","00:10:56,160",652.8,656.16,3.3600000000000136,"das waren nicht das, was er symbolisiert für mich."
+153,"00:10:56,200","00:11:00,200",656.2,660.2,4.0,Er diese Entschlossenheit über seine Entschlossenheit danach.
+154,"00:11:00,280","00:11:06,560",660.28,666.56,6.279999999999973,"Dass er schon diesen Charakter gezeigt hat,"
+155,"00:11:06,640","00:11:11,080",666.64,671.08,4.440000000000055,"diesen ersten Elfmeter, bei dem er einschließt."
+156,"00:11:11,160","00:11:15,680",671.16,675.68,4.519999999999982,"Überrascht, weil er so zielstrebig ist, er polarisiert in seiner Art."
+157,"00:11:15,720","00:11:20,840",675.72,680.84,5.1200000000000045,Er hat sich hart erarbeitet.
+158,"00:11:20,840","00:11:24,160",680.84,684.16,3.3199999999999363,"Das ist ja schon wieder sympathisch,"
+159,"00:11:24,160","00:11:26,960",684.16,686.96,2.800000000000068,"wenn man diese menschliche Schwäche zeigt,"
+160,"00:11:26,960","00:11:31,240",686.96,691.24,4.279999999999973,er ist auch nur ein Mensch.
+161,"00:11:31,240","00:11:36,600",691.24,696.6,5.360000000000014,Aus welchem Spiel ist dieses Foto?
+162,"00:11:36,600","00:11:38,640",696.6,698.64,2.0399999999999636,SR: Viertelfinal 2008.
+163,"00:11:38,640","00:11:41,160",698.64,701.16,2.519999999999982,Das weiß ich noch sehr gut
+164,"00:11:41,200","00:11:44,280",701.2,704.28,3.0799999999999272,"diese Szene, und zwar im eigenen Sechzehner."
+165,"00:11:44,360","00:11:46,280",704.36,706.28,1.919999999999959,"Ich war am eigenen dabei vorne,"
+166,"00:11:46,360","00:11:54,960",706.36,714.96,8.600000000000023,"ich wusste, wenn er ich im lauten Duell verliere kommt er zum Schluss."
+167,"00:12:02,840","00:12:07,280",722.84,727.28,4.439999999999941,"Das Weinberg zweiten Halbzeit, da kann ich michgut erinnern."
+168,"00:12:07,280","00:12:10,960",727.28,730.96,3.6800000000000637,War auch frisurtechnisch eine andere Zeit.
+169,"00:12:10,960","00:12:15,520",730.96,735.52,4.559999999999945,Damals drei zu zwei gewonnen.
+170,"00:12:15,560","00:12:21,120",735.56,741.12,5.560000000000059,Wie nehmen Sie heute jemanden wie Cristiano Ronaldo wahr.
+171,"00:12:21,120","00:12:24,840",741.12,744.84,3.7200000000000273,"Sie sind 40, ein Jahr älter?"
+172,"00:12:24,840","00:12:32,040",744.84,752.04,7.199999999999932,"Auf gar keinen Fall,"
+173,"00:12:32,040","00:12:39,480",752.04,759.48,7.440000000000055,da kann ich schon seit Jahren nicht mehr mithalten.
+174,"00:12:48,080","00:12:54,040",768.08,774.04,5.959999999999923,Die körperliche Komponentenmarkt vereinbaren.
+175,"00:12:54,120","00:13:00,840",774.12,780.84,6.720000000000027,"Die Regenerationsfähigkeit, die Belastung,"
+176,"00:13:01,760","00:13:06,440",781.76,786.44,4.680000000000064,"die Disziplinen Ernährung, dass sich vorzubereiten,"
+177,"00:13:06,520","00:13:09,800",786.52,789.8,3.2799999999999727,"Profi ist man das ganze Jahr, den ganzen Tag."
+178,"00:13:09,880","00:13:13,080",789.88,793.08,3.2000000000000455,"Diese Selbstdisziplin nach einem Jahr,"
+179,"00:13:13,120","00:13:19,040",793.12,799.04,5.919999999999959,das ist schon einiges.
+180,"00:13:21,200","00:13:23,520",801.2,803.52,2.3199999999999363,Bei Pepe weiß man das.
+181,"00:13:23,520","00:13:26,200",803.52,806.2,2.6800000000000637,"Vor allem Pepe auch, aber Ronaldo auch."
+182,"00:13:26,200","00:13:33,880",806.2,813.88,7.67999999999995,"Das hat nur was optisches, aber spielerisch."
+183,"00:13:33,880","00:13:37,640",813.88,817.64,3.759999999999991,Wir war en Fels in der Brandung. Es ist eine große Leistung.
+184,"00:13:37,640","00:13:42,640",817.64,822.64,5.0,"Das heißt wenn Toni Kroos im zarten Alter von 34 sagen würde,"
+185,"00:13:42,640","00:13:51,360",822.64,831.36,8.720000000000027,"ich mache doch noch ein Jahr, würden sie ihn sofort zu Leverkusen holen?"
+186,"00:13:51,880","00:13:54,880",831.88,834.88,3.0,"Wir suchen zum Glück nicht auf der Position,"
+187,"00:13:54,960","00:13:57,280",834.96,837.28,2.3199999999999363,deswegen kann ich locker antworten.
+188,"00:13:57,360","00:14:03,280",837.36,843.28,5.919999999999959,Er wirkt sehr fit.
+189,"00:14:03,560","00:14:09,600",843.56,849.6,6.040000000000077,Sie würden Toni Kroos ablehnen?
+190,"00:14:14,520","00:14:18,520",854.52,858.52,4.0,"SR: Er hat ein Haus unweit vom Stadion,"
+191,"00:14:18,560","00:14:21,600",858.56,861.6,3.0400000000000773,"die Qualität hat er, nicht nur für uns."
+192,"00:14:21,600","00:14:26,600",861.6,866.6,5.0,"Es ist die Entscheidung von ihm zu sagen,"
+193,"00:14:26,600","00:14:29,960",866.6,869.96,3.3600000000000136,höre ich auf einem top Niveau auf.
+194,"00:14:29,960","00:14:32,680",869.96,872.68,2.7199999999999136,"Er ist ein Typ,"
+195,"00:14:32,720","00:14:38,240",872.72,878.24,5.519999999999982,der das schon gut gefunden hat auf einem top Niveau aufzuhören.
+196,"00:14:38,240","00:14:41,760",878.24,881.76,3.519999999999982,"Die Frage des richtigen Zeitpunkts,"
+197,"00:14:41,760","00:14:47,960",881.76,887.96,6.2000000000000455,ist ja eigentlich wahnsinnig jung.
+198,"00:14:54,000","00:15:01,720",894.0,901.72,7.720000000000027,"Mares Bei Ihnen schon klar, was für ein Weg machen wird?"
+199,"00:15:13,480","00:15:20,880",913.48,920.88,7.399999999999977,"Ja, als er gekommen ist hat sich erst schwergetan,"
+200,"00:15:22,440","00:15:26,800",922.44,926.8,4.3599999999999,"dann hat er in seiner Mentalität gemacht von gesehen,"
+201,"00:15:26,800","00:15:34,200",926.8,934.2,7.400000000000091,jetzt ist so ein Spieler nicht aufzuhalten in seiner Entwicklung.
+202,"00:15:34,200","00:15:38,120",934.2,938.12,3.919999999999959,"Dann war es klar, dass er eine Riesen Karriere machen wird."
+203,"00:15:38,160","00:15:41,880",938.16,941.88,3.7200000000000273,"Er hat auch dieses Selbstvertrauen, was man braucht."
+204,"00:15:41,920","00:15:47,960",941.92,947.96,6.040000000000077,Um in den großen Spielen zu bestehen.
+205,"00:15:47,960","00:15:51,280",947.96,951.28,3.3199999999999363,"Diese Selbstgewissheit ein richtig guter zu sein,"
+206,"00:15:51,320","00:15:57,480",951.32,957.48,6.159999999999968,das hat er schon als 18-jähriger.
+207,"00:15:57,560","00:16:00,840",957.56,960.84,3.2800000000000864,"Ich finde, er hat beides, diese Selbstsicherheit,"
+208,"00:16:00,920","00:16:02,840",960.92,962.84,1.9200000000000728,wurden überheblich zu wirken.
+209,"00:16:02,920","00:16:07,320",962.92,967.32,4.400000000000091,Die ganze Attitüde ist anders als bei bei Christiano Ronaldo.
+210,"00:16:07,320","00:16:12,000",967.32,972.0,4.67999999999995,"Die Attitüde, die hat er nicht, da ist er sehr nüchtern in seiner Art,"
+211,"00:16:12,000","00:16:14,200",972.0,974.2,2.2000000000000455,im Alltag oder auch auf dem Platz.
+212,"00:16:14,240","00:16:17,640",974.24,977.64,3.3999999999999773,"Er weiß schon, dass er ein ziemlich guter Spieler ist."
+213,"00:16:17,640","00:16:32,400",977.64,992.4,14.759999999999991,Selbstbewusste Spieler braucht man ja.
+214,"00:16:32,400","00:16:36,440",992.4,996.44,4.040000000000077,FK: Eine ganz ganz große Aufgabe.
+215,"00:16:36,480","00:16:40,320",996.48,1000.32,3.840000000000032,Das ist für mich die beste Mannschaft beim Turnier bisher.
+216,"00:16:40,320","00:16:44,920",1000.32,1004.92,4.599999999999909,"Immer wieder Anlaufschwierigkeiten, sie waren die einzige Mannschaft,"
+217,"00:16:44,920","00:16:49,040",1004.92,1009.04,4.1200000000000045,"die auf Platz eins standen, die in einer Luxussituation waren,"
+218,"00:16:49,040","00:16:53,400",1009.04,1013.4,4.360000000000014,die sich mit neun Punkten durch die Vorrunde geritten hat.
+219,"00:16:53,400","00:16:59,320",1013.4,1019.32,5.920000000000073,Sie hatten die Luxussituation von Spiel zwei auf drei Wechsel
+220,"00:16:59,360","00:17:02,440",1019.36,1022.44,3.080000000000041,durch zu nehmen und trotzdem gut zu performen.
+221,"00:17:02,480","00:17:04,440",1022.48,1024.44,1.9600000000000364,"Es sind Spieler auf der Bank,"
+222,"00:17:04,480","00:17:08,280",1024.48,1028.28,3.7999999999999545,die bei fast allen anderen Mannschaften direkt spielen würden.
+223,"00:17:08,280","00:17:12,000",1028.28,1032.0,3.7200000000000273,"Die beiden Jungs, die geben wir davon unten rechts sehen,"
+224,"00:17:12,080","00:17:16,960",1032.08,1036.96,4.880000000000109,"wie stoppt man die, wie kriegt man die in den Griff?"
+225,"00:17:16,960","00:17:19,280",1036.96,1039.28,2.3199999999999363,"Das sind außergewöhnliche Spieler,"
+226,"00:17:19,280","00:17:24,320",1039.28,1044.32,5.039999999999964,"die scheinbar auch ganz schwer zu verteidigen sind,"
+227,"00:17:24,320","00:17:28,000",1044.32,1048.0,3.6800000000000637,"die mit sehr viel Geschwindigkeit kommen,"
+228,"00:17:28,040","00:17:32,800",1048.04,1052.8,4.759999999999991,Jamal ist gerade mal 16 Jahre alt.
+229,"00:17:32,840","00:17:37,400",1052.84,1057.4,4.560000000000173,"Undenkbar, dass jemand in dem Alter schon auf dem Level spielen kann."
+230,"00:17:37,440","00:17:42,200",1057.44,1062.2,4.759999999999991,Spanien Schauspiel auf den Junioren und Nachwuchsbereich.
+231,"00:17:42,240","00:17:48,520",1062.24,1068.52,6.279999999999973,"Es ist schon außergewöhnlich, was er im Fuß und im Kopf hat."
+232,"00:17:48,560","00:17:54,800",1068.56,1074.8,6.240000000000009,Er schreibt noch seinen Realschulabschluss parallel.
+233,"00:17:54,800","00:17:58,680",1074.8,1078.68,3.880000000000109,"Ich meine auch, die 16-jährigen, sind die heute so weiter als zu"
+234,"00:17:58,680","00:18:01,440",1078.68,1081.44,2.759999999999991,ihrer aktiven Zeit?
+235,"00:18:01,440","00:18:04,440",1081.44,1084.44,3.0,"SR: Ja, definitiv."
+236,"00:18:04,480","00:18:08,080",1084.48,1088.08,3.599999999999909,"Fußballerisch, aber auch körperlich besser trainiert."
+237,"00:18:08,080","00:18:12,440",1088.08,1092.44,4.360000000000127,"Es wird mehr in den Akademien wird draufgelegt,"
+238,"00:18:12,440","00:18:18,320",1092.44,1098.32,5.879999999999882,"Muskeln aufzubauen, athletisch die Fortsetzung mitzubringen."
+239,"00:18:18,320","00:18:25,680",1098.32,1105.68,7.360000000000127,"Ich war im Stadion gegen Georgien, diese Geschwindigkeit, die Technik,"
+240,"00:18:25,720","00:18:32,880",1105.72,1112.88,7.160000000000082,das ist großartig und live fantastisch zu sehen.
+241,"00:18:35,720","00:18:39,760",1115.72,1119.76,4.039999999999964,"Die Kernkompetenz bei Amelie Bielefeld, auch die Chancen,"
+242,"00:18:39,800","00:18:43,000",1119.8,1123.0,3.2000000000000455,"schnell und dynamisch, da kann man einiges sehen."
+243,"00:18:43,080","00:18:50,120",1123.08,1130.12,7.039999999999964,Wie schätzen Sie das heute ein für Deutschland?
+244,"00:18:52,840","00:18:59,520",1132.84,1139.52,6.680000000000064,Kann ich nur mit meinem Laienbeobachtungen beurteilen.
+245,"00:18:59,520","00:19:02,560",1139.52,1142.56,3.0399999999999636,"Sind hier nicht der Typ Politiker, der sagt,"
+246,"00:19:02,560","00:19:09,000",1142.56,1149.0,6.440000000000055,sie sind so Fußballfan Wilders guten Öffentlichkeit ankommt.
+247,"00:19:09,000","00:19:11,560",1149.0,1151.56,2.5599999999999454,Zumindest lange Zeit gewesen.
+248,"00:19:11,560","00:19:18,640",1151.56,1158.64,7.080000000000155,Also Leute die vor allem der Stadien wegen beim Fußball unterwegs sind.
+249,"00:19:18,640","00:19:25,640",1158.64,1165.64,7.0,Kann ein Stadion nicht mit nach Hause nehmen.
+250,"00:19:27,680","00:19:31,200",1167.68,1171.2,3.519999999999982,Das exotische Stadion auf dem Sie waren?
+251,"00:19:31,200","00:19:33,200",1171.2,1173.2,2.0,In Tansania zum Beispiel.
+252,"00:19:33,200","00:19:36,280",1173.2,1176.28,3.0799999999999272,Stadtderby habe ich dort gesehen.
+253,"00:19:36,280","00:19:38,960",1176.28,1178.96,2.6800000000000637,Es kommt schon ein bisschen was zusammen.
+254,"00:19:39,000","00:19:43,360",1179.0,1183.36,4.3599999999999,"Ich bin kein Fußballer von Haus aus, ja 15 Jahre Handball gespielt."
+255,"00:19:43,400","00:19:48,240",1183.4,1188.24,4.839999999999918,"Das ist die Sportart, die ich technisch auch besser verstehe."
+256,"00:19:48,240","00:19:54,760",1188.24,1194.76,6.519999999999982,Beim Fußball bin ich einfach Zuschauer
+257,"00:19:56,600","00:20:01,440",1196.6,1201.44,4.8400000000001455,"und ich kann sagen, das Spielfeld."
+258,"00:20:01,480","00:20:05,600",1201.48,1205.6,4.119999999999891,"Ich freue mich Freitag auf ein gutes Spiel,"
+259,"00:20:05,640","00:20:11,640",1205.64,1211.64,6.0,mag nicht tauschen.
+260,"00:20:17,960","00:20:21,280",1217.96,1221.28,3.3199999999999363,"Wir haben über Toni Kroos gesprochen, er weiß, es"
+261,"00:20:21,280","00:20:25,200",1221.28,1225.2,3.9200000000000728,"ist sein letztes Turnier, es gibt nur ein Ende des Turniers"
+262,"00:20:25,240","00:20:29,880",1225.24,1229.88,4.6400000000001,"war sein kann ist ein großer Sieg beim letzten Spiel,"
+263,"00:20:29,880","00:20:33,080",1229.88,1233.08,3.199999999999818,ich stell mir das schon als großen inneren Druck vor.
+264,"00:20:33,080","00:20:40,880",1233.08,1240.88,7.800000000000182,Deswegen der Notausgang Leverkusen..
+265,"00:20:40,880","00:20:44,200",1240.88,1244.2,3.3199999999999363,"SR: Ich glaube das ist ein unglaublicher Ansporn,"
+266,"00:20:44,240","00:20:46,280",1244.24,1246.28,2.0399999999999636,er hat seine Karriere beendet
+267,"00:20:46,280","00:20:48,960",1246.28,1248.96,2.6800000000000637,fantastisch mit den Championsleague Titeln.
+268,"00:20:48,960","00:20:51,840",1248.96,1251.84,2.8799999999998818,34 Titel insgesamt.
+269,"00:20:51,840","00:20:55,680",1251.84,1255.68,3.8400000000001455,"Nationaler Meister gewesen, dass es eine große Motivation"
+270,"00:20:55,680","00:20:58,400",1255.68,1258.4,2.7200000000000273,"ich glaube nicht, dass er so viel Druck empfindet."
+271,"00:20:58,400","00:21:03,400",1258.4,1263.4,5.0,"Ich glaube mit diesem Einzeltitel der nicht gewonnen hat,"
+272,"00:21:03,400","00:21:07,480",1263.4,1267.48,4.079999999999927,"ich glaube nicht, dass erster so hatte."
+273,"00:21:07,480","00:21:11,000",1267.48,1271.0,3.519999999999982,"Und Kevin Kühnert trägt dann das Deutschland Trikot,"
+274,"00:21:11,000","00:21:12,840",1271.0,1272.84,1.8399999999999181,wenn Sie Fußball gucken?
+275,"00:21:12,840","00:21:22,560",1272.84,1282.56,9.720000000000027,"KK: Auch Journalistinnen und Journalisten,"
+276,"00:21:22,560","00:21:29,000",1282.56,1289.0,6.440000000000055,"ich glaube, wenn ich Fan bin bin ich immer Fall Einzelfällen."
+277,"00:21:29,040","00:21:35,000",1289.04,1295.0,5.960000000000036,Das sehe ich eher Trikots an.
+278,"00:21:37,520","00:21:43,360",1297.52,1303.36,5.839999999999918,"Wenn ich zu Hause vorm Fernseher sitzen, warum sie sie denn ansehen?"
+279,"00:21:43,360","00:21:48,120",1303.36,1308.12,4.759999999999991,"Und wenn sie ins Stadion gehen, da gibt es eine ganze Serie von Fotos,"
+280,"00:21:48,120","00:21:49,760",1308.12,1309.76,1.6400000000001,Karl Lauterbach ist auch unterwegs.
+281,"00:21:49,760","00:21:53,400",1309.76,1313.4,3.6400000000001,"Man muss aber auch sagen, ist wirklich fußballbegeisterten."
+282,"00:21:53,400","00:21:57,960",1313.4,1317.96,4.559999999999945,Er trägt aber offenbar kein Trikot.
+283,"00:21:57,960","00:22:04,960",1317.96,1324.96,7.0,"Karl Lauterbach und ich haben während der akuten Corona-Zeit,"
+284,"00:22:04,960","00:22:10,760",1324.96,1330.76,5.7999999999999545,"da konnte man so Popsilhouetten aufstellen lassen, da standen wir"
+285,"00:22:10,800","00:22:16,880",1330.8,1336.88,6.080000000000155,nebeneinander in der Gästekurve.
+286,"00:22:21,440","00:22:26,840",1341.44,1346.84,5.399999999999864,Da haben wir uns für Zuschauer freie Spiel ausgesprochen.
+287,"00:22:26,920","00:22:29,600",1346.92,1349.6,2.6799999999998363,Deswegen sind wir daraus getragen worden.
+288,"00:22:29,680","00:22:35,600",1349.68,1355.6,5.919999999999845,Sonst ist der Leverkusen Fan.
+289,"00:22:39,320","00:22:47,280",1359.32,1367.28,7.960000000000036,"Robin Alexander, die Frage ist auch Deutschland Trikot ja oder nein."
+290,"00:22:47,280","00:22:51,320",1367.28,1371.32,4.039999999999964,"Von Kevin Kühnert gibt's den Satz, sie haben 2006 gefremdelt"
+291,"00:22:51,360","00:22:57,320",1371.36,1377.32,5.960000000000036,mit den Deutschland Fahnen.
+292,"00:22:58,800","00:23:04,760",1378.8,1384.76,5.960000000000036,"KK: was heißt gefremdet,"
+293,"00:23:07,280","00:23:15,040",1387.28,1395.04,7.759999999999991,"aber ein junger damals aktiv geworden das Händel worden,"
+294,"00:23:16,040","00:23:19,600",1396.04,1399.6,3.5599999999999454,"da war der Wunsch, groß, mit diesem Superpräsidenten,"
+295,"00:23:19,680","00:23:21,880",1399.68,1401.88,2.2000000000000455,"dass die Paarungen präsent waren,"
+296,"00:23:21,960","00:23:28,600",1401.96,1408.6,6.639999999999873,"mit deren nationalistischen Einstellung,"
+297,"00:23:36,480","00:23:40,360",1416.48,1420.36,3.8799999999998818,"das war politisch sehr präsent damals, ich würde das heute"
+298,"00:23:40,440","00:23:43,800",1420.44,1423.8,3.3599999999999,enstpannter sehen.
+299,"00:23:43,800","00:23:46,480",1423.8,1426.48,2.6800000000000637,Wie beobachten Sie das in diesen Tagen?
+300,"00:23:46,480","00:23:52,440",1426.48,1432.44,5.960000000000036,Die Verbindung Fußball und Politik?
+301,"00:23:52,480","00:23:55,640",1432.48,1435.64,3.160000000000082,"RA: Ich denke, niemand zu Hause will das hören,"
+302,"00:23:55,680","00:23:58,880",1435.68,1438.88,3.2000000000000455,für Politiker ist das Eigenkapital.
+303,"00:23:58,880","00:24:02,360",1438.88,1442.36,3.479999999999791,"Das kann man richtig sehen, wenn sie zurückdenken,"
+304,"00:24:02,400","00:24:06,680",1442.4,1446.68,4.279999999999973,"wir haben über 2006 gesprochen, da war ein Jahr Merkel Kanzlerin."
+305,"00:24:06,720","00:24:11,240",1446.72,1451.24,4.519999999999982,"Sie hatte gar kein gutes erstes Jahr, die Koalition war zerstritten."
+306,"00:24:11,240","00:24:15,960",1451.24,1455.96,4.720000000000027,Mit diesem Sommermärchen hat es total gewendet
+307,"00:24:16,000","00:24:19,560",1456.0,1459.56,3.5599999999999454,"man hat bei Merkel erlebt, sie kommt nicht vom Fußball"
+308,"00:24:19,600","00:24:25,840",1459.6,1465.84,6.240000000000009,"und am Anfang hat sie immer gesagt,"
+309,"00:24:25,880","00:24:30,200",1465.88,1470.2,4.319999999999936,sie hat den Törn zum Frauenfußball gemacht.
+310,"00:24:30,240","00:24:38,600",1470.24,1478.6,8.3599999999999,"Die Männer sollen gewinnen, weil die Frauen haben schon gewonnen."
+311,"00:24:39,440","00:24:44,200",1479.44,1484.2,4.759999999999991,Sie hat diese Fußball Begeisterung über sich überleiten können.
+312,"00:24:44,240","00:24:49,160",1484.24,1489.16,4.920000000000073,Das machen Politiker nicht zufällig.
+313,"00:24:49,160","00:24:53,200",1489.16,1493.2,4.039999999999964,"Adidas hat ihm zwei Versionen geschenkt,"
+314,"00:24:53,240","00:24:58,080",1493.24,1498.08,4.839999999999918,"aber er tritt damit nicht auf, er ist da noch reserviert."
+315,"00:24:58,080","00:25:02,520",1498.08,1502.52,4.440000000000055,"Mir gefällt es, weil er sich nicht verbiegt."
+316,"00:25:02,560","00:25:06,520",1502.56,1506.52,3.9600000000000364,Er lässt auch eine Menge politisches Kapital liegen.
+317,"00:25:06,560","00:25:09,040",1506.56,1509.04,2.480000000000018,"Interessant, sie sagen,"
+318,"00:25:09,080","00:25:11,440",1509.08,1511.44,2.3600000000001273,"mir gefällt das,"
+319,"00:25:11,440","00:25:16,720",1511.44,1516.72,5.279999999999973,wahrscheinlich würde ihm das andere anders auslegen.
+320,"00:25:16,720","00:25:18,960",1516.72,1518.96,2.240000000000009,"Er geht dahin, es ist klar,"
+321,"00:25:19,000","00:25:23,400",1519.0,1523.4,4.400000000000091,"für wen er ist, aber er inszeniert sich nicht als Fan,"
+322,"00:25:23,400","00:25:26,800",1523.4,1526.8,3.3999999999998636,der er vorher nicht war.
+323,"00:25:26,800","00:25:30,760",1526.8,1530.76,3.9600000000000364,"Mal angenommen, Markus Söder wäre Bundeskanzler,"
+324,"00:25:30,760","00:25:34,560",1530.76,1534.56,3.7999999999999545,"der würde auch mit dem Trikot zur Pressekonferenz gehen,"
+325,"00:25:34,560","00:25:37,280",1534.56,1537.28,2.7200000000000273,"das ist für Politiker ein Riesenkapital,"
+326,"00:25:37,320","00:25:41,280",1537.32,1541.28,3.9600000000000364,wenn man so damit verschmelzen kann.
+327,"00:25:41,320","00:25:48,440",1541.32,1548.44,7.120000000000118,"Stimmt es, dass sie ein Trikot zu Hause haben,"
+328,"00:25:55,000","00:25:58,760",1555.0,1558.76,3.759999999999991,dass mal Merkel bestimmt war aber nie zum Einsatz kam?
+329,"00:25:58,800","00:26:06,080",1558.8,1566.08,7.279999999999973,"2010 war die WM in Südafrika, Adidas hatte schon ein Trikot gemacht,"
+330,"00:26:06,120","00:26:08,680",1566.12,1568.68,2.560000000000173,wo hinten auf dem Trikot Merkel stand.
+331,"00:26:08,720","00:26:11,840",1568.72,1571.84,3.119999999999891,Das haben unsere Leute von der Welt genommen und mitgegeben.
+332,"00:26:11,840","00:26:18,200",1571.84,1578.2,6.360000000000127,Und tragen Sie das heute jetzt noch?
+333,"00:26:18,200","00:26:23,960",1578.2,1583.96,5.759999999999991,"Eine Tochter wollte das tragen, meine Tochter ist 17"
+334,"00:26:23,960","00:26:27,480",1583.96,1587.48,3.519999999999982,und wollte zur Fanmeile am Brandenburger Tor
+335,"00:26:27,520","00:26:31,320",1587.52,1591.32,3.7999999999999545,und hatte meine Trikotkiste geschaut.
+336,"00:26:31,320","00:26:35,560",1591.32,1595.56,4.240000000000009,Und das ist so fifty shades of schalke
+337,"00:26:35,600","00:26:38,320",1595.6,1598.32,2.7200000000000273,und dann wollte sie mit dem Trikot dahin
+338,"00:26:38,320","00:26:41,520",1598.32,1601.52,3.2000000000000455,und am Ende musste ich einen rosa Trikot kaufen
+339,"00:26:41,520","00:26:43,520",1601.52,1603.52,2.0,und damit geht meine Tochter.
+340,"00:26:43,520","00:26:47,720",1603.52,1607.72,4.2000000000000455,Mit dem ist sie jetzt unterwegs?
+341,"00:26:47,720","00:26:51,120",1607.72,1611.12,3.3999999999998636,Musiala statt Merkel.
+342,"00:26:51,120","00:26:53,120",1611.12,1613.12,2.0,Deutlich naheliegender.
+343,"00:26:53,200","00:27:00,480",1613.2,1620.48,7.279999999999973,"Ich habe es anfangs schon gesagt, Alonso,"
+344,"00:27:00,480","00:27:04,280",1620.48,1624.28,3.7999999999999545,"wie kommt man dazu, wenn man als Sportmanager aktiv ist,"
+345,"00:27:04,320","00:27:08,520",1624.32,1628.52,4.2000000000000455,"man schaut sich in der ganzen Welt, wie ist man sich so sicher,"
+346,"00:27:08,600","00:27:14,520",1628.6,1634.52,5.920000000000073,der macht das.
+347,"00:27:15,000","00:27:18,200",1635.0,1638.2,3.2000000000000455,"SR: Grundsätzlich gehört das zu meinem Job zu,"
+348,"00:27:18,200","00:27:20,920",1638.2,1640.92,2.7200000000000273,"nicht nur den Spielemarkt zu beobachten,"
+349,"00:27:20,960","00:27:26,720",1640.96,1646.72,5.759999999999991,sondern auch den Trainermarkt.
+350,"00:27:26,760","00:27:29,760",1646.76,1649.76,3.0,"Deswegen hat man immer für Situationen,"
+351,"00:27:29,760","00:27:33,480",1649.76,1653.48,3.7200000000000273,ein Renner zu suchen ein gewissen Fundus an Kandidaten.
+352,"00:27:33,520","00:27:38,040",1653.52,1658.04,4.519999999999982,"Damals war es so, das Verfahren der Saison, dass wir geguckt haben,"
+353,"00:27:38,040","00:27:40,000",1658.04,1660.0,1.9600000000000364,wer ist verfügbar.
+354,"00:27:40,040","00:27:43,960",1660.04,1663.96,3.9200000000000728,"Dann sind wir in die Analyse gegangen, wie war die Arbeit,"
+355,"00:27:43,960","00:27:47,680",1663.96,1667.68,3.7200000000000273,"passt das vom Spielstil, passt das zu unseren Spielern."
+356,"00:27:47,720","00:27:51,960",1667.72,1671.96,4.240000000000009,"Die ganzen Sachen, die wir bei Spielern auch machen."
+357,"00:27:51,960","00:27:54,080",1671.96,1674.08,2.119999999999891,"Es gibt ein richtiges Scouting,"
+358,"00:27:54,120","00:27:56,720",1674.12,1676.72,2.6000000000001364,auch für Trainer?
+359,"00:27:56,720","00:27:59,560",1676.72,1679.56,2.839999999999918,"Klar, wir schauen uns den Trainermarkt an,"
+360,"00:27:59,600","00:28:03,080",1679.6,1683.08,3.480000000000018,das ist eine ganz entscheidende Personalie für mich
+361,"00:28:03,080","00:28:05,120",1683.08,1685.12,2.0399999999999636,und damit auch für den Verein.
+362,"00:28:05,120","00:28:07,920",1685.12,1687.92,2.800000000000182,"Wir haben Spieler angeguckt, recherchiert,"
+363,"00:28:07,920","00:28:10,240",1687.92,1690.24,2.3199999999999363,"Referenzen im Markt, die ich kenne,"
+364,"00:28:10,280","00:28:14,520",1690.28,1694.52,4.240000000000009,"die mit ihm zusammengearbeitet haben, vorher zu interpretieren,"
+365,"00:28:14,560","00:28:16,880",1694.56,1696.88,2.3200000000001637,wie ist seine Persönlichkeit.
+366,"00:28:16,880","00:28:22,480",1696.88,1702.48,5.599999999999909,Sie hatten ihm konkretem Auge?
+367,"00:28:22,480","00:28:26,200",1702.48,1706.2,3.7200000000000273,"Ja, der ist bei jedem Check war er immer oben,"
+368,"00:28:26,200","00:28:33,840",1706.2,1713.84,7.639999999999873,die Liste ist immer kleiner geworden und er war immer der Topkandidat.
+369,"00:28:33,840","00:28:36,920",1713.84,1716.92,3.0800000000001546,"Dann war klar, das ist eine heikle Situation,"
+370,"00:28:36,960","00:28:38,920",1716.96,1718.92,1.9600000000000364,"wenn man einen Trainer sucht,"
+371,"00:28:38,920","00:28:41,960",1718.92,1721.96,3.0399999999999636,dass es meist keine gute Situation im Verein.
+372,"00:28:42,000","00:28:47,000",1722.0,1727.0,5.0,"Dann war klar, ich muss ihn persönlich treffen."
+373,"00:28:47,000","00:29:01,640",1727.0,1741.64,14.6400000000001,Der hat ja nicht in der ersten Liga trainiert.
+374,"00:29:01,640","00:29:07,880",1741.64,1747.88,6.240000000000009,Zu der Zeit im Sommer hatte er aufgehört
+375,"00:29:07,880","00:29:11,600",1747.88,1751.6,3.7199999999998,"und war dann frei und hat alle Komponenten mitgebracht,"
+376,"00:29:11,640","00:29:16,200",1751.64,1756.2,4.559999999999945,nur keine Erfahrung als Trainer.
+377,"00:29:16,200","00:29:22,200",1756.2,1762.2,6.0,Das war so der Risikofaktor.
+378,"00:29:27,520","00:29:29,600",1767.52,1769.6,2.0799999999999272,Was hat Sie so sicher gemacht?
+379,"00:29:29,680","00:29:35,320",1769.68,1775.32,5.639999999999873,"Was die Position, die als Spieler gespielt hat?"
+380,"00:29:35,320","00:29:38,440",1775.32,1778.44,3.1200000000001182,Die Position als Spieler hat natürlich viel...
+381,"00:29:38,440","00:29:41,480",1778.44,1781.48,3.0399999999999636,"Der Blick wird da geschärft auf der Position,"
+382,"00:29:41,520","00:29:45,360",1781.52,1785.36,3.839999999999918,das große Ganze im Blick zu haben.
+383,"00:29:45,360","00:29:48,240",1785.36,1788.24,2.880000000000109,"Du bist immer auf der Schaltzentrale,"
+384,"00:29:48,240","00:29:51,880",1788.24,1791.88,3.6400000000001,"wie viel Risiko gebe ich rein,"
+385,"00:29:51,880","00:29:59,200",1791.88,1799.2,7.319999999999936,tust auf der Position immer die strategischen Fähigkeiten besitzen
+386,"00:29:59,200","00:30:01,600",1799.2,1801.6,2.3999999999998636,und das große Ganze im Blick haben.
+387,"00:30:01,600","00:30:06,840",1801.6,1806.84,5.240000000000009,"In der Stimme häufig einer ist, der schaut, wie schieß ich das Tor."
+388,"00:30:06,840","00:30:11,640",1806.84,1811.64,4.800000000000182,"Diese Spielweise, passt das zu uns, sieht man Muster in der Mannschaft,"
+389,"00:30:11,680","00:30:16,120",1811.68,1816.12,4.439999999999827,"wenn man sich das Spiel anguckt, die darauf Rück schließen lassen,"
+390,"00:30:16,120","00:30:19,600",1816.12,1819.6,3.480000000000018,"dass es nicht nur der Spieler macht, weil er gut ist,"
+391,"00:30:19,600","00:30:23,800",1819.6,1823.8,4.2000000000000455,"sondern weil es einstudiert ist, weil die Mannschaft versteht,"
+392,"00:30:23,800","00:30:25,800",1823.8,1825.8,2.0,wie der Trainer spielen will.
+393,"00:30:25,800","00:30:28,200",1825.8,1828.2,2.400000000000091,Diese Sachen waren alle zu sehen.
+394,"00:30:28,200","00:30:34,920",1828.2,1834.92,6.720000000000027,Die Ampel war in dem Fall immer auf Grün.
+395,"00:30:38,280","00:30:45,360",1838.28,1845.36,7.079999999999927,"Außer der Punkt Erfahrung kann war die Frage,"
+396,"00:30:49,040","00:30:52,400",1849.04,1852.4,3.3600000000001273,glauben wir an Erfahrungen in so einer Situation
+397,"00:30:52,440","00:30:54,400",1852.44,1854.4,1.9600000000000364,oder glauben wir an Qualität.
+398,"00:30:54,440","00:31:00,120",1854.44,1860.12,5.679999999999836,Und ich bin überzeugt dass man über Qualitätserfahrung gewinnt.
+399,"00:31:00,120","00:31:02,520",1860.12,1862.52,2.400000000000091,Dann sind wir als er Verein gefragt
+400,"00:31:02,520","00:31:06,160",1862.52,1866.16,3.6400000000001,bei den ersten Schritten in zu unterstützen.
+401,"00:31:06,160","00:31:15,080",1866.16,1875.08,8.919999999999845,"Und wie haben Sie ihn dann heute überzeugt, mit welchen Argumenten,"
+402,"00:31:15,080","00:31:22,320",1875.08,1882.32,7.240000000000009,"Wir waren damals in einer schwierigen Situation,"
+403,"00:31:22,640","00:31:26,560",1882.64,1886.56,3.9199999999998454,17. sind wir gewesen.
+404,"00:31:26,600","00:31:29,440",1886.6,1889.44,2.8400000000001455,Aber mit viel Potenzial in der Mannschaft.
+405,"00:31:29,440","00:31:33,080",1889.44,1893.08,3.6399999999998727,"Die Möglichkeiten aufgezeigt haben wir, haben gezeigt,"
+406,"00:31:33,120","00:31:35,280",1893.12,1895.28,2.160000000000082,kann nur noch aufwärtsgehen.
+407,"00:31:35,320","00:31:38,040",1895.32,1898.04,2.7200000000000273,"Wir waren als Verein stabil aufgestellt,"
+408,"00:31:38,040","00:31:40,760",1898.04,1900.76,2.7200000000000273,wir haben einen guten Umgang miteinander.
+409,"00:31:40,800","00:31:47,880",1900.8,1907.88,7.080000000000155,Und für ihn war das ein hervorragender Schritt.
+410,"00:31:49,680","00:31:53,400",1909.68,1913.4,3.7200000000000273,"bevor wir gleich auch über Politik sprechen, Friederike,"
+411,"00:31:53,480","00:31:59,400",1913.48,1919.4,5.920000000000073,"Thema VR Technik, dieser 1 cm,"
+412,"00:32:00,280","00:32:06,120",1920.28,1926.12,5.839999999999918,"dass ist atemberaubend, der was man da sieht,"
+413,"00:32:06,200","00:32:10,120",1926.2,1930.12,3.9199999999998454,"der große Zeh, dem abseits ist, aber der ganze Mensch nicht."
+414,"00:32:10,200","00:32:15,640",1930.2,1935.64,5.440000000000055,Sie hadern mit dieser Technik?
+415,"00:32:15,640","00:32:18,720",1935.64,1938.72,3.0799999999999272,FK: Absolut richtig.
+416,"00:32:18,720","00:32:23,160",1938.72,1943.16,4.440000000000055,"Es killt so diese Momente, weil ich selbst leidvoll ertragen musste"
+417,"00:32:23,160","00:32:27,800",1943.16,1947.8,4.639999999999873,"Entscheidung hinzunehmen, die teilweise minutenlang dauern"
+418,"00:32:27,840","00:32:31,240",1947.84,1951.24,3.400000000000091,und es killt ein bisschen die Emotionen.
+419,"00:32:31,280","00:32:35,120",1951.28,1955.12,3.839999999999918,"Wir haben oft minutenlang auf VAR Entscheidungen gewartet,"
+420,"00:32:35,160","00:32:38,840",1955.16,1958.84,3.6799999999998363,mittlerweile hat sich die Technologie weiter entwickelt
+421,"00:32:38,880","00:32:40,640",1958.88,1960.64,1.759999999999991,und es ist noch mal fundierter.
+422,"00:32:40,640","00:32:43,440",1960.64,1963.44,2.7999999999999545,"Es ist schnell, es ist unglaublich perfekt."
+423,"00:32:43,440","00:32:46,480",1963.44,1966.48,3.0399999999999636,"Trotzdem macht es etwas mit einem,"
+424,"00:32:46,520","00:32:50,520",1966.52,1970.52,4.0,"wenn man ein Tor schießt und nicht weiß, ob man jubeln darf."
+425,"00:32:50,520","00:32:58,080",1970.52,1978.08,7.559999999999945,Es nimmt dir die Emotionen und die Momente des Spiels.
+426,"00:32:58,680","00:33:01,240",1978.68,1981.24,2.5599999999999454,Jetzt ist es auf einem besseren Level
+427,"00:33:01,280","00:33:04,600",1981.28,1984.6,3.3199999999999363,"und trotzdem bleibt Restskepsis bei man sagt,"
+428,"00:33:04,640","00:33:07,760",1984.64,1987.76,3.119999999999891,"es ist Technologie basiert und KI basiert,"
+429,"00:33:07,800","00:33:12,240",1987.8,1992.24,4.440000000000055,"trotzdem fragt man sich, ob es die Wahrheit ist oder eine Grauzone,"
+430,"00:33:12,240","00:33:14,600",1992.24,1994.6,2.3599999999999,die man anders auslegen könnte.
+431,"00:33:14,600","00:33:21,400",1994.6,2001.4,6.800000000000182,Das könnte dann auch zu einem anderen Ergebnis führen.
+432,"00:33:21,400","00:33:25,640",2001.4,2005.64,4.240000000000009,"Das ist ein interessanter Punkt, ob man jubeln darf oder nicht."
+433,"00:33:25,640","00:33:31,800",2005.64,2011.8,6.1599999999998545,"Für sie ist es eher, dass man zweimal jubeln oder nicht."
+434,"00:33:31,800","00:33:35,240",2011.8,2015.24,3.4400000000000546,SR: So ist es.
+435,"00:33:35,240","00:33:39,360",2015.24,2019.36,4.119999999999891,"Ich finde es eher positiv, ich bin ein totaler Fan davon, es"
+436,"00:33:39,360","00:33:42,720",2019.36,2022.72,3.3600000000001273,"wird besser werden, sind weitaus schneller werden."
+437,"00:33:42,800","00:33:46,960",2022.8,2026.96,4.160000000000082,"Diese groben Fehlentscheidungen, die richtig bitter sein können,"
+438,"00:33:47,040","00:33:48,960",2027.04,2028.96,1.9200000000000728,die gibt es nicht mehr.
+439,"00:33:49,040","00:33:52,720",2029.04,2032.72,3.6800000000000637,Das ist ein großer Fortschritt.
+440,"00:33:52,840","00:33:57,240",2032.84,2037.24,4.400000000000091,"Es geht um Entscheidungen, auch für einen Verein."
+441,"00:33:57,280","00:34:01,240",2037.28,2041.24,3.9600000000000364,"Dass das Ganze nicht nur an einem Menschen, das finde ich gut."
+442,"00:34:01,240","00:34:15,760",2041.24,2055.76,14.52000000000021,Wie schaut der Schalker darauf?
+443,"00:34:15,760","00:34:19,000",2055.76,2059.0,3.2399999999997817,"RA: Ich muss erst mal sagen, ich bin bei sowas überhaupt keinen Experte,"
+444,"00:34:19,080","00:34:22,000",2059.08,2062.0,2.9200000000000728,ich komme eben mehr aus meinem Empfinden.
+445,"00:34:22,000","00:34:24,920",2062.0,2064.92,2.9200000000000728,"Sie haben sehr schöne Stücke, lange Stücke,"
+446,"00:34:24,960","00:34:33,960",2064.96,2073.96,9.0,gut zu lesende Texte über Fußball geschrieben.
+447,"00:34:33,960","00:34:41,800",2073.96,2081.8,7.8400000000001455,"RA: Ich bin mir nicht aus dem Niveau, aber nur aus meinem"
+448,"00:34:44,320","00:34:48,280",2084.32,2088.28,3.9600000000000364,"finden heraus, dass schon Dänemark, die haben das gewonnen,"
+449,"00:34:48,360","00:34:51,680",2088.36,2091.68,3.319999999999709,"aber es hat ein charmantes Gefühl, sie wurden schon betrogen."
+450,"00:34:51,680","00:34:57,720",2091.68,2097.72,6.039999999999964,"Wo der Trainer sagt, ich hab genug von dieser lächerlichen Handregel."
+451,"00:34:57,720","00:35:02,160",2097.72,2102.16,4.440000000000055,"Es war so ein Gefühl, man hat sich auf die letzten 20 Minuten gefreut,"
+452,"00:35:02,160","00:35:04,960",2102.16,2104.96,2.800000000000182,und dann hat die Maschine das entschieden.
+453,"00:35:05,040","00:35:08,440",2105.04,2108.44,3.400000000000091,"Früher war das sich schöner angespült, früher war..."
+454,"00:35:08,520","00:35:14,440",2108.52,2114.44,5.920000000000073,Es hat sich schöner angefühlt.
+455,"00:35:16,800","00:35:19,320",2116.8,2119.32,2.519999999999982,KK: Jetzt wollen sie mich provozieren
+456,"00:35:19,360","00:35:21,760",2119.36,2121.76,2.400000000000091,einen konservativen Standpunkt einzunehmen.
+457,"00:35:21,760","00:35:31,000",2121.76,2131.0,9.239999999999782,"Wenn Sie als SPD-Generalsekretär gejubelt haben,"
+458,"00:35:31,000","00:35:36,960",2131.0,2136.96,5.960000000000036,was kam da vor?
+459,"00:35:37,800","00:35:41,520",2137.8,2141.52,3.7199999999998,Als sie als Generalsekretär Jubel hatten?
+460,"00:35:41,520","00:35:44,120",2141.52,2144.12,2.599999999999909,Für einen Ausraster?
+461,"00:35:44,120","00:35:48,680",2144.12,2148.68,4.559999999999945,"Der Parteitag im Dezember war ganz gut,"
+462,"00:35:48,680","00:35:50,640",2148.68,2150.64,1.9600000000000364,"aber ist schon länger her,"
+463,"00:35:50,680","00:35:53,720",2150.68,2153.72,3.0399999999999636,"dazwischen sind nicht so viele Sachen passiert,"
+464,"00:35:53,760","00:35:55,840",2153.76,2155.84,2.0799999999999272,die Grund zum Jubeln geboten haben.
+465,"00:35:55,840","00:36:06,520",2155.84,2166.52,10.679999999999836,"Es ist hart, wie man soweit zurückgehen muss."
+466,"00:36:06,520","00:36:10,040",2166.52,2170.04,3.519999999999982,"Das stimmt, aber die volle Bandbreite der Emotionen,"
+467,"00:36:10,040","00:36:11,960",2170.04,2171.96,1.9200000000000728,haben wir gerade darüber gesprochen.
+468,"00:36:11,960","00:36:20,400",2171.96,2180.4,8.440000000000055,"Was für eine schöne Floskel, den passt immer."
+469,"00:36:20,400","00:36:24,800",2180.4,2184.8,4.400000000000091,"Ohne einen bösen Hintergedanken, bei der Pleite in der Europawahl,"
+470,"00:36:24,880","00:36:27,800",2184.88,2187.8,2.9200000000000728,haben sie über einen Rücktritt nachgedacht?
+471,"00:36:27,800","00:36:31,200",2187.8,2191.2,3.399999999999636,Nein.
+472,"00:36:31,240","00:36:34,880",2191.24,2194.88,3.6400000000003274,"Wenn ich es getan hätte, hätte ich zurücktreten sollen,"
+473,"00:36:34,880","00:36:37,880",2194.88,2197.88,3.0,"weil wenn man dann solche Selbstzweifel hat,"
+474,"00:36:37,880","00:36:40,720",2197.88,2200.72,2.8399999999996908,ist man da nicht richtig.
+475,"00:36:40,720","00:36:43,920",2200.72,2203.92,3.200000000000273,"Wir haben Fehler gemacht, auch in der Kampagne,"
+476,"00:36:43,920","00:36:50,080",2203.92,2210.08,6.1599999999998545,für die ich Verantwortung trage.
+477,"00:36:50,080","00:36:52,160",2210.08,2212.16,2.0799999999999272,"Wir, ist wer?"
+478,"00:36:52,160","00:36:56,440",2212.16,2216.44,4.2800000000002,"Wir ist wer in dem Fall die Partei, wer ist wir?"
+479,"00:36:56,440","00:37:02,160",2216.44,2222.16,5.7199999999998,Wir ist die Partei.
+480,"00:37:02,160","00:37:05,080",2222.16,2225.08,2.9200000000000728,"Trotzdem haben Sie nie darüber nachgedacht,"
+481,"00:37:05,080","00:37:08,720",2225.08,2228.72,3.6399999999998727,es jetzt bleiben zu lassen?
+482,"00:37:08,720","00:37:12,240",2228.72,2232.24,3.519999999999982,"Die Partei tritt gemeinschaftlich auf, Verantwortung"
+483,"00:37:12,240","00:37:16,840",2232.24,2236.84,4.600000000000364,für die Kampagne hat der Generalsekretär.
+484,"00:37:16,840","00:37:21,120",2236.84,2241.12,4.279999999999745,"Nein, das habe ich nicht getan, ich bin nicht davon überzeugt,"
+485,"00:37:21,160","00:37:24,720",2241.16,2244.72,3.5599999999999454,dass das die Lösung ist für die Probleme meiner Partei.
+486,"00:37:24,760","00:37:30,240",2244.76,2250.24,5.479999999999563,"Unsere Mitglieder und dürfen den Anspruch haben,"
+487,"00:37:30,280","00:37:34,760",2250.28,2254.76,4.480000000000018,dass wir nicht einfache Befehle hinweg lächeln.
+488,"00:37:34,760","00:37:38,760",2254.76,2258.76,4.0,"Ich verspreche, wenn ich den den Eindruck hatte,"
+489,"00:37:38,800","00:37:43,120",2258.8,2263.12,4.319999999999709,"den Austausch von jemandem würde bessere Ergebnisse produzieren,"
+490,"00:37:43,120","00:37:46,800",2263.12,2266.8,3.680000000000291,"Schutz machen, aber davon bin ich nicht überzeugt."
+491,"00:37:46,800","00:37:54,960",2266.8,2274.96,8.159999999999854,"Ich schau zu Robin Alexander, der aktiv durchatmen."
+492,"00:37:54,960","00:37:57,040",2274.96,2277.04,2.0799999999999272,"RA: Klassischerweise ist es so,"
+493,"00:37:57,120","00:38:01,480",2277.12,2281.48,4.360000000000127,"dass Kühnert eigentlich auch selber verteilte Vorsitzenden bitten,"
+494,"00:38:01,600","00:38:03,480",2281.6,2283.48,1.8800000000001091,ihn zu entlassen.
+495,"00:38:03,600","00:38:10,320",2283.6,2290.32,6.720000000000255,Zuletzt das Friedrich Merz dabei erwischt.
+496,"00:38:10,560","00:38:16,160",2290.56,2296.16,5.599999999999909,"Es gab tatsächlich technische Fehler,"
+497,"00:38:16,240","00:38:23,440",2296.24,2303.44,7.200000000000273,"aber die Grundaufstellung dahinter, das sollte man den Blick nehmen,"
+498,"00:38:23,520","00:38:30,040",2303.52,2310.04,6.519999999999982,die SPD hat eine Friedenskanzlei macht.
+499,"00:38:32,120","00:38:35,120",2312.12,2315.12,3.0,"Scholz aber auch gleichzeitig erzählt,"
+500,"00:38:35,240","00:38:43,800",2315.24,2323.8,8.5600000000004,der Ukraine wird nun von niemanden außer Deutschland soviel geliefert.
+501,"00:38:46,880","00:38:49,600",2326.88,2329.6,2.7199999999998,Der Westen hat aber auch letztlich Erlau
+502,"00:38:49,680","00:38:54,320",2329.68,2334.32,4.640000000000327,"auf russisches Gebiet zu schießen, weil dort angegriffen wurde."
+503,"00:38:54,400","00:38:59,080",2334.4,2339.08,4.679999999999836,"Und eine Wahl zu machen, man sagt, Friedenskanzler,"
+504,"00:38:59,160","00:39:07,280",2339.16,2347.28,8.120000000000346,"und dann auf russisches Gebiets zu schießen, das war schwierig."
+505,"00:39:09,920","00:39:13,880",2349.92,2353.88,3.9600000000000364,"Wo wir gerade bei Kommunikation sind, der Blick nach vorne,"
+506,"00:39:13,920","00:39:16,240",2353.92,2356.24,2.319999999999709,"der Haushalt, der verhandelt wird,"
+507,"00:39:16,240","00:39:19,680",2356.24,2359.68,3.4400000000000546,"ist das ein krisenhaften Moment für diese Regierung,"
+508,"00:39:19,720","00:39:23,040",2359.72,2363.04,3.3200000000001637,"der nicht so wahrgenommen wird,"
+509,"00:39:23,080","00:39:28,960",2363.08,2368.96,5.880000000000109,weil alle mit schönen Dingen wie Fußball beschäftigt sind?
+510,"00:39:28,960","00:39:34,800",2368.96,2374.8,5.8400000000001455,"RA: Unbedingt, im Bundeshaushalt gibt es das zentrale,"
+511,"00:39:34,800","00:39:38,080",2374.8,2378.08,3.2799999999997453,"diese Regierung hat das epochale Scheitern erlebt,"
+512,"00:39:38,200","00:39:42,240",2378.2,2382.24,4.039999999999964,dass der Haushalt weggewischt wurde.
+513,"00:39:42,320","00:39:47,680",2382.32,2387.68,5.359999999999673,"Sie mussten etwas zusammenlegen,"
+514,"00:39:47,800","00:39:50,560",2387.8,2390.56,2.7599999999997635,"das sowohl den Bauernprotesten ausgeartet,"
+515,"00:39:50,680","00:39:56,560",2390.68,2396.56,5.880000000000109,"wenn es wieder nicht klappt,"
+516,"00:39:57,960","00:40:02,440",2397.96,2402.44,4.480000000000018,dann wird es schwierig.
+517,"00:40:02,520","00:40:06,000",2402.52,2406.0,3.480000000000018,"Der 4. Juli ist gerissen worden,"
+518,"00:40:06,120","00:40:09,200",2406.12,2409.2,3.0799999999999272,deswegen versucht man es jetzt dieser Braut zu einigen.
+519,"00:40:10,400","00:40:12,800",2410.4,2412.8,2.400000000000091,"Es spitzt sich gerade ganz schön was zu, um Herrn bedenkt was ich gerade"
+520,"00:40:12,880","00:40:16,840",2412.88,2416.84,3.9600000000000364,"Frankreich zu spitzt und in Amerika, dann ist das gerade einfach kein"
+521,"00:40:16,920","00:40:19,200",2416.92,2419.2,2.2799999999997453,guter Zeitpunkt.
+522,"00:40:19,200","00:40:26,040",2419.2,2426.04,6.8400000000001455,Wie ist die Lage wirklich?
+523,"00:40:26,040","00:40:28,840",2426.04,2428.84,2.800000000000182,"KK: Nicht so wie in Frankreich,"
+524,"00:40:28,880","00:40:31,560",2428.88,2431.56,2.6799999999998363,das darf man bei all der Unzufriedenheit
+525,"00:40:31,600","00:40:34,720",2431.6,2434.72,3.119999999999891,in unserem Land auch mal sagen.
+526,"00:40:34,720","00:40:39,160",2434.72,2439.16,4.440000000000055,Hier behalten alle die Fassungen und auch ein bisschen die Nerven.
+527,"00:40:39,200","00:40:42,880",2439.2,2442.88,3.680000000000291,Der französische Präsident hat die Nerven nicht bewahrt
+528,"00:40:42,920","00:40:46,480",2442.92,2446.48,3.5599999999999454,nach der Niederlage seiner Partei bei der Europawahl.
+529,"00:40:46,520","00:40:51,040",2446.52,2451.04,4.519999999999982,"Er wollte ein Symbol setzen, dass er jetzt seine Lehre daraus zieht,"
+530,"00:40:51,040","00:40:54,160",2451.04,2454.16,3.119999999999891,"für diese Lehre zahlte zum Ende das ganze Land,"
+531,"00:40:54,200","00:40:58,440",2454.2,2458.44,4.2400000000002365,das vielleicht einen rechtsradikalen Ministerpräsidenten bekommt
+532,"00:40:58,440","00:41:02,440",2458.44,2462.44,4.0,das ist ein sehr hoher Preis für eine westliche Demokratie.
+533,"00:41:02,480","00:41:05,640",2462.48,2465.64,3.1599999999998545,"Insofern tun wir gut daran nicht zu bestreiten,"
+534,"00:41:05,640","00:41:09,920",2465.64,2469.92,4.2800000000002,dass das schwierige Gespräche im Moment sind.
+535,"00:41:09,920","00:41:13,680",2469.92,2473.68,3.7599999999997635,Da kommen wir nicht drum rum.
+536,"00:41:13,720","00:41:16,800",2473.72,2476.8,3.080000000000382,"Der Zeitdruck entsteht nicht dadurch,"
+537,"00:41:16,800","00:41:20,000",2476.8,2480.0,3.199999999999818,"dass wir morgen den fertigen Haushalt brauchen,"
+538,"00:41:20,000","00:41:24,040",2480.0,2484.04,4.039999999999964,wir reden über den Bundeshaushalt fürs kommende Kalenderjahr
+539,"00:41:24,080","00:41:27,520",2484.08,2487.52,3.4400000000000546,und dem Bundestag sollte abschließend Ende November
+540,"00:41:27,560","00:41:29,840",2487.56,2489.84,2.2800000000002,geschlossen werden.
+541,"00:41:29,880","00:41:33,960",2489.88,2493.96,4.079999999999927,"Es ist das parlamentarische Geschäft, das vor der Sommerpause"
+542,"00:41:34,000","00:41:38,320",2494.0,2498.32,4.320000000000164,Mann von der Regierung einen Haushaltsentwurf hingelegt bekommt.
+543,"00:41:38,360","00:41:40,720",2498.36,2500.72,2.3599999999996726,Und diese Woche ist die letzte Woche
+544,"00:41:40,760","00:41:42,560",2500.76,2502.56,1.7999999999997272,vor der parlamentarischen Sommerpause.
+545,"00:41:42,560","00:41:46,040",2502.56,2506.04,3.480000000000018,"Und ist es auch ein guter Moment, weil gerade Biereuropameisterschaft"
+546,"00:41:46,120","00:41:54,480",2506.12,2514.48,8.360000000000127,"läuft, wurde immer getrickst?"
+547,"00:41:54,480","00:41:57,720",2514.48,2517.72,3.2399999999997817,"RA: Es gibt den Klassiker, Deutschland spielt, und dabei wird"
+548,"00:41:57,840","00:42:00,120",2517.84,2520.12,2.2799999999997453,wenig populäres Gesetz beschlossen.
+549,"00:42:00,200","00:42:05,280",2520.2,2525.28,5.080000000000382,"Aber das ist eine Kleinigkeit, das ist nicht der Haushalt."
+550,"00:42:05,360","00:42:08,920",2525.36,2528.92,3.5599999999999454,Das wäre die deutsche Meisterschaft für die Regierung.
+551,"00:42:09,000","00:42:13,080",2529.0,2533.08,4.079999999999927,Das müsste man schon bringen.
+552,"00:42:13,200","00:42:17,040",2533.2,2537.04,3.8400000000001455,"Hier reden jetzt drei Männer, vor allen Dingen reden zwei,"
+553,"00:42:17,120","00:42:19,640",2537.12,2539.64,2.519999999999982,Lindner und Scholz.
+554,"00:42:19,720","00:42:26,920",2539.72,2546.92,7.200000000000273,"Die würden sich einigen, aber dieses eingemauert."
+555,"00:42:29,240","00:42:35,960",2549.24,2555.96,6.720000000000255,Irgendwo muss jetzt ein paar Milliarden gefunden werden.
+556,"00:42:35,960","00:42:39,840",2555.96,2559.84,3.880000000000109,"Das sind zwei Sackgassen wenn man so will oder zwei Züge,"
+557,"00:42:39,840","00:42:44,640",2559.84,2564.64,4.799999999999727,die aufeinander zu fahren.
+558,"00:42:44,640","00:42:48,960",2564.64,2568.96,4.320000000000164,"RA: In all dem Merkel Jahren, die hätte mit der SPD verwandelt,"
+559,"00:42:48,960","00:42:50,880",2568.96,2570.88,1.9200000000000728,"die der SPD überwinden lassen,"
+560,"00:42:50,960","00:42:53,680",2570.96,2573.68,2.7199999999998,"und hätte gesagt, ich lasse euch gewinnen,"
+561,"00:42:53,760","00:42:59,680",2573.76,2579.68,5.919999999999618,und ich lächle.
+562,"00:42:59,800","00:43:02,480",2579.8,2582.48,2.6799999999998363,Ich spreche jetzt separat Teil politisch.
+563,"00:43:02,600","00:43:08,480",2582.6,2588.48,5.880000000000109,Hat Scholz die Macht noch?
+564,"00:43:11,560","00:43:15,520",2591.56,2595.52,3.9600000000000364,"Wir müssen das Geld zusammen kriegen, dafür müssen wir Geld"
+565,"00:43:15,600","00:43:15,800",2595.6,2595.8,0.20000000000027285,"beim Bürgergeld zusammen bekommen, Canellas verkaufen?"
+566,"00:43:26,440","00:43:30,200",2606.44,2610.2,3.7599999999997635,"beim Bürgergeld zusammen bekommen, kann er das verkaufen?"
+567,"00:43:30,320","00:43:33,160",2610.32,2613.16,2.8399999999996908,"Wie oft ihm da der Spielraum verkürzt wurde,"
+568,"00:43:33,240","00:43:38,360",2613.24,2618.36,5.120000000000346,das macht es anders.
+569,"00:43:38,360","00:43:43,440",2618.36,2623.44,5.079999999999927,"Und womit das ist zu tun, dass der Kanzler schwach ist in Umfragen,"
+570,"00:43:43,440","00:43:47,280",2623.44,2627.28,3.8400000000001455,dass er keine guten Umfragewerte für sich persönlich hat?
+571,"00:43:47,280","00:43:49,040",2627.28,2629.04,1.7599999999997635,Was ist das Thema?
+572,"00:43:49,040","00:43:59,760",2629.04,2639.76,10.720000000000255,RA: Die Europawahl ist nicht gelaufen für die SPD.
+573,"00:43:59,760","00:44:04,360",2639.76,2644.36,4.599999999999909,"Daraus die Konsequenz zu ziehen den eigenen Kanzler so einzumaueren,"
+574,"00:44:04,440","00:44:10,960",2644.44,2650.96,6.519999999999982,"ich sehe nicht, wie das gut enden soll."
+575,"00:44:12,800","00:44:17,080",2652.8,2657.08,4.279999999999745,"Muss raus kommen und sagen,"
+576,"00:44:17,160","00:44:20,280",2657.16,2660.28,3.1200000000003456,"keiner hat was will im Wahlkampf erzählt haben,"
+577,"00:44:20,360","00:44:23,600",2660.36,2663.6,3.2399999999997817,aber der Kompromiss ist gut.
+578,"00:44:23,680","00:44:29,360",2663.68,2669.36,5.680000000000291,Aber durch die Maximalforderung ist Hassen nicht erfüllbar.
+579,"00:44:29,440","00:44:32,440",2669.44,2672.44,3.0,"Wenn Scholz rauskommen würde und sagen würde,"
+580,"00:44:32,520","00:44:40,040",2672.52,2680.04,7.519999999999982,"wir müssen uns 5 Milliarden sparen, Wasserquellen sagen."
+581,"00:44:40,200","00:44:43,800",2680.2,2683.8,3.600000000000364,"Aber wenn die Forderung ist, wollen 50 Milliarden mehr,"
+582,"00:44:43,880","00:44:46,320",2683.88,2686.32,2.4400000000000546,wo soll da die Linie spannender sein.
+583,"00:44:46,440","00:44:51,320",2686.44,2691.32,4.880000000000109,Und das macht Lindner auch so schwierig.
+584,"00:44:51,320","00:44:57,320",2691.32,2697.32,6.0,Schöne Formulierung.
+585,"00:44:57,320","00:45:01,640",2697.32,2701.64,4.319999999999709,"KK: Da werden sie jetzt nicht überrascht sein, wenn nicht sagen,"
+586,"00:45:01,760","00:45:06,440",2701.76,2706.44,4.679999999999836,das sind keine Maurer arbeiten.
+587,"00:45:06,520","00:45:09,840",2706.52,2709.84,3.3200000000001637,"Wenn eine Partei ein Standpunkt klarmacht, dann macht sie es in der"
+588,"00:45:09,920","00:45:13,840",2709.92,2713.84,3.9200000000000728,"Regel nicht, um jemanden zu ärgern."
+589,"00:45:13,960","00:45:20,000",2713.96,2720.0,6.039999999999964,Wir halten ein ordentliches Maß von Investitionen.
+590,"00:45:20,080","00:45:23,400",2720.08,2723.4,3.3200000000001637,"Jeder der an öffentlichen Investitionen teilnimmt,"
+591,"00:45:23,480","00:45:29,400",2723.48,2729.4,5.920000000000073,der kann beitragen.
+592,"00:45:31,680","00:45:37,080",2731.68,2737.08,5.400000000000091,"Wir sind der festen Überzeugung, dass wir bei den Krisenmodell"
+593,"00:45:37,200","00:45:41,400",2737.2,2741.4,4.200000000000273,"Konflikten der Welt, Ukraine ist ein Beispiel,"
+594,"00:45:41,520","00:45:45,520",2741.52,2745.52,4.0,viel Solidarität leisten werden müssen.
+595,"00:45:45,600","00:45:49,360",2745.6,2749.36,3.7600000000002183,"Wir nehmen alle war, dass wir zunehmend Debatten"
+596,"00:45:49,480","00:45:54,960",2749.48,2754.96,5.480000000000018,"in unserer Gesellschaft war, wir haben als Mittel,"
+597,"00:45:55,040","00:45:59,520",2755.04,2759.52,4.480000000000018,"aber für den Kita Platz, da ist es nicht sicher,"
+598,"00:45:59,640","00:46:01,520",2759.64,2761.52,1.8800000000001091,"die Bahn ist nicht sicher,"
+599,"00:46:01,640","00:46:07,800",2761.64,2767.8,6.160000000000309,da geht es um gesellschaftlichen Zusammenhalt.
+600,"00:46:07,880","00:46:10,960",2767.88,2770.96,3.0799999999999272,Die Regierung muss beides schaffen.
+601,"00:46:11,040","00:46:12,960",2771.04,2772.96,1.9200000000000728,"Der Status,"
+602,"00:46:13,040","00:46:16,440",2773.04,2776.44,3.400000000000091,dass wir als Wirtschaftssanktionen angemessen sind.
+603,"00:46:16,520","00:46:19,480",2776.52,2779.48,2.9600000000000364,Das ist unsere Maßgabe.
+604,"00:46:19,560","00:46:22,520",2779.56,2782.52,2.9600000000000364,"Das sind jetzt viele Sätze, aber eigentlich müssen sie sagen, dass"
+605,"00:46:22,640","00:46:26,720",2782.64,2786.72,4.079999999999927,die Schuldengrenze aufgeweicht werden muss.
+606,"00:46:26,800","00:46:30,920",2786.8,2790.92,4.119999999999891,"KK: Dass die SPD das für geboten hält, das wissen Sie schon."
+607,"00:46:31,000","00:46:35,560",2791.0,2795.56,4.559999999999945,Aber wir regieren nicht allein.
+608,"00:46:35,680","00:46:42,080",2795.68,2802.08,6.400000000000091,Wir brauchen eine Zweidrittelmehrheit.
+609,"00:46:47,760","00:46:54,880",2807.76,2814.88,7.119999999999891,"Aber sie wollen Schulden machen, dass es einer Plädoyer dafür"
+610,"00:46:55,000","00:47:01,400",2815.0,2821.4,6.400000000000091,"KK: es ist nett, dass sie mich dann mehr rein führen wollen."
+611,"00:47:01,520","00:47:07,440",2821.52,2827.44,5.920000000000073,"Olaf Scholz, ihr Kanzler sagt,"
+612,"00:47:07,920","00:47:15,600",2827.92,2835.6,7.679999999999836,"wir müssen mit dem Geld auskommen, was wir haben. Er ist"
+613,"00:47:17,480","00:47:23,880",2837.48,2843.88,6.400000000000091,"das Gegenteil davon, für das sie plädieren."
+614,"00:47:24,000","00:47:28,600",2844.0,2848.6,4.599999999999909,"KK: Dafür konnte ich noch gar nicht plädieren, es haben sie übernommen."
+615,"00:47:28,720","00:47:34,600",2848.72,2854.6,5.880000000000109,Das ist mein Job.
+616,"00:47:36,160","00:47:39,200",2856.16,2859.2,3.0399999999999636,"KK: Ein Bundeshaushalt bewegen momentan haben,"
+617,"00:47:39,320","00:47:45,200",2859.32,2865.2,5.879999999999654,das sind 450 Milliarden Euro.
+618,"00:47:47,800","00:47:52,080",2867.8,2872.08,4.279999999999745,"Man muss aber wissen,"
+619,"00:47:52,160","00:47:55,320",2872.16,2875.32,3.1600000000003092,dass 90 % davon sich eigentlich alleine ausgibt.
+620,"00:47:55,440","00:47:57,600",2875.44,2877.6,2.1599999999998545,Es sind nicht variable Mittelpunkt
+621,"00:47:57,720","00:48:06,000",2877.72,2886.0,8.2800000000002,es sind durchlaufende Posten oder langfristig Verbleibemittelpunkt
+622,"00:48:06,240","00:48:13,280",2886.24,2893.28,7.040000000000418,ein kleiner Teilsatz Schwerpunkten wir Arbeit.
+623,"00:48:14,120","00:48:21,560",2894.12,2901.56,7.440000000000055,"Diese Lücke, die bei Einsparungen hinkriegen wollen,"
+624,"00:48:23,240","00:48:31,160",2903.24,2911.16,7.920000000000073,"das wäre, dass alle unsere Möglichkeiten aufgegeben werden."
+625,"00:48:36,040","00:48:42,760",2916.04,2922.76,6.720000000000255,Das könnte eine Verantwortung voller Parteien nicht verantworten.
+626,"00:48:42,880","00:48:49,120",2922.88,2929.12,6.239999999999782,Erst mal wäre schwitzen schon wichtig.
+627,"00:48:49,240","00:48:54,040",2929.24,2934.04,4.800000000000182,"Es ist nicht so, dass wir keinen besonderen Sinn, zu sparen,"
+628,"00:48:54,160","00:49:01,760",2934.16,2941.76,7.600000000000364,"aber eine Kettensäge abzusetzen, das wäre nicht sinnvoll."
+629,"00:49:06,200","00:49:10,840",2946.2,2950.84,4.640000000000327,"RA: Von sparen kann er keine Rede sein, denn davon würde man ausgehen,"
+630,"00:49:10,920","00:49:12,840",2950.92,2952.84,1.9200000000000728,dass es weniger wäre.
+631,"00:49:12,960","00:49:21,240",2952.96,2961.24,8.279999999999745,"Beim möglicher Verschuldung wäre es immer noch, was verteilt wird."
+632,"00:49:24,280","00:49:26,920",2964.28,2966.92,2.6399999999998727,"Und dieser versteinerte Bundeshaushalt,"
+633,"00:49:27,000","00:49:30,240",2967.0,2970.24,3.2399999999997817,der wäre er nicht auf natürliche Art versteigert.
+634,"00:49:30,320","00:49:33,680",2970.32,2973.68,3.3599999999996726,"Wenn man diese Schulden hätten, die man tilgen muss,"
+635,"00:49:33,800","00:49:40,480",2973.8,2980.48,6.679999999999836,die nehmen ja gerade diese Spielräume weg.
+636,"00:49:42,680","00:49:46,040",2982.68,2986.04,3.3600000000001273,"Dass ein liberaler Finanzminister Graf sagt, dass mit diesem"
+637,"00:49:46,160","00:49:48,040",2986.16,2988.04,1.8800000000001091,"Gestaltungsspielraum erhöhen,"
+638,"00:49:48,160","00:49:54,040",2988.16,2994.04,5.880000000000109,das finde ich verständlich.
+639,"00:49:57,480","00:50:00,720",2997.48,3000.72,3.2399999999997817,"Sie haben das SPD Lied gesungen, aber ein Lindner und Herr Habeck"
+640,"00:50:00,840","00:50:07,000",3000.84,3007.0,6.1599999999998545,könnte jetzt auch ihr Lied singen.
+641,"00:50:13,760","00:50:15,800",3013.76,3015.8,2.0399999999999636,"Ampel Lied, dass das richtige."
+642,"00:50:15,920","00:50:18,920",3015.92,3018.92,3.0,Man möchte einen Name gesamte Erzählung finden.
+643,"00:50:19,040","00:50:24,920",3019.04,3024.92,5.880000000000109,KK:
+644,"00:50:26,240","00:50:28,200",3026.24,3028.2,1.9600000000000364,"Es ist schon wichtig,"
+645,"00:50:28,320","00:50:31,440",3028.32,3031.44,3.119999999999891,unsere gesamten Prozesse verständlich zu machen.
+646,"00:50:31,560","00:50:38,200",3031.56,3038.2,6.639999999999873,"Natürlich vertrete ich unseren Standpunkt,"
+647,"00:50:40,760","00:50:44,120",3040.76,3044.12,3.3599999999996726,"umso vertrete ich unseren Standpunkt,"
+648,"00:50:44,240","00:50:47,480",3044.24,3047.48,3.2400000000002365,und versuche die anderen zu hinterfragen.
+649,"00:50:47,600","00:50:51,080",3047.6,3051.08,3.480000000000018,"Wenn man die Leute anschaut, die weniger Schulden hat,"
+650,"00:50:51,200","00:50:56,640",3051.2,3056.64,5.440000000000055,Deutschland es relativ weit unten.
+651,"00:50:56,760","00:51:02,320",3056.76,3062.32,5.559999999999945,"Wenn es Leitartikel gibt,"
+652,"00:51:02,320","00:51:09,280",3062.32,3069.28,6.960000000000036,"dass wir die niedrigsten Staatsschulden haben,"
+653,"00:51:09,920","00:51:13,920",3069.92,3073.92,4.0,aber die größte Diskussion
+654,"00:51:14,040","00:51:18,840",3074.04,3078.84,4.800000000000182,"davon haben, wie laufen an unseren Schulden vorbei."
+655,"00:51:18,960","00:51:22,400",3078.96,3082.4,3.4400000000000546,"Das ist die Schule, die nicht digitalisiert ist, wer mein Feind"
+656,"00:51:22,520","00:51:27,440",3082.52,3087.44,4.920000000000073,das Verständnis von Schulden.
+657,"00:51:27,560","00:51:35,720",3087.56,3095.72,8.159999999999854,"Ich würde gerne das Argument von Christian Lindner weiter sehen,"
+658,"00:51:40,880","00:51:43,400",3100.88,3103.4,2.519999999999982,"dass wir weiter die Investoren sehen,"
+659,"00:51:43,520","00:51:48,840",3103.52,3108.84,5.320000000000164,"die diese niedrigen Investoren Schulden haben, diese Clique,"
+660,"00:51:48,960","00:51:51,840",3108.96,3111.84,2.880000000000109,"dass es das Gegenargument,"
+661,"00:51:51,960","00:51:56,320",3111.96,3116.32,4.360000000000127,die letzten Minuten würde ich aber gerne für etwas anderes nutzen.
+662,"00:51:56,440","00:52:04,240",3116.44,3124.24,7.799999999999727,"Die gesellschaftlichen Zungen, das gesellschaftliche Klima,"
+663,"00:52:08,760","00:52:11,720",3128.76,3131.72,2.9599999999995816,"der Tod dieses jungen Mannes, der offensichtlich auf offener Straße"
+664,"00:52:11,840","00:52:18,880",3131.84,3138.88,7.039999999999964,vom Abiball seiner Schwester totgeschlagen wurde
+665,"00:52:18,880","00:52:25,200",3138.88,3145.2,6.319999999999709,KK: Was soll einem da durch den Kopf gehen?
+666,"00:52:25,200","00:52:28,880",3145.2,3148.88,3.680000000000291,Jeder der ein bisschen Empathie an sich hat...
+667,"00:52:28,920","00:52:35,280",3148.92,3155.28,6.360000000000127,"Das ist doch hoffentlich das erste,"
+668,"00:52:36,400","00:52:41,440",3156.4,3161.44,5.039999999999964,"auch als Politiker so eine Situation in aller erster Linie als Mensch,"
+669,"00:52:41,440","00:52:45,960",3161.44,3165.96,4.519999999999982,"der am öffentlichen Leben teilnimmt, das hätten wir alle sein können."
+670,"00:52:46,000","00:52:49,840",3166.0,3169.84,3.8400000000001455,"Das ist die Frage, wie sicher ist unser öffentlicher Raum,"
+671,"00:52:49,840","00:52:58,320",3169.84,3178.32,8.480000000000018,das ist völlig nachvollziehbar und sollte nicht weggedrückt werden.
+672,"00:53:06,520","00:53:08,520",3186.52,3188.52,2.0,"Hören wir einmal kurz rein,"
+673,"00:53:08,600","00:53:13,640",3188.6,3193.64,5.039999999999964,Politiker im Fall der SPD Bundesministerin.
+674,"00:53:13,640","00:53:24,320",3193.64,3204.32,10.680000000000291,"Ist leider einzelner schlimmer Tag,"
+675,"00:53:24,320","00:53:28,600",3204.32,3208.6,4.279999999999745,"wo wir über einen Mord an einem Jugendlichen diskutieren müssen,"
+676,"00:53:28,600","00:53:31,160",3208.6,3211.16,2.5599999999999454,"wo der Täter, ein Geflüchteter ist,"
+677,"00:53:31,200","00:53:34,960",3211.2,3214.96,3.7600000000002183,der seit acht Jahren in einer Flüchtlingsunterkunft lebt.
+678,"00:53:35,000","00:53:37,640",3215.0,3217.64,2.6399999999998727,Ein Jugendlicher.
+679,"00:53:37,680","00:53:41,760",3217.68,3221.76,4.080000000000382,Über diese Form der nicht gelungenen Integration
+680,"00:53:41,760","00:53:45,840",3221.76,3225.84,4.079999999999927,müssen wir viel mehr sprechen.
+681,"00:53:45,840","00:53:49,960",3225.84,3229.96,4.119999999999891,Er geht sozial ganz schön etwas auseinander.
+682,"00:53:49,960","00:53:53,480",3229.96,3233.48,3.519999999999982,"Alle kommen immer nur auf die Zahlen,"
+683,"00:53:53,520","00:53:56,240",3233.52,3236.24,2.7199999999998,"das ging nach 2016 massiv runter,"
+684,"00:53:56,240","00:53:59,520",3236.24,3239.52,3.2800000000002,dann ist das aus der Öffentlichkeit weg gewesen.
+685,"00:53:59,520","00:54:03,640",3239.52,3243.64,4.119999999999891,"Aber vor Ort war das Thema nicht weg, weil der Wohnungsmangel"
+686,"00:54:03,640","00:54:07,000",3243.64,3247.0,3.3600000000001273,"schon darüber, wenn wir es nicht geschafft haben,"
+687,"00:54:07,000","00:54:10,400",3247.0,3250.4,3.400000000000091,"die gefürchteten unterzubringen und zu integrieren,"
+688,"00:54:10,400","00:54:12,520",3250.4,3252.52,2.119999999999891,niemand hat mir darüber gesprochen.
+689,"00:54:12,520","00:54:20,320",3252.52,3260.32,7.800000000000182,"Ist das die Empathie, von der Sie gerade gesprochen haben?"
+690,"00:54:20,320","00:54:23,520",3260.32,3263.52,3.199999999999818,"KK: Ich kann jetzt nur den Ausschnitt bewerten,"
+691,"00:54:23,520","00:54:28,040",3263.52,3268.04,4.519999999999982,was ich gehört habe hat zu 100 % zu viel die Perspektive des Täters
+692,"00:54:28,040","00:54:32,280",3268.04,3272.28,4.2400000000002365,und zu wenig die des Opfers und der Hinterbliebenen eingenommen.
+693,"00:54:32,320","00:54:37,040",3272.32,3277.04,4.7199999999998,"D. h. nicht das etwas inhaltlich von dem falsch ist, was er gesagt hat,"
+694,"00:54:37,040","00:54:39,680",3277.04,3279.68,2.6399999999998727,"aber ich glaube, wir aufmerksam zuhört,"
+695,"00:54:39,720","00:54:44,080",3279.72,3284.08,4.360000000000127,wenn man mit Menschen in Wahlkämpfen redet bekommt solche Beispiele
+696,"00:54:44,120","00:54:47,160",3284.12,3287.16,3.0399999999999636,"genannt, dass das Gefühl da ist, die falschen"
+697,"00:54:47,200","00:54:50,080",3287.2,3290.08,2.880000000000109,würden im Mittelpunkt der Diskussion stehen
+698,"00:54:50,120","00:54:52,840",3290.12,3292.84,2.7200000000002547,"und das darf man nicht beiseite wischen,"
+699,"00:54:52,840","00:54:57,440",3292.84,3297.44,4.599999999999909,sondern muss man ernst nehmen weil wir manchmal in der Politik
+700,"00:54:57,480","00:55:01,360",3297.48,3301.36,3.880000000000109,dann dazuneigen.
+701,"00:55:01,360","00:55:05,160",3301.36,3305.16,3.799999999999727,"Dem kann man schnell eine Abwägung machen und sagen,"
+702,"00:55:05,160","00:55:07,840",3305.16,3307.84,2.680000000000291,deshalb brauchen wir mehr Investitionen
+703,"00:55:07,840","00:55:10,640",3307.84,3310.64,2.799999999999727,in Sozialarbeit vor Ort.
+704,"00:55:10,640","00:55:15,320",3310.64,3315.32,4.680000000000291,"Aber das hat erst mal nichts damit zu tun,"
+705,"00:55:15,360","00:55:17,960",3315.36,3317.96,2.599999999999909,"dass hier ein Mensch umgebracht wurde,"
+706,"00:55:17,960","00:55:22,680",3317.96,3322.68,4.7199999999998,der nicht wieder lebendig wird.
+707,"00:55:22,680","00:55:28,360",3322.68,3328.36,5.680000000000291,"Wie erklären Sie sich das, dass sie so lamentiert?"
+708,"00:55:28,360","00:55:31,000",3328.36,3331.0,2.6399999999998727,"3 Sekunden geht es um das Opfer,"
+709,"00:55:31,080","00:55:33,920",3331.08,3333.92,2.8400000000001455,"und dann die ganz lange Erklärung hinterher,"
+710,"00:55:34,040","00:55:36,600",3334.04,3336.6,2.5599999999999454,warum der Täter so handelt?
+711,"00:55:36,600","00:55:39,360",3336.6,3339.36,2.7600000000002183,"Jetzt erlebe ich Nancy Faeser jeden Tag,"
+712,"00:55:39,360","00:55:41,880",3339.36,3341.88,2.519999999999982,das sage ich nicht nur protokollarisch
+713,"00:55:41,880","00:55:43,880",3341.88,3343.88,2.0,als SPD-Generalsekretär.
+714,"00:55:43,920","00:55:48,720",3343.92,3348.72,4.799999999999727,Ich weiß wie sehr ihr der Kampf gegen religiösen Fundamentalismus
+715,"00:55:48,720","00:55:52,520",3348.72,3352.52,3.800000000000182,"und die Auswüchse dessen Untersander auch in Deutschland,"
+716,"00:55:52,520","00:55:54,560",3352.52,3354.56,2.0399999999999636,diese in das am Herzen liegt
+717,"00:55:54,600","00:55:58,280",3354.6,3358.28,3.680000000000291,"und sie wissen, welche Vereine sie hat verbieten lassen"
+718,"00:55:58,320","00:56:01,720",3358.32,3361.72,3.399999999999636,"und welche heißen Eisen sie sich rein getraut hat,"
+719,"00:56:01,720","00:56:05,880",3361.72,3365.88,4.160000000000309,auch Durchsuchungen in Einrichtungen wie der Branche in Hamburg
+720,"00:56:05,920","00:56:08,840",3365.92,3368.84,2.9200000000000728,"und anderen, wo sie sich nicht sicher waren"
+721,"00:56:08,840","00:56:11,160",3368.84,3371.16,2.319999999999709,verbinden nicht reingegangen sind.
+722,"00:56:11,200","00:56:13,480",3371.2,3373.48,2.2800000000002,"Deswegen ist mir wichtig zu sagen,"
+723,"00:56:13,520","00:56:17,880",3373.52,3377.88,4.360000000000127,da gibt es keinen blinden Fleck in ihrer politischen Betrachtung.
+724,"00:56:17,920","00:56:19,880",3377.92,3379.88,1.9600000000000364,Ganz im Gegenteil.
+725,"00:56:19,920","00:56:23,280",3379.92,3383.28,3.3600000000001273,"Aber wenn man viel im politischen Diskussion ist,"
+726,"00:56:23,320","00:56:27,560",3383.32,3387.56,4.239999999999782,"gerade in innenpolitischen hat man in den letzten Jahren erlebt,"
+727,"00:56:27,600","00:56:30,840",3387.6,3390.84,3.2400000000002365,wie einzelne radikale politische Kräfte versuchen
+728,"00:56:30,840","00:56:34,760",3390.84,3394.76,3.9200000000000728,solche Momente auch für Hass und Hetze grundsätzlicher Art
+729,"00:56:34,800","00:56:37,520",3394.8,3397.52,2.7199999999998,zu missbrauchen.
+730,"00:56:37,520","00:56:41,120",3397.52,3401.12,3.599999999999909,"Das ist der Spagat in dem wir uns der Politik bewegen,"
+731,"00:56:41,120","00:56:44,920",3401.12,3404.92,3.800000000000182,aber davon müssen wir Profis genug sein den hinzukriegen.
+732,"00:56:44,920","00:56:48,800",3404.92,3408.8,3.880000000000109,Und gleichzeitig diejenigen in die Schranken weisen...
+733,"00:56:48,800","00:56:53,080",3408.8,3413.08,4.279999999999745,Das hat Nancy Faeser dort erkennbar nicht geschafft.
+734,"00:56:53,080","00:56:57,360",3413.08,3417.36,4.2800000000002,Ich kenne nur den Ausschnitt und ich kann ihre politische Arbeit
+735,"00:56:57,360","00:57:00,160",3417.36,3420.16,2.799999999999727,"im größeren Kontext einordnen und weiß,"
+736,"00:57:00,160","00:57:04,840",3420.16,3424.84,4.680000000000291,"dass manchmal nicht alle Sätze so sitzen die man sich wünschen würde,"
+737,"00:57:04,840","00:57:10,040",3424.84,3430.04,5.199999999999818,aber dass ich keine Zweifel an ihrer Haltung habe.
+738,"00:57:10,040","00:57:15,600",3430.04,3435.6,5.559999999999945,"Eine Frage als Bürger dieses Landes, darf ich erwarten,"
+739,"00:57:15,600","00:57:20,600",3435.6,3440.6,5.0,"dass eine Bundesministerin, in einem solchen wichtigen Fall,"
+740,"00:57:20,720","00:57:27,000",3440.72,3447.0,6.2800000000002,"wir diskutieren über eine Statistik,"
+741,"00:57:27,120","00:57:30,160",3447.12,3450.16,3.0399999999999636,"obwohl signifikant junge Menschen auftauchen,"
+742,"00:57:30,320","00:57:33,960",3450.32,3453.96,3.6399999999998727,"die keinen deutschen Pass haben,"
+743,"00:57:34,080","00:57:41,960",3454.08,3461.96,7.880000000000109,"darf ich da schon sicher sein, dass sie die Fakten klar hat."
+744,"00:57:42,400","00:57:44,680",3462.4,3464.68,2.2799999999997453,"Es ist nicht mal klar,"
+745,"00:57:44,800","00:57:48,480",3464.8,3468.48,3.6799999999998363,dass er acht Jahre lang in einem Asylbewerberheim war.
+746,"00:57:48,480","00:57:52,320",3468.48,3472.32,3.8400000000001455,"KK: Offensichtlich ist es ihr Informationsstand gewesen,"
+747,"00:57:52,320","00:57:56,120",3472.32,3476.12,3.799999999999727,ich kann nicht für sie sprechen.
+748,"00:57:56,160","00:58:01,600",3476.16,3481.6,5.440000000000055,"Ich finde das richtig, seine Bundesinnenministerin"
+749,"00:58:01,600","00:58:04,840",3481.6,3484.84,3.2400000000002365,oder auch Landesinnenminister den Anspruch haben
+750,"00:58:04,880","00:58:08,000",3484.88,3488.0,3.119999999999891,ab einer gewissen Punkt der politischen Debatte
+751,"00:58:08,000","00:58:10,920",3488.0,3490.92,2.9200000000000728,weitere Fakten beizutragen und einzuordnen.
+752,"00:58:10,920","00:58:14,600",3490.92,3494.6,3.6799999999998363,"Es ist wichtig sich auch mit Kriminalitätsstatistiken,"
+753,"00:58:14,640","00:58:17,200",3494.64,3497.2,2.5599999999999454,mit Korrelation von sozialen Umständen
+754,"00:58:17,200","00:58:19,440",3497.2,3499.44,2.2400000000002365,und Kriminalität zu beschäftigen.
+755,"00:58:19,480","00:58:23,360",3499.48,3503.36,3.880000000000109,"Ganze Polizeibehörden, die sich mit der Frage beschäftigen,"
+756,"00:58:23,400","00:58:27,240",3503.4,3507.24,3.8399999999996908,"weil es darum geht, an welchen Umständen können wir Täter"
+757,"00:58:27,280","00:58:31,080",3507.28,3511.08,3.799999999999727,"sich einzelnen radikalisierte Täter bohren, die erkennen."
+758,"00:58:31,080","00:58:34,800",3511.08,3514.8,3.7200000000002547,Die in Politiker meiner Fraktion sind unter anderem dazu
+759,"00:58:34,800","00:58:38,240",3514.8,3518.24,3.4399999999996,seit geraumer Zeit unterwegs und fordern mehr Mittel
+760,"00:58:38,280","00:58:41,880",3518.28,3521.88,3.599999999999909,um ein Forschungszentrum zur Prävention zu etablieren.
+761,"00:58:41,880","00:58:46,960",3521.88,3526.96,5.079999999999927,Das ist alles wichtig an der richtigen Stelle der politischen
+762,"00:58:47,000","00:58:49,160",3527.0,3529.16,2.1599999999998545,Diskussion und nicht unmittelbar
+763,"00:58:49,200","00:58:53,520",3529.2,3533.52,4.320000000000164,nach dem ein Mensch zu Tode gekommen ist.
+764,"00:58:53,520","00:59:08,480",3533.52,3548.48,14.960000000000036,"Letzte Frage dazu am Robin Alexander,"
+765,"00:59:08,480","00:59:10,840",3548.48,3550.84,2.3600000000001273,kommt diese Frage gerade an ein Ende.
+766,"00:59:10,840","00:59:16,280",3550.84,3556.28,5.440000000000055,"RA: Ich glaube man muss Frau Faeser in Schutz nehmen,"
+767,"00:59:16,280","00:59:20,920",3556.28,3560.92,4.639999999999873,insofern dass eine SPD-interne Veranstaltung war.
+768,"00:59:20,920","00:59:24,680",3560.92,3564.68,3.7599999999997635,"Die Kameras laufen, man ist im Bundesinnenministerium,"
+769,"00:59:24,680","00:59:28,760",3564.68,3568.76,4.080000000000382,man redet immer zur Öffentlichkeit.
+770,"00:59:28,760","00:59:32,360",3568.76,3572.36,3.599999999999909,"Den Teil wie schlimm das ist haben wir schon gemacht,"
+771,"00:59:32,360","00:59:37,960",3572.36,3577.96,5.599999999999909,ich will den Kontext liefern.
+772,"00:59:37,960","00:59:42,560",3577.96,3582.56,4.599999999999909,"Der erste Satz ist faktisch falsch,"
+773,"00:59:42,600","00:59:46,080",3582.6,3586.08,3.480000000000018,"dass der acht Jahren Flüchtlingsheim war,"
+774,"00:59:46,080","00:59:49,880",3586.08,3589.88,3.800000000000182,"dann ""wenn nicht für jemanden Wohnung finden,"
+775,"00:59:49,880","00:59:53,640",3589.88,3593.64,3.7599999999997635,"dann wird er ein schlimmer Gewalttäter, wenn es so wäre,"
+776,"00:59:53,680","00:59:58,000",3593.68,3598.0,4.320000000000164,"dann wäre das schlimm, weil wir für viele Menschen keinen Wohnung"
+777,"00:59:58,000","01:00:00,000",3598.0,3600.0,2.0,finden.
+778,"01:00:00,000","01:00:03,440",3600.0,3603.44,3.4400000000000546,"Der Flughafen Tegel ist mit 5000 Flüchtlingen voll,"
+779,"01:00:03,480","01:00:08,000",3603.48,3608.0,4.519999999999982,"die Kinder verlassen das Gebäude nicht mehr um zur Schule zu gehen,"
+780,"01:00:08,000","01:00:10,000",3608.0,3610.0,2.0,es werden Lehrer reingesteckt.
+781,"01:00:10,040","01:00:14,520",3610.04,3614.52,4.480000000000018,Auch ihr letzter Satz nach 2017 ist nicht über Migration gesprochen
+782,"01:00:14,520","01:00:17,920",3614.52,3617.92,3.400000000000091,"worden, wir hatten, wenn man den öffentlichen Raum"
+783,"01:00:17,960","01:00:21,840",3617.96,3621.84,3.880000000000109,"sagt Migration gesagt, das nutzt den Rechten und Vorsicht,"
+784,"01:00:21,880","01:00:24,280",3621.88,3624.28,2.400000000000091,"da finde ich, das ist ein bemerkenswertes Argument."
+785,"01:00:24,280","01:00:32,040",3624.28,3632.04,7.7599999999997635,"Es gibt noch einen bemerkenswerten Satz von der Berliner Polizeichefin,"
+786,"01:00:32,040","01:00:34,640",3632.04,3634.64,2.599999999999909,"Gewalt in Berlin ist jung, männlich,"
+787,"01:00:34,760","01:00:37,960",3634.76,3637.96,3.199999999999818,und hat zu oft einen nicht-deutschen Hintergrund.
+788,"01:00:38,080","01:00:41,480",3638.08,3641.48,3.400000000000091,Hat sie recht?
+789,"01:00:41,480","01:00:45,040",3641.48,3645.04,3.5599999999999454,RA: Sie trägt ihre Statistiken vor.
+790,"01:00:45,040","01:00:48,080",3645.04,3648.08,3.0399999999999636,"Ich frag mich bei solchen Dingen immer,"
+791,"01:00:48,120","01:00:51,080",3648.12,3651.08,2.9600000000000364,will man in eine Stimmung rein argumentieren
+792,"01:00:51,120","01:00:54,800",3651.12,3654.8,3.680000000000291,oder in eine Problemlösung.
+793,"01:00:54,800","01:00:57,920",3654.8,3657.92,3.119999999999891,Jetzt habe ich das Zitat nicht vollständig dar
+794,"01:00:57,960","01:01:02,080",3657.96,3662.08,4.119999999999891,"und jahrelang habe ich gesagt, wir müssen über Probleme reden"
+795,"01:01:02,080","01:01:04,120",3662.08,3664.12,2.0399999999999636,"dann ist es, nein jetzt nicht,"
+796,"01:01:04,160","01:01:07,360",3664.16,3667.36,3.200000000000273,aber auch man sollte bei dem Problem bleiben nicht in Stimmung abgleiten.
+797,"01:01:07,360","01:01:10,640",3667.36,3670.64,3.2799999999997453,KK: Man muss die Statistiken sich dann manchmal auch
+798,"01:01:10,680","01:01:14,480",3670.68,3674.48,3.800000000000182,einfach nüchtern anschauen.
+799,"01:01:14,480","01:01:19,840",3674.48,3679.84,5.360000000000127,"Meine Heimatstadt, Berlin, hat einen Anteil von fast 40 %,"
+800,"01:01:19,880","01:01:25,240",3679.88,3685.24,5.359999999999673,"da ist es erst mal der statistische Durchschnitt,"
+801,"01:01:25,280","01:01:28,640",3685.28,3688.64,3.3599999999996726,"wenn viele junge Männer Täter werden,"
+802,"01:01:28,680","01:01:31,480",3688.68,3691.48,2.800000000000182,dass viele von ihnen einfach in einer Stadt wie Berlin
+803,"01:01:31,520","01:01:33,560",3691.52,3693.56,2.0399999999999636,einen Migrationshintergrund haben.
+804,"01:01:33,600","01:01:36,440",3693.6,3696.44,2.8400000000001455,"Ich habe mich aber soweit damit beschäftigt, dass ich weiß,"
+805,"01:01:36,480","01:01:40,000",3696.48,3700.0,3.519999999999982,"es gibt darüber hinaus Faktoren, die man nicht wegwischen sollte."
+806,"01:01:40,040","01:01:43,720",3700.04,3703.72,3.6799999999998363,Sondern die teilweise mit religiösem Fundamentalismus
+807,"01:01:43,760","01:01:47,200",3703.76,3707.2,3.4399999999996,oder zumindest mit entsprechenden Prägungen zu tun haben.
+808,"01:01:47,240","01:01:48,840",3707.24,3708.84,1.6000000000003638,Patriarchalen Familienbildern.
+809,"01:01:48,880","01:01:50,480",3708.88,3710.48,1.599999999999909,Das will ich nicht wegwischen.
+810,"01:01:52,320","01:01:53,840",3712.32,3713.84,1.5199999999999818,"Aber es ist nicht so,"
+811,"01:01:53,880","01:01:57,240",3713.88,3717.24,3.3599999999996726,dass wir ein paar wenige Jungs mit Migrationshintergrund haben.
+812,"01:01:57,280","01:01:59,680",3717.28,3719.68,2.399999999999636,Es sind sehr viele unserer Jungs in der Stadt.
+813,"01:01:59,720","01:02:03,040",3719.72,3723.04,3.3200000000001637,"Also, wird uns, glaube ich, noch länger beschäftigen das Thema."
+814,"01:02:03,080","01:02:05,720",3723.08,3725.72,2.6399999999998727,Nichtsdestotrotz freuen wir uns jetzt auf Freitag.
+815,"01:02:05,760","01:02:07,680",3725.76,3727.68,1.919999999999618,"Wir werden das gewinnen, Friederike."
+816,"01:02:08,560","01:02:10,240",3728.56,3730.24,1.6799999999998363,FK: Das hoffen wir sehr.
+817,"01:02:10,280","01:02:12,760",3730.28,3732.76,2.480000000000018,Wie viel? Weil der erste Tipp schon so gut war.
+818,"01:02:12,800","01:02:15,200",3732.8,3735.2,2.399999999999636,"Ganz schnell, wie viel? 2:1 nach Verlängerung."
+819,"01:02:15,240","01:02:17,320",3735.24,3737.32,2.080000000000382,Ungefähr so wird's kommen. Simon Rolfes?
+820,"01:02:17,360","01:02:18,840",3737.36,3738.84,1.4800000000000182,"SR: 1:0. Okay, 1:0."
+821,"01:02:19,520","01:02:22,960",3739.52,3742.96,3.4400000000000546,"Jetzt die Kollegen vom ""heute journal up:date""."
+822,"01:02:23,000","01:02:25,920",3743.0,3745.92,2.9200000000000728,"Wir sind morgen wieder für Sie da. Bis dahin, Tschüss."

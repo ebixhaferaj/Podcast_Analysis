@@ -1,0 +1,925 @@
+﻿segment_id,start_time,end_time,start_seconds,end_seconds,duration,text
+1,"00:00:00,040","00:00:02,360",0.04,2.36,2.32,Diese Untertitel sind live produziert.
+2,"00:00:02,400","00:00:05,840",2.4,5.84,3.44,"Willkommen zu unserer Sendung,"
+3,"00:00:05,880","00:00:09,000",5.88,9.0,3.12,in der wir heute über Meinungsfreiheit diskutieren wollen
+4,"00:00:09,040","00:00:12,240",9.04,12.24,3.200000000000001,"u.a. Renate Künast fragen, langjährige Verbraucherministerin,"
+5,"00:00:12,320","00:00:15,360",12.32,15.36,3.039999999999999,"selbst Juristin, die sich über Jahre hinweg"
+6,"00:00:15,400","00:00:20,000",15.4,20.0,4.6,"durch alle Instanzen geklagt hat, bis irgendwann klar war,"
+7,"00:00:20,080","00:00:22,320",20.08,22.32,2.240000000000002,"dass Beschimpfungen,"
+8,"00:00:22,400","00:00:27,520",22.4,27.52,5.120000000000001,"sie sei ""gehirnamputiert"" oder ""Pädophilen-Trulla"" nicht mehr"
+9,"00:00:27,560","00:00:31,720",27.56,31.72,4.16,"von der Meinungsfreiheit gedeckt, sondern Beleidigungen sind."
+10,"00:00:31,800","00:00:34,800",31.8,34.8,2.9999999999999964,Wo sind die Grenzen von Meinungsfreiheit?
+11,"00:00:34,840","00:00:37,760",34.84,37.76,2.9199999999999946,Und in welchem Zustand ist sie generell?
+12,"00:00:37,840","00:00:43,240",37.84,43.24,5.399999999999999,"Sie sagt: ""In einem besseren, als wir gelegentlich so tun""."
+13,"00:00:43,320","00:00:49,400",43.32,49.4,6.079999999999998,"Herzlich willkommen, Renate Künast."
+14,"00:00:49,840","00:00:53,280",49.84,53.28,3.4399999999999977,"Dem würde Ulf Poschardt,"
+15,"00:00:53,920","00:00:56,760",53.92,56.76,2.8399999999999963,"Bestsellerautor und Herausgeber der Welt,"
+16,"00:00:56,800","00:00:59,200",56.8,59.2,2.4000000000000057,"vermutlich vehement widersprechen, der sagt:"
+17,"00:00:59,240","00:01:03,000",59.24,63.0,3.759999999999998,"""Wir haben mittlerweile überall jakobinische Instanzen,"
+18,"00:01:03,080","00:01:05,960",63.08,65.96,2.8799999999999955,die den Leuten sagen:
+19,"00:01:06,040","00:01:08,920",66.04,68.92,2.8799999999999955,"Das und das und das darfst Du alles nicht mehr sagen""."
+20,"00:01:09,000","00:01:11,600",69.0,71.6,2.5999999999999943,"Er sagt von sich,"
+21,"00:01:11,640","00:01:15,400",71.64,75.4,3.760000000000005,"er sei wahrscheinlich der radikal- liberalste Journalist dieses Landes,"
+22,"00:01:15,440","00:01:21,000",75.44,81.0,5.560000000000002,"aus tiefer Überzeugung, weil er echte, im Sinne von:"
+23,"00:01:21,040","00:01:24,160",81.03999999999999,84.16,3.1200000000000045,radikale Meinungsfreiheit für ein sehr wertvolles Gut hält:
+24,"00:01:24,200","00:01:27,440",84.2,87.44,3.239999999999995,"""Wenn das mit der Meinungsfreiheit nicht mehr funktioniert,"
+25,"00:01:27,520","00:01:31,320",87.52,91.32,3.799999999999997,"dann rüttelt das an den Grundfesten unserer Gesellschaft und Demokratie."""
+26,"00:01:31,360","00:01:33,840",91.36,93.84,2.480000000000004,"Herzlich willkommen, Ulf Poschart."
+27,"00:01:33,880","00:01:37,320",93.88,97.32,3.4399999999999977,"Interessant ihr Blick auf die angeblich verengte Meinungsfreiheit,"
+28,"00:01:37,400","00:01:41,200",97.4,101.2,3.799999999999997,"Maren Urner, Professorin für Neuro- wissenschaften an der Uni Münster,"
+29,"00:01:41,240","00:01:44,640",101.24000000000001,104.64,3.3999999999999915,"die sagt: ""Dieser Diskurs über Meinungsfreiheit ist in Wahrheit"
+30,"00:01:44,680","00:01:49,280",104.68,109.28,4.599999999999994,"nur eine Ablenkung, damit Leute wie Ulf Poschardt ihre Produkte"
+31,"00:01:49,320","00:01:51,760",109.32,111.75999999999999,2.4399999999999977,besser verkaufen können.
+32,"00:01:51,800","00:01:54,680",111.8,114.68,2.8800000000000097,"Und sie sagt: ""Ich kann das sogar belegen."
+33,"00:01:54,760","00:01:56,720",114.75999999999999,116.72,1.960000000000008,"Es ist ziemlich absurd,"
+34,"00:01:56,800","00:01:59,720",116.8,119.72,2.9200000000000017,Aussagen zur angeblich eingeschränkten Meinungsfreiheit
+35,"00:01:59,760","00:02:03,360",119.75999999999999,123.36,3.6000000000000085,"von JD Vance zu loben, während derselbe JD Vance gerade dabei ist,"
+36,"00:02:03,400","00:02:08,560",123.4,128.56,5.159999999999997,"eben diese Meinungsfreiheit massiv einzuschränken""."
+37,"00:02:08,640","00:02:10,680",128.64,130.68,2.0400000000000205,"Herzlich willkommen, Maren Urner."
+38,"00:02:10,760","00:02:13,560",130.76,133.56,2.8000000000000114,"Wenn die Meinungsfreiheit gar nicht eingeschränkt ist,"
+39,"00:02:13,640","00:02:15,960",133.64,135.96,2.3200000000000216,"wie kommt es dann, wollen wir Boris Palmer,"
+40,"00:02:16,040","00:02:18,760",136.04,138.76,2.719999999999999,den immer wieder mit sehr überzeugenden Ergebnissen
+41,"00:02:18,800","00:02:21,720",138.8,141.72,2.9199999999999875,ins Amt gewählten Bürgermeister von Tübingen fragen.
+42,"00:02:21,800","00:02:25,640",141.8,145.64,3.839999999999975,"Wie kommt es dann, dass mittlerweile fast die Hälfte aller Deutschen sagt:"
+43,"00:02:25,680","00:02:29,760",145.68,149.76,4.079999999999984,"""Ich hab das Gefühl, dass ich nicht mehr alles frei sagen darf?"""
+44,"00:02:29,840","00:02:32,360",149.84,152.36,2.5200000000000102,"Er sagt: ""Wir haben in den Augen der Leute ein Repressionsklima"
+45,"00:02:34,120","00:02:37,520",154.12,157.52,3.4000000000000057,"Er sagt: ""Wir haben in den Augen der Leute ein Repressionsklima"
+46,"00:02:37,560","00:02:40,360",157.56,160.36,2.8000000000000114,"gegenüber abweichenden Meinungen geschaffen"","
+47,"00:02:40,440","00:02:44,160",160.44,164.16,3.719999999999999,"glaubt er, ""und während die einen alle Mögliche sagbar machen wollen,"
+48,"00:02:44,200","00:02:48,320",164.2,168.32,4.1200000000000045,"wollen die anderen immer mehr Zugriff auf das Sagbare gewinnen,"
+49,"00:02:48,360","00:02:53,240",168.36,173.24,4.8799999999999955,"das ist ein verheerender Zangengriff."""
+50,"00:02:53,280","00:02:55,240",173.28,175.24,1.960000000000008,"Herzlich willkommen, Boris Palmer."
+51,"00:03:01,880","00:03:05,880",181.88,185.88,4.0,"ML: Schönen guten Abend in die Runde, ich bin sehr gespannt."
+52,"00:03:05,920","00:03:11,960",185.92,191.96,6.0400000000000205,Die erste Frage an Frau Künast.
+53,"00:03:22,200","00:03:24,840",202.2,204.84,2.640000000000015,Wenn Jadidi Wellens auf der Münchner Sicherheitskonferenz zeigt
+54,"00:03:24,840","00:03:26,400",204.84,206.4,1.5600000000000023,"RK: Als erstes würde ich als Deutsche spontan sagen,"
+55,"00:03:26,400","00:03:30,120",206.4,210.12,3.719999999999999,"das Redefreiheit in Rückzug ist, was entgegnen Sie dem?"
+56,"00:03:30,120","00:03:33,080",210.12,213.07999999999998,2.9599999999999795,können Sie sich um ihr eigenes Land kümmern.
+57,"00:03:33,120","00:03:36,320",213.12,216.32,3.1999999999999886,Dann muss sich dem grundsätzlich widersprechen.
+58,"00:03:36,320","00:03:39,560",216.32,219.56,3.240000000000009,"Ich finde, dass manche seit Jahren das Argument,"
+59,"00:03:39,560","00:03:46,280",219.56,226.28,6.719999999999999,"die Meinungsstreit ist eingeschränkt, missbraucht haben."
+60,"00:03:46,280","00:03:54,520",226.28,234.52,8.240000000000009,Ab 2015 hat man angefangen zu sagen die Presse wird immer lügen.
+61,"00:03:55,360","00:03:58,680",235.36,238.68,3.319999999999993,Zweitens man darf nicht mehr seinen Meinung sagen.
+62,"00:03:58,720","00:04:02,760",238.72,242.76,4.039999999999992,"Wenn man sich das genau anschaut,"
+63,"00:04:02,800","00:04:06,720",242.8,246.72,3.9199999999999875,"ich habe beobachtet,"
+64,"00:04:06,760","00:04:10,680",246.76,250.68,3.920000000000016,wie sich das Netz bei den sozialen Medien entwickelt.
+65,"00:04:10,680","00:04:14,680",250.68,254.68,4.0,"Da geht es nicht um Meinungsfreiheit,"
+66,"00:04:14,720","00:04:18,600",254.72,258.6,3.880000000000024,jedes Gericht würde sagen Meinungsfreiheit ist ein Beitrag
+67,"00:04:18,640","00:04:22,160",258.64,262.16,3.5200000000000387,"der zu Meinungsbildung beiträgt, hier waren es Dinge,"
+68,"00:04:22,200","00:04:26,480",262.2,266.48,4.28000000000003,Sie haben ein paar genannt.
+69,"00:04:26,520","00:04:31,840",266.52,271.84,5.319999999999993,"Es ist so massiv und gezielt eingesetzt worden,"
+70,"00:04:31,840","00:04:38,440",271.84,278.44,6.600000000000023,"dass ich finde, das ist ein Missbrauch."
+71,"00:04:39,160","00:04:44,280",279.15999999999997,284.28,5.1200000000000045,"Ich muss wie bei Frau Urner sagen,"
+72,"00:04:44,280","00:04:46,520",284.28,286.52,2.240000000000009,"mein Eindruck ist es,"
+73,"00:04:46,560","00:04:51,000",286.56,291.0,4.439999999999998,dass das bewusst eingesetzt wird um politisch umstrittene Meinungen
+74,"00:04:51,040","00:04:53,960",291.04,293.96,2.919999999999959,unmöglich zu machen.
+75,"00:04:53,960","00:04:58,280",293.96,298.28,4.319999999999993,"ML: Mündlich zustimmen, wenn sie sagt das ein Geschäftsmodell ist?"
+76,"00:04:58,280","00:05:03,520",298.28,303.52,5.240000000000009,RK: Es ist ein Geschäftsmodell. Alleine bei Social Media.
+77,"00:05:03,520","00:05:07,840",303.52,307.84,4.319999999999993,"Bei Tuta zum Beispiel, ständig kommt Elon Musk daher."
+78,"00:05:07,840","00:05:11,440",307.84,311.44,3.6000000000000227,"Wir wissen, dass viel Hass und Aggression dazu führt,"
+79,"00:05:11,480","00:05:13,120",311.48,313.12,1.6399999999999864,dass es mehr Klicks gibt.
+80,"00:05:13,120","00:05:15,000",313.12,315.0,1.8799999999999955,"Das ist ein Geschäftsmodell,"
+81,"00:05:15,040","00:05:22,080",315.04,322.08,7.039999999999964,weil Leute ein bestimmtes Modell haben wollen.
+82,"00:05:26,440","00:05:34,040",326.44,334.04,7.600000000000023,Es wird geschäftlich eingesetzt diesen Druck zu machen.
+83,"00:05:34,840","00:05:39,000",334.84000000000003,339.0,4.159999999999968,"Es wundert uns nicht, dass bestimmte Leute niedergemacht werden"
+84,"00:05:39,040","00:05:41,560",339.04,341.56,2.519999999999982,und andere nicht.
+85,"00:05:41,560","00:05:45,040",341.56,345.04,3.480000000000018,"ML: Sie sagen, dass ist ein narrativ."
+86,"00:05:45,040","00:05:47,960",345.04,347.96,2.919999999999959,Das ist ein Geschäftsmodell.
+87,"00:05:47,960","00:05:50,680",347.96,350.68,2.7200000000000273,"Bestimmte Kreise haben etwas davon,"
+88,"00:05:50,720","00:05:57,960",350.72,357.96,7.239999999999952,es gibt keine Einschränkung der Meinungsfreiheit.
+89,"00:06:00,040","00:06:02,560",360.04,362.56,2.519999999999982,Wie passt die Zahl dann dazu?
+90,"00:06:02,600","00:06:05,600",362.6,365.6,3.0,"Nur noch 40 % der Deutschen haben das Gefühl,"
+91,"00:06:05,640","00:06:11,560",365.64,371.56,5.920000000000016,alles frei äußern zu können.
+92,"00:06:18,520","00:06:24,440",378.52,384.44,5.920000000000016,60 % also nicht. 1990 waren ess noch 78 %.
+93,"00:06:24,440","00:06:28,480",384.44,388.48,4.0400000000000205,"RK: Das ist ein Ergebnis, das immer wieder wiederholt wird."
+94,"00:06:28,480","00:06:30,200",388.48,390.2,1.7199999999999704,"Jetzt kommt bei der Zahl die Frage, wie kommt es eigentlich."
+95,"00:06:30,200","00:06:33,000",390.2,393.0,2.8000000000000114,"ML: haben Sie das Gefühl,"
+96,"00:06:33,000","00:06:33,680",393.0,393.68,0.6800000000000068,"Wir wissen bei diesem Schaubild nicht,"
+97,"00:06:33,680","00:06:37,600",393.68,397.6,3.920000000000016,dass man in Deutschland seine politische Meinung frei sagen
+98,"00:06:37,640","00:06:40,680",397.64,400.68,3.0400000000000205,"kann oder ist besser, es nicht zu tun?"
+99,"00:06:40,680","00:06:43,920",400.68,403.92,3.240000000000009,in welcher Richtung das kommen.
+100,"00:06:43,920","00:06:46,320",403.92,406.32,2.3999999999999773,"Diese Zahl sagt,"
+101,"00:06:46,320","00:06:49,360",406.32,409.36,3.0400000000000205,dass wir in einer Drucksituation sind.
+102,"00:06:49,400","00:06:53,960",409.4,413.96,4.560000000000002,"Kommt es von rechts oder links aus, bei diesen oder jenen Interessen."
+103,"00:06:54,000","00:06:58,000",414.0,418.0,4.0,Das ist eigentlich egal.
+104,"00:06:58,040","00:07:01,880",418.04,421.88,3.839999999999975,"Meines Erachtens ist es nicht das Ergebnis von Demokratie,"
+105,"00:07:01,920","00:07:05,080",421.92,425.08,3.159999999999968,"sondern das Ergebnis eines digitalen Zeitalters,"
+106,"00:07:05,120","00:07:07,760",425.12,427.76,2.6399999999999864,"in dem manche das Geschäftsmodell haben,"
+107,"00:07:07,800","00:07:12,640",427.8,432.64,4.839999999999975,dass sich das nicht weiter verbreitet.
+108,"00:07:12,680","00:07:19,400",432.68,439.4,6.71999999999997,"Deshalb ist die Antwort nicht die Demokratie versagt,"
+109,"00:07:19,400","00:07:23,360",439.4,443.36,3.9600000000000364,"sondern zu sagen, das was im analogen Leben gilt,"
+110,"00:07:23,400","00:07:26,280",443.4,446.28,2.8799999999999955,im digitalen auch gelten muss.
+111,"00:07:26,280","00:07:38,040",446.28,458.04,11.760000000000048,ML: Da reden wir gleich genauer drüber.
+112,"00:07:38,040","00:07:46,240",458.04,466.24,8.199999999999989,Wenn man vom immer weiter sich einschränkenden Meinungskorridor
+113,"00:07:48,920","00:07:51,920",468.92,471.92,3.0,"die Rede ist, dann ist das die Grafik für das"
+114,"00:07:51,960","00:07:53,880",471.96,473.88,1.920000000000016,Empfinden der Menschen.
+115,"00:07:53,880","00:07:56,200",473.88,476.2,2.319999999999993,UP: Die Zahlen sind schockierend.
+116,"00:07:56,240","00:08:02,040",476.24,482.04,5.800000000000011,"Das sind für eine freie liberale Gesellschaft,"
+117,"00:08:02,040","00:08:06,200",482.04,486.2,4.159999999999968,"ich glaube das ist das Fundament, worauf wir gemeinsam sitzen,"
+118,"00:08:06,240","00:08:10,800",486.24,490.8,4.560000000000002,das ist ein Desaster. Da können wir jeder seine eigenen Gründe dafür
+119,"00:08:10,840","00:08:14,680",490.84,494.68,3.840000000000032,"angeben, manchmal ist es hilfreich ins Ausland zu gucken."
+120,"00:08:14,720","00:08:22,120",494.72,502.12,7.399999999999977,Ich fand die Rede von JD Vance in Teilen überzogen.
+121,"00:08:26,280","00:08:30,240",506.28,510.24,3.9600000000000364,Mit einer Art Zensur-Heiterkeit auf Andersdenkende blicken
+122,"00:08:30,280","00:08:33,160",510.28,513.16,2.8799999999999955,ist problematisch.
+123,"00:08:33,200","00:08:40,280",513.2,520.28,7.079999999999927,"Der Economist, ein klassisch liberales Magazin,"
+124,"00:08:43,040","00:08:45,760",523.04,525.76,2.7200000000000273,"hat vor ein paar Tagen ein Foto gemacht,"
+125,"00:08:45,800","00:08:47,360",525.8,527.36,1.5600000000000591,"was deutlich macht,"
+126,"00:08:47,400","00:08:55,240",527.4,535.24,7.840000000000032,wir haben ein Problem mit Meinungsfreiheit in Deutschland.
+127,"00:08:57,520","00:09:05,960",537.52,545.96,8.440000000000055,Die haben ganz klar die Trump- Administration heuchlerisch genannt.
+128,"00:09:09,880","00:09:13,800",549.88,553.8,3.919999999999959,"Ich war sehr dankbar, dass Ricarda Lang gesagt hat,"
+129,"00:09:13,840","00:09:17,600",553.84,557.6,3.759999999999991,"das Urteil gegen den Typen mit dem Meme von Nancy Faeser,"
+130,"00:09:17,640","00:09:21,880",557.64,561.88,4.240000000000009,eine Strafe zu geben...
+131,"00:09:21,880","00:09:27,920",561.88,567.92,6.039999999999964,"ML: Das ist, was im Hintergrund sehen."
+132,"00:09:27,920","00:09:32,920",567.92,572.92,5.0,UP: Das geht so nicht.
+133,"00:09:32,920","00:09:36,800",572.92,576.8,3.8799999999999955,"Wenn sie sagen linksgrün versifft, das muss man aushalten."
+134,"00:09:36,840","00:09:38,960",576.84,578.96,2.1200000000000045,Wir waren mal beim taz Kongress.
+135,"00:09:39,000","00:09:44,480",579.0,584.48,5.480000000000018,Das muss man aushalten.
+136,"00:09:49,200","00:09:52,800",589.2,592.8,3.599999999999909,Robert Habeck lässt wegen einem Meme Polizei anrücken.
+137,"00:09:52,840","00:09:57,560",592.84,597.56,4.719999999999914,"Die Politiker sind dünnhäutig geworden,"
+138,"00:09:57,600","00:09:59,800",597.6,599.8,2.199999999999932,das finde ich problematisch.
+139,"00:09:59,840","00:10:06,720",599.84,606.72,6.8799999999999955,"Wir müssen überlegen, ob wir so weitermachen."
+140,"00:10:07,160","00:10:14,800",607.16,614.8,7.639999999999986,Wir müssen den Rahmen für Freiheit denkbar weit ziehen.
+141,"00:10:18,280","00:10:22,160",618.28,622.16,3.8799999999999955,Ich habe nur einmal angezeigt als es eine Tötungsfantasie
+142,"00:10:22,200","00:10:29,360",622.2,629.36,7.159999999999968,"von linksradikalen war, ansonsten löschen, nein."
+143,"00:10:30,000","00:10:32,840",630.0,632.84,2.840000000000032,"ML: ganz interessant in dem Zusammenhang,"
+144,"00:10:32,880","00:10:35,520",632.88,635.52,2.6399999999999864,Angela Merkel hat in 16 Jahren Amtszeit
+145,"00:10:35,560","00:10:39,720",635.56,639.72,4.160000000000082,nicht ein einziges Mal jemanden angezeigt.
+146,"00:10:39,720","00:10:42,360",639.72,642.36,2.6399999999999864,"RK: Wer weiß, was sie heute tun würde."
+147,"00:10:42,360","00:10:46,000",642.36,646.0,3.6399999999999864,UP: Ich glaube Angela Merkel hat ein gutes Verständnis
+148,"00:10:46,040","00:10:49,440",646.04,649.44,3.400000000000091,von Politik.
+149,"00:10:49,480","00:10:57,600",649.48,657.6,8.120000000000005,Wenn man die mächtigste Frau im Land ist muss man robust sein.
+150,"00:10:58,240","00:11:02,080",658.24,662.08,3.840000000000032,"ML: Ich glaube, dass Sie da einen Punkt haben."
+151,"00:11:02,080","00:11:09,520",662.08,669.52,7.439999999999941,Ich erinnere mich an eine Pressekonferenz in Moskau.
+152,"00:11:11,480","00:11:18,280",671.48,678.28,6.7999999999999545,"Merkel sagte da, er solle sich entspannen."
+153,"00:11:22,160","00:11:29,920",682.16,689.92,7.759999999999991,"Er wisse gar nicht, was sie sich jeden Tag anhören müsse."
+154,"00:11:34,200","00:11:40,240",694.2,700.24,6.039999999999964,Wir können das Schwachkopf meme einmal zeigen.
+155,"00:11:40,280","00:11:43,840",700.28,703.84,3.560000000000059,Das interessante sind viele Erzählungen und Narrative.
+156,"00:11:43,880","00:11:47,240",703.88,707.24,3.3600000000000136,Klingenden Mann sei ohnehin schon ermittelt worden
+157,"00:11:47,280","00:11:54,640",707.28,714.64,7.360000000000014,und in dem Kontext ging es also um den Schwachkopf.
+158,"00:11:58,840","00:12:05,960",718.84,725.96,7.1200000000000045,Die Polizei sei nur wegen dieses Meme gekommen.
+159,"00:12:08,800","00:12:12,200",728.8,732.2,3.400000000000091,Habeck hat erst Wochen später Strafanzeige gestellt.
+160,"00:12:12,200","00:12:13,800",732.2,733.8,1.599999999999909,"RK: Wie soll jemand,"
+161,"00:12:13,840","00:12:17,240",733.84,737.24,3.3999999999999773,"der noch nie einen Strafantrag gestellt hat sagen,"
+162,"00:12:17,240","00:12:19,520",737.24,739.52,2.2799999999999727,lasst es bleiben.
+163,"00:12:19,560","00:12:22,280",739.56,742.28,2.7200000000000273,"Das BKA hat die Aufgabe sich anzugucken,"
+164,"00:12:22,320","00:12:28,120",742.32,748.12,5.7999999999999545,"wo sind die Netzstellen, wo gibt es Leute die der Kern sind."
+165,"00:12:28,160","00:12:34,120",748.16,754.12,5.960000000000036,"UP: Ist das Hass, Schwachkopf?"
+166,"00:12:36,680","00:12:40,600",756.68,760.6,3.9200000000000728,RK: Ich wollte erst einmal nur das BKA darstellen.
+167,"00:12:40,640","00:12:46,120",760.64,766.12,5.480000000000018,"Eines mache ich nicht,"
+168,"00:12:47,120","00:12:51,920",767.12,771.92,4.7999999999999545,"dass ich bei jedem Gerichtsverfahren bei dem ich die Abläufe nicht kenne,"
+169,"00:12:51,960","00:12:56,520",771.96,776.52,4.559999999999945,dass sich da einen Daumen hoch oder runter gebe. Das ist nicht meine
+170,"00:12:56,560","00:13:01,240",776.56,781.24,4.680000000000064,"Aufgabe. Ich wollte sagen, dass es gut und notwendig ist, dass das BKA"
+171,"00:13:01,280","00:13:02,240",781.28,782.24,0.9600000000000364,agiert.
+172,"00:13:02,280","00:13:07,000",782.28,787.0,4.720000000000027,In rechtsextremen Kreisen wird Beleidigung systematisch eingesetzt.
+173,"00:13:07,080","00:13:10,440",787.08,790.44,3.3600000000000136,Die Leute haben Fakeaccounts um Leute fertig zu machen.
+174,"00:13:10,440","00:13:13,080",790.44,793.08,2.6399999999999864,UP: Bei Linksradikalen ist das genauso.
+175,"00:13:13,120","00:13:20,680",793.12,800.68,7.559999999999945,Das kann ich aus eigener Erfahrung sagen.
+176,"00:13:20,680","00:13:23,360",800.68,803.36,2.6800000000000637,"RK: Stimmt, das gibt es da auch."
+177,"00:13:23,400","00:13:27,520",803.4,807.52,4.1200000000000045,"Trotzdem müssen wir uns angucken, wer Demokratie gefährdet."
+178,"00:13:27,560","00:13:31,200",807.56,811.2,3.6400000000001,"Ist es im Augenblick der Bereich des Rechtsextremismus,"
+179,"00:13:31,240","00:13:31,800",811.24,811.8,0.5599999999999454,der das systematisch macht.
+180,"00:13:31,800","00:13:33,880",811.8,813.88,2.080000000000041,UP: Das stimmt nicht.
+181,"00:13:33,920","00:13:41,240",813.92,821.24,7.32000000000005,"Das machen beide Seiten, Frau Reichinnek und die AfD genauso."
+182,"00:13:41,240","00:13:45,760",821.24,825.76,4.519999999999982,"RK: Sie haben das Bild entwickelt, sie haben"
+183,"00:13:45,760","00:13:49,040",825.76,829.04,3.2799999999999727,eine Person und eine Strömung genannt.
+184,"00:13:49,080","00:13:55,960",829.08,835.96,6.8799999999999955,Ich will keine einzelne Straftat beurteilen.
+185,"00:13:58,840","00:14:01,560",838.84,841.56,2.7199999999999136,Das Phänomen in der Größe kommt jetzt aus
+186,"00:14:01,600","00:14:07,320",841.6,847.32,5.720000000000027,"rechtsextremen, rechtsradikalen Kreisen."
+187,"00:14:07,320","00:14:10,720",847.32,850.72,3.3999999999999773,"ML: Über diese Theorie reden wir gleich,"
+188,"00:14:10,720","00:14:15,760",850.72,855.76,5.039999999999964,befragen wir erst einmal die Wissenschaftlerin in der Runde.
+189,"00:14:15,800","00:14:22,760",855.8,862.76,6.960000000000036,Frau Merkel hat in 16 Jahren keine einzige Strafanzeige gestellt.
+190,"00:14:22,800","00:14:28,280",862.8,868.28,5.480000000000018,"Interessanterweise eine liberale,"
+191,"00:14:28,320","00:14:31,240",868.32,871.24,2.919999999999959,Agnes Strack Zimmermann für diese Liste an.
+192,"00:14:31,280","00:14:35,640",871.28,875.64,4.360000000000014,"UP: Das ist verrückt, sie ist keine richtige Liberale."
+193,"00:14:35,680","00:14:43,240",875.68,883.24,7.560000000000059,ML: Sind die Politiker heutzutage dünnhäutig geworden?
+194,"00:14:44,040","00:14:47,040",884.04,887.04,3.0,"MU: Ich glaube wir machen es uns so einfach,"
+195,"00:14:47,080","00:14:52,320",887.08,892.32,5.240000000000009,"wenn wir versuchen darüber zu reden,"
+196,"00:14:52,360","00:14:56,240",892.36,896.24,3.8799999999999955,"ist die Meinungsfreiheit eingeschränkt worden ja oder nein,"
+197,"00:14:56,280","00:15:03,360",896.28,903.36,7.080000000000041,"ich weiß nicht ob es noch einmal sehen können, die Umfrage..."
+198,"00:15:03,360","00:15:05,480",903.36,905.48,2.1200000000000045,ML: Siese Grafik meinen SIe?
+199,"00:15:05,480","00:15:16,040",905.48,916.04,10.559999999999945,BP: Das sieht jetzt aus wie eine Zange.
+200,"00:15:16,040","00:15:20,640",916.04,920.64,4.600000000000023,"MU: Haben Sie das Gefühl, jede neuere Wissenschaftler*in,"
+201,"00:15:20,680","00:15:28,840",920.68,928.84,8.160000000000082,"wenn man das Wort Gefühl legt, da gehen die Alarmglocken los."
+202,"00:15:36,120","00:15:38,920",936.12,938.92,2.7999999999999545,MU: Das ist die Frage die gestellt wurde.
+203,"00:15:38,960","00:15:41,120",938.96,941.12,2.159999999999968,Ein Gefühl.
+204,"00:15:41,160","00:15:45,320",941.16,945.32,4.160000000000082,"Woher kommen unsere Gefühle, aus unserer Umgebung."
+205,"00:15:45,400","00:15:50,560",945.4,950.56,5.159999999999968,"Die ist massiv beeinflusst von den Informationen, die wir konsumieren,"
+206,"00:15:50,600","00:15:56,080",950.6,956.08,5.480000000000018,"wenn wir das ganze freimachen von irgend welchen Streitigkeiten,"
+207,"00:15:56,120","00:16:01,120",956.12,961.12,5.0,"Fällen und Zahlen, fragen wir uns was ist unsere wichtigste Ressource."
+208,"00:16:01,200","00:16:04,600",961.2,964.6,3.3999999999999773,"Es gibt ganz viele Menschen die darüber diskutieren,"
+209,"00:16:04,640","00:16:07,280",964.64,967.28,2.6399999999999864,"die sind unsere wichtigste Ressource,"
+210,"00:16:07,320","00:16:14,320",967.32,974.32,7.0,unsere Aufmerksamkeit auf das Thema zu lenken.
+211,"00:16:15,240","00:16:20,080",975.24,980.08,4.840000000000032,Das hat etwas mit Geschichte zu tun.
+212,"00:16:20,120","00:16:28,440",980.12,988.44,8.32000000000005,"Wenn wir in Geschichtsbücher schauen wie Demokratien gefallen sind,"
+213,"00:16:30,080","00:16:32,880",990.08,992.88,2.7999999999999545,ist das über Ablenkung mit anderen Themen
+214,"00:16:32,920","00:16:34,120",992.92,994.12,1.2000000000000455,um dann anderes zu tun.
+215,"00:16:34,120","00:16:46,720",994.12,1006.72,12.600000000000023,ML: Sie halten das alles für Ablenkung?
+216,"00:16:46,720","00:16:50,200",1006.72,1010.2,3.480000000000018,"MU: Sie hatten gerade eine Sendung, die darum ging,"
+217,"00:16:50,240","00:16:54,400",1010.24,1014.4,4.159999999999968,wer Interesse daran hat eine Demokratie in den USA zu zerstören
+218,"00:16:54,440","00:16:55,960",1014.44,1015.96,1.5199999999999818,vom 15.05.
+219,"00:16:55,920","00:17:01,640",1015.92,1021.64,5.720000000000027,ML: Das war letzte Woche?
+220,"00:17:01,640","00:17:04,800",1021.64,1024.8,3.159999999999968,"MU: Wer möchte eigentlich Macht haben,"
+221,"00:17:04,840","00:17:09,120",1024.84,1029.12,4.279999999999973,"darüber uns ablenken zu lassen, man hat das Gefühl seine Meinung"
+222,"00:17:09,200","00:17:15,000",1029.2,1035.0,5.7999999999999545,nicht mehr äußern zu können.
+223,"00:17:21,040","00:17:24,720",1041.04,1044.72,3.6800000000000637,UP: Die Zeichen sind irrelevant.
+224,"00:17:24,760","00:17:27,320",1044.76,1047.32,2.5599999999999454,MU: Das sind sie nicht.
+225,"00:17:27,440","00:17:32,160",1047.44,1052.16,4.720000000000027,"Wann hatten Sie,"
+226,"00:17:32,240","00:17:36,120",1052.24,1056.12,3.8799999999998818,"das Gefühle, wo durften sie ihre Meinung nichts sagen?"
+227,"00:17:36,160","00:17:41,520",1056.16,1061.52,5.3599999999999,BP: mir ziemlich oft.
+228,"00:17:43,960","00:17:48,120",1063.96,1068.12,4.1599999999998545,MU: Sagen Sie mir wo.
+229,"00:17:48,160","00:17:50,920",1068.16,1070.92,2.759999999999991,"BP: Ich sage Wörter, die im Duden stehen,"
+230,"00:17:50,960","00:17:56,960",1070.96,1076.96,6.0,da geht dann der Shitstorm los.
+231,"00:17:58,760","00:18:02,560",1078.76,1082.56,3.7999999999999545,Ich bin nicht mehr in meiner Partei wegen dieser Sprache.
+232,"00:18:02,600","00:18:06,480",1082.6,1086.48,3.880000000000109,"Ich finde ihre Theorie, dass das alles wegen Ablenkung ist,"
+233,"00:18:06,520","00:18:11,360",1086.52,1091.36,4.839999999999918,das finde ich abwegig.
+234,"00:18:11,400","00:18:14,200",1091.4,1094.2,2.7999999999999545,"Die Menschen die ich treffe,"
+235,"00:18:14,240","00:18:19,000",1094.24,1099.0,4.759999999999991,"die sprechen mich mit folgender Rede an,"
+236,"00:18:19,040","00:18:23,480",1099.04,1103.48,4.440000000000055,"lassen Sie sich nicht untertrieben, gut dass es noch jemanden gibt,"
+237,"00:18:23,480","00:18:29,280",1103.48,1109.28,5.7999999999999545,der zu seiner Meinung steht.
+238,"00:18:29,280","00:18:31,960",1109.28,1111.96,2.6800000000000637,RK: Das erlebe ich auch.
+239,"00:18:31,960","00:18:39,560",1111.96,1119.56,7.599999999999909,MU: das sind anekdotische gegen empirische Beweise.
+240,"00:18:39,560","00:18:43,520",1119.56,1123.52,3.9600000000000364,BP: Dass es eine Weltverschwörung gibt die ablenken will...
+241,"00:18:43,600","00:18:46,120",1123.6,1126.12,2.519999999999982,Ihre These ist absurd.
+242,"00:18:46,160","00:18:52,280",1126.16,1132.28,6.119999999999891,MU: Das ist keine Verschwörung...
+243,"00:18:53,520","00:18:57,920",1133.52,1137.92,4.400000000000091,BP: Diese Problematik existiert auf den Straßen Deutschlands. Ich
+244,"00:18:58,000","00:19:03,720",1138.0,1143.72,5.720000000000027,lasse mir nicht einreden...
+245,"00:19:05,120","00:19:12,880",1145.12,1152.88,7.760000000000218,"ML: Ich bin so neutral, wie die Schweiz. Es ist wichtig."
+246,"00:19:12,920","00:19:15,880",1152.92,1155.88,2.9600000000000364,"Es konnte eben der Eindruck entstehen,"
+247,"00:19:15,960","00:19:19,160",1155.96,1159.16,3.2000000000000455,dass es da draußen irgendwo finstere Mächte gibt.
+248,"00:19:19,200","00:19:21,760",1159.2,1161.76,2.5599999999999454,Erläutern Sie das noch einmal genauer.
+249,"00:19:21,760","00:19:25,640",1161.76,1165.64,3.880000000000109,"MU: Nein. Genauso ist es wichtig, dass wir darüber reden."
+250,"00:19:25,680","00:19:29,760",1165.68,1169.76,4.079999999999927,"Ich könnte auch hingehen und sagen, was haben Sie verstanden."
+251,"00:19:29,760","00:19:33,600",1169.76,1173.6,3.839999999999918,Nicht verstanden im Sinne von dass ich sie für dumm halte.
+252,"00:19:33,600","00:19:45,200",1173.6,1185.2,11.600000000000136,ML: Hier sitzen lauter schlaue Leute.
+253,"00:19:45,200","00:19:50,960",1185.2,1190.96,5.759999999999991,"MU: Wenn Menschen ein Gefühl bekommen liegt das meistens daran,"
+254,"00:19:51,040","00:19:56,360",1191.04,1196.36,5.319999999999936,dass sie einer bestimmten Umgebung ausgesetzt sind.
+255,"00:19:56,440","00:20:04,080",1196.44,1204.08,7.639999999999873,"Wenn wir nicht weiter fragen und diese Gespräche führen,"
+256,"00:20:08,400","00:20:12,520",1208.4,1212.52,4.119999999999891,"die setzen voraus, dass wir bereit sind zuzuhören."
+257,"00:20:12,600","00:20:19,720",1212.6,1219.72,7.120000000000118,Das passiert nicht wenn ein aufgesetztes Klima besteht.
+258,"00:20:19,800","00:20:23,120",1219.8,1223.12,3.3199999999999363,"Dass dieses Gefühl dazu führt, dass man nicht mehr"
+259,"00:20:23,200","00:20:26,360",1223.2,1226.36,3.1599999999998545,miteinander reden kann.
+260,"00:20:26,400","00:20:29,760",1226.4,1229.76,3.3599999999999,"Wir wissen aus allen möglichen empirischen Studien,"
+261,"00:20:29,840","00:20:33,840",1229.84,1233.84,4.0,dass das nicht der Fall ist.
+262,"00:20:33,880","00:20:39,880",1233.88,1239.88,6.0,* Sie sprechen durcheinander. *
+263,"00:20:40,360","00:20:43,920",1240.36,1243.92,3.560000000000173,UP: Ich möchte gerne konkreter werden.
+264,"00:20:43,960","00:20:47,160",1243.96,1247.16,3.2000000000000455,"Boris Palmer ist ein grüner, ich bin nicht grün,"
+265,"00:20:47,200","00:20:53,840",1247.2,1253.84,6.639999999999873,doch trotzdem haben wir Gemeinsamkeiten.
+266,"00:20:55,400","00:20:59,400",1255.4,1259.4,4.0,"Es gibt Menschen, die haben authentisches Sprachverständnis."
+267,"00:20:59,440","00:21:03,360",1259.44,1263.36,3.9199999999998454,"Wir haben eine politische Sprache entwickelt,"
+268,"00:21:03,400","00:21:10,080",1263.4,1270.08,6.679999999999836,die gar keine Glaubwürdigkeit mehr hat...
+269,"00:21:14,880","00:21:22,280",1274.88,1282.28,7.399999999999864,"MU: Merken Sie gerade, was Sie für Worte benutzen?"
+270,"00:21:25,040","00:21:29,520",1285.04,1289.52,4.480000000000018,"UP: Gehen Sie davon aus, ich benutze meine Wörter sehr reflektiert."
+271,"00:21:29,560","00:21:31,840",1289.56,1291.84,2.2799999999999727,MU: Warum sagen Sie dann Floskeln?
+272,"00:21:31,880","00:21:33,160",1291.88,1293.16,1.2799999999999727,UP: Weil sie das sind.
+273,"00:21:33,160","00:21:37,480",1293.16,1297.48,4.319999999999936,RK: War das jetzt eine Floskel?
+274,"00:21:37,480","00:21:40,680",1297.48,1300.68,3.2000000000000455,UP: Ich würde gerne meinen Punkt machen.
+275,"00:21:40,680","00:21:45,080",1300.68,1305.08,4.399999999999864,Wir haben in verschiedenen politischen Situationen
+276,"00:21:45,120","00:21:50,360",1305.12,1310.36,5.240000000000009,"die Sprachregelung als etwas gemacht, was wichtig war"
+277,"00:21:50,400","00:21:58,360",1310.4,1318.36,7.959999999999809,um eine Art ideologisches Selbstverständnis zu artikulieren.
+278,"00:21:58,440","00:22:01,720",1318.44,1321.72,3.2799999999999727,"Das 2015, ""Wir schaffen das""."
+279,"00:22:01,760","00:22:06,240",1321.76,1326.24,4.480000000000018,"Dann wurde das problematisiert, wir können uns die Zahlen anschauen,"
+280,"00:22:06,320","00:22:09,320",1326.32,1329.32,3.0,die entwickeln sich entlang dieser Diskussion.
+281,"00:22:09,360","00:22:10,880",1329.36,1330.88,1.5200000000002092,Wir hatten es in Corona ganz extrem.
+282,"00:22:10,880","00:22:14,160",1330.88,1334.16,3.2799999999999727,ML: Können wir bitte die Grafik noch einmal sehen?
+283,"00:22:14,200","00:22:18,880",1334.2,1338.88,4.680000000000064,Der zeitliche Ablauf ist interessant.
+284,"00:22:18,880","00:22:31,440",1338.88,1351.44,12.559999999999945,"UP: Ich finde wir können jetzt gerne,"
+285,"00:22:31,440","00:22:36,040",1351.44,1356.04,4.599999999999909,"ich habe sie noch nicht verstanden, aber ich glaube es ist wichtig..."
+286,"00:22:36,080","00:22:39,280",1356.08,1359.28,3.2000000000000455,"MU: Die Frage ist ob wir uns unterhalten wollen,"
+287,"00:22:39,360","00:22:40,840",1359.36,1360.84,1.4800000000000182,was ist Ihr Interesse?
+288,"00:22:40,880","00:22:43,360",1360.88,1363.36,2.479999999999791,Möchten Sie einen Diskurs?
+289,"00:22:43,440","00:22:46,840",1363.44,1366.84,3.3999999999998636,"Bevor wir zu tief in einzelne Themen reingehen,"
+290,"00:22:46,880","00:22:51,600",1366.88,1371.6,4.7199999999998,möchten Sie sich austauschen?
+291,"00:22:51,640","00:22:54,880",1371.64,1374.88,3.240000000000009,"UP: Hören Sie einfach zu, dann können Sie es noch"
+292,"00:22:54,920","00:22:58,080",1374.92,1378.08,3.1599999999998545,beurteilen.
+293,"00:22:58,160","00:23:00,040",1378.16,1380.04,1.8799999999998818,MU: Es ist schwierig.
+294,"00:23:00,040","00:23:05,360",1380.04,1385.36,5.319999999999936,ML: Einfach ausreden lassen hilft.
+295,"00:23:05,360","00:23:12,720",1385.36,1392.72,7.360000000000127,"UP: Diese Art und Weise,"
+296,"00:23:12,720","00:23:16,040",1392.72,1396.04,3.3199999999999363,"Diskurs einfach so zu zerhacken in dem man Leute,"
+297,"00:23:16,120","00:23:23,600",1396.12,1403.6,7.480000000000018,"wenn sie versuchen etwas zu erklären, nicht ausreden zu lassen."
+298,"00:23:23,640","00:23:25,680",1403.64,1405.68,2.0399999999999636,"Wir haben diese realen Zahlen,"
+299,"00:23:25,720","00:23:28,320",1405.72,1408.32,2.599999999999909,"wenn man das Thema nicht ernst nimmt,"
+300,"00:23:28,400","00:23:34,960",1408.4,1414.96,6.559999999999945,fliegt uns die Gesellschaft um die Ohren.
+301,"00:23:35,000","00:23:43,280",1415.0,1423.28,8.279999999999973,"Der sehr differenzierte Robin Alexander, der zitiert immer gerne,"
+302,"00:23:44,640","00:23:48,200",1424.64,1428.2,3.5599999999999454,"die ""Ebbe der Latenz ist der Grund für das Unbehagen""."
+303,"00:23:48,280","00:23:50,320",1428.28,1430.32,2.0399999999999636,"Wenn Menschen das Gefühl haben,"
+304,"00:23:50,400","00:23:56,160",1430.4,1436.16,5.759999999999991,dass das was sie eigentlich als ihr selbst Verständnis
+305,"00:23:56,240","00:23:59,960",1436.24,1439.96,3.7200000000000273,"reflektiert haben, wenn man da in die Sprache eingreift,"
+306,"00:24:00,000","00:24:03,200",1440.0,1443.2,3.2000000000000455,"dann haben die Leute das Gefühl, es geht zu weit."
+307,"00:24:03,560","00:24:07,360",1443.56,1447.36,3.7999999999999545,"Ich will nur sagen, dass mit der dünnhäutig kalt meine ich so."
+308,"00:24:07,400","00:24:10,080",1447.4,1450.08,2.6799999999998363,Ich werde jede Woche 5-6 mal angesprochen
+309,"00:24:10,120","00:24:16,520",1450.12,1456.52,6.400000000000091,und zwar von den unterschiedlichsten Milieus.
+310,"00:24:16,600","00:24:20,920",1456.6,1460.92,4.320000000000164,"Vielen Dank, Machen Sie so weiter, dann sagen Sie aber auch immer,"
+311,"00:24:21,000","00:24:26,000",1461.0,1466.0,5.0,vielen Dank für ihren Mut.
+312,"00:24:26,040","00:24:31,920",1466.04,1471.92,5.880000000000109,BP: Das ist bei mir genauso.
+313,"00:24:34,800","00:24:37,720",1474.8,1477.72,2.9200000000000728,"UP: Ich sage jedes Mal ich bin nicht mutig,"
+314,"00:24:37,800","00:24:40,120",1477.8,1480.12,2.3199999999999363,ich mache das selbstverständlichste.
+315,"00:24:40,160","00:24:42,560",1480.16,1482.56,2.3999999999998636,"Ich hatte einen Kollegen,"
+316,"00:24:42,640","00:24:47,160",1482.64,1487.16,4.519999999999982,"der in einer Autokratie in der Türkei eingesperrt war,"
+317,"00:24:47,240","00:24:53,560",1487.24,1493.56,6.319999999999936,weil Erdogan und seine Familie beleidigt hat.
+318,"00:24:53,600","00:25:01,240",1493.6,1501.24,7.6400000000001,"Wenn wir anfangen Leute für Memes mit Haftstrafen zu belegen,"
+319,"00:25:01,280","00:25:05,120",1501.28,1505.12,3.839999999999918,dann wird es kritisch.
+320,"00:25:05,120","00:25:08,720",1505.12,1508.72,3.6000000000001364,ML: Sie reden über Franziska Brandmann.
+321,"00:25:08,720","00:25:18,880",1508.72,1518.88,10.160000000000082,"UP: Wir müssen sehen und ich hoffe, dass wir sagen,"
+322,"00:25:18,880","00:25:23,800",1518.88,1523.8,4.919999999999845,vielleicht öffnen wir den Raum des Tragbaren
+323,"00:25:23,840","00:25:30,000",1523.84,1530.0,6.160000000000082,ohne indifferent zu sein gegen Gewaltandrohung.
+324,"00:25:30,040","00:25:32,480",1530.04,1532.48,2.4400000000000546,"Aber diese Art von dünnhäutigkeit wie wir es im Augenblick haben,"
+325,"00:25:32,480","00:25:34,440",1532.48,1534.44,1.9600000000000364,"ML: Frau Künast, Sie dürfen..."
+326,"00:25:34,440","00:25:44,480",1534.44,1544.48,10.039999999999964,halte ich für ein Problem.
+327,"00:25:44,480","00:25:50,000",1544.48,1550.0,5.519999999999982,MU: Das ist bei mir angekommen.
+328,"00:25:50,000","00:25:52,560",1550.0,1552.56,2.5599999999999454,"ML: Ich würde gerne einmal verstehen,"
+329,"00:25:52,560","00:25:55,520",1552.56,1555.52,2.9600000000000364,welcher punkt genau war jetzt die Beleidigung?
+330,"00:25:55,520","00:25:58,360",1555.52,1558.36,2.839999999999918,MU: Eine Beleidigung. Es gab verschiedene.
+331,"00:25:58,440","00:26:01,080",1558.44,1561.08,2.6399999999998727,"Ich versuche eine Nachfrage zu stellen,"
+332,"00:26:01,080","00:26:07,440",1561.08,1567.44,6.360000000000127,mir wurde vorgeworfen ich unterbreche.
+333,"00:26:07,440","00:26:16,160",1567.44,1576.16,8.720000000000027,ML: Das ist nicht nett.
+334,"00:26:16,160","00:26:18,880",1576.16,1578.88,2.7200000000000273,"MU: Mir ist es egal was bei mir ankommt,"
+335,"00:26:18,960","00:26:21,680",1578.96,1581.68,2.7200000000000273,es geht mir darum eine Frage zu verstehen.
+336,"00:26:21,760","00:26:27,600",1581.76,1587.6,5.839999999999918,Wie viele Leser hat die Welt?
+337,"00:26:31,240","00:26:35,000",1591.24,1595.0,3.759999999999991,Die sie mitverantworten.
+338,"00:26:35,080","00:26:41,600",1595.08,1601.6,6.519999999999982,UP: Wir haben verschiedene Reichweiten.
+339,"00:26:46,200","00:26:52,960",1606.2,1612.96,6.759999999999991,Erreichen zwei bis drei Millionen Leute.
+340,"00:26:53,720","00:26:57,400",1613.72,1617.4,3.6800000000000637,"ML: Seid nicht so empfindlich, redet einfach geradeaus."
+341,"00:26:57,440","00:27:00,120",1617.44,1620.12,2.6799999999998363,Lass uns Erwachsen sein.
+342,"00:27:00,120","00:27:04,600",1620.12,1624.6,4.480000000000018,"MU: Es geht mir um einen ehrlichen Diskurs, nicht um einen Streit,"
+343,"00:27:04,600","00:27:06,320",1624.6,1626.32,1.7200000000000273,"sie haben gesagt,"
+344,"00:27:06,400","00:27:08,840",1626.4,1628.84,2.439999999999827,sie überlegen sich gut was Sie sagen.
+345,"00:27:08,880","00:27:12,240",1628.88,1632.24,3.3599999999999,"Wenn Sie zum Beispiel das Wort Ideologie benutzen,"
+346,"00:27:12,280","00:27:14,760",1632.28,1634.76,2.480000000000018,was versuchen Sie damit zu erreichen?
+347,"00:27:14,840","00:27:18,440",1634.84,1638.44,3.6000000000001364,"Aus meiner Sicht haben Sie eine riesige Verantwortung,"
+348,"00:27:18,480","00:27:21,360",1638.48,1641.36,2.8799999999998818,"was ist das Ziel,"
+349,"00:27:21,440","00:27:24,920",1641.44,1644.92,3.480000000000018,"was ist das Gefühl, was sie versuchen zu vermitteln?"
+350,"00:27:24,960","00:27:30,120",1644.96,1650.12,5.1599999999998545,UP: Keine Ahnung.
+351,"00:27:30,600","00:27:34,480",1650.6,1654.48,3.880000000000109,Was sie hier jetzt versuchen Seminars rauszukriegen.
+352,"00:27:34,560","00:27:38,600",1654.56,1658.6,4.039999999999964,"Sie kennen wahrscheinlich Wittgenstein, den Sprachphilosophen."
+353,"00:27:38,680","00:27:43,320",1658.68,1663.32,4.639999999999873,"Ich rede so, dass es möglichst jeder versteht."
+354,"00:27:43,400","00:27:46,960",1663.4,1666.96,3.5599999999999454,Nehmen Sie es so wie ich es sage.
+355,"00:27:47,040","00:27:50,120",1667.04,1670.12,3.0799999999999272,Sie können rein interpretieren was sie wollen.
+356,"00:27:50,200","00:27:51,200",1670.2,1671.2,1.0,"Ich rede so,"
+357,"00:27:51,280","00:27:53,920",1671.28,1673.92,2.6400000000001,damit es möglichst viele Leute verstehen.
+358,"00:27:54,000","00:28:00,600",1674.0,1680.6,6.599999999999909,"Ich war achteinhalb Jahre Chefredakteur,"
+359,"00:28:03,320","00:28:07,920",1683.32,1687.92,4.600000000000136,wir wollen Menschen zum mündigen Medienkonsumenten machen.
+360,"00:28:08,000","00:28:13,560",1688.0,1693.56,5.559999999999945,Zu glauben dass der eine Journalist in der Lage ist Millionen
+361,"00:28:13,640","00:28:18,320",1693.64,1698.32,4.679999999999836,von Menschen mit seinem benutzen des Wortes Ideologie
+362,"00:28:18,400","00:28:25,480",1698.4,1705.48,7.079999999999927,"irgendwohin zu treiben, ich wünschte es wäre so einfach."
+363,"00:28:25,560","00:28:31,360",1705.56,1711.36,5.7999999999999545,Dann hätten wir eine andere Regierung.
+364,"00:28:31,440","00:28:36,920",1711.44,1716.92,5.480000000000018,"In meiner eigenen Redaktion habe ich Dutzende von Kollegen,"
+365,"00:28:36,960","00:28:41,920",1716.96,1721.92,4.960000000000036,"wir streiten, es gibt nicht eine Meinung..."
+366,"00:28:42,000","00:28:45,720",1722.0,1725.72,3.7200000000000273,MU: Sie driften gerade ab.
+367,"00:28:45,800","00:28:51,640",1725.8,1731.64,5.8400000000001455,Ich habe sie gefragt nach ihren Wörtern.
+368,"00:28:51,720","00:28:58,840",1731.72,1738.84,7.119999999999891,UP: Lesen Sie die Texte. Ich verstehe sie nicht.
+369,"00:28:59,720","00:29:01,520",1739.72,1741.52,1.7999999999999545,MU: Das ist das Spannende Punkt.
+370,"00:29:01,520","00:29:08,440",1741.52,1748.44,6.920000000000073,ML: Sie führen einen Dialog.
+371,"00:29:08,440","00:29:11,400",1748.44,1751.4,2.9600000000000364,Wo wollen Sie mit der Frage nach der Ideologie?
+372,"00:29:11,400","00:29:15,320",1751.4,1755.32,3.9199999999998454,MU: Ich frage mich ob er seiner Verantwortung bewusst ist.
+373,"00:29:15,400","00:29:19,240",1755.4,1759.24,3.839999999999918,UP: Absolut.
+374,"00:29:19,240","00:29:31,120",1759.24,1771.12,11.879999999999882,ML: Falsch gefragt sagt Frau Künast.
+375,"00:29:31,120","00:29:37,320",1771.12,1777.32,6.2000000000000455,RK: Jeder von uns hat Interessen.
+376,"00:29:41,520","00:29:46,320",1781.52,1786.32,4.7999999999999545,Das ist dann meine oder seine Art zu reden.
+377,"00:29:46,360","00:29:50,200",1786.36,1790.2,3.8400000000001455,Was sich bei der Debatte irritiert...
+378,"00:29:50,240","00:29:54,200",1790.24,1794.2,3.9600000000000364,"ich habe ein bisschen das Gefühl, dass der Fokus der Debatte"
+379,"00:29:54,240","00:29:59,240",1794.24,1799.24,5.0,verschoben wird.
+380,"00:29:59,280","00:30:02,240",1799.28,1802.24,2.9600000000000364,"Wenn wir über das Schaubild vorhin sprechen,"
+381,"00:30:02,280","00:30:04,800",1802.28,1804.8,2.519999999999982,ob es meinem zweit gibt oder nicht ..
+382,"00:30:04,840","00:30:08,320",1804.84,1808.32,3.480000000000018,Palmer und ich hatten vor Jahren schon eine Debatte.
+383,"00:30:08,360","00:30:16,200",1808.36,1816.2,7.8400000000001455,"Man überlegt sich doch auch selber, wie man etwas spricht."
+384,"00:30:22,360","00:30:27,880",1822.36,1827.88,5.520000000000209,"Jakobinertum, da muss ich sagen, mir geht persönlich schon auf den Nerv,"
+385,"00:30:27,920","00:30:32,200",1827.92,1832.2,4.279999999999973,"dass heute, wenn man seine Meinung sagt."
+386,"00:30:32,240","00:30:35,800",1832.24,1835.8,3.5599999999999454,Wenn man so tut als sei heute eine kritische Reaktion
+387,"00:30:35,880","00:30:40,840",1835.88,1840.84,4.959999999999809,auf eine bestimmte Äußerung Teufelszeug.
+388,"00:30:40,880","00:30:42,960",1840.88,1842.96,2.0799999999999272,"Wer eine dezidierte Meinung hat,"
+389,"00:30:43,000","00:30:50,240",1843.0,1850.24,7.240000000000009,wird auch eine dezidierte Gegenmeinung erfahren.
+390,"00:30:53,800","00:30:56,720",1853.8,1856.72,2.9200000000000728,"Viele in der Gesellschaft haben verstanden,"
+391,"00:30:56,760","00:31:03,000",1856.76,1863.0,6.240000000000009,wie der digitale Mechanismus geht.
+392,"00:31:07,520","00:31:11,600",1867.52,1871.6,4.079999999999927,"Wir wissen, dass Elon Musk und Zuckerberg"
+393,"00:31:11,640","00:31:18,320",1871.64,1878.32,6.679999999999836,"finanzielle Interessen haben wir wissen,"
+394,"00:31:19,640","00:31:26,680",1879.64,1886.68,7.039999999999964,"dass deine Stimmung, eine Atmosphäre drin ist."
+395,"00:31:27,480","00:31:35,840",1887.48,1895.84,8.3599999999999,"Soll ich mich dafür entschuldigen, dass ich jemanden diskriminieren?"
+396,"00:31:35,880","00:31:44,600",1895.88,1904.6,8.7199999999998,"Die Einzelfälle muss man besprechen, bei meiner Jugend wurde mir gesagt,"
+397,"00:31:46,880","00:31:54,520",1906.88,1914.52,7.639999999999873,"wenn die hier was nicht nicht passt, dann geh den Osten."
+398,"00:31:57,600","00:32:00,080",1917.6,1920.08,2.480000000000018,Da kannst du gar nichts sagen.
+399,"00:32:00,120","00:32:07,680",1920.12,1927.68,7.560000000000173,Die Demokratie ist nicht gefährdet von scharfen Reaktionen.
+400,"00:32:07,720","00:32:14,960",1927.72,1934.96,7.240000000000009,"Sondern durch die, die die Grundrechte infrage stellen."
+401,"00:32:14,960","00:32:17,840",1934.96,1937.84,2.8799999999998818,"ML: Ich würde gerne Boris Palmer fragen,"
+402,"00:32:17,840","00:32:22,840",1937.84,1942.84,5.0,sie haben ein Wort irgendwo sitzt was im Duden steht.
+403,"00:32:22,920","00:32:28,840",1942.92,1948.84,5.919999999999845,BP: Das darf ich nicht sagen.
+404,"00:32:29,160","00:32:31,280",1949.16,1951.28,2.119999999999891,Ich sage mal das Wort Voldemort.
+405,"00:32:31,400","00:32:34,200",1951.4,1954.2,2.7999999999999545,"Es geht darauf an,"
+406,"00:32:34,240","00:32:38,480",1954.24,1958.48,4.240000000000009,dass die simple Benutzung eines Wortes ausreichen kann
+407,"00:32:38,560","00:32:42,480",1958.56,1962.48,3.9200000000000728,und politisch komplett ins abseits gestellt zu werden.
+408,"00:32:42,560","00:32:47,480",1962.56,1967.48,4.920000000000073,"Das ist ein Punkt wo ich denke, was ist da los."
+409,"00:32:47,480","00:32:50,920",1967.48,1970.92,3.4400000000000546,ML: Wir sind schon mittendrin.
+410,"00:32:50,920","00:32:54,160",1970.92,1974.16,3.240000000000009,"BP: Ich halte diese Grafik nicht nur vom Gefühl,"
+411,"00:32:54,160","00:32:59,360",1974.16,1979.36,5.199999999999818,sondern zutreffend.
+412,"00:33:00,440","00:33:05,600",1980.44,1985.6,5.1599999999998545,"Vorneweg, ich habe auch diese Dinge im Briefkasten,"
+413,"00:33:05,720","00:33:11,600",1985.72,1991.6,5.879999999999882,"wo ich sehr sensibel bin und sage, die lass ich mir nicht gefallen."
+414,"00:33:11,640","00:33:16,560",1991.64,1996.56,4.919999999999845,Viele Leute schicken mir Hassmeldungen.
+415,"00:33:16,560","00:33:22,040",1996.56,2002.04,5.480000000000018,ML: Sowas kriegen Sie?
+416,"00:33:22,040","00:33:26,440",2002.04,2006.44,4.400000000000091,"BP: Ich hab vor ein paar Tagen eine Mail bekommen, da steht drin,"
+417,"00:33:26,520","00:33:31,040",2006.52,2011.04,4.519999999999982,es wäre besser man würde mich aufhängen.
+418,"00:33:31,080","00:33:39,080",2011.08,2019.08,8.0,"Die Staatsanwaltschaft hat gesagt, das ist eine Verwünschung."
+419,"00:33:48,360","00:33:51,200",2028.36,2031.2,2.8400000000001455,"ML: Das ist aber für Sie die Grenze dessen,"
+420,"00:33:51,240","00:33:54,680",2031.24,2034.68,3.4400000000000546,was man noch als Meinungsfreiheit bezeichnet?
+421,"00:33:54,680","00:33:59,160",2034.68,2039.16,4.480000000000018,"BP: Ich will auf den Punkt hinaus, dann kann ich den abschließen,"
+422,"00:33:59,160","00:34:02,840",2039.16,2042.84,3.6799999999998363,"Angela Merkel als mächtigste Frau der Welt kann sich das leisten, aber"
+423,"00:34:02,880","00:34:05,760",2042.88,2045.76,2.8799999999998818,"für uns Kommunalpolitiker, die ihr Ehrenamt"
+424,"00:34:05,840","00:34:09,760",2045.84,2049.76,3.9200000000003,"für die Gemeinde einbringen, diese extreme Radikalisierung,"
+425,"00:34:09,800","00:34:10,760",2049.8,2050.76,0.9600000000000364,Beleidigungen.
+426,"00:34:10,840","00:34:15,800",2050.84,2055.8,4.960000000000036,Die Leute demonstrieren vor den Häusern.
+427,"00:34:15,880","00:34:20,320",2055.88,2060.32,4.440000000000055,Wie erzählt man das seinen Kindern?
+428,"00:34:20,400","00:34:24,040",2060.4,2064.04,3.6399999999998727,"Abgehakt, das ist ein Thema."
+429,"00:34:24,120","00:34:30,120",2064.12,2070.12,6.0,"Ich bin bei 200, nicht bei 800."
+430,"00:34:31,280","00:34:34,160",2071.28,2074.16,2.8799999999996544,"Mit Schwachkopf, das finde ich fast lustig,"
+431,"00:34:34,200","00:34:40,880",2074.2,2080.88,6.680000000000291,das sind Menschen vielleicht verschieden.
+432,"00:34:42,600","00:34:47,040",2082.6,2087.04,4.440000000000055,Es gibt eine Aggressivität auch gegenüber ehrenamtlichen
+433,"00:34:47,120","00:34:49,840",2087.12,2089.84,2.7200000000002547,"Kommunalpolitikern, die unerträglich ist."
+434,"00:34:49,920","00:34:53,840",2089.92,2093.84,3.9200000000000728,Da geht Meinungsfreiheit zu weit.
+435,"00:34:53,920","00:34:59,640",2093.92,2099.64,5.7199999999998,"Trotzdem, gibt es den Eindruck,"
+436,"00:34:59,720","00:35:04,440",2099.72,2104.44,4.720000000000255,"dass man mit massiven Repressionen rechnen muss,"
+437,"00:35:04,520","00:35:08,240",2104.52,2108.24,3.7199999999998,wenn man im Feld Migration abweichende Meinungen kundtut.
+438,"00:35:08,320","00:35:15,320",2108.32,2115.32,7.0,Wenn man sich nicht an eine Auffassung hält...
+439,"00:35:19,960","00:35:26,600",2119.96,2126.6,6.639999999999873,BP: Ich nehme jetzt das Migrationsfeld.
+440,"00:35:28,920","00:35:32,200",2128.92,2132.2,3.2799999999997453,"Ich kann aus Erfahrung sagen, wenn man das macht,"
+441,"00:35:32,280","00:35:35,640",2132.28,2135.64,3.3599999999996726,wird man als Rassist und Nazi betitelt.
+442,"00:35:35,760","00:35:39,520",2135.76,2139.52,3.7599999999997635,Das ist etwas das bleibt hängen.
+443,"00:35:39,640","00:35:45,480",2139.64,2145.48,5.8400000000001455,Das hat bei mir zum Austritt geführt.
+444,"00:35:45,560","00:35:51,960",2145.56,2151.96,6.400000000000091,"Ich komme noch aus der Zeit von Habermas,"
+445,"00:35:52,040","00:35:55,600",2152.04,2155.6,3.5599999999999454,wer das bessere Argument hat möge die Debatte gewinnen.
+446,"00:35:55,720","00:36:01,560",2155.72,2161.56,5.8400000000001455,"Mittlerweile hat man erkannt,"
+447,"00:36:02,440","00:36:05,600",2162.44,2165.6,3.1599999999998545,dass es viel effektiver ist den Gegner mundtot
+448,"00:36:05,720","00:36:08,880",2165.72,2168.88,3.1600000000003092,zu machen indem man ihn moralisch diskreditiert.
+449,"00:36:09,000","00:36:12,400",2169.0,2172.4,3.400000000000091,Weil er zum Beispiel die Menschenrechte nicht achtet.
+450,"00:36:12,480","00:36:18,800",2172.48,2178.8,6.320000000000164,Das kann man schon an kleinsten Dingen festmachen.
+451,"00:36:18,880","00:36:25,000",2178.88,2185.0,6.119999999999891,Das machen wiederum beide Seiten.
+452,"00:36:26,400","00:36:32,320",2186.4,2192.32,5.920000000000073,"Die eine Seite schreit Nazi,"
+453,"00:36:32,880","00:36:37,880",2192.88,2197.88,5.0,"Dämonisierung,"
+454,"00:36:39,480","00:36:42,680",2199.48,2202.68,3.199999999999818,"in die andere Richtung wird es genauso gemacht,"
+455,"00:36:42,760","00:36:47,160",2202.76,2207.16,4.399999999999636,"da redet man von Volksvertretern, die linken Bazillen."
+456,"00:36:47,240","00:36:52,600",2207.24,2212.6,5.360000000000127,"Jeweils für die eigene Seite ist das verrückt,"
+457,"00:36:52,680","00:36:55,200",2212.68,2215.2,2.519999999999982,"ich kann damit die anderen ausgrenzen,"
+458,"00:36:55,280","00:37:00,680",2215.28,2220.68,5.399999999999636,es ist viel einfacher.
+459,"00:37:01,160","00:37:05,880",2221.16,2225.88,4.720000000000255,"Jemanden moralisch kaputt zu machen, ihn damit zum Schweigen zu bringen,"
+460,"00:37:05,960","00:37:10,320",2225.96,2230.32,4.360000000000127,statt mühsam zu überzeugen mit Argumenten.
+461,"00:37:10,400","00:37:15,400",2230.4,2235.4,5.0,"Wie ihre These,"
+462,"00:37:16,520","00:37:22,840",2236.52,2242.84,6.320000000000164,"dass man diese Ablenkung nimmt, in."
+463,"00:37:29,320","00:37:34,120",2249.32,2254.12,4.799999999999727,Wir alle müssen uns am Riemen reißen auf unserer eigenen Seite zu kehren.
+464,"00:37:34,200","00:37:37,520",2254.2,2257.52,3.3200000000001637,"Die linken sollen aufhören das nach rechts machen,"
+465,"00:37:37,600","00:37:40,720",2257.6,2260.72,3.119999999999891,die Rechtsextremen ganz bestimmt.
+466,"00:37:40,800","00:37:43,800",2260.8,2263.8,3.0,Die Rechtsextremen profitieren davon wenn wir
+467,"00:37:43,880","00:37:48,400",2263.88,2268.4,4.519999999999982,in der Mitte der Gesellschaft nicht mehr miteinander sprechen können.
+468,"00:37:48,480","00:37:52,840",2268.48,2272.84,4.360000000000127,Deswegen sollten wir uns jetzt ein bisschen vorbildlicher verhalten
+469,"00:37:52,960","00:37:57,880",2272.96,2277.88,4.920000000000073,als jetzt.
+470,"00:38:02,520","00:38:06,240",2282.52,2286.24,3.7199999999998,"ML: Frau Orner, werden wir abgelenkt, oder sind wir abgelenkt?"
+471,"00:38:06,240","00:38:09,960",2286.24,2289.96,3.7200000000002547,"MU: Es gibt nicht eine Person, die da etwas registriert,"
+472,"00:38:10,080","00:38:14,320",2290.08,2294.32,4.2400000000002365,"sondern die Idee, wenn ich mit einer neuropsychiatrischer Brille"
+473,"00:38:14,320","00:38:18,600",2294.32,2298.6,4.279999999999745,"auf Geschichte schaue, dann können wir sehen,"
+474,"00:38:18,720","00:38:21,400",2298.72,2301.4,2.680000000000291,"ich schaue darauf,"
+475,"00:38:21,480","00:38:24,000",2301.48,2304.0,2.519999999999982,wann haben Menschen mit extremen Ideen
+476,"00:38:24,080","00:38:28,120",2304.08,2308.12,4.039999999999964,eine Chance möglichst viele Menschen hinter sich zu versammeln.
+477,"00:38:28,200","00:38:31,080",2308.2,2311.08,2.880000000000109,Dann ist das in Zuständen der Aufgeregtheit.
+478,"00:38:31,160","00:38:37,640",2311.16,2317.64,6.480000000000018,Das was wir jetzt teilweise beobachten.
+479,"00:38:39,760","00:38:47,080",2319.76,2327.08,7.319999999999709,Das ist neurowissenschaftlich einfach zu erklären.
+480,"00:38:47,280","00:38:50,480",2327.28,2330.48,3.199999999999818,Das weiß jeder.
+481,"00:38:50,560","00:38:53,800",2330.56,2333.8,3.2400000000002365,Man ist nicht mehr in der Lage das zu tun was man
+482,"00:38:53,880","00:38:56,920",2333.88,2336.92,3.0399999999999636,eigentlich wollte.
+483,"00:38:57,000","00:39:02,440",2337.0,2342.44,5.440000000000055,"Wenn meine Absicht ist,"
+484,"00:39:03,880","00:39:06,600",2343.88,2346.6,2.7199999999998,"was ist unser Ziel hier und heute Abend,"
+485,"00:39:06,720","00:39:10,600",2346.72,2350.6,3.880000000000109,"wollen wir einen Diskurs führen,"
+486,"00:39:10,680","00:39:19,240",2350.68,2359.24,8.559999999999945,wo ich versuche zu verstehen was die andere Person versucht zu erklären
+487,"00:39:20,160","00:39:24,560",2360.16,2364.56,4.400000000000091,"das bedeutet,"
+488,"00:39:24,640","00:39:25,800",2364.64,2365.8,1.1600000000003092,dass Menschen diese aufgeheizten Situation.
+489,"00:39:25,800","00:39:30,760",2365.8,2370.76,4.960000000000036,ML: aufgehetzt?
+490,"00:39:34,320","00:39:37,320",2374.32,2377.32,3.0,"MU: Nicht aufgehetzt, sondern aufgeregt."
+491,"00:39:37,400","00:39:42,560",2377.4,2382.56,5.1599999999998545,"Wenn wir versuchen zu verstehen, was will man sagen."
+492,"00:39:42,680","00:39:48,160",2382.68,2388.16,5.480000000000018,Nicht in Lagern denken.
+493,"00:39:48,400","00:39:53,520",2388.4,2393.52,5.119999999999891,Unsere Demokratie ist in Gefahr.
+494,"00:39:53,640","00:40:00,200",2393.64,2400.2,6.559999999999945,"Wir sehen live in den USA, was passiert."
+495,"00:40:03,920","00:40:08,920",2403.92,2408.92,5.0,ML: In Amerika?
+496,"00:40:10,080","00:40:17,080",2410.08,2417.08,7.0,"MU: Das ist der Punkt, den ich machen möchte."
+497,"00:40:19,640","00:40:23,320",2419.64,2423.32,3.680000000000291,"Dort werden unter dem Vorwand der Meinungsfreiheit,"
+498,"00:40:23,400","00:40:30,200",2423.4,2430.2,6.799999999999727,die kommen an die Macht und schaffen es ab.
+499,"00:40:31,880","00:40:39,080",2431.88,2439.08,7.199999999999818,Das sehen wir in der in Geschichte immer wieder.
+500,"00:40:48,840","00:40:53,400",2448.84,2453.4,4.559999999999945,UP: Ich möchte da gerne historisch darauf reagieren.
+501,"00:40:53,520","00:40:57,600",2453.52,2457.6,4.079999999999927,"Die Situation, dass Donald Trump zum zweiten Mal Präsident ist."
+502,"00:40:57,680","00:41:03,320",2457.68,2463.32,5.640000000000327,"Das hat meines Erachtens,"
+503,"00:41:05,440","00:41:09,640",2465.44,2469.64,4.199999999999818,"das was sie sagen ist sehr common sense,"
+504,"00:41:09,720","00:41:14,320",2469.72,2474.32,4.600000000000364,"das in der Tat eine Gesellschaft aufgewühlt ist,"
+505,"00:41:14,400","00:41:17,800",2474.4,2477.8,3.400000000000091,"dann ist es leichter für jemanden,"
+506,"00:41:17,920","00:41:20,920",2477.92,2480.92,3.0,"der die Zuspitzung als politisches Merkmal hat,"
+507,"00:41:21,000","00:41:23,760",2481.0,2483.76,2.7600000000002183,erfolgreich zu sein.
+508,"00:41:23,880","00:41:26,200",2483.88,2486.2,2.319999999999709,"Das interessante ist,"
+509,"00:41:26,280","00:41:29,640",2486.28,2489.64,3.3599999999996726,"wenn sie sich Donald Trump Wahlkampf anschauen,"
+510,"00:41:29,720","00:41:32,920",2489.72,2492.92,3.200000000000273,dass er mit diesen Gefühlen super gearbeitet hat.
+511,"00:41:33,000","00:41:36,760",2493.0,2496.76,3.7600000000002183,"Das konnte er nur weil,"
+512,"00:41:36,880","00:41:41,000",2496.88,2501.0,4.119999999999891,"jetzt zitiere ich einen linken Demokraten,"
+513,"00:41:41,120","00:41:46,880",2501.12,2506.88,5.760000000000218,"ein amerikanischer Komödien,"
+514,"00:41:47,960","00:41:51,680",2507.96,2511.68,3.7199999999998,er hat nichts anderes gemacht als den Demokraten
+515,"00:41:51,760","00:41:54,880",2511.76,2514.88,3.119999999999891,bis heute immer wieder in die Leviten zu lesen.
+516,"00:41:55,000","00:42:00,800",2515.0,2520.8,5.800000000000182,"Transsexualität, Migration..."
+517,"00:42:04,040","00:42:12,040",2524.04,2532.04,8.0,"Der hat den Demokraten gesagt, ihr seid ein elitärer Laken,"
+518,"00:42:14,640","00:42:18,280",2534.64,2538.28,3.6400000000003274,ihr habt die Verbindung zu den blauen Wähler verloren.
+519,"00:42:18,400","00:42:21,760",2538.4,2541.76,3.3600000000001273,Hillary Clinton hat deshalb gegen einen Außenseiter
+520,"00:42:21,880","00:42:24,480",2541.88,2544.48,2.599999999999909,mit Unterton verloren.
+521,"00:42:24,600","00:42:28,280",2544.6,2548.28,3.680000000000291,"Die Demokraten haben wieder gegen Donald Trump verloren,"
+522,"00:42:28,400","00:42:29,960",2548.4,2549.96,1.5599999999999454,"weil genau dieses Gefühl,"
+523,"00:42:30,040","00:42:32,840",2550.04,2552.84,2.800000000000182,"wir können nicht mehr sagen was wir denken,"
+524,"00:42:32,920","00:42:35,360",2552.92,2555.36,2.4400000000000546,"wir können nicht argumentieren würden,"
+525,"00:42:35,480","00:42:41,680",2555.48,2561.68,6.199999999999818,es gibt andere sagen ihr könnt das.
+526,"00:42:42,840","00:42:47,320",2562.84,2567.32,4.480000000000018,"Ich glaube man kann aus der Geschichte auch lernen,"
+527,"00:42:47,440","00:42:50,920",2567.44,2570.92,3.480000000000018,"da sind wir uns hoffentlich einig,"
+528,"00:42:51,000","00:42:54,840",2571.0,2574.84,3.8400000000001455,"ich würde mich auch freuen wenn wir sagen Habermas gilt,"
+529,"00:42:54,960","00:43:00,760",2574.96,2580.76,5.800000000000182,wir müssen toleranter werden.
+530,"00:43:08,720","00:43:11,760",2588.72,2591.76,3.0400000000004184,"Die neue Intoleranz auf der linken,"
+531,"00:43:11,840","00:43:17,000",2591.84,2597.0,5.1599999999998545,"ich will nur sagen,"
+532,"00:43:26,520","00:43:29,920",2606.52,2609.92,3.400000000000091,"BP: Ich will nur sagen, das wird sich nicht ändern,"
+533,"00:43:30,000","00:43:32,040",2610.0,2612.04,2.0399999999999636,wenn alle toleranter werden.
+534,"00:43:32,160","00:43:37,560",2612.16,2617.56,5.400000000000091,Da sind wir vielleicht einer Meinung.
+535,"00:43:37,560","00:43:55,760",2617.56,2635.76,18.200000000000273,"ML: Frau Künast, wie ist das in Ihrer Wahrnehmung passiert?"
+536,"00:43:55,760","00:44:02,360",2635.76,2642.36,6.599999999999909,"Ist Trump derjenige, der das befeuert?"
+537,"00:44:03,680","00:44:06,920",2643.68,2646.92,3.2400000000002365,"Meine These ist, dass es das schon vorher gab."
+538,"00:44:07,000","00:44:10,880",2647.0,2650.88,3.880000000000109,"Hier mein Feld gefunden,"
+539,"00:44:10,920","00:44:13,200",2650.92,2653.2,2.2799999999997453,was sie wunderbar beackern können.
+540,"00:44:13,200","00:44:15,640",2653.2,2655.64,2.4400000000000546,RK: Auf die USA bezogen?
+541,"00:44:15,640","00:44:19,680",2655.64,2659.68,4.039999999999964,"und haben nicht wirklich verstanden, was das Gefühl der Leute ist?"
+542,"00:44:19,680","00:44:23,120",2659.68,2663.12,3.4400000000000546,"RK: Ich will eins noch mal grundsätzlich sagen,"
+543,"00:44:23,200","00:44:26,680",2663.2,2666.68,3.480000000000018,dass wenn wir diskutieren diese Ebene des digitalen
+544,"00:44:26,680","00:44:29,240",2666.68,2669.24,2.5599999999999454,immer mit einbeziehen müssen.
+545,"00:44:29,320","00:44:34,840",2669.32,2674.84,5.519999999999982,"Wenn wir über Militär reden, es gibt eine Zeitenwende,"
+546,"00:44:34,960","00:44:42,240",2674.96,2682.24,7.279999999999745,gesellschaftliche Meinungsbildung ganz anders geht.
+547,"00:44:51,320","00:44:59,000",2691.32,2699.0,7.679999999999836,"Eine Schnelligkeit, man kann Fakten nicht mehr erklären."
+548,"00:45:02,680","00:45:09,360",2702.68,2709.36,6.680000000000291,RK: Es gibt auch andere Mitgliedstaaten.
+549,"00:45:11,160","00:45:14,880",2711.16,2714.88,3.7200000000002547,Es ist immer mehr Emotionalisierung und immer schneller.
+550,"00:45:14,920","00:45:20,600",2714.92,2720.6,5.679999999999836,Damit müssen alle umgehen.
+551,"00:45:21,560","00:45:26,280",2721.56,2726.28,4.720000000000255,"Es bezieht sich auch auf die Frage, wie viel Hass, wie viel Aggression?"
+552,"00:45:26,360","00:45:27,560",2726.36,2727.56,1.199999999999818,Das geht da drüber.
+553,"00:45:27,600","00:45:31,440",2727.6,2731.44,3.8400000000001455,"Der andere Punkt ist, wenn Sie das ansprechen bei den USA,"
+554,"00:45:31,480","00:45:37,480",2731.48,2737.48,6.0,"wie kommt das, wie ist das entstanden?"
+555,"00:45:37,560","00:45:41,360",2737.56,2741.36,3.800000000000182,"Sie haben gerade gesagt, gegen die elitäre Verhaltensweise"
+556,"00:45:41,400","00:45:42,440",2741.4,2742.44,1.0399999999999636,der Demokraten.
+557,"00:45:42,480","00:45:45,680",2742.48,2745.68,3.199999999999818,"Ich will das nicht grundsätzlich infrage stellen,"
+558,"00:45:45,760","00:45:47,400",2745.76,2747.4,1.6399999999998727,das gibt es da auch.
+559,"00:45:47,440","00:45:52,160",2747.44,2752.16,4.7199999999998,"Wir wissen schon, dass damals an das Wahlkampf gemacht wurde."
+560,"00:45:52,240","00:45:57,280",2752.24,2757.28,5.040000000000418,"Das kuriose ist,"
+561,"00:46:06,200","00:46:09,160",2766.2,2769.16,2.9600000000000364,dass mit Dialog und digital immer mehr gegen
+562,"00:46:09,240","00:46:13,280",2769.24,2773.28,4.040000000000418,andere politische Strömungen aufgehetzt wurde.
+563,"00:46:13,360","00:46:17,720",2773.36,2777.72,4.359999999999673,"Die reichen, nicht die einfachen Leute bekommen Steuerermäßigungen."
+564,"00:46:17,720","00:46:23,120",2777.72,2783.12,5.400000000000091,ML: Das sind die Fakten versus das Gefühl.
+565,"00:46:23,120","00:46:28,960",2783.12,2788.96,5.8400000000001455,"UP: Es geht nicht um finanzielle Teilhabe,"
+566,"00:46:29,040","00:46:31,960",2789.04,2791.96,2.9200000000000728,"die kulturelle Teilhabe ist das,"
+567,"00:46:32,080","00:46:35,840",2792.08,2795.84,3.7600000000002183,was die Blue color worker für den Republikaner tun.
+568,"00:46:35,840","00:46:38,160",2795.84,2798.16,2.319999999999709,ML: Nur ein Gedanke noch dazu.
+569,"00:46:38,240","00:46:41,920",2798.24,2801.92,3.680000000000291,"Frau Urner sagt, es geht um Emotionen, nicht Fakten."
+570,"00:46:41,920","00:46:45,880",2801.92,2805.88,3.9600000000000364,"RK: Auch kulturelle Teilhabe könnte man sich jetzt fragen,"
+571,"00:46:45,880","00:46:47,360",2805.88,2807.36,1.4800000000000182,"was ist das eigentlich,"
+572,"00:46:47,480","00:46:51,440",2807.48,2811.44,3.9600000000000364,"kann ich mir davon was kaufen oder ist es nur die Geschichte,"
+573,"00:46:51,560","00:46:53,720",2811.56,2813.72,2.1599999999998545,dass sich überhaupt gesehen werde.
+574,"00:46:53,840","00:46:57,400",2813.84,2817.4,3.5599999999999454,"Ich glaube mittlerweile gibt es so viel Manipulation,"
+575,"00:46:57,520","00:47:01,000",2817.52,2821.0,3.480000000000018,deswegen finde ich dieses gewisse Rechts Links Schema
+576,"00:47:01,120","00:47:05,800",2821.12,2825.8,4.680000000000291,nicht mehr zu treffen.
+577,"00:47:05,800","00:47:09,280",2825.8,2829.28,3.480000000000018,"RK: Gibt es eine Verschwörung, oder nicht."
+578,"00:47:09,280","00:47:14,200",2829.28,2834.2,4.919999999999618,"Natürlich, einerseits wirtschaftliche Interessen."
+579,"00:47:14,280","00:47:22,360",2834.28,2842.36,8.079999999999927,"Die, die das Netz haben, haben ein wirtschaftliches Interesse."
+580,"00:47:24,200","00:47:29,840",2844.2,2849.84,5.640000000000327,"Es gibt auch eine Meinungsbildung, eine Stimmung,"
+581,"00:47:29,880","00:47:32,440",2849.88,2852.44,2.5599999999999454,eine Emotionalisierung durch das Netz.
+582,"00:47:32,480","00:47:36,160",2852.48,2856.16,3.6799999999998363,Da verdient man mit mehr Informationen Geld.
+583,"00:47:36,240","00:47:38,760",2856.24,2858.76,2.5200000000004366,"Es gibt auch Staaten, die das tun."
+584,"00:47:38,840","00:47:44,360",2858.84,2864.36,5.519999999999982,"Russland hat behauptet, ein Mädchen sei entführt worden."
+585,"00:47:44,440","00:47:49,640",2864.44,2869.64,5.199999999999818,Am Ende hatte sie sich nur mit ihrem Freund ein paar Tage verzogen.
+586,"00:47:49,680","00:47:54,960",2869.68,2874.96,5.2800000000002,"Die Berliner Polizei sagte, das Mädchen ist wieder da."
+587,"00:47:54,960","00:47:57,880",2874.96,2877.88,2.9200000000000728,ML: Das sind Fake News.
+588,"00:47:57,880","00:47:59,480",2877.88,2879.48,1.599999999999909,Die Frage der Meinungsfreiheit ist heute Thema.
+589,"00:47:59,480","00:48:12,400",2879.48,2892.4,12.920000000000073,"RK: Herr Lands, das korrespondiert doch miteinander."
+590,"00:48:12,400","00:48:19,840",2892.4,2899.84,7.440000000000055,"Schauen Sie sich an, wie der Angriff war beim Brexit."
+591,"00:48:22,280","00:48:25,680",2902.28,2905.68,3.399999999999636,"Sie haben den Leuten erzählt, wie es ihm gehen wird,"
+592,"00:48:25,720","00:48:31,600",2905.72,2911.6,5.880000000000109,wenn man aus der EU rausgeht.
+593,"00:48:33,720","00:48:36,760",2913.72,2916.76,3.0400000000004184,"Es wird verbunden damit,"
+594,"00:48:36,800","00:48:40,680",2916.8,2920.68,3.8799999999996544,"dass man behauptet, dass man in dem Land nicht sagen dürfe,"
+595,"00:48:40,760","00:48:42,840",2920.76,2922.84,2.0799999999999272,dass das Mädchen entführt wurde.
+596,"00:48:42,880","00:48:49,480",2922.88,2929.48,6.599999999999909,Es gibt auch wirtschaftliche Interessen.
+597,"00:48:50,520","00:48:55,960",2930.52,2935.96,5.440000000000055,"Ihre Geschichten, ihr Schaubild,"
+598,"00:48:56,000","00:49:00,080",2936.0,2940.08,4.079999999999927,"wie sich das verändert hat, das sind nicht nur wir als Akteure,"
+599,"00:49:00,160","00:49:02,560",2940.16,2942.56,2.400000000000091,das sind andere Interessen dar.
+600,"00:49:02,640","00:49:06,000",2942.64,2946.0,3.3600000000001273,"Ich behaupte, dass wir politisch, gesellschaftlich,"
+601,"00:49:06,080","00:49:09,960",2946.08,2949.96,3.880000000000109,rechtlich alle miteinander nicht auf der Höhe der Zeit sind.
+602,"00:49:10,000","00:49:13,880",2950.0,2953.88,3.880000000000109,Das digitale kann auch unsere Meinungsbildung manipulieren.
+603,"00:49:13,960","00:49:19,200",2953.96,2959.2,5.239999999999782,Das ist nicht alles.
+604,"00:49:22,440","00:49:25,800",2962.44,2965.8,3.3600000000001273,"Dieses Ding hat eine Emotionalisierung eingebracht,"
+605,"00:49:25,840","00:49:27,240",2965.84,2967.24,1.3999999999996362,die wir nicht vorhersehen konnten.
+606,"00:49:27,240","00:49:31,880",2967.24,2971.88,4.640000000000327,ML: Ich würde das gerne noch einmal handfester haben.
+607,"00:49:31,960","00:49:35,400",2971.96,2975.4,3.4400000000000546,Das Meme mit der Meinungsfreiheit von Nancy Faeser.
+608,"00:49:35,400","00:49:40,760",2975.4,2980.76,5.360000000000127,Ist so etwas zulässig?
+609,"00:49:42,200","00:49:44,960",2982.2,2984.96,2.7600000000002183,Links das Original und rechts das vom deutschen Kurier.
+610,"00:49:44,960","00:49:50,560",2984.96,2990.56,5.599999999999909,ML: dafür gab es sieben Monate Bewährung.
+611,"00:49:50,560","00:49:54,000",2990.56,2994.0,3.4400000000000546,"UP: Wenn wir solche Gerichtsurteile haben,"
+612,"00:49:54,000","00:49:57,120",2994.0,2997.12,3.119999999999891,dann ist etwas verrutscht.
+613,"00:49:57,200","00:50:00,120",2997.2,3000.12,2.9200000000000728,"Ich kann unverdächtig Ricarda Lang zitieren,"
+614,"00:50:00,200","00:50:06,520",3000.2,3006.52,6.320000000000164,"die hat das auf Twitter eingeordnet,"
+615,"00:50:09,120","00:50:16,920",3009.12,3016.92,7.800000000000182,ich finde das ist eigentlich ein Wake-up Call zu sagen...
+616,"00:50:28,600","00:50:31,120",3028.6,3031.12,2.519999999999982,"RK: Überlege, einen Menschen au Halle,"
+617,"00:50:31,160","00:50:34,040",3031.16,3034.04,2.880000000000109,"der über Jahre Beleidigungen verbreitet hat,"
+618,"00:50:34,120","00:50:38,320",3034.12,3038.32,4.200000000000273,"gibt es zehn Strafanzeigen, die über das Gericht in Halle laufen."
+619,"00:50:38,360","00:50:43,160",3038.36,3043.16,4.799999999999727,"Das ist über so viele Jahre gegangen, mit allen Tricks usw."
+620,"00:50:43,240","00:50:51,480",3043.24,3051.48,8.240000000000236,"Ich nenne den Namen nicht, weil der sich mittlerweile Frau nennt."
+621,"00:50:51,600","00:50:55,680",3051.6,3055.68,4.079999999999927,Ich glaube ich bin da sieben Ich glaube ich bin da
+622,"00:50:55,760","00:51:01,440",3055.76,3061.44,5.679999999999836,7-8 Jahre mit beschäftigt gewesen.
+623,"00:51:01,520","00:51:06,280",3061.52,3066.28,4.760000000000218,"Eine der auch über mich in die Welt geführt hat,"
+624,"00:51:06,360","00:51:09,600",3066.36,3069.6,3.2399999999997817,der hat jetzt zehn Monate ohne Bewährung gekriegt.
+625,"00:51:09,680","00:51:15,880",3069.68,3075.88,6.200000000000273,Das ist der Alltag in Deutschland.
+626,"00:51:20,720","00:51:22,080",3080.72,3082.08,1.3600000000001273,"Ich würde sagen,"
+627,"00:51:22,120","00:51:24,600",3082.12,3084.6,2.480000000000018,wir müssen nicht das ganze Land wegen
+628,"00:51:24,640","00:51:27,200",3084.64,3087.2,2.5599999999999454,einer Entscheidung schlecht reden.
+629,"00:51:27,200","00:51:30,440",3087.2,3090.44,3.2400000000002365,UP: Das macht ja niemand.
+630,"00:51:30,520","00:51:35,360",3090.52,3095.36,4.8400000000001455,Ich würde gerne noch einmal zur kulturellen Teilhabe kommen
+631,"00:51:35,360","00:51:40,520",3095.36,3100.52,5.1599999999998545,und was das mit Meinungsstreit zu tun hat.
+632,"00:51:40,640","00:51:47,280",3100.64,3107.28,6.640000000000327,Im Wahlkampf gab es ein Wochenende wo Donald Trump Pommes verkauft
+633,"00:51:47,360","00:51:54,800",3107.36,3114.8,7.440000000000055,hat bei McDonald's während Kamala Harris auf dem Cover der Vogue.
+634,"00:51:54,880","00:51:57,920",3114.88,3117.92,3.0399999999999636,"Die Menschen haben das Gefühl er versteht mich,"
+635,"00:51:58,040","00:52:03,600",3118.04,3123.6,5.559999999999945,er spricht meine Sprache.
+636,"00:52:04,040","00:52:07,440",3124.04,3127.44,3.400000000000091,"Boris Palmer redet ein so geschliffenes Deutsch,"
+637,"00:52:07,520","00:52:10,280",3127.52,3130.28,2.7600000000002183,"kann man auch anders,"
+638,"00:52:10,400","00:52:14,160",3130.4,3134.16,3.7599999999997635,Donald Trump redet so wie wahrscheinlich einfache Menschen
+639,"00:52:14,280","00:52:16,840",3134.28,3136.84,2.5599999999999454,"sich vorstellen, dass man reden müsste."
+640,"00:52:16,960","00:52:22,000",3136.96,3142.0,5.039999999999964,Auch in der Politik.
+641,"00:52:22,000","00:52:25,400",3142.0,3145.4,3.400000000000091,"RK: da haben Sie recht, auch wenn das ein Trick ist."
+642,"00:52:25,400","00:52:29,080",3145.4,3149.08,3.6799999999998363,"UP: Da haben wir ein interessantes Thema,"
+643,"00:52:29,200","00:52:32,920",3149.2,3152.92,3.7200000000002547,"deswegen glaube ich, wenn man zu Recht historisch wird,"
+644,"00:52:32,920","00:52:37,720",3152.92,3157.72,4.799999999999727,die Debatten zwischen Strauß und Wehner anschaut.
+645,"00:52:37,800","00:52:44,000",3157.8,3164.0,6.199999999999818,Ich finde wir müssen in der politischen Kultur
+646,"00:52:44,120","00:52:50,080",3164.12,3170.08,5.960000000000036,mehr in der Lage sein auch im Zweifelsfall
+647,"00:52:50,200","00:52:54,080",3170.2,3174.08,3.880000000000109,"ohne ständig Vorsicht kann ich das noch sagen,"
+648,"00:52:54,160","00:52:57,600",3174.16,3177.6,3.4400000000000546,deportieren.
+649,"00:52:57,720","00:53:01,200",3177.72,3181.2,3.480000000000018,Wir als Welt um ein bisschen Werbung uns machen
+650,"00:53:01,320","00:53:04,640",3181.32,3184.64,3.319999999999709,sind da stolz auf unseren binnen Pluralismus.
+651,"00:53:04,760","00:53:07,040",3184.76,3187.04,2.2799999999997453,"Da komme ich gerne Ihnen entgegen,"
+652,"00:53:07,160","00:53:12,200",3187.16,3192.2,5.039999999999964,"denn was ist eigentlich das interessanteste,"
+653,"00:53:12,320","00:53:16,600",3192.32,3196.6,4.279999999999745,"wenn du in deinem eigenen Medium unterschiedliche Meinungen hast,"
+654,"00:53:16,720","00:53:22,520",3196.72,3202.52,5.800000000000182,"weil man dann nicht mehr sagen kann, die da draußen sind das Problem,"
+655,"00:53:22,640","00:53:31,320",3202.64,3211.32,8.680000000000291,"werden Leute, die waren ganz radikal für die im Pflicht, ich war dagegen."
+656,"00:53:32,160","00:53:39,800",3212.16,3219.8,7.640000000000327,Wir hatten jeden Tag Diskussionen über die Impfpflicht.
+657,"00:53:45,880","00:53:48,520",3225.88,3228.52,2.6399999999998727,"Ich glaube bei uns wird mehr gestritten,"
+658,"00:53:48,600","00:53:50,320",3228.6,3230.32,1.7200000000002547,"als in anderen Redaktionen,"
+659,"00:53:50,440","00:53:55,920",3230.44,3235.92,5.480000000000018,"ich glaube, dass es gut."
+660,"00:54:07,640","00:54:10,880",3247.64,3250.88,3.2400000000002365,"Da fallen, auch ab und an Worte, die scharf sind."
+661,"00:54:11,000","00:54:14,560",3251.0,3254.56,3.5599999999999454,"Ich glaube wir haben die Debattenkultur kaputt gemacht,"
+662,"00:54:14,680","00:54:22,720",3254.68,3262.72,8.039999999999964,jetzt unsere gemeinsame Mission die wieder lebendig zu machen.
+663,"00:54:23,360","00:54:31,000",3263.36,3271.0,7.639999999999873,"ML: Frau Urner, Nancy Faeser, ist das Meinungsfreiheit?"
+664,"00:54:37,760","00:54:40,280",3277.76,3280.28,2.519999999999982,"Oder ist das für Sie ein Beleg dafür,"
+665,"00:54:40,360","00:54:48,560",3280.36,3288.56,8.199999999999818,wie im Grunde ein Spiel gespielt wird mit falschen Nachrichten.
+666,"00:54:49,920","00:54:53,920",3289.92,3293.92,4.0,"Wenn die Rede davon ist, dass das die Demokratie untergräbt,"
+667,"00:54:53,960","00:54:57,640",3293.96,3297.64,3.6799999999998363,wenn AfD Mitglieder den Begriff Messer Männer benutzen.
+668,"00:54:57,720","00:55:04,840",3297.72,3304.84,7.120000000000346,"Das etwas wo sie sagen, dass man so nicht redet?"
+669,"00:55:06,320","00:55:10,280",3306.32,3310.28,3.9600000000000364,"MU: Die Frage ist, was ist das übergeordnete Ziel dahinter?"
+670,"00:55:10,400","00:55:13,760",3310.4,3313.76,3.3600000000001273,"Ich habe nicht die Befugnis darüber zu entscheiden,"
+671,"00:55:13,880","00:55:16,960",3313.88,3316.96,3.0799999999999272,dass das Strafgesetz das so macht.
+672,"00:55:17,080","00:55:20,040",3317.08,3320.04,2.9600000000000364,"Ich will mich nicht eine Antwort entziehen,"
+673,"00:55:20,160","00:55:24,520",3320.16,3324.52,4.360000000000127,"sondern darauf verweisen, was wir angefangen haben zu diskutieren."
+674,"00:55:24,640","00:55:27,240",3324.64,3327.24,2.599999999999909,"Was sind die übergeordneten Bedürfnisse,"
+675,"00:55:27,360","00:55:32,440",3327.36,3332.44,5.079999999999927,was wollen Menschen erreichen...
+676,"00:55:32,520","00:55:35,520",3332.52,3335.52,3.0,"Niemand würde ich sagen, wertlos mit Absicht,"
+677,"00:55:35,640","00:55:39,240",3335.64,3339.24,3.599999999999909,"ich möchte heute einen Stau kreieren, trotzdem ist Stau."
+678,"00:55:39,400","00:55:42,000",3339.4,3342.0,2.599999999999909,So erkläre ich mir manchmal das Internet.
+679,"00:55:42,120","00:55:45,200",3342.12,3345.2,3.0799999999999272,"Wir sind da so reingestolpert,"
+680,"00:55:45,320","00:55:48,080",3345.32,3348.08,2.7599999999997635,aber wir haben noch nicht die Kultur dafür.
+681,"00:55:48,200","00:55:54,400",3348.2,3354.4,6.200000000000273,Da müssen wir uns langsam annähern.
+682,"00:55:57,320","00:56:04,720",3357.32,3364.72,7.399999999999636,"Die Debattenkultur, dass wird hier schon schwierig,"
+683,"00:56:09,080","00:56:15,040",3369.08,3375.04,5.960000000000036,"früher haben sich die Menschenköpfe abgehakt,"
+684,"00:56:15,160","00:56:19,720",3375.16,3379.72,4.559999999999945,"der Stärkere gewinnt, das sehen wir jetzt gerade,"
+685,"00:56:19,840","00:56:21,320",3379.84,3381.32,1.4800000000000182,"vor allem in den USA,"
+686,"00:56:21,480","00:56:27,080",3381.48,3387.08,5.599999999999909,dass das sich dort abspielt.
+687,"00:56:27,200","00:56:35,720",3387.2,3395.72,8.519999999999982,"Das ist nicht trivial, sondern das ist eine Gefahr für die Demokratie."
+688,"00:56:39,080","00:56:42,240",3399.08,3402.24,3.1599999999998545,UP: Wo wird die Demokratie abgeschafft?
+689,"00:56:42,360","00:56:45,280",3402.36,3405.28,2.9200000000000728,MU: Sehen Sie das anders? In den USA.
+690,"00:56:45,280","00:56:47,280",3405.28,3407.28,2.0,ML: Sehen Sie das anders?
+691,"00:56:47,360","00:56:55,840",3407.36,3415.84,8.480000000000018,Vielleicht wird sie nicht direkt abgeschafft?
+692,"00:56:55,840","00:57:02,120",3415.84,3422.12,6.279999999999745,UP: Da passieren schwierige Dinge.
+693,"00:57:04,600","00:57:07,280",3424.6,3427.28,2.680000000000291,"Das ist das Land der Freien,"
+694,"00:57:07,400","00:57:10,440",3427.4,3430.44,3.0399999999999636,"für mich immer noch die großartigste Demokratie,"
+695,"00:57:10,600","00:57:13,840",3430.6,3433.84,3.2400000000002365,die hat viel ausgehalten und die wird auch jemanden
+696,"00:57:13,960","00:57:18,080",3433.96,3438.08,4.119999999999891,"mit Donald Trump aushalten. Ich verteidige die nicht kritiklos,"
+697,"00:57:18,200","00:57:20,960",3438.2,3440.96,2.7600000000002183,"ich tue mich gerade mit unserer Geschichte,"
+698,"00:57:21,080","00:57:28,120",3441.08,3448.12,7.039999999999964,"in Amerika bitte dem Party abgeschafft, Schwer."
+699,"00:57:29,040","00:57:34,920",3449.04,3454.92,5.880000000000109,Vance hatte ein paar Punkte.
+700,"00:57:39,160","00:57:43,960",3459.16,3463.96,4.800000000000182,"BP: Statt in der Sache zu argumentieren zu sagen,"
+701,"00:57:44,080","00:57:49,040",3464.08,3469.04,4.960000000000036,hinter den deutschen Hintergrund kann ich das nicht.
+702,"00:57:49,160","00:57:50,840",3469.16,3470.84,1.680000000000291,Das finde ich schwierig.
+703,"00:57:50,960","00:57:54,240",3470.96,3474.24,3.2799999999997453,"UP: Ich würde sagen historisch ist dieses Argument,"
+704,"00:57:54,360","00:57:57,160",3474.36,3477.16,2.799999999999727,"wir über die Amerikaner und die Demokratie,"
+705,"00:57:57,280","00:58:03,240",3477.28,3483.24,5.959999999999582,da habe ich eine gewisse Demut.
+706,"00:58:07,880","00:58:11,160",3487.88,3491.16,3.2799999999997453,"RK: Dafür, dass wir für unsere Demokratie kämpfen,"
+707,"00:58:11,240","00:58:14,000",3491.24,3494.0,2.7600000000002183,"gehört auch,"
+708,"00:58:14,080","00:58:17,920",3494.08,3497.92,3.8400000000001455,dass wir bei aller transatlantischen Freundschaft
+709,"00:58:17,960","00:58:24,240",3497.96,3504.24,6.279999999999745,"zwischen Durchsagen, dass es keine."
+710,"00:58:28,080","00:58:32,160",3508.08,3512.16,4.079999999999927,Die Münchener Sicherheitskonferenz zu einer Wahlveranstaltung
+711,"00:58:32,200","00:58:35,760",3512.2,3515.76,3.5600000000004,zu degradieren war falsch.
+712,"00:58:35,840","00:58:38,680",3515.84,3518.68,2.8399999999996908,"Wenn Sie unter Juristen und Juristen fragen,"
+713,"00:58:38,760","00:58:43,000",3518.76,3523.0,4.239999999999782,ist das deutsche Gericht das Vorbild für ein unabhängiges Gericht.
+714,"00:58:43,080","00:58:47,400",3523.08,3527.4,4.320000000000164,Früher waren es das Gericht in den USA.
+715,"00:58:47,520","00:58:51,800",3527.52,3531.8,4.2800000000002,"Weltweit ist bei der Frage, wie wir Meinungsfreiheit definieren..."
+716,"00:58:51,880","00:58:54,160",3531.88,3534.16,2.2799999999997453,Die hat Grenzen.
+717,"00:58:54,160","00:58:59,560",3534.16,3539.56,5.400000000000091,ML: Da haben wir gerade ausführlich darüber gesprochen.
+718,"00:58:59,560","00:59:02,360",3539.56,3542.36,2.800000000000182,UP: Keiner...
+719,"00:59:02,480","00:59:05,800",3542.48,3545.8,3.3200000000001637,"ich würde sagen die Deutschen,"
+720,"00:59:05,880","00:59:09,960",3545.88,3549.96,4.079999999999927,"die sich selber als weltweit führende sehen,"
+721,"00:59:10,080","00:59:11,680",3550.08,3551.68,1.599999999999909,das fällt schon auf.
+722,"00:59:11,680","00:59:14,400",3551.68,3554.4,2.7200000000002547,RK: Das mit dem Bundesverfassungsgericht
+723,"00:59:14,480","00:59:25,600",3554.48,3565.6,11.11999999999989,haben nicht viel gesagt.
+724,"00:59:25,600","00:59:29,480",3565.6,3569.48,3.880000000000109,"MU: Ich möchte mich eigentlich dafür entschuldigen müssen,"
+725,"00:59:29,600","00:59:33,000",3569.6,3573.0,3.400000000000091,"es ist faktisch falsch, wenn sie hingehen und sagen,"
+726,"00:59:33,120","00:59:34,920",3573.12,3574.92,1.800000000000182,ich sehe diese Gefahr nicht.
+727,"00:59:35,040","00:59:38,400",3575.04,3578.4,3.3600000000001273,Dann tun Sie mir ein Stück weit leid.
+728,"00:59:38,520","00:59:41,800",3578.52,3581.8,3.2800000000002,Was da gerade passiert ist das zum Beispiel Wörter
+729,"00:59:41,920","00:59:44,640",3581.92,3584.64,2.7199999999998,"gestrichen werden aus Regierungsdokumenten,"
+730,"00:59:44,800","00:59:47,520",3584.8,3587.52,2.7199999999998,Wörter wie Klimakrise.
+731,"00:59:47,640","00:59:53,720",3587.64,3593.72,6.079999999999927,Das ist nicht linksgrüner Sprech.
+732,"00:59:54,120","01:00:01,880",3594.12,3601.88,7.760000000000218,"Wir können so objektiv auf die Fakten schauen und sehen,"
+733,"01:00:02,720","01:00:08,480",3602.72,3608.48,5.760000000000218,dass sechs von neun Grenzen überschritten sind.
+734,"01:00:08,600","01:00:14,160",3608.6,3614.16,5.559999999999945,"Die Wetterextreme jetzt schon durch den Klimawandel,"
+735,"01:00:14,280","01:00:17,960",3614.28,3617.96,3.6799999999998363,"kosten uns als Weltwirtschaft 16,3 Millionen Dollar."
+736,"01:00:18,080","01:00:23,120",3618.08,3623.12,5.039999999999964,Tendenz steigend.
+737,"01:00:24,880","01:00:28,720",3624.88,3628.72,3.8399999999996908,UP: Das geht ja. MU: Das können Sie sagen.
+738,"01:00:28,720","01:00:31,120",3628.72,3631.12,2.400000000000091,ML: Das ist heute nicht unser Thema.
+739,"01:00:31,160","01:00:34,480",3631.16,3634.48,3.3200000000001637,"Wir reden über andere Dinge, die Verfassungskrise."
+740,"01:00:34,480","01:00:40,440",3634.48,3640.44,5.960000000000036,"MU: Der Punkt ist, dass Wörter gestrichen werden."
+741,"01:00:40,440","01:00:44,280",3640.44,3644.28,3.8400000000001455,"ML: Dass der Vizepräsident der vereinigten Staaten sagt,"
+742,"01:00:44,280","01:00:50,680",3644.28,3650.68,6.399999999999636,dass die Professoren die Feinde sind.
+743,"01:01:00,400","01:01:03,200",3660.4,3663.2,2.799999999999727,"Dass Urteile gesprochen werden,"
+744,"01:01:03,280","01:01:07,360",3663.28,3667.36,4.079999999999927,da geht es um einen Angriff auf die Unabhängigkeit der Justiz.
+745,"01:01:07,400","01:01:12,800",3667.4,3672.8,5.400000000000091,"Das Urteile gesprochen werden, aber nicht umgesetzt werden."
+746,"01:01:12,840","01:01:15,320",3672.84,3675.32,2.480000000000018,"Das ist ein Schritt in eine Richtung,"
+747,"01:01:15,400","01:01:18,520",3675.4,3678.52,3.119999999999891,"von der ich sagen würde, dass die schwierig ist."
+748,"01:01:18,600","01:01:21,800",3678.6,3681.8,3.200000000000273,Sehen Sie das anders?
+749,"01:01:21,800","01:01:24,360",3681.8,3684.36,2.5599999999999454,"UP: Wie gesagt, ich sitze nicht hier"
+750,"01:01:24,360","01:01:26,800",3684.36,3686.8,2.4400000000000546,"als der Sprecher aus dem Oval Office,"
+751,"01:01:26,920","01:01:30,000",3686.92,3690.0,3.0799999999999272,ich finde wir sollten unsere Themen besprechen.
+752,"01:01:30,120","01:01:34,320",3690.12,3694.32,4.200000000000273,Ich sieh es ein bisschen differenzierter.
+753,"01:01:34,440","01:01:39,200",3694.44,3699.2,4.7599999999997635,Ich halte Teile von der Rede von Vance für gut.
+754,"01:01:39,320","01:01:43,040",3699.32,3703.04,3.7199999999998,"Für was schicken wir Soldaten,"
+755,"01:01:43,160","01:01:44,360",3703.16,3704.36,1.2000000000002728,"Beginn davon aus,"
+756,"01:01:44,480","01:01:48,920",3704.48,3708.92,4.440000000000055,haben wir noch den selben Wertekanon?
+757,"01:01:49,040","01:01:55,120",3709.04,3715.12,6.079999999999927,Was zahlen wir an NATO Beiträgen.
+758,"01:01:57,160","01:02:01,640",3717.16,3721.64,4.480000000000018,ML: Davon hat er ja nicht geredet. Er hat ein anderes Fass aufgemacht.
+759,"01:02:01,640","01:02:04,520",3721.64,3724.52,2.880000000000109,UP: Er hat einen Punkt gemacht.
+760,"01:02:04,640","01:02:07,800",3724.64,3727.8,3.1600000000003092,Er hat Tage vorher in Paris beim KI Gipfel
+761,"01:02:07,800","01:02:10,600",3727.8,3730.6,2.799999999999727,"über Freiheit geredet, hat deutlich gemacht,"
+762,"01:02:10,720","01:02:12,800",3730.72,3732.8,2.080000000000382,"für ihn keine Regulierungen,"
+763,"01:02:12,880","01:02:18,240",3732.88,3738.24,5.359999999999673,radikal frei forschen.
+764,"01:02:19,920","01:02:24,040",3739.92,3744.04,4.119999999999891,Diesen Freiheitszusammenhang zwischen der Pariser Rede über KI
+765,"01:02:24,160","01:02:28,440",3744.16,3748.44,4.2800000000002,"und die reden Menschen,"
+766,"01:02:29,880","01:02:33,600",3749.88,3753.6,3.7199999999998,"dann finde ich bizarr, dass es kein rechter Sender war,"
+767,"01:02:33,720","01:02:38,600",3753.72,3758.6,4.880000000000109,sondern CBS.
+768,"01:02:39,800","01:02:42,120",3759.8,3762.12,2.319999999999709,"Wir brauchen Meinungsfreiheit,"
+769,"01:02:42,240","01:02:44,720",3762.24,3764.72,2.480000000000018,"und wenn es nur ein Gefühl ist,"
+770,"01:02:44,840","01:02:49,200",3764.84,3769.2,4.359999999999673,"wenn wir das Gefühl haben, die Leute gar nicht sagen was sie denken,"
+771,"01:02:49,320","01:02:53,040",3769.32,3773.04,3.7199999999998,dann werden wir...
+772,"01:02:53,040","01:03:01,600",3773.04,3781.6,8.559999999999945,"ML: Frau Künast sagt gerade, Meinungsfreiheit gibt es doch."
+773,"01:03:01,600","01:03:04,520",3781.6,3784.52,2.9200000000000728,"Wir können keiner fragen, Meinungsfreiheit,"
+774,"01:03:04,560","01:03:07,600",3784.56,3787.6,3.0399999999999636,"so wie wir sie verstehen, gibt es die noch?"
+775,"01:03:07,600","01:03:08,960",3787.6,3788.96,1.3600000000001273,BP: Die gibt es.
+776,"01:03:09,040","01:03:12,400",3789.04,3792.4,3.3600000000001273,"Da haben wir einen großen Unterschied zu den USA,"
+777,"01:03:12,400","01:03:16,200",3792.4,3796.2,3.799999999999727,wo die Meinungsfreiheit von der Exekutive unterdrückt wird.
+778,"01:03:16,320","01:03:20,080",3796.32,3800.08,3.7599999999997635,"Das haben wir in Deutschland nicht. Es gibt keinen Staat,"
+779,"01:03:20,200","01:03:22,960",3800.2,3802.96,2.7600000000002183,der hier die Meinungsfreiheit einschränkt.
+780,"01:03:23,040","01:03:25,720",3803.04,3805.72,2.6799999999998363,Der Mechanismus ist ein anderer.
+781,"01:03:25,840","01:03:28,880",3805.84,3808.88,3.0399999999999636,"Es gibt Meinungsfreiheit im rechtlichen Sinne,"
+782,"01:03:29,000","01:03:31,400",3809.0,3811.4,2.400000000000091,"das ist in Deutschland gewährleistet,"
+783,"01:03:31,520","01:03:36,600",3811.52,3816.6,5.079999999999927,"es gibt diesen, wenn etwas sagst,"
+784,"01:03:36,680","01:03:43,760",3816.68,3823.76,7.080000000000382,dann musst du mit den Konsequenzen leben-Spruch.
+785,"01:03:54,480","01:03:58,920",3834.48,3838.92,4.440000000000055,"Wenn man den Leuten im öffentlichen Diskurs immer wieder zeigt,"
+786,"01:03:59,040","01:04:04,440",3839.04,3844.44,5.400000000000091,"wenn man den Kopf raus,"
+787,"01:04:04,600","01:04:07,000",3844.6,3847.0,2.400000000000091,dann ist keine Amputation gefordert.
+788,"01:04:07,080","01:04:11,240",3847.08,3851.24,4.1599999999998545,"Wie kann es sein,"
+789,"01:04:11,400","01:04:15,040",3851.4,3855.04,3.6399999999998727,dass wenn man etwas falsches gesungen hat in Deutschland
+790,"01:04:15,200","01:04:19,760",3855.2,3859.76,4.5600000000004,allezeit niedergemacht wird.
+791,"01:04:19,760","01:04:22,480",3859.76,3862.48,2.7199999999998,"ML: Das ist interessant, juristisch ist"
+792,"01:04:22,480","01:04:24,920",3862.48,3864.92,2.4400000000000546,das von der Meinungsfreiheit gedeckt.
+793,"01:04:24,960","01:04:27,520",3864.96,3867.52,2.5599999999999454,Auf Sylt zu singen Ausländer raus.
+794,"01:04:27,520","01:04:29,920",3867.52,3869.92,2.400000000000091,BP: Die sozialen Folgen sind massiv.
+795,"01:04:30,040","01:04:30,760",3870.04,3870.76,0.7200000000002547,Der Zugriff auf die Leute erfolgt über die Immunisierung
+796,"01:04:36,560","01:04:40,280",3876.56,3880.28,3.7200000000002547,Der Zugriff auf die Leute erfolgt über die Dämonisierung
+797,"01:04:40,400","01:04:43,720",3880.4,3883.72,3.319999999999709,und Diffamierung.
+798,"01:04:43,880","01:04:47,920",3883.88,3887.92,4.039999999999964,Das passiert jeden Tag überall in ganz Deutschland.
+799,"01:04:48,040","01:04:52,440",3888.04,3892.44,4.400000000000091,"Die Leute sehen das, sie ziehen sich zurück das ist der Mechanismus,"
+800,"01:04:52,560","01:04:54,920",3892.56,3894.92,2.3600000000001273,den wir von links untersuchen müssen.
+801,"01:04:55,040","01:04:57,120",3895.04,3897.12,2.0799999999999272,"Sie zu beleidigen, herabwürdigen,"
+802,"01:04:57,240","01:05:01,640",3897.24,3901.64,4.400000000000091,"alles besser zu wissen,"
+803,"01:05:01,760","01:05:09,000",3901.76,3909.0,7.239999999999782,"zu sagen, wenn er uns sich folgt, seit er draußen."
+804,"01:05:11,280","01:05:14,880",3911.28,3914.88,3.599999999999909,Das wird irgendwann nicht mehr gut gehen.
+805,"01:05:15,000","01:05:20,320",3915.0,3920.32,5.320000000000164,"Da bin ich emotional,"
+806,"01:05:25,320","01:05:29,400",3925.32,3929.4,4.079999999999927,bewundern sie irgendwann wann der erste AfD Ministerpräsident
+807,"01:05:29,520","01:05:35,600",3929.52,3935.6,6.079999999999927,gegen die Meinungsstreit vorgeht.
+808,"01:05:43,960","01:05:45,920",3943.96,3945.92,1.9600000000000364,ML: hat er dahin.?
+809,"01:05:45,920","01:05:50,240",3945.92,3950.24,4.319999999999709,"MU: Es ist ganz grundlegend zu verstehen, dass jeder das Recht,"
+810,"01:05:50,240","01:05:51,600",3950.24,3951.6,1.3600000000001273,"das betone ich gerne,"
+811,"01:05:51,720","01:05:55,080",3951.72,3955.08,3.3600000000001273,"jeder Mensch hat das Recht auf eine eigene Meinung,"
+812,"01:05:55,200","01:06:00,880",3955.2,3960.88,5.680000000000291,aber nicht das Recht auf eigene Fakten.
+813,"01:06:01,000","01:06:04,360",3961.0,3964.36,3.3600000000001273,"Wenn wir davon ausgehen, dass das das Ziel ist."
+814,"01:06:04,520","01:06:12,160",3964.52,3972.16,7.639999999999873,Manche bringen vielleicht unterschiedliche Fakten hervor.
+815,"01:06:17,240","01:06:21,240",3977.24,3981.24,4.0,"Manche lieber Anekdoten, manche lieber Studien."
+816,"01:06:21,360","01:06:25,560",3981.36,3985.56,4.199999999999818,Wenn meine Absicht nicht ist möglichst gut zu einer Entscheidung
+817,"01:06:25,680","01:06:29,680",3985.68,3989.68,4.0,"zu kommen, dann kann es nur schief gehen,"
+818,"01:06:29,800","01:06:33,920",3989.8,3993.92,4.119999999999891,weil da bin ich dann emotional.
+819,"01:06:34,040","01:06:37,200",3994.04,3997.2,3.1599999999998545,"Ich möchte nicht den Eindruck erwecken,"
+820,"01:06:37,360","01:06:39,840",3997.36,3999.84,2.480000000000018,dass das hier eine Seminarstunde wird.
+821,"01:06:39,960","01:06:43,520",3999.96,4003.52,3.5599999999999454,"Das zeigt, dass wir immer diese emotionalen Wesen sind,"
+822,"01:06:43,640","01:06:46,160",4003.64,4006.16,2.519999999999982,denn es ans Eingemachte geht.
+823,"01:06:46,320","01:06:51,920",4006.32,4011.92,5.599999999999909,Wenn es um die Werte geht.
+824,"01:06:56,480","01:06:58,680",4016.48,4018.68,2.199999999999818,"Wenn es um die Bedürfnisse geht,"
+825,"01:06:58,800","01:07:00,560",4018.8,4020.56,1.7599999999997635,die jeder einzelne hat.
+826,"01:07:00,720","01:07:03,600",4020.72,4023.6,2.880000000000109,Das Gefühl nicht mehr gehört zu werden.
+827,"01:07:03,720","01:07:08,320",4023.72,4028.32,4.600000000000364,"Zum Beispiel zu sagen,"
+828,"01:07:08,440","01:07:13,000",4028.44,4033.0,4.559999999999945,was sind meine unterschiedlichen Bedürfnisse zu Ihren
+829,"01:07:13,120","01:07:16,920",4033.12,4036.92,3.800000000000182,und dann ehrlich einen Diskurs zu führen.
+830,"01:07:17,080","01:07:25,400",4037.08,4045.4,8.320000000000164,"Nicht mit den Zielen reinzugehen, ich möchte am Ende lauter werden."
+831,"01:07:26,920","01:07:29,920",4046.92,4049.92,3.0,"ML: Frau Urner, das ist total interessant,"
+832,"01:07:30,000","01:07:32,680",4050.0,4052.68,2.6799999999998363,es wurde gerade persönlich.
+833,"01:07:32,760","01:07:36,840",4052.76,4056.84,4.079999999999927,Ist das ein Thema?
+834,"01:07:36,920","01:07:38,800",4056.92,4058.8,1.8800000000001091,Sie wurden gerade persönlich.
+835,"01:07:38,880","01:07:42,240",4058.88,4062.24,3.3599999999996726,Sie wissen aber nicht warum.
+836,"01:07:42,240","01:07:51,960",4062.24,4071.96,9.720000000000255,MU: Doch.
+837,"01:07:51,960","01:07:55,880",4071.96,4075.88,3.9200000000000728,"ML: Warum macht man das, warum sind wir nicht in der Lage,"
+838,"01:07:55,960","01:07:57,640",4075.96,4077.64,1.6799999999998363,vernünftig zu diskutieren?
+839,"01:07:57,680","01:08:03,760",4077.68,4083.76,6.080000000000382,Warum muss es persönlich werden?
+840,"01:08:05,680","01:08:08,240",4085.68,4088.24,2.5599999999999454,"Es ist etwas von dem sie sagen würden,"
+841,"01:08:08,320","01:08:14,320",4088.32,4094.32,6.0,dass die Debatte das aushalten muss?
+842,"01:08:14,400","01:08:17,560",4094.4,4097.56,3.1600000000003092,"Oder ist etwas, was sie nicht mehr sagen würden,"
+843,"01:08:17,640","01:08:25,240",4097.64,4105.24,7.599999999999454,weil es ganz persönlich hast? Wollen wir kurz reinhören?
+844,"01:08:26,200","01:08:29,440",4106.2,4109.44,3.2399999999997817,- Hinter dieser heiteren Legoland Fassade
+845,"01:08:29,560","01:08:31,200",4109.56,4111.2,1.639999999999418,verbirgt sich am Ende
+846,"01:08:31,360","01:08:36,800",4111.36,4116.8,5.440000000000509,eine Station Enteignung.
+847,"01:08:38,320","01:08:41,760",4118.32,4121.76,3.4400000000005093,Dieses passiv aggressive verpackt in ein aufgeregte
+848,"01:08:41,920","01:08:44,360",4121.92,4124.36,2.4399999999996,"17-jährigen Kostüm, die Tattoos können"
+849,"01:08:44,520","01:08:46,160",4124.52,4126.16,1.639999999999418,so wirken als wäre es jung.
+850,"01:08:46,280","01:08:49,760",4126.28,4129.76,3.480000000000473,Eine junggewordene Mutter.
+851,"01:08:49,880","01:08:56,240",4129.88,4136.24,6.359999999999673,UP: Ich möchte mich dafür entschuldigen.
+852,"01:08:56,240","01:08:59,680",4136.24,4139.68,3.4400000000005093,ML: So wie sie das sagen meinen sie das gar nicht?
+853,"01:08:59,680","01:09:12,160",4139.68,4152.16,12.479999999999563,UP: Doch.
+854,"01:09:12,160","01:09:14,640",4152.16,4154.64,2.480000000000473,ML: Man könnte es missverstehen.
+855,"01:09:14,640","01:09:20,600",4154.64,4160.6,5.960000000000036,UP: In dieser Auseinandersetzung über die von Reichinnek
+856,"01:09:20,600","01:09:24,040",4160.6,4164.04,3.4399999999996,und dem Parteitag der Linken ist vier Minuten von mir
+857,"01:09:24,200","01:09:27,400",4164.2,4167.4,3.199999999999818,"im Fernsehen gelaufen, das ist schon eher scharf."
+858,"01:09:27,520","01:09:33,600",4167.52,4173.6,6.079999999999927,Ich fand es relativ unterhaltsam.
+859,"01:09:36,160","01:09:38,560",4176.16,4178.56,2.4000000000005457,"ML: Ja, das kann man amüsant finden."
+860,"01:09:38,640","01:09:42,160",4178.64,4182.16,3.519999999999527,"Es ist aber eine persönliche Ebene, darum ging es mir."
+861,"01:09:42,240","01:09:45,280",4182.24,4185.28,3.0399999999999636,"Das haben sie beide gerade gemacht. Es ist das,"
+862,"01:09:45,360","01:09:48,120",4185.36,4188.12,2.7600000000002183,was die Härte rein bringt?
+863,"01:09:48,120","01:09:57,720",4188.12,4197.72,9.600000000000364,"UP: Das ist jetzt ein Ausschnitt,"
+864,"01:09:57,720","01:09:57,920",4197.72,4197.92,0.1999999999998181,das stimmt schon was ich gesagt habe.
+865,"01:09:57,920","01:10:03,280",4197.92,4203.28,5.359999999999673,ML: Endstation Gulacs
+866,"01:10:09,000","01:10:12,120",4209.0,4212.12,3.119999999999891,UP: Wir werden diese Art von Sozialismus nicht
+867,"01:10:12,280","01:10:18,000",4212.28,4218.0,5.720000000000255,ohne Repression hinbekommen.
+868,"01:10:20,000","01:10:20,040",4220.0,4220.04,0.03999999999996362,UP: Das ist sicherlich eine Polemik.
+869,"01:10:20,040","01:10:22,400",4220.04,4222.4,2.3599999999996726,"ML: halb schlau,"
+870,"01:10:22,480","01:10:28,800",4222.48,4228.8,6.3200000000006185,wir können auch einen Ausschnitt aus dieser Sendung nehmen.
+871,"01:10:28,800","01:10:32,520",4228.8,4232.52,3.7200000000002547,Halbschlaue Ableitungen ist auch so etwas.
+872,"01:10:32,520","01:10:36,560",4232.52,4236.56,4.039999999999964,UP: Das geht auch anders. Das ist ein Strauß von Angeboten.
+873,"01:10:36,560","01:10:40,760",4236.56,4240.76,4.199999999999818,"Was haben Leute genauso gefeiert, es gibt Leute die das ablehnen,"
+874,"01:10:40,880","01:10:43,640",4240.88,4243.64,2.7600000000002183,"als Medium hat man eben auch diese Tonlage,"
+875,"01:10:43,760","01:10:49,560",4243.76,4249.56,5.800000000000182,wenn es sich darin erschöpft.
+876,"01:10:55,320","01:11:02,040",4255.32,4262.04,6.720000000000255,"ML: Ich wollte abschließend darauf hinaus,"
+877,"01:11:02,120","01:11:08,720",4262.12,4268.72,6.600000000000364,Heidi Reichinnek sitzt hier und redet über das neue Kabinett.
+878,"01:11:08,800","01:11:11,600",4268.8,4271.6,2.800000000000182,"Sie bestätigt ihre Co-Vorsitzende und sagt,"
+879,"01:11:11,680","01:11:15,560",4271.68,4275.56,3.880000000000109,sie teilt richtig hart aus.
+880,"01:11:15,680","01:11:18,800",4275.68,4278.8,3.119999999999891,Frau Urner teilt auch nach links und rechts aus.
+881,"01:11:18,800","01:11:26,760",4278.8,4286.76,7.960000000000036,RK: Ich wirke gerade richtig sanftmütig.
+882,"01:11:26,760","01:11:34,840",4286.76,4294.84,8.079999999999927,"ML: Die Frage ist, sind wir einfach zu mimosenhafte geworden?"
+883,"01:11:36,440","01:11:40,280",4296.44,4300.28,3.8400000000001455,"Oder empören wir uns zu Recht, und sagen,"
+884,"01:11:40,520","01:11:43,040",4300.52,4303.04,2.519999999999527,dass es über Meinungsfreiheit hinausgeht.
+885,"01:11:43,120","01:11:48,960",4303.12,4308.96,5.8400000000001455,Der alte katholische Gedanke.
+886,"01:11:51,360","01:11:54,480",4311.36,4314.48,3.119999999999891,"RK: Weil wir über Strafrecht gesprochen haben,"
+887,"01:11:54,640","01:12:01,360",4314.64,4321.36,6.719999999999345,Das ist nicht strafbar was da gesagt wurde.
+888,"01:12:04,760","01:12:07,080",4324.76,4327.08,2.319999999999709,RK: Mich ödet diese sprach Wahl an.
+889,"01:12:07,160","01:12:11,000",4327.16,4331.0,3.8400000000001455,"Bei mir zu Hause wird weggeschalte, weil mir das zu blöd wird."
+890,"01:12:11,000","01:12:17,400",4331.0,4337.4,6.399999999999636,ML: Ist das zulässig im Sinne der Meinungsfreiheit?
+891,"01:12:17,400","01:12:21,200",4337.4,4341.2,3.800000000000182,"RK: Ich würde bei beiden sagen, dass sie mich langweilen."
+892,"01:12:21,200","01:12:25,320",4341.2,4345.32,4.119999999999891,Eigentlich ist es auch ein bisschen armselig.
+893,"01:12:25,400","01:12:33,680",4345.4,4353.68,8.280000000000655,"Sie haben gerade gesagt, dass man dieses Feld auch bedienen muss."
+894,"01:12:34,320","01:12:38,560",4354.32,4358.56,4.240000000000691,"RK: Sie müssen nicht alles bedienen, dass sie ihre Entscheidung,"
+895,"01:12:38,680","01:12:43,640",4358.68,4363.64,4.960000000000036,wo sie anfangen.
+896,"01:12:48,560","01:12:50,880",4368.56,4370.88,2.319999999999709,"RK: Es ist alles ein bisschen hart,"
+897,"01:12:50,960","01:12:54,600",4370.96,4374.6,3.6400000000003274,"ich habe mich immer versucht in der Sache hart zu sein,"
+898,"01:12:54,680","01:12:58,560",4374.68,4378.56,3.880000000000109,aber Menschen nicht nieder zu machen. Es ist eine wichtige
+899,"01:12:58,640","01:13:03,560",4378.64,4383.56,4.920000000000073,Aufgabe.
+900,"01:13:03,760","01:13:07,960",4383.76,4387.96,4.199999999999818,ML: Wir sind schon am Ende der Zeit. Boris Palmer abschließen.
+901,"01:13:08,080","01:13:12,080",4388.08,4392.08,4.0,Meinungsfreiheit oder sollten wir eine andere Sprache wählen?
+902,"01:13:12,200","01:13:16,080",4392.2,4396.08,3.880000000000109,BP: Wenn man den Gürtel hier oben trägt ist alles unter der
+903,"01:13:16,200","01:13:18,960",4396.2,4398.96,2.7600000000002183,Gürtellinie.
+904,"01:13:19,120","01:13:22,040",4399.12,4402.04,2.9200000000000728,Für mich kommt es darauf an ob man damit sich
+905,"01:13:22,160","01:13:25,760",4402.16,4405.76,3.600000000000364,hart auseinandersetzt oder ob es darum geht den anderen
+906,"01:13:25,920","01:13:29,920",4405.92,4409.92,4.0,zu diffamieren.
+907,"01:13:29,920","01:13:39,320",4409.92,4419.32,9.399999999999636,"ML: Frau Urner, letzter Satz."
+908,"01:13:39,320","01:13:43,040",4419.32,4423.04,3.7200000000002547,MU: Renate Künast das ist eine eigentlich eine Ausnahme.
+909,"01:13:43,200","01:13:46,240",4423.2,4426.24,3.0399999999999636,Die meisten Menschen finden es nicht langweilig.
+910,"01:13:46,360","01:13:48,480",4426.36,4428.48,2.119999999999891,"So ist das zu verstehen,"
+911,"01:13:48,600","01:13:53,920",4428.6,4433.92,5.319999999999709,"mit Blick in die Geschichte,"
+912,"01:13:54,040","01:13:56,640",4434.04,4436.64,2.600000000000364,dass immer dann wenn Menschen aufgehetzt
+913,"01:13:56,760","01:13:59,080",4436.76,4439.08,2.319999999999709,"aufeinander zu rennen,"
+914,"01:13:59,200","01:14:06,360",4439.2,4446.36,7.1599999999998545,dass wir dann keine guten Entscheidungen treffen.
+915,"01:14:09,240","01:14:12,040",4449.24,4452.04,2.800000000000182,Nicht in der Lage sind Debatten zu führen
+916,"01:14:12,160","01:14:17,520",4452.16,4457.52,5.360000000000582,um einander zuzuhören.
+917,"01:14:19,280","01:14:21,880",4459.28,4461.88,2.600000000000364,"ML: Also, danke."
+918,"01:14:21,960","01:14:25,320",4461.96,4465.32,3.3599999999996726,"Wir haben eine immer noch sehr lebendige Demokratie,"
+919,"01:14:25,400","01:14:26,800",4465.4,4466.8,1.4000000000005457,wie sich gezeigt hat.
+920,"01:14:26,880","01:14:32,480",4466.88,4472.48,5.599999999999454,"Des weiteren haben wir Gewaltenteilung,"
+921,"01:14:32,560","01:14:35,960",4472.56,4475.96,3.399999999999636,auf die wir stolz sein können.
+922,"01:14:36,040","01:14:39,560",4476.04,4479.56,3.5200000000004366,Über Meinungsfreiheit entscheiden immer noch Gerichte.
+923,"01:14:39,640","01:14:43,160",4479.64,4483.16,3.519999999999527,"Das ist der Unterschied zu den USA. Danke Ihnen allen,"
+924,"01:14:43,240","01:14:45,720",4483.24,4485.72,2.480000000000473,wir sind morgen wieder da.

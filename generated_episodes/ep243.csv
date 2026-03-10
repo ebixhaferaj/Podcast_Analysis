@@ -1,0 +1,982 @@
+﻿segment_id,start_time,end_time,start_seconds,end_seconds,duration,text
+1,"00:00:00,040","00:00:01,520",0.04,1.52,1.48,Diese Untertitel sind live produziert.
+2,"00:00:01,560","00:00:04,440",1.56,4.44,2.8800000000000003,"Einen schönen guten Abend, freut mich, dass Sie dabei sind."
+3,"00:00:04,480","00:00:06,480",4.48,6.48,2.0,Herzlich willkommen zu unserer Sendung.
+4,"00:00:06,560","00:00:10,840",6.56,10.84,4.28,"Es sind dramatische Bilder wie diese aus Kerr County,"
+5,"00:00:10,920","00:00:15,400",10.92,15.4,4.48,"nahe San Antonio in Texas, wo der Pegel des Guadalupe River"
+6,"00:00:15,440","00:00:19,880",15.44,19.88,4.4399999999999995,"innerhalb drei Stunden, so heißt es, um fast neun Meter stieg"
+7,"00:00:19,960","00:00:25,840",19.96,25.84,5.879999999999999,und nach derzeitigem Kenntnisstand mehr als 100 Menschen in den Tod riss
+8,"00:00:25,920","00:00:30,960",25.92,30.96,5.039999999999999,"Bilder, die eine neue Debatte über den Klimawandel ausgelöst haben."
+9,"00:00:31,000","00:00:35,600",31.0,35.6,4.600000000000001,"Es sind Aussagen wie diese, die sie weiter befeuern."
+10,"00:00:35,960","00:00:40,200",35.96,40.2,4.240000000000002,"FM: Diese Bundesregierung steht zu den Zielen des Klimaschutzes,"
+11,"00:00:40,240","00:00:44,280",40.24,44.28,4.039999999999999,"die wir national, europäisch, international vereinbart haben."
+12,"00:00:44,320","00:00:47,200",44.32,47.2,2.8800000000000026,Es gibt keinen Dissens.
+13,"00:00:47,240","00:00:54,080",47.24,54.08,6.839999999999996,"Es gibt allenfalls die Frage, ob wir das tatsächlich so erreichen können,"
+14,"00:00:54,120","00:00:57,720",54.12,57.72,3.6000000000000014,wie wir es uns vorzeitig gemeinsam vorgenommen haben.
+15,"00:00:57,760","00:00:59,160",57.76,59.16,1.3999999999999986,"Wenn dies möglich ist,"
+16,"00:00:59,200","00:01:01,720",59.2,61.72,2.519999999999996,"tun wir alles, um das zu ermöglichen."
+17,"00:01:01,760","00:01:06,520",61.76,66.52,4.759999999999998,Ich möchte meinen Hinweis erlauben.
+18,"00:01:06,560","00:01:10,680",66.56,70.68,4.1200000000000045,Deutschland hat ungefähr ein Prozent der Weltbevölkerung.
+19,"00:01:10,720","00:01:13,560",70.72,73.56,2.8400000000000034,"Wir stellen ungefähr 2 % des Problems dar,"
+20,"00:01:13,600","00:01:15,520",73.6,75.52,1.9200000000000017,was CO2-Emissionen betrifft.
+21,"00:01:15,520","00:01:18,480",75.52,78.48,2.960000000000008,"Selbst wenn wir morgen klimaneutral wären,"
+22,"00:01:18,520","00:01:23,320",78.52,83.32,4.799999999999997,"würde keine einzige Klimakatastrophe weniger geschehen,"
+23,"00:01:23,360","00:01:23,920",83.36,83.92,0.5600000000000023,"kein einziger Waldbrand, keine einzige Überschwemmung in Texas."
+24,"00:01:34,760","00:01:36,840",94.75999999999999,96.84,2.0800000000000125,- Objektiv hat Friedrich Merz recht.
+25,"00:01:36,880","00:01:39,120",96.88,99.12,2.240000000000009,"Trotzdem ist die Aufregung um diese Aussage groß,"
+26,"00:01:39,200","00:01:42,760",99.2,102.75999999999999,3.559999999999988,denn sie wirft eine Frage auf: was bedeutet das für Klimapolitik?
+27,"00:01:42,840","00:01:45,160",102.84,105.16,2.319999999999993,"Maja Göpel (MG) ist bei uns zu Gast,"
+28,"00:01:45,240","00:01:47,360",105.24000000000001,107.36,2.1199999999999903,die seit Jahren zu genau diesen Themen forscht:
+29,"00:01:47,440","00:01:50,280",107.44,110.28,2.8400000000000034,"Klimapolitik, gesellschaftlicher Wandel, Transformation."
+30,"00:01:50,320","00:01:52,600",110.32,112.6,2.280000000000001,"Die enttäuscht klingt, wenn sie sagt:"
+31,"00:01:52,640","00:01:56,640",112.64,116.64,4.0,"""Es war ein Riesendurchbruch, nach der Katastrophe von zwei Weltkriegen"
+32,"00:01:56,680","00:02:00,320",116.68,120.32,3.6399999999999864,"als Menschheit zu sagen, wir fangen an, global zu denken."
+33,"00:02:00,400","00:02:05,600",120.4,125.6,5.199999999999989,"Aber das"", glaubt sie, ""drehen gerade alles wieder zurück""."
+34,"00:02:05,640","00:02:09,320",125.64,129.32,3.6799999999999926,Herzlich willkommen.
+35,"00:02:09,400","00:02:13,040",129.4,133.04,3.6399999999999864,"Er gilt als einer der erfolgreichsten Bürgermeister dieses Landes,"
+36,"00:02:13,080","00:02:16,800",133.08,136.8,3.719999999999999,"ein ""konservativer Radikalökologe"", wie ihn mal jemand genannt hat,"
+37,"00:02:16,840","00:02:20,520",136.84,140.52,3.680000000000007,"der mit bedarfsorientierter Straßenbeleuchtung,"
+38,"00:02:20,600","00:02:27,080",140.6,147.07999999999998,6.47999999999999,beheizbaren Fahrradbrücken und SUV-Parken zum zehnfachen Preis
+39,"00:02:27,120","00:02:31,040",147.12,151.04,3.9199999999999875,eines Kleinwagens Tübingen bis 2030 klimaneutral machen möchte.
+40,"00:02:31,120","00:02:34,160",151.12,154.16,3.039999999999992,"Deshalb ist es so interessant, wenn er sagt:"
+41,"00:02:34,200","00:02:38,800",154.2,158.8,4.600000000000023,"""Immer mehr Menschen glauben, dass Klimaschutz der wesentliche Grund"
+42,"00:02:38,840","00:02:41,840",158.84,161.84,3.0,"für den Niedergang der deutschen Wirtschaft ist."""
+43,"00:02:41,880","00:02:44,640",161.88,164.64,2.759999999999991,"Herzlich willkommen, Boris Palmer (BP)."
+44,"00:02:44,680","00:02:46,080",164.68,166.07999999999998,1.3999999999999773,Wie sieht er das?
+45,"00:02:46,120","00:02:47,600",166.12,167.6,1.4799999999999898,"Axel Bojanowski (AB),"
+46,"00:02:47,640","00:02:50,880",167.64,170.88,3.240000000000009,"einer der bekanntesten Wissenschaftsjournalisten des Landes,"
+47,"00:02:50,960","00:02:53,360",170.96,173.36,2.4000000000000057,der die deutsche Klimapolitik scharf kritisiert
+48,"00:02:53,400","00:02:56,440",173.4,176.44,3.039999999999992,"und von ""Klimanationalismus"" spricht."
+49,"00:02:56,480","00:03:00,440",176.48,180.44,3.960000000000008,"Der v.a. den Alarmismus schwierig findet, der viele Menschen erschreckt"
+50,"00:03:00,520","00:03:06,920",180.52,186.92,6.399999999999977,"""Es ist nicht nur falsch"", sagt er, ""wenn Politiker jedes Wetterereignis"
+51,"00:03:06,960","00:03:11,080",186.96,191.08,4.1200000000000045,"mit dem Klimawandel in Verbindung bringen, sondern auch gefährlich."
+52,"00:03:11,160","00:03:15,800",191.16,195.8,4.640000000000015,"Denn wenn sie 'Klimawandel' rufen, klingt es so, als hätten sie"
+53,"00:03:15,840","00:03:19,480",195.84,199.48,3.6399999999999864,nichts dagegen tun können und stehlen sich aus der Verantwortung.
+54,"00:03:19,560","00:03:22,680",199.56,202.68,3.1200000000000045,"Und das"", sagt er, ""dürfen wir nicht zulassen""."
+55,"00:03:22,720","00:03:23,920",202.72,203.92000000000002,1.200000000000017,Herzlich willkommen.
+56,"00:03:24,000","00:03:27,000",204.0,207.0,3.0,"""33 erstaunliche Lichtblicke, die zeigen,"
+57,"00:03:27,080","00:03:31,160",207.07999999999998,211.16,4.0800000000000125,"warum die Welt viel besser ist, als wir denken""."
+58,"00:03:31,240","00:03:33,800",211.24,213.8,2.5600000000000023,Das ist der Titel einer sehr lesenswerten Textsammlung
+59,"00:03:33,880","00:03:37,440",213.88,217.44,3.5600000000000023,"von Axel Bojanowski, die schon vor einiger Zeit erschienen ist."
+60,"00:03:37,520","00:03:41,320",217.52,221.32,3.799999999999983,"Sie passt insofern als Überleitung zu diesem Mann,"
+61,"00:03:41,400","00:03:44,560",221.4,224.56,3.1599999999999966,"als auch er zu denen gehört, die bei allem Grund zur Sorge"
+62,"00:03:44,640","00:03:48,320",224.64,228.32,3.680000000000007,"über die Veränderung des Klimas, versuchen, optimistisch zu klingen."
+63,"00:03:48,400","00:03:51,480",228.4,231.48,3.079999999999984,"Dazu muss man wissen,"
+64,"00:03:51,560","00:03:54,600",231.56,234.6,3.039999999999992,"er gehört zu den renommiertesten Klimaforschern des Landes,"
+65,"00:03:54,640","00:03:59,080",234.64,239.07999999999998,4.439999999999998,"Mitverfasser der letzten zwei Weltklimaberichte, der sagt:"
+66,"00:03:59,160","00:04:03,760",239.16,243.76,4.599999999999994,"""Die Welt wird riskanter, in jedem Fall, aber sie wird nicht untergehen."
+67,"00:04:03,800","00:04:09,200",243.8,249.2,5.399999999999977,"Es ist nicht seriös, so zu tun, als gäbe es eine noch zu rettende Welt"
+68,"00:04:09,240","00:04:11,680",249.24,251.68,2.4399999999999977,"vor 1,5 Grad und eine, die untergeht nach 1,5 Grad."
+69,"00:04:11,720","00:04:15,800",251.72,255.8,4.0800000000000125,"Wir müssen verstehen, 1,5 Grad ist eine politische Zahl""."
+70,"00:04:15,880","00:04:19,960",255.88,259.96,4.079999999999984,"Herzlich willkommen, Jochem Marotzke (JM)."
+71,"00:04:20,200","00:04:22,840",260.2,262.84,2.6399999999999864,"Schönen guten Abend in die Runde,"
+72,"00:04:22,840","00:04:28,840",262.84,268.84,6.0,auf die ich sehr gespannt bin.
+73,"00:04:30,240","00:04:31,840",270.24,271.84,1.599999999999966,Die erste Frage an Sie.
+74,"00:04:31,880","00:04:35,840",271.88,275.84000000000003,3.9600000000000364,Wir haben die Bilder der verheerenden Flut in Texas gesehen.
+75,"00:04:35,880","00:04:39,200",275.88,279.2,3.319999999999993,"Zeitrafferbilder, die eine Kamera aufgenommen hat."
+76,"00:04:39,240","00:04:46,560",279.24,286.56,7.319999999999993,"Sie wissen ein bisschen mehr zu dieser Geschichte,"
+77,"00:04:47,480","00:04:50,040",287.48,290.04,2.5600000000000023,weil sie einen amerikanischen Kollegen
+78,"00:04:50,080","00:04:52,440",290.08,292.44,2.3600000000000136,diesbezüglich kontaktieren konnten.
+79,"00:04:52,480","00:04:56,120",292.48,296.12,3.6399999999999864,"Ein alter Freund von Ihnen, der mit Ihnen studiert hat."
+80,"00:04:56,160","00:05:01,200",296.15999999999997,301.2,5.0400000000000205,Was hatte Ihnen erzählt?
+81,"00:05:01,200","00:05:08,920",301.2,308.92,7.720000000000027,"JM: Es gab zunächst den Vorwurf, der Wetterdienst habe versagt."
+82,"00:05:08,920","00:05:12,760",308.92,312.76,3.839999999999975,"Der Kollege von mir war Doktorand am MIT,"
+83,"00:05:12,800","00:05:17,040",312.8,317.04,4.240000000000009,er ist ein Experte zur Forschung an Wetter und Wettervorhersage.
+84,"00:05:17,040","00:05:19,800",317.04,319.8,2.759999999999991,Er sagt - da vertraue ich ihm -
+85,"00:05:19,800","00:05:25,640",319.8,325.64,5.839999999999975,die Vorhersage war sehr gut.
+86,"00:05:29,240","00:05:33,280",329.24,333.28,4.039999999999964,"Es ist schwer, vorherzusagen, wann wie viel wo fällt anregen."
+87,"00:05:33,320","00:05:35,040",333.32,335.04,1.7200000000000273,"Es gab die Vorhersage,"
+88,"00:05:35,080","00:05:39,800",335.08,339.8,4.720000000000027,es kommt ein heftiger Regenguss runter.
+89,"00:05:39,800","00:05:42,880",339.8,342.88,3.079999999999984,Die Vorhersage ist dann relativ spät -
+90,"00:05:42,880","00:05:49,400",342.88,349.4,6.519999999999982,aber besser geht es nicht - verdoppelt worden.
+91,"00:05:49,440","00:05:53,760",349.44,353.76,4.319999999999993,"Es war die Frage, wären es 20 cm Niederschlag in wenigen Stunden,"
+92,"00:05:53,760","00:05:58,000",353.76,358.0,4.240000000000009,was schon enorm viel ist.
+93,"00:05:58,040","00:06:02,160",358.04,362.16,4.1200000000000045,"Die Vorhersage, da kommt ein enorm starker Niederschlag."
+94,"00:06:02,200","00:06:05,880",362.2,365.88,3.680000000000007,Dann ist die Vorhersage an Intensität verdoppelt worden.
+95,"00:06:05,920","00:06:10,520",365.92,370.52,4.599999999999966,"Aber als diese Vorhersage kam,"
+96,"00:06:10,560","00:06:11,600",370.56,371.6,1.0400000000000205,das war nachts.
+97,"00:06:11,600","00:06:16,560",371.6,376.56,4.9599999999999795,Es war die Nacht auf den Freitag.
+98,"00:06:16,600","00:06:18,640",376.6,378.64,2.0399999999999636,"Als die Warnung herauskam,"
+99,"00:06:18,680","00:06:22,440",378.68,382.44,3.759999999999991,"war niemand mehr da, dazu gehört hat."
+100,"00:06:22,480","00:06:26,120",382.48,386.12,3.6399999999999864,"Der Wetterdienst hat an den Grenzen dessen gearbeitet,"
+101,"00:06:26,160","00:06:29,440",386.16,389.44,3.2799999999999727,was in der Vorhersage möglich ist.
+102,"00:06:29,480","00:06:33,720",389.48,393.72,4.240000000000009,"Dann war keiner mehr da,"
+103,"00:06:33,760","00:06:35,320",393.76,395.32,1.5600000000000023,"der hätte sagen können,"
+104,"00:06:35,360","00:06:38,200",395.36,398.2,2.839999999999975,müssen evakuieren.
+105,"00:06:38,240","00:06:46,080",398.24,406.08,7.839999999999975,ML: Es wurde im Laufe der Nacht immer weiter hoch gestuft?
+106,"00:06:46,400","00:06:50,760",406.4,410.76,4.360000000000014,"JM: Ich schätze, sie haben eine neue Vorhersage gemacht,"
+107,"00:06:50,800","00:06:54,560",410.8,414.56,3.759999999999991,"sie haben gesagt, es wird intensiver als vorher gedacht."
+108,"00:06:54,600","00:06:58,520",414.6,418.52,3.919999999999959,"Am Anfang stand eine Warnung, dann eine deutliche Warnung,"
+109,"00:06:58,560","00:06:59,720",418.56,419.72,1.160000000000025,dann ein Notfall.
+110,"00:06:59,720","00:07:01,920",419.72,421.92,2.1999999999999886,"Die Aussage, es ist ein Notfall,"
+111,"00:07:01,920","00:07:07,320",421.92,427.32,5.399999999999977,"das kann zu einer Zeit, wo keiner da war."
+112,"00:07:07,360","00:07:12,120",427.36,432.12,4.759999999999991,ML: Vielleicht können wir die Bilder aus der Zeitrafferkamera zu spielen.
+113,"00:07:12,160","00:07:16,600",432.16,436.6,4.439999999999998,"Hat jemand von Ihnen das schon einmal gesehen, die Geschwindigkeit."
+114,"00:07:16,640","00:07:22,840",436.64,442.84,6.199999999999989,BP: Im Ahrtal war es nicht anders.
+115,"00:07:24,000","00:07:28,680",444.0,448.68,4.680000000000007,JM: Ich habe vom Ahrtal auch diese bewegt Bilder nicht gesehen.
+116,"00:07:28,720","00:07:35,280",448.72,455.28,6.559999999999945,Es war in wenigen Stunden der Anstieg.
+117,"00:07:35,680","00:07:38,240",455.68,458.24,2.5600000000000023,Ich habe sofort an das Ahrtal gedacht.
+118,"00:07:38,280","00:07:40,120",458.28,460.12,1.8400000000000318,"Das Ereignis, die Sturzflut."
+119,"00:07:40,160","00:07:43,000",460.15999999999997,463.0,2.840000000000032,"Das Warnsystem, das nicht vorbereitet war,"
+120,"00:07:43,040","00:07:46,840",463.04,466.84000000000003,3.8000000000000114,dass kaum existent war.
+121,"00:07:46,840","00:07:50,080",466.84000000000003,470.08,3.2399999999999523,Es gibt eine Menge sehr betrieblicher Parallelen
+122,"00:07:50,120","00:07:54,760",470.12,474.76,4.639999999999986,"zwischen der Katastrophe im Ahrtal und dem, was in Texas passiert ist."
+123,"00:07:54,800","00:07:57,440",474.8,477.44,2.6399999999999864,ML: Insofern auch politisches Versagen.
+124,"00:07:57,480","00:08:00,600",477.48,480.6,3.1200000000000045,Da müssen wir intensiver darüber sprechen.
+125,"00:08:00,640","00:08:03,400",480.64,483.4,2.759999999999991,"ML: Was ist das für Sie, was wiedersehen?"
+126,"00:08:03,440","00:08:09,000",483.44,489.0,5.560000000000002,Klimawandel oder Wetter?
+127,"00:08:10,160","00:08:14,360",490.16,494.36,4.199999999999989,"MG: Die Herausforderung ist, zu sagen, wird es intensiver dem,"
+128,"00:08:14,400","00:08:16,400",494.4,496.4,2.0,wie es auftritt und häufiger?
+129,"00:08:16,480","00:08:23,760",496.48,503.76,7.279999999999973,Da sind gerade die Veränderungen mit Hitzejahren -
+130,"00:08:24,360","00:08:27,360",504.36,507.36,3.0,"die letzten 24 Jahre gemessen auf 144 Jahre,"
+131,"00:08:27,400","00:08:32,680",507.4,512.68,5.279999999999973,das ist signifikant.
+132,"00:08:33,640","00:08:36,480",513.64,516.48,2.840000000000032,"Gemessene Luft, die Temperaturveränderung."
+133,"00:08:36,520","00:08:41,680",516.52,521.68,5.159999999999968,"Das sind die Modellierung, die versuchen, vorauszuschauen."
+134,"00:08:41,720","00:08:43,480",521.72,523.48,1.759999999999991,Es ist eine Risikoanalyse.
+135,"00:08:43,520","00:08:47,280",523.52,527.28,3.759999999999991,"Wie können wir durch die klimatische Veränderung,"
+136,"00:08:47,320","00:08:50,960",527.32,530.96,3.6399999999999864,die Wahrscheinlichkeit und Intensität der Katastrophen
+137,"00:08:51,000","00:08:57,520",531.0,537.52,6.519999999999982,"zurückfahren und verhindern, dass sie intensiver werden."
+138,"00:08:57,560","00:08:58,920",537.56,538.92,1.3600000000000136,"Ist die Forschung,"
+139,"00:08:58,960","00:09:06,240",538.96,546.24,7.279999999999973,wie einzelne Wetterphänomene damit zusammenhängen.
+140,"00:09:07,240","00:09:12,720",547.24,552.72,5.480000000000018,"ML: Ich habe gelesen,"
+141,"00:09:17,880","00:09:20,840",557.88,560.84,2.9600000000000364,Wetterereignisse wie diese
+142,"00:09:20,880","00:09:27,520",560.88,567.52,6.639999999999986,traten immer auf und werden immer auftreten.
+143,"00:09:27,560","00:09:31,440",567.56,571.44,3.880000000000109,"Wir können uns schützen, wenn wir die richtigen Dinge tun."
+144,"00:09:31,480","00:09:35,480",571.48,575.48,4.0,"Es für sie einen Grund, Alarm zu schlagen?"
+145,"00:09:35,520","00:09:41,040",575.52,581.04,5.519999999999982,MG: Ich würde auf die Wissenschaft hören.
+146,"00:09:41,080","00:09:43,880",581.08,583.88,2.7999999999999545,"Es gibt einen Grund, warum wir Prävention,"
+147,"00:09:43,920","00:09:46,240",583.92,586.24,2.32000000000005,den CO2 Ausstoß reduzieren sollten.
+148,"00:09:46,280","00:09:49,800",586.28,589.8,3.519999999999982,"Wie hoch ist die Wahrscheinlichkeit, dass das eintritt?"
+149,"00:09:49,840","00:09:54,240",589.84,594.24,4.399999999999977,Da ist die hohe Wahrscheinlichkeit in vielen Bereichen assistiert.
+150,"00:09:54,280","00:10:01,360",594.28,601.36,7.080000000000041,"Die andere Frage ist, wie hoch ist der Schaden."
+151,"00:10:05,320","00:10:08,280",605.32,608.28,2.9599999999999227,"Wir sagen, es ist bis zu sechsmal günstiger"
+152,"00:10:08,320","00:10:11,160",608.32,611.16,2.839999999999918,in die Klimaschutzmaßnahmen zu investieren
+153,"00:10:11,200","00:10:13,720",611.2,613.72,2.519999999999982,als dann die Schäden zu reparieren.
+154,"00:10:13,760","00:10:18,560",613.76,618.56,4.7999999999999545,Irgendwann ist es irreversibel.
+155,"00:10:18,600","00:10:24,040",618.6,624.04,5.439999999999941,Kann ich einen Urzustand wiederherstellen?
+156,"00:10:24,080","00:10:28,800",624.08,628.8,4.719999999999914,"Wir können viel Geld drauf werfen,"
+157,"00:10:28,840","00:10:31,800",628.84,631.8,2.9599999999999227,wir können Urzustand nicht wiederherstellen.
+158,"00:10:31,840","00:10:33,880",631.84,633.88,2.0399999999999636,Das sind die Risiko Kategorien.
+159,"00:10:33,920","00:10:35,720",633.92,635.72,1.8000000000000682,Das ist ein klares Plädoyer.
+160,"00:10:35,760","00:10:38,400",635.76,638.4,2.6399999999999864,"Es wäre eine spannende Frage zu sagen,"
+161,"00:10:38,440","00:10:43,600",638.44,643.6,5.159999999999968,"würden Sie sagen,"
+162,"00:10:45,560","00:10:48,120",645.56,648.12,2.560000000000059,wir müssen nicht Klimaschutz betreiben
+163,"00:10:48,160","00:10:52,480",648.16,652.48,4.32000000000005,aus dieser Wahrnehmung heraus?
+164,"00:10:52,520","00:10:54,600",652.52,654.6,2.080000000000041,Oder sollten wir es tun.
+165,"00:10:54,640","00:10:57,000",654.64,657.0,2.3600000000000136,Es ist die Frage bei Risiko...
+166,"00:10:57,040","00:11:01,080",657.04,661.08,4.040000000000077,Es ist bei allen komplexen Systemen so.
+167,"00:11:01,120","00:11:04,520",661.12,664.52,3.3999999999999773,"Die Rechnung in der Klimaforschung ist sehr gering,"
+168,"00:11:04,560","00:11:07,400",664.56,667.4,2.840000000000032,wenn wir es mit anderen Sachen vergleichen.
+169,"00:11:07,440","00:11:11,600",667.44,671.6,4.159999999999968,"Klimaabkommen, die Klimaemissionen überall zu reduzieren."
+170,"00:11:11,640","00:11:15,120",671.64,675.12,3.480000000000018,"Gesamt die Atmosphäre zu versuchen zu stabilisieren,"
+171,"00:11:15,160","00:11:17,480",675.16,677.48,2.32000000000005,um die Katastrophen zu reduzieren.
+172,"00:11:17,520","00:11:23,280",677.52,683.28,5.759999999999991,ML: Wie schauen Sie darauf?
+173,"00:11:24,080","00:11:27,560",684.08,687.56,3.4799999999999045,"AB: Eine Frage des Katastrophenschutzes, ganz klar."
+174,"00:11:27,600","00:11:31,040",687.6,691.04,3.439999999999941,Man muss es benennen.
+175,"00:11:31,080","00:11:34,520",691.08,694.52,3.439999999999941,"Wenn man das nicht tut, andere Gründe hervor steht,"
+176,"00:11:34,560","00:11:39,000",694.56,699.0,4.440000000000055,"dass man die außen vor, die verantwortlich sind."
+177,"00:11:39,040","00:11:44,000",699.04,704.0,4.960000000000036,Wir müssen das Problem mit dem Klimawandel definieren.
+178,"00:11:44,040","00:11:50,040",704.04,710.04,6.0,"Der Klimawandel ist deswegen ein Problem,"
+179,"00:11:50,080","00:11:54,280",710.08,714.28,4.199999999999932,weil er sehr langfristig wirkt und Rahmenbedingungen verändert.
+180,"00:11:54,320","00:12:02,000",714.32,722.0,7.67999999999995,Langsam aber stetig. Und über lange Zeit. Über Generationen hinweg.
+181,"00:12:02,040","00:12:06,400",722.04,726.4,4.360000000000014,"Was in der fernen Zukunft passieren wird, wissen wir nicht genau."
+182,"00:12:06,440","00:12:08,200",726.44,728.2,1.759999999999991,Es besteht Handlungsbedarf.
+183,"00:12:08,240","00:12:10,200",728.24,730.2,1.9600000000000364,"Es ist aus den Grundannahmen,"
+184,"00:12:10,240","00:12:14,960",730.24,734.96,4.720000000000027,den Grundbeobachtungen herausgehend.
+185,"00:12:15,000","00:12:20,560",735.0,740.56,5.559999999999945,Der Meeresspiegelanstieg
+186,"00:12:21,240","00:12:28,400",741.24,748.4,7.159999999999968,"und das schmelzen des Arktiseises, das ist ein Problem."
+187,"00:12:28,440","00:12:30,760",748.44,750.76,2.3199999999999363,"Wir wissen nicht genau, was es ist."
+188,"00:12:30,840","00:12:36,240",750.84,756.24,5.399999999999977,"Es ist problematisch, weil es global ist und viele Risiken erhöht."
+189,"00:12:36,280","00:12:40,640",756.28,760.64,4.360000000000014,"Wenn man auf ein einziges Bette Ereignis guckt, ist es schwierig,"
+190,"00:12:40,680","00:12:44,760",760.68,764.76,4.080000000000041,dass mit Klimawandel in Verbindung zu bringen.
+191,"00:12:44,800","00:12:48,440",764.8,768.44,3.6400000000001,"Ich will davor warnen, weil es am Problem vorbei geht."
+192,"00:12:48,480","00:12:51,760",768.48,771.76,3.2799999999999727,"Man macht es dadurch eher schwieriger, die Lösung."
+193,"00:12:51,800","00:12:56,040",771.8,776.04,4.240000000000009,"Die Leute merken, dass es nicht so einfach ist."
+194,"00:12:56,080","00:13:01,000",776.08,781.0,4.919999999999959,"Der Klimareport schreibt zu Sturzfluten,"
+195,"00:13:01,040","00:13:06,320",781.04,786.32,5.280000000000086,dass man da nichts sagen könnte...
+196,"00:13:06,360","00:13:09,760",786.36,789.76,3.3999999999999773,"In den USA heißt es, manche Sturzfluten werde mehr,"
+197,"00:13:09,840","00:13:11,240",789.84,791.24,1.3999999999999773,manche werden weniger.
+198,"00:13:11,280","00:13:13,560",791.28,793.56,2.2799999999999727,Es gibt global weniger Todesfälle.
+199,"00:13:13,640","00:13:18,760",793.64,798.76,5.1200000000000045,Der Mensch stützt sich besser.
+200,"00:13:18,800","00:13:22,280",798.8,802.28,3.480000000000018,Das ist kein Beweis gegen globale Erwärmung.
+201,"00:13:22,320","00:13:26,160",802.32,806.16,3.839999999999918,"Die Menschen sind besser geschützt vor Klimakatastrophen,"
+202,"00:13:26,200","00:13:28,960",806.2,808.96,2.759999999999991,weil die Welt wohlhabender geworden ist.
+203,"00:13:29,040","00:13:36,360",809.04,816.36,7.32000000000005,"Globale Erwärmung geht weiter, das ist ein Problem."
+204,"00:13:39,320","00:13:45,920",819.32,825.92,6.599999999999909,ML: Das ist ein interessanter Gedanke.
+205,"00:13:46,360","00:13:49,320",826.36,829.32,2.9600000000000364,"Nehme die Ereignisse zum einen nicht zu,"
+206,"00:13:49,360","00:13:53,920",829.36,833.92,4.559999999999945,zum anderen sterben bei solchen Ereignissen
+207,"00:13:53,960","00:13:57,840",833.96,837.84,3.8799999999999955,viel weniger Menschen als vorher. Weil er das seiner Lage sind
+208,"00:13:57,920","00:14:01,400",837.92,841.4,3.480000000000018,und zu schützen?
+209,"00:14:01,480","00:14:04,480",841.48,844.48,3.0,JM: Das stimmt für stark Niederschlag fluten.
+210,"00:14:04,520","00:14:10,680",844.52,850.68,6.159999999999968,Das stimmt nicht für Hitzewellen.
+211,"00:14:13,600","00:14:15,920",853.6,855.92,2.3199999999999363,"Das ist vielleicht wäre der Punkt,"
+212,"00:14:15,960","00:14:19,040",855.96,859.04,3.0799999999999272,der meine beiden Vorgänger angesprochen haben.
+213,"00:14:19,120","00:14:23,400",859.12,863.4,4.279999999999973,"In dem Augenblick, wo man sich eine Facette anschaut und glaubt,"
+214,"00:14:23,440","00:14:25,080",863.44,865.08,1.6399999999999864,das ist allgemeingültig...
+215,"00:14:27,360","00:14:30,040",867.36,870.04,2.67999999999995,"Und glaubt, dass da liegt man fast garantiert daneben."
+216,"00:14:30,040","00:14:33,160",870.04,873.16,3.1200000000000045,"Wir sagen, durch Niederschläge sterben heute weniger Menschen,"
+217,"00:14:33,160","00:14:35,440",873.16,875.44,2.2800000000000864,"durch Hitzewellen, die immer häufiger werden,"
+218,"00:14:35,440","00:14:36,440",875.44,876.44,1.0,sterben mehr.
+219,"00:14:36,480","00:14:40,520",876.48,880.52,4.039999999999964,Hitzewellen haben zugenommen praktisch überall auf der Welt.
+220,"00:14:40,520","00:14:42,520",880.52,882.52,2.0,Daran gibt es keinen Zweifel.
+221,"00:14:42,520","00:14:45,960",882.52,885.96,3.4400000000000546,"Beim Niederschlag sind wir deutlich weniger sicher,"
+222,"00:14:46,000","00:14:48,280",886.0,888.28,2.2799999999999727,weil's zugenommen hat.
+223,"00:14:48,280","00:14:55,400",888.28,895.4,7.1200000000000045,"Natürlich, das Problem wird immer gravierender."
+224,"00:14:59,120","00:15:00,400",899.12,900.4,1.2799999999999727,"Es ist ausgeschlossen,"
+225,"00:15:00,400","00:15:05,000",900.4,905.0,4.600000000000023,dass die Menschheit sich auf Dauer diesem Klimawandel anpassen kann.
+226,"00:15:05,000","00:15:11,400",905.0,911.4,6.399999999999977,"Auf der anderen Seite, wenn es jetzt um die Flut geht,"
+227,"00:15:11,400","00:15:19,160",911.4,919.16,7.759999999999991,gilt es sich nicht hinter globalen Klimaschutz zu verstecken.
+228,"00:15:19,160","00:15:21,120",919.16,921.12,1.9600000000000364,"Es sind scheinbare Widersprüche,"
+229,"00:15:21,120","00:15:24,760",921.12,924.76,3.6399999999999864,es ist enorm wichtig sich bei so einem komplexen Thema
+230,"00:15:24,760","00:15:27,280",924.76,927.28,2.519999999999982,"wie dem Klimawandel nicht zu glauben,"
+231,"00:15:27,320","00:15:30,720",927.32,930.72,3.3999999999999773,"wenn ich eine Antwort auf eine Frage gefunden hat,"
+232,"00:15:30,720","00:15:32,960",930.72,932.96,2.240000000000009,dass diese Antwort für alles gilt.
+233,"00:15:32,960","00:15:34,840",932.96,934.84,1.8799999999999955,Das ist fast immer verkehrt.
+234,"00:15:34,840","00:15:40,000",934.84,940.0,5.159999999999968,"Wir müssen aber alles machen, wir müssen einsparen,"
+235,"00:15:40,040","00:15:48,360",940.04,948.36,8.32000000000005,und gleichzeitig an dem nicht veränderbaren Klimawandel anpassen.
+236,"00:15:56,120","00:15:59,440",956.12,959.44,3.32000000000005,"ML: Ich würde gerne den Oberbürgermeister fragen,"
+237,"00:15:59,440","00:16:01,160",959.44,961.16,1.7199999999999136,wie reagieren Sie darauf?
+238,"00:16:01,200","00:16:02,560",961.2,962.56,1.3599999999999,Denken Sie sowas mit?
+239,"00:16:02,560","00:16:05,520",962.56,965.52,2.9600000000000364,"Das sind Temperaturen, wo jeder andere sagt,"
+240,"00:16:05,520","00:16:10,960",965.52,970.96,5.440000000000055,"wir nennen das Sommer,"
+241,"00:16:11,240","00:16:14,560",971.24,974.56,3.3199999999999363,aber für alte Leute wird das zunehmend gefährlich
+242,"00:16:14,560","00:16:17,320",974.56,977.32,2.7600000000001046,und ein Problem.
+243,"00:16:17,320","00:16:23,920",977.32,983.92,6.599999999999909,Ab welchem Punkt können Menschen physiologisch nicht mehr existieren?
+244,"00:16:23,920","00:16:28,000",983.92,988.0,4.080000000000041,JM: Bei 32° wird es gefährlich bei hoher Luftfeuchtigkeit.
+245,"00:16:28,040","00:16:35,160",988.04,995.16,7.1200000000000045,Trockene Hitze hält der Mensch einigermaßen aus.
+246,"00:16:35,560","00:16:39,000",995.56,999.0,3.4400000000000546,Man sollte sich nicht in die pralle Sonne stellen.
+247,"00:16:39,040","00:16:44,800",999.04,1004.8,5.759999999999991,Eine Kombination aus hoher Luftfeuchtigkeit und Sonne.
+248,"00:16:44,800","00:16:51,760",1004.8,1011.76,6.960000000000036,"Sowas haben wir in Pakistan, da wird es gefährlich."
+249,"00:16:51,760","00:16:54,760",1011.76,1014.76,3.0,"Wenn der Schweiß nicht mehr verdunsten kann,"
+250,"00:16:54,760","00:17:00,840",1014.76,1020.84,6.080000000000041,weil es um uns herum zu feucht ist. Dann wird es gefährlich.
+251,"00:17:00,880","00:17:04,560",1020.88,1024.56,3.67999999999995,"ML: Dann kommt der Punkt, dass man nicht mehr existiert?"
+252,"00:17:04,600","00:17:06,520",1024.6,1026.52,1.9200000000000728,JM: Ja.
+253,"00:17:06,520","00:17:13,040",1026.52,1033.04,6.519999999999982,Irgendwann wird es richtig gefährlich.
+254,"00:17:16,720","00:17:20,400",1036.72,1040.4,3.6800000000000637,"ML: Auch in der Klimadebatte, Klimaanlagen sind etwas,"
+255,"00:17:20,400","00:17:22,360",1040.4,1042.36,1.959999999999809,was aus der Hölle kommen.
+256,"00:17:22,360","00:17:25,760",1042.36,1045.76,3.400000000000091,In Wahrheit aber auch ein Segen für die Menschheit.
+257,"00:17:25,760","00:17:30,600",1045.76,1050.6,4.839999999999918,"Ja, eine große Erfindung."
+258,"00:17:30,640","00:17:39,000",1050.64,1059.0,8.3599999999999,Nichts hat die Menschheit zum Guten verändert wie die Klimaanlage.
+259,"00:17:43,000","00:17:45,920",1063.0,1065.92,2.9200000000000728,Mitte des 20. Jahrhunderts wurde es möglich
+260,"00:17:45,920","00:17:48,040",1065.92,1068.04,2.119999999999891,von Norden nach Süden zu ziehen.
+261,"00:17:48,040","00:17:49,720",1068.04,1069.72,1.6800000000000637,"Als sie Klimaanlage kam,"
+262,"00:17:49,720","00:17:55,200",1069.72,1075.2,5.480000000000018,konnte man auch im Süden wohnen.
+263,"00:17:55,200","00:17:58,960",1075.2,1078.96,3.759999999999991,"Und die großen Metropolen, die Tropen sind gewachsen."
+264,"00:17:59,000","00:18:02,520",1079.0,1082.52,3.519999999999982,An Deutschland ist dieser Fortschritt vorbeigegangen.
+265,"00:18:02,520","00:18:07,920",1082.52,1087.92,5.400000000000091,Es gibt Technophobie.
+266,"00:18:07,920","00:18:11,400",1087.92,1091.4,3.480000000000018,Europa ist unterentwickelt was Klimaanlagen angeht.
+267,"00:18:11,400","00:18:15,440",1091.4,1095.44,4.039999999999964,In anderen Regionen ist das selbstverständlich.
+268,"00:18:15,440","00:18:19,760",1095.44,1099.76,4.319999999999936,"Es gab immer heiße Temperaturen im Sommer,"
+269,"00:18:19,760","00:18:24,520",1099.76,1104.52,4.759999999999991,dass man in der Arztpraxis saß und man total geschwitzt hat.
+270,"00:18:24,560","00:18:31,000",1104.56,1111.0,6.440000000000055,Ausgerechnet in einer Arztpraxis oder im Pflegeheim.
+271,"00:18:31,040","00:18:37,840",1111.04,1117.84,6.7999999999999545,Man möchte auch nicht auf Durchzug stellen.
+272,"00:18:37,840","00:18:40,240",1117.84,1120.24,2.400000000000091,Völlig in deutscher Manier.
+273,"00:18:40,240","00:18:43,120",1120.24,1123.12,2.8799999999998818,"Diesen Irrsinn gibt es nur in Deutschland,"
+274,"00:18:43,120","00:18:45,480",1123.12,1125.48,2.3600000000001273,dass das gesundheitsschädigend wäre.
+275,"00:18:45,520","00:18:50,960",1125.52,1130.96,5.440000000000055,ML: Wir haben gerade eine Grafik gesehen.
+276,"00:18:50,960","00:18:57,720",1130.96,1137.72,6.759999999999991,"Wie man als Bürgermeister darauf reagiert,"
+277,"00:18:57,720","00:19:02,400",1137.72,1142.4,4.680000000000064,"bevor wir darauf eingehen, was sehen wir da?"
+278,"00:19:02,400","00:19:04,920",1142.4,1144.92,2.519999999999982,"Ich muss sehen, ob ich das lesen kann."
+279,"00:19:04,920","00:19:09,680",1144.92,1149.68,4.759999999999991,Es ist die Durchschnittstemperatur.
+280,"00:19:09,720","00:19:14,160",1149.72,1154.16,4.440000000000055,ML: Es ist die Abweichung der Jahresdurchschnittstemperatur.
+281,"00:19:14,160","00:19:17,160",1154.16,1157.16,3.0,"Es wird immer wärmer, und was wir auch sehen,"
+282,"00:19:17,160","00:19:22,680",1157.16,1162.68,5.519999999999982,"vom Hintergrund dessen,"
+283,"00:19:23,680","00:19:28,960",1163.68,1168.96,5.279999999999973,"die globale Durchschnittstemperatur hat sich um 1,2° erhöht."
+284,"00:19:28,960","00:19:36,000",1168.96,1176.0,7.039999999999964,In Deutschland oder Europa um ungefähr das Doppelte.
+285,"00:19:36,040","00:19:41,320",1176.04,1181.32,5.279999999999973,"Es ist verstanden und bekannt,"
+286,"00:19:41,320","00:19:43,560",1181.32,1183.56,2.240000000000009,"wenn wir vom 1,5° Ziel sprechen,"
+287,"00:19:43,560","00:19:50,080",1183.56,1190.08,6.519999999999982,"was im Pariser Abkommen formuliert wurde,"
+288,"00:19:50,120","00:19:54,360",1190.12,1194.36,4.240000000000009,die Luft über dem Ozean erwärmt sich viel langsamer.
+289,"00:19:54,360","00:19:58,920",1194.36,1198.92,4.560000000000173,Europa hat sich da besonders stark erwärmt.
+290,"00:19:58,960","00:20:04,440",1198.96,1204.44,5.480000000000018,"Wir bekommen in Deutschland,"
+291,"00:20:04,480","00:20:10,640",1204.48,1210.64,6.160000000000082,extra mehr von der Erwärmung mit.
+292,"00:20:12,320","00:20:17,360",1212.32,1217.36,5.039999999999964,"ML: 1,5° im Schnitt, aber über Land haben wir deutlich mehr."
+293,"00:20:17,400","00:20:21,920",1217.4,1221.92,4.519999999999982,"Dann haben wir Deutschland England Städte, die so heißen wie Madrid."
+294,"00:20:21,920","00:20:24,360",1221.92,1224.36,2.439999999999827,Ist das vergleichbar?
+295,"00:20:24,400","00:20:28,160",1224.4,1228.16,3.759999999999991,JM: Das kommt wenn der Klimawandel nicht eingedämmt wird.
+296,"00:20:28,200","00:20:29,280",1228.2,1229.28,1.0799999999999272,Das wird kommen.
+297,"00:20:29,320","00:20:33,240",1229.32,1233.24,3.9200000000000728,"Deswegen ist es so wichtig,"
+298,"00:20:33,240","00:20:40,160",1233.24,1240.16,6.920000000000073,"bei einem Blick an die notwendige Anpassung,"
+299,"00:20:40,480","00:20:43,120",1240.48,1243.12,2.6399999999998727,"man darf nicht aus den Augen verlieren,"
+300,"00:20:43,160","00:20:50,200",1243.16,1250.2,7.039999999999964,dass die CO2 Emissionen gesenkt werden müssen.
+301,"00:20:54,160","00:20:57,160",1254.16,1257.16,3.0,ML: Thüringen ist ein sehr ehrgeiziger Plan.
+302,"00:20:57,160","00:21:03,080",1257.16,1263.08,5.919999999999845,Bis 2039 klimaneutral werden.
+303,"00:21:09,240","00:21:13,720",1269.24,1273.72,4.480000000000018,Wie reagieren Sie jetzt schon auf die unglaubliche Hitze?
+304,"00:21:13,760","00:21:19,560",1273.76,1279.56,5.7999999999999545,"BP: Bei den Emissionen klimaneutral zu werden,"
+305,"00:21:19,600","00:21:23,280",1279.6,1283.28,3.6800000000000637,nicht zum Problem des Klimawandels beizutragen.
+306,"00:21:23,280","00:21:27,880",1283.28,1287.88,4.600000000000136,"Er kann verringert werden,"
+307,"00:21:27,920","00:21:31,840",1287.92,1291.84,3.9199999999998454,man kann ihn kurzfristig nicht stoppen.
+308,"00:21:31,880","00:21:35,600",1291.88,1295.6,3.7199999999998,"ML: Das was wir heute tun, was wir die Luftblasen,"
+309,"00:21:35,640","00:21:41,400",1295.64,1301.4,5.759999999999991,wie lange hat das Auswirkungen?
+310,"00:21:41,400","00:21:47,640",1301.4,1307.64,6.240000000000009,JM: Jahrhunderte bis Jahrtausende.
+311,"00:21:48,040","00:21:51,320",1308.04,1311.32,3.2799999999999727,Ungefähr 1/4 der menschengemachten CO2-Emissionen
+312,"00:21:51,320","00:21:55,240",1311.32,1315.24,3.9200000000000728,bleibt für Jahrhunderte bis Jahrtausende in der Atmosphäre.
+313,"00:21:55,240","00:21:59,080",1315.24,1319.08,3.839999999999918,"Es sei denn, wie hol es aktiv raus."
+314,"00:21:59,120","00:22:03,320",1319.12,1323.32,4.2000000000000455,Ansonsten bleibt 1/4 dar.
+315,"00:22:03,360","00:22:05,720",1323.36,1325.72,2.3600000000001273,"Ein Teil wird vom Ozean aufgenommen,"
+316,"00:22:05,720","00:22:08,120",1325.72,1328.12,2.3999999999998636,ein Teil geht in dem Land Biosphäre.
+317,"00:22:08,120","00:22:10,280",1328.12,1330.28,2.160000000000082,1/4 bleibt.
+318,"00:22:10,280","00:22:13,040",1330.28,1333.04,2.759999999999991,"Das bedeutet auch,"
+319,"00:22:13,080","00:22:16,240",1333.08,1336.24,3.160000000000082,netto müssen wir auf 0 kommen.
+320,"00:22:16,240","00:22:21,640",1336.24,1341.64,5.400000000000091,"Es gibt die Illusion,"
+321,"00:22:23,320","00:22:28,840",1343.32,1348.84,5.519999999999982,"die Hälfte der Emissionen wird vom Ozean und Land aufgenommen,"
+322,"00:22:28,840","00:22:32,440",1348.84,1352.44,3.6000000000001364,"dann müssen wir nur die Hälfte reduzieren,"
+323,"00:22:32,480","00:22:35,840",1352.48,1355.84,3.3599999999999,dann haben wir ein stabiles Gleichgewicht erreicht.
+324,"00:22:35,880","00:22:38,000",1355.88,1358.0,2.119999999999891,Das ist wirklich eine Illusion.
+325,"00:22:38,000","00:22:40,240",1358.0,1360.24,2.240000000000009,Scheint plausibel ist aber falsch.
+326,"00:22:40,280","00:22:45,760",1360.28,1365.76,5.480000000000018,"Um den Temperaturanstieg zu stoppen,"
+327,"00:22:45,800","00:22:48,440",1365.8,1368.44,2.6400000000001,"hilft nur die CO2-Emissionen zu stoppen,"
+328,"00:22:48,480","00:22:53,240",1368.48,1373.24,4.759999999999991,sie auf 0 zu bringen.
+329,"00:22:53,240","00:22:55,680",1373.24,1375.68,2.4400000000000546,Die müssen aktiv rausgenommen werden.
+330,"00:22:55,720","00:23:00,440",1375.72,1380.44,4.720000000000027,"Es muss alles auf Null, überall."
+331,"00:23:00,440","00:23:03,440",1380.44,1383.44,3.0,"In jedem Land, in jeder Sozialisation."
+332,"00:23:03,440","00:23:06,120",1383.44,1386.12,2.6799999999998363,ML: Wie machen Sie das jetzt?
+333,"00:23:06,120","00:23:09,560",1386.12,1389.56,3.4400000000000546,CO2-Emissionen auf 0.
+334,"00:23:09,560","00:23:15,120",1389.56,1395.12,5.559999999999945,Wie entwickelt man das?
+335,"00:23:18,440","00:23:23,720",1398.44,1403.72,5.279999999999973,"BP: was tun Sie bei der Hitze, das war die eine Frage,..."
+336,"00:23:23,720","00:23:26,240",1403.72,1406.24,2.519999999999982,Dann kommen wir auf die andere Frage.
+337,"00:23:26,280","00:23:29,400",1406.28,1409.4,3.1200000000001182,Ich kann nicht beide gleichzeitig beantworten.
+338,"00:23:29,400","00:23:30,400",1409.4,1410.4,1.0,Sind 2 Themen.
+339,"00:23:30,400","00:23:33,120",1410.4,1413.12,2.7199999999998,"Wir haben einige günstige Voraussetzungen,"
+340,"00:23:33,120","00:23:35,920",1413.12,1415.92,2.800000000000182,dadurch habe geringere Temperaturen.
+341,"00:23:35,920","00:23:40,280",1415.92,1420.28,4.3599999999999,"Wir haben eine starke durch Gründung,"
+342,"00:23:40,280","00:23:47,480",1420.28,1427.48,7.2000000000000455,weil die Stadt auf 2 Tellern und 7 Hügeln liegt.
+343,"00:23:48,680","00:23:51,400",1428.68,1431.4,2.7200000000000273,Trotzdem investieren wir in Siegelungen.
+344,"00:23:51,440","00:23:57,160",1431.44,1437.16,5.720000000000027,Wir versuchen Bäume in die Stadt reinzubringen.
+345,"00:23:57,200","00:24:03,560",1437.2,1443.56,6.3599999999999,Wir stellen neue Wasserflächen her.
+346,"00:24:03,800","00:24:05,680",1443.8,1445.68,1.8800000000001091,"Wasser, sprühen Nebel,"
+347,"00:24:05,720","00:24:09,800",1445.72,1449.8,4.079999999999927,adäquate Möglichkeiten Kühlung zu verschaffen.
+348,"00:24:09,800","00:24:13,720",1449.8,1453.72,3.9200000000000728,Es gibt jetzt auch Konzepte für Hitzeschutzräume.
+349,"00:24:13,760","00:24:18,720",1453.76,1458.72,4.960000000000036,"Zum Beispiel ein Fußgängertunnel,"
+350,"00:24:18,720","00:24:20,160",1458.72,1460.16,1.4400000000000546,da ist es am klügsten.
+351,"00:24:23,760","00:24:26,680",1463.76,1466.68,2.9200000000000728,Das kann man sich als Schutzraum vorstellen.
+352,"00:24:26,720","00:24:30,880",1466.72,1470.88,4.160000000000082,"Um ehrlich zu sein,"
+353,"00:24:30,880","00:24:37,680",1470.88,1477.68,6.7999999999999545,das sind nicht beherrschbaren Situationen.
+354,"00:24:38,720","00:24:41,360",1478.72,1481.36,2.6399999999998727,Amerika ist kein unterentwickeltes Land
+355,"00:24:41,400","00:24:45,880",1481.4,1485.88,4.480000000000018,und das Ahrtal...
+356,"00:24:45,880","00:24:53,200",1485.88,1493.2,7.319999999999936,Wie kriege es auch nicht vollständig in den Griff.
+357,"00:24:54,360","00:24:57,400",1494.36,1497.4,3.040000000000191,"Sie können die Rückhaltebecken so hoch bauen,"
+358,"00:24:57,400","00:24:59,920",1497.4,1499.92,2.519999999999982,dass es nicht durchkommt.
+359,"00:24:59,920","00:25:02,280",1499.92,1502.28,2.3599999999999,Das ist nicht zu machen.
+360,"00:25:02,280","00:25:06,040",1502.28,1506.04,3.759999999999991,"Sie müssen die Stadt abreißen, um das auszuschließen."
+361,"00:25:06,040","00:25:09,400",1506.04,1509.4,3.3600000000001273,"Wenn ich so etwas sehe, sehe ich große Sorgen,"
+362,"00:25:09,400","00:25:13,120",1509.4,1513.12,3.7199999999998,weil wir das in Tübingen auch nicht schamlos überstehen.
+363,"00:25:13,120","00:25:18,840",1513.12,1518.84,5.720000000000027,Zum Thema Klimaanpassung:
+364,"00:25:22,120","00:25:24,560",1522.12,1524.56,2.4400000000000546,"die ganze Stadt es in Gewässern,"
+365,"00:25:24,560","00:25:28,720",1524.56,1528.72,4.160000000000082,"wir haben Dämme gebaut,"
+366,"00:25:28,720","00:25:33,120",1528.72,1533.12,4.399999999999864,"wir haben eine Sperre errichtet, für den Abfluss nach unten."
+367,"00:25:33,120","00:25:35,640",1533.12,1535.64,2.520000000000209,"Da ist sehr viel Geld rein geflossen,"
+368,"00:25:35,640","00:25:38,440",1535.64,1538.44,2.7999999999999545,damit sind wir fertig.
+369,"00:25:38,440","00:25:41,480",1538.44,1541.48,3.0399999999999636,"Wenn man auf die Meteorologen vertrauen kann,"
+370,"00:25:41,520","00:25:46,360",1541.52,1546.36,4.839999999999918,"bleibt das 100-jährige Hochwasser,"
+371,"00:25:46,360","00:25:49,560",1546.36,1549.56,3.2000000000000455,gegen das tausendjährige haben wir keine Chance.
+372,"00:25:49,560","00:25:55,160",1549.56,1555.16,5.600000000000136,Wechselnde zur 2. Frage.
+373,"00:25:58,920","00:26:04,920",1558.92,1564.92,6.0,Ich will nicht Monologiesieren
+374,"00:26:08,160","00:26:13,680",1568.16,1573.68,5.519999999999982,ich mache eine Vorbemerkung zu Friedrich Merz.
+375,"00:26:13,680","00:26:17,560",1573.68,1577.56,3.8799999999998818,"Ein Prozent der Weltbevölkerung, ein Prozent der Emulsion,"
+376,"00:26:17,560","00:26:24,000",1577.56,1584.0,6.440000000000055,jetzt gibt es folgenden Zusammenhang.
+377,"00:26:28,960","00:26:32,440",1588.96,1592.44,3.480000000000018,"Langfristiges Wirtschaften wird nicht funktionieren,"
+378,"00:26:32,440","00:26:34,360",1592.44,1594.36,1.9199999999998454,wenn man das Klima zerstört.
+379,"00:26:34,360","00:26:40,680",1594.36,1600.68,6.320000000000164,"Es ist einfach zu teuer, das hat sie erkannt."
+380,"00:26:40,680","00:26:45,280",1600.68,1605.28,4.599999999999909,"Was sie noch akzeptieren muss ist, dass das langfristige Klimaschutz"
+381,"00:26:45,280","00:26:48,400",1605.28,1608.4,3.1200000000001182,"nicht funktioniert,"
+382,"00:26:48,400","00:26:52,120",1608.4,1612.12,3.7199999999998,"wir machen bewusst Schrumpfungen von Deutschland,"
+383,"00:26:52,120","00:26:57,040",1612.12,1617.04,4.920000000000073,"damit Klimaschaden in Verbindung steht,"
+384,"00:26:57,080","00:27:00,000",1617.08,1620.0,2.9200000000000728,"dann gucken wir in die Welt und fragen uns,"
+385,"00:27:00,000","00:27:01,720",1620.0,1621.72,1.7200000000000273,werden die das nachmachen.
+386,"00:27:01,720","00:27:06,520",1621.72,1626.52,4.7999999999999545,"Nein, natürlich nicht."
+387,"00:27:06,520","00:27:10,520",1626.52,1630.52,4.0,"Meine Ideen Tübingen war,"
+388,"00:27:10,520","00:27:13,600",1630.52,1633.6,3.0799999999999272,wir müssen eine WIN-WIN-Situation herstellen.
+389,"00:27:13,600","00:27:17,240",1633.6,1637.24,3.6400000000001,"Wir müssen es schaffen, dass Wirtschaft, Lebensqualität"
+390,"00:27:17,280","00:27:19,360",1637.28,1639.36,2.0799999999999272,gemeinsam funktioniert.
+391,"00:27:19,360","00:27:24,600",1639.36,1644.6,5.240000000000009,So muss man denken.
+392,"00:27:25,080","00:27:29,000",1645.08,1649.0,3.9200000000000728,Das haben wir erreicht.
+393,"00:27:29,000","00:27:36,240",1649.0,1656.24,7.240000000000009,"45 % mehr Arbeitsplätze, 45 % weniger Emissionen."
+394,"00:27:37,560","00:27:44,480",1657.56,1664.48,6.920000000000073,"Wir haben eine Verpackungssteuer eingeführt,"
+395,"00:27:48,840","00:27:56,440",1668.84,1676.44,7.600000000000136,"320.000 Pappbecher, da zahlen Sie 15 Cent Steuer drauf."
+396,"00:27:58,120","00:28:01,240",1678.12,1681.24,3.1200000000001182,Wir haben Investitionen von 90 Euro pro Kopf
+397,"00:28:01,240","00:28:06,160",1681.24,1686.16,4.920000000000073,in die Radinfrastruktur seit Jahren gemacht.
+398,"00:28:06,160","00:28:13,480",1686.16,1693.48,7.319999999999936,15 mal mehr als durchschnittliche deutsche Städte.
+399,"00:28:14,640","00:28:19,360",1694.64,1699.36,4.7199999999998,Der Radverkehr Anteil hat sich auf 50 % erhöht in 10 Jahren.
+400,"00:28:19,360","00:28:22,600",1699.36,1702.6,3.240000000000009,Autoverkehr ist runtergegangen um fast 17 %. Wir
+401,"00:28:22,600","00:28:27,720",1702.6,1707.72,5.120000000000118,haben in Tübingen
+402,"00:28:30,400","00:28:34,520",1710.4,1714.52,4.119999999999891,das Deutschland Ticket mit städtischen Geldern subventioniert.
+403,"00:28:34,520","00:28:37,160",1714.52,1717.16,2.6400000000001,13 Euro billiger als in anderen Städten.
+404,"00:28:37,160","00:28:41,560",1717.16,1721.56,4.399999999999864,Wir finanzieren das aus den Einnahmen der Anwohner Parkgebühren.
+405,"00:28:41,560","00:28:44,160",1721.56,1724.16,2.6000000000001364,"Es gehört in Tübingen 300 Euro im Jahr,"
+406,"00:28:44,200","00:28:47,040",1724.2,1727.04,2.839999999999918,das Geld kriegt der Bus Nutzer.
+407,"00:28:47,040","00:28:50,400",1727.04,1730.4,3.3600000000001273,ML: Vorbild Paris?
+408,"00:28:50,400","00:28:56,800",1730.4,1736.8,6.399999999999864,BP: Wir haben es zeitgleich gemacht.
+409,"00:28:58,400","00:29:01,320",1738.4,1741.32,2.9199999999998454,"Für Gäste von außen ist es noch mal anders,"
+410,"00:29:01,320","00:29:06,280",1741.32,1746.28,4.960000000000036,"für die für die eigenen Bürger, sie müssen bezahlen."
+411,"00:29:06,280","00:29:10,040",1746.28,1750.04,3.759999999999991,BP: überwiegend positiv. Die Nutzungszahlen...
+412,"00:29:10,040","00:29:16,680",1750.04,1756.68,6.6400000000001,"Es gibt Leute, die sich darüber aufregen, böse Briefe schreiben."
+413,"00:29:16,760","00:29:20,720",1756.76,1760.72,3.9600000000000364,"Das Konzept, über die Autos finanzieren wir den Busverkehr,"
+414,"00:29:20,760","00:29:26,160",1760.76,1766.16,5.400000000000091,machen den attraktiv -
+415,"00:29:28,480","00:29:32,440",1768.48,1772.44,3.9600000000000364,"der eine Fläche für sich beansprucht,soll ungefähr so viel"
+416,"00:29:32,480","00:29:38,240",1772.48,1778.24,5.759999999999991,zahlen wie auf einem Markt.
+417,"00:29:40,280","00:29:44,280",1780.28,1784.28,4.0,Solche Argumente kann man in einer grüne Stadt wie Tübingen
+418,"00:29:44,320","00:29:45,600",1784.32,1785.6,1.2799999999999727,durch Ausstellung.
+419,"00:29:45,680","00:29:49,240",1785.68,1789.24,3.5599999999999454,"Es sind Schritte, um die Lebensqualität zu verbessern."
+420,"00:29:49,320","00:29:52,920",1789.32,1792.92,3.6000000000001364,Weniger Autos in der Stadt sind bessere Lebensqualität.
+421,"00:29:52,960","00:30:00,120",1792.96,1800.12,7.1599999999998545,Und gleichzeitig den Klimaschutz voranzutreiben.
+422,"00:30:05,320","00:30:08,920",1805.32,1808.92,3.6000000000001364,"AB: Es geht ein bisschen dahin, was sie in ihrem Buch beschreiben."
+423,"00:30:09,040","00:30:12,440",1809.04,1812.44,3.400000000000091,"Es ist schon ein bisschen her. Ich fand das gut, weil es mal ein"
+424,"00:30:12,520","00:30:18,400",1812.52,1818.4,5.880000000000109,"anderer Ton war in der Debatte, morgen geht die Welt unter."
+425,"00:30:18,440","00:30:22,880",1818.44,1822.88,4.440000000000055,"""Man kann damit keine Kinder groß ziehen, keine Zukunft gestalten."""
+426,"00:30:22,920","00:30:30,600",1822.92,1830.6,7.679999999999836,"Man muss versuchen, trotz allem optimistisch zu bleiben."
+427,"00:30:32,680","00:30:40,600",1832.68,1840.6,7.919999999999845,"Sie beschreiben eine schöne Geschichte, wie sie mit ihrem Sohn,"
+428,"00:30:40,680","00:30:43,720",1840.68,1843.72,3.0399999999999636,"der sich Sorgen macht, weil in Schulen Kindern"
+429,"00:30:43,800","00:30:47,600",1843.8,1847.6,3.7999999999999545,"das Gefühl vermittelt wird, morgen geht die Welt unter..."
+430,"00:30:47,640","00:30:53,200",1847.64,1853.2,5.559999999999945,Was war der Anlass dafür?
+431,"00:30:53,280","00:30:57,480",1853.28,1857.48,4.2000000000000455,"AB: Klimawandel ist ein wichtiges Thema, deswegen finde ich es,"
+432,"00:30:57,520","00:31:00,280",1857.52,1860.28,2.759999999999991,"so schwierig, wenn es so vermittelt wird."
+433,"00:31:00,320","00:31:04,720",1860.32,1864.72,4.400000000000091,"Mein Sohn stand vor mir hat gesagt, wenn der Meeresspiegel steigt,"
+434,"00:31:04,880","00:31:08,840",1864.88,1868.84,3.959999999999809,"sterben wir. Ich habe mich gefragt, wo hat er das her?"
+435,"00:31:08,880","00:31:12,640",1868.88,1872.64,3.759999999999991,"Ausgerechnet mein Sohn, ich dachte, der wäre aufgeklärt."
+436,"00:31:12,680","00:31:16,520",1872.68,1876.52,3.839999999999918,"Er war sich ganz sicher, dass das so sein wird."
+437,"00:31:16,600","00:31:17,920",1876.6,1877.92,1.3200000000001637,"Er stellte sich vor,"
+438,"00:31:18,000","00:31:23,880",1878.0,1883.88,5.880000000000109,dass wir am Strand stehen und er wird vom Meer verschluckt.
+439,"00:31:23,920","00:31:28,920",1883.92,1888.92,5.0,"Ich bin mit ihm in Hamburg, wo wir wohnen,"
+440,"00:31:28,960","00:31:33,120",1888.96,1893.12,4.1599999999998545,an die Elbe gefahren und habe ihm Küstenschutzanlagen gezeigt.
+441,"00:31:33,200","00:31:37,040",1893.2,1897.04,3.839999999999918,"Er hatte nicht gesehen, die sind im Stadtbild eingebaut."
+442,"00:31:37,120","00:31:41,280",1897.12,1901.28,4.160000000000082,"Smarte Brücken und Tore,"
+443,"00:31:41,360","00:31:44,320",1901.36,1904.32,2.9600000000000364,"die man nicht sieht,"
+444,"00:31:44,360","00:31:50,120",1904.36,1910.12,5.759999999999991,die bei Gefahr hoch gelassen oder runter gelassen werden.
+445,"00:31:50,200","00:31:55,400",1910.2,1915.4,5.2000000000000455,"Ich sagte, wenn ihr eine Flut kommt, passiert nichts."
+446,"00:31:55,480","00:32:00,160",1915.48,1920.16,4.680000000000064,Das stimmt.
+447,"00:32:00,240","00:32:02,360",1920.24,1922.36,2.119999999999891,2013 bei Nordseeflut in Hamburg.
+448,"00:32:02,440","00:32:07,560",1922.44,1927.56,5.119999999999891,Die war auf 72 cm.
+449,"00:32:10,280","00:32:13,680",1930.28,1933.68,3.400000000000091,"Soviel Zerstörung, damals, die Helmut Schmidt Flut."
+450,"00:32:13,720","00:32:15,840",1933.72,1935.84,2.119999999999891,In den sechzigern.
+451,"00:32:15,920","00:32:21,640",1935.92,1941.64,5.720000000000027,"2013, die gleiche Höhe der Flut,"
+452,"00:32:21,720","00:32:26,320",1941.72,1946.32,4.599999999999909,nichts ist passiert. Die Elbe ist kanalisiert worden in die Hafencity.
+453,"00:32:26,360","00:32:32,280",1946.36,1952.28,5.920000000000073,ML: Niemand ist ums Leben gekommen.
+454,"00:32:32,360","00:32:35,000",1952.36,1955.0,2.6400000000001,AB: Genau. Und es gab auch kaum Schäden.
+455,"00:32:35,080","00:32:36,480",1955.08,1956.48,1.400000000000091,"Es ist so kanalisiert,"
+456,"00:32:36,520","00:32:39,160",1956.52,1959.16,2.6400000000001,dass sie Tore dicht sind.
+457,"00:32:39,240","00:32:43,520",1959.24,1963.52,4.279999999999973,"Es ist sehr teuer, aber konsequent durchgezogen."
+458,"00:32:43,600","00:32:46,600",1963.6,1966.6,3.0,"Auch, was Küstenschutz angeht,"
+459,"00:32:46,680","00:32:52,000",1966.68,1972.0,5.319999999999936,"ist Deutschland sehr gut, an der Nordsee."
+460,"00:32:52,080","00:32:58,880",1972.08,1978.88,6.800000000000182,Da es Deutschland wirklich gut vorbereitet.
+461,"00:33:02,560","00:33:05,000",1982.56,1985.0,2.4400000000000546,"Deichbau ist eine jahrhundertealte,"
+462,"00:33:05,080","00:33:10,600",1985.08,1990.6,5.519999999999982,tradierte Ingenieurskunst in Deutschland.
+463,"00:33:10,680","00:33:16,640",1990.68,1996.64,5.960000000000036,"Es ist oft effektiver, lokale Probleme zu lösen."
+464,"00:33:16,720","00:33:20,840",1996.72,2000.84,4.119999999999891,Mein Sohn war beeindruckt.
+465,"00:33:20,920","00:33:26,600",2000.92,2006.6,5.679999999999836,"Er hat lange davon geredet, dass wir sicher sind."
+466,"00:33:26,680","00:33:33,480",2006.68,2013.48,6.7999999999999545,Das Wasser kommt ja nicht zu uns ins Haus.
+467,"00:33:33,600","00:33:36,720",2013.6,2016.72,3.1200000000001182,"ML: Wenn man was über Wasser verstehen möchte,"
+468,"00:33:36,760","00:33:40,000",2016.76,2020.0,3.240000000000009,muss man Niederländer Fragen.
+469,"00:33:40,080","00:33:44,880",2020.08,2024.88,4.800000000000182,AB: Ich habe vor drei Jahren mit jemandem gesprochen -
+470,"00:33:44,960","00:33:50,760",2024.96,2030.76,5.7999999999999545,die Niederlande liegen zu einem Drittel unter dem Meeresspiegel
+471,"00:33:50,840","00:33:55,600",2030.84,2035.6,4.759999999999991,und sind trotzdem das bestgeschützte Land.
+472,"00:33:55,640","00:34:00,520",2035.64,2040.52,4.879999999999882,Er sagte mir...
+473,"00:34:00,600","00:34:08,000",2040.6,2048.0,7.400000000000091,"Er sagte es, wenn entweder das sagt. Es wäre möglich."
+474,"00:34:09,000","00:34:11,120",2049.0,2051.12,2.119999999999891,"Es gibt eine Vorstellung davon,"
+475,"00:34:11,160","00:34:16,400",2051.16,2056.4,5.2400000000002365,wie fortgeschritten die Niederlande sind.
+476,"00:34:16,480","00:34:19,840",2056.48,2059.84,3.3600000000001273,Darauf will ich in meinem Buch immer wieder zurück.
+477,"00:34:19,920","00:34:24,040",2059.92,2064.04,4.119999999999891,Fortschritt ist wichtig.
+478,"00:34:24,120","00:34:26,800",2064.12,2066.8,2.680000000000291,"Nicht glauben, wir werden alle umkommen."
+479,"00:34:26,840","00:34:31,120",2066.84,2071.12,4.279999999999745,"Sondern, dass man versucht, die Probleme zu lösen."
+480,"00:34:31,160","00:34:38,720",2071.16,2078.72,7.559999999999945,MG: Ich würde gerne drei Sachen miteinander verbinden.
+481,"00:34:41,280","00:34:48,320",2081.28,2088.32,7.039999999999964,"Konsequent durchgezogen, technologie -Sprünge."
+482,"00:34:49,800","00:34:56,360",2089.8,2096.36,6.559999999999945,"Wir versuchen, nur Geschichten des Gelingens klarzumachen."
+483,"00:34:56,440","00:35:00,320",2096.44,2100.32,3.880000000000109,"Paris, das hatte ich in meinem letzten Buch als Innovation."
+484,"00:35:00,360","00:35:05,280",2100.36,2105.28,4.920000000000073,Paris ist faszinierend.
+485,"00:35:05,360","00:35:07,960",2105.36,2107.96,2.599999999999909,"ML: Können Sie das erklären,"
+486,"00:35:08,000","00:35:11,760",2108.0,2111.76,3.7600000000002183,weil es in dem Zusammenhang wahnsinnig interessant sind.
+487,"00:35:11,840","00:35:13,480",2111.84,2113.48,1.6399999999998727,Es sind so viele Menschen.
+488,"00:35:13,600","00:35:16,480",2113.6,2116.48,2.880000000000109,Paris ist eine andere Dimension als Tübingen.
+489,"00:35:16,560","00:35:19,360",2116.56,2119.36,2.800000000000182,"Das schwieriger, das zu skalieren."
+490,"00:35:19,440","00:35:25,000",2119.44,2125.0,5.559999999999945,Wie haben Sie es gemacht?
+491,"00:35:26,720","00:35:31,320",2126.72,2131.32,4.600000000000364,"MG: Das kluge ist, dass wir ansetzen an den kurzfristigen Bedürfnissen"
+492,"00:35:31,400","00:35:36,320",2131.4,2136.32,4.920000000000073,von Menschen.
+493,"00:35:37,520","00:35:41,200",2137.52,2141.2,3.6799999999998363,Deswegen ist die Bürgermeisterin von Paris hingegangen
+494,"00:35:41,280","00:35:45,240",2141.28,2145.24,3.9599999999995816,"und hat gesagt, wir machen eine 15 Minuten statt."
+495,"00:35:45,360","00:35:50,440",2145.36,2150.44,5.079999999999927,"Weil die Pariserinnen und Pariser haben gesagt,"
+496,"00:35:50,480","00:35:54,160",2150.48,2154.16,3.6799999999998363,sie arbeite nur noch oder sitzen im Stau oder schlafen.
+497,"00:35:54,240","00:35:56,800",2154.24,2156.8,2.5600000000004,Das ist nicht Lebensqualität. In Berlin
+498,"00:35:56,880","00:35:59,880",2156.88,2159.88,3.0,kann ich das Fahrrad empfehlen.
+499,"00:35:59,960","00:36:04,200",2159.96,2164.2,4.239999999999782,"Sie hat gesagt, wir müssen räumlich denken."
+500,"00:36:04,280","00:36:08,120",2164.28,2168.12,3.8399999999996908,"Das ist eine von diesen Gewinnsstrategien,"
+501,"00:36:08,200","00:36:11,400",2168.2,2171.4,3.200000000000273,dass wir nicht in Abteilungen denken.
+502,"00:36:11,480","00:36:15,520",2171.48,2175.52,4.039999999999964,Wie kriegen wir räumlich das beste Design hin.
+503,"00:36:15,640","00:36:20,720",2175.64,2180.72,5.079999999999927,"Die Notwendigkeit,"
+504,"00:36:20,800","00:36:23,720",2180.8,2183.72,2.919999999999618,"sich über große Distanzen hinweg zu bewegen,"
+505,"00:36:23,800","00:36:30,800",2183.8,2190.8,7.0,wie können wir das auf 15 Minuten reduzieren.
+506,"00:36:33,480","00:36:37,120",2193.48,2197.12,3.6399999999998727,"ML: Man bleibt in seinem Quartier,"
+507,"00:36:37,160","00:36:43,360",2197.16,2203.36,6.200000000000273,ist in seiner eigenen Kleinstadt.
+508,"00:36:46,160","00:36:53,680",2206.16,2213.68,7.519999999999982,BP: In Deutschland ist das die Stadt der kurzen Wege.
+509,"00:36:56,080","00:36:59,400",2216.08,2219.4,3.3200000000001637,"MG: Mit seiner Vorstellungskraft Sven beschränkt,"
+510,"00:36:59,440","00:37:01,800",2219.44,2221.8,2.3600000000001273,weil man die veränderten Lebensstile
+511,"00:37:01,880","00:37:05,320",2221.88,2225.32,3.4400000000000546,in den gleichen Strukturen wie heute sich vorstellt.
+512,"00:37:05,400","00:37:07,600",2225.4,2227.6,2.199999999999818,Dann wird es teuer und aufwendig.
+513,"00:37:07,640","00:37:09,880",2227.64,2229.88,2.2400000000002365,"Dabei ist der Innovationsprozess,"
+514,"00:37:09,920","00:37:12,400",2229.92,2232.4,2.480000000000018,dass wir unser Leben umstrukturieren.
+515,"00:37:12,480","00:37:16,600",2232.48,2236.6,4.119999999999891,Dann wird Klimaschutz weiter. Das war politisch durchhalten.
+516,"00:37:16,680","00:37:24,280",2236.68,2244.28,7.600000000000364,"ML: Wärmepumpe, wenn es um Wärme geht. Ein Riesenthema."
+517,"00:37:24,440","00:37:31,280",2244.44,2251.28,6.8400000000001455,Wärmewende müssen wir noch richtig angehen.
+518,"00:37:37,200","00:37:43,160",2257.2,2263.16,5.960000000000036,BP: In den Kommunen haben wir drei Wenden zu schaffen.
+519,"00:37:43,240","00:37:48,920",2263.24,2268.92,5.680000000000291,"Stromwände, Verkehrs Wende."
+520,"00:37:53,720","00:37:57,840",2273.72,2277.84,4.120000000000346,Übernächstes Jahr werden wir 100 % des Gesamtbeiträgen Stroms
+521,"00:37:57,920","00:38:04,600",2277.92,2284.6,6.679999999999836,in Tübingen aus Wind und Wasser beziehen.
+522,"00:38:07,160","00:38:11,400",2287.16,2291.4,4.2400000000002365,Bei der Wärme setzen wir auf Fern- und Nahwärme.
+523,"00:38:11,440","00:38:14,600",2291.44,2294.6,3.1599999999998545,Wir haben ein großes Gaskraftwerk in der Stadt.
+524,"00:38:14,640","00:38:17,560",2294.64,2297.56,2.9200000000000728,"Die Wärmepumpe ist umso effektiver,"
+525,"00:38:17,640","00:38:25,160",2297.64,2305.16,7.519999999999982,desto mehr man an Wärme aus der Umwelt abgreifen kann.
+526,"00:38:25,880","00:38:29,520",2305.88,2309.52,3.6399999999998727,"Aus der Kläranlage fließt warmes Wasser in die Neckar,"
+527,"00:38:29,640","00:38:31,520",2309.64,2311.52,1.8800000000001091,das ist eine gute Wärmequelle.
+528,"00:38:31,600","00:38:34,280",2311.6,2314.28,2.680000000000291,Aus einer Wärmepumpe kann man das nehmen.
+529,"00:38:34,360","00:38:40,600",2314.36,2320.6,6.239999999999782,"Wir sind dabei, das Netz umzubauen."
+530,"00:38:43,640","00:38:48,720",2323.64,2328.72,5.079999999999927,"Wir brauchen ein Backbone-Netz,"
+531,"00:38:48,760","00:38:51,840",2328.76,2331.84,3.0799999999999272,damit die Wärme außerhalb der Stadt produziert
+532,"00:38:51,920","00:38:58,040",2331.92,2338.04,6.119999999999891,und in die statt hinein gebracht werden kann.
+533,"00:38:58,120","00:39:05,760",2338.12,2345.76,7.640000000000327,"Ich würde gerne das Land Baden-Württemberg dazu bringen,"
+534,"00:39:05,840","00:39:08,280",2345.84,2348.28,2.4400000000000546,mit unserer Stadt gemeinsam zu bauen.
+535,"00:39:08,400","00:39:11,440",2348.4,2351.44,3.0399999999999636,Die Universität hängt an unserem Wärmenetz dran.
+536,"00:39:11,520","00:39:15,120",2351.52,2355.12,3.599999999999909,"Das zuständige Ministerium hat mir mitgeteilt,"
+537,"00:39:15,200","00:39:20,920",2355.2,2360.92,5.720000000000255,dass ist rechtlich nicht zulässig.
+538,"00:39:21,000","00:39:26,040",2361.0,2366.04,5.039999999999964,"Der Ministerpräsident hat mir gesagt, er unterstützt mich."
+539,"00:39:26,120","00:39:33,120",2366.12,2373.12,7.0,"Wir stecken in der Bürokratie fest, im Moment."
+540,"00:39:37,720","00:39:42,760",2377.72,2382.76,5.040000000000418,"MG: Gibt es keine Abnahmegarantien, da eine Land hereinzuholen."
+541,"00:39:42,840","00:39:49,080",2382.84,2389.08,6.239999999999782,ML: Das diskutieren wir nach der Sendung.
+542,"00:39:49,160","00:39:56,480",2389.16,2396.48,7.320000000000164,"Diese Ohren, da haben wir schon einmal darüber gesprochen."
+543,"00:39:56,560","00:40:00,680",2396.56,2400.68,4.119999999999891,"Die Frage ist, warum machen wir das nicht überall?"
+544,"00:40:00,760","00:40:04,360",2400.76,2404.36,3.599999999999909,"Autobahnkreuze, landschaftlich schön ist das eh nicht."
+545,"00:40:04,440","00:40:08,520",2404.44,2408.52,4.079999999999927,Dann könnte man das überall machen.
+546,"00:40:08,600","00:40:14,280",2408.6,2414.28,5.680000000000291,BP: Mittlerweile ist es zehnmal so groß.
+547,"00:40:14,360","00:40:17,920",2414.36,2417.92,3.5599999999999454,"Ich war in Darmstadt, da ist so ein Ohr komplett leer."
+548,"00:40:18,040","00:40:19,920",2418.04,2419.92,1.8800000000001091,Die Fläche wird nicht genutzt.
+549,"00:40:20,000","00:40:25,760",2420.0,2425.76,5.760000000000218,Da gibt es Tausende solche Flächen.
+550,"00:40:25,840","00:40:28,280",2425.84,2428.28,2.4400000000000546,"Ich hätte gern ein einfaches Gesetz,"
+551,"00:40:28,360","00:40:35,480",2428.36,2435.48,7.119999999999891,"wo drin steht, darf man Solaranlagen hinstellen."
+552,"00:40:36,240","00:40:39,440",2436.24,2439.44,3.200000000000273,"Die Hauptaufgabe des Oberbürgermeisters ist es,"
+553,"00:40:39,520","00:40:43,160",2439.52,2443.16,3.6399999999998727,"zu gucken, wie man die Vorschriften möglichst ignoriert."
+554,"00:40:43,240","00:40:48,680",2443.24,2448.68,5.440000000000055,Sonst kommt man nicht zum Ziel.
+555,"00:40:48,760","00:40:51,200",2448.76,2451.2,2.4399999999996,"Den Satz sage ich offiziell und laut,"
+556,"00:40:51,280","00:40:57,720",2451.28,2457.72,6.4399999999996,damit die Bürokratie vereinfacht wird.
+557,"00:40:58,200","00:41:00,960",2458.2,2460.96,2.7600000000002183,ML: Wie ist das bei Ihnen?
+558,"00:41:01,000","00:41:04,240",2461.0,2464.24,3.2399999999997817,"Ich verstehe nie so richtig,"
+559,"00:41:04,360","00:41:10,960",2464.36,2470.96,6.599999999999909,warum wir immer den harten Konflikt aufmachen.
+560,"00:41:11,080","00:41:13,760",2471.08,2473.76,2.680000000000291,Entweder Klimaschutz oder Wirtschaft.
+561,"00:41:13,880","00:41:17,560",2473.88,2477.56,3.6799999999998363,Entweder Solarpaneele oder Business.
+562,"00:41:17,640","00:41:22,800",2477.64,2482.8,5.160000000000309,"Die Chinesen zum Beispiel zeigen, dass beides gut zusammen geht."
+563,"00:41:22,880","00:41:30,200",2482.88,2490.2,7.319999999999709,"Ich will nicht sagen, dass er das aus altruistischen Gründen machen."
+564,"00:41:30,320","00:41:33,200",2490.32,2493.2,2.8799999999996544,"Die Chinesen bauen erneuerbare Energien aus,"
+565,"00:41:33,280","00:41:37,080",2493.28,2497.08,3.799999999999727,jedes Jahr doppelt so viel wie der Rest der Welt zusammen.
+566,"00:41:37,160","00:41:41,240",2497.16,2501.24,4.079999999999927,"Über 1100 Kohlekraftwerke,"
+567,"00:41:41,320","00:41:49,520",2501.32,2509.52,8.199999999999818,an 20 neuen bauen die Chinesen gerade. Das ist die andere Seite.
+568,"00:41:54,600","00:41:57,760",2514.6,2517.76,3.1600000000003092,Sie haben immer noch die größten CO2-Ausschüsse.
+569,"00:41:57,880","00:42:05,040",2517.88,2525.04,7.1599999999998545,"Wenn Friedrich Merz so etwas sagt, wie geht es Ihnen dann?"
+570,"00:42:05,120","00:42:08,440",2525.12,2528.44,3.3200000000001637,"MG: Wenn alle so argumentieren wie Friedrich Merz,"
+571,"00:42:08,520","00:42:10,360",2528.52,2530.36,1.8400000000001455,dann können wir es vergessen.
+572,"00:42:10,480","00:42:12,760",2530.48,2532.76,2.2800000000002,"Dann ist es, wir lehnen uns zurück,"
+573,"00:42:12,880","00:42:15,320",2532.88,2535.32,2.4400000000000546,bis sie anderen anfangen zu arbeiten.
+574,"00:42:15,400","00:42:17,520",2535.4,2537.52,2.119999999999891,"Das ist nicht das, was passiert."
+575,"00:42:17,600","00:42:21,280",2537.6,2541.28,3.680000000000291,Was über China erwähnen -
+576,"00:42:21,400","00:42:23,800",2541.4,2543.8,2.400000000000091,"die Signale, die von der kommen sind,"
+577,"00:42:23,880","00:42:28,720",2543.88,2548.72,4.839999999999691,"dass man Donald Trump aussteigt,"
+578,"00:42:28,800","00:42:31,160",2548.8,2551.16,2.3599999999996726,dann ist die europäische Union
+579,"00:42:31,240","00:42:39,360",2551.24,2559.36,8.120000000000346,bitte der andere Stabilitätsanker bei der chinesischen Planung.
+580,"00:42:47,440","00:42:50,360",2567.44,2570.36,2.9200000000000728,Ich bin in einem chinesisch-deutschen Dialog
+581,"00:42:50,440","00:42:52,760",2570.44,2572.76,2.3200000000001637,vom auswärtigen Amt drin.
+582,"00:42:52,840","00:42:56,280",2572.84,2576.28,3.4400000000000546,"Elektrifizierung und der erneuerbaren sind flexibler,"
+583,"00:42:56,360","00:43:02,440",2576.36,2582.44,6.079999999999927,schaffen weniger Abhängigkeiten.
+584,"00:43:04,160","00:43:07,880",2584.16,2587.88,3.7200000000002547,"D. h., bei ihnen ist die Elektrifizierung komplett das,"
+585,"00:43:08,000","00:43:09,440",2588.0,2589.44,1.4400000000000546,wo sie hingehen wollen.
+586,"00:43:09,520","00:43:12,480",2589.52,2592.48,2.9600000000000364,Und auch die Erneuerbaren.
+587,"00:43:12,600","00:43:18,440",2592.6,2598.44,5.8400000000001455,Es seine parallele Entwicklung.
+588,"00:43:18,560","00:43:20,240",2598.56,2600.24,1.6799999999998363,Wir haben eine Entkopplung
+589,"00:43:20,360","00:43:23,240",2600.36,2603.24,2.8799999999996544,des Wachstums von den CO2-Emissionen gesehen.
+590,"00:43:23,360","00:43:25,520",2603.36,2605.52,2.1599999999998545,Das ist ein Riesendurchbruch.
+591,"00:43:25,600","00:43:31,800",2605.6,2611.8,6.200000000000273,"Es ist nichts, was sich in sich zusammenfalten lässt."
+592,"00:43:31,880","00:43:33,880",2611.88,2613.88,2.0,"Mir ist wichtig, dass die 2 %,"
+593,"00:43:33,960","00:43:38,480",2613.96,2618.48,4.519999999999982,die Rechnung kann ich unterschiedlich aufstellen.
+594,"00:43:38,560","00:43:42,920",2618.56,2622.92,4.360000000000127,"Es gibt eine Pro Kopfrechnung, da stehen wir auf Platz sechs."
+595,"00:43:43,000","00:43:46,480",2623.0,2626.48,3.480000000000018,Das andere ist historisch betrachtet.
+596,"00:43:46,600","00:43:53,760",2626.6,2633.76,7.160000000000309,"Die Frage, wer kann sich mehr leisten, zu helfen."
+597,"00:43:54,840","00:43:57,960",2634.84,2637.96,3.119999999999891,"Da sind die Länder, die durch fossile Energien"
+598,"00:43:58,040","00:44:00,360",2638.04,2640.36,2.3200000000001637,"reich geworden sind, anders gefragt."
+599,"00:44:00,480","00:44:04,880",2640.48,2644.88,4.400000000000091,Es ist ein Prinzip der geteilten aber differenzierten Verantwortung.
+600,"00:44:05,000","00:44:08,680",2645.0,2648.68,3.6799999999998363,"Wenn die jetzt sagen, macht ihr mal, wenn ihr nicht in den Quark kommt."
+601,"00:44:09,840","00:44:13,560",2649.84,2653.56,3.7199999999998,Dann ist das für ein politischen Prozess das Armageddon.
+602,"00:44:13,560","00:44:16,800",2653.56,2656.8,3.2400000000002365,"Letzter Punkt dazu,"
+603,"00:44:16,800","00:44:20,320",2656.8,2660.32,3.519999999999982,"was fand das auch in der Zusammenarbeit mit China,"
+604,"00:44:20,320","00:44:21,960",2660.32,2661.96,1.6399999999998727,"muss man vorsichtig sein,"
+605,"00:44:22,000","00:44:27,040",2662.0,2667.04,5.039999999999964,"die haben da ihre eigenen Vorstellungen,"
+606,"00:44:27,040","00:44:33,280",2667.04,2673.28,6.2400000000002365,"ML: Irgendwann kam die Erkenntnis,"
+607,"00:44:39,080","00:44:42,720",2679.08,2682.72,3.6399999999998727,"beim Thema Verbenner nie so gut sein wie die Europäer,"
+608,"00:44:42,760","00:44:49,080",2682.76,2689.08,6.319999999999709,lass uns einen Schritt weitergehen.
+609,"00:44:49,320","00:44:57,200",2689.32,2697.2,7.879999999999654,"MG: Auch bei den Themen Maschinenbau, Medizintechnologie,"
+610,"00:44:58,080","00:44:59,640",2698.08,2699.64,1.5599999999999454,"da muss man gucken,"
+611,"00:44:59,640","00:45:04,840",2699.64,2704.84,5.200000000000273,wo produziert man.
+612,"00:45:07,480","00:45:10,600",2707.48,2710.6,3.119999999999891,"Der Gedanke, dass dort produziert wird,"
+613,"00:45:10,600","00:45:14,520",2710.6,2714.52,3.9200000000000728,"und wir sind die Erfinder, das ist gekippt."
+614,"00:45:14,520","00:45:17,960",2714.52,2717.96,3.4400000000000546,"Da stellt sich natürlich auch die Frage,"
+615,"00:45:17,960","00:45:22,000",2717.96,2722.0,4.039999999999964,"wie wollen wir am Weltmarkt weiter wirtschaftlich performen,"
+616,"00:45:22,040","00:45:29,000",2722.04,2729.0,6.960000000000036,wenn wir an den Zukunftstechnologien den Anschluss verlieren?
+617,"00:45:29,000","00:45:32,280",2729.0,2732.28,3.2800000000002,"ML: Warum so viele aufhorchen bei so einem Satz,"
+618,"00:45:32,280","00:45:38,200",2732.28,2738.2,5.919999999999618,sind die Daten von Statistiken.
+619,"00:45:38,240","00:45:43,880",2738.24,2743.88,5.640000000000327,Klima ist am Ende Physik.
+620,"00:45:45,200","00:45:48,160",2745.2,2748.16,2.9600000000000364,"Wenn wir mit dem Thema übertreiben,"
+621,"00:45:48,160","00:45:51,200",2748.16,2751.2,3.0399999999999636,"verstellen wir unser Land, unsere Wirtschaft."
+622,"00:45:51,240","00:45:55,000",2751.24,2755.0,3.7600000000002183,Wie klingt das bei Ihnen?
+623,"00:45:55,000","00:45:59,640",2755.0,2759.64,4.639999999999873,"Wichtig ist für mich, er weist darauf hin,"
+624,"00:45:59,640","00:46:03,640",2759.64,2763.64,4.0,dass der Klimawandel ein spieltheoretisches Problem ist.
+625,"00:46:03,640","00:46:09,400",2763.64,2769.4,5.760000000000218,Ein globales spieltheoretisches Problem.
+626,"00:46:09,440","00:46:12,400",2769.44,2772.4,2.9600000000000364,"Der ist nur lösbar, wenn die Welt kooperiert."
+627,"00:46:12,440","00:46:17,080",2772.44,2777.08,4.639999999999873,Das muss das Ziel sein.
+628,"00:46:17,080","00:46:20,000",2777.08,2780.0,2.9200000000000728,"Wenn man das Problem lösen will,"
+629,"00:46:20,000","00:46:23,440",2780.0,2783.44,3.4400000000000546,muss man das mit den großen Ländern der Welt lösen.
+630,"00:46:23,480","00:46:28,720",2783.48,2788.72,5.239999999999782,"Man muss dafür sorgen, dass das klappen kann."
+631,"00:46:28,720","00:46:30,840",2788.72,2790.84,2.1200000000003456,Dafür ist die Klimakonferenz da.
+632,"00:46:30,880","00:46:35,800",2790.88,2795.8,4.920000000000073,Wir haben das aber bisher leider noch nicht geschafft.
+633,"00:46:35,840","00:46:42,360",2795.84,2802.36,6.519999999999982,Das Risiko dieser nationalen Klimaziele
+634,"00:46:42,360","00:46:45,280",2802.36,2805.28,2.9200000000000728,ML: Das was sie Klima Nationalismus nennen.
+635,"00:46:45,320","00:46:51,640",2805.32,2811.64,6.319999999999709,Das klingt so als wenn Sie damit nicht einverstanden.
+636,"00:46:51,640","00:46:56,320",2811.64,2816.32,4.680000000000291,"AB: Ich finde es wichtig, dass man als Journalist Probleme beschreibt,"
+637,"00:46:56,320","00:47:03,720",2816.32,2823.72,7.399999999999636,gerade wenn ein Thema so komplex ist. Bei dem Thema
+638,"00:47:10,720","00:47:16,040",2830.72,2836.04,5.320000000000164,"erst viel günstiger,"
+639,"00:47:18,520","00:47:21,120",2838.52,2841.12,2.599999999999909,"wenn man das Problem beschreiben will,"
+640,"00:47:21,120","00:47:23,720",2841.12,2843.72,2.599999999999909,"muss man klar sagen,"
+641,"00:47:23,720","00:47:27,160",2843.72,2847.16,3.4400000000000546,"dass CO2 aus dem Ausland günstiger wäre,"
+642,"00:47:27,160","00:47:35,720",2847.16,2855.72,8.559999999999945,man kann mit den gleichen Ressourcen viel mehr CO2 im Ausland einsparen.
+643,"00:47:35,720","00:47:40,400",2855.72,2860.4,4.680000000000291,"ML: Wir verzichten darauf, das letzte Kilogramm CO2 einzusparen,"
+644,"00:47:40,440","00:47:46,360",2860.44,2866.36,5.920000000000073,"sondern setzt unsere Mittel lieber dafür ein,"
+645,"00:47:46,360","00:47:48,600",2866.36,2868.6,2.2399999999997817,woanders von vorne zu beginnen.
+646,"00:47:48,600","00:47:54,080",2868.6,2874.08,5.480000000000018,Würden wir das machen?
+647,"00:48:01,680","00:48:08,000",2881.68,2888.0,6.320000000000164,"AB: Technologien, CO2 Abscheidungen"
+648,"00:48:14,040","00:48:20,440",2894.04,2900.44,6.400000000000091,es ist seit Jahrzehnten von der Erdölindustrie praktiziert worden.
+649,"00:48:20,440","00:48:27,040",2900.44,2907.04,6.599999999999909,Als wäre CO2 in einer riesigen Blase unter Erich gelagert worden.
+650,"00:48:27,040","00:48:32,480",2907.04,2912.48,5.440000000000055,"ML: Wenn man CO2 aus dem Kohlekraftwerk abschaltet,"
+651,"00:48:32,520","00:48:35,600",2912.52,2915.6,3.0799999999999272,"Zementwerk, Stahlwerk, wo richtig viel Energie"
+652,"00:48:35,640","00:48:36,640",2915.64,2916.64,1.0,gebraucht wird.
+653,"00:48:36,640","00:48:41,600",2916.64,2921.6,4.960000000000036,"Das lagern sie,"
+654,"00:48:41,800","00:48:44,240",2921.8,2924.24,2.4399999999996,"untersagen die Norweger zum Beispiel,"
+655,"00:48:44,240","00:48:49,720",2924.24,2929.72,5.480000000000018,wir nehmen es euch ab.
+656,"00:48:51,200","00:48:55,520",2931.2,2935.52,4.320000000000164,"AB: Vorne an einer Kiste, die leer ist,"
+657,"00:48:55,560","00:49:02,480",2935.56,2942.48,6.920000000000073,"schaut man rein, und ausgelagert wie vorher."
+658,"00:49:12,160","00:49:18,640",2952.16,2958.64,6.480000000000018,Es ist auch eine Kostenfrage für sie.
+659,"00:49:19,440","00:49:23,720",2959.44,2963.72,4.279999999999745,"Man könnte die Kohlekraftwerke unschädlich machen,"
+660,"00:49:23,720","00:49:27,920",2963.72,2967.92,4.200000000000273,"Deutschland hätte die Technologie zur Verfügung stellen können,"
+661,"00:49:27,920","00:49:33,440",2967.92,2973.44,5.519999999999982,hat es leider verboten.
+662,"00:49:36,440","00:49:39,800",2976.44,2979.8,3.3600000000001273,Russland verkauft keine Kraftwerke an afrikanische
+663,"00:49:39,840","00:49:41,280",2979.84,2981.28,1.4400000000000546,und asiatische Länder.
+664,"00:49:41,320","00:49:43,160",2981.32,2983.16,1.8399999999996908,"China genauso, die USA auch,"
+665,"00:49:43,160","00:49:45,640",2983.16,2985.64,2.480000000000018,es ist immer nur ein Teil der Lösung.
+666,"00:49:45,640","00:49:51,280",2985.64,2991.28,5.640000000000327,"Ich will nur beschreiben,"
+667,"00:49:55,000","00:49:58,640",2995.0,2998.64,3.6399999999998727,"dass man zu sehr auf das eigene Land guckt,"
+668,"00:49:58,640","00:50:01,200",2998.64,3001.2,2.5599999999999454,"und dass man vergisst,"
+669,"00:50:01,200","00:50:06,240",3001.2,3006.24,5.039999999999964,"dass wenn Deutschland und Europa auf Null sind,"
+670,"00:50:06,280","00:50:08,840",3006.28,3008.84,2.5599999999999454,"gibt es ein Risiko, dass diese Firmen,"
+671,"00:50:08,880","00:50:11,600",3008.88,3011.6,2.7199999999998,"die nicht mehr in Deutschland sein kann,"
+672,"00:50:11,600","00:50:12,760",3011.6,3012.76,1.1600000000003092,im Ausland sind.
+673,"00:50:12,760","00:50:17,480",3012.76,3017.48,4.7199999999998,Und im Ausland ist sie mehr CO2 intensiv.
+674,"00:50:17,480","00:50:21,120",3017.48,3021.12,3.6399999999998727,Es wird mehr in Deutschland imitiert als in Deutschland.
+675,"00:50:21,120","00:50:27,720",3021.12,3027.72,6.599999999999909,Das wäre für den Klimaschutz schädlich.
+676,"00:50:28,280","00:50:31,800",3028.28,3031.8,3.519999999999982,"Den Preis von fossiler Energie würde man auch denken,"
+677,"00:50:31,800","00:50:35,360",3031.8,3035.36,3.5599999999999454,wenn Europas der Nachfrage raus.
+678,"00:50:35,400","00:50:38,160",3035.4,3038.16,2.7599999999997635,Dadurch wird der wiederum mehr verbraucht.
+679,"00:50:38,160","00:50:41,040",3038.16,3041.04,2.880000000000109,Ich beschreibe Risiken.
+680,"00:50:41,040","00:50:46,160",3041.04,3046.16,5.119999999999891,Ich versuche als Journalist zu beschreiben.
+681,"00:50:46,160","00:50:53,760",3046.16,3053.76,7.600000000000364,"ML: Sie schreiben an einer Stelle, beim Thema Endlager,"
+682,"00:50:53,960","00:50:56,960",3053.96,3056.96,3.0,"die große Angst vor dem strahlenden Endlager,"
+683,"00:50:56,960","00:50:59,440",3056.96,3059.44,2.480000000000018,"dem Atommüll,"
+684,"00:50:59,440","00:51:04,880",3059.44,3064.88,5.440000000000055,"sie sagen sehr provokant,"
+685,"00:51:04,880","00:51:09,040",3064.88,3069.04,4.1599999999998545,ich würde mir auf ein Endlager ein Haus bauen.
+686,"00:51:09,040","00:51:10,440",3069.04,3070.44,1.400000000000091,Sie würden sich ein Hausmann?
+687,"00:51:15,920","00:51:22,560",3075.92,3082.56,6.639999999999873,AB: Das ist kein Endlager für Atomkraft.
+688,"00:51:26,080","00:51:29,720",3086.08,3089.72,3.6399999999998727,JG: Da wohl nicht so viele Leute drauf wohnen wie sie.
+689,"00:51:29,760","00:51:32,720",3089.76,3092.72,2.9599999999995816,Ich meine es ist alles ziemlich hypothetisch
+690,"00:51:32,760","00:51:38,400",3092.76,3098.4,5.639999999999873,was sie da gerade sagen.
+691,"00:51:39,240","00:51:42,040",3099.24,3102.04,2.800000000000182,"Die Endlager, da bewerben sich die Leute,"
+692,"00:51:42,080","00:51:48,040",3102.08,3108.04,5.960000000000036,weil das Arbeitsplätze bringt.
+693,"00:51:49,120","00:51:54,280",3109.12,3114.28,5.160000000000309,Es ist ungefährlich.
+694,"00:51:54,280","00:51:57,640",3114.28,3117.64,3.3599999999996726,Deshalb kann man auch ein Haus darauf bauen.
+695,"00:51:57,640","00:52:03,560",3117.64,3123.56,5.920000000000073,"Es ist nicht unproblematisch,"
+696,"00:52:04,400","00:52:07,320",3124.4,3127.32,2.9200000000000728,"man muss es gut auswählt, gut organisieren,"
+697,"00:52:07,320","00:52:09,160",3127.32,3129.16,1.8399999999996908,aber es ist kein Hexenwerk.
+698,"00:52:09,200","00:52:12,560",3129.2,3132.56,3.3600000000001273,"Das wird in Finnland gemacht, in Schweden gemacht,"
+699,"00:52:12,600","00:52:18,360",3132.6,3138.36,5.760000000000218,"die USA macht das, ich möchte nur den Impuls setzen."
+700,"00:52:18,360","00:52:23,760",3138.36,3143.76,5.400000000000091,"Ich mache das am Ende des Tages sich selbst,"
+701,"00:52:23,760","00:52:27,240",3143.76,3147.24,3.4799999999995634,"ich kann nur beschreiben, was in einem Diskurs ist."
+702,"00:52:27,240","00:52:31,600",3147.24,3151.6,4.360000000000127,"Es ist so, dass in Deutschland immer die Technologie Feindlichkeit,"
+703,"00:52:31,640","00:52:39,600",3151.64,3159.6,7.960000000000036,"die sich gegen jegliche Art von moderner Technologie wendet,"
+704,"00:52:44,640","00:52:49,680",3164.64,3169.68,5.039999999999964,wir waren vorne.
+705,"00:52:51,400","00:52:57,520",3171.4,3177.52,6.119999999999891,"ML: Auch bei Solar, Windräder..."
+706,"00:52:59,280","00:53:06,000",3179.28,3186.0,6.7199999999998,Mich würden Ihre Meinungen interessieren.
+707,"00:53:12,080","00:53:14,680",3192.08,3194.68,2.599999999999909,"MG: Ich finde es total interessant, wenn wir sagen,"
+708,"00:53:14,720","00:53:17,120",3194.72,3197.12,2.400000000000091,alles was geht soll ein Maßstab geschoben werden.
+709,"00:53:17,160","00:53:20,880",3197.16,3200.88,3.7200000000002547,"Man muss ehrlich hingucken, wie viel man rausnehmen kann."
+710,"00:53:20,880","00:53:26,280",3200.88,3206.28,5.400000000000091,"Island ist Vorreiter,"
+711,"00:53:28,440","00:53:31,840",3208.44,3211.84,3.400000000000091,man muss die ganze Fläche voll stellen.
+712,"00:53:31,840","00:53:38,200",3211.84,3218.2,6.359999999999673,ML: Sie reden jetzt von was anderem.
+713,"00:53:38,600","00:53:43,440",3218.6,3223.44,4.8400000000001455,"Sie reden davon, CO2 grundsätzlich aus der Oberfläche zurück."
+714,"00:53:43,480","00:53:49,840",3223.48,3229.84,6.360000000000127,"Nicht von CO2, aus den Schornsteinen"
+715,"00:53:52,680","00:53:56,440",3232.68,3236.44,3.7600000000002183,"MG: Ich kann das auch nur, wenn ich es abgespalten hat."
+716,"00:53:56,440","00:54:04,240",3236.44,3244.24,7.799999999999727,Ich kann es in einem CO2 Kreislauf versuchen zu recyceln.
+717,"00:54:04,880","00:54:12,160",3244.88,3252.16,7.279999999999745,AB: Von den Fabriken und Kohlekraftwerken direkt.
+718,"00:54:12,920","00:54:16,880",3252.92,3256.88,3.9600000000000364,"MG: In der Größenordnung ist es noch nicht durchkalkuliert,"
+719,"00:54:16,920","00:54:18,960",3256.92,3258.96,2.0399999999999636,wie man es durchsetzen könnte.
+720,"00:54:18,960","00:54:20,840",3258.96,3260.84,1.8800000000001091,Das wäre für mich ein Novum.
+721,"00:54:20,840","00:54:25,320",3260.84,3265.32,4.480000000000018,"Ich kenne es nur so, dass man es abspalten kann und erstaunen kann."
+722,"00:54:25,320","00:54:32,040",3265.32,3272.04,6.7199999999998,Man kann an CO2 Recycling weiterforschen.
+723,"00:54:32,440","00:54:37,840",3272.44,3277.84,5.400000000000091,"Was machen wir mit dieser Argumentationskette auf,"
+724,"00:54:37,880","00:54:45,800",3277.88,3285.8,7.920000000000073,"weil man macht häufig auf, dass man nicht zu viel machen muss."
+725,"00:54:45,840","00:54:47,160",3285.84,3287.16,1.319999999999709,"Was da passiert ist,"
+726,"00:54:47,160","00:54:51,920",3287.16,3291.92,4.760000000000218,"als setze man den Petrusstaaten stattgefunden haben,"
+727,"00:54:51,960","00:54:54,560",3291.96,3294.56,2.599999999999909,die fossilen müssen im Boden bleiben.
+728,"00:54:54,560","00:55:01,200",3294.56,3301.2,6.639999999999873,Das ist ein wichtiger Durchbruch gewesen.
+729,"00:55:01,200","00:55:04,560",3301.2,3304.56,3.3600000000001273,"Das Argument war, wir können weiter ausprobieren,"
+730,"00:55:04,560","00:55:06,480",3304.56,3306.48,1.9200000000000728,weil wir saugen es wieder ab.
+731,"00:55:06,480","00:55:13,600",3306.48,3313.6,7.119999999999891,"Da war so eine Aufruhr, von der Fossilindustrie,"
+732,"00:55:13,640","00:55:16,560",3313.64,3316.56,2.9200000000000728,"das ist meine größte Sorge damit,"
+733,"00:55:16,600","00:55:22,840",3316.6,3322.84,6.2400000000002365,"dass die hypothetischen Technologien,"
+734,"00:55:22,880","00:55:29,840",3322.88,3329.84,6.960000000000036,"eine hypothetische Verwendung, noch nicht ist."
+735,"00:55:33,680","00:55:38,080",3333.68,3338.08,4.400000000000091,Nuklear würde ich gerne politisch ökonomisch mit Ihnen besprechen.
+736,"00:55:38,080","00:55:44,280",3338.08,3344.28,6.200000000000273,Was kostet da die Kilowattstunde?
+737,"00:55:49,000","00:55:53,840",3349.0,3353.84,4.8400000000001455,"In Frankreich sind sie inzwischen aus,"
+738,"00:55:53,840","00:55:59,440",3353.84,3359.44,5.599999999999909,"trotzdem frage ich mich,"
+739,"00:56:00,520","00:56:04,440",3360.52,3364.44,3.9200000000000728,wo wir privatwirtschaftlich eine nukleare neue Reaktoren....
+740,"00:56:04,440","00:56:08,840",3364.44,3368.84,4.400000000000091,"Rote Kernkraftwerke,"
+741,"00:56:08,840","00:56:10,960",3368.84,3370.96,2.119999999999891,AB: es gibt keinen Unterschied.
+742,"00:56:10,960","00:56:16,560",3370.96,3376.56,5.599999999999909,Nur kleiner oder größer.
+743,"00:56:21,960","00:56:24,680",3381.96,3384.68,2.7199999999998,"MG: Sie haben genau dort viel Atomkraft,"
+744,"00:56:24,680","00:56:29,320",3384.68,3389.32,4.640000000000327,wo's auch militärisch genutzt wird.
+745,"00:56:29,320","00:56:35,640",3389.32,3395.64,6.319999999999709,AB: im Ausland ist die Atomwende...
+746,"00:56:35,680","00:56:38,160",3395.68,3398.16,2.480000000000018,MG: Natürlich.
+747,"00:56:38,200","00:56:44,320",3398.2,3404.32,6.120000000000346,"Fragen Sie doch mal, was 1 kWh kostet."
+748,"00:56:44,320","00:56:46,920",3404.32,3406.92,2.599999999999909,AB: Frankreich hat gerade die Rechnung
+749,"00:56:46,920","00:56:50,440",3406.92,3410.44,3.519999999999982,"gemacht mit dem Klimawandel,"
+750,"00:56:50,440","00:56:53,440",3410.44,3413.44,3.0,"die kalkulierten weiter mit Atomkraftwerken,"
+751,"00:56:53,440","00:56:57,640",3413.44,3417.64,4.199999999999818,wollen weiterbauen.
+752,"00:56:57,640","00:57:00,320",3417.64,3420.32,2.680000000000291,"MG: Es ist eine militärische Atommacht,"
+753,"00:57:00,320","00:57:05,040",3420.32,3425.04,4.7199999999998,die es deshalb staatlich massiv subventioniert.
+754,"00:57:05,080","00:57:07,640",3425.08,3427.64,2.5599999999999454,"AB: Es sind immer wieder die Argument,"
+755,"00:57:07,680","00:57:13,440",3427.68,3433.44,5.760000000000218,die aus Deutschland kommen.
+756,"00:57:13,840","00:57:16,360",3433.84,3436.36,2.519999999999982,"MG: Wann wollen Sie die Dinger bauen,"
+757,"00:57:16,400","00:57:17,960",3436.4,3437.96,1.5599999999999454,die brauchen 15+ Jahre.
+758,"00:57:18,000","00:57:22,200",3438.0,3442.2,4.199999999999818,"Ich finde es seltsam,"
+759,"00:57:22,200","00:57:25,000",3442.2,3445.0,2.800000000000182,sie tun so als wäre das der Drops.
+760,"00:57:28,360","00:57:31,480",3448.36,3451.48,3.119999999999891,"Ich glaube, mit meinem gesunden Halbwissen,"
+761,"00:57:31,520","00:57:35,560",3451.52,3455.56,4.039999999999964,die Wahrheit liegt irgendwo dazwischen.
+762,"00:57:35,600","00:57:40,080",3455.6,3460.08,4.480000000000018,"Es werden diese kleinen Reaktoren gebaut und geplant,"
+763,"00:57:40,080","00:57:44,360",3460.08,3464.36,4.2800000000002,Amazon macht das.
+764,"00:57:44,400","00:57:49,200",3464.4,3469.2,4.799999999999727,"AB: Es ist keine andere Technologie, nur kleiner."
+765,"00:57:49,200","00:57:55,320",3469.2,3475.32,6.120000000000346,ML: Es ist eher Risiko behaftet.
+766,"00:58:02,920","00:58:08,880",3482.92,3488.88,5.960000000000036,"Der staatliche Konzern in Frankreich, der den betreibt,"
+767,"00:58:08,880","00:58:11,680",3488.88,3491.68,2.799999999999727,"Das sind die Länder, die Atomwaffen haben,"
+768,"00:58:11,680","00:58:14,360",3491.68,3494.36,2.680000000000291,die nutzen es auch als Kernkraft.
+769,"00:58:14,360","00:58:21,960",3494.36,3501.96,7.599999999999909,Wahrscheinlich liegt die Wahrheit irgendwo dazwischen.
+770,"00:58:22,400","00:58:29,680",3502.4,3509.68,7.279999999999745,JM: Ich stimme mit ihm in vielen Punkten überein.
+771,"00:58:29,760","00:58:36,640",3509.76,3516.64,6.879999999999654,Vielleicht fangen wir wieder mit Herrn Merz Aussage an.
+772,"00:58:36,680","00:58:39,960",3516.68,3519.96,3.2800000000002,"Es ist ein Widerspruch,"
+773,"00:58:39,960","00:58:43,040",3519.96,3523.04,3.0799999999999272,wenn er sagte müsse nicht auf der ganzen Welt
+774,"00:58:43,040","00:58:46,440",3523.04,3526.44,3.400000000000091,die letzte Tonne vermeiden.
+775,"00:58:46,440","00:58:49,040",3526.44,3529.04,2.599999999999909,"Es geht nicht um die letzte Tonne,"
+776,"00:58:49,040","00:58:52,560",3529.04,3532.56,3.519999999999982,"es geht um wenn ich 100 t vor mir habe,"
+777,"00:58:52,560","00:58:56,920",3532.56,3536.92,4.360000000000127,es geht um die 30-80.
+778,"00:58:56,920","00:59:00,040",3536.92,3540.04,3.119999999999891,"Wir sind bei denen, und es ist ausgeschlossen,"
+779,"00:59:00,040","00:59:04,120",3540.04,3544.12,4.079999999999927,"dass dieser Verfahren, das abschalten und Verpressen von CO2,"
+780,"00:59:04,120","00:59:07,040",3544.12,3547.04,2.9200000000000728,"oder die direkte Entnahme aus der Luft,"
+781,"00:59:07,040","00:59:10,520",3547.04,3550.52,3.480000000000018,Und dass sie das kompensieren können.
+782,"00:59:10,600","00:59:17,640",3550.6,3557.64,7.039999999999964,Das geht nicht.
+783,"00:59:17,640","00:59:20,320",3557.64,3560.32,2.680000000000291,Es gibt keine großindustrielle Anlage -
+784,"00:59:20,440","00:59:24,640",3560.44,3564.64,4.199999999999818,wir lehnen über 40.000 t CO2 pro Jahr.
+785,"00:59:24,760","00:59:28,920",3564.76,3568.92,4.1599999999998545,Ich kann bei der Kohle Öl verfeuern und das abfangen.
+786,"00:59:29,000","00:59:35,200",3569.0,3575.2,6.199999999999818,"Ich fahre weiter Autos mit Benzin,"
+787,"00:59:39,400","00:59:45,720",3579.4,3585.72,6.319999999999709,will ich das am Auspuff abschalten.
+788,"00:59:46,440","00:59:49,840",3586.44,3589.84,3.400000000000091,"Für die letzten 10 % ist völlig klar,"
+789,"00:59:49,920","00:59:56,680",3589.92,3596.68,6.7599999999997635,"werden wir Abteilungen brauchen, Planungen."
+790,"00:59:58,480","01:00:02,040",3598.48,3602.04,3.5599999999999454,"Es wird ein bestimmter Bodensatz an Emissionen geben,"
+791,"01:00:02,120","01:00:05,000",3602.12,3605.0,2.880000000000109,die unter enormen Aufwand zu vermeiden sind.
+792,"01:00:05,120","01:00:09,720",3605.12,3609.72,4.599999999999909,"Dann ist es besser, wir holen das CO2 wieder aus der Luft."
+793,"01:00:09,800","01:00:12,360",3609.8,3612.36,2.5599999999999454,Wir reden hier von 10 % der Emissionen.
+794,"01:00:12,480","01:00:17,360",3612.48,3617.36,4.880000000000109,Nicht von mir.
+795,"01:00:17,640","01:00:21,880",3617.64,3621.88,4.2400000000002365,"Ich kenne keine Rechnung, die sagt, mehr als 10 % sind möglich."
+796,"01:00:22,000","01:00:26,680",3622.0,3626.68,4.679999999999836,"Das ist der Punkt, wo ich sage, mir gehen zu viele Sachen durcheinander."
+797,"01:00:26,800","01:00:28,280",3626.8,3628.28,1.4800000000000182,Dass er für diese 10 % -
+798,"01:00:28,400","01:00:35,440",3628.4,3635.44,7.039999999999964,"das ist viel, das sind 4 Milliarden t pro Jahr."
+799,"01:00:35,960","01:00:42,520",3635.96,3642.52,6.559999999999945,"Das ist ein enormer Aufwand, das aufzubauen."
+800,"01:00:42,600","01:00:44,600",3642.6,3644.6,2.0,Von den Investitionen her usw.
+801,"01:00:44,680","01:00:46,160",3644.68,3646.16,1.4800000000000182,"Was mir nicht gefällt,"
+802,"01:00:46,280","01:00:53,640",3646.28,3653.64,7.359999999999673,ist eine generelle Technik Feindlichkeit aufzubauen.
+803,"01:00:57,480","01:01:03,600",3657.48,3663.6,6.119999999999891,Ich teile Frau Göpels Einschätzung.
+804,"01:01:03,680","01:01:09,640",3663.68,3669.64,5.960000000000036,"Ich brauche Männer anzugucken,"
+805,"01:01:09,760","01:01:13,280",3669.76,3673.28,3.519999999999982,was auf der ganzen Welt an Kernenergie genutzt wird.
+806,"01:01:13,400","01:01:15,040",3673.4,3675.04,1.6399999999998727,Der Anteil ist rückläufig.
+807,"01:01:15,120","01:01:18,560",3675.12,3678.56,3.4400000000000546,"Wenn ich mir anschaue, was müsste investiert werden,"
+808,"01:01:18,640","01:01:24,120",3678.64,3684.12,5.480000000000018,"um diesen Anteil durchzubringen, um fossile Brennstoffe zu ersetzen,"
+809,"01:01:24,200","01:01:27,520",3684.2,3687.52,3.3200000000001637,"dann fehlt mir die Fantasie, dass das möglich ist."
+810,"01:01:27,600","01:01:31,800",3687.6,3691.8,4.200000000000273,Unabhängig davon -
+811,"01:01:31,880","01:01:34,000",3691.88,3694.0,2.119999999999891,das ist ein weltweites Phänomen.
+812,"01:01:34,080","01:01:41,440",3694.08,3701.44,7.360000000000127,"Mit Ausnahme der Staaten, die auch Kernwaffen haben."
+813,"01:01:41,560","01:01:43,680",3701.56,3703.68,2.119999999999891,AB: Es ist die Gegenläufigkeit.
+814,"01:01:43,800","01:01:48,160",3703.8,3708.16,4.359999999999673,In Europa haben sich fast alle Staaten zur Kernkraft ausgesprochen.
+815,"01:01:48,240","01:01:51,080",3708.24,3711.08,2.8400000000001455,Dass es in den letzten paar Jahren passiert.
+816,"01:01:51,200","01:01:53,480",3711.2,3713.48,2.2800000000002,"JM: Wir warten mal ab, was passiert."
+817,"01:01:53,600","01:01:58,640",3713.6,3718.64,5.039999999999964,Ich halte es für eine Illusion.
+818,"01:01:58,720","01:02:05,560",3718.72,3725.56,6.8400000000001455,"AB: Wir freuen uns doch, wenn sie es machen."
+819,"01:02:07,920","01:02:11,480",3727.92,3731.48,3.5599999999999454,"JM: Es ist ein Scheingefecht, es hängt ab von Sachen,"
+820,"01:02:11,560","01:02:12,840",3731.56,3732.84,1.2800000000002,die man tun könnte.
+821,"01:02:12,920","01:02:16,120",3732.92,3736.12,3.199999999999818,"Es gibt nicht einen ökonomischen Preis,"
+822,"01:02:16,200","01:02:18,600",3736.2,3738.6,2.400000000000091,sondern auch dem politischen.
+823,"01:02:18,680","01:02:23,040",3738.68,3743.04,4.360000000000127,Man könnte in der Zeit sinnvollere politische Diskussionen führen.
+824,"01:02:23,160","01:02:28,920",3743.16,3748.92,5.760000000000218,Etwa in dem Stromtrassen nach Bayern gebaut werden.
+825,"01:02:29,000","01:02:34,840",3749.0,3754.84,5.8400000000001455,AB: Warum nicht gleichzeitig?
+826,"01:02:41,880","01:02:48,240",3761.88,3768.24,6.359999999999673,Man rechnet mit 10 Milliarden t CO2 aus Abscheidungen.
+827,"01:02:48,320","01:02:54,880",3768.32,3774.88,6.559999999999945,Franz-Josef Radermacher ist der Energievordenker...
+828,"01:02:54,960","01:02:58,800",3774.96,3778.8,3.8400000000001455,BP: Ich habe mit ihm gesprochen. Ein interessanter Ansatz.
+829,"01:02:58,880","01:03:00,000",3778.88,3780.0,1.1199999999998909,Keine Frage.
+830,"01:03:00,120","01:03:05,600",3780.12,3785.6,5.480000000000018,ML: Sie kennen den auch?
+831,"01:03:05,800","01:03:10,640",3785.8,3790.64,4.839999999999691,"JM: Nein. 10 Milliarden, ich warte darauf, besonders kommen."
+832,"01:03:10,720","01:03:17,160",3790.72,3797.16,6.440000000000055,- Das kommt auf das ganze Jahrhundert.
+833,"01:03:17,840","01:03:25,560",3797.84,3805.56,7.7199999999998,"JM: Was mich daran zum Teil stört es, dass es davon ablenkt,"
+834,"01:03:25,680","01:03:31,880",3805.68,3811.88,6.200000000000273,"die Emissionen abzusenken, was man dazu tun könnte."
+835,"01:03:31,960","01:03:37,520",3811.96,3817.52,5.559999999999945,"Es gibt den bösen Spruch darüber, dass sind Power Point Reaktoren."
+836,"01:03:37,600","01:03:43,520",3817.6,3823.52,5.920000000000073,Die existieren nur auf Folien.
+837,"01:03:45,240","01:03:52,040",3825.24,3832.04,6.800000000000182,ML: Es hat einen ernsthaften Hintergrund.
+838,"01:03:53,920","01:03:57,480",3833.92,3837.48,3.5599999999999454,Der Energiehunger der Welt wächst enorm.
+839,"01:03:57,600","01:04:01,480",3837.6,3841.48,3.880000000000109,"Ich habe eine Zahl gelesen, ich weiß nicht, ob sie stimmen."
+840,"01:04:01,560","01:04:05,840",3841.56,3845.84,4.2800000000002,"Der Bericht sagte, wir brauchen jedes Jahr so viel Energie mehr,"
+841,"01:04:05,920","01:04:10,480",3845.92,3850.48,4.559999999999945,wie ungefähr die japanische Volkswirtschaft benötigt
+842,"01:04:10,600","01:04:12,440",3850.6,3852.44,1.8400000000001455,und verbraucht - enorm viel.
+843,"01:04:12,520","01:04:16,600",3852.52,3856.6,4.079999999999927,"Getrieben durch KI, Rechenzentren."
+844,"01:04:16,720","01:04:20,880",3856.72,3860.88,4.160000000000309,"Das ist der Grund,"
+845,"01:04:21,000","01:04:24,680",3861.0,3864.68,3.6799999999998363,warum viele Betreiber in diese Technologien investieren.
+846,"01:04:24,800","01:04:28,080",3864.8,3868.08,3.2799999999997453,"Sie sagen, wir brauchen das in unserem Energienetz."
+847,"01:04:28,200","01:04:31,240",3868.2,3871.24,3.0399999999999636,Sie haben das Thema auch mit dem Energiehunger.
+848,"01:04:31,320","01:04:36,760",3871.32,3876.76,5.440000000000055,"Sie sagen gleichzeitig,"
+849,"01:04:41,440","01:04:45,240",3881.44,3885.24,3.799999999999727,da geht das Argument von Herrn Marotzke hin. Das Problem
+850,"01:04:45,320","01:04:47,800",3885.32,3887.8,2.480000000000018,ist die Akzeptanz der Leute.
+851,"01:04:47,880","01:04:50,440",3887.88,3890.44,2.5599999999999454,"Viele haben das Gefühl,"
+852,"01:04:50,560","01:04:54,920",3890.56,3894.92,4.360000000000127,"das, was sie beschrieben haben,"
+853,"01:04:55,000","01:05:00,440",3895.0,3900.44,5.440000000000055,"wenn wir Klimawandel aktiv bekämpfen,"
+854,"01:05:00,560","01:05:03,920",3900.56,3903.92,3.3600000000001273,dann geht da für unsere Wirtschaft den Bach runter.
+855,"01:05:04,000","01:05:10,240",3904.0,3910.24,6.239999999999782,Das ist das Gefühl bei den Leuten.
+856,"01:05:10,600","01:05:13,080",3910.6,3913.08,2.480000000000018,"Das ist auch der Grund,"
+857,"01:05:13,160","01:05:15,600",3913.16,3915.6,2.4400000000000546,um Friedrich Merz so einen Satz sagt.
+858,"01:05:15,920","01:05:21,600",3915.92,3921.6,5.679999999999836,Tübingen wird keine AKW bauen.
+859,"01:05:24,480","01:05:32,000",3924.48,3932.0,7.519999999999982,Die Frage ist für mich praktisch nicht sehr relevant.
+860,"01:05:33,120","01:05:36,560",3933.12,3936.56,3.4400000000000546,"Ich kümmere mich um die Dinge, die ich machen kann."
+861,"01:05:36,680","01:05:39,160",3936.68,3939.16,2.480000000000018,"Für mich ist die zentrale Frage,"
+862,"01:05:39,240","01:05:42,400",3939.24,3942.4,3.1600000000003092,führen wir die Debatte um Optionen zu erweitern.
+863,"01:05:42,520","01:05:50,000",3942.52,3950.0,7.480000000000018,Ich finde Franz Josef Rademachers Ideen bedenkenswert.
+864,"01:05:52,920","01:05:56,920",3952.92,3956.92,4.0,"Wenn es uns ablenkt und nicht mehr darüber geredet wird, was"
+865,"01:05:57,040","01:06:03,600",3957.04,3963.6,6.559999999999945,"wir tun können, dann wird es gefährlich."
+866,"01:06:04,640","01:06:08,320",3964.64,3968.32,3.680000000000291,"Es soll Tatsachenbeschreibung, was Friedrich Merz sei."
+867,"01:06:08,400","01:06:12,040",3968.4,3972.04,3.6399999999998727,Es ist eine Interpretation. Da hängen wir uns schon auf.
+868,"01:06:12,120","01:06:15,240",3972.12,3975.24,3.119999999999891,"ML: Jeder versteht, was er meint."
+869,"01:06:15,320","01:06:20,160",3975.32,3980.16,4.839999999999691,BP: Vielleicht ist der Fehler.
+870,"01:06:20,280","01:06:23,440",3980.28,3983.44,3.1599999999998545,Vielleicht sollten wir nicht die Unterstellungen
+871,"01:06:23,560","01:06:26,120",3983.56,3986.12,2.5599999999999454,da hinein interpretieren.
+872,"01:06:26,200","01:06:30,880",3986.2,3990.88,4.680000000000291,"Ich würde öfter zitieren, dass er davor gesagt hat, wenn"
+873,"01:06:30,960","01:06:38,360",3990.96,3998.36,7.400000000000091,möglich würden die Klimaziele gerne davor erreichen.
+874,"01:06:39,520","01:06:41,840",3999.52,4001.84,2.3200000000001637,Wie ist das möglich?
+875,"01:06:41,960","01:06:46,120",4001.96,4006.12,4.1599999999998545,"Wir müssen die Hindernisse, die wir uns selber den Weg stellen,"
+876,"01:06:46,200","01:06:49,920",4006.2,4009.92,3.7200000000002547,aus dem Weg räumen. Wir müssen kosteneffizienter werden.
+877,"01:06:50,000","01:06:53,840",4010.0,4013.84,3.8400000000001455,Die Energiewende ist nicht kosteneffizient in Deutschland.
+878,"01:06:53,960","01:06:56,160",4013.96,4016.16,2.199999999999818,Das macht uns Diskussionsprobleme.
+879,"01:06:56,280","01:06:59,200",4016.28,4019.2,2.919999999999618,"Wenn Horst Seehofer es verbietet,"
+880,"01:06:59,320","01:07:03,880",4019.32,4023.88,4.559999999999945,dass Leitungen überirdisch gebaut werden -
+881,"01:07:04,000","01:07:10,480",4024.0,4030.48,6.480000000000018,Erdkabel kann sich kein Mensch leisten.
+882,"01:07:13,640","01:07:16,560",4033.64,4036.56,2.9200000000000728,"Dann kriegt man Ärger mit Bürgerinitiativen,"
+883,"01:07:16,680","01:07:20,360",4036.68,4040.36,3.680000000000291,aber es wäre eine klare Ansage.
+884,"01:07:20,440","01:07:24,160",4040.44,4044.16,3.7199999999998,"Wenn ich in Tübingen Anlagen zum Stromabbau bauen würde,"
+885,"01:07:24,240","01:07:26,560",4044.24,4046.56,2.3200000000001637,hätte ich Bürgerinitiativen dagegen.
+886,"01:07:26,640","01:07:29,240",4046.64,4049.24,2.599999999999909,Das muss ich aushalten.
+887,"01:07:29,320","01:07:33,800",4049.32,4053.8,4.480000000000018,Wir brauchen den Strom. Irgendwo muss her kommen.
+888,"01:07:33,920","01:07:40,000",4053.92,4060.0,6.079999999999927,Ich argumentiere das ökonomisch.
+889,"01:07:45,600","01:07:49,320",4065.6,4069.32,3.7200000000002547,"Jedes Windrad bringt eine viertel Millionen zusätzlich,"
+890,"01:07:49,440","01:07:51,120",4069.44,4071.12,1.6799999999998363,die wir dringend benötigen.
+891,"01:07:51,240","01:07:56,440",4071.24,4076.44,5.200000000000273,"Es ist nicht leicht, in der Stadt einen Windstandort zu finden."
+892,"01:07:56,560","01:07:59,120",4076.56,4079.12,2.5599999999999454,"Wir hatten einen an einer Bundesstraße,"
+893,"01:07:59,200","01:08:01,120",4079.2,4081.12,1.9200000000000728,die wir vorhin gesehen haben.
+894,"01:08:01,240","01:08:05,600",4081.24,4085.6,4.360000000000127,"Die führt hoch auf einem Berg, da wollten wir Windräder hinstellen."
+895,"01:08:05,680","01:08:09,400",4085.68,4089.4,3.7200000000002547,"Wir haben einen Planungsprozess gemacht,"
+896,"01:08:09,480","01:08:14,240",4089.48,4094.24,4.7599999999997635,werden die Genehmigung quasi in der Tasche.
+897,"01:08:14,360","01:08:18,920",4094.36,4098.92,4.559999999999945,"Dann kommt die Bundeswehr und sagt, da fliegen wir mit Hubschraubern."
+898,"01:08:19,040","01:08:21,400",4099.04,4101.4,2.3599999999996726,"Ich frage mich, ob wir gegen Russland"
+899,"01:08:21,520","01:08:25,400",4101.52,4105.4,3.8799999999991996,"bestehen werden, wenn die Hubschrauber nicht fliegen können."
+900,"01:08:25,520","01:08:33,120",4105.52,4113.12,7.599999999999454,In Deutschland haben wir für alles bürokratische Regeln.
+901,"01:08:34,280","01:08:36,600",4114.28,4116.6,2.3200000000006185,"Die lautet, die Tiefflugstrecke"
+902,"01:08:36,720","01:08:43,560",4116.72,4123.56,6.8400000000001455,hat die Bundeswehr vor 50 Jahren festgelegt.
+903,"01:08:44,120","01:08:46,120",4124.12,4126.12,2.0,Die hat jetzt Bestandsschutz.
+904,"01:08:46,240","01:08:49,840",4126.24,4129.84,3.600000000000364,"Wenn wir die verlegen würden, bestehe ein Rechtsrisiko,"
+905,"01:08:50,000","01:08:55,120",4130.0,4135.12,5.119999999999891,dass betroffene Anwohner gegen des Lärms sich beschweren könne.
+906,"01:08:55,240","01:09:03,200",4135.24,4143.2,7.960000000000036,Dann hätten wir am Ende keine Hubschrauber Tiefstrecke mehr.
+907,"01:09:04,320","01:09:07,120",4144.32,4147.12,2.800000000000182,"Ich habe Robert Habeck angerufen,"
+908,"01:09:07,240","01:09:11,680",4147.24,4151.68,4.440000000000509,"der hat gesagt, er redet Boris Pistorius."
+909,"01:09:11,800","01:09:14,200",4151.8,4154.2,2.399999999999636,Dann ist die Ampel zusammengebrochen.
+910,"01:09:14,320","01:09:16,800",4154.32,4156.8,2.480000000000473,Ich hätte es vielleicht doch geschafft.
+911,"01:09:16,920","01:09:18,640",4156.92,4158.64,1.7200000000002547,"Man ist nicht so flexibel,"
+912,"01:09:18,760","01:09:25,640",4158.76,4165.64,6.880000000000109,die Hubschrauberstrecke um 500 m zu verlegen.
+913,"01:09:25,760","01:09:29,040",4165.76,4169.04,3.2799999999997453,ML: Das ist aber nicht das Thema der Bundeswehr.
+914,"01:09:29,160","01:09:31,640",4169.16,4171.64,2.480000000000473,"Die machen das deswegen,"
+915,"01:09:31,800","01:09:36,120",4171.8,4176.12,4.319999999999709,damit sie kein Problem mit Anwohnern haben.
+916,"01:09:36,200","01:09:40,800",4176.2,4180.8,4.600000000000364,"BP: Die haben vorgeschlagen,"
+917,"01:09:40,920","01:09:43,720",4180.92,4183.72,2.800000000000182,verschiebt doch das Windrad um 500 m.
+918,"01:09:43,800","01:09:47,240",4183.8,4187.24,3.4399999999996,Dann würden wir an der Kirche vom Nachbardorf stehen.
+919,"01:09:47,360","01:09:52,120",4187.36,4192.12,4.760000000000218,ML: Dann lassen Sie es doch einfach.
+920,"01:09:52,240","01:09:55,120",4192.24,4195.12,2.880000000000109,"BP: Wenn die Stromautobahn überirdisch kommt,"
+921,"01:09:55,280","01:10:00,120",4195.28,4200.12,4.8400000000001455,dann geht das.
+922,"01:10:03,680","01:10:08,800",4203.68,4208.8,5.119999999999891,JM: Zwei Sachen.
+923,"01:10:12,240","01:10:16,160",4212.24,4216.16,3.9200000000000728,"Das eine ist, es ist ineffizient, wenn deutscher versucht,"
+924,"01:10:16,280","01:10:19,280",4216.28,4219.28,3.0,"alleine, im Alleingang, klimaneutral zu werden."
+925,"01:10:19,400","01:10:23,120",4219.4,4223.12,3.7200000000002547,Auf das mindeste ist es im europäischen Verbund gedacht.
+926,"01:10:23,200","01:10:26,520",4223.2,4226.52,3.3200000000006185,Ich bin kein Experte für Energieversorgungssysteme.
+927,"01:10:26,600","01:10:29,840",4226.6,4229.84,3.2399999999997817,"Ich gucke mir Spanien an, was die Anwohner haben."
+928,"01:10:29,920","01:10:31,840",4229.92,4231.84,1.9200000000000728,Da muss etwas zu machen sein.
+929,"01:10:31,960","01:10:36,240",4231.96,4236.24,4.279999999999745,Das muss sich unbedingt bei uns durch Fotovoltaik erzeugt werden.
+930,"01:10:36,360","01:10:38,440",4236.36,4238.44,2.0799999999999272,Es muss gemeinsam gedacht werden.
+931,"01:10:38,560","01:10:41,640",4238.56,4241.64,3.0799999999999272,Man muss zusammenarbeiten.
+932,"01:10:41,760","01:10:45,840",4241.76,4245.84,4.079999999999927,"Was vorhin auch gesagt wurde, wenn wir außerhalb der EU denken,"
+933,"01:10:45,960","01:10:49,840",4245.96,4249.84,3.880000000000109,"müssen wir überlegen,"
+934,"01:10:49,960","01:10:53,720",4249.96,4253.72,3.7600000000002183,"was, wenn die EU Treibhausgas neutral ist"
+935,"01:10:53,840","01:10:57,960",4253.84,4257.96,4.119999999999891,"und für andere wird es noch attraktiver,"
+936,"01:10:58,080","01:11:04,760",4258.08,4264.76,6.680000000000291,fossile zu verbrennen. Das will man nicht.
+937,"01:11:06,080","01:11:08,880",4266.08,4268.88,2.800000000000182,"ML: Die Idee ist, da sinkt die Nachfrage,"
+938,"01:11:09,000","01:11:10,680",4269.0,4270.68,1.680000000000291,deswegen wird es billiger -
+939,"01:11:10,800","01:11:15,720",4270.8,4275.72,4.920000000000073,"Öl, Kohle, Gas."
+940,"01:11:17,200","01:11:22,640",4277.2,4282.64,5.440000000000509,"JM: Dass das Problem, die Bewahrung eines gemeinschaftlichen Systems."
+941,"01:11:22,760","01:11:27,480",4282.76,4287.48,4.719999999999345,Das geht nur in internationaler Absprache.
+942,"01:11:27,640","01:11:34,160",4287.64,4294.16,6.519999999999527,Das kriegt auch die EU alleine nicht hin.
+943,"01:11:34,280","01:11:36,680",4294.28,4296.68,2.4000000000005457,Da wird es richtig schwierig.
+944,"01:11:36,800","01:11:40,120",4296.8,4300.12,3.319999999999709,"Selbst, wenn es keine eigene Interessen von Ländern"
+945,"01:11:40,280","01:11:45,080",4300.28,4305.08,4.800000000000182,"wie Saudi-Arabien geben würde, die sagen, ihr müsst eure Öl..."
+946,"01:11:45,160","01:11:50,080",4305.16,4310.08,4.920000000000073,"Wenn es sich um die beinharten Eigeninteressen ginge,"
+947,"01:11:50,200","01:11:53,680",4310.2,4313.68,3.480000000000473,"ist es trotzdem schwer, dass sich alle darauf einigen,"
+948,"01:11:53,800","01:11:56,880",4313.8,4316.88,3.0799999999999272,jetzt schützen wir dieses gemeinsame gut.
+949,"01:11:57,000","01:12:00,240",4317.0,4320.24,3.2399999999997817,Es ist eine extrem schwere Aufgabe.
+950,"01:12:00,360","01:12:06,040",4320.36,4326.04,5.680000000000291,Das kriegt auch keine rein europäische Lösung hin.
+951,"01:12:06,160","01:12:11,000",4326.16,4331.0,4.8400000000001455,MG: Darf ich noch einmal positiv daraus gehen?
+952,"01:12:11,080","01:12:19,320",4331.08,4339.32,8.239999999999782,"ML: Ich wollte schon sagen, mehr Optimismus ist heute nicht dran."
+953,"01:12:27,720","01:12:31,920",4347.72,4351.92,4.199999999999818,"MG: Erstens ist der Grdanke, der gemacht wurde, super wichtig."
+954,"01:12:32,040","01:12:33,920",4352.04,4353.92,1.8800000000001091,Wir müssen europäisch denken.
+955,"01:12:34,040","01:12:38,760",4354.04,4358.76,4.720000000000255,"Bei allen Themen, die mit Sicherheit zu tun haben."
+956,"01:12:38,880","01:12:43,960",4358.88,4363.96,5.079999999999927,Laterale Abkommen.
+957,"01:12:45,200","01:12:51,520",4365.2,4371.52,6.3200000000006185,"Freiheitsenergien, hieß es einmal."
+958,"01:12:52,400","01:12:58,360",4372.4,4378.36,5.960000000000036,Wir haben noch genug alliierte.
+959,"01:12:58,480","01:13:01,160",4378.48,4381.16,2.680000000000291,"Es gilt, die Abwärtsspirale zu verhindern."
+960,"01:13:01,280","01:13:06,240",4381.28,4386.24,4.960000000000036,Dann kann man voneinander lernen.
+961,"01:13:06,360","01:13:12,760",4386.36,4392.76,6.400000000000546,"Technologiewettbewerb, Cofinanzierung."
+962,"01:13:13,080","01:13:15,480",4393.08,4395.48,2.399999999999636,Wie kriege ich Länder...
+963,"01:13:15,600","01:13:21,080",4395.6,4401.08,5.479999999999563,Das ist das kooperative.
+964,"01:13:21,880","01:13:24,400",4401.88,4404.4,2.519999999999527,"Es ist richtig, was sie gesagt haben."
+965,"01:13:24,520","01:13:26,480",4404.52,4406.48,1.9599999999991269,"Die Menschen glauben,"
+966,"01:13:26,600","01:13:29,160",4406.6,4409.16,2.5599999999994907,dass Klimaschutz
+967,"01:13:29,280","01:13:32,160",4409.28,4412.16,2.880000000000109,und Wirtschaftlichkeit nicht zusammen gehen.
+968,"01:13:32,280","01:13:35,960",4412.28,4415.96,3.680000000000291,"Das liegt einem Diskurs, nicht daran, dass es nicht geht."
+969,"01:13:36,080","01:13:39,640",4416.08,4419.64,3.5600000000004,Wenn irgendetwas unseren Wohlstand kaputtmachen wird...
+970,"01:13:39,760","01:13:42,240",4419.76,4422.24,2.4799999999995634,"ML: Ich fühle mich direkt angesprochen,"
+971,"01:13:42,400","01:13:46,160",4422.4,4426.16,3.7600000000002183,wenn Sie mich so böse angucken.
+972,"01:13:46,280","01:13:49,600",4426.28,4429.6,3.3200000000006185,"Ich sehe, wie günstig die erneuerbaren Energie sind."
+973,"01:13:49,720","01:13:55,960",4429.72,4435.96,6.239999999999782,"In Indien, ein Kilo für einen Cent."
+974,"01:13:57,760","01:14:01,560",4437.76,4441.56,3.800000000000182,"BP: In Tübingen kommt das aus den Solar und Windanlagen,"
+975,"01:14:01,680","01:14:03,240",4441.68,4443.24,1.5599999999994907,die wir selber betreiben.
+976,"01:14:03,360","01:14:05,960",4443.36,4445.96,2.600000000000364,MG: Wir dürfen nicht mehr Klientelpolitik
+977,"01:14:06,080","01:14:08,120",4446.08,4448.12,2.0399999999999636,mit anderen Sachen verwechseln.
+978,"01:14:08,160","01:14:14,000",4448.16,4454.0,5.8400000000001455,Es gibt keine Sicherheit und damit auch kein Wettbewerbsmodell.
+979,"01:14:14,120","01:14:16,520",4454.12,4456.52,2.4000000000005457,"ML: Sehr viel Optimismus war das auch nicht, Sie haben es versucht."
+980,"01:14:18,920","01:14:21,280",4458.92,4461.28,2.3599999999996726,danke Ihnen allen ganz herzlich.
+981,"01:14:21,280","01:14:27,400",4461.28,4467.4,6.119999999999891,"Viel gelernt, jetzt die Kollegen vom heute-journal Update."

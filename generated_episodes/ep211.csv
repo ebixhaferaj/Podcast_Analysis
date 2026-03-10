@@ -1,0 +1,992 @@
+﻿segment_id,start_time,end_time,start_seconds,end_seconds,duration,text
+1,"00:00:00,040","00:00:01,040",0.04,1.04,1.0,Diese Untertitel sind live produziert.
+2,"00:00:01,080","00:00:02,400",1.08,2.4,1.3199999999999998,"Willkommen zu unserer Sendung,"
+3,"00:00:02,480","00:00:06,080",2.48,6.08,3.6,"in der wir heute ein weiteres Mal versuchen wollen,"
+4,"00:00:06,160","00:00:07,920",6.16,7.92,1.7599999999999998,"ein bisschen besser zu verstehen,"
+5,"00:00:08,000","00:00:11,440",8.0,11.44,3.4399999999999995,"was eigentlich gerade in Amerika passiert und deshalb ist es gut,"
+6,"00:00:11,520","00:00:14,400",11.52,14.4,2.880000000000001,dass dieser Mann heute unserer Einladung gefolgt ist.
+7,"00:00:14,440","00:00:16,800",14.44,16.8,2.360000000000001,"Der ehemalige Bundeswirtschaftsminister,"
+8,"00:00:16,880","00:00:20,920",16.88,20.92,4.040000000000003,"der nicht nur mit den Trump-Leuten schon persönlich verhandelt hat,"
+9,"00:00:21,040","00:00:22,840",21.04,22.84,1.8000000000000007,"und den wir fragen wollen,"
+10,"00:00:22,920","00:00:27,120",22.92,27.12,4.199999999999999,wie genau so etwas eigentlich abläuft.
+11,"00:00:27,200","00:00:30,840",27.2,30.84,3.6400000000000006,"Darüberhinaus, und das verspricht, interessant zu werden,"
+12,"00:00:30,880","00:00:33,680",30.88,33.68,2.8000000000000007,"gehört er aber auch den Wenigen, deren Erklärung"
+13,"00:00:33,760","00:00:35,560",33.76,35.56,1.8000000000000043,über die übliche Rhetorik der Marke
+14,"00:00:35,640","00:00:38,440",35.64,38.44,2.799999999999997,"""Trump ist eben der Irre aus Washington"" hinausgehen."
+15,"00:00:38,520","00:00:41,720",38.52,41.72,3.1999999999999957,"""Erstens"", sagt er, ""braucht dieser Präsident Geld""."
+16,"00:00:41,800","00:00:43,880",41.8,43.88,2.0800000000000054,Viel Geld und ganz dringend.
+17,"00:00:44,000","00:00:47,760",44.0,47.76,3.759999999999998,"Und zweitens, sagt er, ""ist er ein Anhänger des Protektionismus,"
+18,"00:00:47,840","00:00:49,040",47.84,49.04,1.1999999999999957,"weil er gesehen hat,"
+19,"00:00:49,120","00:00:51,840",49.12,51.84,2.720000000000006,wie Hunderttausende amerikanische Arbeiter ihren Job
+20,"00:00:51,920","00:00:54,280",51.92,54.28,2.3599999999999994,"durch die Globalisierung verloren haben."""
+21,"00:00:54,360","00:00:57,640",54.36,57.64,3.280000000000001,"Und er weist daraufhin, dass genau dort, wo das passiert ist,"
+22,"00:00:57,720","00:01:01,880",57.72,61.88,4.160000000000004,in Trumps erster Amtszeit wieder 50.000 neue Jobs zurückgekommen sind.
+23,"00:01:02,000","00:01:04,240",62.0,64.24,2.239999999999995,"Kann das also ein zweites Mal funktionieren?,"
+24,"00:01:04,320","00:01:07,160",64.32,67.16,2.8400000000000034,"fragen wir Peter Altmaier, herzlich willkommen."
+25,"00:01:12,080","00:01:13,520",72.08,73.52,1.4399999999999977,PA: Ich freue mich auch.
+26,"00:01:14,440","00:01:18,000",74.44,78.0,3.5600000000000023,Es gibt eine direkte Linie von sehr viel Geld zu sehr vielen Schulden
+27,"00:01:18,080","00:01:21,160",78.08,81.16,3.0799999999999983,"und es ist interessant, sich mit dieser Frau zu unterhalten,"
+28,"00:01:21,240","00:01:22,800",81.24,82.8,1.5600000000000023,"wenn es um die Frage geht,"
+29,"00:01:22,880","00:01:26,400",82.88,86.4,3.5200000000000102,"was eigentlich die Konsequenzen aus dem gewaltigen Schuldenberg sind,"
+30,"00:01:26,560","00:01:28,480",86.56,88.48,1.9200000000000017,den wir jetzt auch in Deutschland anhäufen.
+31,"00:01:28,560","00:01:31,640",88.56,91.64,3.0799999999999983,Und offenbar wissen das auch die Verantwortlichen in Berlin.
+32,"00:01:31,720","00:01:33,680",91.72,93.68,1.960000000000008,"Sie sagt, wenn man mal verstehen will,"
+33,"00:01:33,760","00:01:36,240",93.75999999999999,96.24000000000001,2.480000000000018,"wie ambitioniert dieser Koalitionsvertrag ist,"
+34,"00:01:36,320","00:01:39,520",96.32,99.52000000000001,3.200000000000017,"hilft es, in die Feinheiten der deutschen Sprache einzusteigen,"
+35,"00:01:39,600","00:01:42,720",99.6,102.72,3.1200000000000045,"""man muss einfach nur zähle, wie oft das schöne Wort ""werden"""
+36,"00:01:42,800","00:01:45,880",102.8,105.88,3.0799999999999983,"durch das Wörtchen ""wollen"" ersetzt wurde,"
+37,"00:01:46,560","00:01:52,680",106.56,112.68,6.1200000000000045,"nicht weniger als 299 Mal ""wollen"" CDU und SPD Dinge erledigen,"
+38,"00:01:54,520","00:01:56,520",114.52000000000001,116.52000000000001,2.0,"aber sie ""werden"" sie nicht erledigen,"
+39,"00:01:56,560","00:01:59,880",116.56,119.88,3.319999999999993,"herzlich willkommen einer exzellenten Wirtschaftsjournalistin,"
+40,"00:01:59,960","00:02:02,440",119.96000000000001,122.44,2.4799999999999898,nämlich Julia Löhr von der FAZ.
+41,"00:02:02,480","00:02:05,520",122.48,125.52,3.039999999999992,"Und das Thema Schulden einmal im ganz großen Kontext,"
+42,"00:02:05,560","00:02:09,640",125.56,129.64,4.079999999999984,"dafür ist dieser Mann heute hier, der ehemalige Chef des ifo-Instituts,"
+43,"00:02:09,720","00:02:12,360",129.72,132.36,2.640000000000015,"einer der besten Ökonomen des Landes,"
+44,"00:02:12,440","00:02:14,960",132.44,134.96,2.5200000000000102,"der heute mal etwas genauer erklären wird,"
+45,"00:02:15,040","00:02:18,000",135.04,138.0,2.960000000000008,auf welchem Schuldenberg die Amerikaner gerade sitzen
+46,"00:02:18,080","00:02:21,680",138.07999999999998,141.68,3.6000000000000227,"und was das für Konsequenzen hat für die Inflation, für den Dollar,"
+47,"00:02:21,720","00:02:25,520",141.72,145.52,3.8000000000000114,dessen Rolle als stabiler Hüter der Leitwährung der Welt
+48,"00:02:25,600","00:02:28,560",145.6,148.56,2.960000000000008,"zu Ende geht, wie er glaubt"
+49,"00:02:28,640","00:02:31,120",148.64,151.12,2.480000000000018,und auch für die Bonität der Amerikaner:
+50,"00:02:31,200","00:02:34,520",151.2,154.52,3.3200000000000216,"""Die ist schon lange nicht mehr das, was sie mal war"", sagt er"
+51,"00:02:34,560","00:02:35,840",154.56,155.84,1.2800000000000011,und verweist auf Europa:
+52,"00:02:35,920","00:02:39,320",155.92000000000002,159.32,3.3999999999999773,"""Das amerikanische Problem ist in gewisser Weise das französische:"
+53,"00:02:39,400","00:02:41,880",159.4,161.88,2.4799999999999898,"Die Zinslast drückt mittlerweile so gewaltig,"
+54,"00:02:41,960","00:02:44,600",161.96,164.6,2.6399999999999864,dass die Länder kaum noch handlungsfähig sind.
+55,"00:02:45,760","00:02:49,560",165.76,169.56,3.8000000000000114,"Das ist das dicke Ende bei jeder Verschuldung."""
+56,"00:02:49,640","00:02:51,840",169.64,171.84,2.200000000000017,Und dann? Neue Weltfinanzkrise?
+57,"00:02:52,800","00:02:58,120",172.8,178.12,5.319999999999993,"Fragen an Hans-Werner Sinn, herzlich willkommen."
+58,"00:02:58,280","00:03:00,520",178.28,180.52,2.240000000000009,"Und als ob das nicht alles bitter genug wäre,"
+59,"00:03:00,600","00:03:02,520",180.6,182.52,1.920000000000016,stirbt jetzt auch noch der Papst.
+60,"00:03:02,600","00:03:07,680",182.6,187.68,5.0800000000000125,Er hat dieser Tage im Gespräch mit Paul Ronzheimer darüber gesagt:
+61,"00:03:07,760","00:03:11,840",187.76,191.84,4.0800000000000125,"""Dass dieser Mann, dieses Symbol von internationaler Humanität,"
+62,"00:03:11,920","00:03:14,280",191.92,194.28,2.3600000000000136,"gerade jetzt, in einer Situation,"
+63,"00:03:14,320","00:03:17,880",194.32,197.88,3.5600000000000023,"wo die UN nicht mehr richtig funktionieren, stirbt,"
+64,"00:03:17,920","00:03:20,720",197.92000000000002,200.72,2.799999999999983,"kann uns alle nicht unberührt lassen."""
+65,"00:03:21,560","00:03:25,480",201.56,205.48,3.9199999999999875,Was bleibt von diesem Papst?
+66,"00:03:25,520","00:03:30,200",205.52,210.2,4.679999999999978,Und warum hat er um Deutschland erstaunlicherweise immer irgendwie
+67,"00:03:30,240","00:03:31,520",210.24,211.52,1.2800000000000011,einen Bogen gemacht?
+68,"00:03:33,000","00:03:35,360",213.0,215.36,2.3600000000000136,"Fragen an den Theologen und Psychiater Manfred Lütz,"
+69,"00:03:35,440","00:03:36,840",215.44,216.84,1.4000000000000057,herzlich willkommen.
+70,"00:03:43,080","00:03:46,760",223.07999999999998,226.76,3.680000000000007,"Ja schönen guten Abend in die Runde,"
+71,"00:03:46,840","00:03:49,240",226.84,229.24,2.4000000000000057,"sie sehen super aus, Herr Altmeister."
+72,"00:03:49,280","00:03:53,840",229.28,233.84,4.560000000000002,Wie kommt es?
+73,"00:03:53,840","00:04:00,200",233.84,240.2,6.359999999999985,PA: Ich bin Rentner und habe im Garten gearbeitet.
+74,"00:04:00,240","00:04:04,680",240.24,244.68,4.439999999999998,"- Wie ist es, nicht mehr an den Koalitionsverhandlungen teilnehmen"
+75,"00:04:04,680","00:04:08,360",244.68,248.36,3.680000000000007,zu müssen?
+76,"00:04:08,400","00:04:11,040",248.4,251.04,2.6399999999999864,PA: Ich hatte das Privileg und das Glück
+77,"00:04:11,080","00:04:14,640",251.08,254.64,3.559999999999974,an vier Koalitionsverhandlungen teilnehmen zu dürfen.
+78,"00:04:14,680","00:04:16,120",254.68,256.12,1.4399999999999977,Ich vermisse es nicht.
+79,"00:04:16,120","00:04:18,120",256.12,258.12,2.0,"Ich weiß, wie schwer das ist,"
+80,"00:04:18,120","00:04:21,640",258.12,261.64,3.519999999999982,wie viele Nächte man sich um die Ohren schlagen muss.
+81,"00:04:21,680","00:04:24,440",261.68,264.44,2.759999999999991,Wie schwer es ist einen Koalitionsvertrag
+82,"00:04:24,480","00:04:25,840",264.48,265.84,1.3599999999999568,"zustande zu bringen,"
+83,"00:04:25,960","00:04:30,320",265.96,270.32,4.360000000000014,der anschließend auch ein gutes Regiebuch für eine Wahlperiode ist.
+84,"00:04:30,360","00:04:33,440",270.36,273.44,3.079999999999984,Die Umstände verändern sich immer sehr schnell.
+85,"00:04:33,480","00:04:35,040",273.48,275.04,1.5600000000000023,"- Sie haben mal gesagt,"
+86,"00:04:35,080","00:04:37,880",275.08,277.88,2.8000000000000114,die Sitzungen Ende nicht vor Mitternacht.
+87,"00:04:37,920","00:04:46,080",277.92,286.08,8.159999999999968,"Aber das braucht man, denn es erhöht die Kompromissbereitschaft?"
+88,"00:04:47,920","00:04:50,800",287.92,290.8,2.8799999999999955,PA: Selbst wenn die Kompromissbereitschaft
+89,"00:04:50,880","00:04:52,800",290.88,292.8,1.920000000000016,vorher schon in den Köpfen
+90,"00:04:52,840","00:04:56,880",292.84000000000003,296.88,4.039999999999964,"steckt muss man auch von den eigenen Anhängern demonstrieren,"
+91,"00:04:56,880","00:05:00,200",296.88,300.2,3.319999999999993,dass man bis zu den letzten Minuten gekämpft hat.
+92,"00:05:00,280","00:05:03,280",300.28,303.28,3.0,Tarifverhandlungen funktionieren ganz ähnlich.
+93,"00:05:03,280","00:05:06,720",303.28,306.72,3.4400000000000546,"Es ist gefährlich, wenn man viel falsch machen kann."
+94,"00:05:06,760","00:05:11,000",306.76,311.0,4.240000000000009,Es ist schwer Dinge richtig zu machen.
+95,"00:05:11,040","00:05:16,200",311.04,316.2,5.159999999999968,"In den 16 Jahren,"
+96,"00:05:16,360","00:05:20,480",316.36,320.48,4.1200000000000045,"in den ich dabei sein durfte, haben wir viele Fehler gemacht."
+97,"00:05:20,520","00:05:25,880",320.52,325.88,5.360000000000014,"Wahrscheinlich mit der FDP die größten im Jahre 2009,"
+98,"00:05:25,960","00:05:29,880",325.96,329.88,3.920000000000016,"wir wollten schnell zu Ende kommen, haben Dinge akzeptiert,"
+99,"00:05:29,920","00:05:33,360",329.92,333.36,3.4399999999999977,die sich am Ende als schlecht herausgestellt haben.
+100,"00:05:33,400","00:05:35,960",333.4,335.96,2.5600000000000023,"Wir haben Steuersenkungen versprochen,"
+101,"00:05:36,000","00:05:40,080",336.0,340.08,4.079999999999984,das war mit der Einhaltung der Schuldenbremse nicht zu machen.
+102,"00:05:40,120","00:05:43,880",340.12,343.88,3.759999999999991,Deswegen ist diese Steuersenkung nicht zustande gekommen.
+103,"00:05:43,920","00:05:46,960",343.92,346.96,3.0399999999999636,Das hat selbst die FDP kapiert.
+104,"00:05:47,000","00:05:52,120",347.0,352.12,5.1200000000000045,Aber es hat einen großen Schaden angerichtet.
+105,"00:05:52,200","00:05:54,080",352.2,354.08,1.8799999999999955,"Die Glaubwürdigkeit der FDP,"
+106,"00:05:54,120","00:05:59,680",354.12,359.68,5.560000000000002,aber auch der gesamten Bundesregierung war beschädigt.
+107,"00:05:59,720","00:06:03,720",359.72,363.72,4.0,"- Ich habe sie gerade zitiert,"
+108,"00:06:03,720","00:06:06,240",363.72,366.24,2.519999999999982,sie haben in diesem Koalitionsvertrag
+109,"00:06:06,280","00:06:10,880",366.28,370.88,4.600000000000023,genau herein gelesen.
+110,"00:06:10,920","00:06:18,760",370.92,378.76,7.839999999999975,"Besteht darin, dass dies wollen, ob es wird, das weiß man nicht."
+111,"00:06:18,800","00:06:23,800",378.8,383.8,5.0,"- Der Koalitionsvertrag wurde vorgestellt,"
+112,"00:06:23,840","00:06:28,760",383.84,388.76,4.920000000000016,"auf der Pressekonferenz, da wurde auch nachgefragt."
+113,"00:06:28,760","00:06:32,600",388.76,392.6,3.840000000000032,"Das alles mit dem werden schon mal eine feste Absicht ist,"
+114,"00:06:32,640","00:06:38,480",392.64,398.48,5.840000000000032,wollen ist ein loser Wunsch.
+115,"00:06:38,800","00:06:41,240",398.8,401.24,2.4399999999999977,"Wir haben aber auch gelernt,"
+116,"00:06:41,280","00:06:46,880",401.28,406.88,5.600000000000023,es steht alles unter Finanzierungsvorbehalt.
+117,"00:06:46,920","00:06:49,480",406.92,409.48,2.5600000000000023,"Von daher ist doch das, was mit werden darin steht,"
+118,"00:06:49,520","00:06:53,640",409.52,413.64,4.1200000000000045,nicht wirklich gesetzt. Zum Beispiel das Thema Steuersenkungen.
+119,"00:06:53,720","00:06:59,480",413.72,419.48,5.759999999999991,Das steht auch unter wollen.
+120,"00:07:04,160","00:07:07,840",424.16,427.84,3.67999999999995,"- Herr Altmaier hat gerade etwas interessantes gesagt,"
+121,"00:07:07,880","00:07:11,600",427.88,431.6,3.7200000000000273,"er hat gesagt, es hat einen großen Schaden angerichtet,"
+122,"00:07:11,640","00:07:17,520",431.64,437.52,5.8799999999999955,"Versprechen, die nicht eingehalten werden."
+123,"00:07:17,560","00:07:20,840",437.56,440.84,3.2799999999999727,"Untersagt über diesen neuen Beginn der Koalition,"
+124,"00:07:20,880","00:07:23,720",440.88,443.72,2.840000000000032,"""die gröbsten Fehler wurden schon gemacht,"
+125,"00:07:23,760","00:07:31,440",443.76,451.44,7.680000000000007,"vor der Wahl, auf beiden Seiten"", sehen Sie das auch so?"
+126,"00:07:36,360","00:07:43,520",456.36,463.52,7.159999999999968,"HS: Man hat Herr Merz enttäuscht, er wollte eine Kehrtwende."
+127,"00:07:43,560","00:07:50,320",463.56,470.32,6.759999999999991,"Er hat angekündigt, was er zurücknehmen musste."
+128,"00:07:50,360","00:07:53,000",470.36,473.0,2.6399999999999864,"Die SPD hat vielmehr Einfluss genommen,"
+129,"00:07:53,040","00:07:55,640",473.04,475.64,2.599999999999966,als es ihrem Stimmen Gewicht entsprach.
+130,"00:07:55,720","00:07:57,440",475.72,477.44,1.7199999999999704,Aber so sind Verhandlungen.
+131,"00:07:57,480","00:07:58,840",477.48,478.84000000000003,1.3600000000000136,- Was bedeutet das?
+132,"00:07:58,880","00:08:05,040",478.88,485.04,6.160000000000025,Ich frage mal offen in die Runde.
+133,"00:08:09,360","00:08:12,680",489.36,492.68,3.319999999999993,"Was ist das, ist das eine feiste politische Lüge,"
+134,"00:08:12,720","00:08:15,360",492.72,495.36,2.6399999999999864,"wenn man vorher gesagt, Schuldenbremse,"
+135,"00:08:15,440","00:08:17,040",495.44,497.04,1.6000000000000227,das gehört zur Union.
+136,"00:08:17,080","00:08:20,520",497.08,500.52,3.4399999999999977,"Man wird es einhalten, dann kommt das Kanzlerduell,"
+137,"00:08:20,560","00:08:25,000",500.56,505.0,4.439999999999998,"dann sagt Olaf Scholz etwas von Schulden, dann sagt Friedrich Merz,"
+138,"00:08:25,040","00:08:29,200",505.04,509.2,4.159999999999968,"entschuldigen Sie, wie weit wollen wir das vertreiben?"
+139,"00:08:29,280","00:08:35,680",509.28,515.68,6.399999999999977,"Dann verweist er noch auf die kommende Generation,"
+140,"00:08:35,720","00:08:38,480",515.72,518.48,2.759999999999991,"""das müssen alle unsere Kinder bezahlen""."
+141,"00:08:38,520","00:08:40,800",518.52,520.8,2.2799999999999727,"Dann kommt die Wahl,"
+142,"00:08:40,840","00:08:48,440",520.84,528.44,7.600000000000023,dann hat sich die Koalition zerlegt wegen ein paar Milliarden.
+143,"00:08:48,480","00:08:51,240",528.48,531.24,2.759999999999991,Und plötzlich hast du Billionen.
+144,"00:08:51,280","00:08:53,520",531.28,533.52,2.240000000000009,Viel zerstörter ist die Glaubwürdigkeit?
+145,"00:09:00,640","00:09:03,040",540.64,543.04,2.3999999999999773,"HS: Nicht eine Billionen, sondern 2."
+146,"00:09:03,080","00:09:08,320",543.08,548.32,5.240000000000009,- Ich wollte es human sagen.
+147,"00:09:08,360","00:09:15,640",548.36,555.64,7.279999999999973,"HS: Je nachdem, wie viele Verteidigungsausgaben anfallen."
+148,"00:09:15,680","00:09:23,520",555.68,563.52,7.840000000000032,Man hat im Beifang noch mal von 500 Milliarden gesprochen.
+149,"00:09:30,200","00:09:35,400",570.2,575.4,5.199999999999932,"Das ist viel Geld,"
+150,"00:09:39,680","00:09:41,640",579.68,581.64,1.9600000000000364,das ist
+151,"00:09:41,640","00:09:47,360",581.64,587.36,5.720000000000027,"eine Zahl hängt davon ab,"
+152,"00:09:47,480","00:09:51,160",587.48,591.16,3.67999999999995,was man an Verteidigungsausgaben hat.
+153,"00:09:51,160","00:09:54,760",591.16,594.76,3.6000000000000227,Das geht natürlich über das 2 % Ziel der NATO hinaus.
+154,"00:09:54,760","00:10:00,400",594.76,600.4,5.639999999999986,"Das ist sehr viel, das sind 2000 Milliarden,"
+155,"00:10:00,400","00:10:06,200",600.4,606.2,5.800000000000068,oder 2000 Elbphilharmonien.
+156,"00:10:10,120","00:10:12,880",610.12,612.88,2.759999999999991,"Zwo man könnte das real auch umsetzen,"
+157,"00:10:12,880","00:10:19,920",612.88,619.92,7.039999999999964,"das Problem ist, man hat die Leute dafür nicht,"
+158,"00:10:19,960","00:10:24,240",619.96,624.24,4.279999999999973,die Menschen sind nur einmal da und können entweder Panzer bauen
+159,"00:10:24,280","00:10:27,240",624.28,627.24,2.9600000000000364,oder Brücken bauen.
+160,"00:10:27,280","00:10:31,200",627.28,631.2,3.9200000000000728,"Oder in die Rente gehen, man kann nicht alles gleichzeitig."
+161,"00:10:31,200","00:10:32,960",631.2,632.96,1.759999999999991,"Dabei lässt sich das,"
+162,"00:10:33,000","00:10:37,120",633.0,637.12,4.1200000000000045,deswegen ist da grundsätzlich eine Überdehnung
+163,"00:10:37,160","00:10:44,960",637.16,644.96,7.800000000000068,"der gesamtwirtschaftlichen Nachfrage, die inflationär ist."
+164,"00:10:51,000","00:10:53,840",651.0,653.84,2.840000000000032,"Das Urteil sieht günstiger aus für das,"
+165,"00:10:53,880","00:10:59,720",653.88,659.72,5.840000000000032,"was die Regierung beschlossen hat,"
+166,"00:10:59,720","00:11:03,360",659.72,663.36,3.6399999999999864,in einer solchen Rezession bräuchte man für Nachfrage.
+167,"00:11:03,400","00:11:08,400",663.4,668.4,5.0,- Wir reden gleich ausführlicher darüber.
+168,"00:11:08,440","00:11:12,560",668.44,672.56,4.119999999999891,Eine Nachfrage an den Psychater.
+169,"00:11:12,600","00:11:19,400",672.6,679.4,6.7999999999999545,Was macht das mit der Psyche eines Landes?
+170,"00:11:26,960","00:11:30,560",686.96,690.56,3.599999999999909,"ML: Ich glaube wir haben hier die günstige Situation,"
+171,"00:11:30,600","00:11:33,240",690.6,693.24,2.6399999999999864,"dass wir nicht in der Regierung sind,"
+172,"00:11:33,280","00:11:36,640",693.28,696.64,3.3600000000000136,"in meinem Leben ist das die dramatische Situation,"
+173,"00:11:36,680","00:11:40,920",696.68,700.92,4.240000000000009,die Deutschland erlebt hat.
+174,"00:11:40,960","00:11:44,240",700.96,704.24,3.2799999999999727,"Ich finde das vor den Wahlen, die Parteien,"
+175,"00:11:44,280","00:11:48,800",704.28,708.8,4.519999999999982,"die Haut ein Programm geliefert, was sie wollen."
+176,"00:11:48,840","00:11:53,480",708.84,713.48,4.639999999999986,"Nach den Wahlen kam die Situation, die für mich noch dramatischer ist,"
+177,"00:11:53,520","00:11:55,480",713.52,715.48,1.9600000000000364,dieses Gespräch mit Selenskyj.
+178,"00:11:55,520","00:11:58,840",715.52,718.84,3.32000000000005,"Als Psychotherapeut kann ich sagen,"
+179,"00:11:58,880","00:12:03,560",718.88,723.56,4.67999999999995,für mich war das Gespräch mit Selenskyj erschütternd.
+180,"00:12:03,600","00:12:07,800",723.6,727.8,4.199999999999932,"Ich habe mich sehr damit beschäftigt,"
+181,"00:12:07,800","00:12:12,000",727.8,732.0,4.2000000000000455,das letzte Mal ist ein Staatschef von einem anderen Staatschefs
+182,"00:12:12,040","00:12:13,680",732.04,733.68,1.6399999999999864,"so behandelt worden,"
+183,"00:12:13,720","00:12:20,360",733.72,740.36,6.639999999999986,ich schätze mal vor 200 oder 500 Jahren.
+184,"00:12:24,000","00:12:29,000",744.0,749.0,5.0,Schrecklich.
+185,"00:12:30,840","00:12:33,360",750.84,753.36,2.519999999999982,"Wir können uns nicht darauf verlassen,"
+186,"00:12:33,400","00:12:39,160",753.4,759.16,5.759999999999991,"ich bin jetzt 71 Jahre alt,"
+187,"00:12:40,080","00:12:44,400",760.08,764.4,4.319999999999936,ich habe immer selbstverständlich psychologisch unter dem Schutz
+188,"00:12:44,440","00:12:46,840",764.44,766.84,2.3999999999999773,"der Amerikaner gelebt,"
+189,"00:12:46,840","00:12:48,800",766.84,768.8,1.9599999999999227,das ist jetzt vorbei.
+190,"00:12:48,840","00:12:51,880",768.84,771.88,3.0399999999999636,In so einer Situation als zukünftiger Kanzler
+191,"00:12:51,920","00:12:56,560",771.92,776.56,4.639999999999986,"die Verantwortung zu übernehmen zu sagen, wir müssen ganz neu denken,"
+192,"00:12:56,600","00:13:02,480",776.6,782.48,5.8799999999999955,"wenn Amerika unkalkulierbar ist,"
+193,"00:13:02,520","00:13:06,840",782.52,786.84,4.32000000000005,wer jetzt in einem Zweifrontenkrieg sind zwischen Putin vom Osten
+194,"00:13:06,880","00:13:10,080",786.88,790.08,3.2000000000000455,"und Trump aus dem Westen,"
+195,"00:13:10,080","00:13:14,120",790.08,794.12,4.039999999999964,dann muss die Bundesregierung die Möglichkeit haben viel Geld
+196,"00:13:14,160","00:13:17,920",794.16,797.92,3.759999999999991,"auch einzusetzen um uns militärisch wieder fit zu machen,"
+197,"00:13:17,960","00:13:20,920",797.96,800.92,2.9599999999999227,"das hat man früher immer anekdotische erlebt,"
+198,"00:13:20,960","00:13:23,880",800.96,803.88,2.919999999999959,das kann es nicht sein.
+199,"00:13:23,920","00:13:26,680",803.92,806.68,2.759999999999991,"Außerdem muss man genügend Freiheit haben,"
+200,"00:13:26,720","00:13:30,040",806.72,810.04,3.3199999999999363,"uns auch wirtschaftlich wieder darauf zu kriegen,"
+201,"00:13:30,080","00:13:33,560",810.08,813.56,3.4799999999999045,sonst sind die Rechtspopulisten bald in der Mehrheit.
+202,"00:13:33,600","00:13:38,120",813.6,818.12,4.519999999999982,Wenn das weiter wirtschaftlich bergab geht.
+203,"00:13:38,160","00:13:40,200",818.16,820.2,2.0400000000000773,Das habe ich so verstanden:
+204,"00:13:40,240","00:13:43,400",820.24,823.4,3.159999999999968,"die Zweidrittelmehrheit mit dem neuen Parlament,"
+205,"00:13:43,440","00:13:44,920",823.44,824.92,1.4799999999999045,"das ist auch tragisch,"
+206,"00:13:44,960","00:13:52,800",824.96,832.8,7.839999999999918,"das ist nicht mehr möglich mit den demokratischen Parteien,"
+207,"00:13:53,360","00:13:56,520",833.36,836.52,3.159999999999968,"hat man sich zunächst einmal einen Freiraum geschaffen,"
+208,"00:13:56,560","00:13:58,640",836.56,838.64,2.080000000000041,dass man handeln könnte.
+209,"00:13:58,680","00:14:01,760",838.68,841.76,3.080000000000041,"Was mich interessiert es nicht die Verhandlung,"
+210,"00:14:01,800","00:14:04,160",841.8,844.16,2.3600000000000136,sondern sie wird regiert.
+211,"00:14:04,200","00:14:07,400",844.2,847.4,3.199999999999932,Wird das Geld rausgeworfen oder wird es wirklich
+212,"00:14:07,440","00:14:10,640",847.44,850.64,3.199999999999932,in Infrastrukturmaßnahmen eingesetzt.
+213,"00:14:10,680","00:14:15,000",850.68,855.0,4.32000000000005,"Dass die Leute enttäuscht sind im Moment, das kann ich verstehen,"
+214,"00:14:15,040","00:14:17,160",855.04,857.16,2.1200000000000045,es passiert nichts.
+215,"00:14:17,200","00:14:25,160",857.2,865.16,7.959999999999923,"- Wollen wir Julia Löhr fragen, als politische Beobachterin."
+216,"00:14:25,880","00:14:29,320",865.88,869.32,3.4400000000000546,Überzeugt Sie diese Argumentation?
+217,"00:14:29,360","00:14:37,920",869.36,877.92,8.559999999999945,JL: Natürlich war dieser Moment in Amerika ein Schockmoment für alle.
+218,"00:14:39,400","00:14:43,280",879.4,883.28,3.8799999999999955,"Man hätte das mit einem Sondervermögen machen können,"
+219,"00:14:43,320","00:14:48,080",883.32,888.08,4.759999999999991,"Sonderschulden, wieder kriegstüchtig zu werden."
+220,"00:14:48,120","00:14:54,960",888.12,894.96,6.840000000000032,"Was geschehen ist ist ein Freibrief, die Schuldenbremse wurde gelockert."
+221,"00:14:55,000","00:14:58,080",895.0,898.08,3.080000000000041,"Der Verteidigungsbegriffe sehr weit gefasst,"
+222,"00:14:58,120","00:15:01,000",898.12,901.0,2.8799999999999955,"so kommt es zu dieser großen Summe,"
+223,"00:15:01,040","00:15:05,640",901.04,905.64,4.600000000000023,die alleine für die Verteidigung an Schulden aufgenommen werden kann.
+224,"00:15:05,640","00:15:10,240",905.64,910.24,4.600000000000023,"Dazu hat mir die Situation,"
+225,"00:15:10,280","00:15:14,600",910.28,914.6,4.32000000000005,dass Friedrich Merz die SPD und die Grünen brauchte
+226,"00:15:14,640","00:15:17,960",914.64,917.96,3.32000000000005,um innerhalb von wenigen Tagen die 500 Milliarden
+227,"00:15:18,000","00:15:22,280",918.0,922.28,4.279999999999973,"für die Infrastruktur dazukommen, da wurden viele Wege geöffnet."
+228,"00:15:22,320","00:15:27,000",922.32,927.0,4.67999999999995,"Ich würde sagen, Friedrich Merz ist da über das Ziel hinaus geschossen."
+229,"00:15:27,040","00:15:31,280",927.04,931.28,4.240000000000009,Es war für ihn alternativlos.
+230,"00:15:31,320","00:15:35,320",931.32,935.32,4.0,"Es gab keine andere Möglichkeit, weil er die Koalition will."
+231,"00:15:35,400","00:15:40,800",935.4,940.8,5.399999999999977,"PA: Ich glaube schon,"
+232,"00:15:42,400","00:15:48,800",942.4,948.8,6.399999999999977,dass eine Möglichkeit gegeben hätte.
+233,"00:15:52,840","00:15:58,080",952.84,958.08,5.240000000000009,Olaf Scholz hätte damals sicherlich viele Zugeständnisse gemacht
+234,"00:15:58,120","00:16:03,000",958.12,963.0,4.8799999999999955,wenn wir einen anderen Weg gefunden hätten die Waffenlieferungen
+235,"00:16:03,040","00:16:05,080",963.04,965.08,2.0400000000000773,für die Ukraine zu finanzieren.
+236,"00:16:05,120","00:16:09,480",965.12,969.48,4.360000000000014,Wenn man nach einer Wahl auf den Koalitionspartner angewiesen ist
+237,"00:16:09,520","00:16:11,200",969.52,971.2,1.6800000000000637,"und nicht nur die SPD,"
+238,"00:16:11,240","00:16:16,160",971.24,976.16,4.919999999999959,"auch die Grünen braucht,"
+239,"00:16:16,200","00:16:20,280",976.2,980.28,4.079999999999927,"dann muss man meistens auch einen Preis zahlen, der höher ist."
+240,"00:16:20,360","00:16:27,040",980.36,987.04,6.67999999999995,"Wolfgang Schäuble, hat uns immer gesagt,"
+241,"00:16:32,160","00:16:39,160",992.16,999.16,7.0,"man muss das und das durchsetzen, wer ist der Commandeur."
+242,"00:16:39,200","00:16:43,120",999.2,1003.12,3.919999999999959,Wir brauchen
+243,"00:16:43,160","00:16:47,720",1003.16,1007.72,4.560000000000059,"eine neue Regierung, Deutschland ist dritte Klasse in der Weltpolitik"
+244,"00:16:47,760","00:16:52,720",1007.76,1012.72,4.960000000000036,geworden.
+245,"00:16:57,600","00:17:01,040",1017.6,1021.04,3.439999999999941,"Es gut, dass Friedrich Merz und Lars Klingbeil"
+246,"00:17:01,120","00:17:06,280",1021.12,1026.28,5.159999999999968,ein gutes Verhältnis haben und trotzdem sind viele Dinge
+247,"00:17:06,360","00:17:08,480",1026.36,1028.48,2.1200000000001182,nicht gelöst worden.
+248,"00:17:08,520","00:17:12,520",1028.52,1032.52,4.0,"- Sie sagen, die Fehler wurden vorher gemacht."
+249,"00:17:12,560","00:17:16,240",1032.56,1036.24,3.6800000000000637,PA: Es ist oft kritisiert worden dass die Wahlprogramme
+250,"00:17:16,280","00:17:19,720",1036.28,1039.72,3.4400000000000546,von Angela Merkel wenig kernige Themen hatten.
+251,"00:17:19,760","00:17:21,920",1039.76,1041.92,2.160000000000082,"Wir wussten genau,"
+252,"00:17:21,960","00:17:25,640",1041.96,1045.64,3.6800000000000637,wenn man rote Linien im Wahlprogramm beschreibt muss man
+253,"00:17:25,720","00:17:28,840",1045.72,1048.84,3.119999999999891,einen höheren Preis zahlen um diese einzulösen.
+254,"00:17:28,920","00:17:33,120",1048.92,1053.12,4.199999999999818,"Deshalb glaube ich,"
+255,"00:17:33,160","00:17:37,400",1053.16,1057.4,4.240000000000009,"hat es wenig Sinn zurückzuschauen, wir müssen nach vorne schauen."
+256,"00:17:37,840","00:17:42,000",1057.84,1062.0,4.160000000000082,"Es macht keinen Sinn, dass sie auf gar keinen Fall jetzt es als gegeben"
+257,"00:17:42,040","00:17:44,760",1062.04,1064.76,2.7200000000000273,"ansehen sollen, dass wir die 2 Billionen"
+258,"00:17:44,800","00:17:49,160",1064.8,1069.16,4.360000000000127,"zusätzlich ausgeben. Es müssen Ausgaben,"
+259,"00:17:49,200","00:17:56,040",1069.2,1076.04,6.839999999999918,"die nicht begründet sind auf den Prüfstand gestellt werden,"
+260,"00:17:56,080","00:17:57,880",1076.08,1077.88,1.800000000000182,"aber wichtig ist auch,"
+261,"00:17:57,920","00:18:05,240",1077.92,1085.24,7.319999999999936,"da die meisten Ausgaben gesetzlich festgelegt sind,"
+262,"00:18:05,280","00:18:08,480",1085.28,1088.48,3.2000000000000455,so schnell wird es nicht gehen.
+263,"00:18:08,520","00:18:11,080",1088.52,1091.08,2.5599999999999454,JL: Genau das geschieht jetzt nicht.
+264,"00:18:11,160","00:18:15,040",1091.16,1095.04,3.8799999999998818,"Die Schuldenbremse wurde gelockert, alle waren erleichtert."
+265,"00:18:15,080","00:18:22,080",1095.08,1102.08,7.0,"Es wurde ein Koalitionsvertrag verhandelt von mehr als 250 Leuten,"
+266,"00:18:22,160","00:18:27,720",1102.16,1107.72,5.559999999999945,"das sind 146 Seiten mit lauter persönlichen Lieblingsprojekten,"
+267,"00:18:27,760","00:18:31,840",1107.76,1111.84,4.079999999999927,"Ausgaben, Gastrosteuer für die CSU,"
+268,"00:18:31,920","00:18:34,840",1111.92,1114.84,2.9199999999998454,"die SPD hat ihre Wünsche eingebracht,"
+269,"00:18:34,880","00:18:40,400",1114.88,1120.4,5.519999999999982,"ich glaube das macht das für Friedrich Merz schwierig,"
+270,"00:18:40,440","00:18:45,520",1120.44,1125.52,5.079999999999927,"diese große Enttäuschung,"
+271,"00:18:45,560","00:18:51,400",1125.56,1131.4,5.8400000000001455,weil er mit etwas anderem angetreten ist.
+272,"00:18:51,480","00:18:57,920",1131.48,1137.92,6.440000000000055,"PA: Es sind nicht die Wähler der SPD,"
+273,"00:19:02,160","00:19:05,440",1142.16,1145.44,3.2799999999999727,"die enttäuscht sind, sondern die eigenen Wähler."
+274,"00:19:05,480","00:19:10,880",1145.48,1150.88,5.400000000000091,"ML: Das Problem ist korrekt,"
+275,"00:19:10,920","00:19:14,480",1150.92,1154.48,3.5599999999999454,mit gezielten Karten ist gespielt worden.
+276,"00:19:14,520","00:19:18,160",1154.52,1158.16,3.6400000000001,"Man hätte sehr wohl im Rahmen des alten Grundgesetzes,"
+277,"00:19:18,200","00:19:19,360",1158.2,1159.36,1.1599999999998545,"ohne es zu ändern,"
+278,"00:19:19,400","00:19:23,360",1159.4,1163.36,3.959999999999809,"mit einer einfachen Mehrheit einen Notstand erklären können,"
+279,"00:19:23,400","00:19:28,000",1163.4,1168.0,4.599999999999909,"wegen der militärischen Situation, die offenkundig ist."
+280,"00:19:28,080","00:19:31,800",1168.08,1171.8,3.7200000000000273,"Man hätte dann beliebig hohe Schulden definieren können,"
+281,"00:19:31,840","00:19:36,800",1171.84,1176.8,4.960000000000036,die man macht.
+282,"00:19:37,960","00:19:42,920",1177.96,1182.92,4.960000000000036,JL: Man hätte es jährlich erneuern müssen.
+283,"00:19:42,960","00:19:47,040",1182.96,1187.04,4.079999999999927,"HS: Man hätte auch gleich mehrjährige Programme machen können,"
+284,"00:19:47,080","00:19:50,400",1187.08,1190.4,3.3200000000001637,entsprechende vertragliche Vereinbarungen
+285,"00:19:50,440","00:19:53,040",1190.44,1193.04,2.599999999999909,mit der Rüstungsindustrie machen können.
+286,"00:19:53,120","00:19:58,840",1193.12,1198.84,5.720000000000027,Alles wäre möglich gewesen.
+287,"00:19:59,280","00:20:06,480",1199.28,1206.48,7.2000000000000455,Deswegen hat man auch die Grünen noch gebraucht.
+288,"00:20:07,120","00:20:13,920",1207.12,1213.92,6.800000000000182,"Dieser schöne Beifall von 500 Milliarden,"
+289,"00:20:14,520","00:20:18,320",1214.52,1218.32,3.7999999999999545,"den wollte man noch haben damit man die ganzen Reformen,"
+290,"00:20:18,360","00:20:22,040",1218.36,1222.04,3.6800000000000637,"die Deutschland wirklich braucht, nicht angehen musste."
+291,"00:20:22,080","00:20:24,960",1222.08,1224.96,2.880000000000109,"Das ist die große Kritik an diesem Vertrag,"
+292,"00:20:25,040","00:20:27,720",1225.04,1227.72,2.6800000000000637,"das Geld erleichtert nicht die Reformen,"
+293,"00:20:27,760","00:20:33,760",1227.76,1233.76,6.0,sondern macht sie überflüssig.
+294,"00:20:35,600","00:20:41,640",1235.6,1241.64,6.040000000000191,"- Schau mir jetzt einmal nach Amerika,"
+295,"00:20:41,680","00:20:45,720",1241.68,1245.72,4.039999999999964,"ich habe das schon gesagt, das fand ich sehr interessant,"
+296,"00:20:45,800","00:20:51,560",1245.8,1251.56,5.759999999999991,man hat immer auf Donald Trump rum.
+297,"00:20:51,640","00:20:56,320",1251.64,1256.32,4.679999999999836,"Wenn man sich sozusagen einmal in seine Schuhe stellt,"
+298,"00:20:56,360","00:20:59,320",1256.36,1259.32,2.9600000000000364,was veranlasst jemanden wie Donald Trump dazu
+299,"00:20:59,360","00:21:04,640",1259.36,1264.64,5.2800000000002,"diese Zolldrohungen,"
+300,"00:21:04,800","00:21:10,640",1264.8,1270.64,5.8400000000001455,"wirklich umzusetzen und an zu sagen und Zölle zu erheben,"
+301,"00:21:10,720","00:21:17,720",1270.72,1277.72,7.0,"für Länder und Inseln, wo nur Pinguine leben."
+302,"00:21:19,760","00:21:24,360",1279.76,1284.36,4.599999999999909,PA: Er ist schon ein genialer Wahlkämpfer und Kommunikator.
+303,"00:21:24,400","00:21:28,560",1284.4,1288.56,4.1599999999998545,Er hat es geschafft mit wenigen Tweets
+304,"00:21:28,640","00:21:32,880",1288.64,1292.88,4.240000000000009,seit vielen Jahren die Weltöffentlichkeit interessieren.
+305,"00:21:32,920","00:21:36,480",1292.92,1296.48,3.5599999999999454,"Es gibt keinen westlichen Politiker oder Politikerin,"
+306,"00:21:36,520","00:21:40,120",1296.52,1300.12,3.599999999999909,die imstande wäre damit ihm gleichzuziehen.
+307,"00:21:40,200","00:21:42,480",1300.2,1302.48,2.2799999999999727,"Er hat Vorstellungen in der Sache,"
+308,"00:21:42,520","00:21:45,480",1302.52,1305.48,2.9600000000000364,"von denen ich inhaltlich nicht überzeugt bin,"
+309,"00:21:45,520","00:21:50,760",1305.52,1310.76,5.240000000000009,"das hängt auch damit zusammen,"
+310,"00:21:50,840","00:21:57,840",1310.84,1317.84,7.0,dass er sehr emotional an die Dinge herangeht.
+311,"00:22:00,080","00:22:04,000",1320.08,1324.0,3.9200000000000728,"Er hat sich vorgenommen die Einkommenssteuer abzuschaffen,"
+312,"00:22:04,080","00:22:06,600",1324.08,1326.6,2.519999999999982,"und die Finanzierungen die er braucht,"
+313,"00:22:06,680","00:22:11,920",1326.68,1331.92,5.240000000000009,zu ersetzen durch Zölle.
+314,"00:22:11,960","00:22:16,440",1331.96,1336.44,4.480000000000018,"- Das hat er schon einmal gemacht, hat die Einkommenssteuer gesenkt,"
+315,"00:22:16,480","00:22:21,320",1336.48,1341.32,4.839999999999918,da hat er jetzt weiter verlängert.
+316,"00:22:21,360","00:22:24,200",1341.36,1344.2,2.8400000000001455,"PA: Er hat allerdings geglaubt,"
+317,"00:22:24,240","00:22:29,160",1344.24,1349.16,4.920000000000073,"dass auch die Fehlkalkulation,"
+318,"00:22:29,240","00:22:33,840",1349.24,1353.84,4.599999999999909,dass alle anderen Länder das mitmachen.
+319,"00:22:33,880","00:22:38,560",1353.88,1358.56,4.679999999999836,"Seine Kalkulation war, ich ersetze Steuereinnahmen durch Zolleinnahmen,"
+320,"00:22:38,600","00:22:40,880",1358.6,1360.88,2.2800000000002,"die werden von den Ländern gezahlt,"
+321,"00:22:40,960","00:22:43,560",1360.96,1363.56,2.599999999999909,die exportieren.
+322,"00:22:43,640","00:22:46,720",1363.64,1366.72,3.0799999999999272,Zweitens hat das einen Protagonistinneneffekt.
+323,"00:22:46,760","00:22:52,560",1366.76,1372.56,5.7999999999999545,Firmenverlagerungen werden in die USA gemacht.
+324,"00:22:52,640","00:22:55,480",1372.64,1375.48,2.839999999999918,"Er hat zu Anfang immer Erfolg versprochen,"
+325,"00:22:55,560","00:23:01,840",1375.56,1381.84,6.279999999999973,"Arbeitsplätze sind auch entstanden,"
+326,"00:23:02,920","00:23:08,960",1382.92,1388.96,6.039999999999964,"sogar die Regierung von Biden,"
+327,"00:23:12,360","00:23:18,280",1392.36,1398.28,5.920000000000073,"es ist die Zölle werden wieder abgeschafft,"
+328,"00:23:18,360","00:23:23,800",1398.36,1403.8,5.440000000000055,"aber nachher ist es so,"
+329,"00:23:27,240","00:23:29,680",1407.24,1409.68,2.4400000000000546,"Er hat zweitens dann die Auffassung,"
+330,"00:23:29,760","00:23:32,320",1409.76,1412.32,2.5599999999999454,dass er mit diesen Dingen durchkommt.
+331,"00:23:32,360","00:23:35,920",1412.36,1415.92,3.560000000000173,Wenn alle mit ihm einen Deal wollen.
+332,"00:23:35,960","00:23:40,040",1415.96,1420.04,4.079999999999927,"Aber vor wenigen Tagen ist die Meldung gekommen,"
+333,"00:23:40,080","00:23:47,080",1420.08,1427.08,7.0,die Chinesen haben bestellte Boeings wieder storniert.
+334,"00:23:47,120","00:23:50,680",1427.12,1430.68,3.560000000000173,"Ich habe eine rudimentäre Vorstellung von Wirtschaft,"
+335,"00:23:50,760","00:23:52,800",1430.76,1432.8,2.0399999999999636,ich bin ein Jurist.
+336,"00:23:52,840","00:23:57,320",1432.84,1437.32,4.480000000000018,"Aber ich weiß, dass höhere Zölle nicht dazu führen,"
+337,"00:23:57,400","00:24:03,240",1437.4,1443.24,5.839999999999918,dass für alle billiger wird.
+338,"00:24:04,800","00:24:05,800",1444.8,1445.8,1.0,"Ich weiß,"
+339,"00:24:05,920","00:24:14,040",1445.92,1454.04,8.11999999999989,dass wir den Wohlstand durch Freihandelsabkommen gestärkt haben.
+340,"00:24:18,160","00:24:21,400",1458.16,1461.4,3.240000000000009,"- Protektionismus klingt so technisch, es ist ein süßes Gift,"
+341,"00:24:21,440","00:24:23,680",1461.44,1463.68,2.240000000000009,"eine Versuchung, warum ist das so?"
+342,"00:24:23,720","00:24:29,720",1463.72,1469.72,6.0,PA: Weil es eine einfache Lösung für das Problem
+343,"00:24:29,800","00:24:33,480",1469.8,1473.48,3.6800000000000637,"der Wettbewerbsfähigkeit suggeriert. Man hat sie verloren, man produziert"
+344,"00:24:33,560","00:24:37,360",1473.56,1477.36,3.7999999999999545,teurer als andere Länder.
+345,"00:24:37,400","00:24:38,360",1477.4,1478.36,0.959999999999809,"Dann sagt man,"
+346,"00:24:38,400","00:24:41,560",1478.4,1481.56,3.1599999999998545,ich muss die Waren aus diesen Ländern verteuern
+347,"00:24:41,600","00:24:43,800",1481.6,1483.8,2.2000000000000455,durch höhere Zölle.
+348,"00:24:43,840","00:24:46,400",1483.84,1486.4,2.560000000000173,"Dann können meine Unternehmen wieder Gewinne machen,"
+349,"00:24:46,440","00:24:48,040",1486.44,1488.04,1.599999999999909,neue Menschen einstellen.
+350,"00:24:48,120","00:24:51,120",1488.12,1491.12,3.0,"- Das ist ja aber passiert in Teilen, was ist"
+351,"00:24:51,160","00:24:57,120",1491.16,1497.12,5.959999999999809,dann das Problem in der Folge.
+352,"00:25:04,080","00:25:07,240",1504.08,1507.24,3.160000000000082,"PA: Weil er die Grundregeln der internationalen Arbeitsteilung,"
+353,"00:25:07,280","00:25:14,920",1507.28,1514.92,7.6400000000001,die etwas mit einem englischen Volkswirt zusammenhängt.
+354,"00:25:22,120","00:25:24,720",1522.12,1524.72,2.6000000000001364,Er hat die Lehre vom komparativen Vorteil erfunden.
+355,"00:25:24,800","00:25:31,560",1524.8,1531.56,6.759999999999991,Daran orientieren sich viele Teile unserer Volkswirtschaft.
+356,"00:25:31,600","00:25:34,000",1531.6,1534.0,2.400000000000091,"Die gegenseitige Verpflichtung hat dazu geführt,"
+357,"00:25:34,160","00:25:37,800",1534.16,1537.8,3.6399999999998727,"dass wir alle uns mehr leisten können, in allen Ländern,"
+358,"00:25:37,840","00:25:42,880",1537.84,1542.88,5.040000000000191,auch in den USA.
+359,"00:25:49,040","00:25:51,600",1549.04,1551.6,2.5599999999999454,"Da habe ich einen großen Respekt vor einem Ökonomen,"
+360,"00:25:51,640","00:25:54,720",1551.64,1554.72,3.0799999999999272,"der dargelegt hat, dass auch die USA den letzten beiden Jahren"
+361,"00:25:54,800","00:25:57,080",1554.8,1557.08,2.2799999999999727,der Administration eine enorme Stärkung
+362,"00:25:57,120","00:26:01,880",1557.12,1561.88,4.760000000000218,ihrer wirtschaftlichen Stellung erreicht haben.
+363,"00:26:01,920","00:26:04,320",1561.92,1564.32,2.3999999999998636,Weil sie bei vielen Dingen vorne mit dabei sind.
+364,"00:26:04,400","00:26:07,320",1564.4,1567.32,2.9199999999998454,"Wenn wir diese Märkte wieder Fragmentierung,"
+365,"00:26:07,480","00:26:13,000",1567.48,1573.0,5.519999999999982,wird es für alle teurer.
+366,"00:26:13,480","00:26:20,600",1573.48,1580.6,7.119999999999891,"- jetzt auch noch mal die Frage an Julia Löhr,"
+367,"00:26:31,760","00:26:34,080",1591.76,1594.08,2.3199999999999363,"Herr Altmaier da sagt, es ist ein süßes Gift,"
+368,"00:26:34,120","00:26:37,160",1594.12,1597.16,3.040000000000191,"weil es erst mal funktioniert, man zieht Zoll Schranken hoch."
+369,"00:26:37,200","00:26:41,520",1597.2,1601.52,4.319999999999936,Macht die Waren von anderen teurer. Da macht man eigene Industriejobs
+370,"00:26:41,600","00:26:43,840",1601.6,1603.84,2.240000000000009,wieder gut.
+371,"00:26:43,960","00:26:45,640",1603.96,1605.64,1.6800000000000637,Ich kenne die Verzweiflung
+372,"00:26:45,680","00:26:48,560",1605.68,1608.56,2.8799999999998818,der amerikanischen Stahl- und Kohlearbeiter.
+373,"00:26:48,640","00:26:54,360",1608.64,1614.36,5.7199999999998,"Ich verstehe sehr genau, was es für ein soziales Potenzial hat."
+374,"00:26:54,400","00:26:57,200",1614.4,1617.2,2.7999999999999545,Und was für ein Sprengsatz für eine Gesellschaft ist.
+375,"00:26:57,320","00:27:04,160",1617.32,1624.16,6.8400000000001455,Auch warum der Wählerstimmen zu holen waren.
+376,"00:27:04,760","00:27:09,440",1624.76,1629.44,4.680000000000064,"Wenn Herr Altmaier sagte, wenn das weiter betreibt passiert folgendes:"
+377,"00:27:09,480","00:27:12,080",1629.48,1632.08,2.599999999999909,"man wird in der Folge immer schlechter,"
+378,"00:27:12,160","00:27:16,920",1632.16,1636.92,4.759999999999991,weil man nicht mehr wirklich Konkurrenz hat?
+379,"00:27:17,000","00:27:24,000",1637.0,1644.0,7.0,HS: Es ist die Aushebelung der Arbeitsteilung.
+380,"00:27:29,040","00:27:30,840",1649.04,1650.84,1.7999999999999545,"Klar, der Wettbewerb, der Anzug,"
+381,"00:27:30,880","00:27:36,600",1650.88,1656.6,5.7199999999998,"den sie anhaben, den haben sie sich nicht selbst gemacht."
+382,"00:27:36,640","00:27:39,600",1656.64,1659.6,2.959999999999809,"Sie verkaufen etwas anderes, sie haben eine Leistung,"
+383,"00:27:39,640","00:27:41,640",1659.64,1661.64,2.0,"die sie verkaufen, diese Show hier."
+384,"00:27:41,720","00:27:43,040",1661.72,1663.04,1.3199999999999363,"Das ist Arbeitsteilung,"
+385,"00:27:43,160","00:27:47,040",1663.16,1667.04,3.8799999999998818,so funktioniert das auch international zwischen den Ländern.
+386,"00:27:47,120","00:27:54,920",1667.12,1674.92,7.800000000000182,"Jeder kann das tun, dass worin er sich am besten auskennt."
+387,"00:27:59,840","00:28:02,240",1679.84,1682.24,2.400000000000091,"Er produziert das, liefert das in die Welt,"
+388,"00:28:02,320","00:28:05,480",1682.32,1685.48,3.160000000000082,kauften aus der ganzen Welt wieder Produkte ein.
+389,"00:28:05,520","00:28:08,520",1685.52,1688.52,3.0,"Der Nutzen für die Volkswirtschaft ist nicht,"
+390,"00:28:08,640","00:28:10,640",1688.64,1690.64,2.0,"was man an die anderen liefert,"
+391,"00:28:10,720","00:28:14,000",1690.72,1694.0,3.2799999999999727,sondern was man sich dafür kaufen kann. Das ganze
+392,"00:28:14,040","00:28:15,560",1694.04,1695.56,1.5199999999999818,wird
+393,"00:28:15,640","00:28:17,680",1695.64,1697.68,2.0399999999999636,"Die Waren, die man liefert, sind weg."
+394,"00:28:17,720","00:28:21,280",1697.72,1701.28,3.5599999999999454,"Das macht man ja nur, damit man andere Waren bekommt."
+395,"00:28:21,360","00:28:24,840",1701.36,1704.84,3.480000000000018,Der Tauschvorgang wird jetzt gleich zweimal belastet.
+396,"00:28:24,920","00:28:27,280",1704.92,1707.28,2.3599999999999,"Das schaukelt sich sehr schnell hoch,"
+397,"00:28:27,320","00:28:32,520",1707.32,1712.52,5.2000000000000455,das kann sich so schnell hochschaukeln bis
+398,"00:28:32,560","00:28:34,560",1712.56,1714.56,2.0,der Welthandel zusammenbricht.
+399,"00:28:34,640","00:28:37,640",1714.64,1717.64,3.0,Das haben wir in den dreißiger Jahren gesehen.
+400,"00:28:37,680","00:28:40,320",1717.68,1720.32,2.6399999999998727,Das ist auch in den USA begonnen worden.
+401,"00:28:40,360","00:28:45,480",1720.36,1725.48,5.120000000000118,Der Welthandel brach um 60 % ein.
+402,"00:28:45,520","00:28:52,120",1725.52,1732.12,6.599999999999909,Und das Sozialprodukt brach um 20 % ein.
+403,"00:28:52,480","00:28:57,600",1732.48,1737.6,5.119999999999891,"Alle sind ärmer geworden. Das ist allenfalls eine Strategie,"
+404,"00:28:57,640","00:29:04,640",1737.64,1744.64,7.0,"die man machen kann, wenn die anderen nicht gegen halten."
+405,"00:29:04,680","00:29:08,960",1744.68,1748.96,4.279999999999973,Aber China hält dagegen.
+406,"00:29:09,000","00:29:15,000",1749.0,1755.0,6.0,"Zwischendrin geht die Weltwirtschaft in die Rezension,"
+407,"00:29:15,080","00:29:19,280",1755.08,1759.28,4.2000000000000455,"das ist der größte Denkfehler, den Trump gemacht hat."
+408,"00:29:19,320","00:29:22,800",1759.32,1762.8,3.480000000000018,"Im Übrigen geht es und das sollte man auch erkennen,"
+409,"00:29:22,880","00:29:26,520",1762.88,1766.52,3.6399999999998727,"nicht unmittelbar um dieses Industrieargument,"
+410,"00:29:26,560","00:29:29,760",1766.56,1769.76,3.2000000000000455,"im Hintergrund, die Berater,"
+411,"00:29:29,840","00:29:32,680",1769.84,1772.68,2.8400000000001455,sie haben ganz andere Überlegungen gehabt.
+412,"00:29:32,720","00:29:37,120",1772.72,1777.12,4.399999999999864,"Sie haben gesehen, dass Amerika sehr stark überschuldet ist."
+413,"00:29:37,160","00:29:41,480",1777.16,1781.48,4.319999999999936,"Sie haben permanent mehr Waren aus dem Ausland gezogen,"
+414,"00:29:41,560","00:29:43,280",1781.56,1783.28,1.7200000000000273,als sie geliefert haben.
+415,"00:29:43,360","00:29:49,120",1783.36,1789.12,5.759999999999991,- Sie haben auf Pump gelebt?
+416,"00:29:49,600","00:29:52,400",1789.6,1792.4,2.800000000000182,"HS: Sie haben einen hohen Lebensstandard,"
+417,"00:29:52,440","00:29:55,960",1792.44,1795.96,3.519999999999982,"dem wir in den Statistiken finden, dadurch erzeugt,"
+418,"00:29:56,000","00:29:58,840",1796.0,1798.84,2.839999999999918,dass es nur Kalig grafische Produkte waren.
+419,"00:29:58,880","00:30:06,560",1798.88,1806.56,7.679999999999836,"Das waren kurzlebige Staatspapiere, die verkauft wurden."
+420,"00:30:06,640","00:30:08,600",1806.64,1808.6,1.959999999999809,"Jetzt ist das dicke Ende dar,"
+421,"00:30:08,680","00:30:12,280",1808.68,1812.28,3.599999999999909,die Zinslast ist für die amerikanische Volkswirtschaft
+422,"00:30:12,360","00:30:13,520",1812.36,1813.52,1.1600000000000819,schon sehr hoch.
+423,"00:30:13,560","00:30:15,800",1813.56,1815.8,2.240000000000009,Gerade gegenüber dem Ausland.
+424,"00:30:15,880","00:30:18,760",1815.88,1818.76,2.8799999999998818,"Die Verschuldung hat ein Niveau erreicht,"
+425,"00:30:18,800","00:30:21,160",1818.8,1821.16,2.3600000000001273,wo Amerika seine Glaubwürdigkeit als
+426,"00:30:21,280","00:30:23,440",1821.28,1823.44,2.160000000000082,sicherer Hafen für die Investoren
+427,"00:30:23,520","00:30:28,960",1823.52,1828.96,5.440000000000055,der Welt eingebüßt hat.
+428,"00:30:32,640","00:30:36,680",1832.64,1836.68,4.039999999999964,"Der entscheidende Tag ist der 28. Februar,"
+429,"00:30:36,760","00:30:43,080",1836.76,1843.08,6.319999999999936,ist dieses unwürdige Ereignis im Oval Office passiert ist.
+430,"00:30:43,160","00:30:48,560",1843.16,1848.56,5.399999999999864,"Nicht nur militärisch,"
+431,"00:30:51,040","00:30:54,880",1851.04,1854.88,3.8400000000001455,an dem Tag ist das Vertrauen der Anleger der Welt in die vereinigten
+432,"00:30:54,960","00:30:58,880",1854.96,1858.88,3.9200000000000728,"Staaten von Amerika, inklusive der Wall Street, zerbrochen."
+433,"00:30:58,960","00:31:04,920",1858.96,1864.92,5.960000000000036,Sofort gingen die Kurse runter.
+434,"00:31:04,960","00:31:11,160",1864.96,1871.16,6.2000000000000455,- Aber auch die Ratingagenturen...
+435,"00:31:13,320","00:31:16,920",1873.32,1876.92,3.6000000000001364,"HS: Sie haben einen Index, der Kursindex ging runter,"
+436,"00:31:16,960","00:31:19,200",1876.96,1879.2,2.240000000000009,der Dollar ging sofort runter.
+437,"00:31:19,280","00:31:25,080",1879.28,1885.08,5.7999999999999545,Der Dollar war überbewertet.
+438,"00:31:29,280","00:31:33,720",1889.28,1893.72,4.440000000000055,"Relativ zur Kaufkraftparität. Das ist ein künstlicher Wechselkurs,"
+439,"00:31:33,800","00:31:38,080",1893.8,1898.08,4.279999999999973,"bei dem ein Warenkorb, den Bayern in Amerika oder woanders kauft,"
+440,"00:31:38,120","00:31:44,840",1898.12,1904.84,6.720000000000027,"er kostet gleich viel, relativ dazu war Amerika überbewertet."
+441,"00:31:44,920","00:31:47,360",1904.92,1907.36,2.439999999999827,"Das bedeutet die Importe sind billig,"
+442,"00:31:47,440","00:31:51,440",1907.44,1911.44,4.0,man kann sich ein Teil Lebensstandard gönnen.
+443,"00:31:51,480","00:32:00,160",1911.48,1920.16,8.680000000000064,"Die Hälfte der Kleidungsmittel, die Amerikaner haben kommen aus Indien."
+444,"00:32:05,360","00:32:09,200",1925.36,1929.2,3.8400000000001455,"Die Chinesen hatten auch gerne mal eine amerikanische Firma gekauft,"
+445,"00:32:09,280","00:32:14,800",1929.28,1934.8,5.519999999999982,"das liest man nicht zu,"
+446,"00:32:16,800","00:32:19,720",1936.8,1939.72,2.9200000000000728,sie mussten diese Treasury Bills kumulieren.
+447,"00:32:19,800","00:32:23,920",1939.8,1943.92,4.120000000000118,Ein Berater von Schramm hat seine persönliche Meinung geäußert:
+448,"00:32:24,000","00:32:28,760",1944.0,1948.76,4.759999999999991,erst Wirtschaftsberater.
+449,"00:32:28,800","00:32:33,360",1948.8,1953.36,4.559999999999945,"Er ist noch stärker gebunden an dem Präsidenten,"
+450,"00:32:33,440","00:32:37,120",1953.44,1957.12,3.6799999999998363,"er hat gesagt wir müssen runter von diesen Belastungen,"
+451,"00:32:37,160","00:32:40,040",1957.16,1960.04,2.8799999999998818,die auf uns zukommen.
+452,"00:32:40,120","00:32:41,960",1960.12,1961.96,1.8400000000001455,Mit zwei Sachen:
+453,"00:32:42,040","00:32:48,320",1962.04,1968.32,6.279999999999973,wir müssen institutionelle Anleger auf der Welt veranlassen
+454,"00:32:48,400","00:32:51,920",1968.4,1971.92,3.519999999999982,einen Tausch der kurzfristigen hochverzinsten Papiere
+455,"00:32:52,000","00:32:58,960",1972.0,1978.96,6.960000000000036,"durch langfristige, niedrigverzinste Papiere zu akzeptieren."
+456,"00:32:59,040","00:33:04,680",1979.04,1984.68,5.6400000000001,Und zweitens können wir folgendes machen:
+457,"00:33:04,760","00:33:08,160",1984.76,1988.16,3.400000000000091,"wir können eine Gebühr erheben auf die Zinsen,"
+458,"00:33:08,200","00:33:12,800",1988.2,1992.8,4.599999999999909,die wir zahlen müssen an die Gläubiger.
+459,"00:33:12,880","00:33:19,560",1992.88,1999.56,6.679999999999836,Wenn man beides zusammen nimmt nach den Definitionen
+460,"00:33:19,640","00:33:24,160",1999.64,2004.16,4.519999999999982,"der Ratingagenturen, das ist quasi Insolvenz."
+461,"00:33:24,280","00:33:27,040",2004.28,2007.04,2.759999999999991,Sie spielen offen damit. Amerika hat
+462,"00:33:27,120","00:33:29,760",2007.12,2009.76,2.6400000000001,"so lange über seine Verhältnisse gelebt,"
+463,"00:33:29,840","00:33:33,520",2009.84,2013.52,3.6800000000000637,dass es am Rande der Pleite spielt.
+464,"00:33:33,600","00:33:36,960",2013.6,2016.96,3.3600000000001273,"Man wird also Druck ausüben auf die anderen Länder,"
+465,"00:33:37,000","00:33:45,080",2017.0,2025.08,8.079999999999927,insbesondere die öffentlichen Instanzen und die Zentralbanken.
+466,"00:33:45,800","00:33:49,600",2025.8,2029.6,3.7999999999999545,Die amerikanischen Wertpapiere müssen übernommen werden.
+467,"00:33:49,680","00:33:53,680",2029.68,2033.68,4.0,Dieser Druck muss erzeugt werden durch die Zahl an Drohungen.
+468,"00:33:53,760","00:33:55,360",2033.76,2035.36,1.599999999999909,Das ist der Mechanismus.
+469,"00:33:55,480","00:33:58,520",2035.48,2038.52,3.0399999999999636,Das ist letztlich die Oberfläche des Geschehens.
+470,"00:33:58,680","00:34:02,000",2038.68,2042.0,3.3199999999999363,In Wahrheit geht es um das ungelöste Schuldenproblem
+471,"00:34:02,120","00:34:04,880",2042.12,2044.88,2.7600000000002183,der Amerikaner gegenüber dem Rest der Welt.
+472,"00:34:05,000","00:34:11,120",2045.0,2051.12,6.119999999999891,- Wie geht ihre Analyse Frau Löhr?
+473,"00:34:11,520","00:34:15,560",2051.52,2055.56,4.039999999999964,"Ich weiß, sie sind jemand, der hierzulande immer sagt:"
+474,"00:34:15,680","00:34:21,400",2055.68,2061.4,5.720000000000255,Vorsicht mit den Schulden.
+475,"00:34:21,600","00:34:25,800",2061.6,2065.8,4.200000000000273,"Wir können auch gleich noch mal darüber reden, was es bedeutet,"
+476,"00:34:25,920","00:34:28,000",2065.92,2068.0,2.0799999999999272,wenn man so hohe Zinslasten hat.
+477,"00:34:28,080","00:34:34,920",2068.08,2074.92,6.8400000000001455,Unter anderem ist das bei Frankreich auch so.
+478,"00:34:39,080","00:34:43,480",2079.08,2083.48,4.400000000000091,"JL: Jetzt mal anknüpfend an das, was wir vorhin besprochen hatten,"
+479,"00:34:43,560","00:34:50,880",2083.56,2090.88,7.320000000000164,Protektionismus ist das großzügig Gift dieser Zeit.
+480,"00:34:53,760","00:34:56,880",2093.76,2096.88,3.119999999999891,"Das Problem ist,"
+481,"00:34:56,960","00:35:02,960",2096.96,2102.96,6.0,"die Leute glauben drum, sie nehme es als selbstverständlich an,"
+482,"00:35:03,040","00:35:08,040",2103.04,2108.04,5.0,dass sie eine große Warenauswahl im Supermarkt haben.
+483,"00:35:08,080","00:35:13,360",2108.08,2113.36,5.2800000000002,Das ist irgendwann einfach nicht mehr so.
+484,"00:35:13,440","00:35:21,200",2113.44,2121.2,7.7599999999997635,"Einigen dämmert es schon, dass es vielleicht nichts Gutes."
+485,"00:35:25,000","00:35:26,160",2125.0,2126.16,1.1599999999998545,"Es ist nicht so,"
+486,"00:35:26,240","00:35:31,080",2126.24,2131.08,4.8400000000001455,dass sich die Amerikaner danach sehen in Fabriken
+487,"00:35:31,160","00:35:35,080",2131.16,2135.08,3.9200000000000728,wieder Toaster zusammenschrauben.
+488,"00:35:35,160","00:35:39,480",2135.16,2139.48,4.320000000000164,"Es ist ja irgendwie schon angenehm, dass es andere gemacht haben,"
+489,"00:35:39,560","00:35:43,120",2139.56,2143.12,3.5599999999999454,und es trotzdem zu günstigen Preisen zu haben war.
+490,"00:35:43,200","00:35:46,960",2143.2,2146.96,3.7600000000002183,"Wir merken an Trumps Reaktionen, dass diese Strategie"
+491,"00:35:47,040","00:35:50,280",2147.04,2150.28,3.2400000000002365,nur bedingt funktioniert.
+492,"00:35:50,400","00:35:54,240",2150.4,2154.24,3.8399999999996908,"Wir sind froh, dass es das Regulativ der Finanzmärkte gibt."
+493,"00:35:54,280","00:35:58,360",2154.28,2158.36,4.079999999999927,Es ist sehr wirkmächtig.
+494,"00:35:58,440","00:36:00,200",2158.44,2160.2,1.7599999999997635,Und zum Thema Schulden:
+495,"00:36:00,280","00:36:04,320",2160.28,2164.32,4.039999999999964,"da haben die Amerikaner durchaus ein größeres Problem, als wir."
+496,"00:36:04,400","00:36:10,320",2164.4,2170.32,5.920000000000073,Bei uns ist der Schuldenstand 63 %.
+497,"00:36:10,400","00:36:16,880",2170.4,2176.88,6.480000000000018,Bei den Amerikanern sind es ca. 110 %.
+498,"00:36:17,080","00:36:20,680",2177.08,2180.68,3.599999999999909,"Wir haben auch europäische Länder, die weit über 100 % sind."
+499,"00:36:20,760","00:36:23,240",2180.76,2183.24,2.4799999999995634,Japan hat sogar über 200 %.
+500,"00:36:23,320","00:36:26,120",2183.32,2186.12,2.799999999999727,Aber es ist enorm hoch.
+501,"00:36:26,200","00:36:30,920",2186.2,2190.92,4.720000000000255,Aber auch weil die Amerikaner höhere Zinsen zahlen müssen.
+502,"00:36:31,000","00:36:33,440",2191.0,2193.44,2.4400000000000546,Trump hat also ein Problem.
+503,"00:36:33,520","00:36:40,640",2193.52,2200.64,7.119999999999891,Er hat ein Interesse daran die Zinsen zu senken.
+504,"00:36:41,600","00:36:48,880",2201.6,2208.88,7.2800000000002,"Jetzt führen aber gerade durch Zölle dazu, die Preise steigen."
+505,"00:36:48,960","00:36:52,680",2208.96,2212.68,3.7199999999998,Die Zentralbank muss also wieder versuchen die Inflation
+506,"00:36:52,760","00:36:55,320",2212.76,2215.32,2.5599999999999454,herunter zu bekommen.
+507,"00:36:55,400","00:36:58,480",2215.4,2218.48,3.0799999999999272,"Deswegen erleben wir auch gerade den Druck,"
+508,"00:36:58,560","00:37:02,120",2218.56,2222.12,3.5599999999999454,den Trump auf den Notenbankchef ausübt.
+509,"00:37:02,200","00:37:05,400",2222.2,2225.4,3.200000000000273,Jetzt kommen wahrscheinlich wieder neue Angriffe
+510,"00:37:05,480","00:37:07,080",2225.48,2227.08,1.599999999999909,nach ein paar Tagen Ruhe.
+511,"00:37:07,160","00:37:11,920",2227.16,2231.92,4.760000000000218,Seine Strategie funktioniert...
+512,"00:37:12,000","00:37:15,480",2232.0,2235.48,3.480000000000018,"- Wenn wir den Chef dazu bringen die Zinsen zu senden,"
+513,"00:37:15,560","00:37:22,600",2235.56,2242.6,7.039999999999964,damit amerikanische Ware wieder günstiger wird.
+514,"00:37:25,040","00:37:30,400",2245.04,2250.4,5.360000000000127,PA: Der Mechanismus...
+515,"00:37:30,520","00:37:33,400",2250.52,2253.4,2.880000000000109,"HS: Ursprünglich hatte es nicht bedacht,"
+516,"00:37:33,560","00:37:37,480",2253.56,2257.48,3.9200000000000728,"nachdem die Kapitalmärkte so reagiert haben, fiel der Dollar."
+517,"00:37:37,560","00:37:41,560",2257.56,2261.56,4.0,"Dann hat er gesagt, das haben wir von vornherein überlegt..."
+518,"00:37:41,680","00:37:48,160",2261.68,2268.16,6.480000000000018,JL: Er hat nicht alles genau geplant...
+519,"00:37:57,080","00:38:05,280",2277.08,2285.28,8.200000000000273,PA: Es gibt einen Unterschied zwischen Trump eins und Trump 2.
+520,"00:38:08,760","00:38:12,200",2288.76,2292.2,3.4399999999996,"Beim ersten Mal hat zuerst auf seine Berater gehört,"
+521,"00:38:12,280","00:38:18,200",2292.28,2298.2,5.919999999999618,es konnte viel Schlimmeres verhindert werden.
+522,"00:38:18,280","00:38:22,880",2298.28,2302.88,4.599999999999909,"Trotz aller Probleme ist überzeugt, dass er es besser kann und besser"
+523,"00:38:23,000","00:38:28,320",2303.0,2308.32,5.320000000000164,weiß als alle anderen.
+524,"00:38:29,000","00:38:32,920",2309.0,2312.92,3.9200000000000728,Das macht es so schwer die Dinge zu planen.
+525,"00:38:33,000","00:38:39,480",2313.0,2319.48,6.480000000000018,"Wenn sie nicht geplant werden können,"
+526,"00:38:39,600","00:38:42,320",2319.6,2322.32,2.7200000000002547,kommt es zu dispruptiven Geschehnissen.
+527,"00:38:49,320","00:38:54,320",2329.32,2334.32,5.0,"Das alles kann im Endergebnis dazu führen,"
+528,"00:38:54,400","00:38:58,800",2334.4,2338.8,4.400000000000091,dass die Weltwirtschaft dann stark in Mitleidenschaft gezogen wird.
+529,"00:38:58,880","00:39:05,200",2338.88,2345.2,6.319999999999709,"Wenn ich einen Ratschlag geben darf,"
+530,"00:39:05,760","00:39:10,320",2345.76,2350.32,4.559999999999945,"ich glaube, dass der frühere Wirtschaftsminister recht hatte mit:"
+531,"00:39:10,400","00:39:13,360",2350.4,2353.36,2.9600000000000364,"""die Pferde saufen nicht""."
+532,"00:39:13,440","00:39:19,840",2353.44,2359.84,6.400000000000091,"Da war die Konjunktur recht lahm, muss man einen Aufbruch hinbekommen,"
+533,"00:39:19,880","00:39:23,080",2359.88,2363.08,3.199999999999818,"wir müssen als Europäer und Deutsche verhindern,"
+534,"00:39:23,160","00:39:25,040",2363.16,2365.04,1.8800000000001091,"dass diese Welle aus den USA,"
+535,"00:39:25,080","00:39:28,280",2365.08,2368.28,3.200000000000273,die gesamte europäische und weltweite Wirtschaft
+536,"00:39:28,360","00:39:33,680",2368.36,2373.68,5.319999999999709,in Mitleidenschaft zieht.
+537,"00:39:33,760","00:39:35,760",2373.76,2375.76,2.0,"Es gibt nur zwei Möglichkeiten,"
+538,"00:39:35,840","00:39:42,120",2375.84,2382.12,6.279999999999745,"eines ist, es muss nachgearbeitet werden zum Koalitionsvertrag."
+539,"00:39:42,200","00:39:48,680",2382.2,2388.68,6.480000000000018,"Dieses Aufbruchsignal, sind nicht erfolgt."
+540,"00:39:48,760","00:39:52,560",2388.76,2392.56,3.799999999999727,- Da ist der Koalitionsvertrag zu schwach in ihren Augen?
+541,"00:39:52,640","00:39:59,440",2392.64,2399.44,6.800000000000182,"PA: Man kann das auf viele Weisen erzeugen,"
+542,"00:39:59,880","00:40:04,040",2399.88,2404.04,4.1599999999998545,"es gibt auch andere Möglichkeiten die man machen kann,"
+543,"00:40:04,120","00:40:08,800",2404.12,2408.8,4.680000000000291,"durch die Rücknahme bürokratischer Belastungen, gesetzlicher Vorgaben,"
+544,"00:40:08,880","00:40:15,280",2408.88,2415.28,6.400000000000091,es muss dieser Effekt erzielt werden.
+545,"00:40:15,480","00:40:22,520",2415.48,2422.52,7.039999999999964,"Das zweite ist, wir dürfen nicht in die Falle tappen und sagen,"
+546,"00:40:22,560","00:40:26,360",2422.56,2426.36,3.800000000000182,wir wollten um jeden Preis den noch so schlechtesten Deal
+547,"00:40:26,440","00:40:30,280",2426.44,2430.28,3.8400000000001455,"mit Trump erzielen, wir sollten auf die Länder setzen,"
+548,"00:40:30,320","00:40:32,360",2430.32,2432.36,2.0399999999999636,die zum freien Handel stehen.
+549,"00:40:32,400","00:40:37,080",2432.4,2437.08,4.679999999999836,Ich war neulich in Kanada eingeladen und habe dort mit vielen Bekannten
+550,"00:40:37,160","00:40:38,120",2437.16,2438.12,0.9600000000000364,geredet.
+551,"00:40:38,200","00:40:41,720",2438.2,2441.72,3.519999999999982,"Die Kanadier sind am meisten traumatisiert durch das,"
+552,"00:40:41,800","00:40:43,800",2441.8,2443.8,2.0,was ihr Nachbar tut.
+553,"00:40:43,880","00:40:47,080",2443.88,2447.08,3.199999999999818,"Es gibt Länder in Asien, in Lateinamerika,"
+554,"00:40:47,160","00:40:53,880",2447.16,2453.88,6.720000000000255,wir müssen vielmehr auf Freihandel setzen.
+555,"00:41:01,720","00:41:05,680",2461.72,2465.68,3.9600000000000364,"Freihandelsabkommen, die in Jahrzehnten verhandelt wurden,"
+556,"00:41:05,720","00:41:07,800",2465.72,2467.8,2.080000000000382,diese Zeit haben wir nicht mehr.
+557,"00:41:07,880","00:41:10,000",2467.88,2470.0,2.119999999999891,Wir müssen ganz mutig vorangehen.
+558,"00:41:10,080","00:41:13,040",2470.08,2473.04,2.9600000000000364,- Ich würde noch einmal dieses Thema Schulden
+559,"00:41:13,120","00:41:14,720",2473.12,2474.72,1.599999999999909,und Zinslast vertiefen.
+560,"00:41:14,800","00:41:19,760",2474.8,2479.76,4.960000000000036,"Herr Sinn,"
+561,"00:41:24,360","00:41:27,840",2484.36,2487.84,3.480000000000018,"Amerika, wie viel müssen die mittlerweile aufwenden"
+562,"00:41:27,920","00:41:29,320",2487.92,2489.32,1.400000000000091,um Zinsen zu bedienen?
+563,"00:41:29,360","00:41:31,840",2489.36,2491.84,2.480000000000018,HS: 11 % ungefähr und wir zweieinhalb.
+564,"00:41:31,880","00:41:37,640",2491.88,2497.64,5.7599999999997635,Da sieht man den Unterschied.
+565,"00:41:37,720","00:41:41,800",2497.72,2501.8,4.080000000000382,Das Frist in das Budget hinein.
+566,"00:41:41,880","00:41:46,400",2501.88,2506.4,4.519999999999982,Das Geld kann man nicht mehr für andere Zwecke ausgeben.
+567,"00:41:46,480","00:41:52,320",2506.48,2512.32,5.8400000000001455,- Wie viel ist das in absoluten Zahlen?
+568,"00:41:52,400","00:41:56,600",2512.4,2516.6,4.199999999999818,HS: Jetzt erwischen Sie mich auf dem falschen Fuß.
+569,"00:41:56,640","00:41:59,240",2516.64,2519.24,2.599999999999909,- Es ist auf jeden Fall sehr viel Geld.
+570,"00:41:59,320","00:42:02,480",2519.32,2522.48,3.1599999999998545,"Meine Frage zielt darauf ab, ein Staatswesen,"
+571,"00:42:02,560","00:42:07,960",2522.56,2527.96,5.400000000000091,"das funktionieren muss,"
+572,"00:42:08,000","00:42:11,760",2528.0,2531.76,3.7600000000002183,"das hat für Staatsbedienstete,"
+573,"00:42:11,840","00:42:14,640",2531.84,2534.64,2.799999999999727,"für Schulen, all die Dinge die wir kennen,"
+574,"00:42:14,720","00:42:20,120",2534.72,2540.12,5.400000000000091,"Verteidigung, Straßen,"
+575,"00:42:22,680","00:42:28,080",2542.68,2548.08,5.400000000000091,"da hat man einen festen Teil von Kosten,"
+576,"00:42:28,160","00:42:29,640",2548.16,2549.64,1.4800000000000182,der einfach da ist.
+577,"00:42:29,720","00:42:34,840",2549.72,2554.84,5.120000000000346,Wie groß ist das?
+578,"00:42:36,480","00:42:39,320",2556.48,2559.32,2.8400000000001455,"HS: In Amerika ist das im Prinzip 80, 90 %."
+579,"00:42:39,400","00:42:44,600",2559.4,2564.6,5.199999999999818,Deswegen ist Trump angesetzt worden um die Leute zu entlasten.
+580,"00:42:44,680","00:42:52,040",2564.68,2572.04,7.360000000000127,"Da ist es anders als in Deutschland, da ist das fest."
+581,"00:42:52,320","00:42:56,960",2572.32,2576.96,4.639999999999873,"- Wenn man 80 % feste Kosten hat,"
+582,"00:42:57,040","00:43:01,480",2577.04,2581.48,4.440000000000055,"man hat dann noch 11 %, die man nur für Zinsen benötigt."
+583,"00:43:01,560","00:43:07,520",2581.56,2587.52,5.960000000000036,Dann ist der restliche Spielraum quasi nichts mehr.
+584,"00:43:07,560","00:43:11,920",2587.56,2591.92,4.360000000000127,"HS: Es sei denn man entlässt die Leute,"
+585,"00:43:11,960","00:43:16,200",2591.96,2596.2,4.239999999999782,wie es Donald Trump vorgeschlagen hat.
+586,"00:43:16,320","00:43:19,760",2596.32,2599.76,3.4400000000000546,"Es geht in Amerika nicht alles so, wie man denkt. - Ist das der Grund,"
+587,"00:43:19,840","00:43:24,840",2599.84,2604.84,5.0,warum das gerade alles passiert?
+588,"00:43:24,920","00:43:29,880",2604.92,2609.88,4.960000000000036,HS: Genau.
+589,"00:43:35,160","00:43:42,800",2615.16,2622.8,7.640000000000327,"Man hatte das Privileg, dass man sich verschulden kann,"
+590,"00:43:43,960","00:43:47,280",2623.96,2627.28,3.3200000000001637,"der Dollar, überall werden Transaktionen gemacht,"
+591,"00:43:47,360","00:43:52,080",2627.36,2632.08,4.7199999999998,"der Dollar zirkuliert auf der ganzen Welt,"
+592,"00:43:52,160","00:43:56,040",2632.16,2636.04,3.880000000000109,unter dem Schutze dieses Nimbus als Reservewährung
+593,"00:43:56,120","00:44:01,320",2636.12,2641.32,5.200000000000273,konnte man immer wieder neue Staatspapiere
+594,"00:44:01,360","00:44:04,440",2641.36,2644.44,3.0799999999999272,an die Welt verkaufen und jeder dachte Amerika
+595,"00:44:04,520","00:44:06,840",2644.52,2646.84,2.3200000000001637,ist eine sichere Kiste.
+596,"00:44:06,920","00:44:11,720",2646.92,2651.72,4.799999999999727,"Und jetzt ist der Zeitpunkt gekommen,"
+597,"00:44:11,800","00:44:14,480",2651.8,2654.48,2.6799999999998363,wo das infrage gestellt ist.
+598,"00:44:14,560","00:44:20,120",2654.56,2660.12,5.559999999999945,Damit bricht dieses ganze amerikanische Modell zusammen.
+599,"00:44:20,160","00:44:21,360",2660.16,2661.36,1.2000000000002728,"Das Privileg hieß,"
+600,"00:44:21,440","00:44:24,960",2661.44,2664.96,3.519999999999982,"man kann jahrzehntelang über seine Verhältnisse leben,"
+601,"00:44:25,040","00:44:28,960",2665.04,2668.96,3.9200000000000728,"irgendwann ist die Schuldenlast so groß, dass das kollabiert"
+602,"00:44:29,080","00:44:34,920",2669.08,2674.92,5.8400000000001455,und dann sieht es anders aus.
+603,"00:44:40,000","00:44:43,520",2680.0,2683.52,3.519999999999982,"Das wäre meine Kritik an der jetzigen Schuldenorigie,"
+604,"00:44:43,560","00:44:46,840",2683.56,2686.84,3.2800000000002,man hat sich immer distanziert gehalten gegenüber
+605,"00:44:46,920","00:44:50,320",2686.92,2690.32,3.400000000000091,dem mediterranen Gleichgewicht.
+606,"00:44:50,400","00:44:55,720",2690.4,2695.72,5.319999999999709,Neue Schulden machen.
+607,"00:45:00,360","00:45:08,400",2700.36,2708.4,8.039999999999964,Diese Philosophie ist jetzt in Deutschland auch geopfert worden.
+608,"00:45:08,480","00:45:15,040",2708.48,2715.04,6.559999999999945,"PA: Der These möchte ich widersprechen,"
+609,"00:45:15,840","00:45:20,080",2715.84,2720.08,4.239999999999782,dass man kurz vor dem Staatsbankrott stand als Trump ins Amt kam.
+610,"00:45:20,160","00:45:22,680",2720.16,2722.68,2.519999999999982,"So viele Länder waren der Überzeugung,"
+611,"00:45:22,800","00:45:26,760",2722.8,2726.76,3.9600000000000364,dass Amerika als eine Ordnungsmacht die für Stabilität sorgt
+612,"00:45:26,840","00:45:29,080",2726.84,2729.08,2.2399999999997817,"und sich einsetzt wie ein Polizist,"
+613,"00:45:29,160","00:45:33,800",2729.16,2733.8,4.640000000000327,"der den Straßenverkehr regelt,"
+614,"00:45:33,880","00:45:37,880",2733.88,2737.88,4.0,dass das auch für die internationale Wirtschaft wertvoll ist.
+615,"00:45:37,960","00:45:41,800",2737.96,2741.8,3.8400000000001455,Nun gehen die USA unter Trump hin und verfolgen im Bereich
+616,"00:45:41,880","00:45:49,160",2741.88,2749.16,7.279999999999745,der Außen uns jetzt Politik einen Isolationismus.
+617,"00:45:54,960","00:45:58,400",2754.96,2758.4,3.4400000000000546,"Er ist bereit die Ukraine vor den Bus zu schmeißen,"
+618,"00:45:58,480","00:46:05,520",2758.48,2765.52,7.039999999999964,wenn er mit Putin dann eine Lösung finden kann.
+619,"00:46:16,360","00:46:21,440",2776.36,2781.44,5.079999999999927,"Das ganze kann dazu führen,"
+620,"00:46:21,520","00:46:28,240",2781.52,2788.24,6.7199999999998,dass das diese Krise überhaupt generiert.
+621,"00:46:28,760","00:46:32,400",2788.76,2792.4,3.6399999999998727,"HS: Die Krise nicht nur eingebildet und psychologisch,"
+622,"00:46:32,480","00:46:36,160",2792.48,2796.16,3.6799999999998363,wir haben einen Nettoanspruches.
+623,"00:46:36,240","00:46:41,480",2796.24,2801.48,5.2400000000002365,26 Billionen Dollar.
+624,"00:46:45,080","00:46:52,400",2805.08,2812.4,7.320000000000164,"Das ist so groß, das kann sich keiner vorstellen."
+625,"00:46:55,760","00:47:04,480",2815.76,2824.48,8.7199999999998,"- Wenn man Ihr Gesicht dazu sieht, wird das einem klar wie viel es ist."
+626,"00:47:07,320","00:47:10,840",2827.32,2830.84,3.519999999999982,HS: Das hat diesen amerikanischen Lebensstandard
+627,"00:47:10,920","00:47:13,800",2830.92,2833.8,2.880000000000109,aus der ganzen Welt möglich gemacht.
+628,"00:47:13,880","00:47:19,840",2833.88,2839.84,5.960000000000036,Das ist es auf einmal zu Ende.
+629,"00:47:21,680","00:47:23,760",2841.68,2843.76,2.080000000000382,"Was Trump vorhat,"
+630,"00:47:23,840","00:47:31,000",2843.84,2851.0,7.1599999999998545,dass er jetzt das Geld einkassieren will bei seinen Gläubigern
+631,"00:47:31,080","00:47:34,640",2851.08,2854.64,3.5599999999999454,"auf der Welt, das ist Gift für die Kapitalmärkte."
+632,"00:47:34,720","00:47:38,440",2854.72,2858.44,3.7200000000002547,Das führt zu einer fortgesetzten Abwertung des Dollars.
+633,"00:47:38,520","00:47:41,840",2858.52,2861.84,3.3200000000001637,"Nach dem 28. ging es runter,"
+634,"00:47:41,920","00:47:44,640",2861.92,2864.64,2.7199999999998,dann ging es mal wieder hoch.
+635,"00:47:44,720","00:47:48,560",2864.72,2868.56,3.8400000000001455,"Es geht jetzt schon wieder viel stärker runter als vorher,"
+636,"00:47:48,640","00:47:51,640",2868.64,2871.64,3.0,der Prozess ist nicht auf haltbar.
+637,"00:47:51,720","00:47:55,200",2871.72,2875.2,3.480000000000018,"- Ich habe eine Zahl gelesen, 9 Billionen,"
+638,"00:47:55,320","00:48:03,480",2875.32,2883.48,8.159999999999854,"müssen die Amerikaner jetzt um Schulden, weil Gläubiger fliehen."
+639,"00:48:04,440","00:48:09,320",2884.44,2889.32,4.880000000000109,"Weil Staatstitel verkauft werden,"
+640,"00:48:09,400","00:48:15,120",2889.4,2895.12,5.7199999999998,weil man den amerikanischen Staat nicht mehr über den Weg traut.
+641,"00:48:15,200","00:48:22,440",2895.2,2902.44,7.2400000000002365,"JL: Der größtes ist Japan, der zweitgrößte China."
+642,"00:48:24,280","00:48:29,400",2904.28,2909.4,5.119999999999891,"- Bevor wir gleich über den Papst sprechen,"
+643,"00:48:29,480","00:48:34,360",2909.48,2914.36,4.880000000000109,"vielleicht kommt Hilfe von oben,"
+644,"00:48:34,440","00:48:39,480",2914.44,2919.48,5.039999999999964,ich möchte über etwas anderes sprechen.
+645,"00:48:39,560","00:48:43,600",2919.56,2923.6,4.039999999999964,Sie haben vor ein paar Monaten zusammengetragen was das alles
+646,"00:48:43,680","00:48:49,320",2923.68,2929.32,5.640000000000327,für Deutschland bedeutet.
+647,"00:49:00,480","00:49:05,560",2940.48,2945.56,5.079999999999927,"Deutschland hate eine Verschuldung von 1,7 Billionen Euro."
+648,"00:49:05,640","00:49:13,280",2945.64,2953.28,7.640000000000327,Muss jedes Jahr ein paar Millionen Euro neu finanzieren.
+649,"00:49:15,320","00:49:22,840",2955.32,2962.84,7.519999999999982,Man rechnet in der Unionsfraktion mit perspektivisch
+650,"00:49:24,760","00:49:31,720",2964.76,2971.72,6.959999999999582,"einer Verdoppelung der Zinsausgaben von heute, 35 Milliarden."
+651,"00:49:31,800","00:49:38,840",2971.8,2978.84,7.039999999999964,35 Milliarden werden nur für Zinsen ausgegeben.
+652,"00:49:39,360","00:49:44,600",2979.36,2984.6,5.239999999999782,"JL: Wir kommen aus einer Zeit, wo die Zinsen sehr niedrig waren."
+653,"00:49:44,720","00:49:49,560",2984.72,2989.56,4.8400000000001455,2021 sind nur 4 Milliarden Euro für die Zinsen fällig gewesen.
+654,"00:49:49,640","00:49:55,280",2989.64,2995.28,5.640000000000327,Inzwischen sind sie höher.
+655,"00:49:57,560","00:50:00,560",2997.56,3000.56,3.0,Im Moment sind wir bei 35 Milliarden im Jahr.
+656,"00:50:00,640","00:50:05,160",3000.64,3005.16,4.519999999999982,Der Bundesrechnungshof hat bei der Lockerung der Schuldenbremse
+657,"00:50:05,240","00:50:07,960",3005.24,3007.96,2.7200000000002547,"hochgerechnet und gesagt,"
+658,"00:50:08,040","00:50:11,400",3008.04,3011.4,3.3600000000001273,es kommen perspektivisch in zehn Jahren noch einmal
+659,"00:50:11,480","00:50:15,080",3011.48,3015.08,3.599999999999909,37 Milliarden dazu.
+660,"00:50:15,160","00:50:21,200",3015.16,3021.2,6.039999999999964,Dann sind wir ungefähr 80 Milliarden nur für Zinsen.
+661,"00:50:21,280","00:50:26,200",3021.28,3026.2,4.919999999999618,"Als Dimension,"
+662,"00:50:26,360","00:50:30,880",3026.36,3030.88,4.519999999999982,wir haben im Moment einen Haushalt im Jahr von 500 Milliarden Euro.
+663,"00:50:31,000","00:50:34,360",3031.0,3034.36,3.3600000000001273,"Der größte Brocken ist der Bundeszuschuss zur Rente,"
+664,"00:50:34,440","00:50:36,360",3034.44,3036.36,1.9200000000000728,120 Milliarden.
+665,"00:50:36,480","00:50:41,920",3036.48,3041.92,5.440000000000055,Wenn das so bliebe wäre die Zinslast der zweitgrößte Brocken.
+666,"00:50:42,000","00:50:45,920",3042.0,3045.92,3.9200000000000728,Wir haben in der Corona-Zeit und zu Beginn der Energiekrise
+667,"00:50:46,000","00:50:52,160",3046.0,3052.16,6.1599999999998545,große Sondervermögen aufgenommen.
+668,"00:50:53,120","00:50:59,520",3053.12,3059.52,6.400000000000091,"Das Sondervermögen Bundeswehr, das muss getilgt werden."
+669,"00:50:59,600","00:51:03,680",3059.6,3063.68,4.079999999999927,Da kommt in ein paar Jahren noch einmal ein zweistelliger
+670,"00:51:03,760","00:51:09,160",3063.76,3069.16,5.399999999999636,Milliardenbetrag dazu.
+671,"00:51:09,800","00:51:12,000",3069.8,3072.0,2.199999999999818,"Also quasi 100 Milliarden dafür,"
+672,"00:51:12,080","00:51:18,840",3072.08,3078.84,6.760000000000218,weil wir viele Schulden aufgenommen haben.
+673,"00:51:21,560","00:51:24,160",3081.56,3084.16,2.599999999999909,ML: Da hat der Papst mitgeholfen.
+674,"00:51:24,240","00:51:28,160",3084.24,3088.16,3.9200000000000728,"JL: Deshalb ist die Warnung von Herrn sind sehr berechtigt,"
+675,"00:51:28,240","00:51:31,720",3088.24,3091.72,3.480000000000018,wer jetzt viel Geld für die Verteidigung
+676,"00:51:31,800","00:51:36,040",3091.8,3096.04,4.239999999999782,"als auch die Infrastruktur ausgeben, dieses Geld wird gut ausgegeben,"
+677,"00:51:36,800","00:51:40,080",3096.8,3100.08,3.2799999999997453,"da müssen wir darauf aufpassen. Das ist dafür ausgegeben wird,"
+678,"00:51:40,160","00:51:42,360",3100.16,3102.36,2.200000000000273,"keine neuen Elbphilharmonie gehen,"
+679,"00:51:42,480","00:51:45,280",3102.48,3105.28,2.800000000000182,"kein Stuttgart 21 oder andere Projekte,"
+680,"00:51:45,400","00:51:47,880",3105.4,3107.88,2.480000000000018,"wo die Kosten bei 3 Milliarden lagen,"
+681,"00:51:47,960","00:51:53,480",3107.96,3113.48,5.519999999999982,jetzt bei 10 Milliarden.
+682,"00:51:58,440","00:52:02,560",3118.44,3122.56,4.119999999999891,"Vielleicht auch nicht 10 Milliarden intern versprechen,"
+683,"00:52:02,680","00:52:07,440",3122.68,3127.44,4.760000000000218,"diese Subventionssündenfällen,"
+684,"00:52:07,560","00:52:12,800",3127.56,3132.8,5.2400000000002365,Herr Altmaier ist ein Fan von Subventionen.
+685,"00:52:12,880","00:52:17,120",3132.88,3137.12,4.239999999999782,PA: Das stimmt nicht.
+686,"00:52:17,240","00:52:22,320",3137.24,3142.32,5.080000000000382,"Sie haben gesagt,"
+687,"00:52:24,880","00:52:27,680",3144.88,3147.68,2.799999999999727,"wir waren bei 4 Milliarden in Zinsen,"
+688,"00:52:27,760","00:52:30,600",3147.76,3150.6,2.8399999999996908,wir waren aber auch schon bei 40 Milliarden
+689,"00:52:30,720","00:52:32,960",3150.72,3152.96,2.2400000000002365,zur Ende der rot-grünen Koalition.
+690,"00:52:33,040","00:52:35,760",3153.04,3155.76,2.7200000000002547,Die deutsche Bonität stand stark infrage.
+691,"00:52:35,840","00:52:38,840",3155.84,3158.84,3.0,Weil wir 40 Milliarden zahlen mussten war es
+692,"00:52:38,960","00:52:42,520",3158.96,3162.52,3.5599999999999454,mit der Regierung unmöglich diese Kriterien zu halten.
+693,"00:52:42,640","00:52:45,880",3162.64,3165.88,3.2400000000002365,Deswegen haben wir die Schuldenbremse vereinbart.
+694,"00:52:45,960","00:52:51,160",3165.96,3171.16,5.199999999999818,"Etwas gemacht, was genial war in gewisser Weise."
+695,"00:52:51,280","00:52:53,360",3171.28,3173.36,2.0799999999999272,"Das hat deutlich gemacht,"
+696,"00:52:53,440","00:53:00,840",3173.44,3180.84,7.400000000000091,man kann in Deutschland sicher Staatspapiere kaufen.
+697,"00:53:09,280","00:53:16,320",3189.28,3196.32,7.039999999999964,Wir hatten einen riesigen Haushaltsspielraum.
+698,"00:53:16,480","00:53:24,040",3196.48,3204.04,7.559999999999945,JL: Das wurde leider nicht für Investitionen genutzt.
+699,"00:53:25,560","00:53:30,080",3205.56,3210.08,4.519999999999982,"PA: Wir hätten investieren können, aber bei den ganzen Spielräumen,"
+700,"00:53:30,160","00:53:34,000",3210.16,3214.0,3.8400000000001455,"die entstanden sind, wir haben einmal die Steuern gesenkt,"
+701,"00:53:34,080","00:53:39,240",3214.08,3219.24,5.1599999999998545,"wir haben den Soli gesenkt,"
+702,"00:53:39,360","00:53:42,960",3219.36,3222.96,3.599999999999909,"wir haben immer wieder für soziale Belange, Mütterrente,"
+703,"00:53:43,080","00:53:46,920",3223.08,3226.92,3.8400000000001455,"anliegende SPD, die Fehler wurden auf allen Seiten gemacht."
+704,"00:53:47,000","00:53:49,120",3227.0,3229.12,2.119999999999891,"Deshalb halte ich es für richtig,"
+705,"00:53:49,200","00:53:52,920",3229.2,3232.92,3.7200000000002547,"dass wir grundsätzlich an der Schuldenbremse festhalten,"
+706,"00:53:53,000","00:53:56,760",3233.0,3236.76,3.7600000000002183,"und dass sie jetzt zeigen, dass unsere Ankündigung,"
+707,"00:53:56,840","00:54:00,120",3236.84,3240.12,3.2799999999997453,"dass man Einsparungen macht,"
+708,"00:54:00,120","00:54:06,120",3240.12,3246.12,6.0,"Dass die auch nicht vergessen sind, sondern umgesetzt werden."
+709,"00:54:06,120","00:54:09,880",3246.12,3249.88,3.7600000000002183,"- Die letzten Fragen an die beiden Ökonomen in der Runde,"
+710,"00:54:09,920","00:54:15,600",3249.92,3255.6,5.679999999999836,dann kommen wir zum Papst.
+711,"00:54:21,160","00:54:24,200",3261.16,3264.2,3.0399999999999636,"Larry Fink, der Chef von Black Rock,"
+712,"00:54:24,320","00:54:30,760",3264.32,3270.76,6.440000000000055,ein mächtiger Mann in der Finanzwelt.
+713,"00:54:31,640","00:54:35,960",3271.64,3275.96,4.320000000000164,"Er sagt, in Amerika es ist ein Thema, und für Schrammen wirklich"
+714,"00:54:36,120","00:54:37,960",3276.12,3277.96,1.8400000000001455,an einer Staatspleite entlang.
+715,"00:54:38,040","00:54:44,720",3278.04,3284.72,6.679999999999836,"Wenn das passiert, was wäre die Konsequenz für uns alle?"
+716,"00:54:44,800","00:54:50,200",3284.8,3290.2,5.399999999999636,HS: Das hat gewaltige Implikationen für die Stabilität
+717,"00:54:50,280","00:54:51,640",3290.28,3291.64,1.3599999999996726,des Finanzsystems.
+718,"00:54:51,680","00:54:55,720",3291.68,3295.72,4.039999999999964,Die Banken besitzen viele amerikanische Staatspapiere.
+719,"00:54:55,840","00:55:00,640",3295.84,3300.64,4.799999999999727,Wenn die wertvollen müssen sie Abschreibungen vor nehmen.
+720,"00:55:00,720","00:55:03,240",3300.72,3303.24,2.519999999999982,Banken arbeiten mit wenig Eigenkapital.
+721,"00:55:03,320","00:55:08,440",3303.32,3308.44,5.119999999999891,Es ist sofort weg.
+722,"00:55:11,480","00:55:15,400",3311.48,3315.4,3.9200000000000728,"Sie können häufig die Verluste verstecken in den Bilanzen,"
+723,"00:55:15,520","00:55:17,680",3315.52,3317.68,2.1599999999998545,da gibt es gewisse Möglichkeiten.
+724,"00:55:17,800","00:55:23,280",3317.8,3323.28,5.480000000000018,"Bankenbuch, Handelsbuch."
+725,"00:55:23,440","00:55:26,840",3323.44,3326.84,3.400000000000091,Auf Dauer kann man so etwas aber nicht verstecken.
+726,"00:55:26,920","00:55:30,160",3326.92,3330.16,3.2399999999997817,"Wenn die Papiere, die sie haben, entwertet werden,"
+727,"00:55:30,280","00:55:32,680",3330.28,3332.68,2.399999999999636,"weil niemand sie mehr haben will,"
+728,"00:55:32,760","00:55:39,360",3332.76,3339.36,6.599999999999909,dann geraten die Banken ins straucheln.
+729,"00:55:40,680","00:55:47,880",3340.68,3347.88,7.200000000000273,Dann haben wir möglicherweise eine Finanzkrise.
+730,"00:55:51,040","00:55:57,600",3351.04,3357.6,6.559999999999945,"Es zeigt, was Trump für ein Unsinn macht."
+731,"00:55:57,720","00:56:01,080",3357.72,3361.08,3.3600000000001273,"Wir müssen daran denken unsere Bonität zu erhalten,"
+732,"00:56:01,160","00:56:05,800",3361.16,3365.8,4.640000000000327,"aber Trump sagt, das müssen die anderen machen."
+733,"00:56:05,920","00:56:10,920",3365.92,3370.92,5.0,"Das geht nicht. Bei uns gibt es auch viele, die so reden,"
+734,"00:56:11,000","00:56:16,320",3371.0,3376.32,5.320000000000164,"viele sagen, hier lösen wir auch mal mit mehr Schulden."
+735,"00:56:16,440","00:56:20,720",3376.44,3380.72,4.279999999999745,"Deutschlands Kurs war ein anderer, es war ein Kurs der Stabilität."
+736,"00:56:20,800","00:56:27,000",3380.8,3387.0,6.199999999999818,Den Seiten wird's nicht verlassen.
+737,"00:56:32,360","00:56:36,040",3392.36,3396.04,3.6799999999998363,"Auch hier braucht man eine Blut, Schweiß, Tränen-Rede,"
+738,"00:56:36,120","00:56:42,120",3396.12,3402.12,6.0,auch angesichts der außenpolitischen Gefahren.
+739,"00:56:42,200","00:56:49,000",3402.2,3409.0,6.800000000000182,"Wir werden regelrecht zwischen Putin und Strumpf zerquetscht,"
+740,"00:56:49,120","00:56:53,600",3409.12,3413.6,4.480000000000018,wenn wir nicht aufpassen.
+741,"00:56:53,680","00:56:56,520",3413.68,3416.52,2.8400000000001455,Wir müssen den Hebel fundamental aushebeln.
+742,"00:56:56,600","00:56:59,440",3416.6,3419.44,2.8400000000001455,"Wir müssen jetzt einen Schritt weitergehen,"
+743,"00:56:59,520","00:57:02,720",3419.52,3422.72,3.199999999999818,verteidigungsfähig werden. Wir müssen den Schritt
+744,"00:57:02,800","00:57:08,480",3422.8,3428.48,5.679999999999836,zur politischen Union tun.
+745,"00:57:08,840","00:57:11,120",3428.84,3431.12,2.2799999999997453,"Auch Pascoal im Hinterkopf hatte,"
+746,"00:57:11,200","00:57:13,840",3431.2,3433.84,2.6400000000003274,als er seine Krönungstheorie entwickelte.
+747,"00:57:13,920","00:57:21,640",3433.92,3441.64,7.7199999999998,"Erst die politische Union, dann geben wir die D-Mark her."
+748,"00:57:24,480","00:57:28,320",3444.48,3448.32,3.8400000000001455,"Das ganze müssen wir realisieren, aber es war ein Fehler,"
+749,"00:57:28,440","00:57:31,360",3448.44,3451.36,2.9200000000000728,erst mal die Währungsunion geschaffen.
+750,"00:57:31,440","00:57:34,760",3451.44,3454.76,3.3200000000001637,"Jetzt müssen wir Frankreich in die Pflicht nehmen,"
+751,"00:57:34,840","00:57:40,120",3454.84,3460.12,5.279999999999745,die anderen Länder in die Pflicht nehmen.
+752,"00:57:40,200","00:57:43,200",3460.2,3463.2,3.0,Wir müssen die vereinigten Staaten von Europa
+753,"00:57:43,280","00:57:47,680",3463.28,3467.68,4.399999999999636,"mit einer gemeinsamen Regierung,"
+754,"00:57:47,760","00:57:49,480",3467.76,3469.48,1.7199999999998,die über ein Gewaltmonopol
+755,"00:57:49,560","00:57:53,920",3469.56,3473.92,4.360000000000127,"verfügt und in der Lage ist eine gemeinsame Armee zu Befehle legen,"
+756,"00:57:54,000","00:58:01,640",3474.0,3481.64,7.639999999999873,nur eine gemeinsame Armee wird Putin wirklich beeindrucken.
+757,"00:58:01,760","00:58:10,360",3481.76,3490.36,8.599999999999909,"Was wir jetzt machen, in die alten Strukturen mit 24 Armeen in Europa,"
+758,"00:58:11,720","00:58:15,440",3491.72,3495.44,3.7200000000002547,"unterschiedliche Waffensysteme, dass aufzuplustern dann,"
+759,"00:58:15,520","00:58:18,560",3495.52,3498.56,3.0399999999999636,dass es besser als nichts.
+760,"00:58:18,640","00:58:22,000",3498.64,3502.0,3.3600000000001273,Aber es ist nichts...
+761,"00:58:22,120","00:58:28,080",3502.12,3508.08,5.960000000000036,Wir müssen uns jetzt aufraffen.
+762,"00:58:29,880","00:58:32,120",3509.88,3512.12,2.2399999999997817,"JL: Soweit würde ich nicht gehen,"
+763,"00:58:32,200","00:58:34,880",3512.2,3514.88,2.680000000000291,"ich halte es auch nicht für realistisch,"
+764,"00:58:34,960","00:58:39,040",3514.96,3519.04,4.079999999999927,Europa muss im Binnenmarkt funktionsfähig sein.
+765,"00:58:39,160","00:58:44,000",3519.16,3524.0,4.8400000000001455,"Damit haben wir genug zu tun, auch das Thema Schulden ist wichtig."
+766,"00:58:44,080","00:58:51,720",3524.08,3531.72,7.639999999999873,"Deutschland muss mit dem Geld, das aufgenommen wird vernünftig umgehen."
+767,"00:58:51,840","00:58:54,440",3531.84,3534.44,2.599999999999909,"Wir sind der Stabilitätsanker in Europa,"
+768,"00:58:54,560","00:59:00,640",3534.56,3540.64,6.079999999999927,wenn wir das nicht hinbekommen...
+769,"00:59:03,920","00:59:07,400",3543.92,3547.4,3.480000000000018,"Die Franzosen und Italiener zahlen jetzt schon höhere Zinsen als wir,"
+770,"00:59:07,520","00:59:10,560",3547.52,3550.56,3.0399999999999636,"wenn es bei uns hoch geht, geht es auch bei Ihnen hoch. Dieser"
+771,"00:59:10,640","00:59:12,920",3550.64,3552.92,2.2800000000002,"Glaube, dass man mit Schuldenwachstum"
+772,"00:59:13,040","00:59:17,000",3553.04,3557.0,3.9600000000000364,"herbei fördern könne, da müssten Frankreich und Italien blühende"
+773,"00:59:17,080","00:59:19,600",3557.08,3559.6,2.519999999999982,Landschaften sein. Ich glaube das muss
+774,"00:59:19,680","00:59:21,520",3559.68,3561.52,1.8400000000001455,"die Koalition verinnerlichen,"
+775,"00:59:21,600","00:59:25,040",3561.6,3565.04,3.4400000000000546,es muss regiert werden.
+776,"00:59:25,160","00:59:31,680",3565.16,3571.68,6.519999999999982,"Aber was mich am Koalitionsvertrag stört, es gibt keine Prioritäten."
+777,"00:59:31,760","00:59:35,000",3571.76,3575.0,3.2399999999997817,"Es ist eine Bandbreite aller politischen Wünsche,"
+778,"00:59:35,080","00:59:39,200",3575.08,3579.2,4.119999999999891,die diese drei Parteien haben.
+779,"00:59:39,360","00:59:44,520",3579.36,3584.52,5.1599999999998545,ML: Ich finde sie verkennen den Koalitionsvertrag.
+780,"00:59:44,600","00:59:48,840",3584.6,3588.84,4.2400000000002365,"Ich finde der Koalitionsvertrag ist etwas psychotherapeutisches,"
+781,"00:59:49,000","00:59:50,960",3589.0,3590.96,1.9600000000000364,nichts politisches.
+782,"00:59:51,080","00:59:57,920",3591.08,3597.92,6.8400000000001455,"- Jetzt sind wir gerade bei Trost und Liebe,"
+783,"00:59:58,960","01:00:03,320",3598.96,3603.32,4.360000000000127,"dieser Papst, ich habe dieser Tage ein interessantes Meinungstück"
+784,"01:00:03,440","01:00:06,000",3603.44,3606.0,2.5599999999999454,"in der ""Welt"" gelesen."
+785,"01:00:06,120","01:00:10,640",3606.12,3610.64,4.519999999999982,"Die Frage war, wer war er?"
+786,"01:00:10,720","01:00:14,080",3610.72,3614.08,3.3600000000001273,Auf diese Frage hat er damals geantwortet mit:
+787,"01:00:14,200","01:00:20,480",3614.2,3620.48,6.2800000000002,"""eigentlich bin ich nur ein Sünder""."
+788,"01:00:20,600","01:00:24,640",3620.6,3624.64,4.039999999999964,"Niemand ist so gut wie sein Nachruf, so schlecht wie sein Ruf."
+789,"01:00:24,720","01:00:29,680",3624.72,3629.68,4.960000000000036,Was müssen wir ihm ins Buch schreiben?
+790,"01:00:29,760","01:00:36,360",3629.76,3636.36,6.599999999999909,"ML: Ich glaube wenn er das sagt, ist das nicht kokett gemeint."
+791,"01:00:36,440","01:00:41,840",3636.44,3641.84,5.400000000000091,"Ich glaube, dass er das ganz ernst gemeint hat,"
+792,"01:00:41,920","01:00:43,880",3641.92,3643.88,1.9600000000000364,das habe ich an ihm bewundert.
+793,"01:00:44,000","01:00:49,800",3644.0,3649.8,5.800000000000182,"Ich habe viele Reden von ihm gehört, bei jeder Rede,"
+794,"01:00:49,880","01:00:57,640",3649.88,3657.64,7.7599999999997635,"zwölf Jahre lang, hatte immer am Ende gesagt, bitte betet."
+795,"01:01:00,000","01:01:07,320",3660.0,3667.32,7.320000000000164,"Das finde ich auch, was viele Menschen annehmen beeindruckt hat,"
+796,"01:01:07,440","01:01:10,560",3667.44,3670.56,3.119999999999891,er war sehr authentisch.
+797,"01:01:10,680","01:01:12,240",3670.68,3672.24,1.5599999999999454,"Das interessante ist auch,"
+798,"01:01:12,360","01:01:15,440",3672.36,3675.44,3.0799999999999272,dass er in Deutschland viel mehr Menschen außerhalb
+799,"01:01:16,040","01:01:18,960",3676.04,3678.96,2.9200000000000728,"der Kirche begeistert, als innerhalb der Kirche. Innerhalb"
+800,"01:01:19,080","01:01:23,080",3679.08,3683.08,4.0,der Kirche sind die konservativen und progressiven nicht sehr
+801,"01:01:23,240","01:01:27,120",3683.24,3687.12,3.880000000000109,"zufrieden. Man sieht es immer von der deutschen Brille aus,"
+802,"01:01:27,200","01:01:31,960",3687.2,3691.96,4.760000000000218,"er war weder konservativ noch progressiv,"
+803,"01:01:32,080","01:01:34,840",3692.08,3694.84,2.7600000000002183,"in manchmal konservativer als konservativ,"
+804,"01:01:34,960","01:01:37,840",3694.96,3697.84,2.880000000000109,und in manchen progressiver als progressive.
+805,"01:01:37,960","01:01:40,200",3697.96,3700.2,2.2399999999997817,"Ich glaube aber die Authentizität,"
+806,"01:01:40,320","01:01:45,160",3700.32,3705.16,4.839999999999691,dass es was Menschen beeindruckt hat.
+807,"01:01:45,280","01:01:50,240",3705.28,3710.24,4.959999999999582,"Eine internationale Institution,"
+808,"01:01:50,320","01:01:57,840",3710.32,3717.84,7.519999999999982,"die in allen Ländern der Erde sozusagen vorhanden ist,"
+809,"01:01:57,960","01:02:01,920",3717.96,3721.92,3.9600000000000364,"wie die eben nicht wie große Konzerne überall Geld verdient,"
+810,"01:02:02,000","01:02:05,920",3722.0,3725.92,3.9200000000000728,sondern eine Wertegemeinschaft ist.
+811,"01:02:06,080","01:02:08,920",3726.08,3728.92,2.8400000000001455,"Es ist wichtig diesen Laden zusammenzuhalten,"
+812,"01:02:09,000","01:02:17,520",3729.0,3737.52,8.519999999999982,"dass auf Trab zu bringen, es ist beeindruckend, was er geschafft hat."
+813,"01:02:17,800","01:02:21,320",3737.8,3741.32,3.519999999999982,- es gibt die konische Bilder Momente die untrennbar
+814,"01:02:21,440","01:02:23,520",3741.44,3743.52,2.0799999999999272,mit ihm verbunden sind.
+815,"01:02:23,600","01:02:26,520",3743.6,3746.52,2.9200000000000728,Zum Beispiel der Besuch im Gefängnis.
+816,"01:02:26,640","01:02:31,520",3746.64,3751.52,4.880000000000109,"Es sind Bilder, die man mit ihm in Zusammenhang bringt."
+817,"01:02:31,640","01:02:37,240",3751.64,3757.24,5.599999999999909,Fußwaschen bei Gefangenen.
+818,"01:02:39,600","01:02:43,560",3759.6,3763.56,3.9600000000000364,"ML: Die Momente, war persönlich mit Menschen zu tun hatte,"
+819,"01:02:43,880","01:02:46,360",3763.88,3766.36,2.480000000000018,hat er geliebt.
+820,"01:02:46,480","01:02:49,360",3766.48,3769.36,2.880000000000109,In seiner Autobiografie
+821,"01:02:49,440","01:02:56,160",3769.44,3776.16,6.7199999999998,hat er gesagt er musste sich an die Massen gewöhnen.
+822,"01:02:56,240","01:03:02,840",3776.24,3782.84,6.600000000000364,"Ich glaube auch nicht das PR-orientiert ist,..."
+823,"01:03:02,920","01:03:06,640",3782.92,3786.64,3.7199999999998,- ich meinte es nicht negativ.
+824,"01:03:06,760","01:03:14,120",3786.76,3794.12,7.359999999999673,"Er wusste vielleicht einfach, wie die Bilder wirken."
+825,"01:03:17,120","01:03:19,400",3797.12,3799.4,2.2800000000002,"ML: Ich glaube, dass das nicht so ist."
+826,"01:03:19,520","01:03:22,560",3799.52,3802.56,3.0399999999999636,Wir haben ständig Menschen die sie inszenieren.
+827,"01:03:22,680","01:03:26,160",3802.68,3806.16,3.480000000000018,"Es ist keine Inszenierung, er meint es zutiefst ernst."
+828,"01:03:26,240","01:03:29,800",3806.24,3809.8,3.5600000000004,"Das ist manchmal aber auch das Problem bei ihm gewesen,"
+829,"01:03:29,920","01:03:32,360",3809.92,3812.36,2.4400000000000546,"er war immer so authentisch,"
+830,"01:03:32,520","01:03:35,760",3812.52,3815.76,3.2400000000002365,"dass er vielleicht diplomatisch hätte sein müssen,"
+831,"01:03:35,840","01:03:37,360",3815.84,3817.36,1.5199999999999818,war er dann aber nicht.
+832,"01:03:37,480","01:03:39,320",3817.48,3819.32,1.8400000000001455,Auch das beschreibt er.
+833,"01:03:39,480","01:03:44,320",3819.48,3824.32,4.8400000000001455,"Er war manchmal sehr authentisch, hat gesagt, was er denkt."
+834,"01:03:44,400","01:03:49,320",3824.4,3829.32,4.920000000000073,"- Ich erinnere mich auch an die Bilder im Petersplatz,"
+835,"01:03:49,400","01:03:52,640",3829.4,3832.64,3.2399999999997817,"er hat zielsicher den ausgesucht, der offenkundig"
+836,"01:03:52,800","01:03:54,680",3832.8,3834.68,1.8799999999996544,etwas anders aussieht.
+837,"01:03:54,800","01:03:59,160",3834.8,3839.16,4.359999999999673,Es gibt ein ganz berühmtes Foto: dass sie zum Beispiel.
+838,"01:03:59,240","01:04:05,480",3839.24,3845.48,6.2400000000002365,Ich nehme ihm diese Geste total ab.
+839,"01:04:05,640","01:04:10,200",3845.64,3850.2,4.559999999999945,"Wenn du so etwas machst, glaubwürdig machst, dann entsteht"
+840,"01:04:10,360","01:04:15,800",3850.36,3855.8,5.440000000000055,eine moralische Instanz.
+841,"01:04:19,200","01:04:23,360",3859.2,3863.36,4.160000000000309,"zwangsläufig ist sie eine Enttäuschung vorprogrammiert,"
+842,"01:04:23,480","01:04:27,720",3863.48,3867.72,4.239999999999782,wenn du dann auf politischer Ebene als Soft-Power
+843,"01:04:27,840","01:04:31,000",3867.84,3871.0,3.1599999999998545,nicht in der Lage bist Putin klar zu verurteilen.
+844,"01:04:31,080","01:04:33,800",3871.08,3873.8,2.7200000000002547,Das ist die Enttäuschung an dieser Stelle.
+845,"01:04:33,880","01:04:39,520",3873.88,3879.52,5.639999999999873,Warum hatte das nicht gemacht?
+846,"01:04:39,640","01:04:43,320",3879.64,3883.32,3.680000000000291,"ML: Er ist mit 76 Papst geworden, da bleibt man, wie man"
+847,"01:04:43,440","01:04:44,320",3883.44,3884.32,0.8800000000001091,ist.
+848,"01:04:44,440","01:04:49,800",3884.44,3889.8,5.360000000000127,Erst viel in der Welt rum gekommen. Er ist ein guter Seelsorger gewesen.
+849,"01:04:49,920","01:04:57,120",3889.92,3897.12,7.199999999999818,Ich habe mal eine halbe Stunde mit ihm gesprochen.
+850,"01:04:58,040","01:05:02,680",3898.04,3902.68,4.639999999999873,"Am Schluss, da habe ich ihm gebeten noch für einen Menschen zu beten,"
+851,"01:05:02,800","01:05:05,000",3902.8,3905.0,2.199999999999818,der gesundheitliche Probleme hatte.
+852,"01:05:05,120","01:05:08,120",3905.12,3908.12,3.0,"Hat sofort gefragt, wie heißt der Mensch,"
+853,"01:05:08,240","01:05:12,520",3908.24,3912.52,4.2800000000002,"dann hatte den Raum verlassen, kam 5 Minuten nicht wieder."
+854,"01:05:12,640","01:05:17,840",3912.64,3917.84,5.200000000000273,Er ist offensichtlich in seine Wohnung gefahren in seine Wohnung.
+855,"01:05:17,960","01:05:24,840",3917.96,3924.84,6.880000000000109,Dann hat er mir einen Rosenkrampf für diesen Mensch mitgegeben.
+856,"01:05:24,960","01:05:31,240",3924.96,3931.24,6.279999999999745,"Es war authentisch, keine Kamera da."
+857,"01:05:35,280","01:05:39,280",3935.28,3939.28,4.0,"Diese Authentizität, das ist etwas, was Menschen vermissen."
+858,"01:05:39,360","01:05:42,520",3939.36,3942.52,3.1599999999998545,"Wir haben ständig Menschen, die sich inszenieren."
+859,"01:05:42,640","01:05:44,720",3942.64,3944.72,2.0799999999999272,"Wenn nichts mehr authentisch ist,"
+860,"01:05:44,840","01:05:49,520",3944.84,3949.52,4.679999999999836,wenn Nächstenliebe nur noch ein Wort wird.
+861,"01:05:49,600","01:05:53,640",3949.6,3953.64,4.039999999999964,Dann haben die Menschen nicht mehr das warme Gefühl von Trost.
+862,"01:05:53,760","01:05:57,880",3953.76,3957.88,4.119999999999891,"Das brauchen noch Menschen, die Atheisten sind."
+863,"01:05:58,000","01:06:01,960",3958.0,3961.96,3.9600000000000364,"- In Coronazeiten, der Petersdom,"
+864,"01:06:02,080","01:06:08,440",3962.08,3968.44,6.360000000000127,verstanden wir das Bild mal vorlegen.
+865,"01:06:09,160","01:06:12,480",3969.16,3972.48,3.3200000000001637,Der Papst fast allein in dieser riesigen Basilika.
+866,"01:06:12,560","01:06:18,560",3972.56,3978.56,6.0,Das fand ich unglaublich stark.
+867,"01:06:22,360","01:06:25,240",3982.36,3985.24,2.8799999999996544,"Nichts anderes hat die Einsamkeit gezeigt,"
+868,"01:06:25,400","01:06:28,240",3985.4,3988.24,2.8399999999996908,in der wir damals fest hängen.
+869,"01:06:28,360","01:06:36,040",3988.36,3996.04,7.679999999999836,Das meine ich mit dem Gespür für das was gerade passiert.
+870,"01:06:38,040","01:06:40,000",3998.04,4000.0,1.9600000000000364,"ML: Ja, aber da bin ich nicht sicher,"
+871,"01:06:40,120","01:06:47,040",4000.12,4007.04,6.920000000000073,ob da nicht auch seine Medienfachleute ihm beraten haben.
+872,"01:06:47,160","01:06:48,920",4007.16,4008.92,1.7600000000002183,"Aber schon als der Papst wurde,"
+873,"01:06:49,040","01:06:53,440",4009.04,4013.44,4.400000000000091,"der schreibt ja auch in seiner Biografie authentisch,"
+874,"01:06:53,520","01:06:55,760",4013.52,4015.76,2.2400000000002365,"sollte ihm bestimmte Gewänder angelegt werden,"
+875,"01:06:55,880","01:07:00,040",4015.88,4020.04,4.1599999999998545,"da hat der von vornherein spontan gesagt, das möchte ich nicht."
+876,"01:07:00,160","01:07:06,600",4020.16,4026.6,6.440000000000055,Er hat den Papstnamen auch nicht vorbereitet.
+877,"01:07:06,680","01:07:09,440",4026.68,4029.44,2.7600000000002183,"- Das Bild gibt es natürlich auch noch mal von innen,"
+878,"01:07:09,560","01:07:12,080",4029.56,4032.08,2.519999999999982,das fände ich wahnsinnig beeindruckend.
+879,"01:07:12,200","01:07:14,960",4032.2,4034.96,2.7600000000002183,"Nichts macht sie klarer, wie es damals war."
+880,"01:07:15,080","01:07:18,680",4035.08,4038.68,3.599999999999909,ML: Wie sah natürlich auch unser Elend in der Situation.
+881,"01:07:18,800","01:07:23,960",4038.8,4043.96,5.1599999999998545,"Er war dann auch die Stimme der Welt, wurde so wahrgenommen."
+882,"01:07:24,080","01:07:27,560",4044.08,4047.56,3.480000000000018,"Wenn sie Putin ansprechen,"
+883,"01:07:27,680","01:07:31,360",4047.68,4051.36,3.680000000000291,er musste natürlich als Papst auch politisch tätig sein.
+884,"01:07:31,480","01:07:37,920",4051.48,4057.92,6.440000000000055,Darin hatte er keiner Leiherfahrungen.
+885,"01:07:42,640","01:07:45,680",4062.64,4065.68,3.0399999999999636,"Er war nicht so diplomatisch, hatte eine Vorstellung gehabt,"
+886,"01:07:45,760","01:07:48,800",4065.76,4068.8,3.0399999999999636,einen guten Willen gehabt zu vermitteln.
+887,"01:07:48,920","01:07:52,160",4068.92,4072.16,3.2399999999997817,"Erst am ersten Tag mit dem Auto zur russischen Botschaft gefahren,"
+888,"01:07:52,280","01:07:55,560",4072.28,4075.56,3.2799999999997453,aber so eine hilflose Geste ist auch beeindruckend.
+889,"01:07:55,680","01:07:59,640",4075.68,4079.64,3.9600000000000364,Aber es ist auch schwierig zwischen der Ukraine und Russland
+890,"01:07:59,800","01:08:02,600",4079.8,4082.6,2.799999999999727,irgendwie noch eine übergeordnete Instanz zu sein.
+891,"01:08:02,720","01:08:06,600",4082.72,4086.6,3.880000000000109,"Das war manchmal schwierig. Auch wenn ein neuer Papst gewählt wird,"
+892,"01:08:06,720","01:08:07,800",4086.72,4087.8,1.080000000000382,wer soll das sein?
+893,"01:08:07,920","01:08:11,280",4087.92,4091.28,3.3600000000001273,"Der muss ein toller Seelsorger sein, guter Theologe,"
+894,"01:08:11,400","01:08:15,560",4091.4,4095.56,4.1599999999998545,"politisch geschickt, intelligent... Das ist alles sehr schwierig."
+895,"01:08:15,680","01:08:21,840",4095.68,4101.84,6.160000000000309,Er hat sicherlich Defizite gehabt.
+896,"01:08:24,000","01:08:26,160",4104.0,4106.16,2.1599999999998545,"Das was bleibt ist, dass er das Wesentliche"
+897,"01:08:26,280","01:08:29,280",4106.28,4109.28,3.0,des Christentums wieder in den Vordergrund gestellt hat.
+898,"01:08:29,400","01:08:33,160",4109.4,4113.16,3.7600000000002183,"Dass man zu den Menschen am Rande gehen muss, den Obdachlosen, es war"
+899,"01:08:33,280","01:08:36,560",4113.28,4116.56,3.280000000000655,"ein am Herzensanliegen. Er wollte ein Modell sein,"
+900,"01:08:36,720","01:08:37,760",4116.72,4117.76,1.0399999999999636,für alle Menschen.
+901,"01:08:37,880","01:08:40,800",4117.88,4120.8,2.9200000000000728,"Mitleid ist eine christliche Erfindung,"
+902,"01:08:40,920","01:08:45,080",4120.92,4125.08,4.1599999999998545,die Heiden haben behinderte einfach ausgesetzt.
+903,"01:08:45,200","01:08:48,120",4125.2,4128.12,2.9200000000000728,Das konnte man bei Papst Franziskus wirklich erleben.
+904,"01:08:49,720","01:08:55,040",4129.72,4135.04,5.319999999999709,"- Auch diese Bilder,"
+905,"01:08:55,440","01:09:02,480",4135.44,4142.48,7.039999999999964,der Papst in Lampedusa in dem Flüchtlingslager.
+906,"01:09:02,560","01:09:10,960",4142.56,4150.96,8.399999999999636,Aber gerade hat auch die deutsche Kirche häufig mit ihm gefremdelt.
+907,"01:09:12,840","01:09:18,080",4152.84,4158.08,5.239999999999782,"Die große Kurieren Reform, das war im Vatikan ein ""Gag""."
+908,"01:09:18,160","01:09:24,440",4158.16,4164.44,6.279999999999745,"Mit diesen Bildern war auch verbunden, die Hoffnung,"
+909,"01:09:24,520","01:09:27,040",4164.52,4167.04,2.519999999999527,"die verkrustete Sexualmoral vor allem,"
+910,"01:09:27,120","01:09:31,520",4167.12,4171.52,4.400000000000546,die Frage nach dem Zölibat aufzubrechen.
+911,"01:09:31,640","01:09:35,000",4171.64,4175.0,3.3599999999996726,"Da gab es sehr viel beginnen, aber dann wenig Ende."
+912,"01:09:35,080","01:09:37,520",4175.08,4177.52,2.4400000000005093,ML: Das stimmt nicht.
+913,"01:09:37,600","01:09:41,440",4177.6,4181.44,3.839999999999236,Es ist ein kulturelles Missverständnis zwischen Deutschland
+914,"01:09:41,560","01:09:46,440",4181.56,4186.44,4.8799999999992,und ihm.
+915,"01:09:46,840","01:09:49,880",4186.84,4189.88,3.0399999999999636,"Er hat die Deutschen nicht richtig verstanden,"
+916,"01:09:49,960","01:09:55,800",4189.96,4195.8,5.8400000000001455,die Deutschen ihn auch nicht.
+917,"01:09:59,960","01:10:04,680",4199.96,4204.68,4.720000000000255,Es wurde ein interessanter Brief geschrieben.
+918,"01:10:04,760","01:10:12,240",4204.76,4212.24,7.479999999999563,"Man muss mehr über den Glauben reden, nicht über Struktur fragen,"
+919,"01:10:12,320","01:10:16,840",4212.32,4216.84,4.520000000000437,"die Deutschen haben ein Anliegen seit 50 Jahren,"
+920,"01:10:16,920","01:10:20,520",4216.92,4220.52,3.600000000000364,die Frauenweihe.
+921,"01:10:20,600","01:10:24,240",4220.6,4224.24,3.639999999999418,"Ich will das mit allem Respekt sagen, ich habe Freunde,"
+922,"01:10:24,360","01:10:26,560",4224.36,4226.56,2.2000000000007276,denen das wichtig ist.
+923,"01:10:26,680","01:10:30,960",4226.68,4230.96,4.279999999999745,Das ist aber ein sehr deutsches Thema.
+924,"01:10:31,040","01:10:35,840",4231.04,4235.84,4.800000000000182,"Ob Männer am Altar stehen oder Frauen, das ist ihr Wurst."
+925,"01:10:35,960","01:10:40,200",4235.96,4240.2,4.239999999999782,"Was ihr wichtig ist ist, dass nicht Männer über Frauen herrschen,"
+926,"01:10:40,320","01:10:46,320",4240.32,4246.32,6.0,die Machtfrage ist entscheidend.
+927,"01:10:52,160","01:10:56,040",4252.16,4256.04,3.880000000000109,"1000 Jahre lang haben die Kardinäle, der Senat des Papstes,"
+928,"01:10:56,120","01:10:58,280",4256.12,4258.28,2.1599999999998545,"die mächtigsten Bischöfe weltweit,"
+929,"01:10:58,400","01:11:03,000",4258.4,4263.0,4.600000000000364,"Kardinäle haben keine Macht mehr,"
+930,"01:11:03,120","01:11:08,400",4263.12,4268.4,5.279999999999745,"bei der Kurieren Reform,"
+931,"01:11:08,520","01:11:13,320",4268.52,4273.32,4.799999999999272,alle 16 könnten von Frauen regiert werden.
+932,"01:11:13,440","01:11:19,440",4273.44,4279.44,6.0,- Dann ist das wie im Koalitionsvertrag?
+933,"01:11:19,560","01:11:26,040",4279.56,4286.04,6.479999999999563,Wir werden oder wir wollen das machen?
+934,"01:11:28,920","01:11:31,880",4288.92,4291.88,2.9600000000000364,ML: Dass das überhaupt möglich ist.
+935,"01:11:31,960","01:11:35,200",4291.96,4295.2,3.2399999999997817,"Vor 20 Jahren hätte man noch gefragt,"
+936,"01:11:35,320","01:11:37,880",4295.32,4297.88,2.5600000000004,"kann meine Frau Nachfolgerin werden,"
+937,"01:11:38,000","01:11:41,320",4298.0,4301.32,3.319999999999709,das ist überhaupt nicht infrage gekommen.
+938,"01:11:41,440","01:11:43,600",4301.44,4303.6,2.160000000000764,"Was er versucht hat ist,"
+939,"01:11:43,680","01:11:47,480",4303.68,4307.48,3.7999999999992724,"dass die Weiheämter nur noch eine liturgische Form haben,"
+940,"01:11:47,560","01:11:50,600",4307.56,4310.6,3.0399999999999636,im heiligen Theater ist da vorne dann ein Mann.
+941,"01:11:50,680","01:11:53,040",4310.68,4313.04,2.3599999999996726,"Die Machtfrage, das ist entscheidend,"
+942,"01:11:53,200","01:11:56,000",4313.2,4316.0,2.800000000000182,"wenn die Frauen nicht gleichberechtigt sind,"
+943,"01:11:56,080","01:11:58,320",4316.08,4318.32,2.2399999999997817,dann hat die Kirche Schwierigkeiten
+944,"01:11:58,440","01:12:02,720",4318.44,4322.72,4.280000000000655,eine Zukunft zu haben.
+945,"01:12:02,800","01:12:07,520",4322.8,4327.52,4.720000000000255,"Das hat er versucht zu erreichen und nicht sich theologisch festzubeißen,"
+946,"01:12:07,640","01:12:13,400",4327.64,4333.4,5.759999999999309,"konnte in der frühen Kirche,"
+947,"01:12:13,520","01:12:19,680",4333.52,4339.68,6.1599999999998545,gab es da Diakoninnen oder nicht.
+948,"01:12:30,680","01:12:33,680",4350.68,4353.68,3.0,"- Ich habe ihn mal am Salatsbuffet getroffen,"
+949,"01:12:33,760","01:12:36,960",4353.76,4356.96,3.199999999999818,"er hat mit den Vortritt bei den Tomaten gelassen,"
+950,"01:12:37,040","01:12:40,560",4357.04,4360.56,3.5200000000004366,ich habe ihn als sehr warmherzigen Menschen empfunden.
+951,"01:12:40,640","01:12:45,800",4360.64,4365.8,5.1599999999998545,Aus dieser kurzen Begegnung.
+952,"01:12:45,880","01:12:49,200",4365.88,4369.2,3.319999999999709,"Jemand, der Kirche wieder nahbar gemacht hat."
+953,"01:12:49,280","01:12:52,000",4369.28,4372.0,2.7200000000002547,"Jemanden, den man vermissen wird."
+954,"01:12:52,120","01:12:54,680",4372.12,4374.68,2.5600000000004,"Die Frage ist, wie geht es jetzt weiter."
+955,"01:12:54,800","01:12:59,560",4374.8,4379.56,4.760000000000218,Thema Konklave.
+956,"01:12:59,720","01:13:04,000",4379.72,4384.0,4.279999999999745,Da geht es um knallharte Machtfragen.
+957,"01:13:04,120","01:13:06,720",4384.12,4386.72,2.600000000000364,Das wird am Ende stehen?
+958,"01:13:06,800","01:13:10,680",4386.8,4390.68,3.880000000000109,"Wird es einen europäischen Papst geben, einen italienischen,"
+959,"01:13:10,800","01:13:17,120",4390.8,4397.12,6.319999999999709,oder möglicherweise aus Südamerika?
+960,"01:13:19,440","01:13:24,120",4399.44,4404.12,4.680000000000291,"ML: Es gibt den Film Konklave, der entspricht aber nicht der Realität."
+961,"01:13:24,200","01:13:27,840",4404.2,4407.84,3.6400000000003274,In der sixtinischen Kapelle finden keine Debatten statt.
+962,"01:13:27,960","01:13:31,840",4407.96,4411.84,3.880000000000109,"Das ist ein Gottesdienst,"
+963,"01:13:31,960","01:13:35,200",4411.96,4415.2,3.2399999999997817,wo jeder Kardinal einzeln vor das jüngste Gericht
+964,"01:13:35,320","01:13:39,240",4415.32,4419.24,3.9200000000000728,"von Michelangelo geht und nicht sagt hier ist mein Wahlzettel,"
+965,"01:13:39,360","01:13:43,560",4419.36,4423.56,4.200000000000728,"sondern angesichts des allmächtigen Gottes, der mich richten wird,"
+966,"01:13:44,600","01:13:48,080",4424.6,4428.08,3.4799999999995634,"glaube ich, dass das derjenige ist, den Gott zum Papst bestimmen will."
+967,"01:13:48,200","01:13:51,240",4428.2,4431.24,3.0399999999999636,"Das ist eine kleine Formulierungsvariante,"
+968,"01:13:51,320","01:13:53,840",4431.32,4433.84,2.5200000000004366,aber das sind alles gläubige Menschen.
+969,"01:13:53,920","01:13:57,360",4433.92,4437.36,3.4399999999996,"Da geht es nicht darum, wer der Mafiaboss sein wird."
+970,"01:13:57,440","01:14:00,080",4437.44,4440.08,2.6400000000003274,"Es geht darum,"
+971,"01:14:00,200","01:14:05,760",4440.2,4445.76,5.5600000000004,in einer sakralen Aktion ist tatsächlich
+972,"01:14:05,880","01:14:09,360",4445.88,4449.36,3.4799999999995634,der Würdigste zu wählen.
+973,"01:14:09,480","01:14:11,840",4449.48,4451.84,2.360000000000582,"Vor dem Konklave, da wird debattiert,"
+974,"01:14:11,920","01:14:14,520",4451.92,4454.52,2.600000000000364,wie wird es weitergehen.
+975,"01:14:14,640","01:14:20,440",4454.64,4460.44,5.799999999999272,Da ist alles im Moment offen.
+976,"01:14:21,200","01:14:24,400",4461.2,4464.4,3.199999999999818,"Ich glaube schon, dass ein paar besprochen wird,"
+977,"01:14:24,480","01:14:29,800",4464.48,4469.8,5.3200000000006185,den Papst Franziskus angestoßen hat.
+978,"01:14:29,920","01:14:35,760",4469.92,4475.76,5.8400000000001455,Dass das wieder stabilisiert.
+979,"01:14:43,120","01:14:49,280",4483.12,4489.28,6.1599999999998545,"Jemand, der den Apparat versteht."
+980,"01:14:51,120","01:14:54,840",4491.12,4494.84,3.7200000000002547,"Sicher nicht aus Deutschland, das kann ich Ihnen sagen."
+981,"01:14:54,960","01:14:56,160",4494.96,4496.16,1.199999999999818,- Nicht aus Europa?
+982,"01:14:56,280","01:15:00,960",4496.28,4500.96,4.680000000000291,ML: Das will ich nicht sagen.
+983,"01:15:01,080","01:15:03,800",4501.08,4503.8,2.7200000000002547,Es gibt vier Kardinäle aus Ozeanien.
+984,"01:15:03,920","01:15:09,760",4503.92,4509.76,5.8400000000001455,- Haben Sie jemanden im Kopf?
+985,"01:15:11,000","01:15:13,320",4511.0,4513.32,2.319999999999709,"ML: Ich bin als Prophet ungeeignet,"
+986,"01:15:13,360","01:15:17,440",4513.36,4517.44,4.079999999999927,"ich bin 2005 angerufen worden von der ARD, falls ein Deutscher"
+987,"01:15:17,480","01:15:20,920",4517.48,4520.92,3.4400000000005093,"als Papst gewählt werden würde, ob ich zu ""hart aber fair"" komme."
+988,"01:15:21,000","01:15:24,800",4521.0,4524.8,3.800000000000182,"Ich dachte, die spinnen, am nächsten Tag war ich bei ""hart aber fair""."
+989,"01:15:24,840","01:15:27,800",4524.84,4527.8,2.9600000000000364,- Kommen Sie lieber zu uns. In diesem Sinne vielen Dank.
+990,"01:15:27,840","01:15:30,440",4527.84,4530.44,2.5999999999994543,"Jetzt die Kollegen vom ""heute journal up:date""."
+991,"01:15:30,480","01:15:33,000",4530.48,4533.0,2.5200000000004366,Wir sind am Dienstag wieder für Sie da.

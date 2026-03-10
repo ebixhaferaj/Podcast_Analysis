@@ -1,0 +1,645 @@
+﻿segment_id,start_time,end_time,start_seconds,end_seconds,duration,text
+1,"00:00:00,040","00:00:02,000",0.04,2.0,1.96,Diese Untertitel sind live produziert.
+2,"00:00:02,040","00:00:05,320",2.04,5.32,3.2800000000000002,"Willkommen zu unserer Sendung,"
+3,"00:00:05,360","00:00:09,080",5.36,9.08,3.7199999999999998,in der wir heute über die neue Kriminalitätsstatistik sprechen.
+4,"00:00:09,160","00:00:12,200",9.16,12.2,3.039999999999999,"Es sind Zahlen - und da geht der Blick zuerst zu diesem Mann,"
+5,"00:00:12,280","00:00:15,600",12.28,15.6,3.3200000000000003,"von Beruf Kriminalhauptkommissar, der im Moment"
+6,"00:00:15,640","00:00:18,560",15.64,18.56,2.919999999999998,"für die SPD im Bundestag sitzt - es sind Zahlen,"
+7,"00:00:18,600","00:00:20,440",18.6,20.44,1.8399999999999999,die das Land aufgeschreckt haben.
+8,"00:00:20,520","00:00:23,280",20.52,23.28,2.7600000000000016,"Und es sind vor allem zwei Fragen, die sich stellen"
+9,"00:00:23,320","00:00:25,840",23.32,25.84,2.5199999999999996,und über die seitdem intensiv diskutiert wird.
+10,"00:00:25,920","00:00:28,240",25.92,28.24,2.3199999999999967,Erstens: Ist Deutschland durch die Zuwanderung
+11,"00:00:28,360","00:00:30,960",28.36,30.96,2.6000000000000014,der letzten Jahre unsicherer geworden?
+12,"00:00:31,040","00:00:35,280",31.04,35.28,4.240000000000002,Und die zweite Frage: Woher kommt die erschreckend hohe Kriminalität
+13,"00:00:35,320","00:00:39,880",35.32,39.88,4.560000000000002,und Gewaltbereitschaft unter Jugendlichen?
+14,"00:00:39,960","00:00:42,280",39.96,42.28,2.3200000000000003,"Er sagt dazu: ""Die Kriminalitätsstatistik"
+15,"00:00:42,360","00:00:48,320",42.36,48.32,5.960000000000001,"ist die am meisten missbrauchte Statistik überhaupt."""
+16,"00:00:48,360","00:00:49,640",48.36,49.64,1.2800000000000011,Wie meint er das?
+17,"00:00:49,720","00:00:53,120",49.72,53.12,3.3999999999999986,"Fragen an Sebastian Fiedler, herzlich willkommen."
+18,"00:00:53,200","00:00:55,320",53.2,55.32,2.1199999999999974,Sieht diese Frau offenbar ähnlich und sagt:
+19,"00:00:55,400","00:01:02,000",55.4,62.0,6.600000000000001,"""Man kann auf der Basis dieser Statistik schlicht und ergreifend"
+20,"00:01:02,080","00:01:07,400",62.08,67.4,5.320000000000007,"nicht sagen, ob Deutschland sicherer oder unsicherer geworden ist."""
+21,"00:01:07,480","00:01:11,200",67.48,71.2,3.719999999999999,"Und sie sagt: ""Es geht nicht darum, hart durchzugreifen,"
+22,"00:01:11,240","00:01:14,120",71.24,74.12,2.8800000000000097,"sondern es geht um mehr Unterstützung für Jugendliche,"
+23,"00:01:14,200","00:01:16,640",74.2,76.64,2.4399999999999977,"die kriminell werden."""
+24,"00:01:16,720","00:01:19,840",76.72,79.84,3.1200000000000045,"Dazu muss man wissen: Sie ist Kriminologin und Soziologin,"
+25,"00:01:19,920","00:01:22,440",79.92,82.44,2.519999999999996,herzlich willkommen Nicole Bögelein.
+26,"00:01:22,520","00:01:25,160",82.52,85.16,2.6400000000000006,"Es ist dieselbe Statistik, es sind dieselben Zahlen"
+27,"00:01:25,240","00:01:28,440",85.24,88.44,3.200000000000003,und trotzdem liest sie dieser Mann vollkommen anders
+28,"00:01:28,520","00:01:32,440",88.52,92.44,3.9200000000000017,"und sagt: ""Die Zahlen sind sehr deutlich,"
+29,"00:01:32,520","00:01:35,480",92.52000000000001,95.47999999999999,2.9599999999999795,und sie haben viel mit patriarchalen Strukturen zu tun
+30,"00:01:35,560","00:01:37,760",95.56,97.75999999999999,2.1999999999999886,"und mit der Art und Weise, wie diese Leute"
+31,"00:01:37,840","00:01:41,200",97.84,101.2,3.3599999999999994,"auf den deutschen Rechtsstaat blicken."""
+32,"00:01:41,280","00:01:45,720",101.28,105.72,4.439999999999998,"Und weiter: ""Die Fähigkeit, über solche Themen ehrlich zu sprechen,"
+33,"00:01:45,800","00:01:49,560",105.8,109.56,3.760000000000005,"hat massiv abgenommen und Politiker stellen sich hin und sagen,"
+34,"00:01:49,640","00:01:54,280",109.64,114.28,4.640000000000001,"ja, wir müssen was tun, aber in Wahrheit haben sie kein Konzept."""
+35,"00:01:54,320","00:01:56,240",114.32,116.24000000000001,1.920000000000016,Herzlich willkommen Ahmad Mansour.
+36,"00:01:56,280","00:02:03,200",116.28,123.2,6.920000000000002,Ich bin sehr gespannt auf diese kurze aber sehr spannende Sendung.
+37,"00:02:03,240","00:02:07,800",123.24,127.8,4.560000000000002,"Herr Fiedler, was waren Ihre ersten Gedanken,"
+38,"00:02:07,840","00:02:12,120",127.84,132.12,4.280000000000001,als Sie diese Zahlen gelesen haben?
+39,"00:02:12,120","00:02:14,880",132.12,134.88,2.759999999999991,"SF: Ich hatte schon vorher davon gehört,"
+40,"00:02:14,880","00:02:17,200",134.88,137.2,2.319999999999993,das hat mit mehreren Dinge zu tun.
+41,"00:02:17,200","00:02:20,840",137.2,140.84,3.640000000000015,"Ich habe noch Kontakt zu den Strafverfolgungsbehörden,"
+42,"00:02:20,920","00:02:24,160",140.92000000000002,144.16,3.2399999999999807,die Länder haben auch nach und nach schon Zahlen veröffentlicht.
+43,"00:02:24,160","00:02:27,240",144.16,147.24,3.0800000000000125,Der Innenminister von NRW.
+44,"00:02:27,240","00:02:31,720",147.24,151.72,4.47999999999999,Deswegen war es keine wirkliche Überraschung.
+45,"00:02:31,720","00:02:39,520",151.72,159.52,7.800000000000011,"Ich hatte so Gedanken, die Sie gerade schon an getextet haben."
+46,"00:02:39,560","00:02:42,280",159.56,162.28,2.719999999999999,"Seit zehn, 14, 15 Jahren habe ich jedes Jahr,"
+47,"00:02:42,320","00:02:46,320",162.32,166.32,4.0,"unabhängig davon, ob die Zahlen hoch oder untergegangen sind,"
+48,"00:02:46,360","00:02:49,440",166.36,169.44,3.079999999999984,dieselben Texte in meinem Beruf aufgesagt.
+49,"00:02:49,520","00:02:56,560",169.52,176.56,7.039999999999992,"Ich habe immer gesagt, wir müssen zurückhaltend sein,"
+50,"00:02:56,600","00:03:04,120",176.6,184.12,7.52000000000001,"es ist eine komplizierte Statistik, bei der Experten genau hinschauen."
+51,"00:03:04,160","00:03:06,760",184.16,186.76,2.5999999999999943,Es ist ein Arbeitsnachweis der Polizei.
+52,"00:03:06,840","00:03:13,800",186.84,193.8,6.960000000000008,"Die Zahlen, die dort drinstehen, sagen aus ..."
+53,"00:03:14,400","00:03:20,800",194.4,200.8,6.400000000000006,Es kommt ein virtueller Strich in die Statistik.
+54,"00:03:20,840","00:03:24,880",200.84,204.88,4.039999999999992,Wenn die Polizei letztes Jahr einen Fall zu Ende arbeitet hat
+55,"00:03:24,920","00:03:27,720",204.92000000000002,207.72,2.799999999999983,einige Delikte stehen dort auch nicht drin.
+56,"00:03:27,720","00:03:30,760",207.72,210.76,3.039999999999992,D. h. da stehen Sie schon immer nicht drin.
+57,"00:03:30,800","00:03:34,880",210.8,214.88,4.079999999999984,Hat diese Statistik eine Aussagekraft oder hat sie sie nicht?
+58,"00:03:34,880","00:03:40,400",214.88,220.4,5.52000000000001,SF: Das kommt drauf an.
+59,"00:03:40,400","00:03:44,960",220.4,224.96,4.560000000000002,Dann sind Sie an dem Punkt zumindest vergleichbar oder nicht?
+60,"00:03:44,960","00:03:48,080",224.96,228.07999999999998,3.119999999999976,"Ein einfaches Beispiel, der Wohnungseinbruch."
+61,"00:03:48,160","00:03:52,960",228.16,232.96,4.800000000000011,"Die Zahlen sind ziemlich aussagekräftig,"
+62,"00:03:52,960","00:03:57,240",232.96,237.24,4.280000000000001,"wenn bei Ihnen eingebrochen werden würde, gehen Sie zur Polizei,"
+63,"00:03:57,320","00:04:00,760",237.32,240.76,3.4399999999999977,da sie den Versicherungsschaden ersetzt haben wollen.
+64,"00:04:00,800","00:04:07,960",240.8,247.96,7.159999999999997,"Man weiß genau, wie viele Einbrüche stattgefunden haben."
+65,"00:04:07,960","00:04:17,720",247.96,257.72,9.76000000000002,Und die hat deutlich zugenommen die Zahl der Wohnungseinbrüche.
+66,"00:04:17,720","00:04:22,440",257.72,262.44,4.71999999999997,Das hat etwas damit zu tun mit der wieder aufgenommenen Reisetätigkeit
+67,"00:04:22,480","00:04:25,160",262.48,265.16,2.680000000000007,"insbesondere von osteuropäischen Banden,"
+68,"00:04:25,200","00:04:27,760",265.2,267.76,2.5600000000000023,die wieder ins Land rein können.
+69,"00:04:27,760","00:04:32,280",267.76,272.28,4.519999999999982,"SF: Richtig. Es gibt andere sein, da wissen wir überwiegend nicht,"
+70,"00:04:32,280","00:04:35,160",272.28,275.15999999999997,2.8799999999999955,bei mehr Drogen oder Wirtschaftskriminalität
+71,"00:04:35,200","00:04:37,160",275.2,277.15999999999997,1.9599999999999795,"da spricht mehr dafür,"
+72,"00:04:37,200","00:04:44,360",277.2,284.36,7.160000000000025,dass mehr ermittelt und kontrolliert worden ist.
+73,"00:04:44,560","00:04:49,080",284.56,289.08,4.519999999999982,"Bei der Gewaltkriminalität, darüber wollen wir heute auch sprechen,"
+74,"00:04:49,160","00:04:56,400",289.15999999999997,296.4,7.240000000000009,hängt es von vielen unterschiedlichen Faktoren ab.
+75,"00:04:56,640","00:05:00,000",296.64,300.0,3.3600000000000136,Gewaltkriminalität der höchste Stand seit 15 Jahren
+76,"00:05:00,080","00:05:02,000",300.08,302.0,1.920000000000016,laut dieser Statistik.
+77,"00:05:02,040","00:05:04,000",302.04,304.0,1.9599999999999795,"Noch mal anders gefragt,"
+78,"00:05:04,040","00:05:06,880",304.04,306.88,2.839999999999975,welche Zahl besorgt sie am meisten in dieser Statistik?
+79,"00:05:06,880","00:05:10,240",306.88,310.24,3.3600000000000136,Die Gewaltkriminalität besorgt mich auf jeden Fall.
+80,"00:05:10,320","00:05:12,600",310.32,312.6,2.2800000000000296,Aus unterschiedlichen Gründen heraus.
+81,"00:05:12,600","00:05:16,320",312.6,316.32,3.7199999999999704,Wie ist Gewaltkriminalität definiert?
+82,"00:05:16,320","00:05:19,520",316.32,319.52,3.1999999999999886,"Ich nenne ein paar Beispiele,"
+83,"00:05:19,520","00:05:22,680",319.52,322.68,3.160000000000025,weil es ein breites Spektrum an Phänomenen ist.
+84,"00:05:22,720","00:05:27,120",322.72,327.12,4.399999999999977,Das kann häusliche Gewalt sein und ganz viele andere Themenfelder.
+85,"00:05:27,160","00:05:29,320",327.16,329.32,2.159999999999968,Die geben große Grund zur Sorge.
+86,"00:05:29,360","00:05:32,400",329.36,332.4,3.0399999999999636,Wir haben bei Jugendlichen eine große Zunahme.
+87,"00:05:32,440","00:05:35,960",332.44,335.96,3.519999999999982,Die Polizei hat auch mehr zu bearbeiten.
+88,"00:05:36,000","00:05:39,040",336.0,339.04,3.0400000000000205,"Darüber müssen wir nicht nur drüber sprechen,"
+89,"00:05:39,080","00:05:43,800",339.08,343.8,4.720000000000027,"sondern auch mehr tun müssen, um das zu verhindern."
+90,"00:05:43,800","00:05:48,200",343.8,348.2,4.399999999999977,"Ich vermute, dass es Ihnen ähnlich ging,"
+91,"00:05:48,200","00:05:52,800",348.2,352.8,4.600000000000023,"ganz offene Frage in die Runde, als sie diese Statistik gelesen haben,"
+92,"00:05:52,840","00:05:59,880",352.84000000000003,359.88,7.039999999999964,"je nachdem, wo man über diese Statistik liest,"
+93,"00:06:00,440","00:06:06,560",360.44,366.56,6.1200000000000045,"denkt man, morgen geht das Land"
+94,"00:06:08,040","00:06:10,960",368.04,370.96,2.919999999999959,unter oder eigentlich ist nichts passiert.
+95,"00:06:10,960","00:06:15,960",370.96,375.96,5.0,SF: Es ist in Teilen unsicherer geworden.
+96,"00:06:15,960","00:06:19,360",375.96,379.36,3.400000000000034,"Aber ich kann diese Frage nicht seriös beantworten,"
+97,"00:06:19,440","00:06:23,520",379.44,383.52,4.079999999999984,wenn wenn ich über die Phänomene in der Kriminalität sprechen.
+98,"00:06:23,560","00:06:30,840",383.56,390.84,7.279999999999973,Sichtlich Drogen ist das Land unsicherer geworden.
+99,"00:06:37,360","00:06:40,320",397.36,400.32,2.9599999999999795,In Hamburg ist das Thema Crack ganz groß.
+100,"00:06:40,400","00:06:43,880",400.4,403.88,3.480000000000018,"Bei der Wohnung Kriminalität haben wir große Sorgen,"
+101,"00:06:43,960","00:06:49,880",403.96,409.88,5.920000000000016,da müssen wir mehr tun.
+102,"00:06:55,560","00:06:59,360",415.56,419.36,3.8000000000000114,"Wir sollten über Einflussnahme von ausländischen Staaten,"
+103,"00:06:59,400","00:07:05,400",419.4,425.4,6.0,"insbesondere Russland sprechen,"
+104,"00:07:09,720","00:07:14,200",429.72,434.2,4.479999999999961,"wir sollten über sämtlichen Terror sprechen, über Parteien."
+105,"00:07:14,240","00:07:16,640",434.24,436.64,2.3999999999999773,Das gehört aber mit zum Thema.
+106,"00:07:16,680","00:07:23,160",436.68,443.16,6.480000000000018,Das relativiert hier natürlich nichts.
+107,"00:07:24,080","00:07:27,000",444.08,447.0,2.920000000000016,Generell kann man froh sein in Deutschland zu leben.
+108,"00:07:27,000","00:07:32,800",447.0,452.8,5.800000000000011,Guter Punkt.
+109,"00:07:32,800","00:07:37,200",452.8,457.2,4.399999999999977,AM: Psychologisch gesehen ist noch wichtiger als ob das Landgericht
+110,"00:07:37,280","00:07:41,200",457.28,461.2,3.920000000000016,herüber geworden ist oder nicht ist diese fiktive Sicherheit
+111,"00:07:41,240","00:07:43,200",461.24,463.2,1.9599999999999795,der Bürgerinnen und Bürger.
+112,"00:07:43,280","00:07:47,600",463.28,467.6,4.32000000000005,"Das hängt von den Erfahrungen ab, die die Menschen auf der Straße"
+113,"00:07:47,640","00:07:50,440",467.64,470.44,2.8000000000000114,"machen, oder in der U-Bahn oder S-Bahn."
+114,"00:07:50,480","00:07:54,720",470.48,474.72,4.240000000000009,"Da glaube ich, wenn wir die Menschen fragen, dann ist Deutschland"
+115,"00:07:54,760","00:07:57,320",474.76,477.32,2.5600000000000023,unsicherer geworden.
+116,"00:07:57,400","00:08:00,480",477.4,480.48,3.080000000000041,"Deutschland ist für Juden unsicherer geworden,"
+117,"00:08:00,520","00:08:02,720",480.52,482.72,2.2000000000000455,das hat mit etwas anderem zu tun.
+118,"00:08:02,800","00:08:05,920",482.8,485.92,3.1200000000000045,"Deutschland ist für Frauen unsicherer geworden,"
+119,"00:08:06,000","00:08:07,920",486.0,487.92,1.920000000000016,vor allem in großen Städten.
+120,"00:08:08,000","00:08:11,400",488.0,491.4,3.3999999999999773,"Und das Gesamtbild von Messerattacken, von Angriffen"
+121,"00:08:11,440","00:08:14,000",491.44,494.0,2.5600000000000023,"auf Polizeibeamte, auf Rettungskräfte,"
+122,"00:08:14,040","00:08:18,400",494.04,498.4,4.359999999999957,"dass solche Phänomene eigentlich in der Wahrnehmung von Menschen,"
+123,"00:08:18,480","00:08:21,920",498.48,501.92,3.4399999999999977,"unabhängig von der Statistik, eigentlich unsicherer."
+124,"00:08:22,000","00:08:26,400",502.0,506.4,4.399999999999977,"Da muss man arbeiten, wie macht man das Land auch für die Menschen"
+125,"00:08:26,440","00:08:29,040",506.44,509.04,2.6000000000000227,"sicherer in ihren Gefühlen, in ihrer Wahrnehmung."
+126,"00:08:29,040","00:08:31,560",509.04,511.56,2.519999999999982,SF: Ich warne davor das alles zu verbinden.
+127,"00:08:31,560","00:08:33,480",511.56,513.48,1.920000000000016,"Sie würden sagen,"
+128,"00:08:33,560","00:08:37,280",513.56,517.28,3.7200000000000273,das subjektive Sicherheitsgefühl muss man sauber trennen?
+129,"00:08:37,280","00:08:40,000",517.28,520.0,2.7200000000000273,Da gibt es einen Extraforschungsbereich.
+130,"00:08:40,040","00:08:42,680",520.04,522.68,2.6399999999999864,"Ich habe Strategielehrgänge dazugehört,"
+131,"00:08:42,680","00:08:47,520",522.68,527.52,4.840000000000032,wir haben das Thema bearbeitet
+132,"00:08:47,560","00:08:51,920",527.56,531.92,4.360000000000014,"und auf eine Tafel geschrieben, was alles zu diesem Thema beiträgt."
+133,"00:08:51,960","00:08:54,160",531.96,534.16,2.199999999999932,Diese Tafel war immer voll.
+134,"00:08:54,240","00:08:57,400",534.24,537.4,3.159999999999968,"Die mediale Berichterstattung, Social Media -"
+135,"00:08:57,480","00:09:03,480",537.48,543.48,6.0,ganz viele Dinge wirken darauf.
+136,"00:09:04,240","00:09:10,880",544.24,550.88,6.639999999999986,Die Statistik heute gibt es Anlass dazu
+137,"00:09:11,680","00:09:14,480",551.68,554.48,2.800000000000068,über die Statistik zu reden der Kriminalität.
+138,"00:09:14,480","00:09:17,200",554.48,557.2,2.7200000000000273,AM: Aber die ist auch besorgniserregend.
+139,"00:09:17,240","00:09:20,120",557.24,560.12,2.8799999999999955,"Wenn wir halb so viel Energie investieren,"
+140,"00:09:20,120","00:09:24,280",560.12,564.28,4.159999999999968,"die Probleme nicht zu verdrängen, sondern darüber zu sprechen,"
+141,"00:09:24,320","00:09:26,360",564.32,566.36,2.0399999999999636,dann wären wir heute woanders.
+142,"00:09:26,400","00:09:28,560",566.4,568.56,2.159999999999968,Das tun wir aber leider nicht.
+143,"00:09:28,560","00:09:33,960",568.56,573.96,5.400000000000091,SF: Ich verdränge nichts. Wer verdrängt etwas?
+144,"00:09:33,960","00:09:38,040",573.96,578.04,4.079999999999927,"Wenn Sie die Zusammenhänge nicht erwähnen, wenn sie das,"
+145,"00:09:38,040","00:09:42,440",578.04,582.44,4.400000000000091,"was in der Statistik sehr deutlich ist, Gewalttäter werden jünger,"
+146,"00:09:42,480","00:09:45,360",582.48,585.36,2.8799999999999955,"es gibt eine Zunahme von Gewaltkriminalität,"
+147,"00:09:45,440","00:09:50,240",585.44,590.24,4.7999999999999545,"wenn sie nicht über die Ursachen sprechen, und zwar nicht,"
+148,"00:09:50,320","00:09:54,400",590.32,594.4,4.079999999999927,"wie man die Statistik interpretiert, sondern über diese Zahlen,"
+149,"00:09:54,440","00:09:57,960",594.44,597.96,3.519999999999982,die erschreckend sind.
+150,"00:09:58,000","00:10:04,680",598.0,604.68,6.67999999999995,"Sie zeigen ein Bild, das natürlich super komplex ist."
+151,"00:10:04,760","00:10:08,840",604.76,608.84,4.080000000000041,"Das hat mit Corona-Maßnahmen, Empathieabbau zu tun,"
+152,"00:10:08,920","00:10:13,040",608.92,613.04,4.1200000000000045,"das hat aber auch von bestimmten Phänomenen, die mit Migration"
+153,"00:10:13,120","00:10:15,120",613.12,615.12,2.0,und Einwanderung zu tun haben.
+154,"00:10:15,160","00:10:17,120",615.16,617.12,1.9600000000000364,Darüber müssen wir reden.
+155,"00:10:17,160","00:10:21,760",617.16,621.76,4.600000000000023,"Sachlich und differenziert, wir müssen darüber reden."
+156,"00:10:21,760","00:10:24,520",621.76,624.52,2.759999999999991,"Frau Bögelein, ich habe es vorhin gesagt,"
+157,"00:10:24,600","00:10:27,560",624.6,627.56,2.9599999999999227,Sie sind in Soziologen und Kriminologen.
+158,"00:10:27,560","00:10:30,160",627.56,630.16,2.6000000000000227,"Wie interpretieren Sie die Statistik,"
+159,"00:10:30,200","00:10:33,480",630.2,633.48,3.2799999999999727,ist Deutschland sicherer oder unsicherer geworden?
+160,"00:10:33,520","00:10:37,240",633.52,637.24,3.7200000000000273,Welche Zahl besorgt Sie am meisten?
+161,"00:10:37,240","00:10:41,280",637.24,641.28,4.039999999999964,"NB: Für mich ist wichtig zu sagen,"
+162,"00:10:41,280","00:10:46,200",641.28,646.2,4.920000000000073,dass die Statistik nicht funktioniert
+163,"00:10:46,240","00:10:49,760",646.24,649.76,3.519999999999982,wie eine naturwissenschaftliche Zahl.
+164,"00:10:49,840","00:10:52,720",649.84,652.72,2.8799999999999955,"Es ist nicht so, dass die Kriminalstatistik"
+165,"00:10:52,800","00:10:56,520",652.8,656.52,3.7200000000000273,etwas wie ein Fieberthermometer ist.
+166,"00:10:56,600","00:11:00,720",656.6,660.72,4.1200000000000045,Und dann lesen wir in einem Jahr 38° und im nächsten Jahr 39°.
+167,"00:11:00,800","00:11:04,920",660.8,664.92,4.1200000000000045,"Sondern die Statistik ist ein Zahlenkonvolut, das gemacht ist."
+168,"00:11:05,000","00:11:07,880",665.0,667.88,2.8799999999999955,Das ist gemacht aus Kontrollen der Polizei.
+169,"00:11:07,920","00:11:14,200",667.92,674.2,6.280000000000086,Die Polizei führt Kontrollen durch.
+170,"00:11:18,520","00:11:21,760",678.52,681.76,3.240000000000009,"Wenn die Polizei ihren Ressourceneinsatz ändert,"
+171,"00:11:21,800","00:11:25,800",681.8,685.8,4.0,"in anderen Stadtteilen kontrolliert, in anderen Tätergruppen,"
+172,"00:11:25,880","00:11:29,720",685.88,689.72,3.840000000000032,dann ändert sich das.
+173,"00:11:29,800","00:11:33,560",689.8,693.56,3.759999999999991,"Und der Großteil der Delikte sind dort, weil Bürgerinnen"
+174,"00:11:33,600","00:11:39,520",693.6,699.52,5.919999999999959,sie angezeigt haben.
+175,"00:11:40,120","00:11:44,240",700.12,704.24,4.1200000000000045,"Und diese Entscheidung, zeige ich etwas an oder nicht,"
+176,"00:11:44,320","00:11:51,920",704.32,711.92,7.599999999999909,die geschehen in einem gesellschaftlichen Zusammenhang.
+177,"00:11:55,640","00:11:59,200",715.64,719.2,3.560000000000059,"Wir sind aktuell in einem gesellschaftlichen Diskurs,"
+178,"00:11:59,280","00:12:04,200",719.28,724.2,4.920000000000073,"der sehr Rechtsaußen stattfindet, der problematisiert wird,"
+179,"00:12:04,280","00:12:10,480",724.28,730.48,6.2000000000000455,"wo wir Sätze von Horst Seehofer in der Welt haben der gesagt hat,"
+180,"00:12:10,560","00:12:13,520",730.56,733.52,2.9600000000000364,Migration ist die Mutter aller Probleme.
+181,"00:12:13,560","00:12:19,640",733.56,739.64,6.080000000000041,Und dann wird diese Zahl herausgegriffen.
+182,"00:12:19,680","00:12:23,720",739.68,743.72,4.040000000000077,"Aber wenn dieser Diskurs im Raum ist, dann glauben wir alle,"
+183,"00:12:23,760","00:12:27,920",743.76,747.92,4.159999999999968,Ausländer*innen sind möglicherweise gefährlich und krimineller.
+184,"00:12:27,960","00:12:32,160",747.96,752.16,4.199999999999932,"Wenn ich in einem Zusammenhang mit jemandem bin, der anders ist,"
+185,"00:12:32,240","00:12:36,360",752.24,756.36,4.1200000000000045,"den ich als Ausländer schließe, dann ist die Wahrscheinlichkeit,"
+186,"00:12:36,440","00:12:40,240",756.44,760.24,3.7999999999999545,dass ich der Anzeige doppelt so hoch als jemand den ich es toll schließe.
+187,"00:12:40,240","00:12:44,440",760.24,764.44,4.2000000000000455,"Das müssen Sie bitte erklären, das verstehe ich nicht."
+188,"00:12:44,440","00:12:48,760",764.44,768.76,4.319999999999936,Wenn Sie eine Straftat beobachten oder Teil eines strafrechtlich
+189,"00:12:48,760","00:12:56,480",768.76,776.48,7.720000000000027,"relevanten Ding sind, vielleicht eine Auseinandersetzung"
+190,"00:13:02,840","00:13:06,880",782.84,786.88,4.039999999999964,"ist die Wahrscheinlichkeit sehr viel höher, wenn ihr gegenüber"
+191,"00:13:06,960","00:13:10,320",786.96,790.32,3.3600000000000136,als nicht-deutsch oder als fremd wahrgenommen wird
+192,"00:13:10,360","00:13:12,680",790.36,792.68,2.3199999999999363,als wenn die Person als Deutsch wahrgenommen wird.
+193,"00:13:12,680","00:13:14,680",792.68,794.68,2.0,"Nein, warum? Ernsthaft?"
+194,"00:13:14,760","00:13:17,880",794.76,797.88,3.1200000000000045,"Ich teilte die Menschen nicht ein in die Frage,"
+195,"00:13:17,880","00:13:20,440",797.88,800.44,2.560000000000059,wie sie aussehen und woher sie kommen.
+196,"00:13:20,480","00:13:22,920",800.48,802.92,2.439999999999941,"Für mich ist die entscheidende Frage,"
+197,"00:13:23,000","00:13:25,400",803.0,805.4,2.3999999999999773,ist die Person kriminell oder nicht.
+198,"00:13:25,400","00:13:29,200",805.4,809.2,3.800000000000068,"Das ist zunächst mal das, was wir annehmen,"
+199,"00:13:29,240","00:13:32,360",809.24,812.36,3.1200000000000045,"aber das ist der sozialpsychologische Effekt,"
+200,"00:13:32,360","00:13:34,680",812.36,814.68,2.3199999999999363,der passiert.
+201,"00:13:34,680","00:13:38,440",814.68,818.44,3.7600000000001046,"Wenn mir jemand mein Portmonee oder mein Telefon klaut,"
+202,"00:13:38,440","00:13:42,640",818.44,822.64,4.199999999999932,"ist es mir vollkommen egal, wer das ist. Ich werde ihn anzeigen."
+203,"00:13:42,720","00:13:45,760",822.72,825.76,3.0399999999999636,Ich bitte Sie.
+204,"00:13:45,760","00:13:50,080",825.76,830.08,4.32000000000005,"Ich glaube Ihnen, dass Sie für sich die Hand ins Feuer legen,"
+205,"00:13:50,080","00:13:54,560",830.08,834.56,4.4799999999999045,Studien sagen etwas anderes.
+206,"00:13:54,600","00:13:58,880",834.6,838.88,4.279999999999973,"AM: Glauben Sie nicht ernsthaft, dass beim Gewaltdelikte Menschen"
+207,"00:13:58,960","00:14:03,480",838.96,843.48,4.519999999999982,"entscheiden, ob sie das Anzeigen die nach Hautfarbe von den Menschen?"
+208,"00:14:03,560","00:14:07,560",843.56,847.56,4.0,"Es mag sein vielleicht bei Beleidigung, dass sich Menschen"
+209,"00:14:07,640","00:14:15,240",847.64,855.24,7.600000000000023,"anders wahrnehmen und interpretiere, aber lassen Sie uns"
+210,"00:14:15,640","00:14:19,520",855.64,859.52,3.8799999999999955,"an den Sexualdelikten und auf Gewaltdelikte konzentrieren,"
+211,"00:14:19,600","00:14:23,200",859.6,863.2,3.6000000000000227,"glauben Sie nicht ernst, dass ich Blute und entscheide"
+212,"00:14:23,320","00:14:27,520",863.32,867.52,4.199999999999932,dass das zur Anzeige bringen nach Hautfarbe der Täter.
+213,"00:14:27,600","00:14:30,920",867.6,870.92,3.3199999999999363,NB: Gerade bei sexualisierte Gewalt Gewalt ist die
+214,"00:14:31,000","00:14:37,720",871.0,877.72,6.720000000000027,Anzeigewahrscheinlichkeit sehr schwierig.
+215,"00:14:37,800","00:14:41,920",877.8,881.92,4.1200000000000045,"Sexualisierte Gewalt passiert in der Regel im sozialen Nahraum,"
+216,"00:14:42,000","00:14:44,840",882.0,884.84,2.840000000000032,"in der Regel in einem Bindungszusammenhang,"
+217,"00:14:44,920","00:14:48,320",884.92,888.32,3.400000000000091,einen Verwandtschaftsverhältnisses zum Beispiel.
+218,"00:14:48,400","00:14:52,680",888.4,892.68,4.279999999999973,Da laufen noch mal andere Mechanismen ab.
+219,"00:14:52,760","00:14:56,800",892.76,896.8,4.039999999999964,AM: Die laufen für alle anders ab.
+220,"00:14:56,920","00:15:01,480",896.92,901.48,4.560000000000059,"Das ist genau das was ich meinte, ich respektiere und finde großartig,"
+221,"00:15:01,560","00:15:06,920",901.56,906.92,5.360000000000014,"wie sie das interpretieren, das ist absolut in Ordnung,"
+222,"00:15:07,000","00:15:12,680",907.0,912.68,5.67999999999995,"aber ich finde das ist diese Verdrängung,"
+223,"00:15:12,760","00:15:18,280",912.76,918.28,5.519999999999982,nicht über die Ursachen zu sprechen. Wir können noch ein Jahr drüber
+224,"00:15:18,360","00:15:22,680",918.36,922.68,4.319999999999936,"sprechen die Zahlen so zu beugen, dass es in unser Weltbild passt,"
+225,"00:15:22,760","00:15:26,360",922.76,926.36,3.6000000000000227,"aber über die Phänomene zu sprechen ist nicht radikal,"
+226,"00:15:26,440","00:15:28,360",926.44,928.36,1.919999999999959,ich rede von Täter.
+227,"00:15:28,440","00:15:35,200",928.44,935.2,6.759999999999991,Wenn aber in der Theatergruppe bestimmte Menschen bestimmten
+228,"00:15:35,280","00:15:37,920",935.28,937.92,2.6399999999999864,"Sozialisation häufiger aufgetreten sind,"
+229,"00:15:38,000","00:15:40,240",938.0,940.24,2.240000000000009,müssen über die Ursachen sprechen.
+230,"00:15:40,320","00:15:44,160",940.32,944.16,3.839999999999918,Das tun wir nicht in dem wir nach irgendwelchen Ausreden suchen.
+231,"00:15:44,160","00:15:46,800",944.16,946.8,2.6399999999999864,SF: Die Erzählung stimmt einfach nicht.
+232,"00:15:46,880","00:15:57,880",946.88,957.88,11.0,Meine Erinnerung mag mich täuschen.
+233,"00:15:57,880","00:16:03,920",957.88,963.92,6.039999999999964,Ich war in Nordrhein-Westfalen in der Regierung zu Kriminilät tätig.
+234,"00:16:04,000","00:16:07,200",964.0,967.2,3.2000000000000455,"Bei den Debatten über die Kölner Silvesternacht,"
+235,"00:16:07,280","00:16:13,800",967.28,973.8,6.519999999999982,"dass wir darüber keine Debatten haben,"
+236,"00:16:16,160","00:16:18,760",976.16,978.76,2.6000000000000227,da lebe ich in einer anderen Anderwelt.
+237,"00:16:18,840","00:16:22,080",978.84,982.08,3.240000000000009,"Der Streit hier ist ein wissenschaftlicher Streit,"
+238,"00:16:22,160","00:16:24,600",982.16,984.6,2.4400000000000546,"der entscheidende Punkt ist der,"
+239,"00:16:24,640","00:16:28,320",984.64,988.32,3.6800000000000637,"was ist jetzt eigentlich zu tun, was ist schon passiert."
+240,"00:16:28,400","00:16:32,480",988.4,992.48,4.080000000000041,Nicht über die Durchschnittswerte des Statistiken zu sprechen.
+241,"00:16:32,520","00:16:38,480",992.52,998.48,5.960000000000036,Auch über die Einzelfälle.
+242,"00:16:38,480","00:16:42,320",998.48,1002.32,3.840000000000032,AM: Ich hab die Debatte auch mit mitgemacht
+243,"00:16:42,320","00:16:46,400",1002.32,1006.4,4.079999999999927,"und ich weiß welche Vorwürfe kommen wenn man sich klar äußert,"
+244,"00:16:46,520","00:16:48,480",1006.52,1008.48,1.9600000000000364,wenn man an der Silvesternacht
+245,"00:16:48,560","00:16:52,680",1008.56,1012.68,4.1200000000000045,von der Sozialisation dieser Menschen gesprochen hat.
+246,"00:16:52,760","00:16:56,680",1012.76,1016.68,3.919999999999959,"So entspannt war die Debatte nicht, ich hab sie mitgemacht,"
+247,"00:16:56,760","00:17:00,680",1016.76,1020.68,3.919999999999959,ich kann Ihnen die tausenden E-Mails und Artikel von Gehilfe
+248,"00:17:00,760","00:17:03,960",1020.76,1023.96,3.2000000000000455,"von Rechtsradikalen und dessen Rechte narrative,"
+249,"00:17:04,040","00:17:08,360",1024.04,1028.36,4.319999999999936,die Debatte findet statt.
+250,"00:17:08,440","00:17:11,840",1028.44,1031.84,3.3999999999998636,Aber unter welchen Umständen und wie entspannt gehen
+251,"00:17:11,920","00:17:15,840",1031.92,1035.84,3.9199999999998454,wir mit den Zahlen um und Europa bereit sind es in der Mitte
+252,"00:17:15,920","00:17:19,040",1035.92,1039.04,3.119999999999891,"der Gesellschaft zu führen, läuft differenziert"
+253,"00:17:19,120","00:17:22,960",1039.12,1042.96,3.8400000000001455,und sachlich oder ob für jeden der abweichende Meinung hat
+254,"00:17:23,040","00:17:29,800",1043.04,1049.8,6.759999999999991,ganz schnell als rechtsradikal betitelten.
+255,"00:17:31,240","00:17:37,200",1051.24,1057.2,5.960000000000036,"NB: Sie hatten doch gefragt, welche Zahl mich beunruhigt."
+256,"00:17:37,280","00:17:42,960",1057.28,1062.96,5.680000000000064,"Das ist die Zahl dich gelesen habe,"
+257,"00:17:43,040","00:17:46,440",1063.04,1066.44,3.400000000000091,"die ich nicht im Diskurs wiederfinde, die Opferzahl."
+258,"00:17:46,520","00:17:49,040",1066.52,1069.04,2.519999999999982,"Der Anteil der nicht-deutschen Opfer,"
+259,"00:17:49,120","00:17:52,960",1069.12,1072.96,3.8400000000001455,die in der Statistik aufgeführt werden sind deutlich höher
+260,"00:17:53,040","00:17:55,800",1073.04,1075.8,2.759999999999991,als die tatverdächtige.
+261,"00:17:55,880","00:17:59,520",1075.88,1079.52,3.6399999999998727,Ein Viertel der registrierten Opfer sind nicht Deutsch.
+262,"00:17:59,600","00:18:03,320",1079.6,1083.32,3.7200000000000273,"Das ist ein Phänomen, dass wir überhaupt nicht sprechen."
+263,"00:18:03,400","00:18:07,000",1083.4,1087.0,3.599999999999909,"Jetzt prägen auch einen Diskurs, in dem es darum geht,"
+264,"00:18:07,080","00:18:10,280",1087.08,1090.28,3.2000000000000455,Migration verknüpfen wir mit Gewalt.
+265,"00:18:10,280","00:18:13,560",1090.28,1093.56,3.2799999999999727,"Wir verknüpfen das nicht, das tut die Statistik."
+266,"00:18:13,560","00:18:15,520",1093.56,1095.52,1.9600000000000364,"Die Statistik sagt,"
+267,"00:18:15,600","00:18:18,040",1095.6,1098.04,2.4400000000000546,fast die Hälfte aller Tatverdächtigen
+268,"00:18:18,120","00:18:20,040",1098.12,1100.04,1.9200000000000728,hat keinen deutschen Pass.
+269,"00:18:20,120","00:18:24,360",1100.12,1104.36,4.240000000000009,"Entschuldigung, dass es nicht in meiner Erfindung."
+270,"00:18:24,400","00:18:26,760",1104.4,1106.76,2.3599999999999,"Bereinigt sind als 34 %, also Taten,"
+271,"00:18:26,800","00:18:33,040",1106.8,1113.04,6.240000000000009,die deutsche nicht begehen können.
+272,"00:18:38,240","00:18:42,440",1118.24,1122.44,4.2000000000000455,AM: Das ist doppelt so viel als ihr Anteil in der Bevölkerung.
+273,"00:18:42,520","00:18:46,160",1122.52,1126.16,3.6400000000001,NB: Aber der Anteil der Opfer ist eben auch viel höher.
+274,"00:18:46,240","00:18:49,160",1126.24,1129.16,2.9200000000000728,AM: Warum nehmen Sie das eine Warness andere
+275,"00:18:49,240","00:18:51,320",1129.24,1131.32,2.0799999999999272,wollen sie nicht wahrnehmen?
+276,"00:18:51,320","00:18:54,160",1131.32,1134.16,2.8400000000001455,Stimmt das?
+277,"00:18:54,240","00:18:58,000",1134.24,1138.0,3.759999999999991,"34 % aller Tatverdächtigen haben keinen deutschen Pass,"
+278,"00:18:58,000","00:19:03,920",1138.0,1143.92,5.920000000000073,was sagt Ihnen das?
+279,"00:19:04,680","00:19:08,720",1144.68,1148.72,4.039999999999964,"NB: Das sagt mir, dass es diese Verbindung zu geben scheint."
+280,"00:19:08,800","00:19:13,200",1148.8,1153.2,4.400000000000091,Aber als Wissenschaftlerin begnüge ich mich nicht mit dem Anschein.
+281,"00:19:13,280","00:19:17,640",1153.28,1157.64,4.360000000000127,"In den Studien sehen wir, wenn wir auf weitere Dinge kontrollieren,"
+282,"00:19:17,720","00:19:21,720",1157.72,1161.72,4.0,"dann lässt es sich relativ leicht herunter brechen Menschen,"
+283,"00:19:21,800","00:19:25,600",1161.8,1165.6,3.7999999999999545,die keinen deutschen Pass haben führen ganz anderen Leben
+284,"00:19:25,680","00:19:27,920",1165.68,1167.92,2.240000000000009,als Menschen mit deutschen Pässen.
+285,"00:19:28,000","00:19:34,520",1168.0,1174.52,6.519999999999982,"Die sind häufiger von Armut betroffen,"
+286,"00:19:39,400","00:19:43,600",1179.4,1183.6,4.199999999999818,"häufiger davon dass sie in marginilasierten Stadtteilen leben,"
+287,"00:19:43,680","00:19:47,200",1183.68,1187.2,3.519999999999982,"dass sie keine Aufstiegsausnahmen, zum Teil von Gewalt"
+288,"00:19:47,280","00:19:49,200",1187.28,1189.2,1.9200000000000728,in der Beziehung.
+289,"00:19:49,280","00:19:55,840",1189.28,1195.84,6.559999999999945,"Wenn man darauf kontrolliert, gibt es keinen Unterschied"
+290,"00:19:55,920","00:19:59,560",1195.92,1199.56,3.6399999999998727,"mehr zwischen deutschen und nicht- deutschen Deutschland,"
+291,"00:19:59,640","00:20:05,560",1199.64,1205.56,5.919999999999845,dass sie einen Tat beginnen.
+292,"00:20:06,760","00:20:10,320",1206.76,1210.32,3.5599999999999454,"Das bedeutet, wenn man diese Zahlen so interpretiert"
+293,"00:20:10,360","00:20:12,880",1210.36,1212.88,2.520000000000209,wie sie dastehen könnte man das meinen.
+294,"00:20:12,960","00:20:16,120",1212.96,1216.12,3.1599999999998545,Ein großer Teil ist männlich und zwischen 14 und 25.
+295,"00:20:16,120","00:20:28,080",1216.12,1228.08,11.960000000000036,Was sagt Ihnen das?
+296,"00:20:28,080","00:20:31,280",1228.08,1231.28,3.2000000000000455,Das ist einer der etablierten besten Ergebnisse
+297,"00:20:31,360","00:20:34,640",1231.36,1234.64,3.2800000000002,in der Kriminalitätsforschung.
+298,"00:20:34,720","00:20:38,680",1234.72,1238.68,3.9600000000000364,"Und es ist nicht so verwunderlich, dass wir das sehen."
+299,"00:20:38,680","00:20:40,680",1238.68,1240.68,2.0,"Verwunderlich nicht,"
+300,"00:20:40,760","00:20:44,480",1240.76,1244.48,3.7200000000000273,"wir müssen aber eine ernsthafte Debatte darüber führen,"
+301,"00:20:44,480","00:20:47,280",1244.48,1247.28,2.7999999999999545,wie es in den letzten Jahren gelaufen ist.
+302,"00:20:47,360","00:20:50,800",1247.36,1250.8,3.4400000000000546,"Wir hatten sehr viele irreguläre Migration,"
+303,"00:20:50,880","00:20:54,120",1250.88,1254.12,3.2399999999997817,"sehr viele junge Männer,"
+304,"00:20:54,160","00:20:57,520",1254.16,1257.52,3.3599999999999,die da kommen und dass es einen Zusammenhang gibt.
+305,"00:20:57,600","00:21:00,520",1257.6,1260.52,2.9200000000000728,"Junge Männer kommen und es wird gefährlicher,"
+306,"00:21:00,600","00:21:08,640",1260.6,1268.64,8.040000000000191,daraus müssen wir einen Zusammenhang und ein Thema ziehen oder?
+307,"00:21:09,520","00:21:13,560",1269.52,1273.56,4.039999999999964,"AM: Die Häufigkeitszahl, also die Belastung an Gewaltdelikte"
+308,"00:21:13,640","00:21:17,480",1273.64,1277.48,3.839999999999918,"pro 100.000 Bevölkerung war in den Jahren 2008, 2009 höher"
+309,"00:21:17,600","00:21:21,880",1277.6,1281.88,4.2800000000002,als sie es heute ist und da hat mir diese große Zuwanderungswelle
+310,"00:21:22,000","00:21:23,880",1282.0,1283.88,1.8800000000001091,aus dem Jahr 2015 noch nicht.
+311,"00:21:24,000","00:21:26,560",1284.0,1286.56,2.5599999999999454,"Deshalb ist es zu einfach zu behaupten,"
+312,"00:21:26,640","00:21:29,440",1286.64,1289.44,2.7999999999999545,gibt es einen Zusammenhang.
+313,"00:21:29,440","00:21:35,240",1289.44,1295.24,5.7999999999999545,Ich habe ein interessantes Zitat was passt von Cem Özdemir:
+314,"00:21:35,240","00:21:36,000",1295.24,1296.0,0.7599999999999909,"wenn nach Deutschland,"
+315,"00:21:41,200","00:21:44,280",1301.2,1304.28,3.0799999999999272,"""Wer nach Deutschland, kommt und Schutz sucht,"
+316,"00:21:44,360","00:21:46,280",1304.36,1306.28,1.9200000000000728,kann keine Nachricht erwarten.
+317,"00:21:46,360","00:21:54,000",1306.36,1314.0,7.6400000000001,"Das kann man nicht als soziales Problem bagatellisieren"""
+318,"00:21:58,200","00:22:03,280",1318.2,1323.28,5.079999999999927,SF: Das ist doch quatsch.
+319,"00:22:03,360","00:22:07,680",1323.36,1327.68,4.320000000000164,"Wenn ich weiß, dass Leute aus Nordafrika in die Niederlande gehen,"
+320,"00:22:07,760","00:22:09,680",1327.76,1329.68,1.9200000000000728,"dort wohnen und lernen,"
+321,"00:22:09,760","00:22:13,720",1329.76,1333.72,3.9600000000000364,wie man Autos klaut und mit Sprengstoff die Bankautomaten in
+322,"00:22:13,800","00:22:17,400",1333.8,1337.4,3.6000000000001364,Nordrhein-Westfalen springt und zurückführt.
+323,"00:22:17,440","00:22:19,760",1337.44,1339.76,2.3199999999999363,"Dann hilft mir nicht die Statistik,"
+324,"00:22:19,840","00:22:24,800",1339.84,1344.8,4.960000000000036,wie viele Nordafrikaner in Nordrhein-Westfalen wohnen.
+325,"00:22:24,880","00:22:29,600",1344.88,1349.6,4.7199999999998,Ich will mich dem konkreten Phänomen annehmen und die Sprenger fangen und
+326,"00:22:29,720","00:22:34,080",1349.72,1354.08,4.3599999999999,die Taten verhindern.
+327,"00:22:34,160","00:22:36,080",1354.16,1356.08,1.9199999999998454,"Wir essen sehr wohl,"
+328,"00:22:36,200","00:22:40,760",1356.2,1360.76,4.559999999999945,"dass es dort bittere Wahrheiten gibt auf bestimmte Zuwanderungsgruppen,"
+329,"00:22:40,840","00:22:43,400",1360.84,1363.4,2.560000000000173,die dort überproportional in Erscheinung treten.
+330,"00:22:43,400","00:22:45,800",1363.4,1365.8,2.3999999999998636,Was macht Ihnen da Angst?
+331,"00:22:45,800","00:22:48,080",1365.8,1368.08,2.2799999999999727,"Ich weiß es nicht mehr genau,"
+332,"00:22:48,200","00:22:52,840",1368.2,1372.84,4.639999999999873,deswegen will ich keine genommene Zeit hätten nennen.
+333,"00:22:52,840","00:22:59,000",1372.84,1379.0,6.160000000000082,Sie treten aber signifikant in Erscheinung.
+334,"00:22:59,080","00:23:05,160",1379.08,1385.16,6.080000000000155,Deswegen entferne ich mich von der nationalen Statistik.
+335,"00:23:05,240","00:23:09,560",1385.24,1389.56,4.319999999999936,"Von der Wissenschaft lesen Sie die kompetenteren Ansprechpartner,"
+336,"00:23:09,640","00:23:12,280",1389.64,1392.28,2.6399999999998727,warum das so ist.
+337,"00:23:12,360","00:23:14,680",1392.36,1394.68,2.3200000000001637,"Aber ich würde mich davon verwehren,"
+338,"00:23:14,760","00:23:18,200",1394.76,1398.2,3.4400000000000546,die Statistik taugt nicht für überflüssige
+339,"00:23:18,280","00:23:21,600",1398.28,1401.6,3.3199999999999363,"Durchschnittsdiskussionen, das hilft nicht weiter,"
+340,"00:23:21,680","00:23:24,720",1401.68,1404.72,3.0399999999999636,weil ich das Phänomen nicht verhindern kann.
+341,"00:23:24,720","00:23:29,440",1404.72,1409.44,4.720000000000027,Dieser letzte Satz ist doch keine überflüssige Diskussion.
+342,"00:23:29,440","00:23:33,840",1409.44,1413.84,4.399999999999864,"Sie haben gerade darauf hingewiesen,"
+343,"00:23:33,920","00:23:40,560",1413.92,1420.56,6.639999999999873,"wenn Menschen in bestimmten Stadtteilen wohnen,"
+344,"00:23:40,680","00:23:47,680",1420.68,1427.68,7.0,"wenn sie unter bestimmten Verhältnissen leben,"
+345,"00:23:48,240","00:23:52,560",1428.24,1432.56,4.319999999999936,"dann kann es sein, dass sie mit einer höheren Wahrscheinlichkeit"
+346,"00:23:52,600","00:23:54,520",1432.6,1434.52,1.9200000000000728,in der Statistik auftauchen.
+347,"00:23:54,640","00:23:58,920",1434.64,1438.92,4.279999999999973,"Nichts anderes sagt er, Sie argumentieren soziologisch."
+348,"00:23:58,920","00:24:02,880",1438.92,1442.88,3.9600000000000364,"SF: Wenn man etwas erklärt es das keiner bagatellisieren,"
+349,"00:24:02,880","00:24:08,400",1442.88,1448.4,5.519999999999982,man fragt nach den Ursachen um sie nachher abzustellen.
+350,"00:24:08,400","00:24:11,360",1448.4,1451.36,2.959999999999809,"NB: ""Als soziales Problem bagatellisieren"","
+351,"00:24:11,360","00:24:16,360",1451.36,1456.36,5.0,"ich finde nicht, dass soziale Problem eine Bagatelle sein."
+352,"00:24:16,360","00:24:18,880",1456.36,1458.88,2.520000000000209,"Das ist nicht das, was er meint."
+353,"00:24:19,000","00:24:22,280",1459.0,1462.28,3.2799999999999727,"Was er meint ist das übliche Erklärungsmuster,"
+354,"00:24:22,280","00:24:26,680",1462.28,1466.68,4.400000000000091,so lese und verstehe ich ihn.
+355,"00:24:26,760","00:24:30,080",1466.76,1470.08,3.3199999999999363,"Wir finden immer sehr gute Erklärungen,"
+356,"00:24:30,160","00:24:35,080",1470.16,1475.08,4.919999999999845,"häufig sind es soziale Themen Armut, was auch immer, prekäre Situationen."
+357,"00:24:35,200","00:24:38,760",1475.2,1478.76,3.5599999999999454,Und das rechtfertigt dann das Menschen kriminell werden.
+358,"00:24:38,840","00:24:43,040",1478.84,1483.04,4.2000000000000455,So lese ich das.
+359,"00:24:43,120","00:24:45,760",1483.12,1485.76,2.6400000000001,"SF: Das Bundeskriminalamt zeigt uns,"
+360,"00:24:45,840","00:24:48,760",1485.84,1488.76,2.9200000000000728,dass es echtes zusammenhängen.
+361,"00:24:48,800","00:24:54,480",1488.8,1494.48,5.680000000000064,"Man muss etwas erklären dürfen,"
+362,"00:24:54,560","00:25:01,440",1494.56,1501.44,6.880000000000109,"und darf nicht in den Verruf geraten, man bagatellisiert es."
+363,"00:25:01,520","00:25:04,160",1501.52,1504.16,2.6400000000001,"Wir müssen hart mit den Tätern vorgehen,"
+364,"00:25:04,240","00:25:06,160",1504.24,1506.16,1.9200000000000728,"uns damit auseinandersetzen,"
+365,"00:25:06,240","00:25:13,000",1506.24,1513.0,6.759999999999991,dass wir zukünftig keine Taten mehr haben.
+366,"00:25:17,560","00:25:21,520",1517.56,1521.52,3.9600000000000364,Herr Mansour will sein Argument machen
+367,"00:25:21,640","00:25:27,320",1521.64,1527.32,5.679999999999836,und dann schauen wir uns dazu etwa an.
+368,"00:25:27,400","00:25:30,840",1527.4,1530.84,3.439999999999827,"AM: Die meisten tun es auch für unbequeme Argumente,"
+369,"00:25:30,920","00:25:37,120",1530.92,1537.12,6.199999999999818,dann werden sie schnell abgetan und dann darf man das nicht sagen
+370,"00:25:37,200","00:25:40,440",1537.2,1540.44,3.240000000000009,und es ist rassistisch und es ist Diskriminierung.
+371,"00:25:40,520","00:25:44,560",1540.52,1544.56,4.039999999999964,"Zwei Sachen sind wichtig, wenn es ertragen, dass Cem Özdemir"
+372,"00:25:44,640","00:25:47,040",1544.64,1547.04,2.3999999999998636,und andere die Ursache woanders sehen.
+373,"00:25:47,120","00:25:51,000",1547.12,1551.0,3.880000000000109,Und nicht diese Erklärung schneller als ungeeignet nennen.
+374,"00:25:51,080","00:25:55,440",1551.08,1555.44,4.360000000000127,"Wir vergessen, dass viele Menschen kommen in neun nach Deutschland"
+375,"00:25:55,560","00:25:59,000",1555.56,1559.0,3.4400000000000546,"kommen Deutschland ganz anders betrachten als Leute,"
+376,"00:25:59,080","00:26:00,960",1559.08,1560.96,1.8800000000001091,die hier geboren sind.
+377,"00:26:01,080","00:26:04,840",1561.08,1564.84,3.759999999999991,Es sollte ganz lange dauern bis jemand sich traut
+378,"00:26:04,920","00:26:09,320",1564.92,1569.32,4.399999999999864,"in einem neuen Land, wo er Schutz sucht,"
+379,"00:26:09,400","00:26:13,560",1569.4,1573.56,4.1599999999998545,bis er bereit wäre kriminell zu werden.
+380,"00:26:13,720","00:26:16,960",1573.72,1576.96,3.240000000000009,"Das zeigt, dass dann noch eine größere Problem"
+381,"00:26:17,040","00:26:20,640",1577.04,1580.64,3.6000000000001364,"als normalerweise bei Menschen, die hier geboren sind."
+382,"00:26:20,760","00:26:22,960",1580.76,1582.96,2.2000000000000455,"Worüber die Statistik nicht zeigt,"
+383,"00:26:23,040","00:26:25,560",1583.04,1585.56,2.519999999999982,wie viele Leute deutscher Staatsbürger
+384,"00:26:25,640","00:26:30,080",1585.64,1590.08,4.439999999999827,haben entweder Migrationshintergrund oder sind in den letzten Jahren
+385,"00:26:30,200","00:26:34,760",1590.2,1594.76,4.559999999999945,"eingebürgert, die nicht bei nicht- deutschen Staatsbürgern auftauchen,"
+386,"00:26:34,840","00:26:36,920",1594.84,1596.92,2.0800000000001546,sondern bei Deutschen.
+387,"00:26:36,920","00:26:39,840",1596.92,1599.84,2.9199999999998454,"Das wollte ich Frau Bögelein gerade fragen,"
+388,"00:26:39,880","00:26:43,240",1599.88,1603.24,3.3599999999999,vielleicht können Sie die technische Frage klären.
+389,"00:26:43,240","00:26:45,480",1603.24,1605.48,2.240000000000009,"Wenn in der Statistik gesagt wird,"
+390,"00:26:45,560","00:26:48,480",1605.56,1608.48,2.9200000000000728,da haben soundso viele keinen deutschen Pass.
+391,"00:26:48,560","00:26:51,840",1608.56,1611.84,3.2799999999999727,Die Menschen mit zwei Pässen werden wo geführt?
+392,"00:26:51,840","00:26:54,360",1611.84,1614.36,2.519999999999982,NB: Die werden als deutsche geführt.
+393,"00:26:54,360","00:26:59,240",1614.36,1619.24,4.880000000000109,Und Menschen mit Migrationshintergrund?
+394,"00:26:59,240","00:27:02,200",1619.24,1622.2,2.9600000000000364,"Das kommt nur auf den Pass an,"
+395,"00:27:02,200","00:27:05,280",1622.2,1625.28,3.0799999999999272,sobald man deutschen Pass
+396,"00:27:05,360","00:27:08,880",1625.36,1628.88,3.520000000000209,und einen anderen hat wird man als Deutscher geführt.
+397,"00:27:08,960","00:27:11,600",1628.96,1631.6,2.6399999999998727,Ist hinzunehmen.
+398,"00:27:11,720","00:27:16,000",1631.72,1636.0,4.279999999999973,"Noch interessant zu sagen, dass wir aus Dunkelfeldstudien wissen,"
+399,"00:27:16,120","00:27:19,240",1636.12,1639.24,3.1200000000001182,dass gerade diejenigen mit nicht-deutschen Pass
+400,"00:27:19,320","00:27:23,760",1639.32,1643.76,4.440000000000055,in der zweiten Generation also mit nicht eigener Migrationserfahrung
+401,"00:27:23,840","00:27:27,080",1643.84,1647.08,3.240000000000009,"sondern deren Eltern die Erfahrung gemacht haben,"
+402,"00:27:27,160","00:27:30,000",1647.16,1650.0,2.839999999999918,er mit Kriminalität in Erscheinung treten.
+403,"00:27:30,080","00:27:32,800",1650.08,1652.8,2.7200000000000273,"Was ein weiteres Argument dafür ist,"
+404,"00:27:32,920","00:27:35,480",1652.92,1655.48,2.5599999999999454,dass sie sich in der zweiten Generation
+405,"00:27:35,600","00:27:40,160",1655.6,1660.16,4.560000000000173,noch nicht aufgenommen fühlen.
+406,"00:27:40,160","00:27:42,240",1660.16,1662.24,2.0799999999999272,"Sie sagen, sie fühlen"
+407,"00:27:42,240","00:27:46,680",1662.24,1666.68,4.440000000000055,sich nicht aufgenommen.
+408,"00:27:46,760","00:27:50,200",1666.76,1670.2,3.4400000000000546,"Es klingt so, als wäre das Land und die Gesellschaft"
+409,"00:27:50,320","00:27:53,560",1670.32,1673.56,3.240000000000009,ist schuld daran das andere sich daneben genehmen.
+410,"00:27:53,640","00:27:56,120",1673.64,1676.12,2.479999999999791,Verantwortlich sind immer andere
+411,"00:27:56,200","00:27:59,680",1676.2,1679.68,3.480000000000018,"und die schlechte Integration und mangelnde Bildung,"
+412,"00:27:59,760","00:28:02,440",1679.76,1682.44,2.6800000000000637,"das Land, was sie aufnimmt."
+413,"00:28:02,520","00:28:05,000",1682.52,1685.0,2.480000000000018,"Aber es gibt den anderen Teil,"
+414,"00:28:05,120","00:28:08,400",1685.12,1688.4,3.2800000000002,es gibt ein massives Störgefühl in der Bevölkerung.
+415,"00:28:08,520","00:28:15,400",1688.52,1695.4,6.880000000000109,"Leute die sagen, das ist keine Einbahnstraße."
+416,"00:28:16,360","00:28:18,520",1696.36,1698.52,2.160000000000082,"Wenn man in ein Land kommt,"
+417,"00:28:18,600","00:28:22,440",1698.6,1702.44,3.8400000000001455,"trifft für sich selber die Entscheidung,"
+418,"00:28:22,520","00:28:25,040",1702.52,1705.04,2.519999999999982,in meinem Verständnis von Staatsbürgertum
+419,"00:28:25,080","00:28:26,200",1705.08,1706.2,1.1200000000001182,kann es nicht entscheiden
+420,"00:28:26,280","00:28:28,800",1706.28,1708.8,2.519999999999982,"unter welchem Verhältnis man aufwächst,"
+421,"00:28:28,880","00:28:32,640",1708.88,1712.64,3.759999999999991,"wenn es um die Frage geht, werde ich kriminell oder nicht."
+422,"00:28:32,720","00:28:36,080",1712.72,1716.08,3.3599999999999,Diese Frage stellt man alleine für sich.
+423,"00:28:36,080","00:28:38,320",1716.08,1718.32,2.240000000000009,AM: Absolut.
+424,"00:28:38,400","00:28:41,400",1718.4,1721.4,3.0,"Wir erwähnen immer wieder bei allen Debatten,"
+425,"00:28:41,400","00:28:47,880",1721.4,1727.88,6.480000000000018,die ich mitgemacht habe die bequemsten Erklärungen
+426,"00:28:47,960","00:28:52,200",1727.96,1732.2,4.240000000000009,"wo die Mehrheitsgesellschaft, wo wir wohl alle daran schuld sind,"
+427,"00:28:52,320","00:28:55,120",1732.32,1735.12,2.7999999999999545,dass es den Leuten nicht gut geht.
+428,"00:28:55,200","00:28:59,040",1735.2,1739.04,3.839999999999918,"Und die anderen Erklärungen, die vielleicht unbequem sind,"
+429,"00:28:59,160","00:29:02,440",1739.16,1742.44,3.2799999999999727,"wo die Leute Eigenverantwortung übernehmen sollen,"
+430,"00:29:02,560","00:29:07,280",1742.56,1747.28,4.720000000000027,die bekämpfen wir.
+431,"00:29:07,360","00:29:11,880",1747.36,1751.88,4.520000000000209,Das ist eine unmündige Art und Weise beim Umgang mit diesen Menschen.
+432,"00:29:11,960","00:29:16,080",1751.96,1756.08,4.119999999999891,Ich arbeite mit Menschen mit Migrationshintergrund
+433,"00:29:16,200","00:29:21,920",1756.2,1761.92,5.720000000000027,"und die Gesetzestreuen und da gibt es genug davon,"
+434,"00:29:22,000","00:29:29,520",1762.0,1769.52,7.519999999999982,"die regen sich massiv aufweise nicht das Gefühl haben,"
+435,"00:29:31,440","00:29:37,560",1771.44,1777.56,6.119999999999891,dass sie ernst genommen werden.
+436,"00:29:40,480","00:29:44,040",1780.48,1784.04,3.5599999999999454,"Das erklärt das nicht, das ist die bequemste Erklärung,"
+437,"00:29:44,160","00:29:48,160",1784.16,1788.16,4.0,als wir diese Menschen mit Kuscheltiere behandeln.
+438,"00:29:48,280","00:29:53,760",1788.28,1793.76,5.480000000000018,Dann verdrängen wir.
+439,"00:29:53,880","00:29:59,520",1793.88,1799.52,5.639999999999873,"Wir haben noch nicht über die Ursachen gesprochen,"
+440,"00:29:59,640","00:30:04,280",1799.64,1804.28,4.639999999999873,"wir versuchen irgendwas zu finden, um diese Zahlen nicht ernstzunehmen."
+441,"00:30:04,360","00:30:09,720",1804.36,1809.72,5.360000000000127,Und nicht das Migrationsthema zu erwähnen.
+442,"00:30:09,840","00:30:13,960",1809.84,1813.96,4.120000000000118,Das Migrationthema ist zentral.
+443,"00:30:14,040","00:30:18,680",1814.04,1818.68,4.6400000000001,"NB: Wir haben versucht zu erklären, dass es vielfältige Ursachen gibt."
+444,"00:30:18,800","00:30:22,080",1818.8,1822.08,3.2799999999999727,"Das ist nicht ein Staatsangehörigkeitsproblem ist,"
+445,"00:30:22,200","00:30:29,400",1822.2,1829.4,7.2000000000000455,"wir haben gesagt, es geht um Sozialmöglichkeiten,"
+446,"00:30:33,280","00:30:36,280",1833.28,1836.28,3.0,es geht um die Chancen mit dem ich aufwachse.
+447,"00:30:36,400","00:30:39,800",1836.4,1839.8,3.3999999999998636,"Die allermeisten Menschen, die in Deutschland leben,"
+448,"00:30:39,920","00:30:45,360",1839.92,1845.36,5.439999999999827,"verhalten sich so, dass sie nicht mit dem Gesetz in Konflikt treten."
+449,"00:30:45,360","00:30:50,040",1845.36,1850.04,4.680000000000064,"Frau Bögelein, das ist ein Argument, dass ich nicht durchgehen lassen kann"
+450,"00:30:50,040","00:30:52,560",1850.04,1852.56,2.519999999999982,"Es ist das berühmte ja, aber Argument."
+451,"00:30:52,640","00:30:55,240",1852.64,1855.24,2.599999999999909,"Wir reden ausschließlich über Menschen,"
+452,"00:30:55,320","00:30:57,360",1855.32,1857.36,2.0399999999999636,die in der Statistik auftauchen.
+453,"00:30:57,440","00:30:59,360",1857.44,1859.36,1.9199999999998454,"Ich bin bei Herr Mansur,"
+454,"00:30:59,440","00:31:03,440",1859.44,1863.44,4.0,das regt die Menschen in den ursprünglichen Ländern sehr auf.
+455,"00:31:03,520","00:31:06,840",1863.52,1866.84,3.3199999999999363,Warum kommt keine Konsequenz für diese kriminellen.
+456,"00:31:06,920","00:31:10,440",1866.92,1870.44,3.519999999999982,"Es ist ein Glaubwürdigkeitsproblem, wenn jemand wie"
+457,"00:31:10,480","00:31:12,920",1870.48,1872.92,2.4400000000000546,die Bundesinnenministerin sich hinstellt
+458,"00:31:13,000","00:31:19,480",1873.0,1879.48,6.480000000000018,"und folgendes sagt da können wir gleich drüber reden,"
+459,"00:31:19,560","00:31:23,360",1879.56,1883.36,3.7999999999999545,"ob die Leute das auch so glauben, wir hören kurz rein:"
+460,"00:31:23,360","00:31:26,240",1883.36,1886.24,2.880000000000109,"Es gibt eine Gewaltkriminalität,"
+461,"00:31:26,360","00:31:30,200",1886.36,1890.2,3.8400000000001455,es gibt mehr Jugend und es gibt mehr Ausländerkriminalität.
+462,"00:31:30,200","00:31:34,200",1890.2,1894.2,4.0,Null Toleranz bedeutet konsequentes durchgreifen der Polizei
+463,"00:31:34,280","00:31:38,920",1894.28,1898.92,4.6400000000001,"und null Toleranz bedeutet schnelle Verfahren, konsequente Verurteilung"
+464,"00:31:39,000","00:31:40,960",1899.0,1900.96,1.9600000000000364,und spürbare Strafen.
+465,"00:31:41,080","00:31:45,440",1901.08,1905.44,4.360000000000127,Täter müssen die Konsequenz ihres Handelns spüren und zwar schnell.
+466,"00:31:45,520","00:31:48,840",1905.52,1908.84,3.3199999999999363,Die Strafe muss möglichst auf dem Fuß folgen.
+467,"00:31:48,920","00:31:52,920",1908.92,1912.92,4.0,Das bedeutet bei ausländischen Täter neben den unmittelbaren
+468,"00:31:53,080","00:31:56,720",1913.08,1916.72,3.6400000000001,"strafrechtlichen Konsequenzen auch, dass sie Deutschland"
+469,"00:31:56,840","00:32:00,720",1916.84,1920.72,3.880000000000109,deutlich schneller verlassen müssen als bisher der Fall war.
+470,"00:32:00,840","00:32:07,720",1920.84,1927.72,6.880000000000109,"Ehrlich nicht an die Regeln hält, muss gehen."
+471,"00:32:09,080","00:32:11,920",1929.08,1931.92,2.8400000000001455,AM: Das hab ich bei Ihnen vor paar Jahren auch gesagt.
+472,"00:32:11,920","00:32:15,120",1931.92,1935.12,3.199999999999818,Das haben hier schon viele gesagt.
+473,"00:32:15,120","00:32:17,720",1935.12,1937.72,2.6000000000001364,Und wir wurden wir betitelt?
+474,"00:32:17,800","00:32:21,320",1937.8,1941.32,3.519999999999982,"Rechtsradikal, Rassismus."
+475,"00:32:21,320","00:32:26,600",1941.32,1946.6,5.279999999999973,"Aber das brauchen wir, diese Leute brauchen klare Regeln,"
+476,"00:32:26,680","00:32:31,600",1946.68,1951.6,4.919999999999845,"damit sie wissen, wo sie stehen."
+477,"00:32:31,720","00:32:35,400",1951.72,1955.4,3.6800000000000637,Wir haben noch nicht über die Ursachen gesprochen.
+478,"00:32:35,520","00:32:40,000",1955.52,1960.0,4.480000000000018,Eine der großen Ursachen ist der Wahrnehmung unseres Rechtsstaats
+479,"00:32:40,120","00:32:44,000",1960.12,1964.0,3.880000000000109,"als Schwachpunkt Menschen die aus Ländern kommen, die super"
+480,"00:32:44,120","00:32:48,680",1964.12,1968.68,4.560000000000173,"autoritär funktionieren, in ihren Familien patriarchalische Strukturen"
+481,"00:32:48,800","00:32:52,560",1968.8,1972.56,3.759999999999991,"erlebt haben, die, nach Deutschland, machen die Erfahrung,"
+482,"00:32:52,680","00:32:56,880",1972.68,1976.88,4.2000000000000455,"dass alles irgendwie durchgeht, dass sie kaum Konsequenzen spüren"
+483,"00:32:57,000","00:32:59,360",1977.0,1979.36,2.3599999999999,und diese Zielgruppe von Straftätern
+484,"00:32:59,480","00:33:02,480",1979.48,1982.48,3.0,erleben das als Einladung weiterzumachen.
+485,"00:33:02,560","00:33:07,720",1982.56,1987.72,5.160000000000082,Frech zur Polizei zu sein und sie spüren keine Konsequenzen.
+486,"00:33:07,720","00:33:11,760",1987.72,1991.76,4.039999999999964,SF: Das macht die Polizeiarbeit aber schlechter als sie ist.
+487,"00:33:11,760","00:33:15,160",1991.76,1995.16,3.400000000000091,"Das spricht gegen die Statistik,"
+488,"00:33:15,240","00:33:18,800",1995.24,1998.8,3.5599999999999454,denn sonst wären sie nicht in dieser ermittelt wurden.
+489,"00:33:18,880","00:33:20,800",1998.88,2000.8,1.9199999999998454,"Es ist Gott sei Dank der Fall,"
+490,"00:33:20,880","00:33:25,800",2000.88,2005.8,4.919999999999845,die Polizei arbeitet sehr gut und fleißig.
+491,"00:33:25,880","00:33:28,720",2005.88,2008.72,2.839999999999918,Ich war in Sigmaringen in einer Einrichtung
+492,"00:33:28,840","00:33:31,880",2008.84,2011.88,3.040000000000191,und dort war es ein gutes Beispiel.
+493,"00:33:31,960","00:33:35,200",2011.96,2015.2,3.240000000000009,Direkt vor der Einrichtung haben sie eine Station
+494,"00:33:35,320","00:33:37,480",2015.32,2017.48,2.160000000000082,mit Ermittlungsgruppen eingerichtet.
+495,"00:33:37,480","00:33:40,400",2017.48,2020.4,2.9200000000000728,Das ist bitter wenn man das machen muss.
+496,"00:33:40,400","00:33:45,000",2020.4,2025.0,4.599999999999909,"Es hat folgenden Effekt gehabt auf die Forderung, die wir besprechen."
+497,"00:33:45,000","00:33:50,920",2025.0,2030.92,5.920000000000073,"Wir sprechen über Konsequenzen, die hat man dort gezogen."
+498,"00:33:51,040","00:33:53,160",2031.04,2033.16,2.1200000000001182,"Man hat das deswegen so gemacht,"
+499,"00:33:53,240","00:33:57,400",2033.24,2037.4,4.160000000000082,weil es zwischen der Unterkunft und der Stadt dort eine Zunahme
+500,"00:33:57,520","00:34:01,280",2037.52,2041.28,3.759999999999991,an Ladendiebstählen und Wohnungseinbrüchen gegeben hat.
+501,"00:34:01,360","00:34:06,000",2041.36,2046.0,4.6400000000001,"Der Erfolg ist der gewesen, dass man sehr viele Haftbefehle bewirkt hat,"
+502,"00:34:06,080","00:34:11,120",2046.08,2051.12,5.039999999999964,sehr viele Täter ermittelt hat.
+503,"00:34:11,200","00:34:18,680",2051.2,2058.68,7.480000000000018,"Der Bevölkerung mitteile musste, es ist schlimm, dass es passiert das."
+504,"00:34:18,800","00:34:21,360",2058.8,2061.36,2.5599999999999454,"Aber ich werde jetzt nicht akzeptieren,"
+505,"00:34:21,440","00:34:23,280",2061.44,2063.28,1.8400000000001455,dass die Polizei nicht agiert.
+506,"00:34:23,280","00:34:28,080",2063.28,2068.08,4.799999999999727,AM: Das liegt mehr bei der Justiz.
+507,"00:34:28,080","00:34:30,840",2068.08,2070.84,2.7600000000002183,SF: Ich muss es zu Ende erzählen lassen.
+508,"00:34:30,840","00:34:37,200",2070.84,2077.2,6.359999999999673,"Es passieren Konsequenzen, auch dort."
+509,"00:34:38,040","00:34:40,760",2078.04,2080.76,2.7200000000002547,"Man stellt fest, innerhalb der Menschen,"
+510,"00:34:40,840","00:34:43,280",2080.84,2083.28,2.4400000000000546,"die sich in der Einrichtung aufhalten,"
+511,"00:34:43,360","00:34:47,000",2083.36,2087.0,3.6399999999998727,ein kleiner Teil für sehr viele Taten verantwortlich ist.
+512,"00:34:47,120","00:34:50,560",2087.12,2090.56,3.4400000000000546,Die sind ermittelt worden.
+513,"00:34:50,640","00:34:54,920",2090.64,2094.92,4.2800000000002,"Ich bin zu der Volksversammlung gegangen,"
+514,"00:34:55,000","00:34:58,840",2095.0,2098.84,3.8400000000001455,"die haben erkannt, es ist ein kleiner Teil der Bevölkerung,"
+515,"00:34:58,920","00:35:02,120",2098.92,2102.12,3.199999999999818,die dort ermittelt werden.
+516,"00:35:02,240","00:35:06,880",2102.24,2106.88,4.640000000000327,Es gibt also solche positiven Beispiele.
+517,"00:35:07,000","00:35:12,600",2107.0,2112.6,5.599999999999909,Dass sie in der Statistik
+518,"00:35:12,680","00:35:18,360",2112.68,2118.36,5.680000000000291,"stehen ist das Zeichen guter Polizeiarbeit,"
+519,"00:35:18,480","00:35:21,520",2118.48,2121.52,3.0399999999999636,und nichts anderes erkenne ich in diesen Aussagen.
+520,"00:35:21,520","00:35:25,160",2121.52,2125.16,3.6399999999998727,Ich will nur ein paar Zahlen in die Runde werfen.
+521,"00:35:25,240","00:35:29,440",2125.24,2129.44,4.200000000000273,"Wir haben +17 % beim Thema Autodiebstahl, Ladendiebstahl +23 %,"
+522,"00:35:29,440","00:35:32,000",2129.44,2132.0,2.5599999999999454,Taschendiebstahl +11 %.
+523,"00:35:32,120","00:35:36,840",2132.12,2136.84,4.720000000000255,"Im Vergleich der Bundesländer zeigt sich, dass es ein Nord-Süd-Gefälle."
+524,"00:35:36,960","00:35:40,360",2136.96,2140.36,3.400000000000091,Die Häufigkeit der Straftaten pro 100.000 Einwohner.
+525,"00:35:40,480","00:35:42,920",2140.48,2142.92,2.4400000000000546,"In Berlin lebt man am gefährlichsten,"
+526,"00:35:43,000","00:35:46,560",2143.0,2146.56,3.5599999999999454,"dahinter folgen Folgen Bremen, Hamburg, Sachsen-Anhalt"
+527,"00:35:46,680","00:35:49,280",2146.68,2149.28,2.600000000000364,und am sichersten ist es in Bayern.
+528,"00:35:49,280","00:35:54,400",2149.28,2154.4,5.119999999999891,SF: Da vergleichen Sie Äpfel mit Birnen.
+529,"00:35:54,400","00:35:57,280",2154.4,2157.28,2.880000000000109,"Ich frage mich ein wenig, warum überhaupt"
+530,"00:35:57,280","00:36:00,920",2157.28,2160.92,3.6399999999998727,"die Statistik veröffentlichen, man studiert haben muss,"
+531,"00:36:01,000","00:36:03,760",2161.0,2163.76,2.7600000000002183,um etwas daraus zu verstehen.
+532,"00:36:03,760","00:36:08,760",2163.76,2168.76,5.0,"SF: Das ist so als wenn Sie sich Blutwerte anschauen,"
+533,"00:36:08,760","00:36:11,840",2168.76,2171.84,3.0799999999999272,wenn Sie nicht Medizin studiert haben.
+534,"00:36:11,840","00:36:16,800",2171.84,2176.8,4.960000000000036,Wenn diese Statistik so interpretationsbedürftig ist
+535,"00:36:16,800","00:36:22,960",2176.8,2182.96,6.1599999999998545,"und ich kaufe jedes Argument, warum veröffentlichen wir sie?"
+536,"00:36:23,080","00:36:27,960",2183.08,2187.96,4.880000000000109,Das triggert bei bestimmten Menschen bestimmte Ressentiments
+537,"00:36:28,040","00:36:32,840",2188.04,2192.84,4.800000000000182,und andere nuscheln es weg.
+538,"00:36:32,840","00:36:38,240",2192.84,2198.24,5.399999999999636,SF: Kurze Antwort:
+539,"00:36:38,240","00:36:40,160",2198.24,2200.16,1.9200000000000728,in Großstädten gibt es mehr
+540,"00:36:40,240","00:36:43,400",2200.24,2203.4,3.1600000000003092,und andere Kriminalität als auf dem Land.
+541,"00:36:43,480","00:36:47,040",2203.48,2207.04,3.5599999999999454,Das Saarland sieht anders aus als Hamburg.
+542,"00:36:47,120","00:36:51,160",2207.12,2211.16,4.039999999999964,"Man kann Großstädte miteinander vergleichen, das ist sinnvoll,"
+543,"00:36:51,280","00:36:55,240",2211.28,2215.24,3.9599999999995816,das wollte ich damit sagen.
+544,"00:36:55,320","00:37:00,600",2215.32,2220.6,5.279999999999745,Wir brauchen aber eine neuen Sicherheitsbericht.
+545,"00:37:00,720","00:37:02,680",2220.72,2222.68,1.9600000000000364,"Das diskutieren wir nicht nur,"
+546,"00:37:02,800","00:37:05,680",2222.8,2225.68,2.8799999999996544,"wir arbeiten sehr konkret und handfest darin,"
+547,"00:37:05,800","00:37:09,720",2225.8,2229.72,3.919999999999618,dass wir eine andere Grundlage für die Debatte bekommen.
+548,"00:37:09,800","00:37:16,800",2229.8,2236.8,7.0,"Es gibt zwei Gründe, warum wir uns öffentlich darüber unterhalten."
+549,"00:37:16,920","00:37:19,920",2236.92,2239.92,3.0,"Entweder es ist etwas passiert, ein Anschlag,"
+550,"00:37:20,040","00:37:25,920",2240.04,2245.92,5.880000000000109,wir haben schlimme Kriminalitäts- fälle hier zu diskutieren.
+551,"00:37:26,040","00:37:29,320",2246.04,2249.32,3.2800000000002,"Dann ist es der Anlass, wir brauchen mehr Strafen,"
+552,"00:37:29,440","00:37:33,600",2249.44,2253.6,4.1599999999998545,der andere schreibt das und wir unterhalten uns drüber.
+553,"00:37:33,720","00:37:36,760",2253.72,2256.76,3.0400000000004184,"Das andere ist, wir schauen in den Rückspiegel"
+554,"00:37:36,840","00:37:40,440",2256.84,2260.44,3.599999999999909,und schon auf die Taten der letzten Jahre.
+555,"00:37:40,560","00:37:45,160",2260.56,2265.16,4.599999999999909,Entscheidungen müssen wir aber für die nächsten Jahre treffen.
+556,"00:37:45,280","00:37:45,840",2265.28,2265.84,0.5599999999999454,Wir brauchen deswegen einen Berichtm
+557,"00:37:47,160","00:37:49,560",2267.16,2269.56,2.400000000000091,"Wir brauchen deswegen einen Bericht,"
+558,"00:37:49,680","00:37:52,640",2269.68,2272.64,2.9600000000000364,"der sagt, welche Gefahren wir insgesamt haben."
+559,"00:37:52,720","00:37:54,880",2272.72,2274.88,2.1600000000003092,"Wir brauchen nicht nur Statistik,"
+560,"00:37:55,000","00:38:01,960",2275.0,2281.96,6.960000000000036,"wir müssen auch darüber reden, was zu tun ist."
+561,"00:38:02,920","00:38:07,680",2282.92,2287.68,4.7599999999997635,Dann lass uns die letzten Minuten dafür nutzen.
+562,"00:38:07,760","00:38:11,400",2287.76,2291.4,3.6399999999998727,"Frau Bögelein, Sie haben vor einem Ursachen gesagt,"
+563,"00:38:11,520","00:38:15,000",2291.52,2295.0,3.480000000000018,wo Menschen ansetzen?
+564,"00:38:15,120","00:38:19,040",2295.12,2299.04,3.9200000000000728,"Wenn wir uns die Jugendkriminalität anschauen und wir sehen,"
+565,"00:38:19,160","00:38:22,120",2299.16,2302.12,2.9600000000000364,"dass die zugenommen hat nach der Corona-Zeit,"
+566,"00:38:22,240","00:38:25,040",2302.24,2305.04,2.800000000000182,"gibt es unterschiedliche Erklärungsansätze,"
+567,"00:38:25,160","00:38:27,840",2305.16,2307.84,2.680000000000291,"zum Beispiel einen Normalisierungseffekt,"
+568,"00:38:27,960","00:38:31,720",2307.96,2311.72,3.7599999999997635,"aber es gibt auch die Debatte in der Kriminologie gesagt,"
+569,"00:38:31,840","00:38:35,920",2311.84,2315.92,4.079999999999927,"das hat auch damit zu tun, dass die Schule ein Schutzraum war,"
+570,"00:38:36,040","00:38:41,120",2316.04,2321.12,5.079999999999927,"ein sozialer Schutzraum, in dem elterliche Gewalt entdeckt wurde,"
+571,"00:38:41,280","00:38:45,000",2321.28,2325.0,3.7199999999998,"und dass es für mich und viele andere ein Hinweis darauf,"
+572,"00:38:45,120","00:38:50,440",2325.12,2330.44,5.320000000000164,dass Kriminalität auch in Form von sozialen Problemen ist.
+573,"00:38:50,520","00:38:53,720",2330.52,2333.72,3.199999999999818,"Da hat jemand psychische Themen, soziale Themen,"
+574,"00:38:53,800","00:38:58,520",2333.8,2338.52,4.7199999999998,"mit denen er umgehen muss, die sich in abweichendem Verhalten ausdrücken"
+575,"00:38:58,600","00:39:03,960",2338.6,2343.96,5.360000000000127,"Deshalb es für mich die logische Konsequenz,"
+576,"00:39:04,120","00:39:07,640",2344.12,2347.64,3.519999999999982,"wir brauchen mehr soziale Unterstützung, mehr Angebot,"
+577,"00:39:07,760","00:39:10,000",2347.76,2350.0,2.2399999999997817,die positiv sind.
+578,"00:39:10,120","00:39:13,480",2350.12,2353.48,3.3600000000001273,Die Debatte null Toleranz und draufhauen
+579,"00:39:13,600","00:39:18,520",2353.6,2358.52,4.920000000000073,hat in den letzten 20 Jahren nichts gebracht.
+580,"00:39:18,640","00:39:22,760",2358.64,2362.76,4.120000000000346,"AM: Darüber hat man geredet, aber man hat sie nicht in der Realität..."
+581,"00:39:22,760","00:39:25,880",2362.76,2365.88,3.119999999999891,Ich muss eine kleine kurze Nachfrage stellen:
+582,"00:39:25,960","00:39:28,880",2365.96,2368.88,2.9200000000000728,"ich komme wieder zum Thema Integration,"
+583,"00:39:28,880","00:39:33,600",2368.88,2373.6,4.7199999999998,werden die Landräte hier alle setzen und haben sie regelmäßig hier sitzen
+584,"00:39:33,720","00:39:41,680",2373.72,2381.68,7.960000000000036,es ist immer interessant mit Leuten von der Basis zu sprechen
+585,"00:39:44,160","00:39:48,320",2384.16,2388.32,4.160000000000309,"Die sagen, Integration ist weit mehr als ein Dach über dem Kopf"
+586,"00:39:48,440","00:39:52,320",2388.44,2392.32,3.880000000000109,"und ein warmes Bett. Wir können uns als nicht mehr leisten,"
+587,"00:39:52,440","00:39:56,320",2392.44,2396.32,3.880000000000109,wenn wir in einer Schulklasse über 20 Nationen sitzen haben.
+588,"00:39:56,440","00:39:58,840",2396.44,2398.84,2.400000000000091,Dann geht das schlicht und ergreifend nicht. Ist das ein
+589,"00:39:59,600","00:40:02,520",2399.6,2402.52,2.9200000000000728,Dann geht das schlicht und ergreifend nicht.
+590,"00:40:02,640","00:40:08,040",2402.64,2408.04,5.400000000000091,Ist das ein Thema?
+591,"00:40:08,120","00:40:11,240",2408.12,2411.24,3.119999999999891,Dass wir zu wenige Fachkräfte und Lehrer haben?
+592,"00:40:11,360","00:40:15,040",2411.36,2415.04,3.6799999999998363,"Die AfD benutz in dem Zusammenhang das Wort ""Staatsversagen""."
+593,"00:40:15,120","00:40:19,600",2415.12,2419.6,4.480000000000018,"Das Wort will ich nicht in den Mund nehmen, aber wir sind nah dran."
+594,"00:40:19,600","00:40:24,160",2419.6,2424.16,4.559999999999945,"NB: Auf jeden Fall würde ich zustimmen,"
+595,"00:40:24,160","00:40:28,280",2424.16,2428.28,4.120000000000346,"dass alles was wir tun können, was in den Bereich Unterstützung"
+596,"00:40:28,400","00:40:35,960",2428.4,2435.96,7.559999999999945,von Jugendlichen und heranwachsenden nur gut sein kann.
+597,"00:40:41,440","00:40:49,280",2441.44,2449.28,7.8400000000001455,"Mehr Lehrer zu haben, all diese Aspekte kommen damit rein."
+598,"00:40:52,520","00:40:56,320",2452.52,2456.32,3.800000000000182,Kriminalität ist ein soziales Problem und dem müssen wir
+599,"00:40:56,440","00:41:01,720",2456.44,2461.72,5.279999999999745,mit sozialen Antworten begegnen und nicht mit einer Hau Draufdebatte.
+600,"00:41:01,720","00:41:11,080",2461.72,2471.08,9.360000000000127,SF: Es muss schon mehr sein.
+601,"00:41:11,080","00:41:13,080",2471.08,2473.08,2.0,Wir haben noch gar nicht
+602,"00:41:13,160","00:41:17,000",2473.16,2477.0,3.8400000000001455,über die ganzen anderen Kriminalitätsphänomene gesprochen.
+603,"00:41:17,120","00:41:20,000",2477.12,2480.0,2.880000000000109,Wir haben sehr gute Präventionsgeräte.
+604,"00:41:20,080","00:41:24,560",2480.08,2484.56,4.480000000000018,"Jugendliche sind sehr viele Kriminalität verantwortlich,"
+605,"00:41:24,640","00:41:32,720",2484.64,2492.72,8.079999999999927,sehr viele Milliarden Euro wurden verursacht von wenigen Leuten.
+606,"00:41:32,840","00:41:35,000",2492.84,2495.0,2.1599999999998545,"Das Problem ist,"
+607,"00:41:35,080","00:41:40,520",2495.08,2500.52,5.440000000000055,wir wissen nicht welche Präventionsprojekte
+608,"00:41:40,640","00:41:43,960",2500.64,2503.96,3.3200000000001637,es überhaupt gibt und welche gut sind.
+609,"00:41:44,080","00:41:50,680",2504.08,2510.68,6.599999999999909,Wir bauen deshalb eine Agentur dafür auf.
+610,"00:41:50,840","00:41:53,600",2510.84,2513.6,2.7599999999997635,Wir müssen auch bei jeder Gelegenheit
+611,"00:41:53,720","00:41:57,360",2513.72,2517.36,3.6400000000003274,auf Kinderpornographie hinweisen.
+612,"00:41:57,440","00:42:03,400",2517.44,2523.4,5.960000000000036,Ebenfalls Kriminalität.
+613,"00:42:11,320","00:42:15,240",2531.32,2535.24,3.919999999999618,Wir müssen auch über Ermittlungs- instrumente diskutieren.
+614,"00:42:15,360","00:42:18,120",2535.36,2538.12,2.7599999999997635,Das wollte ich damit zum Ausdruck bringen.
+615,"00:42:18,240","00:42:20,520",2538.24,2540.52,2.2800000000002,Wir müssen die Dinge konkret machen.
+616,"00:42:20,600","00:42:24,520",2540.6,2544.52,3.9200000000000728,"Prävention ist wahnsinnig wichtig, weil es Opfer verhindert."
+617,"00:42:24,640","00:42:29,040",2544.64,2549.04,4.400000000000091,"Wir haben die Gelegenheiten, wir müssen sie nur besser organisieren,"
+618,"00:42:29,160","00:42:35,040",2549.16,2555.04,5.880000000000109,als wir es bisher getan haben.
+619,"00:42:36,040","00:42:42,600",2556.04,2562.6,6.559999999999945,"Herr Mansour, wo würden Sie ansetzen?"
+620,"00:42:44,600","00:42:52,320",2564.6,2572.32,7.720000000000255,"AM: Über kulturelle Hintergründe, Sozialisation müssen wir sprechen,"
+621,"00:42:52,440","00:42:56,040",2572.44,2576.04,3.599999999999909,über Erziehungsmethoden.
+622,"00:42:56,160","00:42:59,120",2576.16,2579.12,2.9600000000000364,"Wenn ich das Unwort der Sendung sprechen darf,"
+623,"00:42:59,240","00:43:01,760",2579.24,2581.76,2.5200000000004366,wir müssen über Grenzen sprechen.
+624,"00:43:01,920","00:43:06,280",2581.92,2586.28,4.360000000000127,"Ohne Begrenzung von Migration, wenn wir nicht begreifen,"
+625,"00:43:06,400","00:43:10,280",2586.4,2590.28,3.880000000000109,"dass um Menschen zu integrieren, um in eine Chance zu geben,"
+626,"00:43:10,400","00:43:13,600",2590.4,2593.6,3.199999999999818,"brauchen Sie Begleitung, brauchen sie Ressourcen."
+627,"00:43:13,720","00:43:15,920",2593.72,2595.92,2.200000000000273,Die Ressourcen sind sehr begrenzt.
+628,"00:43:16,040","00:43:20,600",2596.04,2600.6,4.559999999999945,"Da müsse man darüber sprechen, dass wir das begrenzen bei denjenigen,"
+629,"00:43:20,720","00:43:24,320",2600.72,2604.32,3.600000000000364,"die kommen müssen in der Lage sein Risiko zu begleiten,"
+630,"00:43:24,440","00:43:27,000",2604.44,2607.0,2.5599999999999454,"in eine Chance in Deutschland zu geben,"
+631,"00:43:27,040","00:43:32,080",2607.04,2612.08,5.039999999999964,"in den Schutz anbieten und wer sei- nen Aufenthalt in Deutschland nutzt,"
+632,"00:43:32,120","00:43:34,080",2612.12,2614.08,1.9600000000000364,"um andere unsicher zu machen,"
+633,"00:43:34,120","00:43:37,360",2614.12,2617.36,3.2400000000002365,muss es in aller Deutlichkeit das Land verlassen.
+634,"00:43:37,400","00:43:41,360",2617.4,2621.36,3.9600000000000364,"Wenn wir das nicht begreifen, dann werden wir nächstes Jahr"
+635,"00:43:41,400","00:43:43,760",2621.4,2623.76,2.3600000000001273,nochmal über das Phänomen sprechen.
+636,"00:43:43,800","00:43:46,640",2623.8,2626.64,2.8399999999996908,"Und dann verlieren wir ganz viele Menschen,"
+637,"00:43:46,680","00:43:49,640",2626.68,2629.64,2.9600000000000364,"die nicht mehr mitmachen wollen bei diesen Sachen,"
+638,"00:43:49,680","00:43:52,840",2629.68,2632.84,3.1600000000003092,"da sie das Gefühl haben, es wird nicht zugehört."
+639,"00:43:52,880","00:43:56,240",2632.88,2636.24,3.3599999999996726,Die Lage ist wirklich ernst geworden.
+640,"00:43:56,280","00:44:00,320",2636.28,2640.32,4.039999999999964,Danke Ihnen allen sehr. Wir sind am Ende dieser Sendung.
+641,"00:44:00,360","00:44:02,440",2640.36,2642.44,2.0799999999999272,Viel gelernt heute.
+642,"00:44:02,480","00:44:05,640",2642.48,2645.64,3.1599999999998545,"War nicht das letzte Mal, dass wir darüber gesprochen haben."
+643,"00:44:05,680","00:44:08,160",2645.68,2648.16,2.480000000000018,"Jetzt die Kollegen vom ""heute journal up:date"","
+644,"00:44:08,200","00:44:10,840",2648.2,2650.84,2.6400000000003274,"Wir sind morgen wieder für Sie da. Dankeschön, Tschüss."

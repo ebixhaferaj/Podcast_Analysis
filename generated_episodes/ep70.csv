@@ -1,0 +1,688 @@
+﻿segment_id,start_time,end_time,start_seconds,end_seconds,duration,text
+1,"00:00:00,040","00:00:01,480",0.04,1.48,1.44,Diese Untertitel sind live produziert.
+2,"00:00:01,520","00:00:05,560",1.52,5.56,4.039999999999999,"Einen schönen guten Abend, willkommen zu unserer Sendung zu später Stunde"
+3,"00:00:05,600","00:00:08,440",5.6,8.44,2.84,"und mit einer Paarung, die es in sich hat."
+4,"00:00:08,520","00:00:12,320",8.52,12.32,3.8000000000000007,"Es gibt und da geht der Blick zuerst zu ihr, der Sprecherin"
+5,"00:00:12,400","00:00:14,160",12.4,14.16,1.7599999999999998,der Grünen Jugend.
+6,"00:00:14,240","00:00:18,040",14.24,18.04,3.799999999999999,"Es war eine Sendung wie diese, eine zu sehr später Stunde"
+7,"00:00:18,120","00:00:21,640",18.12,21.64,3.5199999999999996,und dennoch waren die Reaktionen so dynamisch wie lange nicht.
+8,"00:00:21,720","00:00:23,320",21.72,23.32,1.6000000000000014,Es ging um Vieles.
+9,"00:00:23,440","00:00:26,920",23.44,26.92,3.4800000000000004,So fordert sie beispielsweise die Verstaatlichung
+10,"00:00:27,000","00:00:29,800",27.0,29.8,2.8000000000000007,großer Wohnungskonzerne und Vieles mehr.
+11,"00:00:29,840","00:00:33,600",29.84,33.6,3.7600000000000016,"Wenn es nach ihr geht, sind der Menschheit maximal 30 Stunden Arbeit"
+12,"00:00:33,680","00:00:36,360",33.68,36.36,2.6799999999999997,"pro Woche zuzumuten, ""meine Generation"", sagt sie,"
+13,"00:00:36,440","00:00:39,920",36.44,39.92,3.480000000000004,"""ist einfach nicht mehr bereit, so viele Abstriche in ihrem Leben"
+14,"00:00:40,000","00:00:41,680",40.0,41.68,1.6799999999999997,"nur für die Arbeit zu machen."""
+15,"00:00:41,760","00:00:45,400",41.76,45.4,3.6400000000000006,Viele junge Menschen würden durch Arbeit und Krisen an Burnout leiden
+16,"00:00:45,440","00:00:48,440",45.44,48.44,3.0,"und außerdem, sagt sie, sei es ohnehin ""unfeministisch,"
+17,"00:00:48,520","00:00:51,320",48.52,51.32,2.799999999999997,"an der 40-Stunden-Woche festzuhalten"""
+18,"00:00:51,400","00:00:53,360",51.4,53.36,1.9600000000000009,Was genau meint sie damit?
+19,"00:00:53,440","00:00:56,000",53.44,56.0,2.5600000000000023,"Fragen an Katharina Stolla, herzlich willkommen."
+20,"00:00:56,080","00:01:02,480",56.08,62.48,6.399999999999999,"Auf der anderen Seite dieser Mann, der zwar erst 31 ist,"
+21,"00:01:02,560","00:01:05,000",62.56,65.0,2.4399999999999977,aber schon seit 16 Jahren in der CDU.
+22,"00:01:05,080","00:01:08,800",65.08,68.8,3.719999999999999,"Wir wollen aber heute nicht darüber reden, was das mit ihm gemacht hat,"
+23,"00:01:08,840","00:01:12,920",68.84,72.92,4.079999999999998,"sondern stattdessen mit ihm über das reden,"
+24,"00:01:13,040","00:01:15,640",73.03999999999999,75.64,2.6000000000000085,"was er ""angstregungslosen Wohlstand"" nennt."
+25,"00:01:15,720","00:01:18,400",75.72,78.4,2.680000000000007,Den kann es seiner Meinung nicht geben.
+26,"00:01:18,440","00:01:21,840",78.44,81.84,3.4000000000000057,"""So etwas"", sagt er, ""ist nur eine Traumkategorie"
+27,"00:01:21,920","00:01:23,720",81.92,83.72,1.7999999999999972,"auf grünen Parteitagen""."
+28,"00:01:23,800","00:01:28,040",83.8,88.03999999999999,4.239999999999995,"Und weiter: ""Deutschland"", sagt er, ""kann es absolut nicht leisten,"
+29,"00:01:28,120","00:01:32,600",88.12,92.6,4.47999999999999,"noch weniger zu arbeiten, ohne Wohlstandsverluste zu erleiden"
+30,"00:01:32,680","00:01:34,960",92.68,94.96000000000001,2.280000000000001,und schon gar nicht die Vier-Tage-Woche
+31,"00:01:35,040","00:01:37,040",95.03999999999999,97.03999999999999,2.0,"bei vollen Lohnausgleich."""
+32,"00:01:37,120","00:01:40,400",97.12,100.4,3.280000000000001,"Wo wir gerade dabei sind: Eine ""permanente Anspruchshaltung"""
+33,"00:01:40,480","00:01:43,920",100.47999999999999,103.92,3.440000000000012,"sieht er bei der jungen Generation und die Tendenz,"
+34,"00:01:44,000","00:01:48,680",104.0,108.68,4.680000000000007,"die ""Generation der Boomer"" zum Sündenbock für alles zu machen."
+35,"00:01:48,760","00:01:51,680",108.75999999999999,111.68,2.920000000000016,"""Dabei"", sagt er, ""müssen wir denen dankbar sein."""
+36,"00:01:51,760","00:01:54,600",111.75999999999999,114.6,2.8400000000000034,Herzlich willkommen Philipp Amthor.
+37,"00:02:03,160","00:02:08,360",123.16,128.36,5.200000000000017,Schönen guten Abend Ihnen beiden.
+38,"00:02:08,480","00:02:14,760",128.48,134.76,6.280000000000001,"Frau Sturla, die erste Frage an Sie,"
+39,"00:02:15,160","00:02:18,680",135.16,138.68,3.5200000000000102,vor einigen Wochen haben wir mit Franziska Brandmann
+40,"00:02:18,760","00:02:20,880",138.76,140.88,2.1200000000000045,"eine dicke Diskussion ausgelöst,"
+41,"00:02:20,960","00:02:24,880",140.96,144.88,3.9199999999999875,"es ging um ihre Forderungen für Kürzung auf vier Tagewoche,"
+42,"00:02:24,960","00:02:27,080",144.96,147.07999999999998,2.119999999999976,was ist danach passiert?
+43,"00:02:27,080","00:02:31,360",147.07999999999998,151.36,4.28000000000003,KS: Danach haben viele Leute darüber gesprochen und diskutiert.
+44,"00:02:31,360","00:02:34,680",151.36,154.68,3.319999999999993,"Ich freue mich, dass es einen großen Stellenwert in der Debatte hat."
+45,"00:02:34,840","00:02:40,040",154.84,160.04,5.199999999999989,Aber gab es mehr Zuspruch oder gab es mehr Kopfschütteln?
+46,"00:02:40,040","00:02:44,000",160.04,164.0,3.960000000000008,Ich habe beides erfahren.
+47,"00:02:44,000","00:02:46,480",164.0,166.48,2.4799999999999898,"Ich glaube, dass ganz viele Menschen,"
+48,"00:02:46,520","00:02:48,480",166.52,168.48,1.9599999999999795,"ein großes Bedürfnis haben,"
+49,"00:02:48,520","00:02:51,360",168.52,171.36,2.8400000000000034,wie man eine lebenswertere Arbeitswirtschaft.
+50,"00:02:51,880","00:02:55,160",171.88,175.16,3.280000000000001,"Ich habe mit Leuten geredet, wie kann so etwas funktionieren,"
+51,"00:02:55,200","00:02:57,480",175.2,177.48,2.280000000000001,"spannend, dass es wieder aufkommen."
+52,"00:02:57,560","00:03:00,480",177.56,180.48,2.9199999999999875,"Es ist nicht etwas, was aus dem Nichts kommt,"
+53,"00:03:00,560","00:03:04,080",180.56,184.08,3.5200000000000102,sondern es ist seit Jahren Gegenstand von Tarifkämpfen
+54,"00:03:04,120","00:03:07,360",184.12,187.36,3.240000000000009,und seit Jahren wird auf einer politischen Ebene
+55,"00:03:07,400","00:03:09,360",187.4,189.36,1.960000000000008,darüber gesprochen.
+56,"00:03:09,400","00:03:11,360",189.4,191.36,1.960000000000008,"Ich hatte den Eindruck,"
+57,"00:03:11,400","00:03:14,160",191.4,194.16,2.759999999999991,dass es eine angeregte Debatte darüber gegeben hat.
+58,"00:03:23,000","00:03:25,800",203.0,205.8,2.8000000000000114,"Ich hab schon das Gefühl,"
+59,"00:03:25,880","00:03:30,680",205.88,210.68,4.800000000000011,dass Sie da einmal so richtig den sensiblen Nerv getroffen haben.
+60,"00:03:30,800","00:03:34,840",210.8,214.84,4.039999999999992,Weil es da um etwas ganz zentrales dieser Deutschland AG geht.
+61,"00:03:34,920","00:03:39,800",214.92000000000002,219.8,4.8799999999999955,"Dieses Land ist auf Fleiß aufgebaut,"
+62,"00:03:39,920","00:03:42,360",219.92000000000002,222.36,2.4399999999999977,"diese Menschen haben viel gearbeitet,"
+63,"00:03:42,440","00:03:45,160",222.44,225.16,2.719999999999999,um den Wohlstand zu erarbeiten.
+64,"00:03:45,280","00:03:47,680",225.28,227.68,2.4000000000000057,Woher kam die härtesten Reaktionen?
+65,"00:03:47,680","00:03:51,480",227.68,231.48,3.799999999999983,"Das kann ich nicht verorten, von wo die härtesten kamen."
+66,"00:03:51,520","00:03:55,120",231.52,235.12,3.5999999999999943,"Ich habe viele Menschen erlebt, die mir gesagt hatten,"
+67,"00:03:55,200","00:03:58,520",235.2,238.52,3.3200000000000216,"dass sie sich gefreut haben, wie hart die Arbeitsbedingungen"
+68,"00:03:58,600","00:04:01,560",238.6,241.56,2.960000000000008,in vielen Branchen sind. Wir haben auch viele Menschen
+69,"00:04:01,640","00:04:03,840",241.64,243.84,2.200000000000017,"aus der Boomer Generation gewagt,"
+70,"00:04:03,920","00:04:07,120",243.92,247.12,3.200000000000017,"dass sie sich freuen, dass darüber geredet wird,"
+71,"00:04:07,160","00:04:09,280",247.16,249.28,2.1200000000000045,wie man das Arbeitsleben
+72,"00:04:09,360","00:04:11,280",249.36,251.28,1.9199999999999875,besser gestalten kann.
+73,"00:04:11,360","00:04:13,320",251.36,253.32,1.9599999999999795,"Deswegen glaube ich nicht,"
+74,"00:04:13,360","00:04:16,640",253.36,256.64,3.2799999999999727,"dass ein großer Konflikt zwischen den Generationen herrscht,"
+75,"00:04:16,680","00:04:19,800",256.68,259.8,3.1200000000000045,"sondern viele beschäftigen sich, wie es möglich ist, eine"
+76,"00:04:19,840","00:04:21,920",259.84,261.92,2.080000000000041,Arbeitszeitverkürzung durchzusetzen.
+77,"00:04:28,080","00:04:31,080",268.08,271.08,3.0,"Herr Amthor, sie haben das auch mitgekriegt,"
+78,"00:04:31,160","00:04:35,040",271.16,275.04,3.8799999999999955,wie haben Sie das erlebt?
+79,"00:04:35,160","00:04:41,240",275.15999999999997,281.24,6.080000000000041,"Bei mir gab es große Empörung, das ist ganz klar."
+80,"00:04:41,320","00:04:44,160",281.32,284.15999999999997,2.839999999999975,"In vielen Zuschriften, ich will eins sagen,"
+81,"00:04:44,240","00:04:48,640",284.24,288.64,4.399999999999977,"an Kontroversen wird es in der Sendung nicht mangeln,"
+82,"00:04:48,720","00:04:53,040",288.72,293.04,4.319999999999993,deshalb schicke ich einen persönlich verständnisvollen Satz voraus.
+83,"00:04:53,160","00:04:57,040",293.15999999999997,297.04,3.8800000000000523,"Eins muss uns klar sein, das Leben ist mehr als nur Arbeit."
+84,"00:04:57,120","00:05:00,840",297.12,300.84,3.7199999999999704,Arbeit ist ein Mittel zum Zweck für ein klingendes Leben.
+85,"00:05:00,920","00:05:04,640",300.92,304.64,3.7199999999999704,Was ist mit Ihnen los?
+86,"00:05:04,720","00:05:06,840",304.72,306.84,2.1199999999999477,"Ich will es vorab sagen,"
+87,"00:05:06,960","00:05:11,400",306.96,311.4,4.439999999999998,"aus einer persönlichen Sicht ist es verständlich, dass viele sagen,"
+88,"00:05:11,480","00:05:13,720",311.48,313.72,2.240000000000009,die Belastungen der Arbeitswelt...
+89,"00:05:13,800","00:05:16,400",313.8,316.4,2.599999999999966,"Weiß Friedrich Merz, dass sie so denken?"
+90,"00:05:16,480","00:05:19,200",316.48,319.2,2.7199999999999704,Bereiten Sie gerade Schwarz-Grün vor?
+91,"00:05:19,280","00:05:23,360",319.28,323.36,4.080000000000041,"Ich will nur sagen der Punkt ist,"
+92,"00:05:23,480","00:05:26,960",323.48,326.96,3.4799999999999613,es gibt zwei Ebenen auf den wir argumentieren müssen.
+93,"00:05:27,080","00:05:30,840",327.08,330.84,3.759999999999991,Bei dieser einen Diskussion ist der Druck der Arbeitswelt
+94,"00:05:30,920","00:05:35,320",330.92,335.32,4.399999999999977,zu gibt seine persönliche Ebene wo man Verständnis aufbringen kann.
+95,"00:05:35,400","00:05:39,920",335.4,339.92,4.520000000000039,"Aber wir haben eine politische Ebene,"
+96,"00:05:40,000","00:05:44,320",340.0,344.32,4.319999999999993,"wo uns volkswirtschaftlich klar sein muss,"
+97,"00:05:44,440","00:05:47,800",344.44,347.8,3.3600000000000136,"wir machen Politik nicht aus einer Haltung alleine,"
+98,"00:05:47,880","00:05:51,680",347.88,351.68,3.8000000000000114,was ist bequem oder wir hatten ein gefälliges Verständnis.
+99,"00:05:51,760","00:05:56,200",351.76,356.2,4.439999999999998,Wir machen Politik aus der Frage wie geht es weiter mit Deutschland.
+100,"00:05:56,280","00:06:00,560",356.28,360.56,4.28000000000003,Da geht es darum das wenn eine internationalen Standortwettbewerb
+101,"00:06:00,680","00:06:04,000",360.68,364.0,3.319999999999993,sind und uns klar sein muss weniger Arbeit bedeutet
+102,"00:06:04,080","00:06:08,360",364.08,368.36,4.28000000000003,für uns weniger Wohlstand und die großen Wünsche und Erwartungen
+103,"00:06:08,440","00:06:12,080",368.44,372.08,3.6399999999999864,"dies an diesen Staat gibt, immer mehr Sozialleistungen,"
+104,"00:06:12,160","00:06:14,400",372.16,374.4,2.2399999999999523,"das wird natürlich nur dann gehen,"
+105,"00:06:14,480","00:06:18,120",374.48,378.12,3.6399999999999864,wenn wir wirtschaftlich weiter ein starkes Land sein.
+106,"00:06:18,200","00:06:22,040",378.2,382.04,3.840000000000032,"Deshalb muss klar sein, die Forderung nach weniger arbeiten"
+107,"00:06:22,160","00:06:25,640",382.16,385.64,3.4799999999999613,"verbindet sich mit Wohlstandsverlust, den sich dieses"
+108,"00:06:25,760","00:06:28,960",385.76,388.96,3.1999999999999886,Land im Moment nicht leisten kann.
+109,"00:06:29,040","00:06:32,320",389.04,392.32,3.2799999999999727,D. h. mit ihnen gibt es Viertagewoche nicht?
+110,"00:06:32,400","00:06:36,360",392.4,396.36,3.9600000000000364,Wir haben sogar die Vorschläge gemacht zur Flexibilisierung
+111,"00:06:36,440","00:06:40,480",396.44,400.48,4.0400000000000205,"einer Viertagewoche in der Gestalt, wenn man sich entscheidet"
+112,"00:06:40,560","00:06:44,600",400.56,404.6,4.0400000000000205,ein paar Tage lang 12 Stunden zu arbeiten um den Freitag frei
+113,"00:06:44,680","00:06:48,800",404.68,408.8,4.1200000000000045,zu haben zu mehr Flexibilität innerhalb der Wochenarbeitszeit.
+114,"00:06:48,920","00:06:52,000",408.92,412.0,3.079999999999984,"Wir haben in Deutschland ein Arbeitszeitgesetz,"
+115,"00:06:52,080","00:06:55,800",412.08,415.8,3.7200000000000273,"das ist sehr streng limitiert auf eine Höchstarbeitszeit,"
+116,"00:06:55,920","00:06:59,480",415.92,419.48,3.5600000000000023,"ich finde da braucht es Möglichkeiten,"
+117,"00:06:59,560","00:07:02,440",419.56,422.44,2.8799999999999955,die mehr Flexibilität schaffen.
+118,"00:07:02,560","00:07:07,600",422.56,427.6,5.0400000000000205,Solche Modelle sind sinnvoll.
+119,"00:07:07,680","00:07:10,680",427.68,430.68,3.0,"In Belgien ist das kein großer Erfolg,"
+120,"00:07:10,760","00:07:14,440",430.76,434.44,3.680000000000007,die Leute nehmen das nicht wirklich an.
+121,"00:07:14,520","00:07:17,640",434.52,437.64,3.1200000000000045,Die Arbeit die man sonst in fünf Tagen erledigt
+122,"00:07:17,720","00:07:22,560",437.72,442.56,4.839999999999975,man in vier Tagen machen.
+123,"00:07:22,640","00:07:25,960",442.64,445.96,3.319999999999993,"Ich glaube nicht, dass das die einzige Lösung ist,"
+124,"00:07:26,080","00:07:30,440",446.08,450.44,4.360000000000014,"wir haben heute die Situation, Im Rahmen der persönlichen Freiheit"
+125,"00:07:30,560","00:07:34,760",450.56,454.76,4.199999999999989,"möglich ist weniger zu arbeiten, aber im Rahmen der persönlichen"
+126,"00:07:34,880","00:07:38,360",454.88,458.36,3.480000000000018,Freiheit oft nicht möglich oder nicht nur nennenswert
+127,"00:07:38,440","00:07:42,080",458.44,462.08,3.6399999999999864,"mehr zu arbeiten, deshalb haben wir Vorschläge gemacht,"
+128,"00:07:42,160","00:07:46,280",462.15999999999997,466.28,4.1200000000000045,"fast Steuerfreiheit für Überstunden von Vollzeitbeschäftigung,"
+129,"00:07:46,400","00:07:50,480",466.4,470.48,4.080000000000041,aktiv Rente von Menschen dem Alter noch dazu verdienen wollen.
+130,"00:07:50,600","00:07:52,480",470.6,472.48,1.8799999999999955,"Das würde ich mir wünschen,"
+131,"00:07:52,600","00:07:56,080",472.6,476.08,3.4799999999999613,"mehr Flexibilität und einen lohnendes Bild von Arbeit,"
+132,"00:07:56,200","00:08:03,200",476.2,483.2,7.0,Arbeit ist sinnstiftend und nicht nur belasten.
+133,"00:08:06,280","00:08:10,440",486.28,490.44,4.160000000000025,"Frau Stolla sagt, ""wofür soll ich mich in dieser kaputten Welt"
+134,"00:08:10,560","00:08:13,720",490.56,493.72,3.160000000000025,"kaputt arbeiten, wenn ich nicht mal die Aussicht"
+135,"00:08:13,840","00:08:15,520",493.84,495.52,1.6800000000000068,"auf eine gute sichere Rente habe""?"
+136,"00:08:15,520","00:08:19,520",495.52,499.52,4.0,KS: ich will auf das Argument mit den Überstunden eingehen.
+137,"00:08:19,560","00:08:27,640",499.56,507.64,8.079999999999984,"Ich finde es spannend, dass Sie es in den Vordergrund stellen."
+138,"00:08:27,640","00:08:31,320",507.64,511.32,3.680000000000007,Es werden unfassbar viele Überstunden gemacht.
+139,"00:08:31,360","00:08:34,360",511.36,514.36,3.0,Mehr als die Hälfte werden nicht bezahlt.
+140,"00:08:34,400","00:08:37,840",514.4,517.84,3.4400000000000546,"Anstatt, dass man Ideen in den Raum wirft, wie man noch mehr Überstunden"
+141,"00:08:38,320","00:08:42,200",518.32,522.2,3.8799999999999955,"und Flexibilisierung machen kann, die Toren öffnet, würde ich mir"
+142,"00:08:42,240","00:08:46,120",522.24,526.12,3.8799999999999955,"wünschen, Ideen, wie man die Überstunden drosseln kann. In"
+143,"00:08:46,200","00:08:50,080",526.2,530.08,3.8799999999999955,Frankreich ist das passiert. Da gab es eine Steuerregelung
+144,"00:08:50,120","00:08:53,920",530.12,533.92,3.7999999999999545,"für Überstunden. Es gab nicht ein höheres Arbeitsvolumen,"
+145,"00:08:54,000","00:08:57,320",534.0,537.32,3.32000000000005,dass es die Überstundenmöglichkeit gab.
+146,"00:08:57,360","00:09:00,120",537.36,540.12,2.759999999999991,Der Vorschlag entbehrt jeglicher Evidenz.
+147,"00:09:00,200","00:09:02,520",540.2,542.52,2.3199999999999363,"Überstunden würden eher dazu führen,"
+148,"00:09:02,560","00:09:06,640",542.56,546.64,4.080000000000041,"dass vielleicht diejenigen in der Familie, die mehr arbeiten,"
+149,"00:09:06,720","00:09:08,720",546.72,548.72,2.0,"meistens sind es die Männer,"
+150,"00:09:08,800","00:09:12,800",548.8,552.8,4.0,"noch weniger Zeit haben, sich um Kinder und Haushalt zu kümmern."
+151,"00:09:13,280","00:09:16,880",553.28,556.88,3.6000000000000227,"Das trägt dazu bei, dass die gleichberechtigte Gesellschaft immer"
+152,"00:09:16,920","00:09:19,040",556.92,559.04,2.1200000000000045,weiter in die Ferne rückt.
+153,"00:09:19,600","00:09:24,680",559.6,564.68,5.079999999999927,Dieses Thema der Überstunden ganz kurz.
+154,"00:09:24,760","00:09:28,000",564.76,568.0,3.240000000000009,Es gibt einen Zusammenhang zwischen Produktivität
+155,"00:09:28,080","00:09:32,480",568.08,572.48,4.399999999999977,"die wir in unserem Land brauchen und es ist ein schlechter Zustand,"
+156,"00:09:32,600","00:09:36,560",572.6,576.56,3.9599999999999227,dass viele Menschen im Moment im Gegensatz zu ihrem Hauptjob
+157,"00:09:36,680","00:09:39,760",576.68,579.76,3.080000000000041,"noch einen 520 Euro Job irgendwo anders machen,"
+158,"00:09:39,880","00:09:43,040",579.88,583.04,3.159999999999968,"muss sie sagen, den gibt es wenigsten steuerfrei"
+159,"00:09:43,200","00:09:46,800",583.2,586.8,3.599999999999909,anstatt die Produktivität in ihrem Hauptjob zu erhöhen.
+160,"00:09:46,960","00:09:50,880",586.96,590.88,3.919999999999959,Das ist ein wichtiger Punkt und wissenschaftlich alles andere
+161,"00:09:51,000","00:09:55,000",591.0,595.0,4.0,"als nicht evidenzbasiert, wir haben es mit vielen Volkswirten"
+162,"00:09:55,120","00:09:58,560",595.12,598.56,3.439999999999941,"und auch juristisch ausdifferenziert und ich glaube,"
+163,"00:09:58,640","00:10:00,560",598.64,600.56,1.919999999999959,das ist ein gutes Modell.
+164,"00:10:00,680","00:10:08,840",600.68,608.84,8.160000000000082,"Wir fahren viel Zuspruch Leute sagen, sie wollen mehr arbeiten."
+165,"00:10:09,640","00:10:13,640",609.64,613.64,4.0,"Die Zukunft der Arbeit, auch ihnen geht es um Deutschland,"
+166,"00:10:13,720","00:10:16,600",613.72,616.6,2.8799999999999955,Frau Stolla geht es auch um Gesundheit.
+167,"00:10:16,680","00:10:20,400",616.68,620.4,3.7200000000000273,"Meine Frage wäre, wenn man im Unternehmen rein hört,"
+168,"00:10:20,520","00:10:24,560",620.52,624.56,4.039999999999964,"wenn man jemandem wie Robert Habeck zuhört,"
+169,"00:10:24,680","00:10:29,880",624.68,629.88,5.2000000000000455,"der sagt, im Moment wird zu viel für immer weniger Arbeit geworden."
+170,"00:10:29,960","00:10:32,720",629.96,632.72,2.759999999999991,Das können wir uns im Moment nicht leisten.
+171,"00:10:32,840","00:10:37,240",632.84,637.24,4.399999999999977,Das geht diametral gegen sie.
+172,"00:10:37,320","00:10:42,240",637.32,642.24,4.919999999999959,"Eigene Partei und wenn man mit diesen Leuten spricht,"
+173,"00:10:42,320","00:10:46,800",642.32,646.8,4.4799999999999045,"dann sagen die, die größte Bedrohung für diesen deutschen Wohlstand"
+174,"00:10:46,920","00:10:50,160",646.92,650.16,3.240000000000009,"ist genau das, Fachkräftemangel, bzw. die Tatsache,"
+175,"00:10:50,280","00:10:52,520",650.28,652.52,2.240000000000009,dass immer weniger gearbeitet wird.
+176,"00:10:52,600","00:10:54,560",652.6,654.56,1.9599999999999227,Dazu eine Meldung.
+177,"00:10:54,640","00:11:00,120",654.64,660.12,5.480000000000018,"Deutschland hat einen neuen Rekord erreicht,"
+178,"00:11:00,240","00:11:04,160",660.24,664.16,3.919999999999959,mit Ausnahme des ersten Pandemiejahres
+179,"00:11:04,280","00:11:09,880",664.28,669.88,5.600000000000023,haben die deutschen seit 50 Jahren noch nie so wenig gearbeitet
+180,"00:11:09,960","00:11:15,880",669.96,675.88,5.919999999999959,wie im vergangenen Jahr.
+181,"00:11:17,040","00:11:20,360",677.04,680.36,3.32000000000005,Durchschnittliche Jahres Erwerbszeit 1342 Stunden.
+182,"00:11:20,480","00:11:23,760",680.48,683.76,3.2799999999999727,Und sie sagen wir arbeiten zu viel?
+183,"00:11:23,760","00:11:30,560",683.76,690.56,6.7999999999999545,"KS: Das gesamte Arbeitsvolumen,"
+184,"00:11:30,560","00:11:32,800",690.56,692.8,2.240000000000009,"da sind neue Zahlen rausgekommen,"
+185,"00:11:32,840","00:11:39,720",692.84,699.72,6.8799999999999955,das liegt bei 55 Milliarden Stunden im Jahr.
+186,"00:11:39,880","00:11:42,680",699.88,702.68,2.7999999999999545,Die wöchentliche Arbeitszeit geht zurück.
+187,"00:11:42,760","00:11:47,040",702.76,707.04,4.279999999999973,"Das liegt daran, dass viele sagen, ich kann nicht 40 Stunden arbeiten."
+188,"00:11:47,120","00:11:50,800",707.12,710.8,3.67999999999995,"Es ist ein Zustand, wo ich hohem Druck ausgelastet bin, das"
+189,"00:11:50,840","00:11:53,000",710.84,713.0,2.159999999999968,kann ich nicht leisten.
+190,"00:11:55,600","00:11:59,400",715.6,719.4,3.7999999999999545,"Aber ihnen ist klar, dass wir im Kreise der OECD-Staaten"
+191,"00:11:59,480","00:12:01,560",719.48,721.56,2.0799999999999272,damit das Schlusslicht sind.
+192,"00:12:01,560","00:12:05,720",721.56,725.72,4.160000000000082,"Die OECD Studie entspannen, weil sie hat es untersucht."
+193,"00:12:05,720","00:12:08,160",725.72,728.16,2.439999999999941,"Was die OECD selber gesagt hat,"
+194,"00:12:08,200","00:12:11,800",728.2,731.8,3.599999999999909,"die Studie ist nicht geeignet für den Ländervergleich,"
+195,"00:12:11,880","00:12:15,560",731.88,735.56,3.67999999999995,"wenn sie diejenigen ausschließt, die gar nicht arbeiten."
+196,"00:12:15,600","00:12:17,560",735.6,737.56,1.9599999999999227,"Frauen, die Teilzeit arbeiten,"
+197,"00:12:17,640","00:12:21,080",737.64,741.08,3.4400000000000546,"die werden mit rein gerechnet. In einem anderen Land,"
+198,"00:12:21,160","00:12:25,600",741.16,745.6,4.440000000000055,"Menschen, die gar nicht arbeiten, die werden gar nicht eingerechnet."
+199,"00:12:25,680","00:12:28,160",745.68,748.16,2.480000000000018,Es ist nicht geeignet für den Ländervergleich.
+200,"00:12:32,960","00:12:37,560",752.96,757.56,4.599999999999909,"Faktisch ist es so, dass wir seit 50 Jahren"
+201,"00:12:37,680","00:12:41,000",757.68,761.0,3.32000000000005,nicht so wenig gearbeitet haben wie im vergangenen Jahr.
+202,"00:12:41,000","00:12:44,320",761.0,764.32,3.32000000000005,"Das Arbeitsvolumen steigt, das zeigen die Zahlen."
+203,"00:12:44,400","00:12:50,200",764.4,770.2,5.800000000000068,Wie steigert man wieder die Produktivität?
+204,"00:12:50,200","00:12:54,360",770.2,774.36,4.159999999999968,"Wird es das, wo viele sagen, der Wirtschaft geht es nicht gut,"
+205,"00:12:54,400","00:12:56,880",774.4,776.88,2.480000000000018,sie müssen die Produktivität steigen.
+206,"00:12:56,960","00:12:59,520",776.96,779.52,2.5599999999999454,Das ist ein richtiger Gedanke.
+207,"00:12:59,560","00:13:03,240",779.56,783.24,3.6800000000000637,"Wenn man sich anschaut, was die Produktivität steigert,"
+208,"00:13:03,320","00:13:06,800",783.32,786.8,3.4799999999999045,dann sind sind das bessere Arbeitsbedingungen.
+209,"00:13:06,840","00:13:09,920",786.84,789.92,3.0799999999999272,Dazu zählt auch die Reduktion der Arbeitszeit.
+210,"00:13:10,000","00:13:13,520",790.0,793.52,3.519999999999982,"Wo es Modellversuche gab, die Arbeiter zu reduzieren,"
+211,"00:13:13,600","00:13:15,520",793.6,795.52,1.919999999999959,"da sieht man,"
+212,"00:13:15,600","00:13:17,520",795.6,797.52,1.919999999999959,"dass man seltener krank ist,"
+213,"00:13:17,600","00:13:20,520",797.6,800.52,2.919999999999959,dass man unter einem geringeren Stress steht
+214,"00:13:20,600","00:13:22,520",800.6,802.52,1.919999999999959,und die Produktivität erhöht.
+215,"00:13:22,600","00:13:24,840",802.6,804.84,2.240000000000009,Wenn man nach 10 Stunden
+216,"00:13:24,920","00:13:28,440",804.92,808.44,3.5200000000000955,"noch am PC sitzt, kommt selten ein kluger Gedanke rum."
+217,"00:13:28,520","00:13:31,920",808.52,811.92,3.3999999999999773,Eine Reduzierung der Arbeitszeit
+218,"00:13:31,960","00:13:34,120",811.96,814.12,2.159999999999968,führt zu einer höheren Produktivität.
+219,"00:13:34,520","00:13:38,560",814.52,818.56,4.039999999999964,"Sie würden sagen, sie schaffen in 30 Stunden mehr als in 40?"
+220,"00:13:38,560","00:13:43,480",818.56,823.48,4.920000000000073,"Das sage ich nicht, das hängt von der Branche ab."
+221,"00:13:43,480","00:13:47,480",823.48,827.48,4.0,"Es gibt Branchen,"
+222,"00:13:47,520","00:13:51,680",827.52,831.68,4.159999999999968,da gibt es ein höheres Potenzial zur Produktivitätssteigerung.
+223,"00:13:51,720","00:13:54,520",831.72,834.52,2.7999999999999545,"Was man sieht, dass überall Potenzial nach"
+224,"00:13:54,600","00:13:56,800",834.6,836.8,2.199999999999932,oben ist.
+225,"00:13:56,880","00:13:59,600",836.88,839.6,2.7200000000000273,"Jetzt ist die Frage, was würde passieren,"
+226,"00:13:59,680","00:14:01,760",839.68,841.76,2.080000000000041,wenn man die Arbeitszeit reduziert.
+227,"00:14:03,600","00:14:06,600",843.6,846.6,3.0,Sie haben gesagt 40 Stundenwoche ist unfeministisch.
+228,"00:14:06,600","00:14:12,440",846.6,852.44,5.840000000000032,"Was bei einer 40 Stundenwoche passiert,"
+229,"00:14:12,440","00:14:16,880",852.44,856.88,4.439999999999941,"dass es uns einleuchtend, wenn wir 40 Stunden arbeiten, um Haushalt"
+230,"00:14:16,920","00:14:19,240",856.92,859.24,2.32000000000005,"und Kinder und eine Familie kümmern,"
+231,"00:14:19,320","00:14:26,440",859.32,866.44,7.1200000000000045,"dann ist es nahezu nicht möglich. Ich kenne viele Mütter, die sagen,"
+232,"00:14:26,520","00:14:29,760",866.52,869.76,3.240000000000009,"es ist eine Belastung, dass ist nicht zu stellen."
+233,"00:14:29,840","00:14:32,840",869.84,872.84,3.0,Deswegen reduzieren viele Frauen auf Teilzeit
+234,"00:14:32,880","00:14:37,040",872.88,877.04,4.159999999999968,"und trotzdem gibt es Potenzial, was ungenutzt ist, dass Frauen"
+235,"00:14:37,120","00:14:39,240",877.12,879.24,2.1200000000000045,in Teilzeit oder gar nicht arbeiten.
+236,"00:14:39,640","00:14:42,520",879.64,882.52,2.8799999999999955,Worauf wollen Sie hinaus?
+237,"00:14:42,520","00:14:48,840",882.52,888.84,6.32000000000005,Die Arbeit könnte bei einer 30 Stundenwoche mehr geteilt werden.
+238,"00:14:48,840","00:14:52,960",888.84,892.96,4.1200000000000045,"Beispiel wir arbeiten vier Tage, Mann und Frau."
+239,"00:14:52,960","00:15:00,720",892.96,900.72,7.759999999999991,"Man arbeitet vier Tage,"
+240,"00:15:00,720","00:15:05,160",900.72,905.16,4.439999999999941,"d. h. man hat mir Zeit, sich um die ganze Sorge Arbeit zu kümmern."
+241,"00:15:05,240","00:15:09,560",905.24,909.56,4.319999999999936,"Das kann dazu führen, dass die Frau aufstocken kann. Es ist nicht"
+242,"00:15:09,640","00:15:13,840",909.64,913.84,4.2000000000000455,"gesagt, dass man in einer riesigen Skala Arbeitskraft oder Zeit"
+243,"00:15:13,920","00:15:17,560",913.92,917.56,3.6399999999999864,"verloren geht, wenn man mit so etwas dafür sorgen kann,"
+244,"00:15:17,640","00:15:20,480",917.64,920.48,2.840000000000032,desto mehr Frauen in den Arbeitsmarkt kriegt.
+245,"00:15:20,560","00:15:23,360",920.56,923.36,2.800000000000068,"Das ist eine der entscheidenden Maßnahmen,"
+246,"00:15:23,440","00:15:26,240",923.44,926.24,2.7999999999999545,wenn man über den Fachkräftemangel spricht.
+247,"00:15:26,320","00:15:28,760",926.32,928.76,2.439999999999941,"Ich weiß nicht wie oft, Sie mit Leuten"
+248,"00:15:28,840","00:15:32,040",928.84,932.04,3.199999999999932,"aus dem Sozialbereich sprechen, Lehrer, Erzieher,"
+249,"00:15:32,120","00:15:35,320",932.12,935.32,3.2000000000000455,"die nicht meiner Generation sind sondern Eltern,"
+250,"00:15:35,400","00:15:38,080",935.4,938.08,2.6800000000000637,dass es eine enorme Arbeitsbelastung ist.
+251,"00:15:38,160","00:15:40,680",938.16,940.68,2.519999999999982,Im Lehrerberuf reduzieren viele auf Teilzeit.
+252,"00:15:44,560","00:15:46,760",944.56,946.76,2.2000000000000455,Aber da fehlen uns doch die Leute.
+253,"00:15:46,760","00:15:50,280",946.76,950.28,3.519999999999982,"Das löst man nicht, indem man die Arbeitszeit anhebt."
+254,"00:15:50,360","00:15:53,920",950.36,953.92,3.5599999999999454,"Das löst man, in der man bessere Arbeitsbedingungen schafft."
+255,"00:15:53,920","00:15:59,920",953.92,959.92,6.0,Woher kommen diese Leute dann?
+256,"00:16:02,920","00:16:10,240",962.92,970.24,7.32000000000005,"In der Pflege es ist ein Riesen Pain zu arbeiten,"
+257,"00:16:10,480","00:16:12,880",970.48,972.88,2.3999999999999773,da muss man Nacht-Schichten machen.
+258,"00:16:12,960","00:16:16,280",972.96,976.28,3.3199999999999363,"Und man kann nicht mehr für die Patienten da sein,"
+259,"00:16:16,360","00:16:18,280",976.36,978.28,1.919999999999959,wenn man fertig ist.
+260,"00:16:18,360","00:16:20,880",978.36,980.88,2.519999999999982,Darunter möchten viele nicht arbeiten.
+261,"00:16:20,960","00:16:25,000",980.96,985.0,4.039999999999964,"300.000 würden zurückkommen, wenn sich die Arbeitsbedingungen"
+262,"00:16:25,120","00:16:27,880",985.12,987.88,2.759999999999991,verbessern.
+263,"00:16:27,960","00:16:30,400",987.96,990.4,2.439999999999941,"Wir haben eine Arbeitszeitverkürzung,"
+264,"00:16:30,480","00:16:33,880",990.48,993.88,3.3999999999999773,"die dazu beitragen,"
+265,"00:16:33,960","00:16:37,200",993.96,997.2,3.240000000000009,dass der Stress sinkt und die Krankheitszhlen runtergehen.
+266,"00:16:46,720","00:16:49,560",1006.72,1009.56,2.839999999999918,"Sie sagen Lehrer, Sozialarbeiter, Lehrer."
+267,"00:16:49,640","00:16:53,560",1009.64,1013.56,3.919999999999959,"Sie sagen, da geht man rein will sie alle überfordert sind."
+268,"00:16:53,680","00:16:56,200",1013.68,1016.2,2.5200000000000955,"Jetzt reduzieren wir diese Arbeitszeit,"
+269,"00:16:56,320","00:16:58,640",1016.32,1018.64,2.3199999999999363,d. h. es fehlen noch mehr Menschen.
+270,"00:16:58,720","00:17:00,560",1018.72,1020.56,1.8399999999999181,Woher kommen die?
+271,"00:17:00,560","00:17:02,520",1020.56,1022.52,1.9600000000000364,Man braucht mehr Personal.
+272,"00:17:02,600","00:17:06,080",1022.6,1026.08,3.4799999999999045,"Zum einen, weil die Arbeitsbedingungen besser sind,"
+273,"00:17:06,080","00:17:10,640",1026.08,1030.64,4.560000000000173,viele Menschen würden zurückkommen.
+274,"00:17:10,720","00:17:14,160",1030.72,1034.16,3.4400000000000546,"Das sind Menschen, die zum Beispiel reduziert haben,"
+275,"00:17:14,240","00:17:18,040",1034.24,1038.04,3.7999999999999545,"die aussätzige rausgegangen sind, weil es für sie eine zu"
+276,"00:17:18,120","00:17:20,200",1038.12,1040.2,2.0800000000001546,große Belastung ist.
+277,"00:17:21,800","00:17:24,720",1041.8,1044.72,2.9200000000000728,"Die demographische Situation in Deutschland,"
+278,"00:17:24,800","00:17:27,200",1044.8,1047.2,2.400000000000091,"vielleicht trage ich das mal vor,"
+279,"00:17:27,320","00:17:32,840",1047.32,1052.84,5.519999999999982,im Moment gehen doppelt so viele Menschen in Rente
+280,"00:17:32,920","00:17:35,240",1052.92,1055.24,2.3199999999999363,wie neu auf den Arbeitsmarkt kommen.
+281,"00:17:35,400","00:17:37,240",1055.4,1057.24,1.8399999999999181,Verhältnis zwei zu 1.
+282,"00:17:37,360","00:17:40,520",1057.36,1060.52,3.160000000000082,Woher kommen die Menschen?
+283,"00:17:40,520","00:17:43,240",1060.52,1063.24,2.7200000000000273,Das habe ich eben auch schon ausgeführt.
+284,"00:17:43,360","00:17:45,640",1063.36,1065.64,2.2800000000002,"Es gibt ein inländisches Potenzial,"
+285,"00:17:45,720","00:17:47,960",1065.72,1067.96,2.240000000000009,was der Frauen Erwerbstätigkeit liegt.
+286,"00:17:48,040","00:17:51,520",1068.04,1071.52,3.480000000000018,"Wenn man sich die Zahlen der Bundesagentur für Arbeit anschaut,"
+287,"00:17:51,600","00:17:55,200",1071.6,1075.2,3.6000000000001364,"es gebe viele Frauen, wenn man Kitaplätze schaffen würde. Ich weiß"
+288,"00:17:55,320","00:17:57,880",1075.32,1077.88,2.560000000000173,"nicht die gesamte Zeit, aber es gibt ein"
+289,"00:17:57,960","00:18:00,120",1077.96,1080.12,2.1599999999998545,inländisches Arbeitspotenzial...
+290,"00:18:02,440","00:18:06,760",1082.44,1086.76,4.319999999999936,"Da muss man noch eine Idee davon haben wie man das Problem löst,"
+291,"00:18:06,880","00:18:10,000",1086.88,1090.0,3.119999999999891,wie groß ist das Potenzial?
+292,"00:18:10,000","00:18:14,280",1090.0,1094.28,4.279999999999973,"Ich habe gesagt, dass es insgesamt 6 Millionen Menschen umfasst"
+293,"00:18:14,280","00:18:18,400",1094.28,1098.4,4.120000000000118,und es ein großer Teil davon Frauen sind. Die genaue Zahl weiß
+294,"00:18:18,480","00:18:21,520",1098.48,1101.52,3.0399999999999636,ich nicht. Das macht den Braten auch nicht fett.
+295,"00:18:21,600","00:18:23,920",1101.6,1103.92,2.3200000000001637,Wie viel Prozent von den 6 Millionen
+296,"00:18:24,000","00:18:27,200",1104.0,1107.2,3.2000000000000455,"Frauen sind, darum geht es mir."
+297,"00:18:27,320","00:18:31,760",1107.32,1111.76,4.440000000000055,"Wenn man sich nicht darum bemüht, verschiedene Maßnahmen zu treffen,"
+298,"00:18:31,840","00:18:35,960",1111.84,1115.96,4.120000000000118,"um den Fachkräftemangel anzugehen, dann sollte man nicht sagen,"
+299,"00:18:36,040","00:18:39,080",1116.04,1119.08,3.0399999999999636,wir können und eine Arbeitszeitverkürzung nicht leisten.
+300,"00:18:42,040","00:18:44,760",1122.04,1124.76,2.7200000000000273,Das eine hängt mit dem anderen zusammen.
+301,"00:18:44,880","00:18:48,720",1124.88,1128.72,3.839999999999918,"Wenn Sie mehr Frauen in Erwerbstätigkeit bringen,"
+302,"00:18:48,840","00:18:52,400",1128.84,1132.4,3.560000000000173,"dann müssen Sie auf der anderen Seite dafür sorgen,"
+303,"00:18:52,520","00:18:55,280",1132.52,1135.28,2.759999999999991,dass die Kinder dieser Familien versorgt sind.
+304,"00:18:55,400","00:18:58,200",1135.4,1138.2,2.7999999999999545,"Kita und Schulen, bedeutet noch mehr Lehrer,"
+305,"00:18:58,400","00:19:00,200",1138.4,1140.2,1.7999999999999545,mehr Erzieher.
+306,"00:19:00,320","00:19:03,960",1140.32,1143.96,3.6400000000001,Die müssen ausgebildet werden.
+307,"00:19:04,080","00:19:11,960",1144.08,1151.96,7.880000000000109,"Sie brauchen Bauarbeiter, um die Kitas und Schulen zu bauen."
+308,"00:19:13,920","00:19:17,760",1153.92,1157.76,3.839999999999918,"Sie sagen, das kann man alles so lösen?"
+309,"00:19:17,760","00:19:21,680",1157.76,1161.68,3.9200000000000728,"KS: Ich sage nicht, dass man im vollen Umfang das Problem"
+310,"00:19:21,680","00:19:25,200",1161.68,1165.2,3.519999999999982,"einfach ermittelt, wenn man mehr Liegeplätze schafft."
+311,"00:19:25,280","00:19:28,600",1165.28,1168.6,3.3199999999999363,"Aber es ist scheinheilig, wenn man sagt, auch eine"
+312,"00:19:28,680","00:19:30,840",1168.68,1170.84,2.1599999999998545,Erhöhung der Arbeitszeit.
+313,"00:19:44,960","00:19:48,240",1184.96,1188.24,3.2799999999999727,"PA: Ich bin wirklich brav erstaunt,"
+314,"00:19:48,360","00:19:52,200",1188.36,1192.2,3.8400000000001455,"nichts auf mich auf mit den Grünen im Deutschen Bundestag,"
+315,"00:19:52,280","00:19:56,120",1192.28,1196.12,3.839999999999918,manches was ich ablehne erscheint mir im Vergleich Vortrag
+316,"00:19:56,240","00:19:59,160",1196.24,1199.16,2.9200000000000728,realitätsnah zu sein.
+317,"00:19:59,240","00:20:03,400",1199.24,1203.4,4.160000000000082,"Ist eine wünsch dir was Vorstellung, wenn man glaubt Deutschland"
+318,"00:20:03,520","00:20:09,400",1203.52,1209.4,5.880000000000109,könnte Volk Wirtschaft besser
+319,"00:20:11,520","00:20:14,400",1211.52,1214.4,2.880000000000109,dastehen in dem wir weniger arbeiten.
+320,"00:20:14,520","00:20:18,400",1214.52,1218.4,3.880000000000109,Man würde das Fachkräfteproblem in Deutschland lösen
+321,"00:20:18,480","00:20:22,400",1218.48,1222.4,3.9200000000000728,"in dem wir weniger arbeiten, das sind absurde Vorstellungen."
+322,"00:20:22,480","00:20:27,040",1222.48,1227.04,4.559999999999945,"Das ist ein Zerrbild von Arbeit und von der sinnstiftend in Funktion,"
+323,"00:20:27,160","00:20:29,040",1227.16,1229.04,1.8799999999998818,die aber doch arbeiten kann.
+324,"00:20:29,160","00:20:34,280",1229.16,1234.28,5.119999999999891,"Wenn man sagt, dass Arbeit das abgrundtief böse ist."
+325,"00:20:34,360","00:20:37,120",1234.36,1237.12,2.759999999999991,"Wenn wir sagen, dass dem stillos Freizeit,"
+326,"00:20:37,280","00:20:41,560",1237.28,1241.56,4.279999999999973,"das von Arbeit unterbrochen wird, sind wir auf der falschen Bahn."
+327,"00:20:41,640","00:20:45,920",1241.64,1245.92,4.279999999999973,"Die Kritik, die intergenerationell geübt wird, mit der Einstellung"
+328,"00:20:46,080","00:20:50,400",1246.08,1250.4,4.320000000000164,"zur Arbeit, wenn die in den letzten Jahrzehnten der Bundesrepublik"
+329,"00:20:50,520","00:20:54,720",1250.52,1254.72,4.2000000000000455,"bestimmend gewesen wäre, wären wir heute nicht in der Situation,"
+330,"00:20:54,840","00:20:58,720",1254.84,1258.72,3.880000000000109,"in der wir sind, dass wir heute an jungen Generation haben,"
+331,"00:20:58,840","00:21:02,600",1258.84,1262.6,3.759999999999991,"die vor allem, bei allen Schwierigkeiten die es auch gibt,"
+332,"00:21:02,720","00:21:06,720",1262.72,1266.72,4.0,große Chancen hat Waggons über die volkswirtschaftliche Kraft
+333,"00:21:06,840","00:21:10,560",1266.84,1270.56,3.7200000000000273,"Deutschlands schaffen konnten eine vernünftige Bildungsinfrastruktur,"
+334,"00:21:10,680","00:21:13,840",1270.68,1273.84,3.1599999999998545,akademische Infrastruktur in dem Land zu schaffen. Ist das
+335,"00:21:13,960","00:21:15,960",1273.96,1275.96,2.0,"für Sie eine Wohlstandsdebatte,"
+336,"00:21:16,080","00:21:18,920",1276.08,1278.92,2.8400000000001455,die man sich leisten können muss?
+337,"00:21:19,040","00:21:22,480",1279.04,1282.48,3.4400000000000546,Da geht es schon um einen kulturellen Konflikt.
+338,"00:21:22,600","00:21:30,280",1282.6,1290.28,7.680000000000064,"Manches davon ist ehrlicherweise gar nicht so innovativ,"
+339,"00:21:36,200","00:21:40,080",1296.2,1300.08,3.8799999999998818,"dass man sagt das neue Diskussionen, viele Dinge,"
+340,"00:21:40,200","00:21:43,160",1300.2,1303.16,2.9600000000000364,"die von jungen Grünen kommt, ist alter Schnee,"
+341,"00:21:43,280","00:21:46,920",1303.28,1306.92,3.6400000000001,das ist sozusagen Kapitalismuskritik im neuen Schläuchen.
+342,"00:21:47,080","00:21:50,440",1307.08,1310.44,3.3600000000001273,"Das ist ein recyceln, da war ich froh,"
+343,"00:21:50,560","00:21:53,200",1310.56,1313.2,2.6400000000001,dass wir ein Stück weit weiter waren.
+344,"00:21:53,320","00:21:57,800",1313.32,1317.8,4.480000000000018,Deswegen finde ich das vom Zielbild
+345,"00:21:57,920","00:22:02,920",1317.92,1322.92,5.0,für die junge Generation nicht überzeugen.
+346,"00:22:03,040","00:22:05,960",1323.04,1325.96,2.9200000000000728,"Generation Z, das muss nicht für zurücklehnen"
+347,"00:22:06,120","00:22:10,040",1326.12,1330.04,3.9200000000000728,und Überforderung stehen.
+348,"00:22:10,200","00:22:12,840",1330.2,1332.84,2.6399999999998727,"Generation Z, da steht auch für zu packen."
+349,"00:22:13,000","00:22:16,720",1333.0,1336.72,3.7200000000000273,"Wenn ich in Mecklenburg-Vorpommern bei mir unterwegs bin,"
+350,"00:22:16,840","00:22:19,880",1336.84,1339.88,3.040000000000191,"dann sehe ich, dass es eine klare Haltung gibt,"
+351,"00:22:19,960","00:22:24,680",1339.96,1344.68,4.720000000000027,"dass viele junge Leute sagen, gerade wenn sie frisch aus der Schule sind,"
+352,"00:22:24,800","00:22:29,320",1344.8,1349.32,4.519999999999982,"sie wollen arbeiten und sich fleißig dafür einsetzen den Führerschein,"
+353,"00:22:29,440","00:22:33,120",1349.44,1353.12,3.6799999999998363,"das Auto, die Perspektive auf das kleine Einfamilienhaus"
+354,"00:22:33,240","00:22:36,640",1353.24,1356.64,3.400000000000091,"auf dem Land zusammen der Familie, das sind Wünsche,"
+355,"00:22:36,800","00:22:43,400",1356.8,1363.4,6.600000000000136,die man in Deutschland erreichen kann mit Einsatz.
+356,"00:22:43,480","00:22:47,920",1363.48,1367.92,4.440000000000055,"Frau Stolla sagt, viele in meiner Generation sind nicht mehr bereit"
+357,"00:22:48,040","00:22:52,120",1368.04,1372.12,4.079999999999927,so viele Abstriche in ihrem Leben nur für die Arbeit zu machen.
+358,"00:22:52,240","00:22:54,760",1372.24,1374.76,2.519999999999982,"Kultureller Wandel, ersatzlos verändert."
+359,"00:22:54,880","00:22:59,920",1374.88,1379.92,5.039999999999964,"Ist diese Generation für die sie steht,"
+360,"00:23:00,040","00:23:02,160",1380.04,1382.16,2.1200000000001182,"ist sie leistungsbereit,"
+361,"00:23:02,280","00:23:06,080",1382.28,1386.08,3.7999999999999545,"als die fleißig oder ist es in der Generation wo sie sagen,"
+362,"00:23:06,200","00:23:10,240",1386.2,1390.24,4.039999999999964,"ich würde es nicht faul nennen, das finde ich falsch,"
+363,"00:23:10,360","00:23:15,880",1390.36,1395.88,5.520000000000209,"aber eine Generation die sagt, wir schauen da anders drauf,"
+364,"00:23:16,040","00:23:18,680",1396.04,1398.68,2.6400000000001,ja meine andere Perspektive auf das Leben
+365,"00:23:18,800","00:23:24,040",1398.8,1404.04,5.240000000000009,und sind bereit mit den Konsequenzen zu leben?
+366,"00:23:24,160","00:23:26,920",1404.16,1406.92,2.759999999999991,"Oder ist es die Idee wir arbeiten weniger,"
+367,"00:23:27,040","00:23:30,080",1407.04,1410.08,3.0399999999999636,lehnen uns ein bisschen zurück.
+368,"00:23:30,200","00:23:33,400",1410.2,1413.4,3.2000000000000455,"Ich finde dieses Bild sollten wir nicht zeichnen,"
+369,"00:23:33,520","00:23:37,000",1413.52,1417.0,3.480000000000018,nicht dass es so wäre.
+370,"00:23:37,120","00:23:43,840",1417.12,1423.84,6.720000000000027,Generation Forscher haben herausgearbeitet
+371,"00:23:45,760","00:23:50,280",1425.76,1430.28,4.519999999999982,dass man sagt bei dieser Generation Z wird dieses Bild von die Welt
+372,"00:23:50,400","00:23:53,800",1430.4,1433.8,3.3999999999998636,geht unter und warum muss ich trotzdem noch arbeiten
+373,"00:23:53,960","00:23:57,520",1433.96,1437.52,3.5599999999999454,auch zur selbsterfüllenden Prophezeiung man das erzählt.
+374,"00:23:57,640","00:24:02,120",1437.64,1442.12,4.479999999999791,"Arbeit ist nicht alles, der Sinn des Lebens ist mehr und ich bin froh,"
+375,"00:24:02,280","00:24:06,800",1442.28,1446.8,4.519999999999982,"dass die junge Generation auch sagt, wir wollen was im Ehrenamt machen,"
+376,"00:24:06,920","00:24:09,680",1446.92,1449.68,2.759999999999991,"aber das wird zusätzlich das Bild zeichnen,"
+377,"00:24:09,800","00:24:13,680",1449.8,1453.68,3.880000000000109,"dass wir sagen, ein klingendes Leben besteht aus Freizeit,"
+378,"00:24:13,800","00:24:17,080",1453.8,1457.08,3.2799999999999727,"Einsatz für die Republik, Einsatz für die Familie,"
+379,"00:24:17,200","00:24:23,080",1457.2,1463.08,5.879999999999882,aber auch aus Arbeit.
+380,"00:24:24,520","00:24:28,040",1464.52,1468.04,3.519999999999982,"Dieser eine Teil, die Arbeit, die sie gerade nennen,"
+381,"00:24:28,160","00:24:31,600",1468.16,1471.6,3.439999999999827,was sie vielen Stunden besteht die?
+382,"00:24:31,720","00:24:34,920",1471.72,1474.92,3.2000000000000455,"PA: Eine ganz freiheitliche Antwort,"
+383,"00:24:35,040","00:24:41,800",1475.04,1481.8,6.759999999999991,am Ende entscheidet dass der Bürger selbst.
+384,"00:24:41,920","00:24:45,840",1481.92,1485.84,3.9199999999998454,"Ich überspitze es jetzt, natürlich muss klar sein wenn man"
+385,"00:24:45,960","00:24:49,320",1485.96,1489.32,3.3599999999999,"sich im Rahmen seiner Freiheit weniger zu arbeiten,"
+386,"00:24:49,440","00:24:54,120",1489.44,1494.12,4.679999999999836,bedeutet es auch weniger Lohn und weniger Wohlstand.
+387,"00:24:54,280","00:24:58,520",1494.28,1498.52,4.240000000000009,"Der Lohn in Deutschland, das ist doch nichts,"
+388,"00:24:58,680","00:25:01,120",1498.68,1501.12,2.439999999999827,"was ein Politiker festlegt,"
+389,"00:25:01,240","00:25:04,160",1501.24,1504.16,2.9200000000000728,"der steht im Zusammenhang von Produktivität,"
+390,"00:25:04,280","00:25:08,960",1504.28,1508.96,4.680000000000064,"deswegen muss klar sein, mehr Arbeit in der Regel mehr Lohn."
+391,"00:25:09,080","00:25:12,880",1509.08,1512.88,3.800000000000182,"Da gibt's Gerechtigkeitssinn Grenzen, aber klar sein muss,"
+392,"00:25:13,000","00:25:15,760",1513.0,1515.76,2.759999999999991,man kann nicht sagen immer weniger arbeiten
+393,"00:25:15,880","00:25:19,040",1515.88,1519.04,3.1599999999998545,"und immer mehr Lohn, das geht im Schlaraffenland"
+394,"00:25:19,160","00:25:22,040",1519.16,1522.04,2.8799999999998818,aber nicht in der Bundesrepublik Deutschland.
+395,"00:25:22,160","00:25:25,040",1522.16,1525.04,2.8799999999998818,Gehen Sie mit bei dieser Formel?
+396,"00:25:25,160","00:25:28,160",1525.16,1528.16,3.0,Wer mehr arbeitet muss auch mehr verdienen
+397,"00:25:28,320","00:25:36,040",1528.32,1536.04,7.720000000000027,und wenn wir sagen wir einigen uns darauf für Arbeiten weniger machen
+398,"00:25:36,200","00:25:39,720",1536.2,1539.72,3.519999999999982,"die 30 Stundenwoche zum Rahmen in dem wir uns bewegen,"
+399,"00:25:39,840","00:25:41,800",1539.84,1541.8,1.9600000000000364,dann haben wir weniger Geld.
+400,"00:25:41,800","00:25:45,920",1541.8,1545.92,4.120000000000118,"KS: was dahinter steckt ist die Idee, jeder kann reduzieren,"
+401,"00:25:45,920","00:25:50,200",1545.92,1550.2,4.279999999999973,wenn er Lust hat
+402,"00:25:50,320","00:25:53,760",1550.32,1553.76,3.4400000000000546,"und wenn er mehr Zeit für Freizeit und Familie will,"
+403,"00:25:53,840","00:25:57,560",1553.84,1557.56,3.7200000000000273,"dann kann er reduzieren. Ich möchte nicht, dass man sich"
+404,"00:25:57,640","00:26:01,160",1557.64,1561.16,3.519999999999982,"das nur leisten muss. Es gibt Gerechtigkeitsprobleme,"
+405,"00:26:01,240","00:26:03,280",1561.24,1563.28,2.0399999999999636,die man angehen kann.
+406,"00:26:07,080","00:26:10,080",1567.08,1570.08,3.0,"PA: Jetzt kommt wieder der alte Sozialismus,"
+407,"00:26:10,200","00:26:14,200",1570.2,1574.2,4.0,das ist der eigentliche Kern.
+408,"00:26:14,320","00:26:19,000",1574.32,1579.0,4.680000000000064,Da können Sie auch schon in Dekaden vorher von Vorsitzenden Grüne Jugend
+409,"00:26:19,120","00:26:23,400",1579.12,1583.4,4.2800000000002,"gucken es wird immer neu aufgemacht, das ist ein Generationenthema."
+410,"00:26:23,520","00:26:27,600",1583.52,1587.6,4.079999999999927,"Dahinter steht immer, dass man die Idee will mehr umverteilen,"
+411,"00:26:27,720","00:26:30,040",1587.72,1590.04,2.3199999999999363,der Staat steuert alles und irgendwie
+412,"00:26:30,160","00:26:32,840",1590.16,1592.84,2.6799999999998363,ist das Wirtschaftssystem ungerecht.
+413,"00:26:32,840","00:26:36,360",1592.84,1596.36,3.519999999999982,"Würden Sie nicht sagen, dass das Wirtschaftssystem ungerecht ist?"
+414,"00:26:39,320","00:26:42,440",1599.32,1602.44,3.1200000000001182,PA: Ja es gibt Ungerechtigkeiten
+415,"00:26:42,600","00:26:49,040",1602.6,1609.04,6.440000000000055,aber Deutschland ist ein Aufstiegsland.
+416,"00:26:49,640","00:26:54,640",1609.64,1614.64,5.0,Wir haben hier eine formidable Aufsteiger Persönlichkeit
+417,"00:26:54,760","00:27:01,520",1614.76,1621.52,6.759999999999991,"mit Markus Lanz, und auch mein persönlicher Ansporn ist,"
+418,"00:27:01,680","00:27:05,600",1621.68,1625.6,3.9199999999998454,"Aufstieg durch Bildung ist möglich und das ist ein Zielbild,"
+419,"00:27:05,720","00:27:10,040",1625.72,1630.04,4.319999999999936,das mir ein Stück weit zu kurz kommt in unserer Gesellschaft.
+420,"00:27:10,200","00:27:14,240",1630.2,1634.24,4.039999999999964,Wenn wir immer nur das bezeichnen Deutschland
+421,"00:27:14,360","00:27:18,320",1634.36,1638.32,3.9600000000000364,"sei ein völlig ungerechtes Land, Aufstieg ist nicht möglich,"
+422,"00:27:18,440","00:27:20,720",1638.44,1640.72,2.2799999999999727,gibt es keine Anreize zur Leistung.
+423,"00:27:20,840","00:27:23,000",1640.84,1643.0,2.160000000000082,"Wir müssen es nach vorne stellen,"
+424,"00:27:23,080","00:27:25,680",1643.08,1645.68,2.6000000000001364,dass Aufstiegsleistung die tragenden Werte sind.
+425,"00:27:25,680","00:27:31,800",1645.68,1651.8,6.119999999999891,"KS: erzählen Sie das auch den Kindern im Jugendzentrum,"
+426,"00:27:31,800","00:27:35,440",1651.8,1655.44,3.6400000000001,"die in Armut aufwachsen, die mit Hunger ins Bett gehen,"
+427,"00:27:35,520","00:27:37,800",1655.52,1657.8,2.2799999999999727,"die Erzieher fragen, ob noch Essen da ist."
+428,"00:27:43,840","00:27:46,680",1663.84,1666.68,2.8400000000001455,Viele Jahre bin ich Bundestagsabgeordneter
+429,"00:27:46,800","00:27:50,200",1666.8,1670.2,3.400000000000091,für einen Wahlkreis war es auch Situationen gibt
+430,"00:27:50,360","00:27:55,000",1670.36,1675.0,4.6400000000001,"mit einem großen Niedriglohnsektor, großen Perspektiven aber schwierigen"
+431,"00:27:55,120","00:27:59,760",1675.12,1679.76,4.6400000000001,"sozialen Verhältnissen, ich bin auch in sozialen Brennpunkten unterwegs."
+432,"00:27:59,880","00:28:02,120",1679.88,1682.12,2.2399999999997817,"Und ich bin froh, dass wir dort einen starken"
+433,"00:28:02,280","00:28:04,720",1682.28,1684.72,2.4400000000000546,"und faszinierenden Sozialstaat haben, der von den"
+434,"00:28:04,840","00:28:09,160",1684.84,1689.16,4.320000000000164,Leistungsträgern in diesem Land finanziert wird.
+435,"00:28:09,320","00:28:16,440",1689.32,1696.44,7.120000000000118,"Wir haben ein Steuer finanzierten Sozialstaat, der es vielen Kindern"
+436,"00:28:16,560","00:28:23,680",1696.56,1703.68,7.120000000000118,in sozial schwierigen Verhältnissen möglich macht unterstützt zu werden.
+437,"00:28:23,800","00:28:28,000",1703.8,1708.0,4.2000000000000455,"Zur finanziellen Unterstützung will ich auch eine kultur vorleben,"
+438,"00:28:28,160","00:28:32,280",1708.16,1712.28,4.119999999999891,"in der man sagt, es ist egal woher du kommst, sondern es zählt,"
+439,"00:28:32,440","00:28:34,280",1712.44,1714.28,1.8399999999999181,was du daraus machst.
+440,"00:28:34,400","00:28:36,280",1714.4,1716.28,1.8799999999998818,Deshalb müsse für die Kinder
+441,"00:28:36,440","00:28:39,480",1716.44,1719.48,3.0399999999999636,einen starken Sozialstaat zur Verfügung stellen
+442,"00:28:39,600","00:28:43,680",1719.6,1723.68,4.080000000000155,"und eine Aufstiegserzählung und eine Bildungsempfehlung geben,"
+443,"00:28:43,800","00:28:47,080",1723.8,1727.08,3.2799999999999727,die in Deutschland durch ein negatives Bild so oft
+444,"00:28:47,200","00:28:49,080",1727.2,1729.08,1.8799999999998818,in eine falsche Richtung gezogen wird.
+445,"00:28:49,080","00:28:52,200",1729.08,1732.2,3.1200000000001182,"KS: dann können Sie den Kindern viel erzählen,"
+446,"00:28:52,280","00:29:01,920",1732.28,1741.92,9.6400000000001,weil das Aufstiegsversprechen unwahrscheinlich ist.
+447,"00:29:01,920","00:29:04,880",1741.92,1744.88,2.9600000000000364,"Wer fleißig ist, kann alles schaffen. Das stimmt nicht."
+448,"00:29:05,840","00:29:09,360",1745.84,1749.36,3.519999999999982,"Diese Weltuntergangsstimmung, die da verbreitet wird,"
+449,"00:29:09,480","00:29:12,760",1749.48,1752.76,3.2799999999999727,die Grünen haben doch sonst immer so tolle Launen.
+450,"00:29:12,880","00:29:14,720",1752.88,1754.72,1.8399999999999181,"Deshalb verstehe ich nicht,"
+451,"00:29:14,920","00:29:17,840",1754.92,1757.84,2.9199999999998454,warum soll Weltuntergangsstimmung verbreitet wird.
+452,"00:29:17,840","00:29:20,000",1757.84,1760.0,2.160000000000082,Wir sind realistisch an der Stelle.
+453,"00:29:23,880","00:29:29,840",1763.88,1769.84,5.959999999999809,Unser Land war 49 am Ende...
+454,"00:29:31,600","00:29:37,200",1771.6,1777.2,5.600000000000136,"Ihre eigene Geschichte, wie geht die?"
+455,"00:29:37,320","00:29:41,000",1777.32,1781.0,3.6800000000000637,Meine Mutter hat wie viele in den großen Schwierigkeiten
+456,"00:29:41,200","00:29:45,920",1781.2,1785.92,4.720000000000027,"der Wendejahre ihren Job verloren 1990,"
+457,"00:29:46,080","00:29:50,760",1786.08,1790.76,4.680000000000064,"hat viele Jahre Jobs wechseln müssen, Alleinerziehend,"
+458,"00:29:50,920","00:29:54,720",1790.92,1794.72,3.7999999999999545,Perioden von Arbeitslosigkeit.
+459,"00:29:54,880","00:30:00,440",1794.88,1800.44,5.559999999999945,"Ich argumentiere ungern aus meiner persönlichen Perspektive,"
+460,"00:30:00,600","00:30:04,800",1800.6,1804.8,4.2000000000000455,heute mach ich es mal.
+461,"00:30:04,960","00:30:10,800",1804.96,1810.8,5.839999999999918,"Ich weiß es zu schätzen, dass sie die Tür einen Spalt aufmachen."
+462,"00:30:10,960","00:30:13,960",1810.96,1813.96,3.0,"Am Ende zählt es nicht zuerst woher du kommst,"
+463,"00:30:14,120","00:30:18,480",1814.12,1818.48,4.360000000000127,"sondern wenn man fleißig ist, dann kann man Aufstieg möglich machen."
+464,"00:30:18,640","00:30:22,040",1818.64,1822.04,3.3999999999998636,Das ist das was in Deutschland geht und funktioniert
+465,"00:30:22,200","00:30:24,720",1822.2,1824.72,2.519999999999982,unter welcher vielen ein Vorbild geben.
+466,"00:30:24,880","00:30:30,600",1824.88,1830.6,5.7199999999998,"Es läuft uns die Zeit davon,"
+467,"00:30:30,720","00:30:34,320",1830.72,1834.32,3.599999999999909,mich würde die Gegenrede von Frau Stolla interessieren.
+468,"00:30:34,440","00:30:36,520",1834.44,1836.52,2.0799999999999272,"Sie hat vorn die Frage gestellt,"
+469,"00:30:36,680","00:30:41,480",1836.68,1841.48,4.7999999999999545,weil wer sind denn die Leistungsträger in diesem Land.
+470,"00:30:41,600","00:30:44,120",1841.6,1844.12,2.519999999999982,Das zweite war das Aufstiegsversprechen
+471,"00:30:44,280","00:30:48,040",1844.28,1848.04,3.759999999999991,funktioniert nicht mehr.
+472,"00:30:48,200","00:30:52,480",1848.2,1852.48,4.279999999999973,Das ist ein Vorwurf der in Richtung der bösen Boomer häufig kommt
+473,"00:30:52,600","00:30:56,800",1852.6,1856.8,4.2000000000000455,"und sagt, er hatte damals eine andere Situation, aber er wusste,"
+474,"00:30:56,920","00:31:00,520",1856.92,1860.52,3.599999999999909,tendenziell ist es morgen ein bisschen besser als heute.
+475,"00:31:00,680","00:31:04,200",1860.68,1864.2,3.519999999999982,"Sie sagen, dieses Versprechen funktioniert nicht mehr."
+476,"00:31:04,320","00:31:07,360",1864.32,1867.36,3.0399999999999636,Würden Sie sagen das gilt auch für dieses Land nicht mehr?
+477,"00:31:07,360","00:31:11,120",1867.36,1871.12,3.759999999999991,"KS: ich freue mich, dass Sie an das Märchen glauben."
+478,"00:31:11,200","00:31:20,760",1871.2,1880.76,9.559999999999945,Es geht nicht um Ihre persönliche Geschichte.
+479,"00:31:20,760","00:31:23,640",1880.76,1883.64,2.880000000000109,Wie geht ihre persönliche Geschichte?
+480,"00:31:23,640","00:31:26,080",1883.64,1886.08,2.439999999999827,Ich habe Abi gemacht. Sie können das fragen.
+481,"00:31:41,160","00:31:44,800",1901.16,1904.8,3.6399999999998727,Aber sie kommen nicht oder im Leben mit viel Wohlstand?
+482,"00:31:44,960","00:31:47,360",1904.96,1907.36,2.3999999999998636,Aber sie sind jemand der den Aufstieg geschafft hat?
+483,"00:31:47,360","00:31:50,520",1907.36,1910.52,3.160000000000082,Meine Eltern arbeiten beide als Angestellte.
+484,"00:31:50,640","00:31:54,240",1910.64,1914.24,3.599999999999909,"Es ist nicht so, dass sich in Arbeit aufgewachsen bin"
+485,"00:31:54,240","00:31:56,120",1914.24,1916.12,1.8799999999998818,oder in schweren Zuständen.
+486,"00:31:56,240","00:32:00,080",1916.24,1920.08,3.839999999999918,"Ich bin sehr froh, dass ich studieren konnte ich bin froh,"
+487,"00:32:00,160","00:32:02,600",1920.16,1922.6,2.439999999999827,dass ich einen Studienabschluss habe.
+488,"00:32:02,680","00:32:06,200",1922.68,1926.2,3.519999999999982,"Ich bin froh, dass wir viele Möglichkeit offenstehen."
+489,"00:32:06,320","00:32:08,200",1926.32,1928.2,1.8800000000001091,"Mit dem Aufstiegsversprechen,"
+490,"00:32:08,280","00:32:12,120",1928.28,1932.12,3.839999999999918,"es gibt viele Beispiele dafür, wie Aufstieg gelingen kann."
+491,"00:32:12,240","00:32:14,480",1932.24,1934.48,2.240000000000009,"Mir ist wichtig, dass wir nicht vergessen,"
+492,"00:32:14,840","00:32:17,320",1934.84,1937.32,2.480000000000018,dass der extrem viel Glück dazu gehört und extrem hohe
+493,"00:32:17,400","00:32:20,120",1937.4,1940.12,2.7199999999998,"Wahrscheinlichkeit, dass man es eben doch nicht schafft."
+494,"00:32:20,200","00:32:22,920",1940.2,1942.92,2.7200000000000273,"Deswegen ist es schön und gut, wenn man glaubt, man muss mehr an"
+495,"00:32:23,040","00:32:25,080",1943.04,1945.08,2.0399999999999636,"das Aufstieg Versprechen glauben. Schön und gut,"
+496,"00:32:25,160","00:32:28,600",1945.16,1948.6,3.439999999999827,"aber die Realität ist, dass das Aufstiegsversprechen"
+497,"00:32:28,680","00:32:31,520",1948.68,1951.52,2.839999999999918,"nicht mehr gilt. Da würde ich mir wünschen,"
+498,"00:32:31,600","00:32:33,720",1951.6,1953.72,2.1200000000001182,dass man politisch mehr tut.
+499,"00:32:36,680","00:32:39,680",1956.68,1959.68,3.0,Was für alle glauben ist unerheblich.
+500,"00:32:39,840","00:32:43,840",1959.84,1963.84,4.0,"PA: Deswegen geht es auch darum, dass man politisch etwas tut."
+501,"00:32:43,960","00:32:45,840",1963.96,1965.84,1.8799999999998818,"Woran machen Sie das fest,"
+502,"00:32:46,000","00:32:50,040",1966.0,1970.04,4.039999999999964,dass das Aufstiegsversprechen nicht funktioniert?
+503,"00:32:50,040","00:32:57,560",1970.04,1977.56,7.519999999999982,"KS: es gibt verschiedene Zahlen, die zeigen, dass es unbeständig ist,"
+504,"00:32:57,560","00:33:00,880",1977.56,1980.88,3.3200000000001637,"wenn man einen nicht akademischen Hintergrund hat,"
+505,"00:33:01,000","00:33:04,240",1981.0,1984.24,3.240000000000009,"dass sich nicht aufs Gymnasium, das ist ein Studium mache."
+506,"00:33:04,320","00:33:08,120",1984.32,1988.12,3.7999999999999545,"Es gibt eine Selektion, die mit einer unsichtbaren Hand passiert,"
+507,"00:33:08,240","00:33:10,480",1988.24,1990.48,2.240000000000009,"aber die stattfindet. Es ist schwierig,"
+508,"00:33:10,560","00:33:14,080",1990.56,1994.08,3.519999999999982,"durchaus Armut herauszuarbeiten und es ist für viele Kinder,"
+509,"00:33:14,160","00:33:18,080",1994.16,1998.08,3.9199999999998454,"die in Armut aufwachsen,"
+510,"00:33:18,160","00:33:21,560",1998.16,2001.56,3.3999999999998636,"sehr schwierig ist, auf den Arbeitsmarkt zu kommen,"
+511,"00:33:21,640","00:33:25,040",2001.64,2005.04,3.3999999999998636,"einen guten Job zu machen, damit sie nicht in der Armut leben."
+512,"00:33:26,360","00:33:32,480",2006.36,2012.48,6.120000000000118,Ich zitiere sie mal Herr Amthor.
+513,"00:33:32,960","00:33:37,120",2012.96,2017.12,4.1599999999998545,"""Herausforderungen mit Selbstmitleid und Ausreden für nichts tun"
+514,"00:33:37,280","00:33:41,320",2017.28,2021.32,4.039999999999964,zum Antworten wird Problem nur verschärfen statt sie zu lösen.
+515,"00:33:41,480","00:33:44,040",2021.48,2024.04,2.5599999999999454,PA: Hätte ich besser kaum sagen können.
+516,"00:33:44,200","00:33:50,040",2024.2,2030.04,5.839999999999918,Hat er da einen Punkt?
+517,"00:33:50,440","00:33:55,320",2030.44,2035.32,4.879999999999882,"Er sagte dieses positive Versprechen,"
+518,"00:33:55,480","00:33:58,840",2035.48,2038.84,3.3599999999999,"bei Ihnen ist das Glas halb voll, in ihrer Generation"
+519,"00:33:59,000","00:34:03,040",2039.0,2043.04,4.039999999999964,ist das Glas halb leer.
+520,"00:34:03,160","00:34:08,000",2043.16,2048.0,4.839999999999918,"Ich will das gar nicht werden, ich will nur verstehen,"
+521,"00:34:08,120","00:34:16,160",2048.12,2056.16,8.039999999999964,ob das korrekt ist weil das spürt man in vielen Gesprächen
+522,"00:34:16,360","00:34:20,760",2056.36,2060.76,4.400000000000091,"mit jungen Leuten, das ist weltweit so,"
+523,"00:34:20,880","00:34:23,960",2060.88,2063.96,3.0799999999999272,"eine Melancholie, fast schon eine Depression,"
+524,"00:34:24,120","00:34:26,760",2064.12,2066.76,2.6400000000003274,"über den Zustand der Welt über die Frage,"
+525,"00:34:26,920","00:34:32,040",2066.92,2072.04,5.119999999999891,"was geht noch und dann diskutierst du mit 20-jährigen über die Frage,"
+526,"00:34:32,160","00:34:37,280",2072.16,2077.28,5.120000000000346,ist meine Rente sicher.
+527,"00:34:37,440","00:34:43,600",2077.44,2083.6,6.1599999999998545,"Als mittelalter Herr kann ich Ihnen sagen, diese Themen hatten wir auch."
+528,"00:34:43,720","00:34:48,520",2083.72,2088.52,4.800000000000182,Bei uns ging auch gefühlt jeden Tag die Welt unter.
+529,"00:34:48,680","00:34:52,000",2088.68,2092.0,3.3200000000001637,"Er ging in den Wald und die Menschen sagten,"
+530,"00:34:52,120","00:34:55,640",2092.12,2095.64,3.519999999999982,dieser Pilz ist die nächsten 10.000 Jahre verseucht.
+531,"00:34:55,760","00:35:01,920",2095.76,2101.92,6.1599999999998545,Den Optimismus darüber haben wir nie verloren.
+532,"00:35:02,080","00:35:04,640",2102.08,2104.64,2.5599999999999454,Und wir haben nie über Rente diskutiert.
+533,"00:35:04,840","00:35:07,360",2104.84,2107.36,2.519999999999982,Für sie ist das ein Thema.
+534,"00:35:07,360","00:35:09,360",2107.36,2109.36,2.0,"KS: wie geht es nicht darum,"
+535,"00:35:09,440","00:35:13,000",2109.44,2113.0,3.5599999999999454,dass sich eine Generation gegen die andere aufspiele.
+536,"00:35:13,000","00:35:21,080",2113.0,2121.08,8.079999999999927,"Ich versuche zu erklären, ich will nicht sagen, meine Generation"
+537,"00:35:21,240","00:35:25,680",2121.24,2125.68,4.440000000000055,"hat es viel schwieriger als andere und wir müssen uns durchsetzen,"
+538,"00:35:25,760","00:35:29,440",2125.76,2129.44,3.6799999999998363,die anderen hatten ein gutes Leben und wir haben zu hat.
+539,"00:35:29,520","00:35:32,880",2129.52,2132.88,3.3600000000001273,Auch die Frage von Arbeitsbedingungen
+540,"00:35:32,960","00:35:36,600",2132.96,2136.6,3.6399999999998727,"und es wird diskutiert auf die Generation Z,"
+541,"00:35:36,680","00:35:38,600",2136.68,2138.6,1.9200000000000728,"das gesagt wird,"
+542,"00:35:38,680","00:35:44,280",2138.68,2144.28,5.600000000000364,die kommen mit übertriebenen Anspruch weiteren auf den Markt.
+543,"00:35:44,360","00:35:48,000",2144.36,2148.0,3.6399999999998727,"Ich finde, dass es richtig ist, wenn Beschäftigte und Menschen"
+544,"00:35:48,120","00:35:51,240",2148.12,2151.24,3.119999999999891,auf dem Arbeitsmarkt Job suchen oder sich bewerben auch
+545,"00:35:51,320","00:35:53,240",2151.32,2153.24,1.919999999999618,"Arbeitsbedingungen einfordern,"
+546,"00:35:53,320","00:35:55,240",2153.32,2155.24,1.919999999999618,die für sie gut passen.
+547,"00:35:55,320","00:35:57,880",2155.32,2157.88,2.5599999999999454,"Mich freut es, dass junge Menschen"
+548,"00:35:57,960","00:36:02,240",2157.96,2162.24,4.279999999999745,es an der ein oder anderen Stelle stärker machen.
+549,"00:36:02,360","00:36:09,440",2162.36,2169.44,7.079999999999927,"Das liegt daran, dass sie gesehen haben, wie es bei den Eltern"
+550,"00:36:09,520","00:36:16,240",2169.52,2176.24,6.7199999999998,"und Großeltern außer und nicht darum geht,"
+551,"00:36:17,240","00:36:19,400",2177.24,2179.4,2.1600000000003092,sie holen das beste raus.
+552,"00:36:21,200","00:36:25,240",2181.2,2185.24,4.039999999999964,"Da hat sich im Kopf etwas verändert,"
+553,"00:36:25,400","00:36:28,200",2185.4,2188.2,2.799999999999727,das ist eine andere Perspektive darauf?
+554,"00:36:28,360","00:36:31,360",2188.36,2191.36,3.0,"Man sieht es Lebensmodell der Eltern und sagt,"
+555,"00:36:31,520","00:36:36,920",2191.52,2196.92,5.400000000000091,das möchte ich nicht für mich.
+556,"00:36:36,920","00:36:39,200",2196.92,2199.2,2.2799999999997453,"Nicht nur für uns, ich will es für niemanden."
+557,"00:36:39,200","00:36:42,440",2199.2,2202.44,3.2400000000002365,Ich will das niemand am Ende einer 40 Stunde da ist und das Wochenende
+558,"00:36:42,520","00:36:44,720",2202.52,2204.72,2.199999999999818,"damit verbringen, gesund zu werden."
+559,"00:36:45,200","00:36:48,600",2205.2,2208.6,3.400000000000091,Sie sagen Menschen die die 40 Stundenwoche Arbeiten
+560,"00:36:48,760","00:36:52,200",2208.76,2212.2,3.4399999999996,sind am Wochenende nur noch mit Erholung beschäftigt?
+561,"00:36:52,360","00:36:55,240",2212.36,2215.24,2.8799999999996544,"So viele dass man sagen kann, das ist ein Massenphänomen?"
+562,"00:36:55,240","00:37:01,400",2215.24,2221.4,6.160000000000309,"Nicht alle, aber einige Menschen tatsächlich."
+563,"00:37:01,400","00:37:05,160",2221.4,2225.16,3.7599999999997635,"Wir stellen fest, wird in einer großen Gala die Krankheit"
+564,"00:37:05,240","00:37:07,200",2225.24,2227.2,1.9600000000000364,stände ansteigen.
+565,"00:37:07,280","00:37:09,720",2227.28,2229.72,2.4399999999996,Für mich ist das kein gutes Zeichen.
+566,"00:37:09,800","00:37:12,920",2229.8,2232.92,3.119999999999891,"Ich finde es richtig, dass junge Menschen sagen,"
+567,"00:37:13,000","00:37:16,960",2233.0,2236.96,3.9600000000000364,"wir wollen nicht leben und zu arbeiten, sondern wir arbeiten"
+568,"00:37:17,080","00:37:19,720",2237.08,2239.72,2.6399999999998727,"um zu leben. Das ist, wie Gewerkschaften"
+569,"00:37:19,800","00:37:23,040",2239.8,2243.04,3.2399999999997817,"schon immer funktionieren, besser Arbeitsbedingungen"
+570,"00:37:23,120","00:37:27,080",2243.12,2247.08,3.9600000000000364,zu erkämpfen. Darüber können wir uns alle freuen. Ich nehme keine
+571,"00:37:27,200","00:37:31,720",2247.2,2251.72,4.519999999999982,"Neiddebatte war,"
+572,"00:37:31,840","00:37:34,840",2251.84,2254.84,3.0,"dass die Boomer Generation sagt, die wollen alles besser."
+573,"00:37:38,040","00:37:40,880",2258.04,2260.88,2.8400000000001455,Die schauen erstaunt auf diese Generation.
+574,"00:37:41,040","00:37:45,000",2261.04,2265.0,3.9600000000000364,"Wenn Sie das so schildern und sagen wissend jetzt am Drücker,"
+575,"00:37:45,160","00:37:49,520",2265.16,2269.52,4.360000000000127,"wir sind eine kleine Kohorte, wir können uns das leisten Forderungen"
+576,"00:37:49,720","00:37:54,280",2269.72,2274.28,4.5600000000004,"zu stellen, wenn man doch am Drücker ist, wenn man etwas verlangen kann"
+577,"00:37:54,440","00:37:57,000",2274.44,2277.0,2.5599999999999454,"und es auch bekommt, woher denn dieser Pessimismus?"
+578,"00:37:57,000","00:38:00,320",2277.0,2280.32,3.3200000000001637,"KS: Es ist so, dass wir in einer Welt aufwachsen,"
+579,"00:38:00,440","00:38:02,440",2280.44,2282.44,2.0,die voller Krisen sind.
+580,"00:38:02,440","00:38:06,000",2282.44,2286.0,3.5599999999999454,Deswegen möchte ich das nicht gegeneinander ausspielen.
+581,"00:38:06,080","00:38:09,920",2286.08,2289.92,3.8400000000001455,Wie ich auf die Lebensrealität von jungen Menschen blicke.
+582,"00:38:10,000","00:38:15,920",2290.0,2295.92,5.920000000000073,"Es ist nicht so,"
+583,"00:38:18,000","00:38:22,240",2298.0,2302.24,4.239999999999782,"dass wir sagen, es wird schon alles gut und wirken optimistisch"
+584,"00:38:22,360","00:38:25,480",2302.36,2305.48,3.119999999999891,"in die Zukunft blicken, weil es gibt unfassbar viele Krisen."
+585,"00:38:26,440","00:38:29,040",2306.44,2309.04,2.599999999999909,"Junge Menschen machen sich Sorgen um die Klimakrise, den Rechtsruck,"
+586,"00:38:29,160","00:38:32,120",2309.16,2312.12,2.9600000000000364,"die soziale Spaltung. Wir sehen, wie jeden Tag"
+587,"00:38:32,200","00:38:34,400",2312.2,2314.4,2.200000000000273,Krisen entstehen.
+588,"00:38:40,240","00:38:44,280",2320.24,2324.28,4.040000000000418,"Es kommt nicht daher, dass Menschen sagen, es ist ein Rechtsruck,"
+589,"00:38:44,720","00:38:47,520",2324.72,2327.52,2.800000000000182,deswegen möchte ich weniger arbeiten. Ein Wunsch nach
+590,"00:38:47,640","00:38:51,520",2327.64,2331.52,3.880000000000109,"besseren Arbeitsbedingungen kommen, dass sie bei der Eltern"
+591,"00:38:51,640","00:38:54,280",2331.64,2334.28,2.6400000000003274,"gesehen haben, dass es sich lohnt, für bessere Arbeitsbedingungen"
+592,"00:38:54,360","00:38:57,200",2334.36,2337.2,2.8399999999996908,"zu arbeiten. Deswegen finde ich es richtig, dass viele Gewerkschaften"
+593,"00:38:57,320","00:39:00,160",2337.32,2340.16,2.8399999999996908,und Unternehmen schon machen und Tarifkämpfe führen.
+594,"00:39:05,880","00:39:10,160",2345.88,2350.16,4.279999999999745,"Diese Erschöpfungszustände, die sie schildern,"
+595,"00:39:10,320","00:39:14,680",2350.32,2354.68,4.359999999999673,wie viele der jungen Leute haben heute so eine Diagnose wie Burnout
+596,"00:39:14,880","00:39:18,160",2354.88,2358.16,3.2799999999997453,"die es ja im streng psychiatrischen Sinn nicht gibt,"
+597,"00:39:18,320","00:39:21,160",2358.32,2361.16,2.8399999999996908,ein Gefühl von Erschöpfung kann man ja haben.
+598,"00:39:21,320","00:39:24,040",2361.32,2364.04,2.7199999999998,Wie viele würden sie sagen?
+599,"00:39:24,040","00:39:28,600",2364.04,2368.6,4.559999999999945,"KS: Ich habe Studien gelesen, die sagen,"
+600,"00:39:28,600","00:39:32,880",2368.6,2372.88,4.2800000000002,dass 27 % aller jungen Menschen Anzeichen von Depressionen zeigen.
+601,"00:39:33,000","00:39:35,200",2373.0,2375.2,2.199999999999818,Ich finde das beunruhigend
+602,"00:39:35,320","00:39:38,760",2375.32,2378.76,3.4400000000000546,und ich persönlich nehme eine ähnliche Tendenz
+603,"00:39:38,840","00:39:44,960",2378.84,2384.96,6.119999999999891,auch in meinem Freundeskreis war.
+604,"00:39:45,600","00:39:47,880",2385.6,2387.88,2.2800000000002,"Jeder kennt einen anderen Mensch,"
+605,"00:39:47,960","00:39:53,520",2387.96,2393.52,5.559999999999945,der Innentherapie ist und psychische Probleme hat.
+606,"00:39:53,600","00:39:55,920",2393.6,2395.92,2.3200000000001637,"Ich will nicht sagen, dass sie viel"
+607,"00:39:56,040","00:39:58,800",2396.04,2398.8,2.7600000000002183,härter belastet ist als andere Generation.
+608,"00:39:58,880","00:40:00,800",2398.88,2400.8,1.9200000000000728,"Ich finde es richtig,"
+609,"00:40:00,880","00:40:04,040",2400.88,2404.04,3.1599999999998545,"dass unsere Generation offenbar darüber spricht,"
+610,"00:40:04,160","00:40:07,200",2404.16,2407.2,3.0399999999999636,dass es kein Zustand ist und es zu etwas ändern müssen.
+611,"00:40:11,440","00:40:15,400",2411.44,2415.4,3.9600000000000364,Ich schau gerade zu Herrn Amthor.
+612,"00:40:15,520","00:40:19,840",2415.52,2419.84,4.320000000000164,"Ich hab dieser Tage mit einem sehr guten Arzt gesprochen der sagte,"
+613,"00:40:20,000","00:40:24,560",2420.0,2424.56,4.559999999999945,in Hamburg gibt es mittlerweile mehr Psychologen als Allgemeinmediziner.
+614,"00:40:24,760","00:40:29,720",2424.76,2429.72,4.959999999999582,"Provokant gefragt, gibt es deswegen auch mehr Möglichkeit zur Diagnose?"
+615,"00:40:29,880","00:40:33,160",2429.88,2433.16,3.2799999999997453,"PA: Das ist durch eine statistisch so,"
+616,"00:40:33,320","00:40:36,640",2433.32,2436.64,3.319999999999709,trotzdem berichte auch differenziert drauf schauen.
+617,"00:40:36,800","00:40:40,880",2436.8,2440.88,4.079999999999927,"Da muss man schon auch empathisch sagen, dass es nicht verkehrt,"
+618,"00:40:41,080","00:40:45,360",2441.08,2445.36,4.2800000000002,"dass wir mehr Sichtbarkeit für das Thema mentale Gesundheit haben,"
+619,"00:40:45,520","00:40:49,240",2445.52,2449.24,3.7199999999998,das ist auch ein Problem für die Gesellschaft unter sollte
+620,"00:40:49,400","00:40:52,920",2449.4,2452.92,3.519999999999982,"man nicht die Haltung verbreiten, reißt euch zusammen."
+621,"00:40:53,040","00:40:55,720",2453.04,2455.72,2.6799999999998363,Deshalb muss man schon eine Antwort geben.
+622,"00:40:55,880","00:41:00,640",2455.88,2460.64,4.7599999999997635,"Die Zahlen selbst, ich hatte das auch gehört,"
+623,"00:41:00,800","00:41:04,640",2460.8,2464.64,3.8399999999996908,"diese 30 % habe ich nicht gefunden,"
+624,"00:41:04,800","00:41:08,000",2464.8,2468.0,3.199999999999818,ich habe mich mit einigen Studien beschäftigt.
+625,"00:41:08,160","00:41:12,440",2468.16,2472.44,4.2800000000002,Es hieß eher 3-10 %.
+626,"00:41:12,600","00:41:17,360",2472.6,2477.36,4.760000000000218,"Wir haben ein objektives Thema damit, die Frage ist,"
+627,"00:41:17,520","00:41:22,160",2477.52,2482.16,4.639999999999873,wie kann man das Verhältnis zur Arbeit sinnstiftend verändern
+628,"00:41:22,320","00:41:26,280",2482.32,2486.28,3.9600000000000364,in dem man es von Anfang an aus dieser Weltschmerzperspektive
+629,"00:41:26,440","00:41:32,520",2486.44,2492.52,6.079999999999927,als absoluten Untergang sieht oder kann es nicht schaffen
+630,"00:41:32,680","00:41:35,600",2492.68,2495.6,2.9200000000000728,ein positives Bild von Arbeit zu zeichnen als
+631,"00:41:35,800","00:41:39,040",2495.8,2499.04,3.2399999999997817,das auch durch Arbeitsbedingungen zu leben.
+632,"00:41:39,240","00:41:42,400",2499.24,2502.4,3.1600000000003092,"Da habe ich den Eindruck, das muss man auch sagen"
+633,"00:41:42,560","00:41:47,000",2502.56,2507.0,4.440000000000055,"aus der Perspektive von Arbeitgebern in Zeiten des Fachkräftemangels,"
+634,"00:41:47,160","00:41:51,000",2507.16,2511.0,3.8400000000001455,"heute weiß jeder, dass zufriedene Arbeitnehmer der Schlüssel"
+635,"00:41:51,160","00:41:53,520",2511.16,2513.52,2.3600000000001273,des Arbeitsstandorts Deutschland sind.
+636,"00:41:53,680","00:41:57,760",2513.68,2517.76,4.080000000000382,Deshalb wird viel dafür getan.
+637,"00:41:57,920","00:42:02,440",2517.92,2522.44,4.519999999999982,"Mir ist wichtig bei all dem was wir diskutieren,"
+638,"00:42:02,600","00:42:06,280",2522.6,2526.28,3.680000000000291,"Deutschland ist der keine Insel auf der Welt,"
+639,"00:42:06,440","00:42:09,080",2526.44,2529.08,2.6399999999998727,wir sind in einem harten internationalen
+640,"00:42:09,240","00:42:12,440",2529.24,2532.44,3.200000000000273,Standortwettbewerb und das nicht nur im Vergleich
+641,"00:42:12,560","00:42:15,080",2532.56,2535.08,2.519999999999982,mit unseren europäischen Nachbarländern
+642,"00:42:15,240","00:42:18,520",2535.24,2538.52,3.2800000000002,"sondern im Vergleich mit China, Indien und anderen."
+643,"00:42:18,680","00:42:20,560",2538.68,2540.56,1.8800000000001091,Aufstrebende Wirtschaftsmächte
+644,"00:42:20,720","00:42:23,280",2540.72,2543.28,2.5600000000004,bei denen es darum geht mehr zu arbeiten.
+645,"00:42:23,440","00:42:26,960",2543.44,2546.96,3.519999999999982,"Ich will nicht, dass wir von einer Autokratie"
+646,"00:42:27,160","00:42:30,000",2547.16,2550.0,2.8400000000001455,wie China das Wirtschaftssystem übernehmen.
+647,"00:42:30,200","00:42:34,560",2550.2,2554.56,4.360000000000127,"Uns muss klar sein, wir kämpfen sowieso um den Standort Deutschland,"
+648,"00:42:34,720","00:42:38,360",2554.72,2558.36,3.6400000000003274,"die erleben, dass Unternehmen"
+649,"00:42:38,560","00:42:41,800",2558.56,2561.8,3.2400000000002365,wegen besserer Bedingungen in die Schweiz verlegen.
+650,"00:42:42,000","00:42:45,040",2562.0,2565.04,3.0399999999999636,"Wir erleben, der unsere Wirtschaftsstandort"
+651,"00:42:45,200","00:42:47,600",2565.2,2567.6,2.400000000000091,"unter riesigem Druck ist und glauben,"
+652,"00:42:47,760","00:42:51,520",2567.76,2571.52,3.7599999999997635,dass das dringendste Problem zur Erhaltung des Wohlstandes
+653,"00:42:51,680","00:42:55,920",2571.68,2575.92,4.2400000000002365,in Deutschland das Thema der zu schlechten Arbeitsbedingungen sei.
+654,"00:42:56,080","00:42:59,160",2576.08,2579.16,3.0799999999999272,"Wir müssen sehen, es geht um das ganze,"
+655,"00:42:59,320","00:43:03,080",2579.32,2583.08,3.7599999999997635,"wenn wir das, was wir an Wohltaten des Sozialstaats haben,"
+656,"00:43:03,240","00:43:06,880",2583.24,2586.88,3.6400000000003274,"wenn wir das in den nächsten Jahrzehnten erhalten wollen,"
+657,"00:43:07,040","00:43:09,920",2587.04,2589.92,2.880000000000109,"geht es darum, dass Deutschland international"
+658,"00:43:10,120","00:43:13,360",2590.12,2593.36,3.2400000000002365,mit seinem Arbeitsrecht wettbewerbsfähig sein muss.
+659,"00:43:13,520","00:43:16,960",2593.52,2596.96,3.4400000000000546,"Da haben wir eine Diskussion und würde man glauben,"
+660,"00:43:17,120","00:43:19,680",2597.12,2599.68,2.5599999999999454,der Wohlstand garantiert sich von selbst
+661,"00:43:19,880","00:43:22,360",2599.88,2602.36,2.480000000000018,und wir machen mal ein bisschen weniger.
+662,"00:43:22,560","00:43:25,840",2602.56,2605.84,3.2800000000002,Das ist nicht die Realität der internationalen Wirtschaft.
+663,"00:43:25,840","00:43:29,840",2605.84,2609.84,4.0,KS: Das finde ich sehr spannend mit dem Wettbewerbsargument.
+664,"00:43:29,960","00:43:33,440",2609.96,2613.44,3.480000000000018,"Es ist nicht so, dass Löhne allein"
+665,"00:43:33,440","00:43:41,360",2613.44,2621.36,7.920000000000073,"oder die Arbeitsbedingungen allein das eigennützige Argument sind,"
+666,"00:43:41,480","00:43:44,080",2621.48,2624.08,2.599999999999909,wie man den Wettbewerb ausrichten kann.
+667,"00:43:44,160","00:43:47,960",2624.16,2627.96,3.800000000000182,Das wurde bei der Einführung des Mindestlohn auch gesagt.
+668,"00:43:48,040","00:43:49,960",2628.04,2629.96,1.9200000000000728,"Wenn wir den einführen,"
+669,"00:43:50,040","00:43:52,240",2630.04,2632.24,2.199999999999818,dann gehen alle Friseurladen weg.
+670,"00:43:52,320","00:43:56,720",2632.32,2636.72,4.399999999999636,Die Friseurläden windig weggegangen.
+671,"00:43:56,840","00:44:02,960",2636.84,2642.96,6.119999999999891,Deutschland hat ganz andere Wettbewerbs Vorteile.
+672,"00:44:03,080","00:44:06,880",2643.08,2646.88,3.800000000000182,"Zum Beispiel das duale Ausbildungssystem oder die Tatsache,"
+673,"00:44:07,000","00:44:09,160",2647.0,2649.16,2.1599999999998545,dass man kostengünstig
+674,"00:44:09,280","00:44:16,520",2649.28,2656.52,7.239999999999782,"relativ gute Bildung regt oder die Infrastruktur,"
+675,"00:44:19,040","00:44:22,960",2659.04,2662.96,3.9200000000000728,"obwohl ich mir da Sorgen mache, dass sie immer mehr marodiert."
+676,"00:44:23,080","00:44:26,560",2663.08,2666.56,3.480000000000018,"Deswegen finde ich es scheinheilig, zu sagen es geht nur"
+677,"00:44:26,680","00:44:29,880",2666.68,2669.88,3.200000000000273,um Arbeitsbedingungen. Das sagen Sie praktisch mit
+678,"00:44:30,000","00:44:32,920",2670.0,2672.92,2.9200000000000728,"dem Standortvorteil, dabei steckt da noch viel"
+679,"00:44:33,040","00:44:35,440",2673.04,2675.44,2.400000000000091,"mehr dahinter, was Sie unterschlagen haben."
+680,"00:44:38,800","00:44:45,080",2678.8,2685.08,6.279999999999745,"Darauf wollte ich hinaus, das hat Spaß gemacht,"
+681,"00:44:45,240","00:44:49,680",2685.24,2689.68,4.440000000000055,"so später Stunde normale richtig wach geworden, ich danke Ihnen sehr,"
+682,"00:44:49,840","00:44:51,680",2689.84,2691.68,1.8399999999996908,wir werden das fortsetzen.
+683,"00:44:51,840","00:44:54,000",2691.84,2694.0,2.1599999999998545,"Die Frage, wie wir zukünftig leben"
+684,"00:44:54,200","00:44:57,280",2694.2,2697.28,3.080000000000382,und arbeiten werden ist eine ganz zentrale Frage.
+685,"00:44:57,480","00:45:00,640",2697.48,2700.64,3.1599999999998545,Wir werden darauf Antworten finden müssen.
+686,"00:45:00,680","00:45:03,520",2700.68,2703.52,2.8400000000001455,"Jetzt die Kollegen vom ""heute journal up:date"","
+687,"00:45:03,560","00:45:05,800",2703.56,2705.8,2.2400000000002365,wir sind morgen wieder für Sie da.

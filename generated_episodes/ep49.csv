@@ -1,0 +1,895 @@
+﻿segment_id,start_time,end_time,start_seconds,end_seconds,duration,text
+1,"00:00:00,040","00:00:03,000",0.04,3.0,2.96,Diese Untertitel sind live produziert.
+2,"00:00:10,560","00:00:14,320",10.56,14.32,3.76,"Guten Abend, der Bundeskanzler sagte vor sechs Tagen in München:"
+3,"00:00:14,400","00:00:19,040",14.4,19.04,4.639999999999999,"""Zwischen Europa und den Vereinigten Staaten von Amerika"
+4,"00:00:19,120","00:00:23,840",19.12,23.84,4.719999999999999,"hat sich eine Kluft, ein tiefer Graben aufgetan."""
+5,"00:00:23,920","00:00:26,480",23.92,26.48,2.5599999999999987,Auf der Sicherheitskonferenz hat Merz auch gleich
+6,"00:00:26,560","00:00:32,040",26.56,32.04,5.48,"eine neue Außenpolitik entworfen: Unabhängiger von Washington,"
+7,"00:00:32,160","00:00:35,440",32.16,35.44,3.280000000000001,wehrhafter gegen Moskau und führend in Europa.
+8,"00:00:35,560","00:00:39,360",35.56,39.36,3.799999999999997,Sind diese Ziele zu groß?
+9,"00:00:39,480","00:00:43,360",39.48,43.36,3.8800000000000026,Ist Deutschland dafür schon stark genug?
+10,"00:00:43,440","00:00:48,320",43.44,48.32,4.880000000000003,"Das frage ich gleich den Außenminister,"
+11,"00:00:49,160","00:00:51,640",49.16,51.64,2.480000000000004,"Der Bundesaußenminister Johann Wadephul (JW),"
+12,"00:00:51,720","00:00:55,200",51.72,55.2,3.480000000000004,"Florence Gaub (FG) vom NATO Defense College,"
+13,"00:00:55,320","00:00:59,760",55.32,59.76,4.439999999999998,"Manfred Weber (MW), der Vorsitzende der EVP"
+14,"00:00:59,840","00:01:04,160",59.84,64.16,4.319999999999993,"Die Deutsch-Ukrainerin Marina Weisband (MW),"
+15,"00:01:04,240","00:01:08,200",64.24,68.2,3.960000000000008,Frederik Pleitgen (FP) von CNN
+16,"00:01:08,280","00:01:13,360",68.28,73.36,5.079999999999998,"und der Generalinspekteur der Bundeswehr, Carsten Breuer (CB)."
+17,"00:01:13,440","00:01:16,200",73.44,76.2,2.760000000000005,Sie sind zu Gast bei Maybrit Illner (MI).
+18,"00:01:28,560","00:01:31,720",88.56,91.72,3.1599999999999966,"MB: Die ist sehr dankbar für die Gäste dieser Runde,"
+19,"00:01:31,800","00:01:35,520",91.8,95.52000000000001,3.720000000000013,"letzte Woche Münchner Sicherheitskonferenz,"
+20,"00:01:36,800","00:01:40,720",96.8,100.72,3.9200000000000017,der Kanzler kündigt nicht weniger an als eine Neuausrichtung
+21,"00:01:40,760","00:01:43,040",100.75999999999999,103.03999999999999,2.280000000000001,der deutschen Außenpolitik.
+22,"00:01:43,840","00:01:46,760",103.84,106.75999999999999,2.9199999999999875,"Der Bruch ist offiziell, Deutschland positioniert sich neu."
+23,"00:01:46,840","00:01:48,320",106.84,108.32,1.4799999999999898,Merz braucht neue Verbündete.
+24,"00:01:48,400","00:01:50,320",108.4,110.32,1.9199999999999875,- Diese Ordnung gibt es nicht mehr.
+25,"00:01:50,400","00:01:52,680",110.4,112.68,2.280000000000001,"Der Führungsanspruch der USA ist angefochten,"
+26,"00:01:52,760","00:01:54,880",112.75999999999999,114.88,2.1200000000000045,vielleicht schon verspielt.
+27,"00:01:54,960","00:01:57,440",114.96000000000001,117.44,2.4799999999999898,- So deutlich wie nie formuliert der Kanzler
+28,"00:01:57,520","00:01:59,760",117.52000000000001,119.75999999999999,2.2399999999999807,die Konflikte mit Trumps Amerika.
+29,"00:01:59,840","00:02:04,960",119.84,124.96,5.11999999999999,- Der Kulturkampf der MAGA-Bewegung in den USA ist nicht unserer.
+30,"00:02:05,040","00:02:08,240",125.04,128.24,3.200000000000003,"Die Freiheit des Wortes endet hier bei uns,"
+31,"00:02:08,320","00:02:15,200",128.32,135.2,6.8799999999999955,wenn es sich gegen Menschenwürde und Grundgesetz wendet.
+32,"00:02:15,280","00:02:19,520",135.28,139.52,4.240000000000009,Wir glauben nicht an Zölle und Protektionismus.
+33,"00:02:19,640","00:02:25,680",139.64,145.68,6.0400000000000205,"- Prinzipientreu und pragmatisch, so will Merz Außenpolitik machen."
+34,"00:02:25,760","00:02:28,440",145.76,148.44,2.680000000000007,"Ohne falsche Rücksichten, auch nicht auf Trump."
+35,"00:02:40,680","00:02:43,920",160.68,163.92000000000002,3.240000000000009,"MI: Frederik Pleitgen ist bei uns,"
+36,"00:02:44,080","00:02:48,880",164.07999999999998,168.88,4.800000000000011,"es sind interessante Sätze, die der Bundeskanzler da sagt."
+37,"00:02:59,520","00:03:03,000",179.52,183.0,3.4799999999999898,"Er sagt, der Führungsanspruch der USA sei angefochten,"
+38,"00:03:03,040","00:03:07,480",183.04,187.48,4.439999999999998,vielleicht verspielt. Wie kommt das in Washington an?
+39,"00:03:17,080","00:03:21,480",197.07999999999998,201.48,4.400000000000006,"FP: Bei den Gegnern von Donald Trump wurde das gesehen als Zeichen,"
+40,"00:03:21,520","00:03:26,280",201.52,206.28,4.759999999999991,dass Donald Trump seine engsten Verbündeten verprellt hat.
+41,"00:03:26,360","00:03:30,280",206.36,210.28,3.9199999999999875,Da sei viel zerbrochen zwischen den europäischen Verbündeten
+42,"00:03:30,320","00:03:32,160",210.32,212.16,1.8400000000000034,und den für einigen Staaten.
+43,"00:03:32,200","00:03:35,360",212.2,215.36,3.160000000000025,Es waren viele Senatoren und andere amerikanische
+44,"00:03:35,400","00:03:38,560",215.4,218.56,3.1599999999999966,Kongressabgeordnete bei der Sicherheitskonferenz.
+45,"00:03:38,600","00:03:43,480",218.6,223.48,4.8799999999999955,"Die haben alle gesagt, dass das Verhältnis noch wichtig ist."
+46,"00:03:46,080","00:03:49,720",226.07999999999998,229.72,3.640000000000015,Bei den Anhängern von Donald Trump ist das achselzuckend
+47,"00:03:49,800","00:03:52,000",229.8,232.0,2.1999999999999886,hingenommen wurden.
+48,"00:03:53,040","00:03:56,480",233.04,236.48,3.4399999999999977,"Die sehen, dass die Europäer ihr eigenes Ding machen,"
+49,"00:03:56,560","00:04:00,360",236.56,240.36,3.8000000000000114,"aber die Amerikaner, die der MAGA Bewegung angehören sagen,"
+50,"00:04:00,440","00:04:03,640",240.44,243.64,3.1999999999999886,dass Amerika ihr Ding machen wird.
+51,"00:04:07,360","00:04:11,640",247.36,251.64,4.279999999999973,"MI: Das hat Rubio am Tag darauf sehr deutlich gemacht, im Grunde,"
+52,"00:04:11,680","00:04:16,560",251.68,256.56,4.8799999999999955,"wie Merz anschließend sagte, in einem freundlicheren Gewand."
+53,"00:04:19,760","00:04:22,720",259.76,262.72,2.9600000000000364,"FP: Er hat gesagt, dass Europa jetzt zerfällt,"
+54,"00:04:22,760","00:04:26,600",262.76,266.6,3.840000000000032,"dass die europäischen Wertes verloren gehen,"
+55,"00:04:27,680","00:04:30,240",267.68,270.24,2.5600000000000023,dass Europa kaputt geht.
+56,"00:04:31,040","00:04:31,360",271.04,271.36,0.3199999999999932,"Auch,"
+57,"00:04:31,400","00:04:35,840",271.4,275.84000000000003,4.440000000000055,dass die Amerikaner weiterhin mit Europa zusammenarbeiten werden.
+58,"00:04:35,880","00:04:40,560",275.88,280.56,4.680000000000007,"Sie sagen, wir werden diesen Weg, wir wollen diesen Weg gemeinsam gehen,"
+59,"00:04:40,600","00:04:44,240",280.6,284.24,3.6399999999999864,"aber nur, wenn man ihn gemeinsam auf unserer Linie geht."
+60,"00:04:44,280","00:04:48,880",284.28,288.88,4.600000000000023,"MI: Manfred Weber ist bei uns, nicht richtig, aus München zugeschaltet."
+61,"00:04:48,960","00:04:53,480",288.96,293.48,4.520000000000039,"Wir sind alle miteinander ein bisschen betrübt darüber,"
+62,"00:05:04,280","00:05:06,600",304.28,306.6,2.32000000000005,"weil der Schneefall verhindert hat,"
+63,"00:05:06,640","00:05:10,800",306.64,310.8,4.160000000000025,"dass Sie rechtzeitig herkommen konnten. Umso dankbarer sind wir,"
+64,"00:05:10,840","00:05:13,400",310.84,313.4,2.5600000000000023,dass wir jetzt mit Ihnen verbunden sind.
+65,"00:05:13,440","00:05:16,720",313.44,316.72,3.2800000000000296,Ist diese neue Ausrichtung dieses transatlantischen
+66,"00:05:16,800","00:05:18,600",316.8,318.6,1.8000000000000114,Verhältnisses
+67,"00:05:19,880","00:05:24,680",319.88,324.68,4.800000000000011,durch den Bundeskanzler die Antwort auf den Grönlandschock?
+68,"00:05:24,760","00:05:29,840",324.76,329.84,5.079999999999984,"Auf den Schock, den Donald Trump damit ausgelöst hat, zu sagen,"
+69,"00:05:30,600","00:05:34,760",330.6,334.76,4.159999999999968,ich möchte jetzt dieses große Stückchen Insel von Dänemark haben
+70,"00:05:34,840","00:05:36,880",334.84000000000003,336.88,2.0399999999999636,und zwar schnell?
+71,"00:05:46,840","00:05:51,400",346.84000000000003,351.4,4.559999999999945,"MW: Beste Grüße aus Bayern, ja, wir sind in das Jahr hinein gestartet,"
+72,"00:05:51,480","00:05:52,200",351.48,352.2,0.7199999999999704,"und Amerika,"
+73,"00:05:52,280","00:05:55,600",352.28,355.6,3.32000000000005,"nur weil wir mit Grünland Solidarität gezeigt haben,"
+74,"00:05:55,680","00:05:57,360",355.68,357.36,1.6800000000000068,ziemlich ruppig gestartet.
+75,"00:05:57,440","00:06:02,080",357.44,362.08,4.639999999999986,"Sie erinnern sich, werden im Sommer ein Abkommen mit Amerika verhandelt,"
+76,"00:06:02,160","00:06:05,480",362.16,365.48,3.319999999999993,dass sie die 15 % Zölle akzeptieren.
+77,"00:06:06,520","00:06:09,160",366.52,369.16,2.640000000000043,"Zähneknirschend haben wir das akzeptiert,"
+78,"00:06:09,240","00:06:13,440",369.24,373.44,4.199999999999989,zu Anfang des Jahres wurde das über Bord geworfen.
+79,"00:06:13,520","00:06:17,040",373.52,377.04,3.5200000000000387,Umso wichtiger war die Geschlossenheit.
+80,"00:06:18,480","00:06:22,120",378.48,382.12,3.6399999999999864,"Die Ratifikation dieses Schottland Abkommens zu stoppen,"
+81,"00:06:22,200","00:06:24,880",382.2,384.88,2.680000000000007,um damit Geschlossenheit zu zeigen.
+82,"00:06:24,920","00:06:27,320",384.92,387.32,2.3999999999999773,Dann können wir auch unsere Interessen
+83,"00:06:27,400","00:06:30,080",387.4,390.08,2.680000000000007,gegen Amerika durchsetzen.
+84,"00:06:33,760","00:06:37,760",393.76,397.76,4.0,"Ich fand es wichtig, weil ich bin es leid, dass wir überlegen,"
+85,"00:06:37,840","00:06:40,680",397.84000000000003,400.68,2.839999999999975,wird jetzt Vance oder Rubio gewählt?
+86,"00:06:40,720","00:06:41,880",400.72,401.88,1.1599999999999682,"Wir müssen aufhören,"
+87,"00:06:41,920","00:06:45,880",401.92,405.88,3.9599999999999795,über amerikanische Politik zu diskutieren und unser Schicksal
+88,"00:06:45,920","00:06:48,600",405.92,408.6,2.680000000000007,selbst in die Hand nehmen.
+89,"00:06:50,480","00:06:52,520",410.48,412.52,2.0399999999999636,"MI: Wir müssen gerade viel tun,"
+90,"00:06:52,600","00:06:55,720",412.6,415.72,3.1200000000000045,"wir sollen die größte konventionelle Armee bauen,"
+91,"00:06:55,800","00:07:00,360",415.8,420.36,4.560000000000002,wir sollen die Ukraine unterstützen und wir wollen unabhängiger werden.
+92,"00:07:00,440","00:07:04,040",420.44,424.04,3.6000000000000227,"Wir sind dankbar, Frau Weisband in der Sendung zu haben."
+93,"00:07:04,120","00:07:09,520",424.12,429.52,5.399999999999977,Sie sind in Kiew geboren und haben ein engagiertes politisches Herz.
+94,"00:07:10,320","00:07:14,480",430.32,434.48,4.160000000000025,Deutschland in Bezug auf die Ukraine ist der letzte Unterstützer
+95,"00:07:14,560","00:07:18,360",434.56,438.36,3.8000000000000114,neben den Niederlanden und einigen osteuropäischen Staaten.
+96,"00:07:18,440","00:07:22,360",438.44,442.36,3.920000000000016,"Würden Sie sagen, dass Friedrich Merz liefert?"
+97,"00:07:30,960","00:07:34,080",450.96,454.08,3.1200000000000045,"MW: Wir liefern mit Deutschland relativ viel,"
+98,"00:07:34,160","00:07:37,040",454.15999999999997,457.04,2.8800000000000523,"die große Hoffnung der Ukraine ist,"
+99,"00:07:37,120","00:07:42,240",457.12,462.24,5.1200000000000045,dass Europa sich eint und sich vom amerikanischen Einfluss löst.
+100,"00:07:45,080","00:07:48,120",465.08,468.12,3.0400000000000205,"Wir haben oft den Konflikt Ost-West betrachtet,"
+101,"00:07:48,200","00:07:52,160",468.2,472.15999999999997,3.9599999999999795,aber eigentlich ist es ein völkerrechtlicher Konflikt.
+102,"00:07:52,240","00:07:55,440",472.24,475.44,3.1999999999999886,"Es wird gerade unberechenbar, wie die USA handeln,"
+103,"00:07:55,520","00:07:57,680",475.52,477.68,2.160000000000025,was für ein Verbündeter sie sind.
+104,"00:07:57,760","00:08:01,360",477.76,481.36,3.6000000000000227,"Die Ukraine versteht, dass wir das Völkerrecht brauchen,"
+105,"00:08:01,440","00:08:03,800",481.44,483.8,2.3600000000000136,um überhaupt Frieden zu haben.
+106,"00:08:03,880","00:08:07,680",483.88,487.68,3.8000000000000114,In dieser Situation haben wir den nächsten Krieg eigentlich
+107,"00:08:07,720","00:08:10,120",487.72,490.12,2.3999999999999773,schon vorprogrammiert.
+108,"00:08:16,600","00:08:17,880",496.6,497.88,1.2799999999999727,"Ich hoffe, dass das,"
+109,"00:08:17,960","00:08:20,960",497.96,500.96,3.0,was Merz in München gesagt hat auch Folgen hat.
+110,"00:08:21,040","00:08:25,840",501.04,505.84,4.7999999999999545,"Ich muss sagen, dass vieles von dem, was er sehr richtig festgestellt hat,"
+111,"00:08:25,920","00:08:28,320",505.92,508.32,2.3999999999999773,"dass wir uns unabhängig machen müssen,"
+112,"00:08:28,360","00:08:30,840",508.36,510.84,2.4799999999999613,"erneuerbare Energien generieren müssen,"
+113,"00:08:30,920","00:08:34,160",510.92,514.16,3.2399999999999523,"um energetisch nicht von Russland abhängig zu sein,"
+114,"00:08:34,240","00:08:38,440",514.24,518.44,4.2000000000000455,"das würde bedeuten, eine stärkere Einheit in Europa zu schließen,"
+115,"00:08:38,520","00:08:41,680",518.52,521.68,3.159999999999968,"europäische Werte zu unterstützen,"
+116,"00:08:46,680","00:08:51,720",526.68,531.72,5.040000000000077,"das würde bedeuten, die CDU Politik müsste sich stark wandeln."
+117,"00:08:51,920","00:08:55,760",531.92,535.76,3.840000000000032,Wir müssen mit Europa näher zusammenrücken.
+118,"00:09:03,800","00:09:06,320",543.8,546.32,2.5200000000000955,MI: Bedeutet das eben auch Konsequenzen
+119,"00:09:06,400","00:09:08,640",546.4,548.64,2.240000000000009,für die eigene Regierungstätigkeit?
+120,"00:09:08,720","00:09:13,800",548.72,553.8,5.079999999999927,"Sie sind Militärexperte, arbeiten im NATO Verteidigungskolleg."
+121,"00:09:16,800","00:09:21,320",556.8,561.32,4.5200000000000955,Von mehr Souveränität reden in Europa eigentlich alle.
+122,"00:09:30,080","00:09:34,800",570.08,574.8,4.719999999999914,"Sind es im größten Teil die Deutschen, die zahlen müssen?"
+123,"00:09:36,560","00:09:40,200",576.56,580.2,3.6400000000001,FG: Wir reden über Verteidigungsausgaben.
+124,"00:09:43,920","00:09:47,520",583.92,587.52,3.6000000000000227,Die finanzielle Unterstützung der Ukraine ist sehr sehr
+125,"00:09:47,600","00:09:48,440",587.6,588.44,0.8400000000000318,"stark deutsch,"
+126,"00:09:48,520","00:09:51,920",588.52,591.92,3.3999999999999773,natürlich schauen alle auf Frankreich.
+127,"00:09:52,400","00:09:56,960",592.4,596.96,4.560000000000059,"Je weiter weg man geographisch von der Ukraine weg ist,"
+128,"00:10:00,360","00:10:03,720",600.36,603.72,3.3600000000000136,desto weniger Unterstützung gibt es.
+129,"00:10:04,680","00:10:05,400",604.68,605.4,0.7200000000000273,"Wir wissen,"
+130,"00:10:05,480","00:10:09,720",605.48,609.72,4.240000000000009,dass Macron oder die politische Mitte in Frankreich mit dem Rücken
+131,"00:10:09,800","00:10:11,720",609.8,611.72,1.9200000000000728,"zur Wand steht,"
+132,"00:10:14,200","00:10:17,720",614.2,617.72,3.519999999999982,die Staatsverschuldung ist unglaublich.
+133,"00:10:24,560","00:10:28,600",624.56,628.6,4.040000000000077,"Es gibt Wahlen nächstes oder übernächstes Jahr,"
+134,"00:10:32,000","00:10:37,200",632.0,637.2,5.2000000000000455,ich glaube er kann es sich einfach innenpolitisch nicht leisten.
+135,"00:10:42,920","00:10:46,960",642.92,646.96,4.040000000000077,"Es ist nicht so, dass Frankreich, wenn es um die Ukraine geht,"
+136,"00:10:47,040","00:10:48,400",647.04,648.4,1.3600000000000136,ausschert.
+137,"00:10:48,480","00:10:51,200",648.48,651.2,2.7200000000000273,"Eigentlich sagt Frankreich,"
+138,"00:10:52,000","00:10:55,760",652.0,655.76,3.759999999999991,dass Europa strategisch souverän sein muss.
+139,"00:10:56,880","00:11:01,680",656.88,661.68,4.7999999999999545,Da gab es aus konservativen Kreisen in Deutschland ganz schönen Pushback.
+140,"00:11:01,760","00:11:04,480",661.76,664.48,2.7200000000000273,"Mir wurde gesagt, ich sei antiamerikanisch."
+141,"00:11:04,520","00:11:09,200",664.52,669.2,4.680000000000064,"Das ist natürlich, wir sind jetzt an einem anderen Punkt,"
+142,"00:11:10,960","00:11:15,320",670.96,675.32,4.360000000000014,"ich hätte es mir anders gewünscht, auf der anderen Seite denke ich,"
+143,"00:11:15,400","00:11:18,520",675.4,678.52,3.1200000000000045,"der Krug geht solange zum Brunnen, bis er bricht."
+144,"00:11:18,600","00:11:21,120",678.6,681.12,2.519999999999982,"Es musste so wehtun, dass wir verstehen,"
+145,"00:11:21,200","00:11:23,320",681.2,683.32,2.1200000000000045,dass Verteidigung kein Luxus ist.
+146,"00:11:23,400","00:11:27,240",683.4,687.24,3.840000000000032,Alles andere existiert nicht ohne Sicherheit.
+147,"00:11:38,760","00:11:43,200",698.76,703.2,4.440000000000055,MI: Ausgerechnet die Franzosen wollten das schon sehr viel schneller
+148,"00:11:43,280","00:11:45,800",703.28,705.8,2.519999999999982,und sehr viel radikaler.
+149,"00:11:46,080","00:11:49,680",706.08,709.68,3.599999999999909,"Sie stehen jetzt nach zwei Berichten in der Kritik,"
+150,"00:11:49,720","00:11:53,400",709.72,713.4,3.67999999999995,weil sie ihre eigene Verteidigung reduziert haben sollen.
+151,"00:11:53,480","00:11:57,160",713.48,717.16,3.67999999999995,Ausgerechnet an diesem Frankreich gab es auch Kritik.
+152,"00:11:57,240","00:12:00,640",717.24,720.64,3.3999999999999773,"Wer wüsste das besser, als unser Bundesaußenminister,"
+153,"00:12:00,720","00:12:01,760",720.72,721.76,1.0399999999999636,Johann Wadephul.
+154,"00:12:01,840","00:12:05,280",721.84,725.28,3.439999999999941,"Er ist uns an diesem Abend aus Stuttgart zugeschaltet,"
+155,"00:12:05,400","00:12:07,960",725.4,727.96,2.560000000000059,weil da morgen der CDU-Parteitag beginnt.
+156,"00:12:08,080","00:12:11,640",728.08,731.64,3.5599999999999454,"Ich sage Guten Abend, Herr Außenminister."
+157,"00:12:17,320","00:12:20,840",737.32,740.84,3.519999999999982,"Wir sind dankbar, dass die Leitung steht, der Kanzler,"
+158,"00:12:20,920","00:12:24,920",740.92,744.92,4.0,das haben Sie verfolgt grenzt sich von der Trump Regierung ab.
+159,"00:12:25,000","00:12:26,080",745.0,746.08,1.080000000000041,Sie treten Macron noch mal vors Schienenbein.
+160,"00:12:28,360","00:12:31,520",748.36,751.52,3.159999999999968,- Er spricht immer wieder richtigerweise von unserem Streben
+161,"00:12:31,600","00:12:33,360",751.6,753.36,1.759999999999991,nach europäischer Souveränität.
+162,"00:12:33,440","00:12:36,720",753.44,756.72,3.2799999999999727,"Wer davon spricht, muss im eigenen Land danach handeln."
+163,"00:12:36,800","00:12:39,640",756.8,759.64,2.840000000000032,Bedauerlicherweise sind die Anstrengungen
+164,"00:12:39,720","00:12:41,880",759.72,761.88,2.159999999999968,in Frankreich bislang unzureichend.
+165,"00:12:47,880","00:12:51,320",767.88,771.32,3.4400000000000546,"MI: Bislang unzureichend, wir dachten, ob es gut ist,"
+166,"00:12:51,360","00:12:55,640",771.36,775.64,4.279999999999973,zeitgleich die USA und die Franzosen mal kurz aufs Korn zu nehmen?
+167,"00:12:55,720","00:12:58,440",775.72,778.44,2.7200000000000273,"JW: Nein, es ist genau das,"
+168,"00:12:59,440","00:13:03,880",779.44,783.88,4.439999999999941,was gerade in ihrer Runde auch richtigerweise diskutiert worden ist.
+169,"00:13:03,960","00:13:08,040",783.96,788.04,4.079999999999927,"Ich möchte noch mal unterstreichen, der Kern all dessen ist ja,"
+170,"00:13:08,080","00:13:12,760",788.08,792.76,4.67999999999995,dass wir mit Frankreich einer Meinung sind.
+171,"00:13:31,800","00:13:33,280",811.8,813.28,1.4800000000000182,"Wir sind einer Meinung,"
+172,"00:13:33,360","00:13:37,280",813.36,817.28,3.919999999999959,"dass wir in Europa stärkere Anstrengungen unternehmen müssen,"
+173,"00:13:37,360","00:13:38,200",817.36,818.2,0.8400000000000318,"um souveräner,"
+174,"00:13:38,280","00:13:40,480",818.28,820.48,2.2000000000000455,"ich verwende gerne den Komparativ,"
+175,"00:13:40,560","00:13:42,160",820.56,822.16,1.6000000000000227,zu werden.
+176,"00:13:45,040","00:13:48,600",825.04,828.6,3.560000000000059,"Nicht unabhängig von den USA, das will niemand."
+177,"00:13:48,640","00:13:52,480",828.64,832.48,3.840000000000032,Diese Diskussionen werden auch in Washington nicht geführt.
+178,"00:13:52,520","00:13:55,320",832.52,835.32,2.800000000000068,Aber wir müssen mehr machen.
+179,"00:13:55,880","00:14:00,480",835.88,840.48,4.600000000000023,"Wir dürfen nicht abwarten, die USA gehören dazu, wie andere eben auch."
+180,"00:14:00,520","00:14:02,280",840.52,842.28,1.759999999999991,"Wir sollten nicht abwarten,"
+181,"00:14:02,320","00:14:06,880",842.32,846.88,4.559999999999945,bis der nächste Gipfel in Ankara kommt und der amerikanische Präsident
+182,"00:14:06,920","00:14:09,000",846.92,849.0,2.080000000000041,"uns dann vorhält,"
+183,"00:14:22,320","00:14:25,640",862.32,865.64,3.3199999999999363,dass wir die Ziele nicht erreichen.
+184,"00:14:26,120","00:14:29,960",866.12,869.96,3.840000000000032,"Wir müssen es ernst meinen, was ich klarstellen möchte ist,"
+185,"00:14:30,040","00:14:33,560",870.04,873.56,3.519999999999982,lassen Sie uns nicht eine Entweder-oder-Debatte führen.
+186,"00:14:33,600","00:14:38,360",873.6,878.36,4.759999999999991,"Lassen Sie uns eine Debatte führen, was wir in Europa mehr machen müssen,"
+187,"00:14:38,400","00:14:42,960",878.4,882.96,4.560000000000059,"aber auch, was wir an den USA haben. Es ist ein verlässliches Bündnis,"
+188,"00:14:43,000","00:14:45,680",883.0,885.68,2.67999999999995,ohne die USA hätten wir keine hinreichende
+189,"00:14:45,760","00:14:47,760",885.76,887.76,2.0,"Verteidigungsfähigkeit Europas,"
+190,"00:14:47,840","00:14:52,480",887.84,892.48,4.639999999999986,"weder nuklear, noch konventionell, noch was Geheimdienstarbeit angeht,"
+191,"00:14:52,560","00:14:54,360",892.56,894.36,1.8000000000000682,das muss man deutlich sagen.
+192,"00:14:54,440","00:14:59,080",894.44,899.08,4.639999999999986,"Noch mal, es ist richtig zu sagen, wir werden souveräner,"
+193,"00:14:59,600","00:15:02,240",899.6,902.24,2.6399999999999864,aber nicht völlig unabhängig von den USA.
+194,"00:15:02,280","00:15:03,360",902.28,903.36,1.080000000000041,"Das will niemand,"
+195,"00:15:03,440","00:15:06,440",903.44,906.44,3.0,in dieser Abstufung würde ich es gerne noch mal
+196,"00:15:06,480","00:15:09,240",906.48,909.24,2.759999999999991,in dieser Runde beisteuern.
+197,"00:15:10,800","00:15:15,120",910.8,915.12,4.32000000000005,"MI: Unabhängiger, das haben wir genauso formuliert."
+198,"00:15:15,760","00:15:20,760",915.76,920.76,5.0,"Friedrich Merz selbst sagte in Erinnerung an das letzte Jahr,"
+199,"00:15:28,840","00:15:32,760",928.84,932.76,3.919999999999959,"dass es diese großen Schulden für die Verteidigung brauchte,"
+200,"00:15:32,800","00:15:35,760",932.8,935.76,2.9600000000000364,"dass es diese unlimitierten Schulden brauchte,"
+201,"00:15:35,800","00:15:38,680",935.8,938.68,2.8799999999999955,"damit ""Deutschland Trump in der NATO bleibt""."
+202,"00:15:38,720","00:15:41,800",938.72,941.8,3.0799999999999272,Im Grunde hat Deutschland mit unserem Engagement
+203,"00:15:41,880","00:15:44,640",941.88,944.64,2.759999999999991,in der Verteidigung die NATO gerettet.
+204,"00:15:44,640","00:15:48,240",944.64,948.24,3.6000000000000227,"Würden sie auch sagen, dass Donald Trump kurz davor war,"
+205,"00:15:48,360","00:15:50,400",948.36,950.4,2.0399999999999636,raus zu springen?
+206,"00:16:00,320","00:16:02,560",960.32,962.56,2.2399999999998954,"JW: Jedenfalls war es ein Erwartung,"
+207,"00:16:02,600","00:16:05,480",962.6,965.48,2.8799999999999955,"die wir seit vielen Malen schon gehört haben,"
+208,"00:16:05,560","00:16:08,760",965.56,968.76,3.2000000000000455,Donald Trump hat das mit großer Deutlichkeit schon
+209,"00:16:08,800","00:16:10,200",968.8,970.2,1.400000000000091,zum Ausdruck gebracht.
+210,"00:16:10,280","00:16:13,960",970.28,973.96,3.6800000000000637,"Ich habe auf dem ersten NATO Außenministertreffen gesagt,"
+211,"00:16:14,040","00:16:16,240",974.04,976.24,2.2000000000000455,die 5 % machen wir.
+212,"00:16:19,400","00:16:23,560",979.4,983.56,4.159999999999968,"Jetzt ist da zum Glück Einigkeit, Deutschland ist vorangegangen,"
+213,"00:16:23,600","00:16:25,840",983.6,985.84,2.240000000000009,"ist in die Führungsrolle gegangen,"
+214,"00:16:25,880","00:16:29,560",985.88,989.56,3.67999999999995,die wir für Deutschland auch definiert haben.
+215,"00:16:29,640","00:16:31,480",989.64,991.48,1.8400000000000318,"Deshalb habe ich mir erlaubt,"
+216,"00:16:31,560","00:16:34,160",991.56,994.16,2.6000000000000227,diese mahnenden Worte einmal zu sagen.
+217,"00:16:34,200","00:16:36,880",994.2,996.88,2.67999999999995,"Denn es ist klar, die USA,"
+218,"00:16:37,240","00:16:40,920",997.24,1000.92,3.67999999999995,sie wollen mit uns gemeinsam dieses Verteidigungsbündnis
+219,"00:16:40,960","00:16:42,760",1000.96,1002.76,1.7999999999999545,stark machen.
+220,"00:16:46,920","00:16:50,200",1006.92,1010.2,3.2800000000000864,Das war auch die ausgestreckte Hand von Marco Rubio
+221,"00:16:50,280","00:16:52,680",1010.28,1012.68,2.3999999999999773,auf der Münchner Sicherheitskonferenz.
+222,"00:16:52,760","00:16:58,040",1012.76,1018.04,5.279999999999973,"Es gibt eine Bereitschaft der USA, es mit uns gemeinsam zu machen."
+223,"00:17:00,680","00:17:04,120",1020.68,1024.12,3.439999999999941,"Aber, das setzt voraus, dass wir handlungsfähig sind."
+224,"00:17:04,200","00:17:06,800",1024.2,1026.8,2.599999999999909,Dafür müssen wir mehr Geld in die Hand nehmen.
+225,"00:17:06,840","00:17:11,000",1026.84,1031.0,4.160000000000082,MI: Ich hätte zwei Nachfragen zu dieser Rede von Friedrich Merz.
+226,"00:17:11,040","00:17:15,400",1031.04,1035.4,4.360000000000127,Er hat von einer Kluft zwischen uns und den Amerikanern gesprochen.
+227,"00:17:15,440","00:17:18,840",1035.44,1038.84,3.3999999999998636,Würden Sie ihm da beipflichten? Hat er recht?
+228,"00:17:18,880","00:17:23,440",1038.88,1043.44,4.559999999999945,"JW: Er hat die Punkte beschrieben, wo das der Fall ist."
+229,"00:17:24,880","00:17:29,120",1044.88,1049.12,4.239999999999782,"Wir haben eigenartige Diskussionen in den USA in unsere Richtung,"
+230,"00:17:29,160","00:17:33,720",1049.16,1053.72,4.559999999999945,"was Meinungsfreiheit, Pressefreiheit in Deutschland und Europa angeht."
+231,"00:17:33,760","00:17:36,680",1053.76,1056.68,2.9200000000000728,"Wir könnten unsererseits darauf hinweisen,"
+232,"00:17:36,800","00:17:40,840",1056.8,1060.84,4.039999999999964,"dass wir da auch Entwicklungen in den USA sehen,"
+233,"00:17:40,880","00:17:44,480",1060.88,1064.48,3.599999999999909,bei denen wir einiges befremdlich sehen und Fragen haben
+234,"00:17:44,560","00:17:46,480",1064.56,1066.48,1.9200000000000728,in die amerikanische Richtung.
+235,"00:17:46,560","00:17:51,480",1066.56,1071.48,4.920000000000073,"Deswegen ist es ein Beispiel dafür, dass es auch Punkte gibt,"
+236,"00:17:53,080","00:17:56,520",1073.08,1076.52,3.4400000000000546,wo wir offen miteinander reden können.
+237,"00:18:01,520","00:18:04,760",1081.52,1084.76,3.240000000000009,Wir haben einen klaren Punkt gemacht bei Grönland.
+238,"00:18:04,800","00:18:09,440",1084.8,1089.44,4.6400000000001,Fragen der territorialen Souveränität in unserem Bündnis. Das ist klar.
+239,"00:18:09,480","00:18:12,480",1089.48,1092.48,3.0,Das verletzt unser Wertegerüst.
+240,"00:18:16,920","00:18:19,440",1096.92,1099.44,2.519999999999982,"MI: Interessant, dass sie das erwähnen."
+241,"00:18:19,480","00:18:22,600",1099.48,1102.6,3.119999999999891,"Grönland war eine Geschichte, wo man sagen kann,"
+242,"00:18:22,640","00:18:26,640",1102.64,1106.64,4.0,"es brauchte die Versammlung Europas, um Donald Trump zu sagen,"
+243,"00:18:26,720","00:18:30,800",1106.72,1110.8,4.079999999999927,dass er nicht einfach so eine Insel von Dänemark besetzen kann.
+244,"00:18:30,840","00:18:33,160",1110.84,1113.16,2.3200000000001637,"Das hat alles nicht gereicht,"
+245,"00:18:33,200","00:18:36,280",1113.2,1116.28,3.0799999999999272,was bisher von den NATO-Ländern getan wurde.
+246,"00:18:36,360","00:18:40,600",1116.36,1120.6,4.240000000000009,Sonst hätte er sich das mit Grönland nicht getraut.
+247,"00:18:40,760","00:18:43,320",1120.76,1123.32,2.5599999999999454,"JW: Ich sehe es positiv,"
+248,"00:18:47,840","00:18:51,600",1127.84,1131.6,3.759999999999991,"ich war auch vorher, ein paar Tage, in Washington gewesen."
+249,"00:18:51,640","00:18:53,680",1131.64,1133.68,2.0399999999999636,Ich habe mit vielen gesprochen.
+250,"00:18:53,720","00:18:57,680",1133.72,1137.68,3.9600000000000364,"Ich habe auch mit den Abgeordneten des Kongresses gesprochen,"
+251,"00:18:57,720","00:18:59,880",1137.72,1139.88,2.160000000000082,sie teilen unsere Sicht der Dinge
+252,"00:18:59,920","00:19:01,920",1139.92,1141.92,2.0,und sind mit uns einer Meinung.
+253,"00:19:02,000","00:19:05,400",1142.0,1145.4,3.400000000000091,"Ich glaube, es war gut, dass Europa -"
+254,"00:19:05,440","00:19:09,120",1145.44,1149.12,3.6799999999998363,Manfred Weber hat es richtigerweise gesagt
+255,"00:19:09,720","00:19:13,760",1149.72,1153.76,4.039999999999964,"und er hat die Initiative im europäischen Parlament ergriffen,"
+256,"00:19:13,840","00:19:14,960",1153.84,1154.96,1.1200000000001182,"als er gesagt hat,"
+257,"00:19:15,040","00:19:18,960",1155.04,1158.96,3.9200000000000728,"was im vergangenen Jahr verabredet worden war,"
+258,"00:19:24,760","00:19:27,440",1164.76,1167.44,2.6800000000000637,zu den Zollfragen zwischen den Vereinigten
+259,"00:19:27,480","00:19:29,040",1167.48,1169.04,1.5599999999999454,Staaten von Amerika
+260,"00:19:29,080","00:19:29,800",1169.08,1169.8,0.7200000000000273,"und der EU,"
+261,"00:19:29,840","00:19:32,760",1169.84,1172.76,2.9200000000000728,kann unter diesen Umständen nicht stattfinden.
+262,"00:19:32,840","00:19:34,560",1172.84,1174.56,1.7200000000000273,Das war ein starkes Signal.
+263,"00:19:34,640","00:19:36,720",1174.64,1176.72,2.0799999999999272,Die europäische Geschlossenheit.
+264,"00:19:36,800","00:19:40,160",1176.8,1180.16,3.3600000000001273,Das hat seinen Eindruck hinterlassen.
+265,"00:19:40,480","00:19:44,720",1180.48,1184.72,4.240000000000009,Insofern ist das nach wie vor ein partnerschaftliches Verhältnis.
+266,"00:19:44,800","00:19:47,640",1184.8,1187.64,2.8400000000001455,"Aber auch ein partnerschaftliches Verhältnis,"
+267,"00:19:47,720","00:19:51,440",1187.72,1191.44,3.7200000000000273,in dem wir Europäer ganz selbstbewusst unsere Rolle bereit
+268,"00:19:51,520","00:19:52,720",1191.52,1192.72,1.2000000000000455,sind zu definieren.
+269,"00:19:52,800","00:19:56,920",1192.8,1196.92,4.120000000000118,"Weil wir mehr Verantwortung übernehmen, mehr tun."
+270,"00:19:58,520","00:20:02,160",1198.52,1202.16,3.6400000000001,Gerade im Verteidigungsbereich leisten wir viel mehr als
+271,"00:20:02,240","00:20:05,640",1202.24,1205.64,3.400000000000091,in der Vergangenheit. Das müssen wir weiter ausbauen.
+272,"00:20:05,680","00:20:08,720",1205.68,1208.72,3.0399999999999636,Das tun wir durch Freihandelsabkommen und Dinge
+273,"00:20:08,800","00:20:10,560",1208.8,1210.56,1.759999999999991,im wirtschaftlichen Bereich.
+274,"00:20:10,640","00:20:13,120",1210.64,1213.12,2.479999999999791,"Europa ist dabei, souveräner zu werden."
+275,"00:20:13,160","00:20:14,880",1213.16,1214.88,1.7200000000000273,Unabhängiger zu werden.
+276,"00:20:14,920","00:20:19,520",1214.92,1219.52,4.599999999999909,"Das gibt uns politische Möglichkeiten unserer Partnerschaft,"
+277,"00:20:19,600","00:20:20,440",1219.6,1220.44,0.8400000000001455,"unsere Punkte,"
+278,"00:20:20,520","00:20:25,440",1220.52,1225.44,4.920000000000073,unsere Werte und europäischen Interessen klar zu verteidigen.
+279,"00:20:29,240","00:20:32,360",1229.24,1232.36,3.119999999999891,MI: Sie haben bei der Rede von Rubio geklatscht.
+280,"00:20:32,400","00:20:36,000",1232.4,1236.0,3.599999999999909,War das aus Überzeugung oder Höflichkeit?
+281,"00:20:36,280","00:20:40,320",1236.28,1240.32,4.039999999999964,JW: Ich klatsche grundsätzlich aus Überzeugung.
+282,"00:20:41,680","00:20:45,400",1241.68,1245.4,3.7200000000000273,Das habe ich auch mit Boris Pistorius gemeinsam ernsthaft
+283,"00:20:45,440","00:20:47,920",1245.44,1247.92,2.480000000000018,an dieser Stelle getan.
+284,"00:20:48,360","00:20:52,600",1248.36,1252.6,4.240000000000009,"Bei der Rede von Rubio waren wichtige Elemente drin,"
+285,"00:20:52,640","00:20:54,320",1252.64,1254.32,1.6799999999998363,die für uns wichtig waren.
+286,"00:20:54,400","00:20:56,920",1254.4,1256.92,2.519999999999982,Das Angebot zur weiteren Zusammenarbeit.
+287,"00:20:57,000","00:20:59,080",1257.0,1259.08,2.0799999999999272,Die Werte der gemeinsamen...
+288,"00:20:59,160","00:21:01,760",1259.16,1261.76,2.599999999999909,MI: Wenn man ihnen folgt.
+289,"00:21:07,000","00:21:12,720",1267.0,1272.72,5.720000000000027,"JW: Es gab in der Rede auch Elemente, wo ich nicht voll zugestimmt habe."
+290,"00:21:13,640","00:21:15,960",1273.64,1275.96,2.3199999999999363,Es gab die Elemente.
+291,"00:21:16,360","00:21:18,720",1276.36,1278.72,2.3600000000001273,Etwa zum Klimaschutz.
+292,"00:21:24,120","00:21:27,760",1284.12,1287.76,3.6400000000001,Da haben wir offenkundig mit der jetzigen amerikanischen
+293,"00:21:27,840","00:21:31,040",1287.84,1291.04,3.2000000000000455,"Administration derzeit keinen gemeinsamen Konsens,"
+294,"00:21:31,120","00:21:33,640",1291.12,1293.64,2.520000000000209,was in dem Bereich zu tun ist.
+295,"00:21:33,720","00:21:38,360",1293.72,1298.36,4.639999999999873,Wir halten eine aktive Klimapolitik weiter für notwendig.
+296,"00:21:41,040","00:21:45,280",1301.04,1305.28,4.240000000000009,"Rubio hat gesagt, wir haben eine gemeinsame Basis,"
+297,"00:21:45,600","00:21:49,160",1305.6,1309.16,3.560000000000173,"eine Wertebasis, eine kulturhistorische."
+298,"00:21:52,680","00:21:57,080",1312.68,1317.08,4.399999999999864,"Ich möchte mich ganz bewusst nicht daran beteiligen,"
+299,"00:21:57,160","00:22:00,520",1317.16,1320.52,3.3599999999999,dass wir immer nur das Trennende sehen
+300,"00:22:04,560","00:22:08,080",1324.56,1328.08,3.519999999999982,"Das, was uns voneinander unterscheidet."
+301,"00:22:09,720","00:22:11,680",1329.72,1331.68,1.9600000000000364,Ich möchte das Positive sehen.
+302,"00:22:11,720","00:22:13,720",1331.72,1333.72,2.0,Wir sind voneinander abhängig.
+303,"00:22:13,760","00:22:16,840",1333.76,1336.84,3.0799999999999272,"Aus vielen Gesprächen mit Rubio,"
+304,"00:22:17,880","00:22:23,040",1337.88,1343.04,5.1599999999998545,"persönlichen unter vier Augen oder auch in einem größeren Kreis,"
+305,"00:22:23,280","00:22:26,480",1343.28,1346.48,3.2000000000000455,"weiß ich, dass er will, dass das transatlantische"
+306,"00:22:26,520","00:22:27,800",1346.52,1347.8,1.2799999999999727,Band bestehen bleibt
+307,"00:22:27,880","00:22:31,320",1347.88,1351.32,3.439999999999827,"und wir erfolgreich zusammenarbeiten können,"
+308,"00:22:31,400","00:22:33,440",1351.4,1353.44,2.0399999999999636,wie wir es jahrelang getan habe.
+309,"00:22:33,520","00:22:36,640",1353.52,1356.64,3.1200000000001182,Das Angebot sollten wir annehmen.
+310,"00:22:38,760","00:22:42,480",1358.76,1362.48,3.7200000000000273,MI: Das ist unterschiedlich interpretiert worden und auch
+311,"00:22:42,520","00:22:45,160",1362.52,1365.16,2.6400000000001,empfunden worden. Auch vom Bundeskanzler.
+312,"00:22:45,200","00:22:47,000",1365.2,1367.0,1.7999999999999545,"Gucken wie er auf die Dinge,"
+313,"00:22:47,080","00:22:49,800",1367.08,1369.8,2.7200000000000273,die dort besprochen wurden.
+314,"00:22:53,080","00:22:56,320",1373.08,1376.32,3.240000000000009,Wie die Aufteilung der Funktionen.
+315,"00:22:59,000","00:23:02,560",1379.0,1382.56,3.5599999999999454,"Europa werden konventionell verteidigen,"
+316,"00:23:05,120","00:23:09,160",1385.12,1389.16,4.040000000000191,die US-Amerikaner den nuklearen Schirm liefern.
+317,"00:23:13,880","00:23:17,360",1393.88,1397.36,3.479999999999791,JW: Das ganze Bündnis besteht auf Vertrauensgrundlage.
+318,"00:23:17,440","00:23:20,240",1397.44,1400.24,2.7999999999999545,Deswegen bin ich mir sicher.
+319,"00:23:20,560","00:23:24,040",1400.56,1404.04,3.480000000000018,"Ich weiß, nicht nur aus meinen politischen Gesprächen,"
+320,"00:23:24,120","00:23:26,120",1404.12,1406.12,2.0,"sondern auch von allem Beamten,"
+321,"00:23:26,200","00:23:28,760",1406.2,1408.76,2.5599999999999454,die im zivilen Dienstsenator sind
+322,"00:23:28,800","00:23:33,200",1408.8,1413.2,4.400000000000091,"und auch von allen Soldatinnen und Soldaten der NATO,"
+323,"00:23:36,360","00:23:39,800",1416.36,1419.8,3.4400000000000546,dass wir vertrauensvoll mit den USA zusammenarbeiten.
+324,"00:23:39,840","00:23:43,800",1419.84,1423.8,3.9600000000000364,"Es gibt doch keinen Anlass, daran zu zweifeln."
+325,"00:23:45,640","00:23:49,160",1425.64,1429.16,3.519999999999982,"Es läuft auch nicht exakt in dieser reinen Abgrenzung,"
+326,"00:23:49,240","00:23:51,760",1429.24,1431.76,2.519999999999982,wie sie es gesagt haben.
+327,"00:23:53,520","00:23:56,120",1433.52,1436.12,2.599999999999909,Es gibt Nuklearbewaffnung in Frankreich.
+328,"00:23:56,160","00:23:59,160",1436.16,1439.16,3.0,Auch im Vereinigten Königreich.
+329,"00:24:01,040","00:24:03,920",1441.04,1443.92,2.880000000000109,"Es gibt nukleare Teilhabe, so nennen wir das,"
+330,"00:24:04,000","00:24:07,400",1444.0,1447.4,3.400000000000091,"durch deutsche Jets, Luftstreitkräfte."
+331,"00:24:10,960","00:24:13,560",1450.96,1453.56,2.599999999999909,Die auch mit einer Entscheidungsbefugnis
+332,"00:24:13,640","00:24:15,480",1453.64,1455.48,1.8399999999999181,in Deutschland
+333,"00:24:16,320","00:24:17,680",1456.32,1457.68,1.3600000000001273,daran beteiligt sind.
+334,"00:24:17,760","00:24:20,760",1457.76,1460.76,3.0,"Wir entwickeln auch konventionelle Fähigkeiten,"
+335,"00:24:20,840","00:24:24,640",1460.84,1464.64,3.800000000000182,die einer entsprechenden Abschreckungswirkung gleichkommen.
+336,"00:24:24,720","00:24:27,040",1464.72,1467.04,2.3199999999999363,"Insgesamt gesehen ist für alle klar,"
+337,"00:24:27,080","00:24:30,280",1467.08,1470.28,3.2000000000000455,es gibt eine stärkere europäische Verantwortung.
+338,"00:24:30,400","00:24:34,280",1470.4,1474.28,3.8799999999998818,"Selber Verteidigungs zu sein, mehr zu leisten."
+339,"00:24:39,440","00:24:43,480",1479.44,1483.48,4.039999999999964,Aber es gibt trotzdem ein bestehendes gemeinsames Verständnis.
+340,"00:24:43,560","00:24:47,680",1483.56,1487.68,4.120000000000118,"Ich kann nur dringend dazu raten, daran festzuhalten."
+341,"00:24:47,800","00:24:48,920",1487.8,1488.92,1.1200000000001182,"Damit wir all das,"
+342,"00:24:48,960","00:24:52,880",1488.96,1492.88,3.9200000000000728,"was an Herausforderungen vor und steht, auch mit China..."
+343,"00:24:52,960","00:24:58,320",1492.96,1498.32,5.3599999999999,"Dass wir das mit den Amerikanern weiterhin anstreben und praktizieren,"
+344,"00:24:58,400","00:25:00,840",1498.4,1500.84,2.439999999999827,dazu sollten wir weiterhin bereit sein.
+345,"00:25:00,920","00:25:04,840",1500.92,1504.84,3.9199999999998454,Es gibt keine vernünftige Alternative für uns.
+346,"00:25:09,400","00:25:11,800",1509.4,1511.8,2.3999999999998636,MI: Ich bitte um eine kurze Antwort.
+347,"00:25:11,880","00:25:14,640",1511.88,1514.64,2.759999999999991,Müssen die Europäer an den Verhandlungstisch
+348,"00:25:14,800","00:25:16,640",1514.8,1516.64,1.8400000000001455,um die Ukraine?
+349,"00:25:17,680","00:25:20,040",1517.68,1520.04,2.3599999999999,JW: Selbstverständlich.
+350,"00:25:20,120","00:25:24,760",1520.12,1524.76,4.6400000000001,"Alles, was dort verhandelt wird, betrifft Europa im Kern."
+351,"00:25:25,880","00:25:29,040",1525.88,1529.04,3.1599999999998545,Es hat sicherheitspolitisch eine große Bedeutung.
+352,"00:25:29,120","00:25:31,000",1529.12,1531.0,1.8800000000001091,"Wir bestehen geradezu darauf,"
+353,"00:25:31,080","00:25:33,840",1531.08,1533.84,2.759999999999991,an diesen Verhandlungen beteiligt zu werden.
+354,"00:25:33,920","00:25:35,880",1533.92,1535.88,1.9600000000000364,Das sieht auch die Ukraine so.
+355,"00:25:35,960","00:25:39,880",1535.96,1539.88,3.9200000000000728,Das haben wir auch den anderen beiden Verhandlungsteilnehmern
+356,"00:25:39,920","00:25:42,640",1539.92,1542.64,2.7200000000000273,aus den USA und Russland klar signalisiert.
+357,"00:25:42,800","00:25:44,880",1542.8,1544.88,2.0800000000001546,"MI: Die USA haben lange versucht,"
+358,"00:25:44,960","00:25:47,400",1544.96,1547.4,2.4400000000000546,mit dem Iran ein Abkommen zu schließen.
+359,"00:25:47,480","00:25:52,600",1547.48,1552.6,5.119999999999891,"Wenn die USA den Iran militärisch mit Israel zusammen angreifen,"
+360,"00:25:56,480","00:26:00,800",1556.48,1560.8,4.319999999999936,machen Sie dann wieder die Drecksarbeit für Europa?
+361,"00:26:00,880","00:26:03,720",1560.88,1563.72,2.839999999999918,"JW: Ich gehöre zu denjenigen,"
+362,"00:26:04,120","00:26:07,760",1564.12,1567.76,3.6400000000001,"die mit dem iranischen Kollegen Gespräche geführt haben,"
+363,"00:26:07,840","00:26:10,760",1567.84,1570.76,2.9200000000000728,damit das Problem gelöst wird.
+364,"00:26:12,720","00:26:18,040",1572.72,1578.04,5.319999999999936,Es geht um einen nachvollziehbaren Verzicht auf Nuklearbewaffnung.
+365,"00:26:20,040","00:26:24,080",1580.04,1584.08,4.039999999999964,Es geht auch um die Nutzung von ballistischen Raketensystemen.
+366,"00:26:24,160","00:26:26,960",1584.16,1586.96,2.7999999999999545,"Ich hoffe, dass der Iran ernsthaft versteht,"
+367,"00:26:27,040","00:26:30,760",1587.04,1590.76,3.7200000000000273,"dass Maßnahmen erfolgen müssen, die die Weltgemeinschaft -"
+368,"00:26:30,840","00:26:33,760",1590.84,1593.76,2.9200000000000728,nicht nur die USA und Israel -
+369,"00:26:36,280","00:26:40,120",1596.28,1600.12,3.839999999999918,"davon überzeugen, dass auf derartige Bewaffnung, Maßnahmen,"
+370,"00:26:40,200","00:26:41,440",1600.2,1601.44,1.240000000000009,verzichtet wird.
+371,"00:26:41,520","00:26:44,240",1601.52,1604.24,2.7200000000000273,"Wenn das gelingt, gibt es eine gute Chance,"
+372,"00:26:44,320","00:26:48,160",1604.32,1608.16,3.8400000000001455,dass die Auseinandersetzung friedlich beigelegt werden kann.
+373,"00:26:48,280","00:26:51,680",1608.28,1611.68,3.400000000000091,"Wir tun alles, in unsere Möglichkeiten."
+374,"00:26:54,760","00:26:59,400",1614.76,1619.4,4.6400000000001,MI: Der Bundesaußenminister. Vielen Dank nach Stuttgart.
+375,"00:27:07,640","00:27:09,520",1627.64,1629.52,1.8799999999998818,Wir sind zurück in der Runde.
+376,"00:27:09,640","00:27:11,840",1629.64,1631.84,2.199999999999818,"Wir mussten nach dem Iran fragen,"
+377,"00:27:11,880","00:27:15,080",1631.88,1635.08,3.199999999999818,"weil der auch für das kommende Wochenende notiert,"
+378,"00:27:15,200","00:27:20,760",1635.2,1640.76,5.559999999999945,dass es Auseinandersetzungen geben wird. Dass die USA angreifen werden.
+379,"00:27:21,160","00:27:24,600",1641.16,1644.6,3.439999999999827,"Dahingehend gefragt, macht Donald Trump das parallel?"
+380,"00:27:24,680","00:27:27,120",1644.68,1647.12,2.439999999999827,"Hat er die Vorstellung,"
+381,"00:27:27,560","00:27:30,800",1647.56,1650.8,3.240000000000009,"den Friedensnobelpreis zu kriegen,"
+382,"00:27:33,520","00:27:36,800",1653.52,1656.8,3.2799999999999727,"weil er parallel Venezuela, die Russen, die Ukraine"
+383,"00:27:36,880","00:27:39,400",1656.88,1659.4,2.519999999999982,und den Iran befriedigt?
+384,"00:27:40,400","00:27:45,600",1660.4,1665.6,5.199999999999818,FP: Den Friedensnobelpreis für das kommende Jahr sehe ich nicht.
+385,"00:27:49,960","00:27:54,480",1669.96,1674.48,4.519999999999982,"Ich glaube schon, dass Situation um den Iran erst ist."
+386,"00:27:58,520","00:28:02,440",1678.52,1682.44,3.9200000000000728,"Wenn man sieht, wie viele militärische Komponenten"
+387,"00:28:02,520","00:28:05,560",1682.52,1685.56,3.0399999999999636,die Vereinigten Staaten in den vergangenen Tagen
+388,"00:28:05,640","00:28:07,560",1685.64,1687.56,1.9199999999998454,"in die Region geschickt haben,"
+389,"00:28:07,640","00:28:11,880",1687.64,1691.88,4.240000000000009,der zweite Flugzeugträgerverbund ist auch schon da.
+390,"00:28:13,240","00:28:15,960",1693.24,1695.96,2.7200000000000273,Die Quelle mit denen wir im amerikanischen
+391,"00:28:16,040","00:28:18,360",1696.04,1698.36,2.3199999999999363,"Sicherheitsrat reden,"
+392,"00:28:23,160","00:28:23,560",1703.16,1703.56,0.3999999999998636,"sagen,"
+393,"00:28:23,640","00:28:27,760",1703.64,1707.76,4.119999999999891,dass die Amerikaner am Wochenende für einen Schlag bereit wären.
+394,"00:28:27,840","00:28:30,240",1707.84,1710.24,2.400000000000091,"Meines Erachtens ist es aber auch so,"
+395,"00:28:30,320","00:28:33,440",1710.32,1713.44,3.1200000000001182,dass die Amerikaner ernsthaft eine Lösung suchen.
+396,"00:28:33,520","00:28:38,560",1713.52,1718.56,5.039999999999964,"Die dahingehend ist, dass der Iran keine Atomwaffen haben wird."
+397,"00:28:42,360","00:28:45,320",1722.36,1725.32,2.9600000000000364,"Die Iraner sagen, sie wollen keine Atomwaffen."
+398,"00:28:45,400","00:28:49,040",1725.4,1729.04,3.6399999999998727,"Es geht darum, dass das verifizierbar ist."
+399,"00:28:51,040","00:28:54,840",1731.04,1734.84,3.7999999999999545,"Die Iraner wissen, dass die Lage ernst ist."
+400,"00:28:57,520","00:29:01,040",1737.52,1741.04,3.519999999999982,Es würde die gesamte Region in Mitleidenschaft ziehen.
+401,"00:29:01,120","00:29:06,440",1741.12,1746.44,5.320000000000164,"Beide Seiten, habe ich den Eindruck, sind an einer Lösung interessiert."
+402,"00:29:06,520","00:29:10,840",1746.52,1750.84,4.319999999999936,"Das wird von Tag zu Tag schwieriger, je größer die Streitkraft ist."
+403,"00:29:10,920","00:29:14,480",1750.92,1754.48,3.5599999999999454,"Man darf nicht vergessen, dass die Länder in der Region,"
+404,"00:29:14,600","00:29:17,360",1754.6,1757.36,2.759999999999991,"die Golfstaaten, ein großes Interesse haben,"
+405,"00:29:17,440","00:29:20,400",1757.44,1760.4,2.9600000000000364,dass es zu einem Frieden kommt.
+406,"00:29:25,040","00:29:28,360",1765.04,1768.36,3.3199999999999363,"Man darf nicht vergessen, dass Länder wie Katar,"
+407,"00:29:28,440","00:29:31,680",1768.44,1771.68,3.240000000000009,"die Vereinigten Arabischen Emirate,"
+408,"00:29:34,240","00:29:39,480",1774.24,1779.48,5.240000000000009,"die leben davon, dass sie stabil in einer instabilen Region sind."
+409,"00:29:42,640","00:29:47,240",1782.64,1787.24,4.599999999999909,"Ich glaube, es ist jedem bewusst, wie dramatisch zurzeit die Lage ist."
+410,"00:29:47,320","00:29:49,440",1787.32,1789.44,2.1200000000001182,Meines Erachtens -
+411,"00:29:54,600","00:29:56,360",1794.6,1796.36,1.759999999999991,der Bundesaußenminister hat
+412,"00:29:56,480","00:29:59,760",1796.48,1799.76,3.2799999999999727,von dem amerikanischen Verhandlungsteam gesprochen -
+413,"00:29:59,920","00:30:02,200",1799.92,1802.2,2.2799999999999727,denen ist das auch bewusst.
+414,"00:30:02,280","00:30:03,720",1802.28,1803.72,1.4400000000000546,MI: Ein kleiner Exkurs.
+415,"00:30:03,840","00:30:07,520",1803.84,1807.52,3.6800000000000637,Iran mit Blick auf das kommende Wochenende.
+416,"00:30:08,600","00:30:11,120",1808.6,1811.12,2.519999999999982,Wir sind zurück bei der Lage in Europa.
+417,"00:30:11,200","00:30:13,440",1811.2,1813.44,2.240000000000009,"Und der besonderen Herausforderung,"
+418,"00:30:13,520","00:30:16,800",1813.52,1816.8,3.2799999999999727,der Ukraine substantiell zu helfen.
+419,"00:30:18,640","00:30:21,600",1818.64,1821.6,2.959999999999809,90 Milliarden Euro Akkreditierung durch die EU
+420,"00:30:21,680","00:30:24,200",1821.68,1824.2,2.519999999999982,ist in den Raum gestellt.
+421,"00:30:24,320","00:30:26,680",1824.32,1826.68,2.3600000000001273,Dennoch erlebt man Wolodymyr Selenskyj
+422,"00:30:26,840","00:30:29,960",1826.84,1829.96,3.1200000000001182,"der Münchner Sicherheitskonferenz,"
+423,"00:30:30,200","00:30:34,360",1830.2,1834.36,4.1599999999998545,"wie er da umbringt, fleht, dass endlich mehr militärisches Gerät"
+424,"00:30:34,480","00:30:36,840",1834.48,1836.84,2.3599999999999,in die Ukraine kommen.
+425,"00:30:38,680","00:30:43,640",1838.68,1843.64,4.960000000000036,"Haben Sie eine Erklärung dafür, warum das das größte Problem?"
+426,"00:30:44,320","00:30:47,760",1844.32,1847.76,3.4400000000000546,MW: Nein. Dafür habe ich nicht genügend Geheimwissen.
+427,"00:30:47,880","00:30:51,280",1847.88,1851.28,3.3999999999998636,Ich sehe die Muster seit vielen Jahren.
+428,"00:30:52,440","00:30:55,720",1852.44,1855.72,3.2799999999999727,"Immer, wenn die Ukraine in der Lage wäre,"
+429,"00:30:55,800","00:30:58,240",1855.8,1858.24,2.4400000000000546,"in eine Gegenoffensive zu gehen,"
+430,"00:30:58,320","00:31:00,960",1858.32,1860.96,2.6400000000001,gefrieren die Lieferungen.
+431,"00:31:01,560","00:31:04,680",1861.56,1864.68,3.1200000000001182,"Ich weiß nicht, warum es so ist."
+432,"00:31:06,200","00:31:06,760",1866.2,1866.76,0.5599999999999454,"Ich sehe,"
+433,"00:31:06,880","00:31:11,400",1866.88,1871.4,4.519999999999982,dass noch nicht alle möglichen Sanktionen gezogen sind.
+434,"00:31:15,080","00:31:19,120",1875.08,1879.12,4.039999999999964,Russland kann noch gut eine Schattenflotte betreiben.
+435,"00:31:19,200","00:31:22,720",1879.2,1882.72,3.519999999999982,"Ich sehe, es ist immer eine Frage des Timings."
+436,"00:31:22,840","00:31:25,720",1882.84,1885.72,2.880000000000109,"Es braucht eine Entschlossenheit,"
+437,"00:31:25,800","00:31:28,920",1885.8,1888.92,3.1200000000001182,sehr viel gleichzeitig zu machen.
+438,"00:31:29,360","00:31:32,640",1889.36,1892.64,3.2800000000002,"Damit Putin nicht immer wieder die Möglichkeit hat,"
+439,"00:31:32,760","00:31:33,920",1892.76,1893.92,1.1600000000000819,"diesen Fleischwolf,"
+440,"00:31:34,000","00:31:36,720",1894.0,1896.72,2.7200000000000273,"den er mit seinem Menschen macht, nach zu füttern."
+441,"00:31:42,760","00:31:45,280",1902.76,1905.28,2.519999999999982,"MI: Der russische Winter ist sehr lang,"
+442,"00:31:45,360","00:31:49,400",1905.36,1909.4,4.040000000000191,er führt einen Krieg gegen die Zivilbevölkerung.
+443,"00:31:54,840","00:31:57,840",1914.84,1917.84,3.0,"MW: Der ukrainische Winter ist auch lang,"
+444,"00:31:57,920","00:32:02,000",1917.92,1922.0,4.079999999999927,"die Leute sitzen in ihren Wohnungen ohne Strom, ohne Wasser."
+445,"00:32:02,040","00:32:05,920",1922.04,1925.92,3.880000000000109,Alte Leute sind eingesperrt in den Hochhäusern und es werden
+446,"00:32:06,000","00:32:10,560",1926.0,1930.56,4.559999999999945,Menschenjagden veranstaltet durch Drohnen auf Zivilisten.
+447,"00:32:10,640","00:32:13,560",1930.64,1933.56,2.9199999999998454,"Dem allen sehen wir jetzt seit vier Jahren zu,"
+448,"00:32:13,640","00:32:16,880",1933.64,1936.88,3.240000000000009,"wir hätten die Möglichkeit gehabt, mehr zu liefern,"
+449,"00:32:17,000","00:32:20,280",1937.0,1940.28,3.2799999999999727,wir haben aber jeden Waffentypus einzeln diskutiert.
+450,"00:32:20,360","00:32:24,200",1940.36,1944.2,3.8400000000001455,"MI: Jetzt gibt es ganz viel Geld und man fragt sich zurecht,"
+451,"00:32:24,320","00:32:27,440",1944.32,1947.44,3.1200000000001182,"der Zuschauer fragt sich, worin besteht das Problem?"
+452,"00:32:28,440","00:32:29,720",1948.44,1949.72,1.2799999999999727,"- Die Ukraine am Tropf,"
+453,"00:32:29,800","00:32:33,520",1949.8,1953.52,3.7200000000000273,seit letztem Jahr fast ausschließlich am europäischen.
+454,"00:32:33,600","00:32:35,680",1953.6,1955.68,2.0800000000001546,Die USA haben Militärhilfen eingestellt.
+455,"00:32:35,760","00:32:38,680",1955.76,1958.68,2.9200000000000728,"In Europa sind es überproportional Skandinavier und Balten,"
+456,"00:32:38,760","00:32:40,200",1958.76,1960.2,1.4400000000000546,die die Ukraine unterstützen.
+457,"00:32:40,320","00:32:43,320",1960.32,1963.32,3.0,"In Westeuropa hauptsächlich Briten, Niederländer und Deutsche."
+458,"00:32:43,400","00:32:46,480",1963.4,1966.48,3.0799999999999272,"Frankreich hat sich bislang nicht am ""PURL-Programm"" beteiligt,"
+459,"00:32:46,560","00:32:49,320",1966.56,1969.32,2.759999999999991,also dem Kauf von US-Waffen zur Verteidigung der Ukraine.
+460,"00:32:49,400","00:32:51,200",1969.4,1971.2,1.7999999999999545,In Folge stockten die Lieferungen.
+461,"00:32:51,280","00:32:54,960",1971.28,1974.96,3.6800000000000637,"- Eines der schlimmsten Dinge, die man in Kriegszeiten zu hören bekommt,"
+462,"00:32:55,040","00:33:00,040",1975.04,1980.04,5.0,"ist ein Bericht des Luftwaffenkommandeurs,"
+463,"00:33:00,080","00:33:25,440",1980.08,2005.44,25.360000000000127,dass keine Luftabwehrraketen mehr da sind.
+464,"00:33:25,480","00:33:28,920",2005.48,2008.92,3.4400000000000546,"MI: Manfred Weber, es gibt Hilfsprogramme von der EU,"
+465,"00:33:28,960","00:33:31,920",2008.96,2011.92,2.9600000000000364,"Hilfsprogramme von der NATO. Wie kann es sein,"
+466,"00:33:31,960","00:33:37,240",2011.96,2017.24,5.279999999999973,"dass da nicht genug Hilfe kommt, dass nicht genügend Raketen sind?"
+467,"00:33:39,960","00:33:43,200",2019.96,2023.2,3.240000000000009,"MW: Wir haben ein Beschaffungsproblem,"
+468,"00:33:43,240","00:33:48,000",2023.24,2028.0,4.759999999999991,"Länder wie Polen beispielsweise, die überlegen schon auch,"
+469,"00:33:48,080","00:33:52,200",2028.08,2032.2,4.120000000000118,was brauche ich für mein Land im Fall der Fälle sollte wirklich
+470,"00:33:52,240","00:33:55,760",2032.24,2035.76,3.519999999999982,die Provokation von Putin weitergehen.
+471,"00:33:56,800","00:34:02,160",2036.8,2042.16,5.360000000000127,"Deshalb sind diese Bedenken da, aber ich möchte ausdrücklich sagen,"
+472,"00:34:06,240","00:34:09,840",2046.24,2049.84,3.6000000000001364,"wir haben im europäischen Parlament darüber abgestimmt,"
+473,"00:34:09,880","00:34:13,240",2049.88,2053.24,3.3599999999996726,es wurden 90 Milliarden Euro zur Verfügung gestellt.
+474,"00:34:13,280","00:34:16,080",2053.28,2056.08,2.799999999999727,"Das Bekenntnis ist eindeutig, wir stehen an der Seite der Ukraine."
+475,"00:34:16,120","00:34:18,880",2056.12,2058.88,2.7600000000002183,"Das ist die Erkenntnis, die Europa abgibt."
+476,"00:34:18,880","00:34:22,840",2058.88,2062.84,3.9600000000000364,"Wir wissen, die Ukraine verteidigt nicht nur sich,"
+477,"00:34:22,840","00:34:24,960",2062.84,2064.96,2.119999999999891,sondern auch unsere Werte.
+478,"00:34:33,640","00:34:36,080",2073.64,2076.08,2.4400000000000546,"MI: Wir schauen uns auch noch mal an,"
+479,"00:34:36,160","00:34:39,360",2076.16,2079.36,3.200000000000273,"Sie haben auch in unserer letzten Sendung erzählt,"
+480,"00:34:39,440","00:34:44,680",2079.44,2084.68,5.239999999999782,"wie sehr ist auch möglich war, mit nicht einem einstimmigen Votum,"
+481,"00:34:46,000","00:34:50,720",2086.0,2090.72,4.7199999999998,sondern einer Majoritätsentscheidung diese 90 Milliarden zu ermöglichen.
+482,"00:34:50,760","00:34:55,160",2090.76,2095.16,4.399999999999636,"Warum kann das nicht ein doppelt gutes Beispiel sein,"
+483,"00:35:00,560","00:35:05,920",2100.56,2105.92,5.360000000000127,wohin sich Europs entwickeln muss? Was haben Sie da anders gemacht?
+484,"00:35:16,120","00:35:19,040",2116.12,2119.04,2.9200000000000728,MW: Wir müssen aus diesen Erfahrungen lernen.
+485,"00:35:19,120","00:35:21,520",2119.12,2121.52,2.400000000000091,"Die 90 Milliarden wurden beschlossen,"
+486,"00:35:21,560","00:35:25,360",2121.56,2125.36,3.800000000000182,obwohl einige Länder nicht zugestimmt haben.
+487,"00:35:28,080","00:35:31,320",2128.08,2131.32,3.2400000000002365,Wir müssen häufiger eine verstärkte Zusammenarbeit
+488,"00:35:31,360","00:35:32,920",2131.36,2132.92,1.5599999999999454,der Willigen fokussieren.
+489,"00:35:32,960","00:35:37,720",2132.96,2137.72,4.7599999999997635,"In einzelnen Länder, zum Beispiel Ungarn zu etwas ablehnt,"
+490,"00:35:38,920","00:35:41,920",2138.92,2141.92,3.0,dann müssen wir in die Lage kommen zu handeln.
+491,"00:35:41,960","00:35:44,760",2141.96,2144.76,2.800000000000182,Das gilt auch fürs militärische.
+492,"00:35:44,800","00:35:47,760",2144.8,2147.76,2.9600000000000364,Wir investieren derzeit viele in nationale Armeen
+493,"00:35:47,800","00:35:50,080",2147.8,2150.08,2.2799999999997453,und das ist richtig.
+494,"00:35:51,640","00:35:54,080",2151.64,2154.08,2.4400000000000546,Ich war in Griechenland im Parlament.
+495,"00:35:54,160","00:35:57,760",2154.16,2157.76,3.600000000000364,"Da bekam ich die Frage gestellt, wie das eigentlich ist,"
+496,"00:35:57,840","00:36:01,360",2157.84,2161.36,3.519999999999982,wenn in Deutschland die größte Landarmee aufgebaut wird
+497,"00:36:01,400","00:36:05,160",2161.4,2165.16,3.7599999999997635,"und gleichzeitig die AfD bei 25,30 % steht."
+498,"00:36:13,920","00:36:16,960",2173.92,2176.96,3.0399999999999636,Müssen wir uns da Sorgen machen?
+499,"00:36:17,040","00:36:21,080",2177.04,2181.08,4.039999999999964,"Wir müssen ein Europa schaffen, das so zusammengeschweißt ist,"
+500,"00:36:21,160","00:36:25,080",2181.16,2185.08,3.9200000000000728,dass es gemeinsam in der Weltordnung überlebt.
+501,"00:36:25,240","00:36:28,560",2185.24,2188.56,3.3200000000001637,"Wir müssen jetzt die Kraft haben, Europa großzudenken,"
+502,"00:36:28,640","00:36:30,960",2188.64,2190.96,2.3200000000001637,historisch zu denken.
+503,"00:36:34,880","00:36:37,320",2194.88,2197.32,2.4400000000000546,"MI: Wie weit sind wir davon entfernt,"
+504,"00:36:37,400","00:36:40,080",2197.4,2200.08,2.6799999999998363,"dass Europa gerade nicht die Struktur hat,"
+505,"00:36:40,160","00:36:42,720",2200.16,2202.72,2.5599999999999454,"diese historische Entscheidung zu fällen,"
+506,"00:36:42,800","00:36:47,000",2202.8,2207.0,4.199999999999818,die es in dieser Sekunde eigentlich fällen müsste?
+507,"00:36:47,080","00:36:50,800",2207.08,2210.8,3.7200000000002547,"FG: Diese Debatte eines neuen EU Vertrags,"
+508,"00:36:53,080","00:36:56,680",2213.08,2216.68,3.599999999999909,die gibt es schon seit über zehn Jahren.
+509,"00:36:57,880","00:36:59,480",2217.88,2219.48,1.599999999999909,"Es war schon immer klar,"
+510,"00:36:59,520","00:37:03,680",2219.52,2223.68,4.1599999999998545,"dass Beitrittskandidaten vom Balkan zum Beispiel,"
+511,"00:37:04,640","00:37:07,640",2224.64,2227.64,3.0,"deshalb hat Frankreich gesagt,"
+512,"00:37:09,480","00:37:13,240",2229.48,2233.24,3.7599999999997635,"keine Erweiterungen, keine hat da Lust drauf,"
+513,"00:37:13,320","00:37:16,840",2233.32,2236.84,3.519999999999982,weil so eine Verhandlung dauert zwei Jahre oder länger.
+514,"00:37:16,920","00:37:20,200",2236.92,2240.2,3.2799999999997453,"Ist kompliziert mit 27 Mitgliedstaaten, ich glaube,"
+515,"00:37:20,280","00:37:25,120",2240.28,2245.12,4.839999999999691,dass sie bisher nur auf Zeit gespielt haben und wir kommen nicht drumherum.
+516,"00:37:25,160","00:37:29,200",2245.16,2249.2,4.039999999999964,"Das wird früher oder später kommen, Herr Weber hat es gesagt,"
+517,"00:37:29,240","00:37:32,360",2249.24,2252.36,3.1200000000003456,"es ist besser, wenn es früher kommt."
+518,"00:37:32,440","00:37:35,640",2252.44,2255.64,3.199999999999818,"Perspektivisch der ukrainische Beitritt,"
+519,"00:37:35,680","00:37:38,480",2255.68,2258.48,2.800000000000182,"nichts davon kann passieren,"
+520,"00:37:41,960","00:37:45,600",2261.96,2265.6,3.6399999999998727,denn wir sind jetzt schon nicht besonders handlungsfähig
+521,"00:37:45,680","00:37:47,720",2265.68,2267.72,2.0399999999999636,in den existierenden Strukturen.
+522,"00:37:47,800","00:37:51,000",2267.8,2271.0,3.199999999999818,"Wir sehen jetzt zum ersten Mal, Italien, ein Staat,"
+523,"00:37:51,040","00:37:55,120",2271.04,2275.12,4.079999999999927,"der immer dagegen war signalisiert jetzt, dass sie bereit sind,"
+524,"00:37:55,200","00:37:57,040",2275.2,2277.04,1.8400000000001455,zu verhandeln.
+525,"00:37:58,080","00:38:01,760",2278.08,2281.76,3.680000000000291,So weit entfernt sind wir gar nicht davon.
+526,"00:38:05,280","00:38:08,120",2285.28,2288.12,2.8399999999996908,"Diese Mühlen mahlen langsam,"
+527,"00:38:08,560","00:38:12,600",2288.56,2292.6,4.039999999999964,"wir haben nächstes Jahr die Wahlen in den USA, ich weiß nicht,"
+528,"00:38:12,640","00:38:14,440",2292.64,2294.44,1.800000000000182,ob es so schnell gehen kann.
+529,"00:38:14,520","00:38:18,440",2294.52,2298.44,3.9200000000000728,"Als ich noch in der EU gearbeitet hat, man hat schon gesehen,"
+530,"00:38:18,520","00:38:22,040",2298.52,2302.04,3.519999999999982,man möchte immer im Konsens entscheiden.
+531,"00:38:23,200","00:38:27,000",2303.2,2307.0,3.800000000000182,"Man wollte eben solche Szenarien vermeiden,"
+532,"00:38:27,400","00:38:29,960",2307.4,2309.96,2.5599999999999454,"aber man kann das natürlich mehr nutzen,"
+533,"00:38:30,040","00:38:32,000",2310.04,2312.0,1.9600000000000364,zum Beispiel in dem man auch eine Erklärung abgibt
+534,"00:38:32,080","00:38:35,480",2312.08,2315.48,3.400000000000091,"nur im Namen derer, die sich dafür entschieden haben."
+535,"00:38:35,560","00:38:38,080",2315.56,2318.08,2.519999999999982,Man möchte das politisch aber vermeiden.
+536,"00:38:38,120","00:38:42,480",2318.12,2322.48,4.360000000000127,Man kann unabhängig von einen neuen Vertrag handeln.
+537,"00:38:43,640","00:38:46,080",2323.64,2326.08,2.4400000000000546,"MI: Dann schaut man sich trotzdem an,"
+538,"00:38:46,120","00:38:47,960",2326.12,2327.96,1.8400000000001455,was da auf dem Tisch liegt für die Ukraine.
+539,"00:38:48,040","00:38:52,040",2328.04,2332.04,4.0,"Die Verhandlung, wie schon erwähnt, die fanden in Genf statt."
+540,"00:38:52,120","00:38:54,160",2332.12,2334.16,2.0399999999999636,"Die Ukraine gehört dazu erzählt,"
+541,"00:38:54,240","00:38:58,080",2334.24,2338.08,3.8400000000001455,sie hat gerade 200 km Gebiet zurück erkämpft.
+542,"00:39:00,840","00:39:05,480",2340.84,2345.48,4.639999999999873,Die Aufforderung von Donald Trump war sehr schnell im politischen Raum.
+543,"00:39:05,560","00:39:08,480",2345.56,2348.48,2.9200000000000728,"Die Ukraine soll jetzt endlich unterschreiben,"
+544,"00:39:08,560","00:39:13,000",2348.56,2353.0,4.440000000000055,damit sie schnell in die EU aufgenommen werden können.
+545,"00:39:23,280","00:39:27,360",2363.28,2367.36,4.079999999999927,FP: In der Vorstellung von Donald Trump vielleicht ist das so.
+546,"00:39:27,400","00:39:30,880",2367.4,2370.88,3.480000000000018,Er äußert sich häufig störenfriedmäßig.
+547,"00:39:39,920","00:39:43,960",2379.92,2383.96,4.039999999999964,"Donald Trump hat dem Iran gesagt, man bräuchte einen Regimewechsel."
+548,"00:39:44,040","00:39:46,760",2384.04,2386.76,2.7200000000002547,Das sei die bessere Option.
+549,"00:39:52,400","00:39:57,040",2392.4,2397.04,4.639999999999873,"Das hat er vielleicht doch gesagt, um Sachen anzufachen."
+550,"00:40:00,960","00:40:03,800",2400.96,2403.8,2.8400000000001455,In der Ukraine werden die Verhandlungen sehr
+551,"00:40:03,880","00:40:04,600",2403.88,2404.6,0.7199999999997999,ernsthaft geführt.
+552,"00:40:04,640","00:40:06,280",2404.64,2406.28,1.6400000000003274,Ich habe mit Mitgliedern der ukrainischen
+553,"00:40:06,320","00:40:08,040",2406.32,2408.04,1.7199999999998,"Delegation gesprochen. Sie sagten,"
+554,"00:40:08,120","00:40:10,840",2408.12,2410.84,2.7200000000002547,"es werden politische Verhandlungen geführt,"
+555,"00:40:10,920","00:40:14,200",2410.92,2414.2,3.2799999999997453,"wo es um Sicherheitsgarantien und Territorien geht,"
+556,"00:40:14,240","00:40:17,800",2414.24,2417.8,3.5600000000004,und dann gibt es den militärischen Pfad.
+557,"00:40:17,960","00:40:21,520",2417.96,2421.52,3.5599999999999454,Läuft es gut zwischen den beiden Seiten.
+558,"00:40:27,120","00:40:29,960",2427.12,2429.96,2.8400000000001455,Die Russen haben eine absolut entscheidenden
+559,"00:40:30,040","00:40:32,640",2430.04,2432.64,2.599999999999909,Verteidigungslinie eingenommen.
+560,"00:40:32,680","00:40:38,040",2432.68,2438.04,5.360000000000127,"Selenskyj sagt, sie könne sie an Leuten nicht antun, das abzugeben."
+561,"00:40:40,920","00:40:46,080",2440.92,2446.08,5.1599999999998545,"Sie könnten nicht darüber reden, ein Friedensabkommen zu machen."
+562,"00:40:47,600","00:40:51,680",2447.6,2451.68,4.079999999999927,"Das ist dann für die Russen eine rote Linie, die sagen,"
+563,"00:40:51,760","00:40:54,480",2451.76,2454.48,2.7199999999998,sie wollen das Territorium unbedingt haben.
+564,"00:40:54,560","00:40:58,360",2454.56,2458.36,3.800000000000182,Donald Trump verliert vielleicht jetzt an bis in die Geduld
+565,"00:40:58,440","00:40:59,480",2458.44,2459.48,1.0399999999999636,"bei dieser Sache,"
+566,"00:40:59,560","00:41:03,280",2459.56,2463.28,3.7200000000002547,aber insgesamt werden diese Verhandlungen meines Erachtens
+567,"00:41:03,360","00:41:06,880",2463.36,2466.88,3.519999999999982,immer noch absolut verantwortungsbewusst weitergeführt.
+568,"00:41:06,960","00:41:10,680",2466.96,2470.68,3.7199999999998,"Die wollen sich auch bald wieder treffen, es ist nicht so,"
+569,"00:41:10,760","00:41:14,480",2470.76,2474.48,3.7199999999998,als werden die Ukrainer komplett unter Druck gesetzt.
+570,"00:41:14,560","00:41:17,400",2474.56,2477.4,2.8400000000001455,MI: Putin bombardiert weiter.
+571,"00:41:21,760","00:41:24,520",2481.76,2484.52,2.7599999999997635,"FP: Der Krieg geht in vollem Umfang weiter,"
+572,"00:41:24,600","00:41:28,040",2484.6,2488.04,3.4400000000000546,es ist nicht so als würde das aufhören.
+573,"00:41:34,400","00:41:37,240",2494.4,2497.24,2.8399999999996908,Ich sehe die Diskussionen um die europäische
+574,"00:41:37,280","00:41:38,960",2497.28,2498.96,1.6799999999998363,Handlungsfähigkeit anders.
+575,"00:41:39,040","00:41:41,080",2499.04,2501.08,2.0399999999999636,Ich glaube schon.
+576,"00:41:42,840","00:41:46,280",2502.84,2506.28,3.4400000000000546,"Wir sind handlungsfähig, die Tatsache,"
+577,"00:41:50,800","00:41:55,840",2510.8,2515.84,5.039999999999964,"dass die Ukraine überhaupt noch in den Verhandlungen drin ist,"
+578,"00:41:56,040","00:41:58,760",2516.04,2518.76,2.7200000000002547,"dass sie eine Position haben,"
+579,"00:41:58,840","00:42:03,560",2518.84,2523.56,4.7199999999998,"dass sie nicht komplett von Donald Trump umgekippt werden,"
+580,"00:42:03,760","00:42:08,080",2523.76,2528.08,4.319999999999709,die Amerikaner kamen damals mit dem 28 Punkte Plan.
+581,"00:42:11,440","00:42:14,000",2531.44,2534.0,2.5599999999999454,Die Europäer haben innerhalb von Stunden
+582,"00:42:14,080","00:42:16,080",2534.08,2536.08,2.0,einen Gegenvorschlag vorgelegt.
+583,"00:42:16,160","00:42:19,680",2536.16,2539.68,3.519999999999982,Sie haben die Verhandlungen organisiert.
+584,"00:42:21,720","00:42:24,600",2541.72,2544.6,2.880000000000109,"Ich weiß vom amerikanischen Verhandlungsteam,"
+585,"00:42:24,680","00:42:29,080",2544.68,2549.08,4.400000000000091,dass die absolut begeistert waren vom deutschen Plan.
+586,"00:42:32,280","00:42:35,680",2552.28,2555.68,3.399999999999636,"Es müssen unglaublich gute Vorschläge gekommen sein,"
+587,"00:42:35,760","00:42:39,280",2555.76,2559.28,3.519999999999982,seitdem ist Deutschland in den Verhandlungen etabliert.
+588,"00:42:39,360","00:42:42,120",2559.36,2562.12,2.7599999999997635,"Als die Verhandlungen in Genf beendet waren,"
+589,"00:42:42,200","00:42:44,880",2562.2,2564.88,2.680000000000291,"da sind die Europäer dazu genommen worden,"
+590,"00:42:44,960","00:42:49,200",2564.96,2569.2,4.239999999999782,die kamen zu einem Abendtermin mit den Amerikanern.
+591,"00:42:59,400","00:43:04,000",2579.4,2584.0,4.599999999999909,MI: Europa soll ja eigentlich mit einer Stimme sprechen.
+592,"00:43:09,160","00:43:09,920",2589.16,2589.92,0.7600000000002183,"Glauben Sie,"
+593,"00:43:10,000","00:43:12,720",2590.0,2592.72,2.7199999999998,dass der Bundeskanzler noch einen Traum hat
+594,"00:43:12,800","00:43:17,400",2592.8,2597.4,4.599999999999909,"von einem geeinten Europa, das mit einer Stimme spricht?"
+595,"00:43:22,720","00:43:24,640",2602.72,2604.64,1.9200000000000728,MW: Definitiv.
+596,"00:43:28,080","00:43:31,800",2608.08,2611.8,3.7200000000002547,"Gerade am Beispiel der Ukraine muss man schon festhalten,"
+597,"00:43:31,880","00:43:35,400",2611.88,2615.4,3.519999999999982,dass bei dem E3 Format das Baltikum nicht am Tisch saß.
+598,"00:43:35,480","00:43:39,600",2615.48,2619.6,4.119999999999891,"Wenn wir über Europa reden, dann reden wir über die drei großen."
+599,"00:43:39,640","00:43:42,000",2619.64,2622.0,2.3600000000001273,"Die sind wichtig und diesen zentral,"
+600,"00:43:42,080","00:43:44,600",2622.08,2624.6,2.519999999999982,aber sie sprechen nicht für ganz Europa.
+601,"00:43:44,680","00:43:46,120",2624.68,2626.12,1.4400000000000546,"Wir müssen Wege finden,"
+602,"00:43:46,200","00:43:49,640",2626.2,2629.64,3.4400000000000546,wie die Menschen auch in anderen Teilen des Kontinents
+603,"00:43:49,720","00:43:51,040",2629.72,2631.04,1.3200000000001637,sicher treten fühlen.
+604,"00:43:51,120","00:43:54,560",2631.12,2634.56,3.4400000000000546,"Das ist der Weg, den wir einschlagen müssen."
+605,"00:43:54,640","00:43:56,560",2634.64,2636.56,1.9200000000000728,"Ich kann mir nicht vorstellen,"
+606,"00:43:56,640","00:43:59,200",2636.64,2639.2,2.5599999999999454,wie das mit Scholz hätte gelingen sollen.
+607,"00:43:59,320","00:44:03,680",2639.32,2643.68,4.359999999999673,"Ich sage schon, dass das nicht die Zukunft sein kann."
+608,"00:44:03,800","00:44:09,440",2643.8,2649.44,5.639999999999873,"Die Zukunft muss sein, dass wir ganz Europa mitdenken, vor allem Polen."
+609,"00:44:12,240","00:44:15,760",2652.24,2655.76,3.5200000000004366,"Das ist die Aufgabe, die vor uns steht."
+610,"00:44:15,920","00:44:21,040",2655.92,2661.04,5.119999999999891,Ich möchte die Fragestellung Richtung Donald Trump diskutieren.
+611,"00:44:24,720","00:44:28,560",2664.72,2668.56,3.8400000000001455,Ich möchte das Positive noch mal herausheben.
+612,"00:44:28,640","00:44:33,280",2668.64,2673.28,4.640000000000327,"Die Tatsache, dass wir in Regionen wie Gaza jetzt kein Tüten mehr haben,"
+613,"00:44:33,360","00:44:34,880",2673.36,2674.88,1.5199999999999818,Venezuela wurde genannt.
+614,"00:44:34,960","00:44:38,280",2674.96,2678.28,3.3200000000001637,Ich habe den direkt gewählten Präsidenten Anfang des
+615,"00:44:38,360","00:44:40,400",2678.36,2680.4,2.0399999999999636,Jahres getroffen.
+616,"00:44:41,560","00:44:45,280",2681.56,2685.28,3.7200000000002547,"Die Opposition in Venezuela freut sich über die Tatsache,"
+617,"00:44:45,360","00:44:47,240",2685.36,2687.24,1.8799999999996544,dass Maduro aus dem Amt ist.
+618,"00:44:47,320","00:44:51,480",2687.32,2691.48,4.1599999999998545,"Iran hat heute Mittelstreckenraketen, die Europa treffen können."
+619,"00:44:51,560","00:44:54,160",2691.56,2694.16,2.599999999999909,Das ist unsere Herausforderung.
+620,"00:44:54,240","00:44:57,840",2694.24,2697.84,3.600000000000364,MI: Gleich an Sie Herr Weber die Frage...
+621,"00:45:01,520","00:45:06,760",2701.52,2706.76,5.2400000000002365,Machen da die USA für Europa und Israel die Drecksarbeit im Iran?
+622,"00:45:14,360","00:45:17,600",2714.36,2717.6,3.2399999999997817,"MW: Dass die Iraner nicht zur Atomwaffe greifen,"
+623,"00:45:17,680","00:45:21,600",2717.68,2721.6,3.9200000000000728,Iran hat in der letzten Woche ihre eigene Jugend hingerichtet
+624,"00:45:21,680","00:45:23,680",2721.68,2723.68,2.0,und massakriert.
+625,"00:45:24,280","00:45:27,120",2724.28,2727.12,2.8399999999996908,"Werden keine Diskussion darüber geführt,"
+626,"00:45:27,240","00:45:30,120",2727.24,2730.12,2.880000000000109,was unser Beitrag sein könnte.
+627,"00:45:31,920","00:45:34,240",2731.92,2734.24,2.319999999999709,"Wir haben keine Tools als Europäer,"
+628,"00:45:34,320","00:45:37,680",2734.32,2737.68,3.3599999999996726,wie wir unseren Beitrag leisten können.
+629,"00:45:37,760","00:45:43,400",2737.76,2743.4,5.639999999999873,"Ich stelle die Frage, warum haben wir keine europäischen Flugzeugträger,"
+630,"00:45:49,160","00:45:53,120",2749.16,2753.12,3.9600000000000364,die wir schicken könnten in solchen Situation.
+631,"00:45:53,640","00:45:57,480",2753.64,2757.48,3.8400000000001455,"Wir werden als Europäer 6,4 Billionen Euro für Verteidigung"
+632,"00:45:57,560","00:45:59,560",2757.56,2759.56,2.0,ausgeben müssen.
+633,"00:46:26,840","00:46:31,560",2786.84,2791.56,4.7199999999998,"Genauso viel wie die Amerikaner, da sollten wir doch die Ambition haben,"
+634,"00:46:31,640","00:46:35,080",2791.64,2795.08,3.4400000000000546,"die gleiche militärische Fähigkeit zu haben. Ich will,"
+635,"00:46:35,160","00:46:36,960",2795.16,2796.96,1.800000000000182,das wir ambitionierter sind.
+636,"00:46:37,040","00:46:42,680",2797.04,2802.68,5.639999999999873,"MI: Würden Sie auch sagen, dass wir das Donald Trump zu verdanken haben?"
+637,"00:46:47,600","00:46:52,840",2807.6,2812.84,5.2400000000002365,"FG: Obama hat gesagt, könnten wir mehr für Verteidigung ausgeben?"
+638,"00:46:54,280","00:46:58,480",2814.28,2818.48,4.199999999999818,"Wir haben vier amerikanische Präsidenten in jüngster Geschichte,"
+639,"00:46:58,560","00:47:01,080",2818.56,2821.08,2.519999999999982,sie finden genau die gleichen Narrative.
+640,"00:47:01,160","00:47:05,720",2821.16,2825.72,4.559999999999945,"Abgesehen davon, bis dahin hatten wir immer das Gefühl, ja, wir müssen,"
+641,"00:47:05,840","00:47:09,880",2825.84,2829.88,4.039999999999964,"wir können es ein bisschen ignorieren, wir haben ja kein Feind."
+642,"00:47:09,960","00:47:12,800",2829.96,2832.8,2.8400000000001455,Das hat sich seit 22 gedreht.
+643,"00:47:15,080","00:47:19,400",2835.08,2839.4,4.320000000000164,Mit der Rückkehr von Trump fühlen wir uns eingequetscht.
+644,"00:47:19,400","00:47:22,560",2839.4,2842.56,3.1599999999998545,Jetzt haben wir den Schuss auch endlich gehört.
+645,"00:47:22,560","00:47:24,480",2842.56,2844.48,1.9200000000000728,"MI: Es liegt auf dem Tisch, wir kommen zur Kabine,"
+646,"00:47:24,560","00:47:26,560",2844.56,2846.56,2.0,Wolodymyr Selenskyj wünscht sich einen EU-Beitritt.
+647,"00:47:26,680","00:47:28,920",2846.68,2848.92,2.2400000000002365,"Der Beitritt in die NATO ist abgelehnt, ausgeschlossen."
+648,"00:47:29,000","00:47:31,760",2849.0,2851.76,2.7600000000002183,Er wünscht sich einen schnellen EU-Beitritt.
+649,"00:47:31,880","00:47:34,920",2851.88,2854.92,3.0399999999999636,"Es geht darum die Sicherheitsinteressen der USA,"
+650,"00:47:35,000","00:47:37,560",2855.0,2857.56,2.5599999999999454,denen er offenbar nicht so sehr vertraut.
+651,"00:47:37,680","00:47:38,840",2857.68,2858.84,1.1600000000003092,"Dann ist die Frage,"
+652,"00:47:38,960","00:47:42,440",2858.96,2862.44,3.480000000000018,"hoffen wir in Europa auf den berühmten Paragrafen 42.7 EUV,"
+653,"00:47:42,520","00:47:45,640",2862.52,2865.64,3.119999999999891,"um zu sagen, er zieht die Klausel des Beistandes,"
+654,"00:47:45,720","00:47:49,440",2865.72,2869.44,3.7200000000002547,damit Europa künftig die Ukraine beschützt?
+655,"00:47:50,840","00:47:55,560",2870.84,2875.56,4.7199999999998,FG: Es ist quasi der gleiche Paragraf die Art. 5 der NATO.
+656,"00:47:56,600","00:48:00,560",2876.6,2880.56,3.9600000000000364,"Es ist Europa, also minus die UK, Kanada, usw."
+657,"00:48:04,000","00:48:07,120",2884.0,2887.12,3.119999999999891,"Ich fand von Anfang an spannend,"
+658,"00:48:10,000","00:48:13,920",2890.0,2893.92,3.9200000000000728,als Trumpf zurückgekehrt ist und weiße Haus -
+659,"00:48:14,920","00:48:18,880",2894.92,2898.88,3.9600000000000364,ein EU-Beitritt ist eine komplett europäische Verhandlung.
+660,"00:48:18,960","00:48:22,320",2898.96,2902.32,3.3600000000001273,Es war immer ein interessantes Pfund.
+661,"00:48:23,160","00:48:28,200",2903.16,2908.2,5.039999999999964,"Jetzt trifft die Ukraine in ihrem Elend auf eine Organisation,"
+662,"00:48:29,800","00:48:35,440",2909.8,2915.44,5.639999999999873,"die schon zehn Jahre vor dem Angriff mit sich gehandelt hat, Reformen -"
+663,"00:48:36,600","00:48:41,320",2916.6,2921.32,4.720000000000255,"die EU ist ein Projekt, wir erfinden es immer wieder neu."
+664,"00:48:45,720","00:48:49,640",2925.72,2929.64,3.9200000000000728,Es dürfte es in der internationalen Theorie gar nicht geben.
+665,"00:48:49,760","00:48:51,640",2929.76,2931.64,1.8799999999996544,"Staaten, die sich zusammentun."
+666,"00:48:51,760","00:48:53,320",2931.76,2933.32,1.5599999999999454,Natürlich ist es machbar.
+667,"00:48:53,440","00:48:55,560",2933.44,2935.56,2.119999999999891,Schnell geht in der EU gar nichts.
+668,"00:48:55,680","00:48:58,720",2935.68,2938.72,3.0399999999999636,Die Beitrittsperspektive ist da.
+669,"00:49:00,000","00:49:04,000",2940.0,2944.0,4.0,"Ich glaube, es wäre nicht gut für die EU und für die Ukraine,"
+670,"00:49:04,080","00:49:06,600",2944.08,2946.6,2.519999999999982,"wenn man irgendetwas schnell durchsetzt,"
+671,"00:49:06,720","00:49:09,480",2946.72,2949.48,2.7600000000002183,um die Sicherheitsgarantie zu gewährleisten.
+672,"00:49:09,560","00:49:12,400",2949.56,2952.4,2.8400000000001455,Aber man kann andere Zwischenlösungen finden.
+673,"00:49:12,520","00:49:15,160",2952.52,2955.16,2.6399999999998727,Die EU muss sich aber erst reformieren.
+674,"00:49:15,280","00:49:19,040",2955.28,2959.04,3.7599999999997635,"MI: Auf der geographisch linken Seite haben wir gelesen,"
+675,"00:49:19,120","00:49:23,280",2959.12,2963.28,4.160000000000309,dass Donald Trump wahnsinnig Gewinn machen möchte.
+676,"00:49:25,320","00:49:28,000",2965.32,2968.0,2.6799999999998363,"Wolodymyr Selenskyj sagt,"
+677,"00:49:30,680","00:49:34,240",2970.68,2974.24,3.5599999999999454,"es hat ein Angebot von Putin an Trump gegeben,"
+678,"00:49:34,320","00:49:37,000",2974.32,2977.0,2.6799999999998363,"Millionen an Rubel, Dollar,"
+679,"00:49:38,640","00:49:41,400",2978.64,2981.4,2.7600000000002183,dass man in sie investiert.
+680,"00:49:46,560","00:49:48,000",2986.56,2988.0,1.4400000000000546,"Wie stellt man sicher,"
+681,"00:49:48,080","00:49:51,520",2988.08,2991.52,3.4400000000000546,"dass das Engagement so vieler Menschen,"
+682,"00:49:52,600","00:49:54,120",2992.6,2994.12,1.5199999999999818,"vor allem der Ukrainer,"
+683,"00:49:54,200","00:49:59,400",2994.2,2999.4,5.200000000000273,am Ende nicht zu einer großen Belohnung für Trump und Putin wird?
+684,"00:50:05,840","00:50:10,040",3005.84,3010.04,4.199999999999818,"MW: Im Grunde sind viele Hilfen, die wir jetzt der Ukraine geben,"
+685,"00:50:10,160","00:50:14,120",3010.16,3014.12,3.9600000000000364,"eine Förderung der amerikanischen Wirtschaft. Waffentechnisch,"
+686,"00:50:14,200","00:50:17,840",3014.2,3017.84,3.6400000000003274,geheimdienstlichgeht der Krieg nicht ohne die Amerikaner.
+687,"00:50:18,000","00:50:22,560",3018.0,3022.56,4.559999999999945,"Es wurde jetzt viel gesagt, was Donald Trump schön redet."
+688,"00:50:22,680","00:50:27,320",3022.68,3027.32,4.640000000000327,"Was er innenpolitisch tut ist, eine Oligarchie aufzubauen"
+689,"00:50:27,480","00:50:32,200",3027.48,3032.2,4.7199999999998,und seine eigene Bevölkerung durch eine maskierte paramilitärische Kraft
+690,"00:50:32,280","00:50:35,400",3032.28,3035.4,3.119999999999891,entführen und entschließen lässt.
+691,"00:50:35,520","00:50:38,320",3035.52,3038.32,2.800000000000182,"Wenn ich es offen aussprechen darf,"
+692,"00:50:38,400","00:50:41,400",3038.4,3041.4,3.0,Donald Trump ist korrupt bis ins Mark.
+693,"00:50:41,520","00:50:44,880",3041.52,3044.88,3.3600000000001273,Wir haben eine interessante Situation.
+694,"00:50:46,040","00:50:48,760",3046.04,3048.76,2.7200000000002547,Wir reden die ganze Zeit über Verteidigung
+695,"00:50:48,880","00:50:50,160",3048.88,3050.16,1.2799999999997453,im klassischen Sinne.
+696,"00:50:50,240","00:50:53,360",3050.24,3053.36,3.1200000000003456,Wir müssen unser Militär ausbauen
+697,"00:50:56,800","00:51:00,720",3056.8,3060.72,3.919999999999618,"Wenn ich Putin wäre, ich würde untaugliche Panzer angreifen,"
+698,"00:51:00,800","00:51:03,120",3060.8,3063.12,2.319999999999709,wenn es Facebook gibt.
+699,"00:51:03,240","00:51:06,440",3063.24,3066.44,3.200000000000273,"Wenn ich eine bestimmte Partei an die Macht bringe,"
+700,"00:51:06,520","00:51:08,360",3066.52,3068.36,1.8400000000001455,muss ich niemanden angreifen.
+701,"00:51:08,480","00:51:12,040",3068.48,3072.04,3.5599999999999454,"Wir sind schon so angreifbar seit Jahren,"
+702,"00:51:12,160","00:51:16,000",3072.16,3076.0,3.8400000000001455,"gegen den hybriden Krieg, dem Putin führt, mit Bots, KI."
+703,"00:51:16,120","00:51:18,800",3076.12,3078.8,2.680000000000291,Er manipuliert die Debatte.
+704,"00:51:18,920","00:51:22,120",3078.92,3082.12,3.199999999999818,Jetzt kommt von der anderen Seite
+705,"00:51:22,240","00:51:25,360",3082.24,3085.36,3.1200000000003456,"unser gesamter sozialer Diskurs auf Plattformen,"
+706,"00:51:25,480","00:51:28,800",3085.48,3088.8,3.3200000000001637,die amerikanischen Oligarchen gehören.
+707,"00:51:30,480","00:51:35,240",3090.48,3095.24,4.7599999999997635,"Die haben explizit gesagt, dass sie die EU scheiße finden."
+708,"00:51:39,480","00:51:40,200",3099.48,3100.2,0.7199999999997999,"Sie finden,"
+709,"00:51:40,320","00:51:43,480",3100.32,3103.48,3.1599999999998545,dass Klimaschutz und Verbraucherschutz abgeschafft
+710,"00:51:43,600","00:51:45,400",3103.6,3105.4,1.800000000000182,werden sollen.
+711,"00:51:48,280","00:51:51,160",3108.28,3111.16,2.8799999999996544,Unser ganzer Diskurs als demokratisches Land
+712,"00:51:51,280","00:51:53,040",3111.28,3113.04,1.7599999999997635,läuft auf diesen Plattformen.
+713,"00:51:53,160","00:51:56,920",3113.16,3116.92,3.7600000000002183,Unsere Regierung kommuniziert über eine dieser Plattformen.
+714,"00:51:57,040","00:52:00,400",3117.04,3120.4,3.3600000000001273,MI: Das ist die berühmte Cybergefahr.
+715,"00:52:05,200","00:52:09,320",3125.2,3129.32,4.120000000000346,"MW: Auch unsere gesamte Wirtschaft basiert auf Microsoft, u.a.."
+716,"00:52:09,400","00:52:11,520",3129.4,3131.52,2.119999999999891,"Die USA könnten, wenn sie wollen,"
+717,"00:52:11,640","00:52:13,640",3131.64,3133.64,2.0,gesamt lahmlegen.
+718,"00:52:16,520","00:52:21,200",3136.52,3141.2,4.679999999999836,"FG: Ich finde, wir sind konventionell gar nicht so schlecht aufgestellt."
+719,"00:52:21,320","00:52:22,960",3141.32,3142.96,1.6399999999998727,Aber die Grauzonentaktik -
+720,"00:52:23,080","00:52:25,600",3143.08,3145.6,2.519999999999982,es geht noch nicht mal um Cyber.
+721,"00:52:25,720","00:52:29,840",3145.72,3149.84,4.120000000000346,"Ein Stromausfall, wir haben es in Berlin getestet."
+722,"00:52:35,120","00:52:37,560",3155.12,3157.56,2.4400000000000546,Hat jeder eine Taschenlampe zu Hause?
+723,"00:52:37,680","00:52:39,840",3157.68,3159.84,2.1600000000003092,Cyberangriffe auf das Grundwasser.
+724,"00:52:44,480","00:52:45,600",3164.48,3165.6,1.1199999999998909,Angriffe auf Züge.
+725,"00:52:45,720","00:52:48,680",3165.72,3168.68,2.9600000000000364,Das beherrscht Russland besser.
+726,"00:52:50,200","00:52:53,400",3170.2,3173.4,3.200000000000273,Wir sind unglaublich angreifbar auf dieser Ebene.
+727,"00:52:53,520","00:52:56,040",3173.52,3176.04,2.519999999999982,Wir müssen innenpolitisch mehr machen.
+728,"00:52:56,200","00:52:58,680",3176.2,3178.68,2.480000000000018,"Das Szenario, sie haben recht,"
+729,"00:52:58,800","00:53:00,600",3178.8,3180.6,1.7999999999997272,"die Obsession,"
+730,"00:53:13,400","00:53:15,960",3193.4,3195.96,2.5599999999999454,das Bild von dem Russen der mit dem Hans
+731,"00:53:16,080","00:53:19,120",3196.08,3199.12,3.0399999999999636,"aber die Grenze kommt, das wird nicht passieren."
+732,"00:53:19,200","00:53:23,640",3199.2,3203.64,4.440000000000055,Wir gehen dagegen vor und Polens dazwischen. Worum geht es bei Krieg?
+733,"00:53:23,760","00:53:26,520",3203.76,3206.52,2.7599999999997635,MI: Der Überraschungsmoment.
+734,"00:53:26,680","00:53:29,600",3206.68,3209.6,2.9200000000000728,"FG: Ultimativ wollen sie erreichen,"
+735,"00:53:29,760","00:53:33,680",3209.76,3213.68,3.919999999999618,"dass eine andere Regierung so handelt, wie es für sie gut ist."
+736,"00:53:33,880","00:53:35,560",3213.88,3215.56,1.6799999999998363,"Bei uns würde man versuchen,"
+737,"00:53:35,640","00:53:38,080",3215.64,3218.08,2.4400000000000546,"eine Regierung an die Macht zu bringen,"
+738,"00:53:38,200","00:53:39,960",3218.2,3219.96,1.7600000000002183,die Russland-freundlich ist.
+739,"00:53:40,080","00:53:43,600",3220.08,3223.6,3.519999999999982,Das halte ich auch für eine große Gefahr.
+740,"00:53:48,240","00:53:49,760",3228.24,3229.76,1.5200000000004366,Wir gucken nicht dahin.
+741,"00:53:49,920","00:53:53,080",3229.92,3233.08,3.1599999999998545,Wir schauen aus guten Gründen auf das militärische.
+742,"00:53:53,200","00:53:55,320",3233.2,3235.32,2.1200000000003456,Das müssen wir auch weitermachen.
+743,"00:53:55,440","00:54:00,560",3235.44,3240.56,5.119999999999891,Aber was ist mit der innenpolitischen Dimension? Für die Zukunft.
+744,"00:54:01,880","00:54:03,680",3241.88,3243.68,1.7999999999997272,MI: Würden Sie auch sagen -
+745,"00:54:03,800","00:54:08,640",3243.8,3248.64,4.839999999999691,"ich kann mir vorstellen, dass darüber schon längst nachgedacht wird."
+746,"00:54:08,760","00:54:10,520",3248.76,3250.52,1.7599999999997635,Es ist aber eine vage These.
+747,"00:54:10,600","00:54:12,800",3250.6,3252.8,2.200000000000273,Hier ist die Frage.
+748,"00:54:13,000","00:54:16,600",3253.0,3256.6,3.599999999999909,"Kann man vermeiden, dass es am Ende zwei Gewinner gibt,"
+749,"00:54:16,720","00:54:19,400",3256.72,3259.4,2.680000000000291,die Trump und Putin heißen?
+750,"00:54:21,120","00:54:23,360",3261.12,3263.36,2.2400000000002365,"FP: Ich glaube, dass es sein kann,"
+751,"00:54:23,480","00:54:27,040",3263.48,3267.04,3.5599999999999454,dass Putin gut aus der Sache herauskommt.
+752,"00:54:29,640","00:54:32,800",3269.64,3272.8,3.1600000000003092,"Ich glaube, dass Donald Trump darauf hinarbeitet,"
+753,"00:54:32,960","00:54:35,440",3272.96,3275.44,2.480000000000018,dass es den Friede mit der Ukraine gibt.
+754,"00:54:35,520","00:54:38,000",3275.52,3278.0,2.480000000000018,"Eigentlich ist der Deal,"
+755,"00:54:39,120","00:54:44,240",3279.12,3284.24,5.119999999999891,den seine Berater sowohl den Russen als den Ukrainern anbieten:
+756,"00:54:48,800","00:54:54,120",3288.8,3294.12,5.319999999999709,"beendet den Krieg, hat auf euch zu töten und alle werden gewinnen."
+757,"00:55:01,280","00:55:05,000",3301.28,3305.0,3.7199999999998,"Es geht um Fracking, Investitionen von Firmen aus den USA"
+758,"00:55:05,080","00:55:07,000",3305.08,3307.0,1.9200000000000728,u.a. in der Ukraine.
+759,"00:55:07,120","00:55:09,360",3307.12,3309.36,2.2400000000002365,Es geht auch um Seltene Erden.
+760,"00:55:09,480","00:55:12,960",3309.48,3312.96,3.480000000000018,"Sie haben gesagt, dass in Alaska darüber geredet wurde,"
+761,"00:55:13,080","00:55:16,240",3313.08,3316.24,3.1599999999998545,Flüssiggasförderung in der Arktis.
+762,"00:55:17,040","00:55:21,240",3317.04,3321.24,4.199999999999818,"Gemeinsame Projekte der Arktis, Öl- und Gasdeals."
+763,"00:55:22,200","00:55:26,680",3322.2,3326.68,4.480000000000018,"Die Amerikaner haben es gesagt, jeder profitiert davon,"
+764,"00:55:26,800","00:55:29,080",3326.8,3329.08,2.2799999999997453,wenn es Frieden gibt.
+765,"00:55:29,880","00:55:34,440",3329.88,3334.44,4.559999999999945,"Man muss auch sagen, dass Friedrich Merz und Rubio beide Recht hatten,"
+766,"00:55:34,560","00:55:38,760",3334.56,3338.76,4.200000000000273,"die gesagt haben, dass sie alte Werteordnung nicht mehr existiert."
+767,"00:55:38,920","00:55:43,640",3338.92,3343.64,4.7199999999998,"Auch die Chinesen bestimmen mehr, was in der Welt passiert."
+768,"00:55:44,280","00:55:46,800",3344.28,3346.8,2.519999999999982,"Die Russen sind wirtschaftlich schwach,"
+769,"00:55:46,920","00:55:50,040",3346.92,3350.04,3.119999999999891,aber aufgrund der Rohstoffe stark.
+770,"00:55:57,200","00:56:02,440",3357.2,3362.44,5.2400000000002365,MI: Wir haben für diese Sendung und vor der Sendung ein Interview
+771,"00:56:03,960","00:56:06,720",3363.96,3366.72,2.7599999999997635,mit Carsten Breuer geführt.
+772,"00:56:07,440","00:56:11,000",3367.44,3371.0,3.5599999999999454,Das ist der Generalinspekteur der deutschen Bundeswehr.
+773,"00:56:11,160","00:56:13,800",3371.16,3373.8,2.6400000000003274,Wir haben ihn nach der Ausrichtung gefragt.
+774,"00:56:13,960","00:56:18,880",3373.96,3378.88,4.920000000000073,Ich sage in dieser Runde schon einmal Tschüss und vielen Dank.
+775,"00:56:20,240","00:56:24,640",3380.24,3384.64,4.400000000000091,Der Bundeskanzler will die Bundeswehr zur stärksten konventionellen
+776,"00:56:24,720","00:56:29,360",3384.72,3389.36,4.640000000000327,Armee ausbauen. Er will die Ukraine verteidigen und unabhängiger werden.
+777,"00:56:29,480","00:56:32,360",3389.48,3392.36,2.880000000000109,Ist das nicht viel auf einmal?
+778,"00:56:33,680","00:56:36,120",3393.68,3396.12,2.4400000000000546,"CB: Es ist genau die Zeit, das zu tun."
+779,"00:56:36,240","00:56:39,000",3396.24,3399.0,2.7600000000002183,Wir stehen einer großen Bedrohung gegenüber.
+780,"00:56:39,080","00:56:41,440",3399.08,3401.44,2.3600000000001273,Wir müssen alles gleichzeitig machen.
+781,"00:56:41,600","00:56:43,800",3401.6,3403.8,2.200000000000273,Wir können uns das nicht aussuchen.
+782,"00:56:43,960","00:56:48,600",3403.96,3408.6,4.639999999999873,"Wir müssen die drei Felder, die Sie genannt haben, gleichzeitig abdecken."
+783,"00:56:48,720","00:56:53,440",3408.72,3413.44,4.720000000000255,Damit wir einer russischen Bedrohung entgegenwirken kommen.
+784,"00:56:54,080","00:56:58,840",3414.08,3418.84,4.760000000000218,Die Verteidigungsfähigkeit kann man nicht nur über stärker hochschrauben.
+785,"00:56:58,960","00:57:00,560",3418.96,3420.56,1.599999999999909,Man muss auch abschrecken.
+786,"00:57:00,720","00:57:04,360",3420.72,3424.36,3.6400000000003274,"Dann kann man den Gegner zeigen, dass es sich nicht lohnt,"
+787,"00:57:04,480","00:57:07,720",3424.48,3427.72,3.2399999999997817,"angegriffen zu werden, anzugreifen."
+788,"00:57:08,240","00:57:12,840",3428.24,3432.84,4.600000000000364,"Ich glaube, dass es die beste Versicherung für Frieden."
+789,"00:57:13,520","00:57:14,880",3433.52,3434.88,1.3600000000001273,"MI: Sie haben wieder,"
+790,"00:57:15,000","00:57:19,160",3435.0,3439.16,4.1599999999998545,mit ihren britischen Kollegen vor Angriffen gewarnt.
+791,"00:57:19,280","00:57:23,880",3439.28,3443.88,4.599999999999909,Wir suchen immer noch Teilnehmer für die Litauen-Brigade?
+792,"00:57:26,080","00:57:31,040",3446.08,3451.04,4.960000000000036,"CB: Was ich meinem britischen Counterpart ausgesprochen habe,"
+793,"00:57:31,480","00:57:32,840",3451.48,3452.84,1.3600000000001273,"das ist eine Warnung,"
+794,"00:57:32,960","00:57:36,320",3452.96,3456.32,3.3600000000001273,die eine objektive Bedrohung spiegelt.
+795,"00:57:41,840","00:57:44,040",3461.84,3464.04,2.199999999999818,Sie ist an allen Europa gerichet.
+796,"00:57:44,160","00:57:48,480",3464.16,3468.48,4.320000000000164,"Müssen verstehen, dass uns in Europa nach der Decke strecken müssen."
+797,"00:57:48,640","00:57:51,360",3468.64,3471.36,2.7200000000002547,"Wir müssen selbstständiger, autarker werden."
+798,"00:57:51,480","00:57:56,080",3471.48,3476.08,4.599999999999909,"Das heißt nicht, dass wir uns in und einer Form lossagen."
+799,"00:57:57,480","00:58:01,680",3477.48,3481.68,4.199999999999818,"Es heißt, dass wir mit einem starken Europa dafür sorgen müssen,"
+800,"00:58:01,840","00:58:06,280",3481.84,3486.28,4.440000000000055,dass das transatlantische Bündnis stärker zusammenhält.
+801,"00:58:06,600","00:58:09,240",3486.6,3489.24,2.6399999999998727,"Wenn Sie auf die Litauen-Brigade schauen,"
+802,"00:58:09,360","00:58:11,520",3489.36,3491.52,2.1599999999998545,ist das ein deutliches Zeichen.
+803,"00:58:11,640","00:58:15,120",3491.64,3495.12,3.480000000000018,Es ist ein Zeichen in Richtung Russland.
+804,"00:58:17,600","00:58:19,960",3497.6,3499.96,2.3600000000001273,Ein Zeichen Richtung Litauen selbst.
+805,"00:58:20,080","00:58:22,480",3500.08,3502.48,2.400000000000091,Wir stehen zusammen mit euch.
+806,"00:58:22,600","00:58:25,200",3502.6,3505.2,2.599999999999909,Wir haben auch ein Zeichen an die deutsche
+807,"00:58:25,320","00:58:27,680",3505.32,3507.68,2.3599999999996726,Bevölkerung geschickt.
+808,"00:58:28,920","00:58:33,160",3508.92,3513.16,4.239999999999782,"Das, was die Alliierten über Jahre für Deutschland gemacht haben,"
+809,"00:58:33,320","00:58:36,440",3513.32,3516.44,3.119999999999891,"für unsere Sicherheit einzutreten,"
+810,"00:58:38,880","00:58:43,280",3518.88,3523.28,4.400000000000091,das tun wir jetzt in Litauen für einen NATO-Partner.
+811,"00:58:43,920","00:58:48,440",3523.92,3528.44,4.519999999999982,"Es ist ein Katalysator, um etwas zu verändern. Lassen Sie mich sagen,"
+812,"00:58:48,560","00:58:50,480",3528.56,3530.48,1.9200000000000728,wir sind auf dem richtigen Weg.
+813,"00:58:50,600","00:58:55,960",3530.6,3535.96,5.360000000000127,Wir sind on track mit der Litauen- Brigade. Das klingt optimistisch.
+814,"00:58:58,800","00:59:04,040",3538.8,3544.04,5.239999999999782,MI: Wir geben an Milliarden für die ukrainische Verteidigung aus.
+815,"00:59:04,920","00:59:06,840",3544.92,3546.84,1.9200000000000728,Andere Partner tun das nicht.
+816,"00:59:06,960","00:59:11,160",3546.96,3551.16,4.199999999999818,Friedrich Merz hat jüngst die Franzosen kritisiert.
+817,"00:59:11,280","00:59:14,280",3551.28,3554.28,3.0,Würden sie sich von anderen europäischen Ländern
+818,"00:59:14,440","00:59:17,440",3554.44,3557.44,3.0,das gleiche Engagement wünschen?
+819,"00:59:17,560","00:59:19,160",3557.56,3559.16,1.599999999999909,"CB: Es geht nicht darum,"
+820,"00:59:19,280","00:59:22,480",3559.28,3562.48,3.199999999999818,dass man sich untereinander vergleicht in Europa.
+821,"00:59:22,600","00:59:25,800",3562.6,3565.8,3.200000000000273,"Es geht darum, die Ukraine mit dem zu unterstützen,"
+822,"00:59:25,960","00:59:31,240",3565.96,3571.24,5.279999999999745,"was sie braucht, was notwendig ist, damit sie den Krieg führen kann."
+823,"00:59:31,400","00:59:34,520",3571.4,3574.52,3.119999999999891,Damit sie sich selbst und die Sicherheit in Europa
+824,"00:59:34,640","00:59:36,920",3574.64,3576.92,2.2800000000002,gegen Russland verteidigen kann.
+825,"00:59:37,040","00:59:40,920",3577.04,3580.92,3.880000000000109,"Mir steht es nicht zuzusagen, es ist zu wenig."
+826,"00:59:52,880","00:59:54,080",3592.88,3594.08,1.199999999999818,...
+827,"01:00:15,840","01:00:18,480",3615.84,3618.48,2.6399999999998727,MI: bei einem Manöver im letzten Jahr soll
+828,"01:00:18,640","01:00:21,480",3618.64,3621.48,2.8400000000001455,eine Handvoll ukrainischer Drohnenpiloten
+829,"01:00:21,640","01:00:24,400",3621.64,3624.4,2.7600000000002183,NATO Soldaten blamiert haben.
+830,"01:00:25,320","01:00:29,960",3625.32,3629.96,4.639999999999873,"Führt die Ukraine Kriege, die wir noch nicht mal planen?"
+831,"01:00:35,640","01:00:39,840",3635.64,3639.84,4.200000000000273,CB: Der Krieg in der Ukraine ist keine Blaupause für einen Krieg
+832,"01:00:39,960","01:00:40,800",3639.96,3640.8,0.8400000000001455,in der Zukunft.
+833,"01:00:40,960","01:00:43,480",3640.96,3643.48,2.519999999999982,Er ist ein Lehrmeister für uns.
+834,"01:00:43,640","01:00:46,480",3643.64,3646.48,2.8400000000001455,"Die Lehren daraus, die müssen wir alle ziehen."
+835,"01:00:46,600","01:00:49,240",3646.6,3649.24,2.6399999999998727,"Die muss man auch bei den Partnern ziehen,"
+836,"01:00:49,360","01:00:53,560",3649.36,3653.56,4.199999999999818,"die in der Übung tätig waren. Wenn ich es richtig verstanden habe,"
+837,"01:00:53,680","01:00:56,760",3653.68,3656.76,3.080000000000382,"ist es nicht nur der Einsatz von Drohnen gewesen,"
+838,"01:00:56,880","01:00:59,440",3656.88,3659.44,2.5599999999999454,"auf den inzwischen jeder eingestellt ist,"
+839,"01:00:59,560","01:01:02,440",3659.56,3662.44,2.880000000000109,"es war auch ein Führungssystem, ein einfaches."
+840,"01:01:02,560","01:01:07,040",3662.56,3667.04,4.480000000000018,"Ein unkompliziertes, der Ukraine, das dazu geführt hat,"
+841,"01:01:08,680","01:01:12,000",3668.68,3672.0,3.3200000000001637,dass man die verschiedenen militärischen Ebenen
+842,"01:01:12,120","01:01:16,800",3672.12,3676.8,4.680000000000291,"so miteinander vernetzt hat, dass man schneller war als der Gegner dort."
+843,"01:01:16,960","01:01:20,280",3676.96,3680.28,3.3200000000001637,"Das ist etwas, was wir daraus lernen."
+844,"01:01:22,920","01:01:25,840",3682.92,3685.84,2.9200000000000728,"Das zeigt, dass ein Krieg, eine solche Übung,"
+845,"01:01:25,960","01:01:27,520",3685.96,3687.52,1.5599999999999454,nicht eindimensional ist.
+846,"01:01:27,640","01:01:30,840",3687.64,3690.84,3.200000000000273,"Wir müssen handeln, uns verbessern."
+847,"01:01:32,960","01:01:35,400",3692.96,3695.4,2.4400000000000546,MI: Die sind nominiert für den Vorsitz
+848,"01:01:35,520","01:01:38,280",3695.52,3698.28,2.7600000000002183,des NATO-Militärausschusses.
+849,"01:01:40,400","01:01:44,160",3700.4,3704.16,3.7599999999997635,"Einer, der zwei wichtigsten Positionen innerhalb der NATO."
+850,"01:01:44,280","01:01:47,040",3704.28,3707.04,2.7599999999997635,"Ist das eine Belohnung dafür,"
+851,"01:01:47,200","01:01:51,000",3707.2,3711.0,3.800000000000182,dass die Deutschen sich so engagieren für die Abscheidung und Verteidigung?
+852,"01:01:56,720","01:02:00,360",3716.72,3720.36,3.6400000000003274,"CB: Nun, zunächst einmal ist es für mich sehr ehrenvoll,"
+853,"01:02:00,440","01:02:01,360",3720.44,3721.36,0.9200000000000728,"sehr ehrenwert,"
+854,"01:02:01,440","01:02:04,360",3721.44,3724.36,2.9200000000000728,dass ich nominiert worden bin.
+855,"01:02:10,200","01:02:13,000",3730.2,3733.0,2.800000000000182,"Das macht mich sehr humble,"
+856,"01:02:13,320","01:02:16,400",3733.32,3736.4,3.0799999999999272,"es lässt mich durchaus die Verantwortung spüren,"
+857,"01:02:16,520","01:02:18,800",3736.52,3738.8,2.2800000000002,die damit einhergeht.
+858,"01:02:29,120","01:02:33,800",3749.12,3753.8,4.680000000000291,"Es sind zwei Seelen in meiner Brust, die eine Seele sagt,"
+859,"01:02:38,440","01:02:41,360",3758.44,3761.36,2.9200000000000728,"es gibt noch sehr viel zu tun in Deutschland,"
+860,"01:02:41,440","01:02:43,400",3761.44,3763.4,1.9600000000000364,"es ist doch eine große Aufgabe,"
+861,"01:02:43,520","01:02:46,360",3763.52,3766.36,2.8400000000001455,der ich mich vom ersten Tag an gewidmet habe.
+862,"01:02:46,440","01:02:48,480",3766.44,3768.48,2.0399999999999636,"Auf der anderen Seite sich auch,"
+863,"01:02:48,560","01:02:52,160",3768.56,3772.16,3.599999999999909,dass man mit Engagement allen NATO Partnern dienen kann.
+864,"01:02:52,240","01:02:55,880",3772.24,3775.88,3.6400000000003274,"Es gibt noch eine Wahl, die gilt es erst mal zu gewinnen,"
+865,"01:02:55,960","01:03:00,280",3775.96,3780.28,4.320000000000164,"darauf schaue ich als nächstes. Ich bin sehr sehr froh und dankbar,"
+866,"01:03:00,360","01:03:04,480",3780.36,3784.48,4.119999999999891,dass die Bundesregierung mich hierfür nominierte.
+867,"01:03:07,200","01:03:11,640",3787.2,3791.64,4.440000000000055,MI: Sie dürfen dann nicht die ganze Zeit humble sein.
+868,"01:03:15,320","01:03:18,560",3795.32,3798.56,3.2399999999997817,"Sie müssen Entscheidungen treffen,"
+869,"01:03:23,720","01:03:26,640",3803.72,3806.64,2.9200000000000728,"es gibt auch Blicke in die Zukunft die sagen,"
+870,"01:03:26,720","01:03:30,240",3806.72,3810.24,3.519999999999982,die Europäer sollen für die konventionelle Verteidigung
+871,"01:03:30,320","01:03:32,680",3810.32,3812.68,2.3599999999996726,"verantwortlich sein, ist das ein Deal,"
+872,"01:03:32,800","01:03:35,960",3812.8,3815.96,3.1599999999998545,auf den Sie sich einlassen würden?
+873,"01:03:38,280","01:03:41,600",3818.28,3821.6,3.319999999999709,CB: Im Moment wird auf sehr hoher politischer Ebene
+874,"01:03:41,680","01:03:44,000",3821.68,3824.0,2.3200000000001637,"die Frage diskutiert,"
+875,"01:03:44,160","01:03:47,560",3824.16,3827.56,3.400000000000091,wie die nukleare Teilhabe der Zukunft aussehen soll.
+876,"01:03:47,640","01:03:51,680",3827.64,3831.68,4.039999999999964,"Wie man sich nuklear aufstellen soll. Ich halte es für richtig,"
+877,"01:03:51,760","01:03:55,320",3831.76,3835.32,3.5599999999999454,dass er vor politischer Ebene diese Frage gestellt wird.
+878,"01:03:55,440","01:03:56,480",3835.44,3836.48,1.0399999999999636,"Ich glaube nicht,"
+879,"01:03:56,600","01:04:00,960",3836.6,3840.96,4.360000000000127,dass wir sie auf militärischer Ebene öffentlich diskutieren sollten.
+880,"01:04:01,040","01:04:04,800",3841.04,3844.8,3.7600000000002183,Jede Diskussion darüber ist wie ein Blick in die Herzkammer
+881,"01:04:04,880","01:04:07,600",3844.88,3847.6,2.7199999999998,der nuklearen Abschreckung.
+882,"01:04:10,280","01:04:13,160",3850.28,3853.16,2.8799999999996544,"Das möchte ich einem Gegner nicht offenlegen,"
+883,"01:04:13,280","01:04:15,640",3853.28,3855.64,2.3599999999996726,"wie die Mechanismen dahinter sind. Deswegen noch mal,"
+884,"01:04:15,760","01:04:19,640",3855.76,3859.64,3.8799999999996544,"ich glaube es ist richtig, dass auf politischer Ebene zu tun,"
+885,"01:04:19,760","01:04:23,920",3859.76,3863.92,4.1599999999998545,auf militärischer sollte man das hinter verschlossenen Türen tun.
+886,"01:04:24,040","01:04:26,920",3864.04,3866.92,2.880000000000109,"MI: Es melden sich wahnsinnig viele Politiker,"
+887,"01:04:27,000","01:04:29,120",3867.0,3869.12,2.119999999999891,"insofern ist es auch interessant,"
+888,"01:04:29,240","01:04:32,840",3869.24,3872.84,3.600000000000364,in der öffentlich Cat darüber zu sprechen.
+889,"01:04:32,960","01:04:34,760",3872.96,3874.76,1.800000000000182,Vielen Dank.
+890,"01:04:41,680","01:04:44,520",3881.68,3884.52,2.8400000000001455,"Schon sind wir noch mal im Studio und sagen,"
+891,"01:04:44,600","01:04:46,680",3884.6,3886.68,2.0799999999999272,dass Markus Lanz jetzt dran ist.
+892,"01:04:46,800","01:04:49,080",3886.8,3889.08,2.2799999999997453,"Wolfgang Schmitz ist in der Landung,"
+893,"01:04:49,160","01:04:51,520",3889.16,3891.52,2.3600000000001273,der Mann an der Seite von Olaf Scholz.
+894,"01:04:51,640","01:04:54,120",3891.64,3894.12,2.480000000000018,"Wir sehen uns nächste Woche wieder, Tschüss."
