@@ -1,0 +1,61 @@
+import json
+import re
+from collections import Counter
+import numpy as np
+
+#JSON-Pfad
+path = "talkshow_results_topics.jsonl"
+
+
+
+# Themenzähler (mit JSONL-Parser)
+def get_topic_counts(filepath: str) -> dict:
+    topics = []
+    with open(filepath, "r", encoding="utf-8") as f:
+        for line in f:
+            data = json.loads(line)
+            if "topic" in data:
+                topics.append(data["topic"])
+    return Counter(topics)
+
+# Themenzähler ausgeben lassen
+for topic, count in sorted(counts.items(), key=lambda x: -x[1]):
+    print(f"{topic}: {count}")
+
+
+
+#Diversität berechnen mit SEI (Themen-Balance)
+counts = get_topic_counts(path)
+total = sum(counts.values())
+proportions = {k: v / total for k, v in counts.items()}
+
+# Shannon Diversity Index (SDI)
+sdi = -sum(p * np.log(p) for p in proportions.values() if p > 0)
+
+# Shannon Evenness Index (SEI)
+n_topics = len(counts)
+sei = sdi / np.log(n_topics)
+
+
+
+# Ausgabe
+print(f"Gesamtartikel: {total}")
+print(f"Anzahl Themen: {n_topics}")
+print(f"SDI:           {sdi:.4f}")
+print(f"SEI:           {sei:.4f}")
+print()
+print("Themenanteile (absteigend):")
+for topic, p in sorted(proportions.items(), key=lambda x: -x[1]):
+    print(f"  {topic:<20} {p*100:5.1f}%")
+
+# Einschätzung (Schwellenwert: <0.70 = geringe Diversität)
+if sei >= 0.85:
+    einschätzung = "gut balanciert"
+elif sei >= 0.70:
+    einschätzung = "grenzwertig"
+elif sei >= 0.50:
+    einschätzung = "gering"
+else:
+    einschätzung = "sehr gering"
+
+print(f"\nEinschätzung der Diversität: {einschätzung} ")
