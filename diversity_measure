@@ -3,8 +3,16 @@ import re
 from collections import Counter
 import numpy as np
 
+
+
+
 #JSON-Pfad
 path = "talkshow_results_topics.jsonl"
+
+#Filter nach Show oder Sender – Falls gewünscht eintragen. Andernfalls auslassen.
+show = ""
+sender = ""
+
 
 
 
@@ -14,13 +22,16 @@ def get_topic_counts(filepath: str) -> dict:
     with open(filepath, "r", encoding="utf-8") as f:
         for line in f:
             data = json.loads(line)
-            if "topic" in data:
-                topics.append(data["topic"])
+            if "topic" not in data: continue
+            if show and data.get("show") != show: continue  # Show-Filter
+            if sender and data.get("sender") != sender: continue  # Sender-Filter
+            topics.append(data["topic"])
     return Counter(topics)
 
 # Themenzähler ausgeben lassen
 for topic, count in sorted(counts.items(), key=lambda x: -x[1]):
     print(f"{topic}: {count}")
+
 
 
 
@@ -38,8 +49,9 @@ sei = sdi / np.log(n_topics)
 
 
 
+
 # Ausgabe
-print(f"Gesamtartikel: {total}")
+print(f"Ausgewertete Einheiten: {total}")
 print(f"Anzahl Themen: {n_topics}")
 print(f"SDI:           {sdi:.4f}")
 print(f"SEI:           {sei:.4f}")
