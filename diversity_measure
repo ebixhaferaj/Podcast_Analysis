@@ -59,15 +59,3 @@ print()
 print("Themenanteile (absteigend):")
 for topic, p in sorted(proportions.items(), key=lambda x: -x[1]):
     print(f"  {topic:<20} {p*100:5.1f}%")
-
-# Einschätzung (Schwellenwert: <0.70 = geringe Diversität)
-if sei >= 0.85:
-    einschätzung = "gut balanciert"
-elif sei >= 0.70:
-    einschätzung = "grenzwertig"
-elif sei >= 0.50:
-    einschätzung = "gering"
-else:
-    einschätzung = "sehr gering"
-
-print(f"\nEinschätzung der Diversität: {einschätzung} ")
