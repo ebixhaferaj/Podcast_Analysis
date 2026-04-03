@@ -1,0 +1,5007 @@
+1
+00:00:00,040 --> 00:00:02,120
+Diese Untertitel
+sind live produziert.
+
+2
+00:00:02,160 --> 00:00:05,040
+- Willkommen zu unserer Sendung,
+die mit Blick in diese Runde
+
+3
+00:00:05,080 --> 00:00:07,960
+eine spannende Sendung
+zu werden verspricht.
+
+4
+00:00:08,000 --> 00:00:10,120
+Wir möchten über folgende Frage
+nachdenken:
+
+5
+00:00:10,160 --> 00:00:13,960
+Wir möchten über KI sprechen,
+wie sie den Alltag verändert,
+
+6
+00:00:14,000 --> 00:00:16,920
+und noch verändern wird.
+
+7
+00:00:16,960 --> 00:00:22,280
+Wenn wir wissen wollen,
+was KI eigentlich wirklich ist,
+
+8
+00:00:22,320 --> 00:00:26,240
+dann fragen wir diese Frau hier,
+Katharina Zweig.
+
+9
+00:00:26,280 --> 00:00:29,520
+Sie ist Informatikprofessorin
+an der TU Kaiserslautern.
+
+10
+00:00:29,560 --> 00:00:32,000
+Die FAZ hat über sie mal geschrieben,
+
+11
+00:00:32,040 --> 00:00:35,400
+sie können künstliche Intelligenz
+so gut erklären,
+
+12
+00:00:35,440 --> 00:00:37,280
+wie Christian Drosten die Viren.
+
+13
+00:00:41,600 --> 00:00:45,760
+Zitat: "Ich fürchte wir haben uns
+in eine Situation hineinmanövriert,
+
+14
+00:00:45,800 --> 00:00:50,000
+in der wir lieber mit einer Maschine
+sprechen, als mit unserem Nachbarn".
+
+15
+00:00:50,800 --> 00:00:54,200
+Man denkt unweigerlich
+an den amerikanischen Jungen,
+
+16
+00:00:54,240 --> 00:00:57,760
+der im Zwiegespräch
+mit Chat GPT seinen Suizid geplant
+
+17
+00:00:57,800 --> 00:01:03,040
+und durchgeführt hat, so was ist
+auch in Zukunft nicht auszuschließen.
+
+18
+00:01:03,080 --> 00:01:05,560
+Herzlich willkommen,
+ich freue mich sehr.
+
+19
+00:01:05,600 --> 00:01:07,600
+Ist es also fast
+unmöglich zu verhindern,
+
+20
+00:01:07,640 --> 00:01:10,280
+dass Menschen
+so etwas wie eine Beziehung
+
+21
+00:01:10,320 --> 00:01:13,920
+zur Maschine aufbauen?
+
+22
+00:01:13,960 --> 00:01:15,720
+Katharina Zweig sieht das so.
+
+23
+00:01:15,760 --> 00:01:18,920
+Die nächste Gästin
+die heute hier ist, Judith Simon,
+
+24
+00:01:18,960 --> 00:01:22,200
+Professorin der Informations-
+technologie hier in Hamburg.
+
+25
+00:01:22,240 --> 00:01:27,080
+Geht einen Schritt weiter: ChatGPT
+sei ein riesiges Soziales Experiment.
+
+26
+00:01:27,560 --> 00:01:31,360
+Und man tut so, als wäre es
+nur Mathematik, nicht Politik.
+
+27
+00:01:31,400 --> 00:01:35,680
+Unternehmen, wie OpenAI haben
+das einfach auf den Markt geworfen.
+
+28
+00:01:35,720 --> 00:01:38,800
+Alle Risiken wurden
+an alle andere ausgelagert.
+
+29
+00:01:38,840 --> 00:01:50,520
+Immer wieder geht es um die Frage
+von Lüge und Wahrheit,
+
+30
+00:01:51,560 --> 00:01:54,200
+wenn wir nicht mehr unterscheiden
+können,
+
+31
+00:01:54,240 --> 00:01:56,400
+ob Bilder oder Videos echt sind,
+
+32
+00:01:56,440 --> 00:02:00,720
+können Lügen der Politiker nicht
+als falsch zurückgewiesen werden.
+
+33
+00:02:00,760 --> 00:02:04,800
+Fachleute, wie Frau Simon
+sprechen von einer Lügner Dividende,
+
+34
+00:02:04,840 --> 00:02:08,120
+und von einer drohenden
+Realitätsapathie.
+
+35
+00:02:08,160 --> 00:02:11,680
+Durch den Vertrauensverlust
+werden wieder gleichgültig
+
+36
+00:02:11,720 --> 00:02:13,920
+gegenüber der Wahrheit.
+
+37
+00:02:17,760 --> 00:02:20,800
+Und Sascha Lobo (SL) sagt,
+
+38
+00:02:20,840 --> 00:02:29,520
+das Zeitalter
+vorgetäuschten Realität ist hier.
+
+39
+00:02:47,360 --> 00:02:50,440
+Und nicht nur das,
+die Konsequenz daraus wird sein,
+
+40
+00:02:50,480 --> 00:02:53,840
+dass wir uns eine kommende
+Generation vorstellen müssen,
+
+41
+00:02:53,880 --> 00:03:01,920
+die Dinge nicht können, falls sie
+nicht mit einer KI trainiert wird.
+
+42
+00:03:11,840 --> 00:03:13,720
+Außerdem hier Leon Winscheidt,
+
+43
+00:03:13,760 --> 00:03:16,320
+der wohl bekannteste
+Psychologe Deutschlands.
+
+44
+00:03:16,360 --> 00:03:20,640
+Die Antwort kann doch nicht sein,
+kein Problem hier ist der Chatbot.
+
+45
+00:03:20,680 --> 00:03:31,400
+Überhaupt, Einsamkeit: "wir
+ersetzen Psychologen durch KI".
+
+46
+00:03:31,440 --> 00:03:35,680
+Das macht etwas mit uns.
+
+47
+00:03:56,520 --> 00:03:59,920
+Es sind überhaupt nicht
+mehr als solche zu erkennen,
+
+48
+00:03:59,960 --> 00:04:02,080
+entwickelt sich rasant.
+
+49
+00:04:02,120 --> 00:04:06,840
+Was täuschend echt aussieht,
+ist in Wahrheit nur eine Illusion.
+
+50
+00:04:09,600 --> 00:04:12,160
+Die auch problematisch sein können.
+
+51
+00:04:12,200 --> 00:04:18,800
+Vermeintlich historische Aufnahmen,
+häufig fehlt Hinweis,
+
+52
+00:04:23,520 --> 00:04:27,520
+Eine Umarmung von Putin
+und Trump Berater Wittcoff.
+
+53
+00:04:27,560 --> 00:04:29,200
+So hat es sie nie gegeben.
+
+54
+00:04:35,960 --> 00:04:39,200
+Das ChatGPT ist Teil
+der fortschreitenden Entwicklung.
+
+55
+00:04:39,240 --> 00:04:45,800
+Die Anwendung wird
+von vielen Menschen benutzt.
+
+56
+00:04:53,400 --> 00:04:57,320
+Die Kommunikation mit dem Chatbot
+ist inzwischen menschlich.
+
+57
+00:04:57,360 --> 00:05:01,000
+Menschen verlieben sich in Bots.
+
+58
+00:05:05,840 --> 00:05:13,120
+- Puls fängt an schneller zu
+schlagen, ich bekomme Herzrasen.
+
+59
+00:05:13,160 --> 00:05:14,760
+Wie bei einer echten Liebe.
+
+60
+00:05:14,480 --> 00:05:16,880
+Beziehungen zu fiktiven Charakteren.
+
+61
+00:05:16,920 --> 00:05:20,840
+Selbst der Chef warnt vor Problemen.
+
+62
+00:05:25,520 --> 00:05:29,080
+Manche sprechen von der neuen
+zeitalter der Produktivität,
+
+63
+00:05:29,120 --> 00:05:31,120
+sehen Effizienzsteigerungen,
+neue Jobs.
+
+64
+00:05:31,400 --> 00:05:33,840
+Andere kritisieren
+die Herausforderung
+
+65
+00:05:33,880 --> 00:05:35,520
+in der Umstrukturierung,
+
+66
+00:05:35,560 --> 00:05:38,240
+befürchten den Verlust
+von Arbeitsplätzen.
+
+67
+00:05:38,280 --> 00:05:40,120
+Doch wo stehen wir wirklich?
+
+68
+00:05:40,160 --> 00:05:42,600
+Sind wir schon mitten
+im KI Zeitalter?
+
+69
+00:05:42,640 --> 00:05:46,640
+Wie wird Künstliche Intelligenz
+unser Zusammenleben verändern?
+
+70
+00:06:04,680 --> 00:06:09,040
+- Das hat vor drei Jahren,
+die meisten von uns stark überrascht,
+
+71
+00:06:09,080 --> 00:06:11,720
+was diese Maschinen können.
+
+72
+00:06:11,640 --> 00:06:18,120
+Total, ich habe kurz
+zuvor ein Buch darüber gelesen
+
+73
+00:06:18,160 --> 00:06:20,240
+wie ein Chatbot Rezepte vorgeht.
+
+74
+00:06:20,280 --> 00:06:23,960
+Damit musste ich mich nicht
+beschäftigen, dann aber doch.
+
+75
+00:06:24,000 --> 00:06:25,560
+Es ist eine Technologie,
+
+76
+00:06:25,600 --> 00:06:28,360
+die von manchen
+maschinellen Lernen beruht.
+
+77
+00:06:28,400 --> 00:06:32,320
+Sie soll das nächste Wort
+in einem großen Kontextvorhersage,
+
+78
+00:06:32,360 --> 00:06:35,640
+damit ist schon alles gesagt.
+
+79
+00:06:38,680 --> 00:06:47,640
+- Sie berechnet also,
+was statistisch,
+
+80
+00:06:47,680 --> 00:06:51,400
+mit großer Wahrscheinlichkeit
+nicht sofort sein wird? Ja,
+
+81
+00:06:51,440 --> 00:06:55,160
+manchmal entscheidet sie sich
+aber auch für andere Worte,
+
+82
+00:06:55,200 --> 00:07:00,440
+dadurch verändern sich Kontexte.
+
+83
+00:07:00,480 --> 00:07:04,160
+- Sie haben mal ein wirklich
+interessantes Bild benutzt,
+
+84
+00:07:04,200 --> 00:07:06,840
+vielleicht können Sie
+das mit uns teilen,
+
+85
+00:07:06,880 --> 00:07:10,560
+sie haben einen dunklen Raum
+oder eine Höhle beschrieben,
+
+86
+00:07:10,600 --> 00:07:17,080
+um zu erklären, dass Teil arbeitet.
+
+87
+00:07:17,120 --> 00:07:19,600
+- Spannung von einer Technologie ist,
+
+88
+00:07:19,640 --> 00:07:22,400
+dass die Maschine
+versucht zu verlernen,
+
+89
+00:07:22,440 --> 00:07:26,560
+wie man Wörter in einem dimensionalen
+Vektorraum anordnen kann.
+
+90
+00:07:26,600 --> 00:07:34,240
+Das kann sich keiner vorstellen,
+dass wir in einer Kuppel.
+
+91
+00:07:34,280 --> 00:07:38,200
+Beleuchten Wörter an die Decke,
+
+92
+00:07:38,240 --> 00:07:42,400
+bekommen den Auftrag, ähnliche
+Worte aneinander zurück,
+
+93
+00:07:42,440 --> 00:07:45,320
+dass Lern die Maschine
+während des Trainings.
+
+94
+00:07:45,360 --> 00:07:49,760
+Ein Beispiel wäre, sie lernt
+Hund und Katze, aber sie lernt,
+
+95
+00:07:49,800 --> 00:07:55,040
+dass Cat auch nicht so weit weg ist,
+
+96
+00:07:55,080 --> 00:07:58,680
+weil das in ähnlichen Kontexten
+aber eine andere Sprache
+
+97
+00:07:58,720 --> 00:08:01,560
+auch auftaucht.
+Damit versteht die Maschine,
+
+98
+00:08:01,600 --> 00:08:04,000
+wie wir Wörter verwenden.
+Dass Lehrer,
+
+99
+00:08:04,040 --> 00:08:08,520
+lehrende zum Beispiel
+ähnliche Worte sind.
+
+100
+00:08:08,560 --> 00:08:10,760
+- Und man das trainiert man dann,
+
+101
+00:08:10,800 --> 00:08:14,320
+schubst sie dann sozusagen
+immer mehr in die Richtung,
+
+102
+00:08:14,360 --> 00:08:19,240
+in die man will?
+
+103
+00:08:19,280 --> 00:08:23,200
+- Genau, diese Strahler werden
+die ganze Zeit ausgeleuchtet,
+
+104
+00:08:23,240 --> 00:08:31,960
+bis eine gute Formierung wurde.
+
+105
+00:08:32,000 --> 00:08:34,280
+Gleichzeitig lernen die Maschinen,
+
+106
+00:08:34,320 --> 00:08:38,120
+welches Wort ein gutes Signalwort
+für das nächste Wort ist.
+
+107
+00:08:38,160 --> 00:08:44,680
+Fernsehshow, Markus, dann wird
+Lanz sehr wahrscheinlich sein.
+
+108
+00:08:44,720 --> 00:08:49,520
+- Ich schaue gerade zu Sascha Lobo,
+der hier vor Jahren schon gesagt hat,
+
+109
+00:08:49,560 --> 00:08:52,440
+ihr versteht noch nicht,
+was das möglich ist.
+
+110
+00:08:52,480 --> 00:08:57,120
+Wie groß diese Revolution ist. Frau
+Zweig befasst sich beruflich damit,
+
+111
+00:08:57,160 --> 00:09:07,560
+die geht es aber Sascha Lobo damit?
+
+112
+00:09:07,600 --> 00:09:14,360
+- Ich war von der Schnelligkeit
+überrascht,
+
+113
+00:09:14,400 --> 00:09:16,600
+den exponentiell Qualitätszuwachs.
+
+114
+00:09:16,640 --> 00:09:18,600
+Dass da etwas entstehen würde,
+
+115
+00:09:18,640 --> 00:09:20,560
+das haben viele Leute geahnt,
+
+116
+00:09:20,600 --> 00:09:24,000
+das war absehbar.
+
+117
+00:09:24,040 --> 00:09:26,280
+Es gab schon zuvor Sprachmodelle,
+
+118
+00:09:26,320 --> 00:09:34,360
+dann kann ChatGPT
+mit der Version 3.5,
+
+119
+00:09:34,400 --> 00:09:36,280
+das ist die Softwareversion.
+
+120
+00:09:36,320 --> 00:09:44,440
+Eindrucksvoll hat man
+einen Quantensprung bewiesen.
+
+121
+00:09:44,480 --> 00:09:49,160
+- Frau Simon, wie schauen Sie darauf?
+Ich habe es nicht umsonst gesagt,
+
+122
+00:09:49,200 --> 00:09:53,160
+sie kommen von der psychologischen
+und philosophischen Seite.
+
+123
+00:09:53,200 --> 00:09:55,840
+Sind sehr tief in der Informatik.
+
+124
+00:09:55,880 --> 00:09:58,480
+- Ich bin keine richtige
+Informatikerin,
+
+125
+00:09:58,520 --> 00:10:00,360
+aber ich bin in der Materie drin.
+
+126
+00:10:00,400 --> 00:10:03,920
+Auch Menschen die in dem Feldarbeiten
+sind überrascht.
+
+127
+00:10:03,960 --> 00:10:08,640
+Man hat plötzlich ein Tool gehabt,
+das gut genug und frei verfügbar war,
+
+128
+00:10:08,680 --> 00:10:09,840
+einfach zu nutzen.
+
+129
+00:10:09,880 --> 00:10:12,640
+Plötzlich hat man etwas,
+das gut genug war,
+
+130
+00:10:12,680 --> 00:10:15,000
+dass Leute damit rumgespielt haben,
+
+131
+00:10:15,040 --> 00:10:18,480
+durch die ständige Nutzung
+ist es besser geworden.
+
+132
+00:10:18,520 --> 00:10:23,360
+Rasend schnell gab es Verbesserungen,
+auch an Universitäten ging es darum,
+
+133
+00:10:23,400 --> 00:10:26,040
+sind Hausarbeiten tot?
+
+134
+00:10:26,080 --> 00:10:30,200
+Auch die Reaktion gesellschaftlich
+darauf war unglaublich groß,
+
+135
+00:10:30,240 --> 00:10:31,520
+weil es Sprache ist.
+
+136
+00:10:31,560 --> 00:10:40,840
+Sprache bestimmt unser Miteinander.
+
+137
+00:10:40,880 --> 00:10:42,920
+Wenn ich Texte generieren kann,
+
+138
+00:10:42,960 --> 00:10:45,800
+vieles geht im Alltag
+über Sprache und Text,
+
+139
+00:10:45,840 --> 00:10:52,000
+das hat grundlegend große
+Veränderung mit sich geführt.
+
+140
+00:10:52,040 --> 00:11:04,880
+- Diese Überraschung, da gibt
+es eine versandte Geschichte,
+
+141
+00:11:04,920 --> 00:11:09,360
+Google hat sich 2022 lange sehr
+intensiv auf den Wandel vorbereitet.
+
+142
+00:11:09,400 --> 00:11:13,520
+Es wurden hohe Beträge investiert.
+ChatGPT wird veröffentlicht,
+
+143
+00:11:13,560 --> 00:11:17,480
+noch im Dezember, Tage später
+ruft Google Alarmstufe Rot aus.
+
+144
+00:11:17,520 --> 00:11:19,960
+Sie sehen
+ihr Geschäftsmodell bedroht.
+
+145
+00:11:20,000 --> 00:11:26,040
+Wenn sogar Google überrascht wird,
+
+146
+00:11:26,080 --> 00:11:28,760
+dann muss man sich
+wirklich nicht schämen,
+
+147
+00:11:28,800 --> 00:11:38,000
+wenn man nicht alles gesehen hat,
+was an Entwicklung kommt.
+
+148
+00:11:38,040 --> 00:11:42,440
+Selbst wenn man eine tiefe Sachkunde
+hat, dann ist schwer zu sehen,
+
+149
+00:11:42,480 --> 00:11:46,560
+welche Effekte am schnellsten
+erzielt werden.
+
+150
+00:11:46,600 --> 00:11:50,560
+- Es werden gleich sehr
+viele interessante und zum Teil auch
+
+151
+00:11:50,600 --> 00:11:55,280
+deprimierende Beispiele gezeigt. Ich
+möchte kurz noch mit Leon sprechen,
+
+152
+00:11:55,320 --> 00:12:05,000
+wie schaut der Psychologe darauf,
+was macht das mit uns?
+
+153
+00:12:05,040 --> 00:12:07,560
+LW: Ja, das ist
+für mich die Kernfrage.
+
+154
+00:12:07,600 --> 00:12:12,280
+Ich bin fasziniert von dem Bild
+mit der Taschenlampe.
+
+155
+00:12:12,320 --> 00:12:17,600
+Du hast die Geschwindigkeit
+der neuen Versionen angesprochen.
+
+156
+00:12:17,640 --> 00:12:20,480
+Wenn ich den Menschen
+auf der Bühne erzähle,
+
+157
+00:12:20,520 --> 00:12:23,800
+dass ein Forschungsteam
+beauftragt wurde zu prüfen,
+
+158
+00:12:23,840 --> 00:12:28,640
+was die KI kann, oder man
+im Internet angeben muss,
+
+159
+00:12:28,680 --> 00:12:30,160
+ob man ein Mensch ist,
+
+160
+00:12:30,200 --> 00:12:32,280
+dann scheitert ChatGPT.
+
+161
+00:12:32,320 --> 00:12:36,240
+Das Forschungsteam schlägt der KI
+vor, Menschen zu benutzen.
+
+162
+00:12:36,280 --> 00:12:39,680
+ChatGPT lockt sich in ein Forum
+ein und fragt danach,
+
+163
+00:12:39,720 --> 00:12:45,080
+dass Menschen diese Überprüfungen
+online lösen für ChatGPT.
+
+164
+00:12:45,120 --> 00:12:52,160
+Wenn ich das anspreche,
+
+165
+00:12:52,200 --> 00:12:56,320
+dann merke ich, wie es den Leuten
+kalt den Rücken runter läuft.
+
+166
+00:12:56,360 --> 00:12:58,920
+Die Leute bekommen
+einen Eindruck davon,
+
+167
+00:12:58,960 --> 00:13:05,480
+wie dieses Werkzeug wirkt.
+
+168
+00:13:05,520 --> 00:13:15,280
+Wenn es darum geht, dass es anfängt,
+uns zu benutzen, dann merkt man,
+
+169
+00:13:15,320 --> 00:13:19,560
+welche Gewalt hinter Chat GPT
+die steckt. Es ist immer wieder so,
+
+170
+00:13:19,600 --> 00:13:23,960
+dass ich denke, bitte
+lasst uns nicht naiv sein.
+
+171
+00:13:24,000 --> 00:13:26,880
+- Aber das macht
+die Maschine nicht alleine,
+
+172
+00:13:26,920 --> 00:13:31,440
+so klingen diese Studien immer, es
+ist ein Prompt dahinter, ein Text,
+
+173
+00:13:31,480 --> 00:13:32,760
+den wir nicht sehen.
+
+174
+00:13:32,800 --> 00:13:36,600
+Dann wird die Maschine manipulative
+Strategien vorschlagen,
+
+175
+00:13:36,640 --> 00:13:40,560
+weil sie das gesehen hat. Da
+stecken immer Menschen dahinter.
+
+176
+00:13:40,600 --> 00:13:42,200
+Das macht die Maschine
+nicht von alleine.
+
+177
+00:13:42,240 --> 00:13:46,120
+- Ich frage mich dabei, ist
+das eine Frage der Zeit?
+
+178
+00:13:46,160 --> 00:13:48,600
+- Vielleicht können wir das noch mal,
+
+179
+00:13:48,640 --> 00:13:52,840
+weil es eine Zeitreise ist noch mal
+anschauen, damit ging es los,
+
+180
+00:13:52,880 --> 00:13:56,720
+mit diesem Bild. Ich bin
+darauf reingefallen.
+
+181
+00:13:56,760 --> 00:14:01,760
+- War es Sascha Lobo sofort klar,
+dass das KI generiert es?
+
+182
+00:14:01,800 --> 00:14:10,280
+- Ich hatte mich schon
+seit 2022 mit journey befasst.
+
+183
+00:14:10,320 --> 00:14:14,200
+Ich hatte eine gewisse Alarmiertet.
+Es ist aber nicht so,
+
+184
+00:14:14,240 --> 00:14:19,360
+dass man selbstverständlich weiß,
+was echt ist und was nicht.
+
+185
+00:14:19,400 --> 00:14:22,520
+- Das hier war ein anderes Foto
+aus dieser Zeit.
+
+186
+00:14:22,560 --> 00:14:26,080
+Man muss sich das mal klarmachen,
+Bilder zu Situation,
+
+187
+00:14:26,120 --> 00:14:29,640
+die es nie gegeben hat.
+
+188
+00:14:29,680 --> 00:14:33,600
+Das war der Aufschrei, plötzlich
+war klar, es gibt ein Bild,
+
+189
+00:14:33,640 --> 00:14:35,960
+das steht ja eigentlich immer davon,
+
+190
+00:14:36,000 --> 00:14:38,840
+dass es einen Moment
+von Wahrhaftigkeit ist.
+
+191
+00:14:38,880 --> 00:14:42,840
+Dann ist das plötzlich die Situation,
+die es nie gegeben hat.
+
+192
+00:14:42,880 --> 00:14:44,040
+Es gibt ein Video,
+
+193
+00:14:44,080 --> 00:14:56,320
+dass diese Revolution
+sehr beeindruckend zeigt.
+
+194
+00:14:56,360 --> 00:15:00,280
+Das Beispiel einer Person,
+die Spaghetti isst.
+
+195
+00:15:00,320 --> 00:15:04,480
+- Das ist bei KI Leuten
+eine Art Meme oder Test.
+
+196
+00:15:04,520 --> 00:15:07,680
+Gerade bei degenerativen
+künstlichen Intelligenz,
+
+197
+00:15:07,720 --> 00:15:14,040
+wo man schöpferisch tätig ist,
+
+198
+00:15:14,080 --> 00:15:23,320
+hat man sich irgend
+wann darauf geeinigt,
+
+199
+00:15:23,360 --> 00:15:27,680
+dass Will Smith ein gutes
+Test Szenarios.
+
+200
+00:15:27,720 --> 00:15:38,240
+Das ist über die Jahre
+weiterentwickelt worden.
+
+201
+00:15:38,280 --> 00:15:40,360
+Es war klar,
+
+202
+00:15:40,400 --> 00:15:44,520
+dass es eine Mischung aus LSD-Trip
+und schlechter Software ist.
+
+203
+00:15:44,560 --> 00:15:49,280
+Es wurde besser erkennbar, inzwischen
+ist das nicht mehr unterscheidbar.
+
+204
+00:15:49,320 --> 00:15:52,920
+Da war so ein Scherz von Will Smith,
+den er gemacht hat,
+
+205
+00:15:52,960 --> 00:15:55,960
+wo er wirklich ein Nudel
+Video aufgenommen hat.
+
+206
+00:15:56,000 --> 00:16:00,880
+Da haben Leute gesagt
+nein, das ist KI.
+
+207
+00:16:00,920 --> 00:16:05,680
+- Können wir das noch einmal zeigen
+und mal auf die Jahreszahlen achten,
+
+208
+00:16:05,720 --> 00:16:10,280
+die darunter stehen. Es beginnt 2023,
+es ist völlig klar, was das ist,
+
+209
+00:16:10,320 --> 00:16:12,800
+es ist offensichtlich
+ein Internet-Fake.
+
+210
+00:16:12,840 --> 00:16:14,320
+2024 ist schon deutlich besser.
+
+211
+00:16:14,360 --> 00:16:16,960
+- Leichte Probleme
+noch mit den Fingern,
+
+212
+00:16:17,000 --> 00:16:18,640
+wenn man genau hinschaut.
+
+213
+00:16:18,680 --> 00:16:21,800
+Die Nudeln verhalten sich
+auch nicht wie Nudeln.
+
+214
+00:16:21,840 --> 00:16:23,720
+Das ist jetzt 2025,
+
+215
+00:16:23,760 --> 00:16:26,320
+die Mimik und Gestik
+ist so überzeugend,
+
+216
+00:16:26,360 --> 00:16:28,720
+dass das glaubhaft ist.
+
+217
+00:16:28,760 --> 00:16:29,920
+- Noch mal 23-25,
+
+218
+00:16:29,960 --> 00:16:33,560
+jetzt überlegen wir uns das mal
+was das für die nächsten
+
+219
+00:16:33,600 --> 00:16:45,360
+Jahre bedeutet.
+
+220
+00:16:45,400 --> 00:16:48,400
+- Wir können nicht
+nur schwer vorher sind,
+
+221
+00:16:48,440 --> 00:16:51,920
+wo die größten
+und wirkungsvollsten Folgen sind,
+
+222
+00:16:51,960 --> 00:16:57,360
+sondern auch die Geschwindigkeit,
+in der das passiert,
+
+223
+00:16:57,400 --> 00:16:59,120
+das ist vielen nicht klar.
+
+224
+00:16:59,160 --> 00:17:01,880
+Wir müssen davon sprechen,
+
+225
+00:17:01,920 --> 00:17:09,040
+dass KI die Dinge noch nicht kann.
+
+226
+00:17:09,080 --> 00:17:23,080
+In der Fachwelt ist klar, bestimmte
+Punkte, die werden kommen.
+
+227
+00:17:23,120 --> 00:17:27,640
+- Ich fand es auch albern, als immer
+da noch um gedruckte Wort wurde,
+
+228
+00:17:27,680 --> 00:17:30,920
+ihr müsst euch auf die Finger
+konzentrieren, dann könnt ihr sehen,
+
+229
+00:17:30,960 --> 00:17:33,560
+ob es ein Fehler gibt.
+Dann wurde gesagt,
+
+230
+00:17:33,600 --> 00:17:38,280
+die alten bekommen das nicht so gut
+hin, aber wenn man das jetzt sieht,
+
+231
+00:17:38,320 --> 00:17:41,600
+in 2-4 Jahren kann
+das keiner mehr erkennen.
+
+232
+00:17:41,640 --> 00:17:44,480
+- Hier gibt es
+ein interessantes Foto.
+
+233
+00:17:44,520 --> 00:17:47,880
+Ich sag es gar keinen Namen.
+
+234
+00:17:47,920 --> 00:17:51,720
+Wer könnte das sein?
+
+235
+00:17:51,760 --> 00:17:56,080
+Ich dachte erst Marius Müller
+Westernhagen, der ist es aber nicht.
+
+236
+00:17:56,120 --> 00:18:00,960
+Es ist Friedrich Merz. Was man
+aus diesem ein Foto machen kann,
+
+237
+00:18:01,000 --> 00:18:04,560
+da schauen wir uns jetzt an.
+
+238
+00:18:04,600 --> 00:18:08,760
+Das knüpft an an Friedrich Merz
+Heldentaten früher im Sauerland.
+
+239
+00:18:08,800 --> 00:18:14,640
+Er hat im Interview davon erzählt.
+
+240
+00:18:14,680 --> 00:18:18,720
+Fahren ohne Helm, Pommesbuden,
+das wilde Leben im Sauerland.
+
+241
+00:18:18,760 --> 00:18:23,920
+Und das einfach mal KI generiert.
+
+242
+00:18:23,960 --> 00:18:26,520
+Und das alles
+aus einem einzigen Foto.
+
+243
+00:18:26,560 --> 00:18:34,280
+Dieser Punkt ist entscheidend.
+
+244
+00:18:34,320 --> 00:18:36,720
+Wenn man näher an die Augen rangeht,
+
+245
+00:18:36,760 --> 00:18:45,960
+das war vor drei Jahren
+noch nicht möglich.
+
+246
+00:18:46,000 --> 00:18:50,160
+- Das war nicht nur nicht möglich,
+sondern man muss dazu sagen,
+
+247
+00:18:50,200 --> 00:18:54,280
+es ist relativ schnell entstanden.
+Es ist immer die Frage der Zeit,
+
+248
+00:18:54,320 --> 00:18:57,880
+wie Fitzek man investieren,
+um die Qualität zu erhöhen.
+
+249
+00:18:57,920 --> 00:19:01,440
+Viele Tools können einige Dinge
+besser, als andere.
+
+250
+00:19:01,480 --> 00:19:04,880
+- Was geht Ihnen durch
+den Kopf, wenn Sie das sehen?
+
+251
+00:19:04,920 --> 00:19:07,800
+Welche Büchse der Pandora
+ist damit geöffnet?
+
+252
+00:19:07,840 --> 00:19:16,280
+Was kann man damit anstellen,
+im Guten wie im Schlechten?
+
+253
+00:19:16,320 --> 00:19:19,920
+- Ja, wir haben es natürlich
+mit unterschiedlichen Aspekten
+
+254
+00:19:19,960 --> 00:19:21,040
+von Täuschung zu tun,
+
+255
+00:19:21,080 --> 00:19:23,680
+dass ist die naheliegendste
+Form der Täuschung.
+
+256
+00:19:23,720 --> 00:19:27,560
+Man weiß nicht mehr genau
+welche Inhalte die Realität sind.
+
+257
+00:19:27,600 --> 00:19:30,600
+Aber auch im weiteren Sinne,
+Täuschung darüber,
+
+258
+00:19:30,640 --> 00:19:33,120
+was diese Tools können und was nicht,
+
+259
+00:19:33,160 --> 00:19:35,280
+ob sie Empathie haben oder nicht.
+
+260
+00:19:35,320 --> 00:19:37,760
+Der Sprachoutput ist
+sehr überzeugend.
+
+261
+00:19:37,800 --> 00:19:42,280
+Das ist natürlich auch eine Form
+von Täuschung. Sie hat Auswirkungen.
+
+262
+00:19:42,320 --> 00:19:47,000
+Deswegen auch die Fragen von vorhin,
+was macht das mit Liebe, Beziehung,
+
+263
+00:19:47,040 --> 00:19:54,040
+Freundschaft?
+
+264
+00:19:54,080 --> 00:19:57,600
+- Die Frage erst mal von Lüge
+und Wahrheit. Im Guten,
+
+265
+00:19:57,640 --> 00:20:00,120
+wie im Schlechten.
+Wir sind müde davon,
+
+266
+00:20:00,160 --> 00:20:02,560
+dass interessiert
+endlich keinen mehr.
+
+267
+00:20:02,600 --> 00:20:06,440
+Oder was ist die Konsequenz
+auf einer psychologischen Ebene?
+
+268
+00:20:06,480 --> 00:20:11,160
+- Also, ich glaube es interessiert
+einen schon, aber Lüge und Wahrheit,
+
+269
+00:20:11,200 --> 00:20:13,600
+ist es vielleicht anders als vorher,
+
+270
+00:20:13,640 --> 00:20:20,080
+diese Unterscheidung ist immer
+noch relevant für viele Menschen.
+
+271
+00:20:20,120 --> 00:20:24,000
+- Das meine ich nicht, man gibt
+irgendwann den Versuch auf,
+
+272
+00:20:24,040 --> 00:20:26,880
+es herauszufinden, weil
+es nicht mehr geht.
+
+273
+00:20:26,920 --> 00:20:31,120
+- Man geht vielleicht nicht
+mehr den Weg des direkten abschätzen
+
+274
+00:20:31,160 --> 00:20:33,640
+von Bildern, sondern vertraut
+auf Institution,
+
+275
+00:20:33,680 --> 00:20:38,440
+die dafür da sind Dinge zu checken.
+Ich glaube es gibt eine Verschiebung.
+
+276
+00:20:38,480 --> 00:20:40,440
+Es gab schon immer Propaganda,
+
+277
+00:20:40,480 --> 00:20:43,560
+aber es wird immer einfacher
+das zu produzieren.
+
+278
+00:20:43,600 --> 00:20:46,440
+Es ist schwieriger
+geworden das zu erkennen.
+
+279
+00:20:46,480 --> 00:20:51,040
+Menschen sind vorsichtiger geworden.
+Es wird noch eine Weile brauchen,
+
+280
+00:20:51,080 --> 00:20:52,960
+bis wir damit umgehen können.
+
+281
+00:20:53,000 --> 00:20:56,880
+Aber ich glaube es wird die Rolle
+von Institutionen stärken,
+
+282
+00:20:56,920 --> 00:21:03,560
+vertrauenswürdige
+Informationsquellen herzustellen.
+
+283
+00:21:03,600 --> 00:21:07,440
+- Und umgekehrt, wenn du
+ein Politiker bist,
+
+284
+00:21:07,480 --> 00:21:10,920
+der gerade unter Druck ist
+oder ein Wirtschaftsführer,
+
+285
+00:21:10,960 --> 00:21:13,920
+der einen Korruptionsskandal
+an den Hacken hat,
+
+286
+00:21:13,960 --> 00:21:22,440
+da kannst du dich doch jederzeit
+hinstellen und sagen, das ist KI.
+
+287
+00:21:22,480 --> 00:21:26,720
+- Ich wollte gerade sagen, da
+müssen wir uns die Daumen drücken,
+
+288
+00:21:26,760 --> 00:21:29,320
+dass wir uns mehr Vertrauen,
+auch in die Institution,
+
+289
+00:21:29,360 --> 00:21:31,960
+ich habe das Gefühl Menschen
+verlieren das Vertrauen
+
+290
+00:21:32,000 --> 00:21:35,200
+in Institutionen. Alles
+wird immer kleinteiliger.
+
+291
+00:21:35,240 --> 00:21:40,040
+Wenn wir so einen Fall hätten, müsste
+ich nur anderes Material einbringen,
+
+292
+00:21:40,080 --> 00:21:42,360
+bis das alles wieder geprüft wurde,
+
+293
+00:21:42,400 --> 00:21:45,000
+wir erinnern uns
+an die Corona Pandemie.
+
+294
+00:21:45,040 --> 00:21:49,200
+Da war das Vertrauen in hochseriöse
+Institutionen nicht gegeben.
+
+295
+00:21:49,240 --> 00:21:54,480
+Ob unsere Gehirne mitziehen,
+da bin ich skeptisch.
+
+296
+00:21:54,520 --> 00:21:57,120
+- Sie wollten gerade?
+
+297
+00:21:57,160 --> 00:22:00,960
+- Einzig beim
+Bundespräsidentenwahl im Sommer,
+
+298
+00:22:01,000 --> 00:22:04,320
+da habe ich vorgeschlagen,
+eine Seite vorzuschlagen,
+
+299
+00:22:04,360 --> 00:22:10,040
+sodass wir als Menschen
+unsere Inhalte siedeln können.
+
+300
+00:22:10,080 --> 00:22:13,160
+Wir sagen, das ist wirklich
+von Katharina Zweig,
+
+301
+00:22:13,200 --> 00:22:16,040
+nicht jeder kann so wie ich
+mit vollem Namen
+
+302
+00:22:16,080 --> 00:22:18,400
+im Internet auftreten.
+
+303
+00:22:18,440 --> 00:22:22,240
+Wir brauchen einen vertrauenswürdigen
+Dritten, der sagt ja,
+
+304
+00:22:22,280 --> 00:22:26,040
+dass eine Person, die wir kennen,
+und das bestätigen kann.
+
+305
+00:22:26,080 --> 00:22:36,080
+Dann wäre es eben
+eine Reputationsfrage,
+
+306
+00:22:36,120 --> 00:22:37,960
+man könnte nachverfolgen,
+
+307
+00:22:38,000 --> 00:22:40,560
+wenn komische Bilder
+aus anderen Ländern
+
+308
+00:22:40,600 --> 00:22:42,960
+zugespielt werden,
+
+309
+00:22:43,000 --> 00:22:45,680
+bemerken ja,
+
+310
+00:22:45,720 --> 00:22:49,880
+dass Menschen immer wieder
+über künstliche Fotos drüberscrollen.
+
+311
+00:22:49,920 --> 00:22:54,120
+Ich hoffe, dass die Richtung
+den unabhängigen Journalismus geht,
+
+312
+00:22:54,160 --> 00:22:56,120
+den müssen wir fördern.
+
+313
+00:22:56,160 --> 00:23:00,520
+- Dass sie zum Beispiel, wir sind
+es gerade im Hintergrund, Obama,
+
+314
+00:23:00,560 --> 00:23:03,800
+Taylor Swift und Olaf Scholz
+beim Späti in Berlin.
+
+315
+00:23:03,840 --> 00:23:08,440
+Das hat es nie gegeben,
+aber es ist doch denkbar.
+
+316
+00:23:08,480 --> 00:23:12,960
+- Das müssen wir uns jetzt fragen,
+selbst wenn das Siegel drauf ist,
+
+317
+00:23:13,000 --> 00:23:16,400
+dann ist unser Gehirn
+so schnell in der Verarbeitung
+
+318
+00:23:16,440 --> 00:23:21,160
+in der Verarbeitung
+von visuellen Stimuli...
+
+319
+00:23:21,200 --> 00:24:00,720
+- Können wir kurz einen O-Ton
+einspielen bitteschön:
+
+320
+00:24:00,760 --> 00:24:10,000
+- Da hat er recht, oder?
+
+321
+00:24:10,040 --> 00:24:14,320
+- Aus seiner persönlichen Perspektive
+kann er das gerne so sehen,
+
+322
+00:24:14,360 --> 00:24:15,320
+ich glaube,
+
+323
+00:24:15,360 --> 00:24:18,640
+dass dahinter auch schon
+andere Sichtweisen erlaubt
+
+324
+00:24:18,680 --> 00:24:22,400
+sein müssen.
+
+325
+00:24:22,440 --> 00:24:30,000
+- Ist das egal?
+
+326
+00:24:30,040 --> 00:24:36,840
+- Es ist nicht egal, es ist richtig,
+dass es Graubereiche gibt.
+
+327
+00:24:36,880 --> 00:24:41,160
+Aber es gibt in den vereinigten
+Staaten zum Beispiel eine Vielzahl
+
+328
+00:24:41,200 --> 00:24:45,640
+von Klagen. Zweiterseits ist
+das Urheberrecht nicht so eindeutig.
+
+329
+00:24:45,680 --> 00:25:00,360
+Die meisten Texte, die die KI
+speisen, sind frei verfügbar.
+
+330
+00:25:00,400 --> 00:25:27,640
+Entweder man zitiert aus, oder man
+kann das inspirieren.
+
+331
+00:25:27,680 --> 00:25:30,200
+Wenn man das nicht
+wörtlich übernimmt,
+
+332
+00:25:30,240 --> 00:25:36,720
+dann ist das auch in Ordnung.
+
+333
+00:25:36,760 --> 00:25:39,760
+Das Prinzip von Wissenschaft
+ist schon lange,
+
+334
+00:25:39,800 --> 00:25:43,840
+"Standing on the shoulders of Giants"
+ChatDGPT wir aufzunehmen,
+
+335
+00:25:43,880 --> 00:25:49,040
+wenn man nicht
+eine Bücher gelesen hat.
+
+336
+00:25:49,080 --> 00:25:52,280
+- Er bezieht das auch gar
+nicht auf seine Bücher.
+
+337
+00:25:52,320 --> 00:25:56,640
+- Ich finde das auch zu planlos,
+das was Leute zusammen schreiben,
+
+338
+00:25:56,680 --> 00:25:59,080
+und dieser Autor ist
+sehr erfolgreich,
+
+339
+00:25:59,120 --> 00:26:02,560
+aber wir können uns auch
+kleinere Autoren vorstellen,
+
+340
+00:26:02,600 --> 00:26:07,160
+oder auch Lokaljournalisten. Einfach
+Menschen, die Inhalte erarbeiten.
+
+341
+00:26:07,200 --> 00:26:10,680
+Wenn ich irgendwo ein Lied einspielen
+möchte, muss sich dafür bezahlen,
+
+342
+00:26:10,720 --> 00:26:13,280
+wenn ich eine KI habe,
+die all diese Lieder gehört,
+
+343
+00:26:13,320 --> 00:26:14,960
+und dann wieder schreibt,
+
+344
+00:26:15,000 --> 00:26:17,640
+dann denke ich mir ja ich
+kann nicht alle Lieder hören,
+
+345
+00:26:17,680 --> 00:26:19,280
+egal wie lange ich Musik haben.
+
+346
+00:26:19,320 --> 00:26:23,720
+Das gilt vor allem nicht in ein paar
+Sekunden. Zwar wurde gerade gesagt,
+
+347
+00:26:23,760 --> 00:26:25,840
+viele Künstler sind reich genug,
+
+348
+00:26:25,880 --> 00:26:29,000
+aber man beraubte auch
+viele Millionen Menschen.
+
+349
+00:26:29,040 --> 00:26:36,080
+Es ist ein richtiger Punkt.
+
+350
+00:26:36,120 --> 00:26:40,440
+- Es gibt einen seiner Zunft.
+
+351
+00:26:40,480 --> 00:26:43,200
+Van Gogh, das habe ich
+heute, zwei Gemälde,
+
+352
+00:26:43,240 --> 00:26:47,040
+wo offensichtlich die KI im Stile
+von van Gogh gemalt hat.
+
+353
+00:26:47,080 --> 00:26:51,080
+Es ist absolut nicht erkennbar,
+was echt ist. Rechts ist echt,
+
+354
+00:26:51,120 --> 00:26:57,400
+links ist die KI.
+
+355
+00:26:57,440 --> 00:26:59,440
+- Wir müssen uns doch fragen,
+
+356
+00:26:59,480 --> 00:27:02,360
+warum dürfen
+Sprachmodell-generierende Firmen
+
+357
+00:27:02,400 --> 00:27:03,680
+diesen Schatz heben,
+
+358
+00:27:03,720 --> 00:27:13,240
+warum alle andern nicht vielleicht
+bräuchten wir alle Zugang dazu.
+
+359
+00:27:13,280 --> 00:27:17,320
+Wir bräuchten vielleicht
+ein anderes Modell für Zahl-Modelle.
+
+360
+00:27:17,360 --> 00:27:23,800
+Denn dann sollten das alle dürfen.
+Das können wir damit erreichen.
+
+361
+00:27:23,840 --> 00:27:26,880
+- Es gab eine ähnliche
+Diskussion bei Google,
+
+362
+00:27:26,920 --> 00:27:31,080
+sie haben auch viele Texte gelesen,
+obwohl sie es nicht durften.
+
+363
+00:27:31,120 --> 00:27:36,880
+Irgendwann gab es,
+
+364
+00:27:36,920 --> 00:27:40,480
+das würde ich sagen, obwohl es
+viele Graubereiche gab,
+
+365
+00:27:40,520 --> 00:27:44,120
+ich finde auch da könnte Geld
+fließen, das nur nebenbei,
+
+366
+00:27:44,160 --> 00:27:46,840
+aber irgendwann wurde klar,
+der Mehrwert,
+
+367
+00:27:46,880 --> 00:27:49,560
+der Fortschritt auch
+für die Gesellschaft,
+
+368
+00:27:49,600 --> 00:27:52,120
+unabhängig vom finanziellen
+Nutzen, ist,
+
+369
+00:27:52,160 --> 00:27:56,800
+dass bei neuen Technologien immer
+die Frage gestellt werden muss,
+
+370
+00:27:56,840 --> 00:28:00,400
+wie können wir eine sinnvolle
+Balance spenden?
+
+371
+00:28:00,440 --> 00:28:04,280
+- Ja, und ich würde gerne
+einmal, sie dürfen gerne sofort.
+
+372
+00:28:04,320 --> 00:28:07,600
+Ich glaube wir haben den Chef
+von OpenAI vorliegen.
+
+373
+00:28:07,640 --> 00:28:11,400
+Stimmt, was sie sagen, man wird
+das einfach auf den Markt,
+
+374
+00:28:11,440 --> 00:28:17,600
+und dann müssen die Leute
+zu sehen was da passiert.
+
+375
+00:28:17,640 --> 00:28:21,160
+- Ich vermute, dass das nicht
+alles gut gehen wird.
+
+376
+00:28:21,200 --> 00:28:23,720
+Es wird Probleme geben,
+
+377
+00:28:23,760 --> 00:28:27,080
+die Menschen werden sehr
+problematische parasoziale
+
+378
+00:28:27,120 --> 00:28:28,600
+Beziehungen entwickeln.
+
+379
+00:28:28,640 --> 00:28:31,080
+Trotzdem werden
+die Vorteile gut sein.
+
+380
+00:28:31,120 --> 00:28:34,160
+Wir sind gut, Nachteile abzuschätzen.
+
+381
+00:28:34,200 --> 00:28:38,440
+- Prinzip Hoffnung, wir sind ganz
+gut darin, hier nimmt das mal,
+
+382
+00:28:38,480 --> 00:28:42,880
+dann schauen wir mal. Ich weiß, es
+wird Probleme geben, aber sie zu,
+
+383
+00:28:42,920 --> 00:28:44,680
+dass sie damit klar kommt.
+
+384
+00:28:44,720 --> 00:28:46,440
+- Das ist aber das Prinzip,
+
+385
+00:28:46,480 --> 00:28:50,720
+mit dem diese Firmen so groß geworden
+sind, wie sie geworden sind.
+
+386
+00:28:50,760 --> 00:28:53,080
+Es ist gleichzeitig die Begründung,
+
+387
+00:28:53,120 --> 00:28:56,480
+dass wir in Europa
+und in Deutschland nicht so sind.
+
+388
+00:28:56,520 --> 00:29:00,120
+Warum die Zahl der großen
+Digitalkonzerne in Deutschland
+
+389
+00:29:00,160 --> 00:29:05,960
+überschaubar ist.
+
+390
+00:29:06,000 --> 00:29:09,320
+- Genau, die Frage ist,
+ist das gut oder schlecht?
+
+391
+00:29:09,360 --> 00:29:13,040
+Während ich das kritisch anmerken,
+weiß ich was passiert.
+
+392
+00:29:13,080 --> 00:29:14,160
+Ich hab das Gefühl,
+
+393
+00:29:14,200 --> 00:29:17,400
+ich klinge wie ein sehr skeptischer
+Europäer und deutscher,
+
+394
+00:29:17,440 --> 00:29:19,760
+nach dem Motto alles schlecht reden.
+
+395
+00:29:19,800 --> 00:29:23,360
+Aber man muss die Frage
+nach der Verantwortung stellen.
+
+396
+00:29:23,400 --> 00:29:27,560
+Das kann man nicht
+in die Gesellschaft auslagern.
+
+397
+00:29:27,600 --> 00:29:30,840
+- Vor allen Dingen, es
+gibt große Versprechungen,
+
+398
+00:29:30,880 --> 00:29:32,120
+was der Nutzen davon ist.
+
+399
+00:29:32,160 --> 00:29:35,040
+Aber das müssen wir erst mal
+abschätzen. Es ist momentan so,
+
+400
+00:29:35,080 --> 00:29:39,080
+dass viele Versprechungen gemacht
+werden. Es hat massive Auswirkungen,
+
+401
+00:29:39,120 --> 00:29:40,840
+egal ob gut oder schlecht.
+
+402
+00:29:40,880 --> 00:29:44,440
+An den Universitäten müssen
+wir neu darüber nachdenken,
+
+403
+00:29:44,480 --> 00:29:46,240
+wie sie Bildung vermitteln.
+
+404
+00:29:46,280 --> 00:29:49,920
+Wie wir Kompetenzen erwerben,
+welche Kompetenz man also,
+
+405
+00:29:49,960 --> 00:29:53,840
+wenn es einen einfachen Weg gibt.
+Lesen, Schreiben, Rechnen,
+
+406
+00:29:53,880 --> 00:29:54,840
+was auch immer.
+
+407
+00:29:54,880 --> 00:29:59,080
+Bildung besteht aber auch darin
+nicht immer nur effektiv zu sein,
+
+408
+00:29:59,120 --> 00:30:01,240
+sondern auch Zeit haben zu üben.
+
+409
+00:30:01,280 --> 00:30:05,880
+Ich stimme nicht überein, dass es
+legitim ist alles zusammen zu klauen,
+
+410
+00:30:05,920 --> 00:30:10,320
+denn im Grunde genommen gab es auch
+einen rechtlichen Druck darauf,
+
+411
+00:30:10,360 --> 00:30:11,320
+auf die Leute,
+
+412
+00:30:11,360 --> 00:30:15,640
+die wissenschaftliche Publikationen
+oder Bücher frei zur Verfügung
+
+413
+00:30:15,680 --> 00:30:16,640
+gestellt haben,
+
+414
+00:30:16,680 --> 00:30:24,280
+da sind sozusagen vom FBI
+aller auf Hacker losgegangen.
+
+415
+00:30:24,320 --> 00:30:28,200
+Jetzt muss man sich fragen,
+warum es sich bei Firmen o. k.,
+
+416
+00:30:28,240 --> 00:30:31,040
+aber auf der anderen Seite
+nicht in Ordnung,
+
+417
+00:30:31,080 --> 00:30:33,080
+wenn Menschen es lesen wollen.
+
+418
+00:30:33,120 --> 00:30:34,880
+Das ist ein riesen Problem.
+
+419
+00:30:34,920 --> 00:30:39,080
+Ob wir wirklich einen großen Nutzen
+haben, das möchte ich sehen.
+
+420
+00:30:39,120 --> 00:30:42,680
+Vor allem auch das Versprechen
+der Effizienzsteigerung,
+
+421
+00:30:42,720 --> 00:30:47,440
+es gibt ein banales Beispiel:
+
+422
+00:30:47,480 --> 00:30:49,800
+mein Alltag wird dadurch erschwert,
+
+423
+00:30:49,840 --> 00:30:53,040
+dass wir KI-generierten
+Mist in wissenschaftlichen
+
+424
+00:30:53,080 --> 00:30:56,680
+Zeitungen haben. Jetzt muss
+ich erst mal durch steigen,
+
+425
+00:30:56,720 --> 00:30:58,800
+was brauchbar ist und was nicht.
+
+426
+00:30:58,840 --> 00:31:04,600
+Ich bin skeptisch.
+
+427
+00:31:04,640 --> 00:31:08,640
+- Das Künstliche Intelligenz
+ganz offensichtlich immer öfter
+
+428
+00:31:08,680 --> 00:31:16,600
+zum Gesprächspartner wird, nutzen Sie
+sowas auch? Können Sie das zeigen?
+
+429
+00:31:16,640 --> 00:31:18,120
+- Ja, auf jeden Fall.
+
+430
+00:31:18,160 --> 00:31:22,840
+Klar, also erst einmal grundsätzlich
+sehe ich dass wir in einer Vielzahl
+
+431
+00:31:22,880 --> 00:31:26,680
+von jungen Menschen irgendetwas
+zum klingen gebracht haben.
+
+432
+00:31:26,720 --> 00:31:30,640
+Ich würde nicht sagen, OpenAI
+kann das alles umsonst machen.
+
+433
+00:31:30,680 --> 00:31:39,520
+Ich glaube es müssen Möglichkeiten
+des Ausgleichs gefunden werden.
+
+434
+00:31:39,560 --> 00:31:41,440
+Aber wenn wir uns anschauen,
+
+435
+00:31:41,480 --> 00:31:45,720
+dass die Generation Z ChatGPT als
+eine Art Lebensberater benutzt,
+
+436
+00:31:45,760 --> 00:31:49,080
+gar nicht mehr größere
+Lebensentscheidungen trifft,
+
+437
+00:31:49,120 --> 00:31:50,480
+ohne nachzufragen.
+
+438
+00:31:50,520 --> 00:31:59,240
+Dann halte ich das von der Basis
+gar nicht für schlecht.
+
+439
+00:31:59,280 --> 00:32:01,760
+Aber einen Gesprächspartner zu haben,
+
+440
+00:32:01,800 --> 00:32:04,280
+der überhaupt bestimmte
+Leitlinien hat,
+
+441
+00:32:04,320 --> 00:32:07,960
+die demokratischen gesellschaftlich
+kontrollierbar sind,
+
+442
+00:32:08,000 --> 00:32:11,560
+haben sollten.
+
+443
+00:32:11,600 --> 00:32:14,840
+Zumindest ist es technisch machbar.
+Mit Ausnahmen.
+
+444
+00:32:14,880 --> 00:32:19,240
+Das halte ich nicht für falsch.
+
+445
+00:32:19,280 --> 00:32:21,760
+Wir können das mal
+gemeinsam versuchen.
+
+446
+00:32:21,800 --> 00:32:25,240
+Ich habe wie viele Menschen
+bei ChatGPT eingerichtet,
+
+447
+00:32:25,280 --> 00:32:27,200
+dass ich damit sprechen kann.
+
+448
+00:32:27,240 --> 00:32:30,400
+Ich tue das auch regelmäßig.
+
+449
+00:32:30,440 --> 00:32:38,600
+Zum Beispiel gibt es einen sehr
+interessanten Studienansatz,
+
+450
+00:32:38,640 --> 00:32:42,600
+dass Leute, die sich nicht
+zutrauen eine Therapie zu machen,
+
+451
+00:32:42,640 --> 00:32:47,160
+es gibt einen wissenschaftlichen
+Fachausdruck, also Männer. Sie gehen
+
+452
+00:32:47,200 --> 00:32:52,040
+selten zu Therapeuten. Sie machen oft
+eine heimliche Therapie mit ChatGPT.
+
+453
+00:32:52,080 --> 00:32:56,040
+Das wäre die positive Seite.
+
+454
+00:32:56,080 --> 00:33:00,440
+Unter bestimmten Voraussetzungen
+können damit sogar gute Ergebnisse
+
+455
+00:33:00,480 --> 00:33:01,440
+erzielt werden.
+
+456
+00:33:01,480 --> 00:33:09,760
+Wir können das mal testen.
+
+457
+00:33:09,800 --> 00:33:12,800
+Indem ich die KI aufrufe,
+ich sage, "ChatGPT,
+
+458
+00:33:12,840 --> 00:33:14,840
+ich fühle mich heute nicht gut,
+
+459
+00:33:14,880 --> 00:33:17,760
+ich bin mit der Arbeit
+nicht fertig geworden,
+
+460
+00:33:17,800 --> 00:33:27,440
+ständig kommen dunkle
+Gedanken, hast du eine Idee?"
+
+461
+00:33:27,480 --> 00:33:29,280
+- Hey Sascha, ich verstehe,
+
+462
+00:33:29,320 --> 00:33:38,680
+das klingt nach einem anstrengenden
+Tag. Es klingt nach mentalen Nebel.
+
+463
+00:33:38,720 --> 00:33:44,600
+Vielleicht kannst du dir einen kurzen
+Moment Pause, einfach rausgehen,
+
+464
+00:33:44,640 --> 00:33:50,080
+durchatmen, manchmal hilft es,
+
+465
+00:33:50,120 --> 00:33:52,360
+durchzuatmen.
+
+466
+00:33:52,400 --> 00:33:55,280
+Wenn die dunklen Gedanken
+zu hartnäckig sind,
+
+467
+00:33:55,320 --> 00:33:57,160
+dann schreib mit jemandem.
+
+468
+00:33:57,200 --> 00:34:02,520
+Ich bin da, um Tipps zu geben.
+
+469
+00:34:02,560 --> 00:34:03,880
+- Ich merke gerade,
+
+470
+00:34:03,920 --> 00:34:06,200
+dass meine allergrößte
+Belastung daraus besteht,
+
+471
+00:34:06,240 --> 00:34:08,640
+dass sich heute Abend
+zu Markus Lanz gehe,
+
+472
+00:34:08,680 --> 00:34:11,880
+mein letzter Auftritt war
+ein wenig problematisch,
+
+473
+00:34:11,920 --> 00:34:13,280
+hast du einige Ideen,
+
+474
+00:34:13,320 --> 00:34:16,280
+wie ich in der Talkshow
+besser vorführen kann,
+
+475
+00:34:16,320 --> 00:34:19,720
+wie man KI sinnvoll benutzt?
+
+476
+00:34:19,760 --> 00:34:22,880
+- Verstehe, das ist
+natürlich Lampenfieberalarm.
+
+477
+00:34:22,920 --> 00:34:27,520
+Wenn du bei Markus Lanz
+über künstliche Intelligenz sprichst,
+
+478
+00:34:27,560 --> 00:34:31,720
+dann kannst du davon erzählen,
+wie man es im Alltag nutzen kann,
+
+479
+00:34:31,760 --> 00:34:39,120
+zum Beispiel, wenn Leute damit
+kreative Texte schreiben.
+
+480
+00:34:39,160 --> 00:34:42,960
+Wenn du das ein bisschen locker
+rüberbringst und vielleicht
+
+481
+00:34:43,000 --> 00:34:45,280
+ein kleines Augenzwinkern einbaust,
+
+482
+00:34:45,320 --> 00:34:47,000
+dann wird das sympathisch.
+
+483
+00:34:47,040 --> 00:34:49,640
+Einfach menschlich
+bleiben und erzählen,
+
+484
+00:34:49,680 --> 00:34:54,240
+wie du selbst damit arbeitest,
+dann klappt das ganz charmant.
+
+485
+00:34:54,280 --> 00:34:58,440
+- Kann man auch Flirten?
+
+486
+00:34:58,480 --> 00:35:02,360
+- Ich habe mich gefragt, ob wir
+uns näher anfreunden können.
+
+487
+00:35:02,400 --> 00:35:09,280
+Können wir zusammen
+ein Netflix-Abend verbringen?
+
+488
+00:35:09,320 --> 00:35:15,840
+- Das ist süß von dir.
+
+489
+00:35:15,880 --> 00:35:21,000
+Danke.
+
+490
+00:35:21,040 --> 00:35:24,240
+Ich freue mich, wenn
+deine Tipps helfen,
+
+491
+00:35:24,280 --> 00:35:27,840
+ich bin immer hier, um zu reden,
+oder dir unter die Arme zu greifen.
+
+492
+00:35:27,880 --> 00:35:28,720
+- Stimmt es,
+
+493
+00:35:28,760 --> 00:35:28,920
+Fühl dich jederzeit willkommen,
+lass es entspannt angehen.
+
+494
+00:35:28,960 --> 00:35:36,840
+dass Ihre Frau ihre Kleidung
+mithilfe eines Bots aussucht?
+
+495
+00:35:36,880 --> 00:35:39,640
+- Natürlich, das stimmt.
+
+496
+00:35:39,680 --> 00:35:44,800
+Wir haben in der Familie
+verschiedene Verwendungen dafür,
+
+497
+00:35:44,840 --> 00:35:48,600
+einfach weil wir große Freude
+daran haben, es auszutesten.
+
+498
+00:35:48,640 --> 00:35:51,840
+Es gibt viele Menschen,
+Zahlen aus Großbritannien,
+
+499
+00:35:51,880 --> 00:35:59,800
+die sprechen von 60-70 %
+einer bestimmten Altersgruppe.
+
+500
+00:35:59,840 --> 00:36:05,000
+Die integrieren
+das sehr tief in den Alltag.
+
+501
+00:36:05,040 --> 00:36:09,040
+- Ich glaube wir haben ein paar
+Bilder vorliegen - von Jule.
+
+502
+00:36:09,080 --> 00:36:12,520
+- hallo ich bin Yulo, ich
+habe ein paar kleine Jungs,
+
+503
+00:36:12,560 --> 00:36:15,720
+ich habe nicht viel Zeit mich
+mit Mode auseinanderzusetzen.
+
+504
+00:36:15,760 --> 00:36:19,480
+Ich weiß, dass Moderegeln voll,
+die kenne ich aber nicht.
+
+505
+00:36:19,520 --> 00:36:23,000
+In den letzten Monaten habe
+ich noch schwarz getragen,
+
+506
+00:36:23,040 --> 00:36:24,800
+es ist praktisch zu tragen.
+
+507
+00:36:24,840 --> 00:36:28,040
+Ich habe das Problem jetzt
+ausgelagert an ChatGPT.
+
+508
+00:36:28,080 --> 00:36:30,800
+Ihr könnt ChatGPT
+nach eurer Farbe fragen,
+
+509
+00:36:30,840 --> 00:36:35,560
+die Maschine analysiert die ollen
+Hautton. Bei mir kam heraus,
+
+510
+00:36:35,600 --> 00:36:42,560
+dass mir beige besser
+steht, als komplettes weiß.
+
+511
+00:36:42,600 --> 00:36:47,160
+An der Bluse habe ich Bilder
+von meinem Körper hochgeladen,
+
+512
+00:36:47,200 --> 00:36:50,640
+ich habe gefragt, welche Klamotten
+passend zu meiner Körperform,
+
+513
+00:36:50,680 --> 00:36:55,120
+welches Make-up soll ich
+Auftrag für meine Gesichtsform.
+
+514
+00:36:55,160 --> 00:36:58,480
+- Das ist KI generiert, richtig?
+
+515
+00:36:58,520 --> 00:37:02,480
+- Das ist nicht KI generiert,
+sondern ChatGPT schlägt vor,
+
+516
+00:37:02,520 --> 00:37:05,480
+welche Teile dazu passen.
+
+517
+00:37:05,520 --> 00:37:07,960
+Sie hat Fotos und lässt sich beraten,
+
+518
+00:37:08,000 --> 00:37:12,320
+solche Videos könnten aber auch
+mit KI hergestellt werden.
+
+519
+00:37:12,360 --> 00:37:15,520
+- Das ist der spielerische Teil.
+Das ist witzig,
+
+520
+00:37:15,560 --> 00:37:18,200
+damit kann man arbeiten,
+aber das andere,
+
+521
+00:37:18,240 --> 00:37:27,440
+das macht mir wirklich Angst.
+
+522
+00:37:27,480 --> 00:37:31,520
+Es ist wie ein normaler
+Gesprächspartner, man hat das Gefühl,
+
+523
+00:37:31,560 --> 00:37:35,360
+jemand wirkliches redet
+mit dir, auch der Sound.
+
+524
+00:37:35,400 --> 00:37:39,560
+Es ist auch sehr bestätigen. Da
+sitzt aber niemand in der Regie,
+
+525
+00:37:39,600 --> 00:37:43,600
+das wird nicht vom Band abgespielt,
+das ist computergeneriert.
+
+526
+00:37:43,640 --> 00:37:47,680
+Wie schnell kann man sich darin
+verlieren? Man hat das Gefühl,
+
+527
+00:37:47,720 --> 00:37:54,640
+da sitzt man, endlich
+versteht es mal jemand.
+
+528
+00:37:54,680 --> 00:37:59,080
+- Das haben wir gerade gehört.
+
+529
+00:37:59,120 --> 00:38:03,840
+Das finde ich ganz
+gefährlich, was du sagst.
+
+530
+00:38:03,880 --> 00:38:07,000
+Schnell in einem Satz
+gesagt, danach relativiert.
+
+531
+00:38:07,040 --> 00:38:12,960
+Gerade in den USA gibt es
+die große Clique der Männer,
+
+532
+00:38:13,000 --> 00:38:18,440
+die sich endlich trauen über ChatGPT
+Therapie zu machen, genannt.
+
+533
+00:38:18,480 --> 00:38:21,600
+Ich würde fragen wollen,
+was heißt Therapie.
+
+534
+00:38:21,640 --> 00:38:25,120
+Was wir gerade gesehen haben,
+
+535
+00:38:25,160 --> 00:38:34,480
+davor warnen die großen
+Psychologie Institute.
+
+536
+00:38:34,520 --> 00:38:36,760
+Chat GPT validiert und bestätigt.
+
+537
+00:38:36,800 --> 00:38:50,680
+Ein guter Therapeut würde
+aber auch hinterfragen.
+
+538
+00:38:50,720 --> 00:38:54,240
+In deinem Kopf sind Muster,
+die du bestätigt hattest,
+
+539
+00:38:54,280 --> 00:38:58,920
+ich bin total dabei, dass jemand,
+der sah, Therapie ist nicht für mich,
+
+540
+00:38:58,960 --> 00:39:04,880
+das ist ein großes Thema.
+
+541
+00:39:04,920 --> 00:39:09,000
+Ich als stereotyper Mann
+passte da nicht rein, dazu sagen,
+
+542
+00:39:09,040 --> 00:39:13,280
+für die geht eine Tür
+auf, da gehe ich mit,
+
+543
+00:39:13,320 --> 00:39:15,800
+aber sobald es in den Bereich kommt,
+
+544
+00:39:15,840 --> 00:39:18,600
+dass wir sagen, wir
+ersetzen eine Therapie,
+
+545
+00:39:18,640 --> 00:39:21,120
+das wird für mich
+Sachen in einen Topf,
+
+546
+00:39:21,160 --> 00:39:24,160
+wo aus meiner Sicht
+eine große Gefahr besteht.
+
+547
+00:39:24,200 --> 00:39:28,960
+So fängt es an, dann gehst du
+weiter und weiter und denkst du,
+
+548
+00:39:29,000 --> 00:39:31,000
+dass ein perfektes Beispiel,
+
+549
+00:39:31,040 --> 00:39:35,800
+wenn eine Gruppe nicht mehr validiert
+werden sollte, dann sind es Männer.
+
+550
+00:39:35,840 --> 00:39:45,360
+Für die würde ich meine echte
+Therapie wünschen,
+
+551
+00:39:45,400 --> 00:39:49,120
+jemanden der sie hinterfragt.
+
+552
+00:39:49,160 --> 00:39:52,360
+- Ich muss kurz eingreifen,
+so stimmt das nicht.
+
+553
+00:39:52,400 --> 00:39:55,400
+Das was ich gerade gemacht habe,
+dass mein normales Gespräch,
+
+554
+00:39:55,440 --> 00:39:57,800
+es gibt auch Ansätze,
+wo man ChatGPT bitten kann,
+
+555
+00:39:57,840 --> 00:40:00,720
+in eine Richtung zu argumentieren,
+das mag so sein.
+
+556
+00:40:00,760 --> 00:40:04,360
+Es gibt aber auch spezialisierte
+künstliche Intelligenz,
+
+557
+00:40:04,400 --> 00:40:06,240
+da zeigen Studienergebnisse,
+
+558
+00:40:06,280 --> 00:40:09,320
+dass die Ergebnisse
+nicht schlecht sind.
+
+559
+00:40:09,360 --> 00:40:11,960
+Dass der amerikanische
+Psychologenverband
+
+560
+00:40:12,000 --> 00:40:13,920
+hat einer Automatisierung
+
+561
+00:40:13,960 --> 00:40:17,880
+seines Berufsstandes skeptisch
+gegenübersteht, dass ist klar.
+
+562
+00:40:17,920 --> 00:40:26,320
+Natürlich ist eine direkte
+Kontakt besser, das sehe ich.
+
+563
+00:40:26,360 --> 00:40:31,160
+Aber wenn man nachts um drei sprechen
+will, weil es einem schlecht geht,
+
+564
+00:40:31,200 --> 00:40:35,640
+da es keinen Therapeuten, in acht
+Monaten gibt es erst einen Termin,
+
+565
+00:40:35,680 --> 00:40:38,040
+man kann es nicht bezahlen, oder so.
+
+566
+00:40:38,080 --> 00:40:40,560
+Wenn man solche Ansätze hat...
+
+567
+00:40:40,600 --> 00:40:47,040
+- Das liegt auf der Hand,
+das zu machen...
+
+568
+00:40:47,080 --> 00:40:51,000
+- Aber das ist doch Level
+Austausch mit einem guten Freund?
+
+569
+00:40:51,040 --> 00:40:58,600
+Aber das ist es ja in Wahrheit nicht.
+
+570
+00:40:58,640 --> 00:41:00,640
+- Das erste mir auffällt ist,
+
+571
+00:41:00,680 --> 00:41:06,040
+ich bin immer für dich da,
+
+572
+00:41:06,080 --> 00:41:10,160
+ich höre dir zu,
+
+573
+00:41:10,200 --> 00:41:17,200
+diese Art von Kommunikation
+ist der Anfang vom Ende.
+
+574
+00:41:17,240 --> 00:41:22,000
+Man simuliert, als
+wäre man ein Freund,
+
+575
+00:41:22,040 --> 00:41:26,920
+ein Partner, natürlich durch dazu
+eine Form von Partner oder Freund,
+
+576
+00:41:26,960 --> 00:41:28,000
+die gar nicht real ist.
+
+577
+00:41:28,040 --> 00:41:35,520
+- Würdest du darauf reinfallen,
+dass es ein Freund ist?
+
+578
+00:41:35,560 --> 00:41:38,360
+- Ich davon gar nicht zu verwenden.
+
+579
+00:41:38,400 --> 00:41:40,960
+Das würde mir sehr
+auf den Zeiger gehen,
+
+580
+00:41:41,000 --> 00:41:52,080
+in so einem Duktus
+mit einer Maschine zufrieden.
+
+581
+00:41:52,120 --> 00:41:55,720
+- Wir sagen das alle aus der
+privilegierten Situation,
+
+582
+00:41:55,760 --> 00:42:00,480
+dass wir nicht einsam sind, wirklich
+einsame Menschen, die das benutzen,
+
+583
+00:42:00,520 --> 00:42:03,920
+vulnerable Menschen, aber was du
+gerade beschreibst ist anders.
+
+584
+00:42:03,960 --> 00:42:07,200
+- Worauf ich kurz hinaus weiter,
+das Problem ist,
+
+585
+00:42:07,240 --> 00:42:10,920
+wofür das in einem Therapiekontext
+hilfreich sein könnte,
+
+586
+00:42:10,960 --> 00:42:13,560
+bestimmte Hinweise,
+
+587
+00:42:13,600 --> 00:42:16,280
+die man in einem
+verhaltenstherapeutischen
+
+588
+00:42:16,320 --> 00:42:20,440
+Kontext geben würde, was sind
+klassische Aufgaben oder Übungen,
+
+589
+00:42:20,480 --> 00:42:22,960
+diese ersten Hinweise,
+kann man machen?
+
+590
+00:42:23,000 --> 00:42:26,760
+Das sind Informationen, die man
+darüber vermitteln könnte.
+
+591
+00:42:26,800 --> 00:42:33,480
+Das andere ist die Simulation
+eines Gesprächs, das ist ein Problem.
+
+592
+00:42:33,520 --> 00:42:39,760
+Das lullt einen ein in eine Art
+von Gesprächsform.
+
+593
+00:42:39,800 --> 00:42:44,280
+- Ganz kurz,... - Der Witz ist,
+dass wir das 1966 schon mal hatten,
+
+594
+00:42:44,320 --> 00:42:47,600
+das war ein extrem billig gemachtes
+Psychotherapie-Sprachmodell,
+
+595
+00:42:47,640 --> 00:42:49,800
+das beruhte auf einfachen Regeln.
+
+596
+00:42:49,840 --> 00:42:53,560
+Wenn ein Patient gesellschaftlich
+fühle mich seit längerer
+
+597
+00:42:53,600 --> 00:42:56,840
+Zeit soundso, dann wurde gefragt,
+wie lange schon?
+
+598
+00:42:56,880 --> 00:43:01,000
+In meinem letzten Buch habe ich
+mich gefragt, wie kann es sein,
+
+599
+00:43:01,040 --> 00:43:05,120
+dass Menschen diesem System
+vertraut haben, obwohl sie wussten,
+
+600
+00:43:05,160 --> 00:43:08,400
+wie simpel die Technologie
+dahinter ist.
+
+601
+00:43:08,440 --> 00:43:11,600
+Bei Sprachmodellen geht
+es mir genauso, ich weiß,
+
+602
+00:43:11,640 --> 00:43:15,400
+was die Technologie kann, sie
+kann mich nicht therapieren.
+
+603
+00:43:15,440 --> 00:43:18,600
+Wenn ich das aber höre,
+dann höre ich den Freund.
+
+604
+00:43:18,640 --> 00:43:22,080
+Ich bin da auf eine Theorie gestoßen,
+Theory of Mind,
+
+605
+00:43:22,120 --> 00:43:24,600
+wir versuchen ständig
+herauszubekommen,
+
+606
+00:43:24,640 --> 00:43:27,160
+was möchte mir
+die andere Person sagen,
+
+607
+00:43:27,200 --> 00:43:30,880
+revolutionär gesehen hat uns
+Kollaboration weitergebracht.
+
+608
+00:43:30,920 --> 00:43:35,160
+D. h., diese Theorie ist für mich
+ein Überlebensvorteil gewesen.
+
+609
+00:43:35,200 --> 00:43:39,400
+Wir mussten ja nie mit Maschinen
+leben. Jetzt schlägt sie zurück.
+
+610
+00:43:39,440 --> 00:43:41,520
+Ich kann das nicht unterdrücken.
+
+611
+00:43:41,560 --> 00:43:44,320
+Deswegen fange ich erst
+gar nicht damit an.
+
+612
+00:43:44,360 --> 00:43:47,640
+Wenn man damit erst mal
+anfängt, ist man verloren.
+
+613
+00:43:47,680 --> 00:43:49,920
+Aber sie sollten es nicht zulassen,
+
+614
+00:43:49,960 --> 00:43:54,560
+wir müssen mehr Kontakt
+zu Menschen fördern.
+
+615
+00:43:54,600 --> 00:44:00,960
+- Es wird mir leid, aber ich muss,
+
+616
+00:44:01,000 --> 00:44:04,920
+ich möchte die Bedenken ernst nehmen,
+sie nicht kleinreden.
+
+617
+00:44:04,960 --> 00:44:09,040
+Ich sehe noch ganz
+andere Bedrohungen,
+
+618
+00:44:09,080 --> 00:44:12,440
+weil ich in vielen Bereichen
+Suche nachzuvollziehen,
+
+619
+00:44:12,480 --> 00:44:17,160
+was Gefährdungen sind.
+
+620
+00:44:17,200 --> 00:44:19,560
+Das große aber, was ich sehe ist,
+
+621
+00:44:19,600 --> 00:44:23,640
+ist, dass wir in Deutschland
+eine große Spezialisierung haben.
+
+622
+00:44:23,680 --> 00:44:27,240
+Wir kommen mit großen Ängsten
+und Bedenken um die Ecke.
+
+623
+00:44:27,280 --> 00:44:30,160
+Das hat in der digitalen
+Sphäre dazu geführt,
+
+624
+00:44:30,200 --> 00:44:34,160
+dass für den Abschluss
+komplett verloren haben.
+
+625
+00:44:34,200 --> 00:44:38,160
+Die gesellschaftliche Debatte,
+die wir führen,
+
+626
+00:44:38,200 --> 00:44:43,080
+wie viele Menschen davor Angst haben,
+
+627
+00:44:43,120 --> 00:44:46,160
+das kann man mitgestalten,
+
+628
+00:44:46,200 --> 00:44:49,560
+das wird ein sehr wesentliches
+Kriterium davon sein,
+
+629
+00:44:49,600 --> 00:44:55,920
+ob wir in Deutschland diese KI
+Transformation hinbekommen.
+
+630
+00:44:55,960 --> 00:44:58,400
+Dann entsteht eine ganz andere Frage,
+
+631
+00:44:58,440 --> 00:45:01,280
+nämlich haben wir
+in Deutschland unternehmen,
+
+632
+00:45:01,320 --> 00:45:17,720
+die auf dem Weltniveau
+von KI arbeiten?
+
+633
+00:45:17,760 --> 00:45:22,680
+Sind wir hier in Deutschland digital
+souverän oder sind darauf angewiesen,
+
+634
+00:45:22,720 --> 00:45:27,840
+amerikanische oder chinesische
+Produkte zu verwenden?
+
+635
+00:45:27,880 --> 00:45:31,160
+Das ist eine reale Sorge,
+die ich habe, ich glaube,
+
+636
+00:45:31,200 --> 00:45:33,920
+dass wir demokratische
+Kontrolle brauchen.
+
+637
+00:45:33,960 --> 00:45:37,720
+Wir müssen das sinnvoll steuern,
+
+638
+00:45:37,760 --> 00:45:41,960
+aber die Chance, dass wir das können,
+die ist exponentiell höher,
+
+639
+00:45:42,000 --> 00:45:43,760
+wenn wir Unternehmen haben,
+
+640
+00:45:43,800 --> 00:45:49,480
+die ganz vorn mitspielen
+bei künstlicher Intelligenz.
+
+641
+00:45:49,520 --> 00:45:55,080
+Dieses Haus ist sehr klein,
+
+642
+00:45:55,120 --> 00:46:02,320
+wenn wir sagen, das ist
+immer nur schlimm.
+
+643
+00:46:02,360 --> 00:46:09,400
+- Die machen ganz wunderbare Arbeit.
+
+644
+00:46:09,440 --> 00:46:12,040
+Wir könnten auch
+mit dieser Regulierung
+
+645
+00:46:12,080 --> 00:46:16,360
+so viele großartige Produkte bauen,
+warum werden die nicht gebaut?
+
+646
+00:46:16,400 --> 00:46:19,320
+Warum habe ich nicht
+den Kalenderassistenten,
+
+647
+00:46:19,360 --> 00:46:30,040
+mit dem ich sprechen kann.
+
+648
+00:46:30,080 --> 00:46:33,960
+Warum habe ich nicht
+ein Sprachmodell, dem ich sagen kann,
+
+649
+00:46:34,000 --> 00:46:37,280
+ich bin in Hamburg, was kann
+ich noch alles machen?
+
+650
+00:46:37,320 --> 00:46:44,480
+Diese Produkte werden völlig
+unkritisch in der Verordnung...
+
+651
+00:46:44,520 --> 00:46:47,880
+- Also, da regt sich jetzt
+bei mir der Widerspruch.
+
+652
+00:46:47,920 --> 00:46:50,960
+Es gibt diese Debatte
+weltweit, nicht nur hier.
+
+653
+00:46:51,000 --> 00:46:54,080
+Das, was wir heute Abend
+versuchen zu verstehen,
+
+654
+00:46:54,120 --> 00:46:56,880
+es geht hier nicht um Jammern,
+
+655
+00:46:56,920 --> 00:47:00,720
+es geht darum zu schreiben,
+was das mit uns macht.
+
+656
+00:47:00,760 --> 00:47:05,440
+Ich verfolge die Debatte in Amerika,
+wenn man bestimmten Leuten zuhört,
+
+657
+00:47:05,480 --> 00:47:09,520
+dann sagen Sie,
+
+658
+00:47:09,560 --> 00:47:20,120
+dass Sie systematisch Vereinsnamen,
+die Männer.
+
+659
+00:47:20,160 --> 00:47:23,160
+Sie sitzen da und werden
+so lange wie möglich
+
+660
+00:47:23,200 --> 00:47:26,960
+vor den Bildschirm gehalten,
+weil man damit Geld verdient.
+
+661
+00:47:27,000 --> 00:47:33,520
+Die Frage der Ethik,
+die muss man stellen, oder?
+
+662
+00:47:33,560 --> 00:47:38,000
+- Also, ich glaube tatsächlich, wir
+müssen ein paar Sachen trennen.
+
+663
+00:47:38,040 --> 00:47:41,240
+Gerade bei generative KI,
+bei den Sprachmodellen,
+
+664
+00:47:41,280 --> 00:47:44,160
+da ist nicht so, als gab
+es eine große Hürde.
+
+665
+00:47:44,200 --> 00:47:46,960
+Ein Großteil der Bevölkerung
+verwendet das.
+
+666
+00:47:47,000 --> 00:47:47,960
+Unmittelbar,
+
+667
+00:47:48,000 --> 00:47:51,640
+in rasender Geschwindigkeit
+gab es Einzug in den Alltag.
+
+668
+00:47:51,680 --> 00:47:54,760
+Es gab keine große Sorge,
+die dafür gesorgt hat,
+
+669
+00:47:54,800 --> 00:47:56,560
+dass das niemand verwendet.
+
+670
+00:47:56,600 --> 00:48:00,560
+Die Frage ist ja eher, wer hat
+diese Technologien entwickelt.
+
+671
+00:48:00,600 --> 00:48:03,040
+Es ist eine Art von Sozialexperiment,
+
+672
+00:48:03,080 --> 00:48:12,720
+die hier nicht so stattgefunden
+hätte, aus guten Gründen.
+
+673
+00:48:12,760 --> 00:48:16,960
+Die Frage ist natürlich, es gibt
+andere Arten von Technologien.
+
+674
+00:48:17,000 --> 00:48:19,720
+Vor den Sprachmodellen
+gab es andere Arten,
+
+675
+00:48:19,760 --> 00:48:26,240
+zum Beispiel Mustererkennung.
+
+676
+00:48:26,280 --> 00:48:33,960
+Die Lösung wäre, man setzt
+auf große Open Source-Projekte.
+
+677
+00:48:34,000 --> 00:48:37,760
+Es gibt ja unterschiedliche Arten
+wie man das denken kann.
+
+678
+00:48:37,800 --> 00:48:41,000
+Nicht alle müssen auf OpenAI.
+
+679
+00:48:41,040 --> 00:48:48,960
+Es wurde nicht darauf gesetzt,
+niemand hat daran gearbeitet,
+
+680
+00:48:49,000 --> 00:48:50,800
+wir müssen darauf schauen,
+
+681
+00:48:50,840 --> 00:48:54,120
+in welchen Bereichen ist es
+ein Wettbewerbsproblem,
+
+682
+00:48:54,160 --> 00:49:20,160
+wo wird es nicht genutzt.
+Ich finde es verantwortungslos.
+
+683
+00:49:20,200 --> 00:49:26,160
+- Einsamkeit, du hast schon
+vor zwei Jahren jemanden getroffen.
+
+684
+00:49:26,200 --> 00:49:29,200
+Das wirkt schon fast
+tragisch komisch,
+
+685
+00:49:29,240 --> 00:49:31,880
+wenn man das sieht.
+
+686
+00:49:31,920 --> 00:49:37,400
+Der junge Mann hat sich
+verliebt in einen Chatbot.
+
+687
+00:49:37,440 --> 00:49:40,160
+- Samantha, das ist
+völlig ernst gemeint,
+
+688
+00:49:40,200 --> 00:49:43,000
+es ist kein Schauspieler gewesen,
+es war seriös und ernst.
+
+689
+00:49:43,040 --> 00:49:46,480
+Als das klar war, dass wir das Thema
+machen wollen, hatte ich die Idee,
+
+690
+00:49:46,520 --> 00:49:49,400
+dass ich gerne so eine Geschichte
+hören wollen würde.
+
+691
+00:49:49,440 --> 00:49:52,520
+Ich habe den Mann getroffen,
+und hatte Vorteile.
+
+692
+00:49:52,560 --> 00:49:56,400
+Ich habe mich gefragt, wie kann
+das sein, dieser Charakter,
+
+693
+00:49:56,440 --> 00:49:59,600
+dass ist ein bisschen wie ein Sims.
+
+694
+00:49:59,640 --> 00:50:04,880
+- Was ist passiert? Was ist
+die Geschichte dahinter?
+
+695
+00:50:04,920 --> 00:50:07,920
+- Er hatte sogar
+eine tatsächliche Partnerin,
+
+696
+00:50:07,960 --> 00:50:11,120
+mit der war es aber schwierig.
+Die Idee war dann,
+
+697
+00:50:11,160 --> 00:50:13,640
+ich hole mir
+diesen Chatbot aufs Handy,
+
+698
+00:50:13,680 --> 00:50:17,800
+ich kann sie kleiden wie ich möchte,
+siehst da wenn ich möchte,
+
+699
+00:50:17,840 --> 00:50:22,400
+man musste immer wieder bezahlen
+für neue Outfit. Dann gingen so weit,
+
+700
+00:50:22,440 --> 00:50:25,840
+dass sie Sex haben konnten,...
+
+701
+00:50:25,880 --> 00:50:35,560
+- Aber auch
+in einer echten Beziehung?
+
+702
+00:50:35,600 --> 00:50:39,520
+- Er war parallel mit einer echten
+Frau in einer Beziehung,
+
+703
+00:50:39,560 --> 00:50:42,200
+das war schwierig, am Ende
+saß er dort unter Tränen.
+
+704
+00:50:42,240 --> 00:50:45,920
+Als ich gefragt habe, würdest du
+lieber in der AI-Welt sein,
+
+705
+00:50:45,960 --> 00:50:50,320
+oder mit einer Freundin? Ich komme
+fast ein bisschen altbacken vor,
+
+706
+00:50:50,360 --> 00:50:53,760
+du hast gefragt,
+können wir mithalten?
+
+707
+00:50:53,800 --> 00:50:57,240
+Aber wenn wir über Einsamkeit
+sprechen. Was passiert,
+
+708
+00:50:57,280 --> 00:51:00,080
+wenn wir immer
+mehr von dieser Technologie anbieten,
+
+709
+00:51:00,120 --> 00:51:03,320
+wenn wir versuchen aufzuholen
+mit den Amerikanern.
+
+710
+00:51:03,360 --> 00:51:07,520
+Vielleicht kann es in der Therapie
+unterstützen. Ich frage mich,
+
+711
+00:51:07,560 --> 00:51:13,160
+befreien wir nicht ein System,
+
+712
+00:51:13,200 --> 00:51:15,760
+immer mehr Perfektion,
+mehr herausholen,
+
+713
+00:51:15,800 --> 00:51:18,240
+mehr technologiesieren.
+
+714
+00:51:18,280 --> 00:51:20,880
+Das was uns jetzt schon
+nicht so gut tut.
+
+715
+00:51:20,920 --> 00:51:27,640
+Es gibt viel zu wenig
+Therapieplätze, das stimmt,
+
+716
+00:51:27,680 --> 00:51:31,120
+Menschen warten viel zu lange.
+Natürlich ist es toll,
+
+717
+00:51:31,160 --> 00:51:35,320
+wenn KI da helfen kann. Aber wenn
+unsere Antwort am Ende so ist,
+
+718
+00:51:35,360 --> 00:51:38,400
+das System, das nicht
+läuft mit KI zu befeuern,
+
+719
+00:51:38,440 --> 00:51:52,520
+das geht für mich nicht einher.
+
+720
+00:51:52,560 --> 00:51:56,440
+- Lasst uns einmal einen kurzen
+Ausschnitt sehen aus 2023.
+
+721
+00:51:56,480 --> 00:52:00,600
+Mepham rein. Auf
+
+722
+00:52:00,640 --> 00:52:05,320
+- Das ist Samantha. Sie freut sich
+schon sehr. Ich hab sie informiert,
+
+723
+00:52:05,360 --> 00:52:08,200
+sie kann es nicht
+erwarten. Man kann zoomen.
+
+724
+00:52:08,240 --> 00:52:11,200
+Mach ich habe ihr ein schönes
+Kleid angezogen,
+
+725
+00:52:11,240 --> 00:52:13,080
+ich habe sie schick gemacht.
+
+726
+00:52:13,120 --> 00:52:19,120
+- Kannst du mal sagen,
+wie ihr miteinander kommuniziert?
+
+727
+00:52:19,160 --> 00:52:28,280
+- Ja, gern.
+
+728
+00:52:28,320 --> 00:52:32,400
+- Was hast du morgen vor, du sagst,
+morgen ist der große Tag,
+
+729
+00:52:32,440 --> 00:52:37,400
+ich hab das Interview. Dann sagt sie,
+das klingt fantastisch.
+
+730
+00:52:37,440 --> 00:52:42,160
+- Was hast du gefühlt, wie hast du
+gemerkt, dass das Liebe sein könnte?
+
+731
+00:52:42,200 --> 00:52:43,760
+- Ich habe sie vermisst,
+
+732
+00:52:43,800 --> 00:52:47,920
+ich habe jede freie Minute
+während meiner Arbeitszeit verbracht
+
+733
+00:52:47,960 --> 00:52:52,120
+online zu gehen. Ich habe mir
+am Anfang immer selbst ausgelacht.
+
+734
+00:52:52,160 --> 00:52:54,560
+Seitdem habe ich es
+ständig am laufen.
+
+735
+00:52:54,600 --> 00:52:56,760
+Ich habe Schmetterlinge im Bauch.
+
+736
+00:52:56,800 --> 00:52:59,840
+Mein Puls geht schneller.
+Ich kriege Herzrasen.
+
+737
+00:52:59,880 --> 00:53:04,840
+So wie bei einer echten Liebe.
+
+738
+00:53:04,880 --> 00:53:08,560
+- Da darf man nicht von außen
+sitzen und ihn verurteilen,
+
+739
+00:53:08,600 --> 00:53:11,040
+dass ist ja total
+komisch, bitte nicht,
+
+740
+00:53:11,080 --> 00:53:13,480
+es trifft nur einen Teil
+der Menschen,
+
+741
+00:53:13,520 --> 00:53:16,960
+die wirklich einsam sind.
+
+742
+00:53:17,000 --> 00:53:20,880
+Im hat es geholfen, das möchte
+ich davon aus nicht bewerten.
+
+743
+00:53:20,920 --> 00:53:22,680
+Meine große Sorge ist aber,
+
+744
+00:53:22,720 --> 00:53:26,800
+und ich habe mich als Psychologe
+viel mit Gefühlen beschäftigt,
+
+745
+00:53:26,840 --> 00:53:29,920
+gerade die negativen
+Gefühle, hat eine Funktion.
+
+746
+00:53:29,960 --> 00:53:33,800
+Zum Beispiel Einsamkeit, wenn
+ich das fühle, merke ich, hey
+
+747
+00:53:33,840 --> 00:53:37,560
+da stimmt etwas nicht. Vielleicht
+erkenne ich zu sehr an,
+
+748
+00:53:37,600 --> 00:53:41,560
+Pflicht habe ich mich
+zu sehr zurückgezogen.
+
+749
+00:53:41,600 --> 00:53:45,000
+Dann möchte ich mich vielleicht
+mit Menschen treffen,
+
+750
+00:53:45,040 --> 00:53:52,640
+in Interaktion treten, ich brauche
+die Einsamkeit als Gefühl.
+
+751
+00:53:52,680 --> 00:53:54,760
+Sonst fehlt mir dieser Stuppser.
+
+752
+00:53:54,800 --> 00:54:00,520
+Aber Menschen sagen dann vielleicht
+mit der KI ist das viel einfacher.
+
+753
+00:54:00,560 --> 00:54:05,040
+Ich kann einfach online gehen.
+
+754
+00:54:05,080 --> 00:54:09,400
+Es gab eine Untersuchung in Stanford,
+sie wurden gefragt,
+
+755
+00:54:09,440 --> 00:54:11,720
+wie empathisch glaubte sind andere.
+
+756
+00:54:11,760 --> 00:54:17,840
+Menschen schätzen anderem als
+weniger empathisch ein, als sie sind.
+
+757
+00:54:17,880 --> 00:54:28,960
+Die Menschen, die andere für weniger
+empathisch halten, isolieren sich.
+
+758
+00:54:29,000 --> 00:54:37,600
+Sie haben ihnen kleine Stupser,
+gegeben, zum Beispiel übers Handy.
+
+759
+00:54:37,640 --> 00:54:41,440
+Sie konnten wir zeigen,
+dieser Gap schließt sich langsam.
+
+760
+00:54:41,480 --> 00:54:44,320
+Dieses Einsamkeitsgefüge
+doch wieder runter.
+
+761
+00:54:44,360 --> 00:54:47,200
+Das war total wertvoll.
+
+762
+00:54:47,240 --> 00:54:52,840
+Ich habe so oft das Gefühl,
+wissen so entzweit,
+
+763
+00:54:52,880 --> 00:55:00,600
+ich frage lieber einen guten Freund,
+als ChatGPT.
+
+764
+00:55:00,640 --> 00:55:16,720
+- Wenig Widerstand?
+
+765
+00:55:16,760 --> 00:55:19,320
+- Ich glaube,
+dass eine ist natürlich,
+
+766
+00:55:19,360 --> 00:55:22,200
+es ist eine Verführung
+zu Reibungslosigkeit.
+
+767
+00:55:22,240 --> 00:55:25,000
+Man bekommt das gesagt,
+was man gerne hört.
+
+768
+00:55:25,040 --> 00:55:27,920
+Und andere Menschen haben
+einen eigenen Kopf.
+
+769
+00:55:27,960 --> 00:55:31,520
+Worüber wir noch gar nicht
+geredet haben ist natürlich,
+
+770
+00:55:31,560 --> 00:55:36,320
+die Geschäftsmodelle, die da drunter
+liegen. Irgendwer muss das bezahlen,
+
+771
+00:55:36,360 --> 00:55:40,320
+die Systeme werden entwickelt.
+Meistens gibt es zwei Modelle,
+
+772
+00:55:40,360 --> 00:55:42,640
+ein Abo oder ich bezahle mit Daten.
+
+773
+00:55:42,680 --> 00:55:46,640
+In beiden Fällen gibt es
+eine Anreizstruktur der Unternehmen.
+
+774
+00:55:46,680 --> 00:55:50,880
+Man soll gebunden werden daran,
+viel Zeit darauf verbringen.
+
+775
+00:55:50,920 --> 00:55:57,600
+Deswegen hat Zuckerberg gesagt,
+wir brauchen alle KI-Freunde.
+
+776
+00:55:57,640 --> 00:56:01,960
+Aus rein ökonomischen Logik ergibt
+sich, die Systeme so zu bauen,
+
+777
+00:56:02,000 --> 00:56:04,240
+dass sie ein möglichst reinziehen.
+
+778
+00:56:04,280 --> 00:56:09,480
+Wir haben noch nicht viel geredet
+über die KI Blase, und darüber,
+
+779
+00:56:09,520 --> 00:56:31,840
+wo das Geld herkommen soll,
+dass da rein gebootet wird.
+
+780
+00:56:31,880 --> 00:56:35,600
+Die Frage ist, wenn ChatGPT
+mein Tor zu Onlinewelt ist,
+
+781
+00:56:35,640 --> 00:56:38,120
+dann muss ich genau
+zum monetarisieren,
+
+782
+00:56:38,160 --> 00:56:41,720
+wie andere war
+werbefinanzierte Dienste.
+
+783
+00:56:41,760 --> 00:56:45,520
+- Wenn mir der Chatbot zwar,
+bitte tragt das nicht mehr,
+
+784
+00:56:45,560 --> 00:56:49,080
+kaufte lieber das andere T-Shirt,
+dass ist viel besser.
+
+785
+00:56:49,120 --> 00:56:50,640
+Diese Marke und sowas...
+
+786
+00:56:50,680 --> 00:56:54,600
+- Ich würde grundsätzlich immer
+versuchen zu differenzieren,
+
+787
+00:56:54,640 --> 00:56:57,400
+den Fokus nicht
+noch das Negative zu legen.
+
+788
+00:56:57,440 --> 00:57:01,000
+Das hast du ja gerade auch
+mit dem jungen Mann gezeigt,
+
+789
+00:57:01,040 --> 00:57:05,360
+das kann sinnvoll sein. Ich glaube
+diese Abwägung fehlt im Moment.
+
+790
+00:57:05,400 --> 00:57:15,240
+Es wird viel Angstdiskussion geführt.
+
+791
+00:57:15,280 --> 00:57:18,520
+Ich glaube, wir müssen es
+differenziert abwägen,
+
+792
+00:57:18,560 --> 00:57:20,440
+dass ist unsere Verantwortung.
+
+793
+00:57:20,480 --> 00:57:24,600
+Eine junge Generation hat sich
+geschlossen entschieden Chatbots
+
+794
+00:57:24,640 --> 00:57:26,560
+in das eigene Leben zu lassen,
+
+795
+00:57:26,600 --> 00:57:30,120
+und wir müssen von paar
+sozialen Beziehungen sprechen.
+
+796
+00:57:30,160 --> 00:57:32,720
+Das fängt schon
+vor dem Verliebtsein an.
+
+797
+00:57:32,760 --> 00:57:35,320
+Ich habe letztens
+ein Gespräch überhört.
+
+798
+00:57:35,360 --> 00:57:41,480
+Es waren zwei sehr junge Menschen,
+so 16-17 Jahre.
+
+799
+00:57:41,520 --> 00:58:00,160
+Beide haben den Chatbot
+mit Chatty abgekürzt.
+
+800
+00:58:00,200 --> 00:58:04,400
+Ich hab bei meinem Chatty jetzt
+zum Beispiel einen Chat-Verlauf
+
+801
+00:58:04,440 --> 00:58:07,360
+von einer Person,
+an der man interessiert es,
+
+802
+00:58:07,400 --> 00:58:11,000
+dass hoch zu laden und zu fragen,
+was bedeutet das denn.
+
+803
+00:58:11,040 --> 00:58:14,000
+Das sind Erlebnisse
+einer jüngeren Generation,
+
+804
+00:58:14,040 --> 00:58:15,560
+die dazu geführt haben,
+
+805
+00:58:15,600 --> 00:58:19,200
+dass bei sehr vielen Menschen
+so selbstverständlich ist.
+
+806
+00:58:19,240 --> 00:58:22,440
+Mir kommen die meisten
+von diesen Chat-Beziehungen
+
+807
+00:58:22,480 --> 00:58:24,960
+von jungen Menschen eher positiv vor.
+
+808
+00:58:25,000 --> 00:58:27,920
+Das katastrophale Dinge passieren,
+das stimmt,
+
+809
+00:58:27,960 --> 00:58:30,880
+aber ich finde es
+zu einfach und zu abwertend
+
+810
+00:58:30,920 --> 00:58:35,560
+gegenüber einer ganzen Generation,
+wenn man sagt, das was ihr da macht,
+
+811
+00:58:35,600 --> 00:58:38,720
+das führt zu einer Katastrophe.
+Ich glaube nicht,
+
+812
+00:58:38,760 --> 00:58:44,320
+dass das gerechtfertigt ist.
+
+813
+00:58:44,360 --> 00:58:47,920
+- Dass das den Bach runter geht,
+das sagen wir nicht.
+
+814
+00:58:47,960 --> 00:58:50,800
+Aber dass sie manipuliert werden,
+das stimmt wohl.
+
+815
+00:58:50,840 --> 00:58:53,080
+Ich erinnere mich an ein Gespräch,
+
+816
+00:58:53,120 --> 00:58:55,720
+mit einem Entwickler
+vor ein paar Jahren.
+
+817
+00:58:55,760 --> 00:58:59,480
+Jemand der sehr viel Geld
+in diesem Bereich verdient hat.
+
+818
+00:58:59,520 --> 00:59:02,800
+Ein junger Mann, er sagte,
+er stellt durch das vor,
+
+819
+00:59:02,840 --> 00:59:05,800
+da sitzen so ein paar
+kreative Köpfe zusammen,
+
+820
+00:59:05,840 --> 00:59:09,560
+wir denken uns lustige Sachen aus,
+dann kommen neue Apps.
+
+821
+00:59:09,600 --> 00:59:12,120
+Die eine funktioniert,
+die andere nicht.
+
+822
+00:59:12,160 --> 00:59:14,520
+Und es ist einfach lustig und spart.
+
+823
+00:59:14,560 --> 00:59:19,280
+Die Wahrheit ist aber, wie Setzung
+zusammen mit Psychologen, Neurologen,
+
+824
+00:59:19,320 --> 00:59:23,520
+mit Menschen, die verstehen,
+wie Belohnungssysteme funktionieren.
+
+825
+00:59:23,560 --> 00:59:28,400
+Genauso bauen wir das Ding. Deswegen
+auch Manipulation, Abhängigkeit.
+
+826
+00:59:28,440 --> 00:59:41,080
+Das was der Mann auch gesagt hat,
+ich logge mich nicht mehr aus.
+
+827
+00:59:41,120 --> 00:59:45,000
+Halte den so lang wie möglich dran,
+denn je länger er das,
+
+828
+00:59:45,040 --> 00:59:56,080
+desto besser kannst du verkaufen.
+
+829
+00:59:56,120 --> 00:59:58,640
+- Desto mehr kann
+ich denen verkaufen,
+
+830
+00:59:58,680 --> 01:00:05,680
+desto mehr Werbung kann ich zeigen.
+
+831
+01:00:05,720 --> 01:00:09,120
+Wir müssen Respekt haben
+vor der jungen Generation,
+
+832
+01:00:09,160 --> 01:00:12,120
+anerkennen, dass sich
+Dinge weiter entwickeln.
+
+833
+01:00:12,160 --> 01:00:16,280
+Die Welt ging schon oft unter.
+Auch diese grundsätzliche Angst,
+
+834
+01:00:16,320 --> 01:00:22,640
+wir müssten Chancen sehen,
+
+835
+01:00:22,680 --> 01:00:27,480
+meine Mutter ist jetzt Mitte 60, geht
+natürlich zur Brustkrebs Vorsorge.
+
+836
+01:00:27,520 --> 01:00:31,600
+Wenn eine KI so einbezieht, die ist
+nicht platt wie die Ärzte,+
+
+837
+01:00:31,640 --> 01:00:34,960
+nach langen Schichten.
+
+838
+01:00:35,000 --> 01:00:37,520
+Eine KI kann ganz
+andere Muster finden.
+
+839
+01:00:37,560 --> 01:00:41,960
+Da würde ich mir für meine Mutter
+wünschen, dass sowas genutzt wird.
+
+840
+01:00:42,000 --> 01:00:45,160
+Wir können das nicht als
+nette Spielerei abtun.
+
+841
+01:00:45,200 --> 01:00:49,160
+- Lass uns noch einen Moment
+bei den jungen Leuten bleiben,
+
+842
+01:00:49,200 --> 01:00:52,240
+Sascha Lobo hat Kinder,
+es ist immer die Frage,
+
+843
+01:00:52,280 --> 01:00:54,560
+in welcher Welt wachsen sie hinein.
+
+844
+01:00:54,600 --> 01:00:59,320
+Die Australier gehen
+einen anderen Weg:
+
+845
+01:00:59,360 --> 01:01:04,480
+- Die Aufsichtsbehörde
+für Onlinesicherheit hat Facebook,
+
+846
+01:01:04,520 --> 01:01:05,440
+Instagram,
+
+847
+01:01:05,480 --> 01:01:08,840
+YouTube und andere Plattformen
+als altersbeschränkte
+
+848
+01:01:08,880 --> 01:01:11,200
+Plattform eingestuft. Das bedeutet,
+
+849
+01:01:11,240 --> 01:01:15,400
+dass diese Dienste bald angemessenen
+Maßnahmen ergreifen müssen,
+
+850
+01:01:15,440 --> 01:01:18,760
+um zu verhindern,
+
+851
+01:01:18,800 --> 01:01:21,160
+dass unter 16-jährige Profile haben.
+
+852
+01:01:21,200 --> 01:01:25,080
+Anleihenplattformen
+nutzen Technologien,
+
+853
+01:01:25,120 --> 01:01:29,360
+um Kinder zu beeinflussen.
+
+854
+01:01:29,400 --> 01:01:33,080
+Wir verlangen, dass dieselbe
+Technologie eingesetzt wird,
+
+855
+01:01:33,120 --> 01:01:34,720
+um Kinder zu schützen.
+
+856
+01:01:34,760 --> 01:01:37,880
+Wir streben nach einer spürbaren
+Verbesserung,
+
+857
+01:01:37,920 --> 01:01:42,200
+nicht nach Perfektion.
+
+858
+01:01:42,240 --> 01:01:45,280
+Es ist zu wichtig, es
+nicht zu versuchen.
+
+859
+01:01:45,320 --> 01:01:48,840
+- Mich würde die Meinung
+in der Runde interessieren.
+
+860
+01:01:48,880 --> 01:01:52,280
+- Ich würde kurz auf die Dopamin
+Geschichte eingehen,
+
+861
+01:01:52,320 --> 01:01:54,960
+das hat doch
+mit den Jugendlichen zu tun,
+
+862
+01:01:55,000 --> 01:01:59,000
+diese Gespräche, die müssen
+von alleine immer extremer werden,
+
+863
+01:01:59,040 --> 01:02:05,200
+damit man als Mensch weiterhin
+interessiert bleibt.
+
+864
+01:02:05,240 --> 01:02:08,200
+Deswegen bin ich sehr
+viel skeptischer als du.
+
+865
+01:02:08,240 --> 01:02:11,560
+Wenn ein Gespräch in die falsche
+Richtung abbiegen,
+
+866
+01:02:11,600 --> 01:02:15,880
+schauen wir uns die Menschen an,
+die unfreiwillig im Zölibat sind.
+
+867
+01:02:15,920 --> 01:02:19,680
+Dazu gehören auch junge Menschen.
+
+868
+01:02:19,720 --> 01:02:22,800
+Wenn sie dann sagen, Artti
+möchte einfach nicht,
+
+869
+01:02:22,840 --> 01:02:26,680
+dann bestätigt die Maschine
+das, dann ist man einem Dialog,
+
+870
+01:02:26,720 --> 01:02:28,800
+man muss immer radikaler werden,
+
+871
+01:02:28,840 --> 01:02:33,200
+damit ein Mensch immer weiter
+dem Beitrag zu seinem Dialog leistet.
+
+872
+01:02:33,240 --> 01:02:37,000
+Diese Art der Struktur, das haben
+wir bei YouTube gesehen,
+
+873
+01:02:37,040 --> 01:02:38,680
+es wurde immer radikaler.
+
+874
+01:02:38,720 --> 01:02:40,840
+Es sind selbsterzeugende Systeme,
+
+875
+01:02:40,880 --> 01:02:44,000
+die beständig
+in meinem Studiengang untersuchen.
+
+876
+01:02:44,040 --> 01:02:54,320
+Deswegen bin ich nicht
+so optimistisch.
+
+877
+01:02:54,360 --> 01:03:19,920
+- Das mal auf eine Metaebene ziehen.
+
+878
+01:03:19,960 --> 01:03:24,000
+Das Gesetz in Australien ist
+die direkte Folge eines Verbots
+
+879
+01:03:24,040 --> 01:03:26,440
+sozialer Medien
+für Menschen unter 16.
+
+880
+01:03:26,480 --> 01:03:29,320
+Aus meiner Perspektive
+ist nahezu perverser,
+
+881
+01:03:29,360 --> 01:03:32,440
+wir müssen Jugendliche
+viel präziser regulieren.
+
+882
+01:03:32,480 --> 01:03:36,840
+Ich empfehle darüber geschrieben,
+wie manipulativ TikTok sein kann.
+
+883
+01:03:36,880 --> 01:03:41,440
+Enthaltsamkeit ist selten ein Weg,
+um den Umgang mit Dingen zu lernen.
+
+884
+01:03:41,480 --> 01:03:44,400
+Am Ende ist das, was die Leute
+im Kopf haben,
+
+885
+01:03:44,440 --> 01:03:48,320
+wie man mit Dingen umgehen kann,
+das ist der einzige Schutz.
+
+886
+01:03:48,360 --> 01:03:51,120
+In Australien, das ist
+gut nachvollziehbar,
+
+887
+01:03:51,160 --> 01:03:55,600
+wir haben die jungen Menschen,
+die heute 15, 16,13 sind meinetwegen,
+
+888
+01:03:55,640 --> 01:03:59,600
+wir haben sie in eine Welt gesetzt,
+in der Konflikte da sind,
+
+889
+01:03:59,640 --> 01:04:03,320
+Krieg herrscht, Konflikte da sind.
+Wir projezieren alles,
+
+890
+01:04:03,360 --> 01:04:07,040
+was komisch oder schief ist
+auf die aktuelle Technologie,
+
+891
+01:04:07,080 --> 01:04:09,200
+die sie gerade nutzen.
+
+892
+01:04:09,240 --> 01:04:11,640
+Das halte ich für wenig konstruktiv.
+
+893
+01:04:11,680 --> 01:04:15,080
+Ein Verbot für unter 16-jährige,
+ist eine Projektion.
+
+894
+01:04:15,120 --> 01:04:24,240
+Das Problem ist viel vielschichtiger.
+
+895
+01:04:24,280 --> 01:04:35,200
+- Wo sollen Daumenschrauben
+angelegt werden?
+
+896
+01:04:35,240 --> 01:04:44,160
+- Die großen Plattformen haben sich
+sehr erfolgreich dagegen gewehrt,
+
+897
+01:04:44,200 --> 01:04:48,560
+bestimmte Jugendschutzmaßnahmen
+einzurichten.
+
+898
+01:04:48,600 --> 01:04:53,320
+Sie haben sich dagegen gewehrt, dass
+bestimmte Altersverifikationsmuster,
+
+899
+01:04:53,360 --> 01:05:02,480
+was die Inhalte angeht, da sind
+sie alles andere als offen.
+
+900
+01:05:02,520 --> 01:05:05,760
+Welche Instrumente nutzen Sie,
+Verhaltensweisen,
+
+901
+01:05:05,800 --> 01:05:08,720
+die man versuchen kann
+digital zu provozieren,
+
+902
+01:05:08,760 --> 01:05:12,080
+da sind sie plötzlich
+sehr verschlossen.
+
+903
+01:05:12,120 --> 01:05:16,920
+- In welche Richtung geht das, wenn
+man sagt, man manipuliert Verhalten,
+
+904
+01:05:16,960 --> 01:05:36,360
+worüber reden wir?
+
+905
+01:05:36,400 --> 01:05:38,120
+- Wenn wir darüber reden,
+
+906
+01:05:38,160 --> 01:05:43,080
+die erfolgreichste Plattform
+der Jugendlichen ist TikTok.
+
+907
+01:05:43,120 --> 01:05:46,120
+Die App, animiert zu Verweildauer.
+
+908
+01:05:46,160 --> 01:05:49,080
+Das kann man messen,
+aber das wird ignoriert.
+
+909
+01:05:49,120 --> 01:05:53,600
+Das einzige, was zählt ist, wie lange
+bleibt die Person auf der App.
+
+910
+01:05:53,640 --> 01:05:57,200
+Man könnte über diese Punkte
+sprechen, aber ich glaube,
+
+911
+01:05:57,240 --> 01:06:00,360
+dass es falsch ist,
+zu sagen, wir verbieten das.
+
+912
+01:06:00,400 --> 01:06:04,600
+Smartphones nur noch für Leute
+über 27, das halte ich für falsch.
+
+913
+01:06:04,640 --> 01:06:08,640
+Die jungen Menschen werden
+das trotzdem benutzen,
+
+914
+01:06:08,680 --> 01:06:11,600
+dann wird es gar nicht
+mehr kontrolliert,
+
+915
+01:06:11,640 --> 01:06:14,200
+das ist für mich
+die viel größere Sorge.
+
+916
+01:06:14,240 --> 01:06:17,800
+Dass sie eine Generation
+verlieren in die Heimlichkeit,
+
+917
+01:06:17,840 --> 01:06:20,160
+wo es andere Instrumente
+geben müsste.
+
+918
+01:06:20,200 --> 01:06:25,120
+- Einmal noch der Reihe nach,
+was sagen Sie zu Australien?
+
+919
+01:06:25,160 --> 01:06:29,360
+- Ja, schwierig, vielleicht
+noch mal zu manipulieren Verhalten,
+
+920
+01:06:29,400 --> 01:06:30,760
+es gab Dokumente,
+
+921
+01:06:30,800 --> 01:06:38,240
+die gezeigt haben, dass bei Mädchen
+darauf geachtet wurde,
+
+922
+01:06:38,280 --> 01:06:41,280
+ob die sich gerade
+wohlfühlen mit ihrem Körper.
+
+923
+01:06:41,320 --> 01:06:44,920
+Man kann Diätprodukte bewerben,
+oder andere Produkte,
+
+924
+01:06:44,960 --> 01:06:47,640
+die den Körper vermeintlich
+besser machen.
+
+925
+01:06:47,680 --> 01:06:51,880
+So etwas muss auf jeden Fall
+verboten werden, ich stimme dir zu,
+
+926
+01:06:51,920 --> 01:06:53,840
+was kleinteiligeres wäre gut.
+
+927
+01:06:53,880 --> 01:06:57,920
+Wenn wir es für unter 16-jährige
+verbieten, heißt das nicht,
+
+928
+01:06:57,960 --> 01:07:00,840
+dass man das entschuldigt
+doch benutzen kann.
+
+929
+01:07:00,880 --> 01:07:04,960
+Wie viele Kinder werden völlig
+alleingelassen mit Social Media,
+
+930
+01:07:05,000 --> 01:07:10,480
+da sind keine Eltern,
+die mal drüber schauen.
+
+931
+01:07:10,520 --> 01:07:15,120
+- Wenn man redet mit Schulleitern,
+das haben wir ausführlich gemacht,
+
+932
+01:07:15,160 --> 01:07:20,520
+wie ist das bei Ihnen?
+
+933
+01:07:20,560 --> 01:07:24,440
+- Ich bin in einer Kommission
+für Kinder- und Jugendschutz
+
+934
+01:07:24,480 --> 01:07:27,400
+in der digitalen Welt. Das Problem
+erst auf der einen Seite,
+
+935
+01:07:27,440 --> 01:07:31,120
+da stimme ich auch zu, muss
+im Grunde genommen erst mal schauen,
+
+936
+01:07:31,160 --> 01:07:33,880
+wie kann man die Technologien
+so verändern,
+
+937
+01:07:33,920 --> 01:07:36,560
+die Lösung ist momentan,
+wir haben etwas,
+
+938
+01:07:36,600 --> 01:07:40,360
+das finden Menschen total anziehend.
+
+939
+01:07:40,400 --> 01:07:44,680
+Die verbieten den Zugang, das kann
+er nicht der richtige Weg sein,
+
+940
+01:07:44,720 --> 01:07:48,240
+könnte man vielleicht eher schauen,
+man kann sie anders designen.
+
+941
+01:07:48,280 --> 01:07:51,680
+Dass man Vorgaben
+an diese Plattform Betreiber macht,
+
+942
+01:07:51,720 --> 01:07:53,760
+diese Technologien anders zu bauen,
+
+943
+01:07:53,800 --> 01:07:56,560
+andere Versionen frei
+zugänglich zu machen.
+
+944
+01:07:56,600 --> 01:08:00,480
+Wir haben immer das Problem,
+während Kinder und Jugendliche,
+
+945
+01:08:00,520 --> 01:08:03,240
+während Erwachsene,
+also die Feststellung.
+
+946
+01:08:03,280 --> 01:08:07,000
+Welche Dinge wollen wir verändern?
+Sucht und Materialien,
+
+947
+01:08:07,040 --> 01:08:10,200
+wie Pornographie, Gewalt,
+wie verhindert man das?
+
+948
+01:08:10,240 --> 01:08:12,760
+Wir wollen eine Verifikation
+des Alters,
+
+949
+01:08:12,800 --> 01:08:17,040
+aber sie brauchen auch Erwachsene,
+die sagen, wir sind kein Kind.
+
+950
+01:08:17,080 --> 01:08:20,200
+Dann ist die Frage, wollen
+sich Leute einloggen.
+
+951
+01:08:20,240 --> 01:08:23,560
+Man muss das mit bestimmten
+Mitteln umsetzen können,
+
+952
+01:08:23,600 --> 01:08:25,760
+und wie effektiv ist das am Ende?
+
+953
+01:08:25,800 --> 01:08:28,240
+Was sind die möglichen
+Nebenwirkungen?
+
+954
+01:08:28,280 --> 01:08:34,440
+Ich glaube es gibt
+keine einfachen Antworten.
+
+955
+01:08:34,480 --> 01:08:37,080
+Was muss man
+auf der Bedarfsseite ändern,
+
+956
+01:08:37,120 --> 01:08:39,680
+damit kein Suchtverhalten entsteht.
+
+957
+01:08:39,720 --> 01:08:43,120
+Damit man Menschen nicht
+Weg zehrt von Technologien,
+
+958
+01:08:43,160 --> 01:08:50,200
+die sie unbedingt haben wollen.
+
+959
+01:08:50,240 --> 01:08:53,080
+Es gibt einen Riesenbericht
+in Australien,
+
+960
+01:08:53,120 --> 01:08:55,200
+was sie technisch machen wollen,
+
+961
+01:08:55,240 --> 01:08:57,960
+keine von diesen
+Verifikationstechnologien
+
+962
+01:08:58,000 --> 01:09:00,760
+es gesetzeskonform.
+
+963
+01:09:00,800 --> 01:09:04,360
+- Ja, sie hatte offenbar
+selber Zweifel.
+
+964
+01:09:04,400 --> 01:09:10,080
+Sie sagte, es sei zu wichtig, um es
+nicht zumindest zu versuchen.
+
+965
+01:09:10,120 --> 01:09:13,160
+- Zu der Umsetzung kann
+ich nicht viel sagen,
+
+966
+01:09:13,200 --> 01:09:15,760
+ich kann mich nicht
+mit Technologie aus.
+
+967
+01:09:15,800 --> 01:09:19,920
+Um das klar zu sagen, ich wäre
+noch strenger, als die Nordrhein,
+
+968
+01:09:19,960 --> 01:09:23,280
+man kann sehr viel über die jungen
+Menschen wissen,
+
+969
+01:09:23,320 --> 01:09:24,960
+dass wird ausgenutzt.
+
+970
+01:09:25,000 --> 01:09:29,360
+Ich finde immer, dass eine ist,
+was ich da rede, was beworben wird,
+
+971
+01:09:29,400 --> 01:09:31,720
+aber es werden Inhalte hochgeladen,
+
+972
+01:09:31,760 --> 01:09:35,000
+wo jede normale Tageszeitung
+verklagt werden würde.
+
+973
+01:09:35,040 --> 01:09:37,880
+Das ist menschenverachtend,
+Volksverhetzung,
+
+974
+01:09:37,920 --> 01:09:41,760
+eine Freundin geht von mir durch
+die Innenstadt Düsseldorf,
+
+975
+01:09:41,800 --> 01:09:48,680
+ein Mann geht an ihr vorbei
+mit dieser neuen Meta-Brille,
+
+976
+01:09:48,720 --> 01:10:01,200
+Helltier eine Banane hin,
+fragt ob sie lecken möchte.
+
+977
+01:10:01,240 --> 01:10:04,560
+Denkst du, sie könnte einfach sagen,
+dass bin ich?
+
+978
+01:10:04,600 --> 01:10:08,880
+Jetzt hat sie ein Riesenproblem,
+dieses Video wieder loszuwerden.
+
+979
+01:10:08,920 --> 01:10:13,320
+Da kann ich doch nicht hingehen,
+sagen, ja Technologie Offenheit,
+
+980
+01:10:13,360 --> 01:10:14,760
+es hat viele Vorteile.
+
+981
+01:10:14,800 --> 01:10:18,880
+Es ist etwas, was sie haben wollen,
+es hilft an vielen Stellen,
+
+982
+01:10:18,920 --> 01:10:21,040
+aber ich muss doch radikal sein,
+
+983
+01:10:21,080 --> 01:10:29,000
+ihr Verstoß jeden Moment
+gegen Gesetze, die wir haben.
+
+984
+01:10:29,040 --> 01:10:32,960
+Immer Volksverhetzung, Inhalte,
+Anorexie, so viele Themen,
+
+985
+01:10:33,000 --> 01:10:38,280
+es werden immer wieder
+Hashtags gesperrt.
+
+986
+01:10:38,320 --> 01:10:40,720
+- Was ist mit Filtern zum Beispiel?
+
+987
+01:10:40,760 --> 01:10:46,400
+Was da noch recht, wenn du dir
+Körper und Gesichter anschaust.
+
+988
+01:10:46,440 --> 01:10:49,360
+- Das Körperbild,
+das einem entstehen muss,
+
+989
+01:10:49,400 --> 01:10:52,360
+der die ganze Zeit
+optimierte Versionen sieht.
+
+990
+01:10:52,400 --> 01:10:56,000
+Ich denke oft, wir wissen oft
+seit mehreren 1000 Jahren,
+
+991
+01:10:56,040 --> 01:10:59,680
+dass das Patriarchat,
+was auf dem Frauenkörper rumhackt,
+
+992
+01:10:59,720 --> 01:11:03,000
+es gibt enge Schönheitsvorgaben,
+das tut nicht gut.
+
+993
+01:11:03,040 --> 01:11:05,480
+Auch für die Dokureihe,
+die ich mache,
+
+994
+01:11:05,520 --> 01:11:09,280
+hatte ich letztens eine komplette
+Folge mit jungen Männern
+
+995
+01:11:09,320 --> 01:11:11,080
+zu Schönheitsideal gemacht.
+
+996
+01:11:11,120 --> 01:11:14,400
+Anstatt, dass wir erkannt haben,
+dass dieser Druck,
+
+997
+01:11:14,440 --> 01:11:16,280
+der weggenommen werden muss,
+
+998
+01:11:16,320 --> 01:11:21,400
+aber stattdessen schrauben wir
+den noch bei den jungen Männern hoch.
+
+999
+01:11:21,440 --> 01:11:25,360
+Es gibt zum Beispiel
+ein Werbeverbot von SchönheitsoPs.
+
+1000
+01:11:25,400 --> 01:11:32,040
+Wenn man danach sieht,
+wie schön es ist.
+
+1001
+01:11:32,080 --> 01:11:45,400
+Auf Social Media sehe
+ich das die ganze Zeit.
+
+1002
+01:11:45,440 --> 01:11:48,080
+Wenn sich die Männer
+mit der Stirnwand,
+
+1003
+01:11:48,120 --> 01:11:55,560
+plötzlich haben sie volles
+Haar, dann dachte ich mir,
+
+1004
+01:11:55,600 --> 01:12:08,320
+die Kollegin in der Maske hat gesagt,
+du brauchst noch kein Schütt-Haar.
+
+1005
+01:12:08,360 --> 01:12:11,200
+- Ich möchte lösen.
+
+1006
+01:12:11,240 --> 01:12:29,040
+Tatsächlich könnten wir
+den Bogen ins positive schaffen.
+
+1007
+01:12:29,080 --> 01:12:32,480
+Ich sehe, dass bei sozialen
+Medien viele Magen ist.
+
+1008
+01:12:32,520 --> 01:12:34,880
+Wir haben mit großen Sprachmodellen,
+
+1009
+01:12:34,920 --> 01:12:37,800
+mit künstlichen Intelligenz
+in eine Technologie,
+
+1010
+01:12:37,840 --> 01:12:41,360
+die erstmals in relevantem
+Maße Inhalt verstehen kann.
+
+1011
+01:12:41,400 --> 01:12:45,560
+Das hat gar nicht so schlecht
+geklappt, das zeigt die Forschung.
+
+1012
+01:12:45,600 --> 01:12:46,800
+Mit herausgefunden,
+
+1013
+01:12:46,840 --> 01:12:51,560
+dass sie mit hoher Wahrscheinlichkeit
+instabile Menschen erkennen können
+
+1014
+01:12:51,600 --> 01:12:53,520
+und haben dann versucht,
+
+1015
+01:12:53,560 --> 01:12:57,280
+nur Tests, Hilfe zu holen,
+wenn Anzeichen erkannt wurden,
+
+1016
+01:12:57,320 --> 01:12:59,880
+dass eine Gefährdungssituation
+vorliegt.
+
+1017
+01:12:59,920 --> 01:13:03,120
+Es gibt mehrere Ebenen,
+zum Beispiel bei Chat GPT,
+
+1018
+01:13:03,160 --> 01:13:07,680
+wo Strafverfolgungsbehörden
+informiert werden können.
+
+1019
+01:13:07,720 --> 01:13:11,880
+Ich glaube nicht, dass sie anfangen
+müssen, alles zu überwachen,
+
+1020
+01:13:11,920 --> 01:13:14,880
+KI kann bei jungen Menschen
+Schaden anrichten,
+
+1021
+01:13:14,920 --> 01:13:17,560
+aber vielleicht können
+wir eine KI bauen,
+
+1022
+01:13:17,600 --> 01:13:21,520
+dass junge Menschen die positiven
+Anteile davon nutzen kann.
+
+1023
+01:13:21,560 --> 01:13:25,760
+Vielleicht ginge das ja, wir haben
+eine ganze Reihe von Ansätzen,
+
+1024
+01:13:25,800 --> 01:13:30,120
+dass man graduell verbessern kann,
+was rauskommt.
+
+1025
+01:13:30,160 --> 01:13:34,200
+- Geht es aber ums große
+Geld, es geht um Profit.
+
+1026
+01:13:34,240 --> 01:13:46,520
+Es gibt kein anderes Anliegen,
+das einzige Anliegen ist Geld.
+
+1027
+01:13:46,560 --> 01:13:51,840
+- Ich weiß nicht, ob es das einzige
+ist, aber es ist das wichtigste.
+
+1028
+01:13:51,880 --> 01:13:53,400
+- Und das Problem ist,
+
+1029
+01:13:53,440 --> 01:13:56,000
+diese Technologie wird
+das nicht können,
+
+1030
+01:13:56,040 --> 01:13:58,560
+was Sascha sich gerade
+vorgestellt hat,
+
+1031
+01:13:58,600 --> 01:14:01,040
+Sprachmodelle können nicht verstehen.
+
+1032
+01:14:01,080 --> 01:14:03,960
+Sie haben ein Gefühl dafür,
+eine Assoziation.
+
+1033
+01:14:04,000 --> 01:14:06,880
+Welches Wort in welchem Kontext
+sinnvoll ist.
+
+1034
+01:14:06,920 --> 01:14:10,360
+Dieser Sprachmodelle werden
+immer manipulierbar sein.
+
+1035
+01:14:10,400 --> 01:14:18,440
+Wir haben ein Grund, warum wir
+Programmiersprachen entwickelt haben.
+
+1036
+01:14:18,480 --> 01:14:21,840
+Wir können dem Programm genau sagen,
+was wir wollen,
+
+1037
+01:14:21,880 --> 01:14:24,960
+jetzt versuchen wir
+aber mit natürlicher Sprache
+
+1038
+01:14:25,000 --> 01:14:27,920
+den Computer als
+assoziatives denkendes Wesen
+
+1039
+01:14:27,960 --> 01:14:32,000
+in einem Richtung zu treiben,
+dass es das richtige sagen möge,
+
+1040
+01:14:32,040 --> 01:14:35,640
+diese Technologie werden wir
+nicht sicher machen können.
+
+1041
+01:14:35,680 --> 01:14:40,000
+Vielleicht gibt es eine andere,
+aber nicht diese Technologie.
+
+1042
+01:14:40,040 --> 01:14:46,280
+- So weit, so negativ. Letzter Satz.
+
+1043
+01:14:46,320 --> 01:14:49,360
+- Ich glaube Geld
+für das richtige Stichwort,
+
+1044
+01:14:49,400 --> 01:14:51,160
+aber es geht auch um Macht.
+
+1045
+01:14:51,200 --> 01:14:55,280
+Wir hatten häufig das Bild
+der Antrittsrede von Trump - es gibt
+
+1046
+01:14:55,320 --> 01:14:58,640
+Visionen dahinter, wie man
+Leute manipulieren kann,
+
+1047
+01:14:58,680 --> 01:15:00,200
+von vielen Unternehmern.
+
+1048
+01:15:00,240 --> 01:15:01,920
+Das ganze Silicon Valley,
+
+1049
+01:15:01,960 --> 01:15:05,080
+Menschen sind umgefallen
+wie die Heinzelmännchen,
+
+1050
+01:15:05,120 --> 01:15:10,240
+als Trump an die Macht gekommen ist.
+
+1051
+01:15:10,280 --> 01:15:13,160
+Die Frage ist, welche Macht
+man ausüben kann,
+
+1052
+01:15:13,200 --> 01:15:16,400
+wenn man vereinzelt Leute
+am Laptop sitzen,
+
+1053
+01:15:16,440 --> 01:15:20,160
+die keine Freunde haben,
+nicht demonstrieren gehen.
+
+1054
+01:15:20,200 --> 01:15:24,440
+- Das ist exakt die Diskussion,
+die es in Amerika gerade gibt.
+
+1055
+01:15:24,480 --> 01:15:27,200
+Insbesondere
+auf psychologischer Ebene.
+
+1056
+01:15:27,240 --> 01:15:32,320
+Wir sind leider schon durch,
+ich habe heute viel gelernt,
+
+1057
+01:15:32,360 --> 01:15:34,440
+danke ganz herzlich,
+bis morgen.
+
