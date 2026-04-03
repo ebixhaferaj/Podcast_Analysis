@@ -1,3 +1,5 @@
+###Code von Jacob Tunger###
+
 import torch
 from datasets import load_dataset
 from transformers import pipeline

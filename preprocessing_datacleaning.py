@@ -1,3 +1,5 @@
+###Code von Jacob Tunger###
+
 import os
 import re
 import json

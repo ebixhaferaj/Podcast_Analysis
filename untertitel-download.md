@@ -1,4 +1,4 @@
-# Untertitel-Download 
+# Untertitel-Download von Jacob Tunger
 
 Dieses Skript lädt automatisch deutsche Untertitel (`.srt`) von den wichtigsten politischen Talkshows in der ZDF- und ARD-Mediathek herunter.
 

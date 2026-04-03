@@ -1,3 +1,5 @@
+###Code von Jacob Tunger###
+
 import json
 import re
 import os
@@ -135,7 +137,6 @@ def main():
         if freq:
             all_frequencies[cat] = freq
 
-    print("\nFertig! Dateien liegen in:", os.path.abspath(OUTPUT_DIR))
 
 
 if __name__ == "__main__":
